@@ -1,0 +1,1599 @@
+{
+  "exportTimestamp": "2026-06-15T03:52:36.365273+00:00",
+  "data": [
+    {
+      "stops": [
+        {
+          "stopId": 56,
+          "nameEn": "AsiaWorld-Expo",
+          "nameTc": "\u535a\u89bd\u9928",
+          "coordinates": [
+            1.988649714241099,
+            0.3895880151783207,
+            29.0
+          ],
+          "operators": {
+            "MTR": [
+              "AWE"
+            ]
+          }
+        },
+        {
+          "stopId": 47,
+          "nameEn": "Airport",
+          "nameTc": "\u6a5f\u5834",
+          "coordinates": [
+            1.9885667735547845,
+            0.38948622353554113,
+            25.0
+          ],
+          "operators": {
+            "MTR": [
+              "AIR"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 46,
+          "nameEn": "Tsing Yi",
+          "nameTc": "\u9752\u8863",
+          "coordinates": [
+            1.9915477827532142,
+            0.3902276472207801,
+            40.20000076293945
+          ],
+          "operators": {
+            "MTR": [
+              "TSY"
+            ]
+          }
+        },
+        {
+          "stopId": 114,
+          "nameEn": "Tsuen Wan West",
+          "nameTc": "\u8343\u7063\u897f",
+          "coordinates": [
+            1.9915892139321092,
+            0.3904019843283899,
+            34.79999923706055
+          ],
+          "operators": {
+            "MTR": [
+              "TWW"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 45,
+          "nameEn": "Kowloon",
+          "nameTc": "\u4e5d\u9f8d",
+          "coordinates": [
+            1.9924930684306434,
+            0.38928268777367037,
+            34.400001525878906
+          ],
+          "operators": {
+            "MTR": [
+              "KOW"
+            ]
+          }
+        },
+        {
+          "stopId": 65,
+          "nameEn": "Mong Kok East",
+          "nameTc": "\u65fa\u89d2\u6771",
+          "coordinates": [
+            1.992687679963546,
+            0.3895927257439795,
+            53.0
+          ],
+          "operators": {
+            "MTR": [
+              "MKK"
+            ]
+          }
+        },
+        {
+          "stopId": 64,
+          "nameEn": "Hung Hom",
+          "nameTc": "\u7d05\u78e1",
+          "coordinates": [
+            1.9928551230783873,
+            0.38926066469505227,
+            27.299999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "HUH"
+            ]
+          }
+        },
+        {
+          "stopId": 16,
+          "nameEn": "Prince Edward",
+          "nameTc": "\u592a\u5b50",
+          "coordinates": [
+            1.9926124619225478,
+            0.38963449036456704,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "PRE"
+            ]
+          }
+        },
+        {
+          "stopId": 6,
+          "nameEn": "Mong Kok",
+          "nameTc": "\u65fa\u89d2",
+          "coordinates": [
+            1.9926311014636588,
+            0.38954528201211897,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "MOK"
+            ]
+          }
+        },
+        {
+          "stopId": 5,
+          "nameEn": "Yau Ma Tei",
+          "nameTc": "\u6cb9\u9ebb\u5730",
+          "coordinates": [
+            1.9926539755551476,
+            0.3894324315867239,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "YMT"
+            ]
+          }
+        },
+        {
+          "stopId": 84,
+          "nameEn": "Ho Man Tin",
+          "nameTc": "\u4f55\u6587\u7530",
+          "coordinates": [
+            1.9928622294793277,
+            0.3893722575877666,
+            38.29999923706055
+          ],
+          "operators": {
+            "MTR": [
+              "HOM"
+            ]
+          }
+        },
+        {
+          "stopId": 85,
+          "nameEn": "Whampoa",
+          "nameTc": "\u9ec3\u57d4",
+          "coordinates": [
+            1.992988577152462,
+            0.3892923608639077,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "WHA"
+            ]
+          }
+        },
+        {
+          "stopId": 92,
+          "nameEn": "Sung Wong Toi",
+          "nameTc": "\u5b8b\u7687\u81fa",
+          "coordinates": [
+            1.9930022612462939,
+            0.38965566794747725,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SUW"
+            ]
+          }
+        },
+        {
+          "stopId": 93,
+          "nameEn": "To Kwa Wan",
+          "nameTc": "\u571f\u74dc\u7063",
+          "coordinates": [
+            1.9929499187164363,
+            0.38952114464407195,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "TKW"
+            ]
+          }
+        },
+        {
+          "stopId": 111,
+          "nameEn": "Austin",
+          "nameTc": "\u67ef\u58eb\u7538",
+          "coordinates": [
+            1.9925780977547811,
+            0.3892942003749558,
+            25.600000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "AUS"
+            ]
+          }
+        },
+        {
+          "stopId": 41,
+          "nameEn": "Olympic",
+          "nameTc": "\u5967\u904b",
+          "coordinates": [
+            1.9924722064450078,
+            0.3895189487491986,
+            27.0
+          ],
+          "operators": {
+            "MTR": [
+              "OLY"
+            ]
+          }
+        },
+        {
+          "stopId": 4,
+          "nameEn": "Jordan",
+          "nameTc": "\u4f50\u6566",
+          "coordinates": [
+            1.9926712588252213,
+            0.38929231351335825,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "JOR"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 44,
+          "nameEn": "Hong Kong",
+          "nameTc": "\u9999\u6e2f",
+          "coordinates": [
+            1.99243687858777,
+            0.38894081694277177,
+            34.400001525878906
+          ],
+          "operators": {
+            "MTR": [
+              "HOK"
+            ]
+          }
+        },
+        {
+          "stopId": 1,
+          "nameEn": "Central",
+          "nameTc": "\u4e2d\u74b0",
+          "coordinates": [
+            1.9924274004587061,
+            0.3888968414522703,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "CEN"
+            ]
+          }
+        },
+        {
+          "stopId": 26,
+          "nameEn": "Sheung Wan",
+          "nameTc": "\u4e0a\u74b0",
+          "coordinates": [
+            1.9923284827318384,
+            0.38897453189686637,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SHW"
+            ]
+          }
+        },
+        {
+          "stopId": 81,
+          "nameEn": "Sai Ying Pun",
+          "nameTc": "\u897f\u71df\u76e4",
+          "coordinates": [
+            1.9921659002455836,
+            0.3889555886717849,
+            35.5
+          ],
+          "operators": {
+            "MTR": [
+              "SYP"
+            ]
+          }
+        },
+        {
+          "stopId": 82,
+          "nameEn": "HKU",
+          "nameTc": "\u9999\u6e2f\u5927\u5b78",
+          "coordinates": [
+            1.9920412586206713,
+            0.38893002621822964,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "HKU"
+            ]
+          }
+        },
+        {
+          "stopId": 83,
+          "nameEn": "Kennedy Town",
+          "nameTc": "\u5805\u5c3c\u5730\u57ce",
+          "coordinates": [
+            1.9919162891395834,
+            0.38888050081099945,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "KET"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 54,
+          "nameEn": "Sunny Bay",
+          "nameTc": "\u6b23\u6fb3",
+          "coordinates": [
+            1.9901821767412666,
+            0.38976886575430664,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SUN"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 55,
+          "nameEn": "Disneyland Resort",
+          "nameTc": "\u8fea\u58eb\u5c3c",
+          "coordinates": [
+            1.9904580895564827,
+            0.3894787803631391,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "DIS"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 76,
+          "nameEn": "Lo Wu",
+          "nameTc": "\u7f85\u6e56",
+          "coordinates": [
+            1.9916516641390334,
+            0.3931814801782634,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "LOW"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 75,
+          "nameEn": "Sheung Shui",
+          "nameTc": "\u4e0a\u6c34",
+          "coordinates": [
+            1.9919012164245822,
+            0.3927273363600587,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SHS"
+            ]
+          }
+        },
+        {
+          "stopId": 74,
+          "nameEn": "Fanling",
+          "nameTc": "\u7c89\u5dba",
+          "coordinates": [
+            1.992095648947778,
+            0.3925612680669278,
+            28.299999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "FAN"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 73,
+          "nameEn": "Tai Wo",
+          "nameTc": "\u592a\u548c",
+          "coordinates": [
+            1.9924885474854253,
+            0.39184515090115585,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "TWO"
+            ]
+          }
+        },
+        {
+          "stopId": 72,
+          "nameEn": "Tai Po Market",
+          "nameTc": "\u5927\u57d4\u589f",
+          "coordinates": [
+            1.9926492961885083,
+            0.39173183951632234,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "TAP"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 71,
+          "nameEn": "University",
+          "nameTc": "\u5927\u5b78",
+          "coordinates": [
+            1.993341282024652,
+            0.3911921205203424,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "UNI"
+            ]
+          }
+        },
+        {
+          "stopId": 103,
+          "nameEn": "Wu Kai Sha",
+          "nameTc": "\u70cf\u6eaa\u6c99",
+          "coordinates": [
+            1.9939313244430603,
+            0.3914625566080242,
+            37.599998474121094
+          ],
+          "operators": {
+            "MTR": [
+              "WKS"
+            ]
+          }
+        },
+        {
+          "stopId": 102,
+          "nameEn": "Ma On Shan",
+          "nameTc": "\u99ac\u978d\u5c71",
+          "coordinates": [
+            1.9937241247662105,
+            0.39138855756593854,
+            31.100000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "MOS"
+            ]
+          }
+        },
+        {
+          "stopId": 101,
+          "nameEn": "Heng On",
+          "nameTc": "\u6046\u5b89",
+          "coordinates": [
+            1.993617617473337,
+            0.39126549725676996,
+            24.700000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "HEO"
+            ]
+          }
+        },
+        {
+          "stopId": 100,
+          "nameEn": "Tai Shui Hang",
+          "nameTc": "\u5927\u6c34\u5751",
+          "coordinates": [
+            1.9935604338653645,
+            0.39109671183884,
+            21.700000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "TSH"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 69,
+          "nameEn": "Fo Tan",
+          "nameTc": "\u706b\u70ad",
+          "coordinates": [
+            1.9931398497606807,
+            0.39088087112508957,
+            20.799999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "FOT"
+            ]
+          }
+        },
+        {
+          "stopId": 68,
+          "nameEn": "Sha Tin",
+          "nameTc": "\u6c99\u7530",
+          "coordinates": [
+            1.992937626731745,
+            0.3906417931810803,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SHT"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 67,
+          "nameEn": "Tai Wai",
+          "nameTc": "\u5927\u570d",
+          "coordinates": [
+            1.992794077586438,
+            0.39047835433286243,
+            47.5
+          ],
+          "operators": {
+            "MTR": [
+              "TAW"
+            ]
+          }
+        },
+        {
+          "stopId": 97,
+          "nameEn": "Sha Tin Wai",
+          "nameTc": "\u6c99\u7530\u570d",
+          "coordinates": [
+            1.9930753998089847,
+            0.39055083885976594,
+            23.700000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "STW"
+            ]
+          }
+        },
+        {
+          "stopId": 96,
+          "nameEn": "Che Kung Temple",
+          "nameTc": "\u8eca\u516c\u5edf",
+          "coordinates": [
+            1.9929196538674945,
+            0.3905133400877453,
+            28.700000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "CKT"
+            ]
+          }
+        },
+        {
+          "stopId": 90,
+          "nameEn": "Hin Keng",
+          "nameTc": "\u986f\u5f91",
+          "coordinates": [
+            1.99265538395953,
+            0.3903206432430218,
+            29.799999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "HIK"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 8,
+          "nameEn": "Kowloon Tong",
+          "nameTc": "\u4e5d\u9f8d\u5858",
+          "coordinates": [
+            1.9927432425873857,
+            0.389856256271342,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "KOT"
+            ]
+          }
+        },
+        {
+          "stopId": 11,
+          "nameEn": "Diamond Hill",
+          "nameTc": "\u947d\u77f3\u5c71",
+          "coordinates": [
+            1.993194762568955,
+            0.3899071322375435,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "DIH"
+            ]
+          }
+        },
+        {
+          "stopId": 10,
+          "nameEn": "Wong Tai Sin",
+          "nameTc": "\u9ec3\u5927\u4ed9",
+          "coordinates": [
+            1.9930590558122077,
+            0.389935835366366,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "WTS"
+            ]
+          }
+        },
+        {
+          "stopId": 9,
+          "nameEn": "Lok Fu",
+          "nameTc": "\u6a02\u5bcc",
+          "coordinates": [
+            1.9929396044088163,
+            0.38987185444387157,
+            47.29999923706055
+          ],
+          "operators": {
+            "MTR": [
+              "LOF"
+            ]
+          }
+        },
+        {
+          "stopId": 7,
+          "nameEn": "Shek Kip Mei",
+          "nameTc": "\u77f3\u7864\u5c3e",
+          "coordinates": [
+            1.99262177196239,
+            0.38976326101773906,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SKM"
+            ]
+          }
+        },
+        {
+          "stopId": 91,
+          "nameEn": "Kai Tak",
+          "nameTc": "\u555f\u5fb7",
+          "coordinates": [
+            1.9931546958491506,
+            0.38973932737490546,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "KAT"
+            ]
+          }
+        },
+        {
+          "stopId": 17,
+          "nameEn": "Sham Shui Po",
+          "nameTc": "\u6df1\u6c34\u57d7",
+          "coordinates": [
+            1.992504876528209,
+            0.38974749148572585,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SSP"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 94,
+          "nameEn": "Exhibition Centre",
+          "nameTc": "\u6703\u5c55",
+          "coordinates": [
+            1.99273518901745,
+            0.3888882436274613,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "EXC"
+            ]
+          }
+        },
+        {
+          "stopId": 2,
+          "nameEn": "Admiralty",
+          "nameTc": "\u91d1\u9418",
+          "coordinates": [
+            1.9925437523894267,
+            0.3888492532508388,
+            17.799999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "ADM"
+            ]
+          }
+        },
+        {
+          "stopId": 31,
+          "nameEn": "North Point",
+          "nameTc": "\u5317\u89d2",
+          "coordinates": [
+            1.9931727635071184,
+            0.38905444555464846,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "NOP"
+            ]
+          }
+        },
+        {
+          "stopId": 30,
+          "nameEn": "Fortress Hill",
+          "nameTc": "\u70ae\u53f0\u5c71",
+          "coordinates": [
+            1.9930541997511322,
+            0.3889974039497122,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "FOH"
+            ]
+          }
+        },
+        {
+          "stopId": 29,
+          "nameEn": "Tin Hau",
+          "nameTc": "\u5929\u540e",
+          "coordinates": [
+            1.9930237038129768,
+            0.3888984251749663,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "TIH"
+            ]
+          }
+        },
+        {
+          "stopId": 28,
+          "nameEn": "Causeway Bay",
+          "nameTc": "\u9285\u947c\u7063",
+          "coordinates": [
+            1.992890926579876,
+            0.38886265589060837,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "CAB"
+            ]
+          }
+        },
+        {
+          "stopId": 27,
+          "nameEn": "Wan Chai",
+          "nameTc": "\u7063\u4ed4",
+          "coordinates": [
+            1.9926883807538265,
+            0.3888166344959699,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "WAC"
+            ]
+          }
+        },
+        {
+          "stopId": 80,
+          "nameEn": "East Tsim Sha Tsui",
+          "nameTc": "\u5c16\u6771",
+          "coordinates": [
+            1.9927236008982345,
+            0.38912650479157157,
+            14.600000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "ETS"
+            ]
+          }
+        },
+        {
+          "stopId": 3,
+          "nameEn": "Tsim Sha Tsui",
+          "nameTc": "\u5c16\u6c99\u5480",
+          "coordinates": [
+            1.99268040964155,
+            0.3891682716060742,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "TST"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 78,
+          "nameEn": "Lok Ma Chau",
+          "nameTc": "\u843d\u99ac\u6d32",
+          "coordinates": [
+            1.990821901792874,
+            0.39295155035279716,
+            31.5
+          ],
+          "operators": {
+            "MTR": [
+              "LMC"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 37,
+          "nameEn": "Chai Wan",
+          "nameTc": "\u67f4\u7063",
+          "coordinates": [
+            1.9938136188434201,
+            0.38859026339137154,
+            23.100000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "CHW"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 36,
+          "nameEn": "Heng Fa Chuen",
+          "nameTc": "\u674f\u82b1\u90a8",
+          "coordinates": [
+            1.9938590946493444,
+            0.3888006614932684,
+            16.200000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "HFC"
+            ]
+          }
+        },
+        {
+          "stopId": 35,
+          "nameEn": "Shau Kei Wan",
+          "nameTc": "\u7b72\u7b95\u7063",
+          "coordinates": [
+            1.9936713028299582,
+            0.3888459633157382,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SKW"
+            ]
+          }
+        },
+        {
+          "stopId": 34,
+          "nameEn": "Sai Wan Ho",
+          "nameTc": "\u897f\u7063\u6cb3",
+          "coordinates": [
+            1.9935468450805056,
+            0.38889738280480285,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SWH"
+            ]
+          }
+        },
+        {
+          "stopId": 33,
+          "nameEn": "Tai Koo",
+          "nameTc": "\u592a\u53e4",
+          "coordinates": [
+            1.993453711350864,
+            0.38894059339615744,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "TAK"
+            ]
+          }
+        },
+        {
+          "stopId": 32,
+          "nameEn": "Quarry Bay",
+          "nameTc": "\u9c02\u9b5a\u6d8c",
+          "coordinates": [
+            1.993317900750724,
+            0.38900887027652764,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "QUB"
+            ]
+          }
+        },
+        {
+          "stopId": 48,
+          "nameEn": "Yau Tong",
+          "nameTc": "\u6cb9\u5858",
+          "coordinates": [
+            1.9938118364018107,
+            0.38917359452435046,
+            30.5
+          ],
+          "operators": {
+            "MTR": [
+              "YAT"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 49,
+          "nameEn": "Tiu Keng Leng",
+          "nameTc": "\u8abf\u666f\u5dba",
+          "coordinates": [
+            1.9940848138854634,
+            0.3892828268069539,
+            36.5
+          ],
+          "operators": {
+            "MTR": [
+              "TIK"
+            ]
+          }
+        },
+        {
+          "stopId": 52,
+          "nameEn": "Po Lam",
+          "nameTc": "\u5bf6\u7433",
+          "coordinates": [
+            1.9941760710533383,
+            0.3896021452283873,
+            23.5
+          ],
+          "operators": {
+            "MTR": [
+              "POA"
+            ]
+          }
+        },
+        {
+          "stopId": 51,
+          "nameEn": "Hang Hau",
+          "nameTc": "\u5751\u53e3",
+          "coordinates": [
+            1.9942884816377313,
+            0.3894830886228522,
+            30.100000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "HAH"
+            ]
+          }
+        },
+        {
+          "stopId": 50,
+          "nameEn": "Tseung Kwan O",
+          "nameTc": "\u5c07\u8ecd\u6fb3",
+          "coordinates": [
+            1.9942133531775843,
+            0.38933828121594216,
+            31.200000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "TKO"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 38,
+          "nameEn": "Lam Tin",
+          "nameTc": "\u85cd\u7530",
+          "coordinates": [
+            1.9937373725833152,
+            0.38932760992564347,
+            128.0
+          ],
+          "operators": {
+            "MTR": [
+              "LAT"
+            ]
+          }
+        },
+        {
+          "stopId": 15,
+          "nameEn": "Kwun Tong",
+          "nameTc": "\u89c0\u5858",
+          "coordinates": [
+            1.9936284899050374,
+            0.389419376566679,
+            16.799999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "KWT"
+            ]
+          }
+        },
+        {
+          "stopId": 14,
+          "nameEn": "Ngau Tau Kok",
+          "nameTc": "\u725b\u982d\u89d2",
+          "coordinates": [
+            1.9934972288036303,
+            0.3894789916953795,
+            11.300000190734863
+          ],
+          "operators": {
+            "MTR": [
+              "NTK"
+            ]
+          }
+        },
+        {
+          "stopId": 13,
+          "nameEn": "Kowloon Bay",
+          "nameTc": "\u4e5d\u9f8d\u7063",
+          "coordinates": [
+            1.9934103652346689,
+            0.3896178705061374,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "KOB"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 12,
+          "nameEn": "Choi Hung",
+          "nameTc": "\u5f69\u8679",
+          "coordinates": [
+            1.993323844878635,
+            0.38981868849324086,
+            18.5
+          ],
+          "operators": {
+            "MTR": [
+              "CHH"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 99,
+          "nameEn": "Shek Mun",
+          "nameTc": "\u77f3\u9580",
+          "coordinates": [
+            1.9933147356607164,
+            0.3907421435509307,
+            23.0
+          ],
+          "operators": {
+            "MTR": [
+              "SHM"
+            ]
+          }
+        },
+        {
+          "stopId": 98,
+          "nameEn": "City One",
+          "nameTc": "\u7b2c\u4e00\u57ce",
+          "coordinates": [
+            1.9932292993567204,
+            0.39065641789460775,
+            23.100000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "CIO"
+            ]
+          }
+        },
+        {
+          "stopId": 0,
+          "nameEn": "Racecourse",
+          "nameTc": "\u99ac\u5834\u7ad9",
+          "coordinates": [
+            1.9932144410688863,
+            0.3909571443887084,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "RAC"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 53,
+          "nameEn": "Nam Cheong",
+          "nameTc": "\u5357\u660c",
+          "coordinates": [
+            1.9923544476455315,
+            0.3896776510909415,
+            28.200000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "NAC"
+            ]
+          }
+        },
+        {
+          "stopId": 20,
+          "nameEn": "Mei Foo",
+          "nameTc": "\u7f8e\u5b5a",
+          "coordinates": [
+            1.9920557219841577,
+            0.3898705110363184,
+            18.299999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "MEF"
+            ]
+          }
+        },
+        {
+          "stopId": 21,
+          "nameEn": "Lai King",
+          "nameTc": "\u8318\u666f",
+          "coordinates": [
+            1.9918777617345227,
+            0.390052188920473,
+            30.100000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "LAK"
+            ]
+          }
+        },
+        {
+          "stopId": 19,
+          "nameEn": "Lai Chi Kok",
+          "nameTc": "\u8318\u679d\u89d2",
+          "coordinates": [
+            1.9922576772184106,
+            0.38985857562900367,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "LCK"
+            ]
+          }
+        },
+        {
+          "stopId": 18,
+          "nameEn": "Cheung Sha Wan",
+          "nameTc": "\u9577\u6c99\u7063",
+          "coordinates": [
+            1.9923989801237247,
+            0.3898288083704886,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "CSW"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 115,
+          "nameEn": "Kam Sheung Road",
+          "nameTc": "\u9326\u4e0a\u8def",
+          "coordinates": [
+            1.9907780780327606,
+            0.3915669127485004,
+            23.799999237060547
+          ],
+          "operators": {
+            "MTR": [
+              "KSR"
+            ]
+          }
+        },
+        {
+          "stopId": 116,
+          "nameEn": "Yuen Long",
+          "nameTc": "\u5143\u6717",
+          "coordinates": [
+            1.9902890976223726,
+            0.3917578658143605,
+            32.79999923706055
+          ],
+          "operators": {
+            "MTR": [
+              "YUL"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 117,
+          "nameEn": "Long Ping",
+          "nameTc": "\u6717\u5c4f",
+          "coordinates": [
+            1.99011951405793,
+            0.3917849785324237,
+            28.0
+          ],
+          "operators": {
+            "MTR": [
+              "LOP"
+            ]
+          }
+        },
+        {
+          "stopId": 118,
+          "nameEn": "Tin Shui Wai",
+          "nameTc": "\u5929\u6c34\u570d",
+          "coordinates": [
+            1.9897534372074717,
+            0.3917894973363633,
+            21.0
+          ],
+          "operators": {
+            "MTR": [
+              "TIS"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 119,
+          "nameEn": "Siu Hong",
+          "nameTc": "\u5146\u5eb7",
+          "coordinates": [
+            1.9893053530135056,
+            0.3911549150444957,
+            22.200000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "SIH"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 120,
+          "nameEn": "Tuen Mun",
+          "nameTc": "\u5c6f\u9580",
+          "coordinates": [
+            1.9892074535783997,
+            0.3908684137381673,
+            31.100000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "TUM"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 43,
+          "nameEn": "Tung Chung",
+          "nameTc": "\u6771\u6d8c",
+          "coordinates": [
+            1.988650390791771,
+            0.38901949663798074,
+            18.5
+          ],
+          "operators": {
+            "MTR": [
+              "TUC"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 57,
+          "nameEn": "LOHAS Park",
+          "nameTc": "\u5eb7\u57ce",
+          "coordinates": [
+            1.9943654963613717,
+            0.38913140978806043,
+            17.100000381469727
+          ],
+          "operators": {
+            "MTR": [
+              "LHP"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 25,
+          "nameEn": "Tsuen Wan",
+          "nameTc": "\u8343\u7063",
+          "coordinates": [
+            1.9917362678281854,
+            0.3904915654564991,
+            20.700000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "TSW"
+            ]
+          }
+        },
+        {
+          "stopId": 24,
+          "nameEn": "Tai Wo Hau",
+          "nameTc": "\u5927\u7aa9\u53e3",
+          "coordinates": [
+            1.991857115260014,
+            0.390443377307407,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "TWH"
+            ]
+          }
+        },
+        {
+          "stopId": 23,
+          "nameEn": "Kwai Hing",
+          "nameTc": "\u8475\u8208",
+          "coordinates": [
+            1.9919656153473186,
+            0.39030928160475975,
+            21.399999618530273
+          ],
+          "operators": {
+            "MTR": [
+              "KWH"
+            ]
+          }
+        },
+        {
+          "stopId": 22,
+          "nameEn": "Kwai Fong",
+          "nameTc": "\u8475\u82b3",
+          "coordinates": [
+            1.9919056670454687,
+            0.390199723199939,
+            20.700000762939453
+          ],
+          "operators": {
+            "MTR": [
+              "KWF"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 86,
+          "nameEn": "Ocean Park",
+          "nameTc": "\u6d77\u6d0b\u516c\u5712",
+          "coordinates": [
+            1.9927178687457852,
+            0.388313172472828,
+            32.5
+          ],
+          "operators": {
+            "MTR": [
+              "OCP"
+            ]
+          }
+        },
+        {
+          "stopId": 87,
+          "nameEn": "Wong Chuk Hang",
+          "nameTc": "\u9ec3\u7af9\u5751",
+          "coordinates": [
+            1.9926074369253983,
+            0.3883005089889209,
+            33.599998474121094
+          ],
+          "operators": {
+            "MTR": [
+              "WCH"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stops": [
+        {
+          "stopId": 88,
+          "nameEn": "Lei Tung",
+          "nameTc": "\u5229\u6771",
+          "coordinates": [
+            1.992398041132623,
+            0.38819349386551544,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "LET"
+            ]
+          }
+        },
+        {
+          "stopId": 89,
+          "nameEn": "South Horizons",
+          "nameTc": "\u6d77\u6021\u534a\u5cf6",
+          "coordinates": [
+            1.9922732421382168,
+            0.38821093935980955,
+            0.0
+          ],
+          "operators": {
+            "MTR": [
+              "SOH"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

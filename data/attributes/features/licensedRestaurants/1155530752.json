@@ -1,0 +1,255 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1155530752,
+        5,
+        [
+          [
+            2215073378,
+            0,
+            "The Verandah",
+            "1/F (PORTION), 109 REPULSE BAY ROAD, REPULSE BAY, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2215078018,
+            0,
+            "Spices",
+            "G/F. (PORTION), OUTSIDE AREAS IN FRONT AND,AT SIDE 109 REPULSE BAY ROAD, REPULSE BAY, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2215803665,
+            0,
+            "CAFFE PARABOLICA",
+            "SHOPS G106A AND G107A ON THE GROUND FLOOR, THE REPULSE BAY, 109 REPULSE BAY ROAD, HONG KONG",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2215803726,
+            0,
+            "GROA",
+            "SHOP NO. 203A, 1/F., THE REPULSE BAY, NO. 109 REPULSE BAY ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-10-01"
+          ],
+          [
+            3815803660,
+            0,
+            "(no record found)",
+            "SHOPS G108-G110, GROUND FLOOR, THE REPULSE BAY ARCADE, 109 REPULSE BAY ROAD, HONG KONG",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155530777
+        ]
+      ],
+      "coordinate": [
+        1.9930877745764741,
+        0.3881441954401054,
+        23.149999618530273
+      ],
+      "halfSize": [
+        89.07999999960884,
+        65.67699999921024,
+        2.8500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1155530753,
+        1,
+        [
+          [
+            2215801465,
+            0,
+            "CLUBONE REPULSE BAY",
+            "1/F (PORTION) & G/F., SEA VIEW BUILDING, 16 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155531097
+        ]
+      ],
+      "coordinate": [
+        1.9930831303794472,
+        0.3881279178074686,
+        8.149999618530273
+      ],
+      "halfSize": [
+        53.6659450000152,
+        27.073014999739826,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1155530754,
+        1,
+        [
+          [
+            2215803081,
+            0,
+            "VIENNA",
+            "MAJOR PORTION OF SHOP A, G/F, 33 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155531169
+        ]
+      ],
+      "coordinate": [
+        1.9931079231256938,
+        0.3881182688738414,
+        11.149999618530273
+      ],
+      "halfSize": [
+        19.548150000162423,
+        14.529000000096858,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1155530755,
+        1,
+        [
+          [
+            3115800910,
+            1,
+            "NEIGHBOURHOOD COFFEE",
+            "SHOP NO. B4, GROUND FLOOR, NO. 35 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-02-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155531188
+        ]
+      ],
+      "coordinate": [
+        1.993116297467438,
+        0.3881142246054302,
+        11.299999237060547
+      ],
+      "halfSize": [
+        18.810754999984056,
+        16.79450999945402,
+        5.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1155530756,
+        9,
+        [
+          [
+            2215801474,
+            0,
+            "No Record",
+            "SHOP 103-4, LEVEL 1, THE PULSE, NO. 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2215801526,
+            0,
+            "The Coffee Academics",
+            "SHOP 108, LEVEL 1, THE PULSE, 26-30 BEACH ROAD, REPULSE BAY, SOUTHERN, HONG KONG",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2215801535,
+            0,
+            "CLASSIFIED",
+            "SHOP 107 ON LEVEL 1, THE PULSE, NO. 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2215801623,
+            0,
+            "SoHo BANH MI CHARCOAL",
+            "SHOP NO. 109 ON LEVEL 1, THE PULSE, NO. 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2215801711,
+            0,
+            "Kindhood",
+            "PORTION OF SHOP NO. 301 ON LEVEL 3, THE PULSE, 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2215801845,
+            0,
+            "AMALFITANA",
+            "SHOP 105, LEVEL 1, THE PULSE, 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-03-23"
+          ],
+          [
+            2215802167,
+            0,
+            "SAMSIC THE BEACH",
+            "SHOP 112B, LEVEL 1, THE PULSE, 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2215802361,
+            0,
+            "Sip Song",
+            "SHOP NOS. 114 & 115 ON LEVEL 1, THE PULSE, NO. 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-12-19"
+          ],
+          [
+            3115800558,
+            1,
+            "HAAGEN DAZS",
+            "SHOP 219, LEVEL 2, THE PULSE, NO. 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155531219
+        ]
+      ],
+      "coordinate": [
+        1.9931302676554368,
+        0.38809003714699,
+        11.899999618530273
+      ],
+      "halfSize": [
+        78.0081150000915,
+        107.92890000063926,
+        6.399999618530273
+      ]
+    }
+  ]
+}

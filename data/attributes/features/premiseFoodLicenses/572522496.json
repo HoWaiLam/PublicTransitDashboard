@@ -1,0 +1,183 @@
+{
+  "features": [
+    {
+      "attributes": [
+        572522496,
+        1,
+        [
+          [
+            2993803352,
+            4,
+            "Gold Coast Hotel",
+            "LG/F (PORTION), GOLD COAST HOTEL, 1 CASTLE PEAK ROAD, CASTLE PEAK BAY, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572522868
+        ]
+      ],
+      "coordinate": [
+        1.9894934296922697,
+        0.3904622615227003,
+        15.75
+      ],
+      "halfSize": [
+        75.16837999969721,
+        63.08712000027299,
+        10.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        572522497,
+        1,
+        [
+          [
+            4993812358,
+            4,
+            "No Record",
+            "KIOSK(PORTION), GOLDEN BEACH, 18 1/2 MILES, CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523249
+        ]
+      ],
+      "coordinate": [
+        1.9894941300888944,
+        0.39041687625715155,
+        8.549999237060547
+      ],
+      "halfSize": [
+        2.807105000130832,
+        4.558965000323951,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        572522498,
+        4,
+        [
+          [
+            2993807479,
+            4,
+            "HEATO & COFFEE CO",
+            "SHOP 18, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2993810804,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION C OF SHOP NOS.15, 16 & 17, G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ],
+          [
+            3693803279,
+            5,
+            "Chef's Cuts",
+            "PORTION B, SHOP NO. 11&12, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ],
+          [
+            3293800531,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION D OF SHOP NOS.15, 16 & 17, G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523358
+        ]
+      ],
+      "coordinate": [
+        1.9895516741796984,
+        0.3903760418625333,
+        6.75
+      ],
+      "halfSize": [
+        46.87469500023872,
+        44.65990999992937,
+        3.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        572522499,
+        1,
+        [
+          [
+            3693802364,
+            5,
+            "fusion by PARKnSHOP",
+            "STALL NO. 1 & PORTIONS OF SHOP NO. 3C ON GROUND FLOOR OF AEGEAN COAST, NO.2 KWUN TSING ROAD, SO KWUN WAT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523462
+        ]
+      ],
+      "coordinate": [
+        1.9895779125142172,
+        0.3904770912735814,
+        9.850000381469727
+      ],
+      "halfSize": [
+        12.4607899999246,
+        11.896164999343455,
+        3.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        572522500,
+        1,
+        [
+          [
+            4993812260,
+            4,
+            "Pawfect Brew",
+            "(MAJOR PORTION), G/F, 249 SO KWUN WAT TSUEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523938
+        ]
+      ],
+      "coordinate": [
+        1.9896945896547285,
+        0.3905341769238275,
+        11.299999237060547
+      ],
+      "halfSize": [
+        4.483000000007451,
+        4.856999999843538,
+        4.099999904632568
+      ]
+    }
+  ]
+}

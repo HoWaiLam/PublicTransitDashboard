@@ -1,0 +1,10 @@
+{
+  "name": "foodandrestaurants",
+  "label": "Food And Restaurants",
+  "groupLayerSymbologies": 1,
+  "groupSelections": 0,
+  "layers": [
+    "licensedRestaurantsLayer.json",
+    "premiseFoodLicensesLayer.json"
+  ]
+}

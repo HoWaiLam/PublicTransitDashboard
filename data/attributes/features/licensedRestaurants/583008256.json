@@ -1,0 +1,410 @@
+{
+  "features": [
+    {
+      "attributes": [
+        583008256,
+        1,
+        [
+          [
+            3194802931,
+            1,
+            "OSCAR KITCHEN",
+            "G/F, 42 HANG MEI TSUEN, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583008918
+        ]
+      ],
+      "coordinate": [
+        1.9898051066036624,
+        0.3917323144183985,
+        10.100000381469727
+      ],
+      "halfSize": [
+        5.098765000235289,
+        3.171435000374913,
+        5.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        583008257,
+        1,
+        [
+          [
+            3194802524,
+            1,
+            "KOMACHI",
+            "G/F, 85 HANG MEI TSUEN, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583008978
+        ]
+      ],
+      "coordinate": [
+        1.9898037844873124,
+        0.3917288372090671,
+        9.600000381469727
+      ],
+      "halfSize": [
+        5.028500000014901,
+        3.5985000003129244,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        583008258,
+        1,
+        [
+          [
+            3194802278,
+            1,
+            "Motors Cafe",
+            "G/F, 105 HANG MEI TSUEN, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583009014
+        ]
+      ],
+      "coordinate": [
+        1.9898006373276023,
+        0.39172674286703285,
+        8.949999809265137
+      ],
+      "halfSize": [
+        5.964999999850988,
+        3.930499999783933,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        583008259,
+        1,
+        [
+          [
+            2294001497,
+            0,
+            "\u5c4f\u5c71\u76c6\u83dc",
+            "G/F, DD 121, LOT 2C, 36 TONG FONG TSUEN, PING HA ROAD, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583009282
+        ]
+      ],
+      "coordinate": [
+        1.9897979993435266,
+        0.3917053665237092,
+        10.449999809265137
+      ],
+      "halfSize": [
+        5.636829999741167,
+        3.144039999693632,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        583008260,
+        6,
+        [
+          [
+            2294000625,
+            0,
+            "Tak Fook Seafood Restaurant",
+            "1/F, MAJOR PORTION, ASTER COURT, 8 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-12"
+          ],
+          [
+            2294001840,
+            0,
+            "\u862d\u9999\u95a3\u9910\u5ef3",
+            "SHOP NO. 11-13, G/F, ASTER COURT, HUNG SHUI KUI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ],
+          [
+            2294808940,
+            0,
+            "Sweet Canteen",
+            "SHOP NO.8 , G/F, ASTER COURT, 8 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2294812022,
+            0,
+            "TAKGOR RESTAURANT",
+            "SHOP NO.7, G/F, ASTER COURT, 8 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3194800236,
+            1,
+            "TALENT CONJEE & NOODLES SHOP",
+            "SHOP 15, G/F, ASTER COURT, NO. 8 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ],
+          [
+            3194802339,
+            1,
+            "\u5de7\u5473\u9928",
+            "SHOP NO. 14, G/F, ASTER COURT, 8 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011080
+        ]
+      ],
+      "coordinate": [
+        1.9896129438322503,
+        0.39155086357255,
+        13.550000190734863
+      ],
+      "halfSize": [
+        34.29712999984622,
+        45.04217000026256,
+        4.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        583008261,
+        1,
+        [
+          [
+            3194801752,
+            1,
+            "\u83d3\u4e4b\u90ce",
+            "SHOP NO. 13-15, G/F, BEAUTY COURT, 3 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011082
+        ]
+      ],
+      "coordinate": [
+        1.9896192449109646,
+        0.39153943213565096,
+        14.5
+      ],
+      "halfSize": [
+        33.30999999959022,
+        31.56499999947846,
+        4.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        583008262,
+        3,
+        [
+          [
+            2294805543,
+            0,
+            "\u65fa\u8a18\u9910\u5ef3",
+            "SHOP 8, HUNG FUK SHOPPING CENTRE, HUNG FUK ESTATE, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2294805589,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 1, G/F, HUNG FUK SHOPPING CENTRE, HUNG FUK ESTATE, HUNG SHUI KIU TIN SAM ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2294805738,
+            0,
+            "MX",
+            "SHOP 4, G/F, HUNG FUK SHOPPING CENTRE, HUNG FUK ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011489
+        ]
+      ],
+      "coordinate": [
+        1.98963764732771,
+        0.3915878883910553,
+        12.75
+      ],
+      "halfSize": [
+        45.27529999986291,
+        39.64636999927461,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        583008263,
+        4,
+        [
+          [
+            2294808542,
+            0,
+            "\u7261\u4e39\u4ead\u71d2\u9d5d\u51b0\u5ba4",
+            "SHOP NO. 9, G/F, PING YAN SHOPPING CENTRE, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2294808685,
+            0,
+            "\u7fe0\u6cb3\u9910\u5ef3",
+            "SHOP NO.11, G/F, PING YAN SHOPPING CENTRE, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-15"
+          ],
+          [
+            2294808700,
+            0,
+            "\u4e00\u54c1\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP NO. 10, PING YAN SHOPPING CENTRE, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            3194803086,
+            1,
+            "\u9d3b\u4ed4\u8a18\u8eca\u4ed4\u9eb5",
+            "SHOP NO. 8, PING YAN SHOPPING CENTRE, PING YAN COURT, 65 PING HA ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011547
+        ]
+      ],
+      "coordinate": [
+        1.9897464720151097,
+        0.3917564525379354,
+        10.200000762939453
+      ],
+      "halfSize": [
+        80.99150000000373,
+        33.25249999947846,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        583008264,
+        2,
+        [
+          [
+            3894811866,
+            0,
+            "\u96f2\u5ddd",
+            "SHOP NO.1, GROUND FLOOR, EMINENCE TOWER 1, CASA EMINENCE, 6 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            3994804388,
+            1,
+            "\u5143\u5e25\u9eb5\u9928",
+            "SHOP NO. 2A, G/F., EMINENCE TOWER 1, CASA EMINENCE, 6 HUNG YUEN ROAD, HUNG SHUI KIU, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011740
+        ]
+      ],
+      "coordinate": [
+        1.989610796441898,
+        0.3916054341679922,
+        18.049999237060547
+      ],
+      "halfSize": [
+        18.23560499958694,
+        26.36013500019908,
+        9.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        583008265,
+        2,
+        [
+          [
+            3894811875,
+            0,
+            "FAIRWOOD FAST FOOD",
+            "SHOP C11,D12,D13,D14, GROUND FLOOR, HIGH PARK, NO. 1 HUNG ON LANE, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3894811884,
+            0,
+            "McDonald's Restaurant",
+            "SHOPS A1-A3, G/F, HIGH PARK, 1 HUNG ON LANE, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011748
+        ]
+      ],
+      "coordinate": [
+        1.9896196811321918,
+        0.3915662402795007,
+        12.299999237060547
+      ],
+      "halfSize": [
+        86.92511499999091,
+        46.56804736243794,
+        2.4000000953674316
+      ]
+    }
+  ]
+}

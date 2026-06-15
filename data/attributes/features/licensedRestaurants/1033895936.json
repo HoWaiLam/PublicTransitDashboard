@@ -1,0 +1,154 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1033895936,
+        11,
+        [
+          [
+            2262800819,
+            0,
+            "TANG XIN XUAN",
+            "SHOP 9, UG/F, OLYMPIAN CITY 1, 11 HOI FAI ROAD, WEST KOWLOON, KOWLOON",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2262805850,
+            0,
+            "Cafe' de Coral",
+            "SHOP UG 26 AND UG 35, UPPER GROUND FLOOR, OLYMPIAN CITY ONE, KOWLOON",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2262806792,
+            0,
+            "YOSHINOYA",
+            "SHOP UG32, UG/F, OLYMPIAN CITY 1, 11 HOI FAI ROAD , WEST KOWLOON, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2262808390,
+            0,
+            "WATAMI JAPANESE CASUAL RESTAURANT(OLYMPIAN CITY SHOP)",
+            "SHOP NO. 106, 1/F, OLYMPIAN CITY 1, 11 HOI FAI ROAD, WEST KOWLOON, KOWLOON",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2262809153,
+            0,
+            "\u66f8\u6e58\u9580\u7b2c",
+            "SHOP UG27 & 28, UG/F, OLYMPIAN CITY 1, 11 HOI FAI ROAD, WEST KOWLOON, KOWLOON",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2262814742,
+            0,
+            "MOS Cafe",
+            "SHOP NOS. UG23 & UG25, UG/F., OLYMPIAN CITY 1, 11 HOI FAI ROAD, WEST KOWLOON, KOWLOON",
+            null,
+            "2026-02-24"
+          ],
+          [
+            2262815268,
+            0,
+            "Men Wah Bing Teng",
+            "SHOP NO. UG22, UG/F, OLYMPIAN CITY 1, 11 HOI FAI ROAD, WEST KOWLOON, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2262816401,
+            0,
+            "Asam Chicken Rice",
+            "SHOP NOS. UG19-21, UG/F., OLYMPIAN CITY 1, 11 HOI FAI ROAD, WEST KOWLOON, KOWLOON",
+            null,
+            "2026-06-12"
+          ],
+          [
+            3162801254,
+            1,
+            "TAI KOK TSUI MRS. MC",
+            "SHOP UG11, UG/F, OLYMPIAN CITY I, 11 HOI FAI ROAD, WEST KOWLOON, KOWLOON",
+            null,
+            "2027-02-12"
+          ],
+          [
+            3162801999,
+            1,
+            "Oliver's Super Sandwiches",
+            "SHOP NO. UG06, UPPER GROUND FLOOR, OLYMPIAN CITY 1, OLYMPIAN CITY, KOWLOON",
+            null,
+            "2026-09-21"
+          ],
+          [
+            3162802372,
+            1,
+            "Arome Bakery",
+            "SHOP NOS. UG30-31, UG/F, OLYMPIAN CITY 1, OLYMPIAN CITY, KOWLOON",
+            null,
+            "2026-05-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1033896267
+        ]
+      ],
+      "coordinate": [
+        1.9924402612331853,
+        0.38954270454456946,
+        25.899999618530273
+      ],
+      "halfSize": [
+        89.75104000000283,
+        168.4642850002274,
+        22.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1033895937,
+        2,
+        [
+          [
+            2262811248,
+            0,
+            "Mok One",
+            "SHOP G01, G/F, SILVERSEA PLACE, NO. 18 HOI FAI ROAD, KOWLOON",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2262817343,
+            0,
+            "SSP Cafe",
+            "PORTION A OF SHOP NOS. G03 & G05, G/F, SILVERSEA PLACE, NO.18 HOI FAI ROAD, KOWLOON",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1033896270
+        ]
+      ],
+      "coordinate": [
+        1.9923963622312932,
+        0.3895173270278892,
+        28.5
+      ],
+      "halfSize": [
+        72.25890500005335,
+        36.79825999960303,
+        23.299999237060547
+      ]
+    }
+  ]
+}

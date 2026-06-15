@@ -1,0 +1,366 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1119879168,
+        3,
+        [
+          [
+            2295802310,
+            0,
+            "\u5927\u65e5\u5b50\u9152\u5bb6",
+            "1/F, 12-18 WAN TAU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            3195000268,
+            1,
+            "\u4eca\u65e5\u4e4b\u661f",
+            "SHOP NO. A3, G/F, MEE WAH BUILDING, 12-18 WAN TAU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3195800598,
+            1,
+            "\u5929\u6708\u5c45",
+            "SHOP B1-B, GROUND FLOOR, MEE WAH BUILDING, 12-18 WAN TAU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879171
+        ]
+      ],
+      "coordinate": [
+        1.9926159293674766,
+        0.39177257230727225,
+        22.950000762939453
+      ],
+      "halfSize": [
+        23.699999999720603,
+        18.106999999843538,
+        18.25
+      ]
+    },
+    {
+      "attributes": [
+        1119879169,
+        2,
+        [
+          [
+            2295800873,
+            0,
+            "\u82d1\u8a18\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "G/F, 81 WAN TAU STREET & G/F, 28 WAN TAU SQUARE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            3195801193,
+            1,
+            "FISHBALL NOODLE SHOP",
+            "G/F, WING WO BUILDING, 75 WAN TAU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879199
+        ]
+      ],
+      "coordinate": [
+        1.9926053137755486,
+        0.3917705530772972,
+        15.700000762939453
+      ],
+      "halfSize": [
+        14.3125,
+        15.701399999670684,
+        10.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1119879170,
+        1,
+        [
+          [
+            2295801779,
+            0,
+            "Eat Well Cafe",
+            "G/F (PORTION), NO. 11, WAN TAU KOK LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879221
+        ]
+      ],
+      "coordinate": [
+        1.9926402355887822,
+        0.3917670129151406,
+        31.450000762939453
+      ],
+      "halfSize": [
+        18.90222999965772,
+        20.608249999582767,
+        3.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1119879171,
+        6,
+        [
+          [
+            2295000622,
+            0,
+            "\u5bcc\u5712\u6d77\u9bae\u9152\u5bb6",
+            "SHOP 9, G/F & 1/F, COMMERCIAL CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2295001795,
+            0,
+            "\u5927\u5feb\u6d3b",
+            "SHOP 5, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2295802639,
+            0,
+            "\u81b3\u574a",
+            "SHOP 13A, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ],
+          [
+            2295803049,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 3 AND 4, G/F , WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2295803076,
+            0,
+            "CHA FAN KITCHEN",
+            "SHOP NO. 26A AND 26B, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2295803322,
+            0,
+            "PIZZA HUT",
+            "SHOP NO. 16, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, 10 HIU WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879908
+        ]
+      ],
+      "coordinate": [
+        1.9925951668560749,
+        0.3916894275576183,
+        12.0
+      ],
+      "halfSize": [
+        72.42299999995157,
+        48.37999999988824,
+        4.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1119879172,
+        1,
+        [
+          [
+            2295803757,
+            0,
+            "KFC",
+            "SHOPS 1, 2, 7 AND 8, GROUND FLOOR, ELEGANCE GARDEN , NOS.1-7 NAM WAN ROAD , TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119880673
+        ]
+      ],
+      "coordinate": [
+        1.9926017928460122,
+        0.39173217928649945,
+        8.949999809265137
+      ],
+      "halfSize": [
+        17.7839999999851,
+        17.02199999988079,
+        2.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1119879173,
+        15,
+        [
+          [
+            2295000613,
+            0,
+            "Cafe' De Coral",
+            "SHOP 053, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2295800864,
+            0,
+            "Victoria Harbour Supreme",
+            "SHOP NOS. 101-120, LEVEL 2, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2295800943,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. 083-085, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ],
+          [
+            2295802675,
+            0,
+            "NABE URAWA",
+            "SHOP NO. 052B, LEVEL 1, UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ],
+          [
+            2295802897,
+            0,
+            "MEN WAH BING TENG",
+            "MAJOR PORTION OF SHOP 054, 1/F, UPTOWN PLAZA, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2295802976,
+            0,
+            "Ajisen Ramen",
+            "SHOP NO. A012, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ],
+          [
+            2295803137,
+            0,
+            "SHANGHAI LAO LAO, MIXIAN SENSE",
+            "SHOP NOS. A002 AND A003, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2295803225,
+            0,
+            "Genki Sushi",
+            "SHOP A001, LEVEL 1 , UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2295803270,
+            0,
+            "MOS Burger",
+            "SHOP NO. 087, LEVEL 1, UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            2295803483,
+            0,
+            "Chicken Factory",
+            "SHOP NOS. 097 & 097A, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            2295803766,
+            0,
+            "GING SUN HO KING OF BUN (UPTOWN PLAZA)",
+            "SHOP NOS 038-040, LEVEL 1, UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2295803863,
+            0,
+            "Yakiniku Like",
+            "SHOP NO. A019-A020, LEVEL 1 , UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2295804158,
+            0,
+            "Water Gate Chicken Rice (Uptown Plaza)",
+            "SHOP NOS. 036-037, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2295804228,
+            0,
+            "Sukiya",
+            "SHOP NO. 052, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3195801519,
+            1,
+            "Oliver's Super Sandwiches",
+            "SHOP NOS. A010-A011 ON LEVEL 1 OF UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119880674
+        ]
+      ],
+      "coordinate": [
+        1.992627857017745,
+        0.391719735011173,
+        16.5
+      ],
+      "halfSize": [
+        85.52950000017881,
+        65.30549999978393,
+        11.799999237060547
+      ]
+    }
+  ]
+}

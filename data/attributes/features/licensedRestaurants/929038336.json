@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        929038336,
+        1,
+        [
+          [
+            3196800382,
+            1,
+            "\u8c46\u7f8e\u5473\u8c46\u82b1\u5718",
+            "G/F AND OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, PORTION E, DD 95, LOT 1050 & STT 1491, HO SHEUNG HEUNG, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          929038657
+        ]
+      ],
+      "coordinate": [
+        1.9915761267516,
+        0.3928908290288112,
+        10.699999809265137
+      ],
+      "halfSize": [
+        17.162000000011176,
+        10.411999999545515,
+        3.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        929038337,
+        1,
+        [
+          [
+            3196000496,
+            1,
+            "Chung Fuk Store",
+            "SHOP NO 1, 8TH LANE, DD 92, LOT 2341, KAM TSIN VILLAGE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          929039450
+        ]
+      ],
+      "coordinate": [
+        1.9916264313987442,
+        0.39272044803129563,
+        13.75
+      ],
+      "halfSize": [
+        4.991915000136942,
+        3.208190000616014,
+        1.9499998092651367
+      ]
+    }
+  ]
+}

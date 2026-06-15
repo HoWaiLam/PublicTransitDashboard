@@ -1,0 +1,982 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1042284544,
+        7,
+        [
+          [
+            2291805029,
+            0,
+            "Cafe De Papa",
+            "SHOP NO. 2, GROUND FLOOR, ON YAM SHOPPING CENTRE, ON YAM ESTATE, NO. 7 ON CHUK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2291805180,
+            0,
+            "\u98df\u5f97\u559c\u975a\u7ca5",
+            "SHOP NO. M22, ONE MARKET PLACE (ON YAM) G/F.,NOS. 9-13 & 15-19 ON YAM SHOPPING CENTRE, ON YAM ESTATE, NO. 7 ON CHUK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2291805375,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 109-111, FIRST FLOOR, COMMERCIAL / CARPARK BLOCK, ON YAM SHOPPING CENTRE, ON YAM ESTATE, 7 ON CHUK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2291805630,
+            0,
+            "\u6674\u5929\u9ede\u5fc3\u5c0f\u5eda",
+            "SHOP NOS. 7 & 8, G/F, ON YAM SHOPPING CENTRE, ON YAM ESTATE, 7 ON CHUK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            3191801928,
+            1,
+            "\u6a02\u5712\u9eb5\u5bb6",
+            "SHOP 112-113, 1/F, ON YAM SHOPPING CENTRE, 7 ON CHUK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            3191802046,
+            1,
+            "\u8f1d\u8a18\u5c0f\u5eda",
+            "SHOP NO. M2, ONE MARKET PLACE (ON YAM), G/F, NOS. 9-13 & 15-19 ON YAM SHOPPING CENTRE, ON YAM ESTATE, NO. 7 ON CHUK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            3991802178,
+            1,
+            "No Record",
+            "SHOP NOS. M3-M13, G/F, ON YAM SHOPPING CENTRE, ON YAM ESTATE, NO. 7 ON CHUK STREET , KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284621
+        ]
+      ],
+      "coordinate": [
+        1.9921461140535952,
+        0.39044982961365426,
+        97.19999694824219
+      ],
+      "halfSize": [
+        22.200195000041276,
+        26.394044999964535,
+        10.89999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1042284545,
+        1,
+        [
+          [
+            2291804257,
+            0,
+            "\u8336\u6a02\u51b0\u5ef3",
+            "SHOP C, D & E, G/F, KWONG FAI BUILDING, NOS. 93, 95 AND 97 SHEK YUM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284647
+        ]
+      ],
+      "coordinate": [
+        1.9921052648725246,
+        0.390425805012025,
+        58.150001525878906
+      ],
+      "halfSize": [
+        15.037415000144392,
+        14.627674999646842,
+        13.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1042284546,
+        1,
+        [
+          [
+            2291805445,
+            0,
+            "\u5c0f\u96e8\u5929/\u9285\u5343\u65a4\u8eca\u4ed4\u9eb5",
+            "SHOP B, G/F, KONG SHENG MANSION, NOS. 58-64 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284680
+        ]
+      ],
+      "coordinate": [
+        1.9921018622423625,
+        0.39038372338951277,
+        52.599998474121094
+      ],
+      "halfSize": [
+        10.736630000174046,
+        9.410975000821054,
+        11.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1042284547,
+        7,
+        [
+          [
+            2291001991,
+            0,
+            "\u9280\u9f8d\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP NO. 9, G/F, SHEK YAM SHOPPING CENTRE, SHEK YAM ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2291002107,
+            0,
+            "Deluxe Restaurant",
+            "SHOP NO.11, G/F, SHEK YAM SHOPPING CENTRE, SHEK YAM ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2291801328,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. LG213 & LG214, LOWER SECOND GROUND FLOOR, SHEK YAM SHOPPING CENTRE, SHEK YAM ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2291801470,
+            0,
+            "Lovely Tea",
+            "SHOP LG 205-206, LG 2/F, SHEK YAM SHOPPING CENTRE, SHEK YAM ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2291802330,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 201, LG2 FLOOR, SHEK YAM SHOPPING CENTRE, SHEK YAM ESTATE, 120 LEI MUK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2291803218,
+            0,
+            "Fairwood Fast Food",
+            "SHOP LG212, LG2, SHEK YAM SHOPPING CENTRE, 120 LEI MUK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2291804895,
+            0,
+            "\u7fe0\u6cb3\u71d2\u5473",
+            "SHOP NO. 110, LG1 FLOOR, SHEK YAM SHOPPING CENTRE, SHEK YAM ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284705
+        ]
+      ],
+      "coordinate": [
+        1.9921001412700172,
+        0.39045070598422355,
+        63.70000076293945
+      ],
+      "halfSize": [
+        59.22194499988109,
+        61.08257000055164,
+        19.10000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1042284548,
+        2,
+        [
+          [
+            2291803458,
+            0,
+            "\u7fe0\u82d1\u725b\u96dc\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP F, G/F, LION BUILDING, NOS. 113 & 117 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2291804707,
+            0,
+            "NEW KAM FUNG RESTAURANT",
+            "SHOP A-C, G/F, 113-117 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284706
+        ]
+      ],
+      "coordinate": [
+        1.9920940244459382,
+        0.39043549333430416,
+        50.54999923706055
+      ],
+      "halfSize": [
+        20.717000000178814,
+        18.944130000658333,
+        5.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1042284549,
+        3,
+        [
+          [
+            3191000242,
+            1,
+            "\u70ba\u98df\u4f86\u8eca\u4ed4\u9eb5",
+            "SHOP 34, G/F, YEE FAT BUILDING, 186-218 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            3191801016,
+            1,
+            "\u9806\u5fc3\u7cd6\u6c34\u805a\u8ce2\u7f8e\u98df",
+            "SHOP 1A & 2, 1/F, YEE FAT BUILDING, 202 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            3191801292,
+            1,
+            "\u88d5\u4e00\u54c1",
+            "SHOP 15 AND 27, G/F, YEE FAT BUILDING, 186-218 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284708
+        ]
+      ],
+      "coordinate": [
+        1.9920926135802277,
+        0.3904314252352313,
+        43.5
+      ],
+      "halfSize": [
+        33.00743000023067,
+        31.319005000405014,
+        5.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1042284550,
+        1,
+        [
+          [
+            2291000235,
+            0,
+            "\u65b0\u806f\u767c\u71d2\u81d8\u98ef\u5e97",
+            "BLOCK C, G/F, KWOK PO MANSION, 107 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284709
+        ]
+      ],
+      "coordinate": [
+        1.9920980391298497,
+        0.39043169322267735,
+        48.900001525878906
+      ],
+      "halfSize": [
+        13.66829500021413,
+        13.53715500049293,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        1042284551,
+        3,
+        [
+          [
+            2291000068,
+            0,
+            "\u5764\u8a18\u7ca5\u54c1",
+            "G/F, 94 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291002462,
+            0,
+            "\u798f\u6797\u9910\u5ef3",
+            "G/F, 88 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2291805232,
+            0,
+            "\u8d85\u4eba\u71d2\u9d5d",
+            "SHOP NO.3 OF ON G/F, TIN ON BUILDING, NO. 78-96 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284711
+        ]
+      ],
+      "coordinate": [
+        1.9921122353757204,
+        0.39042545923022176,
+        50.0
+      ],
+      "halfSize": [
+        26.85949999978766,
+        27.910499999299645,
+        4.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1042284552,
+        7,
+        [
+          [
+            2291000651,
+            0,
+            "\u8fd4\u5c0b\u5473\u5c0f\u5eda",
+            "SHOP NO. 11, 1/F., SHUI KING BUILDING, KCTL 241, WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291001292,
+            0,
+            "\u91d1\u548c\u6797\u9910\u5ef3",
+            "SHOP NOS. 11 & 37, G/F, SHUI KING SHOPPING CENTRE, 162 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2291002602,
+            0,
+            "\u5cb1\u6c11\u77f3\u852d\u5e97",
+            "G/F., 154-156 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            2291800787,
+            0,
+            "\u9280\u57ce\u9910\u5ef3",
+            "SHOP NO. 9, G/F, SHUI KING BUILDING, 166 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-19"
+          ],
+          [
+            2291804929,
+            0,
+            "\u51a0\u8a18\u7f8e\u98df",
+            "SHOP 1 & 2, G/F, SHUI KING BUILDING, 182-184 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            3191801034,
+            1,
+            "\u4f70\u559c\u5c4b\u62c9\u9eb5",
+            "SHOP 12, G/F, SHUI KING BUILDING, 138-184 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ],
+          [
+            3191801380,
+            1,
+            "ZENGA COFFEE",
+            "SHOP 15, G/F, SHUI KING BUILDING, 138-184 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284713
+        ]
+      ],
+      "coordinate": [
+        1.9921050879255189,
+        0.39042057809899994,
+        45.0
+      ],
+      "halfSize": [
+        35.87341500027105,
+        37.49510500021279,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1042284553,
+        2,
+        [
+          [
+            2291801221,
+            0,
+            "\u9d3b\u82d1\u9b5a\u86cb\u7c89\u9eb5",
+            "SHOP 8, G/F, KAM LUK BUILDING, 61-83 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2291801647,
+            0,
+            "\u5c1a\u54c1\u5c0f\u53a8",
+            "SHOP 7, G/F, KAM LUK BUILDING, 61-83 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284715
+        ]
+      ],
+      "coordinate": [
+        1.9921101752119774,
+        0.3904203066149642,
+        49.19999694824219
+      ],
+      "halfSize": [
+        21.897115000057966,
+        26.35690499935299,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1042284554,
+        4,
+        [
+          [
+            2291000022,
+            0,
+            "Honorary Family",
+            "NO. 64, G/F & NO. 44-66, 1/F, SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291802969,
+            0,
+            "We Time Cafe",
+            "G/F, KAM SHEK BUILDING, 60 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ],
+          [
+            2291804053,
+            0,
+            "BUDDY CAFE",
+            "SHOP 8, G/F, KAM SHEK BUILDING, 44 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3191000039,
+            1,
+            "\u65b0\u9999\u51b0\u5ba4",
+            "G/F., 58 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284716
+        ]
+      ],
+      "coordinate": [
+        1.9921185583173133,
+        0.39041097561454124,
+        49.150001525878906
+      ],
+      "halfSize": [
+        11.742000000085682,
+        48.41299999970943,
+        4.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1042284555,
+        1,
+        [
+          [
+            2291803032,
+            0,
+            "KINRINKO RESTAURANT",
+            "G/F(PORTION), 1/F(PORTION) & 2/F(PORTION) OF SILKA TSUEN WAN, HONG KONG, 119 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284717
+        ]
+      ],
+      "coordinate": [
+        1.992100030225462,
+        0.39041427122435496,
+        46.45000076293945
+      ],
+      "halfSize": [
+        30.70450499979779,
+        14.97751499991864,
+        7.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1042284556,
+        1,
+        [
+          [
+            2291000572,
+            0,
+            "\u91d1\u6930\u6797\u8336\u9910\u5ef3",
+            "G/F., 132 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284718
+        ]
+      ],
+      "coordinate": [
+        1.9921102645415962,
+        0.3904084088529971,
+        48.29999923706055
+      ],
+      "halfSize": [
+        10.582929999567568,
+        18.14729500003159,
+        5.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1042284557,
+        1,
+        [
+          [
+            2291805348,
+            0,
+            "\u8d8a\u65fa\u8d8a\u5f0f\u725b\u8089\u7c89\u6d77\u5357\u96de\u5c08\u9580\u5e97",
+            "SHOP F, G/F, KWAI LAI BUILDING, 29-35 & 39-45 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284719
+        ]
+      ],
+      "coordinate": [
+        1.992113644046354,
+        0.3904080892766377,
+        46.900001525878906
+      ],
+      "halfSize": [
+        9.722980000078678,
+        19.978430000133812,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1042284558,
+        1,
+        [
+          [
+            2291802118,
+            0,
+            "\u91d1\u6a39\u6797\u71d2\u81d8\u98ef\u5e97",
+            "G/F, 6 SHEK YI ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284721
+        ]
+      ],
+      "coordinate": [
+        1.992109980174368,
+        0.39039909122440875,
+        50.599998474121094
+      ],
+      "halfSize": [
+        19.527955000288785,
+        10.596760000102222,
+        7.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1042284559,
+        2,
+        [
+          [
+            2291000703,
+            0,
+            "MCDONALD'S",
+            "G/F., (SHOP NO. 9&10) & 1/F., SING SHING BUILDING, 90-114 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291002125,
+            0,
+            "\u99ac\u8a18",
+            "SHOP NO. 1, G/F, SING SHING BUILDING, 19 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284722
+        ]
+      ],
+      "coordinate": [
+        1.9921069660713988,
+        0.3903937177054028,
+        47.05000305175781
+      ],
+      "halfSize": [
+        13.431175000034273,
+        27.049320000223815,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1042284560,
+        2,
+        [
+          [
+            2291000299,
+            0,
+            "\u624d\u8208\u8336\u9910\u5ef3",
+            "G/F, 27 TAI PAK TIN STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291804141,
+            0,
+            "Lucky Cafe",
+            "SHOP NO.29, G/F, ON SHING BUILDING, 19-31 TAI PAK TIN STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284725
+        ]
+      ],
+      "coordinate": [
+        1.9921128166686792,
+        0.39038726788697603,
+        54.349998474121094
+      ],
+      "halfSize": [
+        14.55058000003919,
+        15.679000000469387,
+        6.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1042284561,
+        2,
+        [
+          [
+            2291803449,
+            0,
+            "\u9b45\u5eda",
+            "SHOP NO. 84, G/F, YI WO BUILDING, 74-88 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            3191000437,
+            1,
+            "\u91d1\u8f1d\u9eb5\u98df",
+            "G/F, 82 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284726
+        ]
+      ],
+      "coordinate": [
+        1.9921069584865967,
+        0.39038550681077316,
+        47.150001525878906
+      ],
+      "halfSize": [
+        24.814329999964684,
+        19.48253000061959,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1042284562,
+        1,
+        [
+          [
+            3191802055,
+            1,
+            "Yuanji Dumpling",
+            "SHOP NOS. 5A AND 5B, LG/F, KWAI CHUNG FA YUEN, NO. 50-56 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284730
+        ]
+      ],
+      "coordinate": [
+        1.9921013124767728,
+        0.3903788151380614,
+        49.05000305175781
+      ],
+      "halfSize": [
+        26.882109999656677,
+        24.37273999955505,
+        8.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1042284563,
+        5,
+        [
+          [
+            2291802701,
+            0,
+            "\u8475\u7dda\u8ed2",
+            "SHOP 1A & 1B, G/F, VICTORY GARDEN, 153 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2291803139,
+            0,
+            "\u597d\u597d\u9ede\u5fc3\u98f2\u8336\u6930\u5b50\u96de\u7172\u5c08\u9580\u5e97",
+            "SHOP NOS. 8 & 9 OF PORTION B,LOWER GROUND FLOOR, VICTORY GARDEN, 153 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3191000215,
+            1,
+            "\u6d77\u8c50\u725b\u8169\u7c89\u9eb5",
+            "SHOP 3, G/F., VICTORY GARDEN, 153 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3191000321,
+            1,
+            "\u6709\u53e3\u798f",
+            "SHOP NO. 2, G/F, VICTORY GARDEN, 153 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            3191800721,
+            1,
+            "Thailand Food",
+            "SHOP 7, G/F, VICTORY GARDEN, 153 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284731
+        ]
+      ],
+      "coordinate": [
+        1.9920961909576116,
+        0.3903736420006622,
+        44.55000305175781
+      ],
+      "halfSize": [
+        29.863195000216365,
+        29.081689999438822,
+        5.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1042284564,
+        3,
+        [
+          [
+            2291802640,
+            0,
+            "\u77f3\u7c6c\u7c89\u4ed4",
+            "SHOP 5, G/F, KWAI DAO BUILDING, 129-151 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2291805366,
+            0,
+            "\u9b5a\u773e\u4e0d\u540c",
+            "SHOP NO. 6, G/F, KWAI DAO BUILDING, NOS 129-137 & 141-151 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-10"
+          ],
+          [
+            3191000862,
+            1,
+            "\u8857\u7ca5",
+            "SHOP NO. 4, G/F, KWAI DAO BUILDING, 129-137 & 141-151, TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284733
+        ]
+      ],
+      "coordinate": [
+        1.9920984831209978,
+        0.39036723120056377,
+        48.400001525878906
+      ],
+      "halfSize": [
+        21.982734999619424,
+        18.70655499957502,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1042284565,
+        2,
+        [
+          [
+            2291800741,
+            0,
+            "\u8000\u8a18\u7ca5\u5e97",
+            "SHOP NO. 115, G/F, CHEONG SHEN MANSION, 113-127 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2291804558,
+            0,
+            "\u6ce2\u58eb\u9903\u5b50",
+            "SHOP 4, G/F, CHEONG SHEN MANSION, 113/117 & 121/127 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1042284734
+        ]
+      ],
+      "coordinate": [
+        1.992092648813667,
+        0.39036356210705403,
+        53.5
+      ],
+      "halfSize": [
+        18.791059999726713,
+        15.485755000263453,
+        6.5
+      ]
+    }
+  ]
+}

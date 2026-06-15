@@ -1,0 +1,340 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1191182336,
+        1,
+        [
+          [
+            2995804623,
+            4,
+            "Vital Care",
+            "ROOM A36, A51 & A52, 3/F, TAI PO INDUSTRIAL ESTATE, NO. 2 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183156
+        ]
+      ],
+      "coordinate": [
+        1.9929528024117913,
+        0.3920311765003932,
+        15.549999237060547
+      ],
+      "halfSize": [
+        34.25399999972433,
+        29.521499999798834,
+        9.25
+      ]
+    },
+    {
+      "attributes": [
+        1191182337,
+        1,
+        [
+          [
+            2995000090,
+            4,
+            "Unilever  Hong Kong Limited",
+            "1/F(PORTION) & 2/F(PORTION), TAI PO INDUSTRIAL ESTATE, 6 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183162
+        ]
+      ],
+      "coordinate": [
+        1.992927184544788,
+        0.39203063281561384,
+        12.699999809265137
+      ],
+      "halfSize": [
+        47.14149999991059,
+        29.473999999463558,
+        8.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1191182338,
+        3,
+        [
+          [
+            2995800977,
+            4,
+            "PIC",
+            "3/F, BLOCK 1 AND BLOCK 2, 8 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ],
+          [
+            2995800986,
+            4,
+            "FAIRWOOD FAST FOOD",
+            "2/F, BLOCK 1 & BLOCK 2, 8 DAI FU STREET, TAI PO INDUSTRIAL ESTATE , TAI PO, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ],
+          [
+            2995800995,
+            4,
+            "Fairwood Fast Food",
+            "1/F, BLOCK 1 & BLOCK 2, 8 DAI FU STREET, TAI PO INDUSTRIAL ESTATE , TAI PO, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183167
+        ]
+      ],
+      "coordinate": [
+        1.9929120507775173,
+        0.3920291875201402,
+        16.100000381469727
+      ],
+      "halfSize": [
+        38.94100000010803,
+        25.01950000040233,
+        10.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1191182339,
+        9,
+        [
+          [
+            2995801369,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "1/F, BLOCK A1, KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2995801396,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "1/F, BLOCK A2 (PORTION), KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            2995801402,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "G/F, BLOCK A1 (PORTION), KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            2995801466,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "G/F (PORTION) & 1/F, BLOCK B1, KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2995801518,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "1/F, BLOCK B2, KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2995801624,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "G/F, BLOCK B1 (PORTION), KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2995801721,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "G/F, BLOCK B2 (PORTION), KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2995804942,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "1/F, BLOCK A2 (MINOR PORTION), KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ],
+          [
+            4995805475,
+            4,
+            "KEE WAH PRODUCTION CENTER",
+            "4/F, BLOCK C, KEE WAH PRODUCTION CENTER, 1 DAI KWAI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183181
+        ]
+      ],
+      "coordinate": [
+        1.9929821970497326,
+        0.39202578654016135,
+        13.350000381469727
+      ],
+      "halfSize": [
+        36.59440000029281,
+        24.44700000062585,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1191182340,
+        1,
+        [
+          [
+            2995801989,
+            4,
+            "AMOY FOOD LIMITED",
+            "MAJOR PORTION OF G/F TO 2/F, 7 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183213
+        ]
+      ],
+      "coordinate": [
+        1.992912489725359,
+        0.39201650839944424,
+        17.25
+      ],
+      "halfSize": [
+        36.0464999997057,
+        23.012499999254942,
+        11.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1191182341,
+        1,
+        [
+          [
+            2595000014,
+            3,
+            "\u6c38\u5bcc\u5bb9\u5668",
+            "3/F, TAI PO INDUSTRIAL ESTATE, 1 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183215
+        ]
+      ],
+      "coordinate": [
+        1.9929536666539813,
+        0.39201162523555566,
+        18.299999237060547
+      ],
+      "halfSize": [
+        28.617500000167638,
+        52.04299999959767,
+        12.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1191182342,
+        2,
+        [
+          [
+            2995801873,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF ROOM C-P-13, PODIUM LEVEL, CENTRAL FACILITIES BLDG., BLOCK C, THE EDUCATION UNIVERSITY OF HONG KONG, 10 LO PING ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ],
+          [
+            3295800252,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF ROOM C-P-13, PODIUM LEVEL, CENTRAL FACILITIES BUILDING, BLOCK C, THE EDUCATION UNIVERSITY OF HONG KONG, 10 LO PING ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183226
+        ]
+      ],
+      "coordinate": [
+        1.9930766790320458,
+        0.3921510338750437,
+        50.94999694824219
+      ],
+      "halfSize": [
+        223.14776000007987,
+        218.86809499934316,
+        5.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1191182343,
+        1,
+        [
+          [
+            3695000263,
+            5,
+            "Wellcome",
+            "BASEMENT (PORTION), RICHWOOD PARK SHOP ARCADE, 33 LO FAI ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1191183233
+        ]
+      ],
+      "coordinate": [
+        1.9930949297677552,
+        0.39206116293251575,
+        85.1500015258789
+      ],
+      "halfSize": [
+        52.692495000083,
+        69.42664000019431,
+        4.75
+      ]
+    }
+  ]
+}

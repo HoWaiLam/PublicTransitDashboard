@@ -1,0 +1,753 @@
+{
+  "features": [
+    {
+      "attributes": [
+        358612992,
+        2,
+        [
+          [
+            2217000075,
+            0,
+            "Lion Rock Caf\u00e9",
+            "1/F. (PORTION), HEADLAND HOTEL, H.K. INT'L AIRPORT, 8 SCENIC ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            2217000127,
+            0,
+            "Catalina's Restaurant",
+            "23/F. (PORTION), HEADLAND HOTEL, H.K. INT'L AIRPORT, 8 SCENIC ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358612992
+        ]
+      ],
+      "coordinate": [
+        1.9885268071076705,
+        0.38917321412875416,
+        12.600000381469727
+      ],
+      "halfSize": [
+        58.55200000014156,
+        119.42200000025332,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        358612993,
+        23,
+        [
+          [
+            2217802471,
+            0,
+            "Outback Steakhouse",
+            "SHOP 326B., AND OUTSIDE SEATING ACCOMMODATION ON FLAT ROOF OF SHOP 326B, 3RD FLOOR, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2217802499,
+            0,
+            "Ten Ren's Tea, Chef Hung Taiwanese Beef Noodle",
+            "SHOP 702, 7/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2217802532,
+            0,
+            "Chun Shui Tang",
+            "UNIT 286, 2/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2217802541,
+            0,
+            "GENKI SUSHI",
+            "SHOP 602, 6/F, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2217802569,
+            0,
+            "Paradise Dynasty",
+            "SHOP 326A AND OUTSIDE SEATING ACCOMMODATION AT ADJOINING FLAT ROOF, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2217802596,
+            0,
+            "GOOBNE",
+            "UNIT 701 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF OF UNIT 701, 7/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2217802611,
+            0,
+            "LAW MARK KEE",
+            "SHOP 510, 5TH FLOOR, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2217802727,
+            0,
+            "\u84bc\u7fe0\u96f2\u5357\u7c73\u7dda",
+            "SHOP 334 & SEATING AREA OPPOSITE TO SHOP 334, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2217802736,
+            0,
+            "ORERYUSHIO",
+            "UNIT 306, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2217802745,
+            0,
+            "Kaneko Hannosuke (Citygate Shop)",
+            "SHOP 101A, 1/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2217802790,
+            0,
+            "OOLAA TUNG CHUNG",
+            "UNIT G30, G/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2217802806,
+            0,
+            "DAB-PA PEKING & SZECHUAN CUISINE",
+            "UNIT 402, 4/F., CITYGATE , 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2217802851,
+            0,
+            "Tasty Congee & Noodle Wantun Shop",
+            "SHOP 332, 3/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2217802860,
+            0,
+            "Lian Vietnamese & Thai Cuisine",
+            "SHOP 401, 4/F., AND THE OUTSIDE SEATING ACCOMODATIONAT SHOP FRONT, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2217802994,
+            0,
+            "Cinnabon",
+            "SHOP 298, 2/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2217803508,
+            0,
+            "QUE",
+            "UNITS 284-285, 2/F, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-03-09"
+          ],
+          [
+            2217803942,
+            0,
+            "Shabu Days Gyukaku Japanese Yakiniku Restaurant",
+            "SHOP NOS. 706 & 707, 7/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2217803988,
+            0,
+            "CANTON HOUSE / GOLDEN DRAGON",
+            "UNIT 601 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF OF UNIT 601, 6/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-10-22"
+          ],
+          [
+            2217804006,
+            0,
+            "A Cheng Goose",
+            "UNIT 603, 6/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-11-23"
+          ],
+          [
+            3117801272,
+            1,
+            "MCL Citygate Cinema",
+            "PORTION A OF CINEMA AT PORTION OF LEVEL 6, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3117801546,
+            1,
+            "CUPPING ROOM",
+            "UNIT 263, 2/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-04-20"
+          ],
+          [
+            3117801616,
+            1,
+            "MEET FRESH",
+            "SHOP 604, 6/F., CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3117801731,
+            1,
+            "BLUE BOTTLE CAFE",
+            "UNIT 243, 2/F, CITYGATE, 18-20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358612997
+        ]
+      ],
+      "coordinate": [
+        1.9886363745622835,
+        0.3890324924221471,
+        28.25
+      ],
+      "halfSize": [
+        126.31883654469857,
+        59.37825999967754,
+        22.75
+      ]
+    },
+    {
+      "attributes": [
+        358612994,
+        1,
+        [
+          [
+            2217800916,
+            0,
+            "AJISEN RAMEN",
+            "SHOP NOS. 2 & 3, GROUND FLOOR, FU TUNG SHOPPING CENTRE, FU TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358612999
+        ]
+      ],
+      "coordinate": [
+        1.988662550507956,
+        0.38899625946523814,
+        9.550000190734863
+      ],
+      "halfSize": [
+        27.7320000003092,
+        24.759999999776483,
+        2.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        358612995,
+        1,
+        [
+          [
+            3117001058,
+            1,
+            "Dakotas",
+            "1/F. (PORTION), THE DAKOTA CLUB, CATHAY PACIFIC CITY, H.K. INT'L AIRPORT, 8 SCENIC ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613006
+        ]
+      ],
+      "coordinate": [
+        1.9885268029719254,
+        0.3891731522051437,
+        33.099998474121094
+      ],
+      "halfSize": [
+        58.55200000014156,
+        119.42200000025332,
+        12.999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        358612996,
+        6,
+        [
+          [
+            2217800882,
+            0,
+            "Mint & Basil Thai Vietnamese Cuisine",
+            "SHOP K, G/F., SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2217801113,
+            0,
+            "OUZO BAR AND RESTAURANT",
+            "SHOP G, G/F., RETAIL SEAVIEW CRESCENT, NO. 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            2217802143,
+            0,
+            "A TAVOLA",
+            "SHOP E & F, G/F., SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2217802198,
+            0,
+            "MIDAM KOREAN RESTAURANT",
+            "SHOP H, G/F., SEAVIEW CRESCENT, NO. 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2217802718,
+            0,
+            "Nori Nori",
+            "SHOP R & S, G/F., SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2217803289,
+            0,
+            "FULL FLAVOUR",
+            "SHOP L & M, G/F., RETAIL SEAVIEW CRESCENT, 8 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-04-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613028
+        ]
+      ],
+      "coordinate": [
+        1.9886752495085205,
+        0.38908078679616387,
+        16.850000381469727
+      ],
+      "halfSize": [
+        67.4818400000222,
+        40.44302999973297,
+        10.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        358612997,
+        3,
+        [
+          [
+            2217800147,
+            0,
+            "Novotel Citygate Hong Kong",
+            "1/F (RESTAURANT AREA), 2/F (PANTRY 01) & 3/F (RESTAURANT & PANTRY 02), NOVOTEL CITYGATE, 51 MAN TUNG ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-10-24"
+          ],
+          [
+            3117800057,
+            1,
+            "Novotel Citygate Hong Kong",
+            "21/F (PORTION), NOVOTEL CITYGATE, 51 MAN TUNG ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-09-26"
+          ],
+          [
+            3117800066,
+            1,
+            "Novotel Citygate Hong Kong",
+            "UNIT 225, 2/F., NOVOTEL CITYGATE, NO. 51 MAN TUNG ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-10-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613072
+        ]
+      ],
+      "coordinate": [
+        1.9886687866697514,
+        0.3890538544409716,
+        49.650001525878906
+      ],
+      "halfSize": [
+        9.068674999754876,
+        37.79425000026822,
+        43.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        358612998,
+        15,
+        [
+          [
+            2217800767,
+            0,
+            "McDonald's Restaurant",
+            "UNIT 112, 1/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2217801098,
+            0,
+            "Tsujihan(Citygate Shop) / Firebird - Japanese Grill & Bar (Citygate Shop)",
+            "SHOP B13, B1/F., CITYGATE OUTLETS, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2217801247,
+            0,
+            "Nabe Urawa",
+            "UNIT 119, 1/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ],
+          [
+            2217801821,
+            0,
+            "Teawood Taiwanese Cafe & Restaurant",
+            "SEATING AREA OUTSIDE SHOP G24 AND SHOP G24, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2217801830,
+            0,
+            "Nha Trang (CG) Vietnamese Cuisine",
+            "UNIT G25, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2217801894,
+            0,
+            "MOON LOK CHIU CHOW",
+            "UNIT G22, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2217801955,
+            0,
+            "SHAKE SHACK",
+            "UNIT G20, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2217802462,
+            0,
+            "JASMINE",
+            "SHOP 255 & 301, 2/F. & 3/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2217802657,
+            0,
+            "Shokudo Wara",
+            "UNIT 317, 3/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-04-05"
+          ],
+          [
+            2217802666,
+            0,
+            "XIHE YA YUAN",
+            "UNIT 417, 4/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU, HONG KONG",
+            null,
+            "2026-04-06"
+          ],
+          [
+            2217803605,
+            0,
+            "Pho Le",
+            "SHOP 703, 7/F, CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2217803845,
+            0,
+            "PIZZAEXPRESS",
+            "SHOP 418, 4/F., CITYGATE OUTLETS, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-12-19"
+          ],
+          [
+            3117800914,
+            1,
+            "Starbucks Coffee",
+            "SHOP G23 AND PORTION OF SHOP FRONT CORRIDOR, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-04-09"
+          ],
+          [
+            3117800987,
+            1,
+            "Pret A Manger",
+            "UNIT G18, G/F., CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            3117801467,
+            1,
+            "VENCHI",
+            "SHOP NO. 205, CITYGATE, 20 TAT TUNG ROAD, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613091
+        ]
+      ],
+      "coordinate": [
+        1.9886341237375345,
+        0.3890269254019086,
+        23.900001525878906
+      ],
+      "halfSize": [
+        50.2417449997738,
+        44.068334999494255,
+        17.5
+      ]
+    },
+    {
+      "attributes": [
+        358612999,
+        1,
+        [
+          [
+            2217801788,
+            0,
+            "MAN WAH RESTAURANT",
+            "SHOP NO. 21, G/F, FU TUNG PLAZA, FU TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613102
+        ]
+      ],
+      "coordinate": [
+        1.9886721766837967,
+        0.3890131308242102,
+        17.799999237060547
+      ],
+      "halfSize": [
+        76.01581000024453,
+        64.27158499974757,
+        11.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        358613000,
+        8,
+        [
+          [
+            2217801423,
+            0,
+            "TSUI WAH RESTAURANT",
+            "SHOP 101, 1/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2217801858,
+            0,
+            "SUGAR & SPICE",
+            "SHOP NOS. 4 & 5, G/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2217802000,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 110B, FIRST FLOOR, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS FU TUNG PLAZA), FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2217802903,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 110C, 1/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2217803012,
+            0,
+            "Mos Burger",
+            "SHOP NO. 23, G/F., FU TUNG PLAZA, 6 FU TUNG STREET, TUNG CHUNG, LANTAU, HONG KONG",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2217803915,
+            0,
+            "VIBE THE FUSION CORNER",
+            "SHOP 01, G/F., FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-07-10"
+          ],
+          [
+            3117800701,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP 18 & 19, G/F., COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS FU TUNG PLAZA), FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-01"
+          ],
+          [
+            3117801607,
+            1,
+            "\u6d2a\u8a18\u9eb5\u5bb6",
+            "STALL NO. M16 IN THE MARKET PLACE, G/F, FU TUNG PLAZA, FU TUNG ESTATE, 6 FU TUNG STREET, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613119
+        ]
+      ],
+      "coordinate": [
+        1.9886826653692071,
+        0.3890073893320332,
+        11.700000762939453
+      ],
+      "halfSize": [
+        22.09495500009507,
+        22.1374500002712,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        358613001,
+        1,
+        [
+          [
+            2217801265,
+            0,
+            "\u83ef\u90fd",
+            "2 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613153
+        ]
+      ],
+      "coordinate": [
+        1.9885377449754964,
+        0.3889651630252806,
+        5.350000381469727
+      ],
+      "halfSize": [
+        8.095499999821186,
+        10.20449999999255,
+        2.750000238418579
+      ]
+    },
+    {
+      "attributes": [
+        358613002,
+        1,
+        [
+          [
+            2217802985,
+            0,
+            "The Silveri Hong Kong - MGallery",
+            "L9(PORTION A) AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF OF L9(PORTION A) AND L15(PORTION A), THE SILVERI HONG KONG - MGALLERY, 16 TAT TUNG ROAD, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          358613215
+        ]
+      ],
+      "coordinate": [
+        1.9886283805065283,
+        0.3890379790891262,
+        39.849998474121094
+      ],
+      "halfSize": [
+        45.788609999697655,
+        25.776455000042915,
+        34.349998474121094
+      ]
+    }
+  ]
+}

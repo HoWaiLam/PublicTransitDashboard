@@ -1,0 +1,51 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1270874112,
+        3,
+        [
+          [
+            2996802961,
+            4,
+            "\u672c\u5730\u5eda\u623f",
+            "PORTION A OF SHOP NO. 4C, G/F, BLOCK 19, SHA TAU KOK CHUEN, 51 SHUN HING STREET, SHA TAU KOK, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            2996803016,
+            4,
+            "\u82b3\u8a18",
+            "SHOP NO. 1, G/F, BLOCK 16, SHA TAU KOK CHUEN , 51 SHUN HING STREET, SHA TAU KOK, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            3296800152,
+            6,
+            "\u672c\u5730\u5eda\u623f",
+            "PORTION B OF SHOP NO. 4C, G/F, BLOCK 19, SHA TAU KOK CHUEN , 51 SHUN HING STREET, SHA TAU KOK, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1270874510
+        ]
+      ],
+      "coordinate": [
+        1.993583956923972,
+        0.3935030397994515,
+        13.049999237060547
+      ],
+      "halfSize": [
+        17.198414999991655,
+        26.009425000287592,
+        7.849999904632568
+      ]
+    }
+  ]
+}

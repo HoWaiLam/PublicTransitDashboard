@@ -1,0 +1,1519 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1176502272,
+        1,
+        [
+          [
+            2997806058,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF 2/F, DAY TREATMENT BLOCK AND CHILDREN WARDS OF THE PRINCE OF WALES HOSPITAL, 30-32 NGAN SHING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502272
+        ]
+      ],
+      "coordinate": [
+        1.9931856357368838,
+        0.3905959257214444,
+        17.649999618530273
+      ],
+      "halfSize": [
+        57.68099999986589,
+        88.95249999966472,
+        8.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1176502273,
+        34,
+        [
+          [
+            2997804502,
+            4,
+            "MAXIM'S CAKES",
+            "SHOP 251, 2/F, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS SHA KOK SHOPPING CENTRE), SHA KOK ESTATE, 5 SHA KOK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2997809002,
+            4,
+            "\u6a02\u65af\u9eb5\u98fd",
+            "STALL S-SK1, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2997809020,
+            4,
+            "\u540d\u57ce\u8eca\u4ed4\u9eb5",
+            "STALL S-SK60, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2997809048,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "STALL S-SK56, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2997809136,
+            4,
+            "\u9903\u9903\u6382",
+            "STALL S-SK55, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2997809224,
+            4,
+            "\u5305\u9ede\u5148\u751f",
+            "STALL S-SK2, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2997809419,
+            4,
+            "\u5bcc\u6771\u71d2\u5473",
+            "STALL S-SK11 (PORTION A), SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2997809473,
+            4,
+            "\u91d1\u7389\u5802\u71d2\u5473",
+            "STALL S-SK9 (PORTION A), SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2997812242,
+            4,
+            "\u58fd\u53f8\u9054\u4eba",
+            "STALL S-SK54, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2997813786,
+            4,
+            "\u963f\u7d05\u991b\u98e9",
+            "STALL S-SK 70, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2997814178,
+            4,
+            "\u8001\u9ea5\u7f8e\u98df",
+            "STALL S-SK10, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2997814363,
+            4,
+            "\u597d\u5473\u9053",
+            "STALL S-SK62, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-09"
+          ],
+          [
+            2997814406,
+            4,
+            "\u70b8\u86cb\u8c93",
+            "STALL S-SK57, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-04-02"
+          ],
+          [
+            2997814415,
+            4,
+            "Sushi Take-Out",
+            "SHOP 214, 2/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2997814789,
+            4,
+            "\u53cb\u6e90\u8178\u7c89",
+            "STALL S-SK61, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2997815232,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "STALL S-SK39, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ],
+          [
+            3697801563,
+            5,
+            "Wellcome",
+            "SHOP NO. 302 (PORTION A), LEVEL 3 , SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3697803505,
+            5,
+            "\u56db\u6d77\u96de\u9d28",
+            "STALL S-SK51, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ],
+          [
+            3697803684,
+            5,
+            "\u8c46\u8c46\u6d77\u9bae",
+            "STALL S-SK85 & 88, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3697803693,
+            5,
+            "\u65e5\u8a18\u9bae\u9b5a",
+            "STALL S-SK37, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3697803709,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL S-SK69, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            3697803727,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL S-SK86-87 SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3697803772,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL S-SK46, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3697803781,
+            5,
+            "\u51a0\u8208\u51cd\u8089",
+            "STALL S-SK24-25, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            3697803833,
+            5,
+            "S   mart FOOD",
+            "STALL S-SK7-8, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-18"
+          ],
+          [
+            3697803851,
+            5,
+            "\u5efa\u83ef\u8fb2\u7267",
+            "STALL S-SK71, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ],
+          [
+            3697803879,
+            5,
+            "\u9818\u9bae",
+            "STALL S-SK77, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-01"
+          ],
+          [
+            3697803888,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL S-SK72, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-01"
+          ],
+          [
+            3697805495,
+            5,
+            "\u725b\u820d",
+            "STALL S-SK52, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            3697806027,
+            5,
+            "\u91d1\u9f8d\u9bae\u9b5a",
+            "STALL S-SK 45, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            3697806054,
+            5,
+            "\u5bf6\u767c\u9bae\u9b5a",
+            "STALL S-SK44, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            4697804817,
+            5,
+            "\u6f01\u5e02",
+            "STALL S-SK 79 & 82, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            3597800602,
+            8,
+            "\u5bcc\u6771\u71d2\u5473",
+            "STALL S-SK11 (PORTION B), SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3597800611,
+            8,
+            "\u91d1\u7389\u5802\u71d2\u5473",
+            "STALL S-SK9 (PORTION B), SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502285
+        ]
+      ],
+      "coordinate": [
+        1.993062993576456,
+        0.3905662608698225,
+        8.899999618530273
+      ],
+      "halfSize": [
+        103.06562499981374,
+        67.44549999944866,
+        3.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1176502274,
+        2,
+        [
+          [
+            2197800344,
+            1,
+            "\u5357\u8c50\u9910\u5ef3",
+            "MINOR PORTION OF COOKED FOOD STALL NOS. 1, 2, 3 & 4, SUN TIN WAI SHOPPING CENTRE, SUN TIN WAI ESTATE, NO. 29 SHA TIN TAU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-27"
+          ],
+          [
+            3697801466,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NOS. 21-23 & 25, 4/F, SUN TIN WAI SHOPPING CENTRE, SUN TIN WAI ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502292
+        ]
+      ],
+      "coordinate": [
+        1.9929165725758096,
+        0.39043638945611464,
+        30.5
+      ],
+      "halfSize": [
+        51.30149999959394,
+        53.08999999985099,
+        6.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1176502275,
+        2,
+        [
+          [
+            2197000078,
+            1,
+            "Carol Bakery",
+            "G/F, NO 6 & ROOM 248 1/F, SAND MARTIN HOUSE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2997801895,
+            4,
+            "Q Dim Sim",
+            "SHOP 5, G/F, SAND MARTIN HOUSE, SHA KOK ESTATE, 5 SHA KOK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502411
+        ]
+      ],
+      "coordinate": [
+        1.9930728543387128,
+        0.3905740347221189,
+        31.69999885559082
+      ],
+      "halfSize": [
+        61.75650000013411,
+        24.67050000000745,
+        25.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1176502276,
+        1,
+        [
+          [
+            3297000306,
+            6,
+            "7-ELEVEN",
+            "G/F, PORTION OF SHOP NOS 14 & 15, OSPREY HOUSE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502535
+        ]
+      ],
+      "coordinate": [
+        1.9930574365905114,
+        0.3905614783194706,
+        31.30000114440918
+      ],
+      "halfSize": [
+        38.840499999932945,
+        22.463000000454485,
+        25.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1176502277,
+        4,
+        [
+          [
+            2997803314,
+            4,
+            "CY Food Trading (HK) Co. Ltd",
+            "ROOM B, 1/F, SUNKING INDUSTRY BUILDING, 1-7 SHING CHUEN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2997809534,
+            4,
+            "Bright Overseas Food Limited",
+            "WORKSHOP B, 6/F, SUNKING FACTORY BUILDING, NOS. 1-7 SHING CHUEN ROAD , TAI WAI , SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2997811328,
+            4,
+            "HK ELEMENTS LIMITED",
+            "5/F, SUNKING FACTORY BUILDING, NOS. 1-7 SHING CHUEN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2997813166,
+            4,
+            "Hop Fat Company",
+            "UNIT A1, 3/F, SUNKING INDUSTRY BUILDING, 1-7 SHING CHUEN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502560
+        ]
+      ],
+      "coordinate": [
+        1.992863260750436,
+        0.390556721095311,
+        25.80000114440918
+      ],
+      "halfSize": [
+        33.447500000242144,
+        34.65250000078231,
+        21.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1176502278,
+        9,
+        [
+          [
+            3697805264,
+            5,
+            "Chau Tin Kee Foods",
+            "STALL NO. 28-29, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ],
+          [
+            3697805307,
+            5,
+            "\u9bae\u8a18\u6d77\u9bae",
+            "STALL NO.40, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            3697805547,
+            5,
+            "QDAMA (JAT MIN CHUEN)",
+            "PORTIONS OF MARKET STALL NO. 2 & 3, G/F OF MARKET PLACE, 9 JAT MIN CHUEN STREET, JAT MIN CHUEN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            3697805644,
+            5,
+            "\u5065\u8a18\u9bae\u9b5a",
+            "STALL NO. 38, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            3697805857,
+            5,
+            "\u6c38\u76db\u9bae\u8089",
+            "STALL NO. 18, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ],
+          [
+            3697805963,
+            5,
+            "\u9d3b\u5229",
+            "MAJOR PORTION OF STALL NO. 17, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3697805981,
+            5,
+            "\u5929\u5929\u8089\u98df",
+            "STALL NO. 16, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            3697806009,
+            5,
+            "\u9bae\u5473\u5e02\u5834",
+            "PORTION OF SHOP NO. 12-15 & 32-35, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHATIN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            4697804880,
+            5,
+            "\u4e94\u8c50\u9bae\u8089",
+            "STALL NO. 27, G/F, MARKET, 9 JAT MIN CHUEN STREET, JAT MIN CHUEN, SHATIN, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502636
+        ]
+      ],
+      "coordinate": [
+        1.993021416961743,
+        0.3905479187477273,
+        8.949999809265137
+      ],
+      "halfSize": [
+        29.51049999985844,
+        22.447499999776483,
+        3.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1176502279,
+        15,
+        [
+          [
+            2597000054,
+            3,
+            "\u7f8e\u98df\u9928",
+            "8/F, 11 TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2597800241,
+            3,
+            "\u8c6c\u624b\u5de5\u623f",
+            "UNIT 11, 2/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            2997000128,
+            4,
+            "\u6210\u8208",
+            "NO 15, 5/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000261,
+            4,
+            "NEW HOPHING NOODLE FOOD LTD",
+            "NO 15, 4/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000508,
+            4,
+            "\u91d1\u5854",
+            "NO 3 & 4, 4/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000784,
+            4,
+            "\u771f\u597d\u6709\u9650\u516c\u53f8",
+            "ROOM 11-12, 4/F, TRANSPORT CITY, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            2997001486,
+            4,
+            "\u91d1\u767c",
+            "UNIT 15, 6/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2997803624,
+            4,
+            "Tai Hing Noodles Factory Co. Ltd.",
+            "ROOM 4-5, 3/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2997804195,
+            4,
+            "Kam Fat Noodle Factory",
+            "SHOP 14, 6/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2997805693,
+            4,
+            "\u65b0\u5927\u8208",
+            "ROOM NO 4, 2/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2997806076,
+            4,
+            "\u4e5d\u529f\u98f2\u98df",
+            "SHOP 15, 7/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-12"
+          ],
+          [
+            2997806465,
+            4,
+            "Taihing Noodles Factory Co. Ltd.",
+            "ROOM 1, 3/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2997810811,
+            4,
+            "Kloud",
+            "FLAT 2-3, 9/F, TRANSPORT CITY BUILDING, 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2997811249,
+            4,
+            "WING LEE",
+            "UNIT 10-11, 3/F, TRANSPORT CITY BUILDING, NOS. 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-04-05"
+          ],
+          [
+            2997812428,
+            4,
+            "\u66c9\u9054\u767c\u5c55\u6709\u9650\u516c\u53f8",
+            "UNIT 12, 3/F, TRANSPORT CITY BUILDING, NOS. 1-7 SHING WAN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502690
+        ]
+      ],
+      "coordinate": [
+        1.9928446317760713,
+        0.39053961830351447,
+        28.200000762939453
+      ],
+      "halfSize": [
+        39.31621999992058,
+        43.32685999944806,
+        21.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1176502280,
+        13,
+        [
+          [
+            2997810893,
+            4,
+            "\u6dfb\u306e\u624b\u6495\u96de",
+            "STALL NO. S-CS 29, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2997810954,
+            4,
+            "\u5cb1\u6c11\u79e6\u77f3",
+            "STALL NO. S-CS 18B, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2997810963,
+            4,
+            "\u751c\u306e\u6200",
+            "STALL NO. S-CS 22, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2997810972,
+            4,
+            "\u6cf0\u5c4b 2",
+            "STALL NO. S-CS 04, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2997810981,
+            4,
+            "\u742a\u5473\u5c0f\u98df",
+            "STALL NO. S-CS 23, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2997811009,
+            4,
+            "\u5305\u9ede\u5148\u751f",
+            "STALL NO. S-CS 02-03, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2997811081,
+            4,
+            "\u79cb\u7530\u5305\u9905\u5e97",
+            "STALL NO. S-CS 20, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2997813689,
+            4,
+            "\u6eff\u5206\u5802",
+            "STALL NO. S-CS 21, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ],
+          [
+            4997815975,
+            4,
+            "\u7acb\u6210\u5065\u5eb7\u7d20\u98df",
+            "STALL NO. S-CS 30, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ],
+          [
+            3697804456,
+            5,
+            "Wellcome",
+            "SHOP NOS. 26, 27 AND 28 (PORTION B), 1/F., CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            3697804650,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL NO. S-CS 15-16, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            3697804696,
+            5,
+            "S-mart Food",
+            "STALL NO. S-CS 26-27, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            3697804711,
+            5,
+            "\u79e6\u77f3\u8089\u67b1",
+            "STALL NO. S-CS 37, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503038
+        ]
+      ],
+      "coordinate": [
+        1.992940930537287,
+        0.3904724896521324,
+        19.299999237060547
+      ],
+      "halfSize": [
+        40.93677500030026,
+        41.03091500047594,
+        10.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1176502281,
+        1,
+        [
+          [
+            2997803280,
+            4,
+            "\u5321\u667a\u6703",
+            "WORKSHOP 1, WING 2, G/F, SUN FONG HOUSE, SUN CHUI ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503071
+        ]
+      ],
+      "coordinate": [
+        1.9928499008820397,
+        0.39045473550286147,
+        31.700000762939453
+      ],
+      "halfSize": [
+        24.619500000029802,
+        87.9135000007227,
+        25.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1176502282,
+        1,
+        [
+          [
+            2997814868,
+            4,
+            "GULUGOOD FOOD COMPANY",
+            "PORTION OF G/F, NO.71 SAN TIN VILLAGE, LOT NO. 799, D.D. 179, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503136
+        ]
+      ],
+      "coordinate": [
+        1.9928700526452139,
+        0.3904451126049053,
+        10.450000762939453
+      ],
+      "halfSize": [
+        5.991284999996424,
+        5.13372499961406,
+        4.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1176502283,
+        2,
+        [
+          [
+            2997808762,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 5, FOURTH FLOOR, WING WAI HOUSE , SUN TIN WAI ESTATE, NO. 29 SHA TIN TAU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            3297800575,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 5, FOURTH FLOOR, WING WAI HOUSE , SUN TIN WAI ESTATE, NO. 29 SHA TIN TAU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503138
+        ]
+      ],
+      "coordinate": [
+        1.9929126750339536,
+        0.3904395659525568,
+        60.20000076293945
+      ],
+      "halfSize": [
+        30.93099999986589,
+        34.96449999976903,
+        23.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1176502284,
+        1,
+        [
+          [
+            2997807796,
+            4,
+            "Lun She",
+            "SHOP NO.2, POK HONG SHOPPING CENTRE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503560
+        ]
+      ],
+      "coordinate": [
+        1.9930475595943413,
+        0.3905245869019305,
+        16.0
+      ],
+      "halfSize": [
+        39.49599999981001,
+        28.610999999567866,
+        9.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1176502285,
+        2,
+        [
+          [
+            3697804517,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP 7A, G/F, 7 JAT MIN CHUEN STREET, JAT MIN CHUEN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            3697804562,
+            5,
+            "\u539a\u6689\u9bae\u8089",
+            "SHOP 7B, G/F., 7 JAT MIN CHUEN STREET, JAT MIN CHUEN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503603
+        ]
+      ],
+      "coordinate": [
+        1.9930246130176588,
+        0.390543109986343,
+        8.300000190734863
+      ],
+      "halfSize": [
+        23.016694999765605,
+        16.074575000442564,
+        3.0
+      ]
+    },
+    {
+      "attributes": [
+        1176502286,
+        2,
+        [
+          [
+            2997800962,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP NO. 9 & 10, POK YUE HOUSE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ],
+          [
+            3297000096,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP 9 & 10, POK YUE HOUSE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503625
+        ]
+      ],
+      "coordinate": [
+        1.9930621459958862,
+        0.3905293395159517,
+        32.150001525878906
+      ],
+      "halfSize": [
+        14.236999999731779,
+        26.700999999418855,
+        25.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1176502287,
+        2,
+        [
+          [
+            2997800582,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP NO. 53, G/F, MING SHUN LAU, JAT MIN CHUEN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ],
+          [
+            3297800061,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP NO. 53, G/F, MING SHUN LAU, JAT MIN CHUEN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503684
+        ]
+      ],
+      "coordinate": [
+        1.993001295442028,
+        0.39053999783387655,
+        49.44999694824219
+      ],
+      "halfSize": [
+        43.84750000014901,
+        29.63450000062585,
+        44.25
+      ]
+    },
+    {
+      "attributes": [
+        1176502288,
+        1,
+        [
+          [
+            2997803068,
+            4,
+            "Mr Bakery",
+            "SHOP 7 & 8, G/F, POK WAH HOUSE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503689
+        ]
+      ],
+      "coordinate": [
+        1.9930590079206625,
+        0.3905243092907773,
+        31.75
+      ],
+      "halfSize": [
+        21.13950000004843,
+        14.071405000053346,
+        24.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1176502289,
+        15,
+        [
+          [
+            2997812783,
+            4,
+            "\u8c46\u7814\u5fc3\u4e8b",
+            "SHOPSTALL NO. 50, MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2997813023,
+            4,
+            "\u5abd\u54aa\u5473\u9053",
+            "SHOPSTALL NO. 49, MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3697000665,
+            5,
+            "Wellcome Supermarket",
+            "SHOP NO 126, LEVEL 1, COMMERCIAL CENTRE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3697805176,
+            5,
+            "\u6d69\u660e\u51cd\u8089",
+            "SHOPSTALL NO. 33, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            3697805246,
+            5,
+            "\u65b0\u83ef\u96de\u9d28",
+            "SHOPSTALL NO. 43, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3697805316,
+            5,
+            "\u69ae\u5229\u8089\u67b1",
+            "SHOPSTALL NO. 26, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3697805325,
+            5,
+            "\u9d3b\u904b\u9bae\u9b5a",
+            "SHOPSTALL NO. 37, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3697805334,
+            5,
+            "\u82ac\u59d0\u9bae\u9b5a",
+            "SHOPSTALL NO. 38, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3697805352,
+            5,
+            "\u8f1d\u54e5\u9bae\u9b5a",
+            "SHOPSTALL NO. 39, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3697805361,
+            5,
+            "W & S Butchery",
+            "SHOPSTALL NO. 29, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3697805370,
+            5,
+            "\u7f8e\u666f\u8089\u67b1",
+            "SHOPSTALL NO. 18,G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3697805389,
+            5,
+            "\u6e90\u660c\u6e90\u8208\u725b\u8089",
+            "SHOPSTALL NO. 23, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3697805413,
+            5,
+            "\u65b0\u9686\u96de\u9d28",
+            "SHOPSTALL NO. 42, MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            3697805927,
+            5,
+            "\u6210\u5229\u9bae\u8089",
+            "SHOPSTALL NO. 30, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            4697804792,
+            5,
+            "\u7f85\u6210\u8a18\u9bae\u9b5a",
+            "SHOPSTALL NO. 40, G/F, POK HONG MARKET, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503779
+        ]
+      ],
+      "coordinate": [
+        1.9930261891068592,
+        0.3905144235958119,
+        9.699999809265137
+      ],
+      "halfSize": [
+        34.732499999925494,
+        33.72800000011921,
+        2.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1176502290,
+        1,
+        [
+          [
+            2997805073,
+            4,
+            "---",
+            "SHOP NO. 1-3, G/F, JAT MIN CHUEN, 5 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503794
+        ]
+      ],
+      "coordinate": [
+        1.9930205607969773,
+        0.3905415275688286,
+        8.300000190734863
+      ],
+      "halfSize": [
+        8.050780000165105,
+        10.231499999761581,
+        3.0
+      ]
+    },
+    {
+      "attributes": [
+        1176502291,
+        1,
+        [
+          [
+            2997809978,
+            4,
+            "Hong Chi Shui Chuen O Integrated Rehabilitation Complex",
+            "MINOR PORTION OF G/F, MING CHUEN HOUSE, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503874
+        ]
+      ],
+      "coordinate": [
+        1.993141299799142,
+        0.39050418689384525,
+        109.19999694824219
+      ],
+      "halfSize": [
+        25.012339999899268,
+        31.00620999932289,
+        51.0
+      ]
+    },
+    {
+      "attributes": [
+        1176502292,
+        19,
+        [
+          [
+            2997805976,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP G06, G/F., SHUI CHUEN O PLAZA, 1 POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2997806225,
+            4,
+            "Sweet Bakery",
+            "SHOP G13, G/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2997810042,
+            4,
+            "PIZZA HUT",
+            "SHOP NO. 107, 1/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2997813050,
+            4,
+            "\u674e\u5f37\u8a18\u5eda\u623f",
+            "SHOP MS 22 & 23, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2997813236,
+            4,
+            "\u6c34\u6cc9\u5ddd\u5473",
+            "STALL MS04, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2997815250,
+            4,
+            "\u53c4\u865f\u98df\u5802",
+            "STALL MS03, 1/F, SHUI CHUEN O(ALLMART)MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ],
+          [
+            4997815577,
+            4,
+            "\u5442\u9326\u8a18\u624b\u6495\u96de\u5c08\u9580\u5e97",
+            "STALL MS58, 1/F., SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            4997815674,
+            4,
+            "\u9ea5\u98df\u70d8\u7119",
+            "STALL MS40, 41 & 42, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-09"
+          ],
+          [
+            4997815717,
+            4,
+            "\u738b\u8a18\u6f6e\u6c55\u6ef7\u6c34\u71d2\u5473\u5e97",
+            "(REAR PORTION) STALL MS02, 1/F., SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHATIN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            4997815762,
+            4,
+            "\u9f0e\u8c50\u5305\u9ede",
+            "STALL MS36 & 37, 1/F., SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3697802238,
+            5,
+            "Wellcome",
+            "SHOP NO. 221 (PORTIONS), 2/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            3697802317,
+            5,
+            "\u806f\u8c50\u884c",
+            "STALL MS33, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            3697802511,
+            5,
+            "\u660e\u8a18\u6d77\u9bae",
+            "STALL MS30 & MS31, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            3697802742,
+            5,
+            "\u8ce3\u9b5a\u4f6c",
+            "STALL MS 45A & MS 46, 1/F,SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            3697803930,
+            5,
+            "\u5fd7\u65b0\u98df\u54c1\u516c\u53f8",
+            "STALL MS-15 & MS-16, 1/F, SHUI CHUEN O MARKET, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3697805042,
+            5,
+            "\u5c0f\u80a5\u725b",
+            "MARKET STALL 11, 1/F, MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-13"
+          ],
+          [
+            3697805097,
+            5,
+            "\u53fb\u53fb\u8c6c",
+            "STALL MS47, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            3697805103,
+            5,
+            "\u70ba\u98df\u51b0\u8c5a",
+            "STALL MS44 & MS45, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            4597800753,
+            8,
+            "\u738b\u8a18\u6f6e\u6c55\u6ef7\u6c34\u71d2\u5473\u5e97",
+            "(FRONT PORTION) STALL MS02, 1/F., SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503910
+        ]
+      ],
+      "coordinate": [
+        1.993113130091087,
+        0.3904791021158505,
+        66.6500015258789
+      ],
+      "halfSize": [
+        65.26235500024632,
+        164.10924999974668,
+        11.850000381469727
+      ]
+    }
+  ]
+}

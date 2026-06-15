@@ -1,0 +1,537 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1119879168,
+        1,
+        [
+          [
+            2195800012,
+            1,
+            "Cherry Cake Shop",
+            "SHOP A, G/F & COCKLOFT, MAN HING BUILDING, 32-34 PO HEUNG STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879168
+        ]
+      ],
+      "coordinate": [
+        1.9925724215912346,
+        0.391774847832524,
+        15.5
+      ],
+      "halfSize": [
+        5.447025000117719,
+        6.363059999421239,
+        10.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1119879169,
+        2,
+        [
+          [
+            2995803745,
+            4,
+            "ShuKee Beancurd",
+            "SHOP 2A, G/F, PAULINE BUILDING, NO. 9-15 HEUNG SZE WUI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            3695802526,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP NO. 3 ON G/F, PAULINE BUILDING, NOS. 9-15 HEUNG SZE WUI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879170
+        ]
+      ],
+      "coordinate": [
+        1.992577741543482,
+        0.39177336807960245,
+        18.80000114440918
+      ],
+      "halfSize": [
+        14.302000000141561,
+        13.572615000419319,
+        13.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1119879170,
+        2,
+        [
+          [
+            2995802900,
+            4,
+            "\u9e97\u8239",
+            "SHOP B1-D, G/F, MEE WAH BUILDING, 12-18 WAN TAU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2995805079,
+            4,
+            "\u9e7d\u6c34\u96de.com",
+            "SHOP B1-I, G/F, MEE WAH BUILDING, 12-18 WAN TAU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879171
+        ]
+      ],
+      "coordinate": [
+        1.9926159293674766,
+        0.39177257230727225,
+        22.950000762939453
+      ],
+      "halfSize": [
+        23.699999999720603,
+        18.106999999843538,
+        18.25
+      ]
+    },
+    {
+      "attributes": [
+        1119879171,
+        1,
+        [
+          [
+            3695802012,
+            5,
+            "\u8fce\u9bae\u5bb6\u9109\u7279\u7522",
+            "PORTIONS OF SHOP 5, G/F, BLOCK C, MAN HING BUILDING, NO. 5 HEUNG SZE WUI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879173
+        ]
+      ],
+      "coordinate": [
+        1.992573490538856,
+        0.39177431937728774,
+        15.600000381469727
+      ],
+      "halfSize": [
+        4.626540000084788,
+        5.588120000436902,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        1119879172,
+        3,
+        [
+          [
+            2995802335,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "SHOP D, G/F, TAI WAN BUILDING, 10-22 TAI KWONG LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3695000281,
+            5,
+            "\u6fa4\u8208\u51cd\u8089\u98df\u54c1\u5e02\u5834",
+            "FLAT C, G/F, TAI WAN BUILDING, 14 TAI KWONG LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3695800900,
+            5,
+            "Wellcome",
+            "SHOP B, B1 & C1(PORTIONS), G/F, TAI WAN BUILDING, 10-16 & 20-22 TAI KWONG LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879175
+        ]
+      ],
+      "coordinate": [
+        1.9925964505806433,
+        0.39177136752251907,
+        38.10000228881836
+      ],
+      "halfSize": [
+        18.956135000102222,
+        24.095089999958873,
+        33.20000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1119879173,
+        3,
+        [
+          [
+            2995800834,
+            4,
+            "\u5927\u5c3e\u7be4\u71d2\u70e4\u738b",
+            "REAR PORTION , G/F, 17 HEUNG SZE WUI STREET , TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-20"
+          ],
+          [
+            2995804650,
+            4,
+            "\u96de\u592a\u5b50",
+            "G/F, 19 HEUNG SZE WUI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-14"
+          ],
+          [
+            3695800292,
+            5,
+            "\u5927\u5c3e\u7be4\u71d2\u70e4\u738b",
+            "FRONT PORTION, G/F, 17 HEUNG SZE WUI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879183
+        ]
+      ],
+      "coordinate": [
+        1.9925796353760512,
+        0.39177260939260533,
+        15.90000057220459
+      ],
+      "halfSize": [
+        6.930720000062138,
+        10.958455000072718,
+        10.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1119879174,
+        4,
+        [
+          [
+            2995803897,
+            4,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP H, G/F, PING ON HOUSE, NO. 33-39 HEUNG SZE WUI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-16"
+          ],
+          [
+            3695801426,
+            5,
+            "\u65e5\u65e5\u9bae\u4e94\u8c50\u9bae\u8089",
+            "SHOP G, G/F, PING ON BUILDING, NO. 7-9 TAI KWONG LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            3695801736,
+            5,
+            "\u7965\u8208\u98df\u54c1",
+            "PORTIONS OF G/F, 37E HEUNG SZE WUI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ],
+          [
+            4595800403,
+            8,
+            "\u73cd\u5473\u9e75\u6c34\u5e97",
+            "SHOP F2, G/F, PING ON BUILDING, NOS. 33/39 HEUNG SZE WUI STREET,NOS. 43 & 45 HEUNG SZE WUI SQUARE,NOS. 7 & 9 TAI KWONG LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879214
+        ]
+      ],
+      "coordinate": [
+        1.992588662503661,
+        0.3917685090922128,
+        15.300000190734863
+      ],
+      "halfSize": [
+        13.477564999833703,
+        14.50800000037998,
+        10.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1119879175,
+        1,
+        [
+          [
+            2995000124,
+            4,
+            "\u4e9e\u5a46\u8c46\u8150\u82b1",
+            "SHOP NO. 2A, G/F, 6 TAI KWONG LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879227
+        ]
+      ],
+      "coordinate": [
+        1.9925987970249337,
+        0.3917660482269471,
+        26.299999237060547
+      ],
+      "halfSize": [
+        43.17479999968782,
+        19.137500000186265,
+        21.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1119879176,
+        6,
+        [
+          [
+            2995802326,
+            4,
+            "UO-SHOW",
+            "SHOP TAP 12, TAI PO MARKET STATION, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2995802405,
+            4,
+            "SNACK EXPRESS",
+            "SHOP TAP 16, G/F, TAI PO MARKET STATION, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2995802821,
+            4,
+            "Ten Ren Tea",
+            "SHOP TAP 20, TAI PO MARKET STATION, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2995804526,
+            4,
+            "SUBWAY",
+            "SHOP TAP 22, G/F, TAI PO MARKET STATION, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ],
+          [
+            4995805439,
+            4,
+            "Pojangmacha",
+            "SHOP TAP 21, G/F, TAI PO MARKET STATION, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-12"
+          ],
+          [
+            3295800207,
+            6,
+            "Ten Ren Tea",
+            "SHOP TAP 20 (MINOR PORTION), TAI PO MARKET STATION, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879573
+        ]
+      ],
+      "coordinate": [
+        1.9926520831478212,
+        0.3917271554691921,
+        10.0
+      ],
+      "halfSize": [
+        72.5010950001888,
+        21.501000000163913,
+        5.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1119879177,
+        5,
+        [
+          [
+            2995801031,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 11, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2995803541,
+            4,
+            "SILVER RARE BAKERY",
+            "SHOP NO. 24, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ],
+          [
+            2995804234,
+            4,
+            "\u8336\u8a00\u8336\u8a9e(\u5927\u57d4\u5e97)",
+            "SHOP NO. 16A, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, NO. 10 HIU WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            3695802447,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP NO 13B, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, 10 HIU WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3295800128,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 11, G/F, WAN TAU TONG SHOPPING CENTRE, WAN TAU TONG ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119879908
+        ]
+      ],
+      "coordinate": [
+        1.9925951668560749,
+        0.3916894275576183,
+        12.0
+      ],
+      "halfSize": [
+        72.42299999995157,
+        48.37999999988824,
+        4.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1119879178,
+        7,
+        [
+          [
+            2195800207,
+            1,
+            "MEN WAH BING TENG",
+            "MINOR PORTION OF SHOP 054, 1/F, UPTOWN PLAZA, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2995801712,
+            4,
+            "Yamazaki Bakery",
+            "SHOP 092, LEVEL 1, UPTOWN PLAZA, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2995803602,
+            4,
+            "fusion by PARKnSHOP",
+            "STALL NO. 4, SHOP NO. 131-140, LEVEL 2, UPTOWN PLAZA, NO. 9 NAM WAN ROAD , TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2995803675,
+            4,
+            "A-1 Bakery",
+            "SHOP NOS. A016 & A017, LEVEL 1, UPTOWN PLAZA, NO.9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2995804003,
+            4,
+            "Chateraise",
+            "SHOP NOS. A028-A029, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2995804702,
+            4,
+            "MILKSHA",
+            "SHOP NO. A021, LEVEL 1, UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            3695801514,
+            5,
+            "fusion by PARKnSHOP",
+            "STALL NO. 3 & PORTIONS OF SHOP NO. 131-140, LEVEL 2, UPTOWN PLAZA, NO. 9 NAM WAN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1119880674
+        ]
+      ],
+      "coordinate": [
+        1.992627857017745,
+        0.391719735011173,
+        16.5
+      ],
+      "halfSize": [
+        85.52950000017881,
+        65.30549999978393,
+        11.799999237060547
+      ]
+    }
+  ]
+}

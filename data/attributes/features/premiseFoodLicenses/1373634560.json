@@ -1,0 +1,74 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1373634560,
+        2,
+        [
+          [
+            2998806596,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP LG5302 & LG5302A ON LG5, ACADEMIC BUILDING, THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY, 1 UNIVERSITY ROAD, CLEAR WATER BAY, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3298800475,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP LG5302 & LG5302A ON LG5, ACADEMIC BUILDING, THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY, 1 UNIVERSITY ROAD, CLEAR WATER BAY, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1373635357
+        ]
+      ],
+      "coordinate": [
+        1.9942135130555054,
+        0.38990743733261446,
+        133.85000610351562
+      ],
+      "halfSize": [
+        15.00901999976486,
+        13.468000000342727,
+        9.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1373634561,
+        1,
+        [
+          [
+            3698000200,
+            5,
+            "Market Place",
+            "G/F(PORTION), RAZOR HILL,CLEAR WATER BAY, DD 253, LOT 1177, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1373635373
+        ]
+      ],
+      "coordinate": [
+        1.993992191732848,
+        0.389900389039196,
+        246.4499969482422
+      ],
+      "halfSize": [
+        12.444999999832362,
+        18.122000000439584,
+        5.9499969482421875
+      ]
+    }
+  ]
+}

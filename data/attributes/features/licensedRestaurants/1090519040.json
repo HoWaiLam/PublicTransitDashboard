@@ -1,0 +1,951 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1090519040,
+        2,
+        [
+          [
+            2215800790,
+            0,
+            "I-O-N",
+            "P3 MAJOR PORTIONS, NINA HOTEL ISLAND SOUTH, 55-57 WONG CHUK HANG ROAD, HONG KONG",
+            null,
+            "2026-08-29"
+          ],
+          [
+            3915801249,
+            1,
+            "(no record found)",
+            "MINOR PORTION OF P5/F, NINA HOTEL ISLAND SOUTH, 55-57 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519049
+        ]
+      ],
+      "coordinate": [
+        1.9926094117827673,
+        0.3883323903110459,
+        16.100000381469727
+      ],
+      "halfSize": [
+        24.1232650000602,
+        25.768149999901652,
+        10.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1090519041,
+        1,
+        [
+          [
+            2215802103,
+            0,
+            "KOMUNE",
+            "PORTION OF 3/F. & PORTION OF 4/F., 64 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519052
+        ]
+      ],
+      "coordinate": [
+        1.9926265523652182,
+        0.38832864574564196,
+        13.449999809265137
+      ],
+      "halfSize": [
+        15.18500000005588,
+        16.485000000335276,
+        7.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1090519042,
+        1,
+        [
+          [
+            3115801029,
+            1,
+            "LULU BAOBAO",
+            "SHOP NO. 102, 1/F, METRO SOUTH TOWER 2, 43 WONG CHUK HANG ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-08-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519068
+        ]
+      ],
+      "coordinate": [
+        1.9925808136334358,
+        0.38831743314369294,
+        11.950000762939453
+      ],
+      "halfSize": [
+        15.134999999776483,
+        17.850000000558794,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1090519043,
+        1,
+        [
+          [
+            2215803355,
+            0,
+            "SENSORY ZERO",
+            "SHOP NO. 101, 1/F, METRO SOUTH TOWER 1, 39 WONG CHUK HANG ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-09-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519070
+        ]
+      ],
+      "coordinate": [
+        1.9925780614809891,
+        0.38831609667263584,
+        11.950000762939453
+      ],
+      "halfSize": [
+        15.125,
+        17.83999999985099,
+        7.750000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1090519044,
+        1,
+        [
+          [
+            3115800682,
+            1,
+            "Zee Zee",
+            "SHOP NO. 6A, G/F., SOUTH WAVE COURT, 3 SHUM WAN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519109
+        ]
+      ],
+      "coordinate": [
+        1.9925720833589076,
+        0.3882455817208967,
+        16.44999885559082
+      ],
+      "halfSize": [
+        51.09794000023976,
+        50.321000000461936,
+        10.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1090519045,
+        1,
+        [
+          [
+            2215801377,
+            0,
+            "i-Care Kitchen",
+            "CANTEEN, G85, G/F., BLOCK B, WONG CHUK HANG COMPLEX FOR THE ELDERLY, 2 WONG CHUK HANG PATH, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519132
+        ]
+      ],
+      "coordinate": [
+        1.9927813632319407,
+        0.3883873139761422,
+        28.75
+      ],
+      "halfSize": [
+        2.404999999795109,
+        3.1715000001713634,
+        2.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1090519046,
+        1,
+        [
+          [
+            2215800675,
+            0,
+            "Hong Kong Academy of Medicine",
+            "GRAND HALL, KITCHEN A, FOOD ROOM A AND FOOD ROOM B AT 1/F; AND SEATING AREA A, KITCHEN B AND FUNCTION ROOM A & B AT 2/F HONG KONG ACADEMY OF MEDICINE JOCKEY CLUB BUILDING, 99 WONG CHUK HANG ROAD, HONG KONG",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519199
+        ]
+      ],
+      "coordinate": [
+        1.9926737737892577,
+        0.38834919238226484,
+        32.099998474121094
+      ],
+      "halfSize": [
+        47.95822999998927,
+        21.046354999765754,
+        3.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1090519047,
+        1,
+        [
+          [
+            3115800752,
+            1,
+            "ABOVE",
+            "PORTION OF 23/F., 64 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519258
+        ]
+      ],
+      "coordinate": [
+        1.9926262308491658,
+        0.38832913987334927,
+        53.05000305175781
+      ],
+      "halfSize": [
+        11.466119999997318,
+        12.242390000261366,
+        31.750001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1090519048,
+        1,
+        [
+          [
+            3115800956,
+            1,
+            "Wah Kee",
+            "PORTION A OF 1/F, ABERDEEN TENNIS AND SQUASH CENTRE, 1 ABERDEEN PRAYA ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519468
+        ]
+      ],
+      "coordinate": [
+        1.992467311720159,
+        0.3882925331809053,
+        10.550000190734863
+      ],
+      "halfSize": [
+        26.675000000279397,
+        12.169999999925494,
+        6.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1090519049,
+        4,
+        [
+          [
+            2215801696,
+            0,
+            "PIZZAEXPRESS",
+            "SHOP NO. G03, GROUND FLOOR, ONE ISLAND SOUTH, 2 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-08-03"
+          ],
+          [
+            2215802370,
+            0,
+            "Nouilles",
+            "SHOP NO. G07, GROUND FLOOR, ONE ISLAND SOUTH, NO. 2 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2027-01-02"
+          ],
+          [
+            3115800354,
+            1,
+            "Starbucks Coffee",
+            "SHOP G05, G/F., ONE ISLAND SOUTH, 2 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-21"
+          ],
+          [
+            3115800974,
+            1,
+            "ICHIJUISSAI",
+            "SHOP NO. G08, G/F, ONE ISLAND SOUTH, NO. 2 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-11-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519685
+        ]
+      ],
+      "coordinate": [
+        1.99262414729397,
+        0.3883139472997834,
+        12.5
+      ],
+      "halfSize": [
+        43.39185499958694,
+        32.73315000068396,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1090519050,
+        1,
+        [
+          [
+            2215800912,
+            0,
+            "Neptune's",
+            "NEPTUNE'S, 1/F., THE GRAND AQUARIUM, OCEAN PARK, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519690
+        ]
+      ],
+      "coordinate": [
+        1.992722753338779,
+        0.38826172932604647,
+        26.049999237060547
+      ],
+      "halfSize": [
+        42.9714999999851,
+        36.73600000049919,
+        9.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1090519051,
+        1,
+        [
+          [
+            3115800725,
+            1,
+            "Africa Coffee and Tea",
+            "UNIT 1501-1502, 15TH FLOOR, 41 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519775
+        ]
+      ],
+      "coordinate": [
+        1.9925228828483663,
+        0.38829640907880836,
+        70.5999984741211
+      ],
+      "halfSize": [
+        34.68197500007227,
+        15.87599499989301,
+        50.80000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1090519052,
+        2,
+        [
+          [
+            2215802079,
+            0,
+            "Gleneagles Bistro",
+            "LOWER GROUND LEVEL (PORTION), GLENEAGLES HONG KONG HOSPITAL, 1 NAM FUNG PATH, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-10-03"
+          ],
+          [
+            3115800691,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP 1, 1/F., GLENEAGLES HOSPITAL, 1 NAM FUNG PATH, ABERDEEN, HONG KONG",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519781
+        ]
+      ],
+      "coordinate": [
+        1.9927545092498526,
+        0.38836809366014374,
+        27.600000381469727
+      ],
+      "halfSize": [
+        51.90249999985099,
+        66.81850000005215,
+        9.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1090519053,
+        1,
+        [
+          [
+            2215802732,
+            0,
+            "INSANITY",
+            "SHOP NO.2, G/F., M PLACE, 54 WONG CHUK HANG ROAD, HONG KONG",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519802
+        ]
+      ],
+      "coordinate": [
+        1.9926112657510333,
+        0.38832157300769743,
+        12.850000381469727
+      ],
+      "halfSize": [
+        18.159155000001192,
+        18.33413500059396,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1090519054,
+        1,
+        [
+          [
+            2215802468,
+            0,
+            "Chopsticks Fork n Knife Express",
+            "PORTION A OF G/F., SOUTH ISLAND PLACE, 8 WONG CHUK HANG ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519803
+        ]
+      ],
+      "coordinate": [
+        1.9925095658424097,
+        0.3883056260102309,
+        12.600000381469727
+      ],
+      "halfSize": [
+        28.84823500039056,
+        21.000805000774562,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1090519055,
+        2,
+        [
+          [
+            2215802644,
+            0,
+            "Arca Lounge",
+            "3/F AND AN OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF AT SIDE, 43 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2215802839,
+            0,
+            "Arca Assembly",
+            "2/F., 43 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-03-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519812
+        ]
+      ],
+      "coordinate": [
+        1.992515051510345,
+        0.3882962758995705,
+        12.299999237060547
+      ],
+      "halfSize": [
+        17.16507500037551,
+        19.25806500017643,
+        7.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1090519056,
+        1,
+        [
+          [
+            3115800947,
+            1,
+            "Maison Eric Kayser",
+            "SHOP NO. G01 ON GROUND FLOOR OF MARINA 8, NO. 8 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519835
+        ]
+      ],
+      "coordinate": [
+        1.9926030881095758,
+        0.388308923620268,
+        62.349998474121094
+      ],
+      "halfSize": [
+        14.434455000329763,
+        23.39816499967128,
+        57.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1090519057,
+        1,
+        [
+          [
+            2215803267,
+            0,
+            "TEAPSY @ THE SPIN",
+            "RM 1507-1508, 15/F, LANDMARK SOUTH, 39 YIP KAN STREET, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519843
+        ]
+      ],
+      "coordinate": [
+        1.9925913520631604,
+        0.38832321368698275,
+        91.05000305175781
+      ],
+      "halfSize": [
+        24.490269999951124,
+        20.33477000053972,
+        48.95000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1090519058,
+        1,
+        [
+          [
+            3115801001,
+            1,
+            "SO BY ACT",
+            "GROUND FLOOR, S22, 22 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519846
+        ]
+      ],
+      "coordinate": [
+        1.9925686291847842,
+        0.3883009573762463,
+        11.850000381469727
+      ],
+      "halfSize": [
+        15.724794999696314,
+        20.87839000020176,
+        7.25
+      ]
+    },
+    {
+      "attributes": [
+        1090519059,
+        2,
+        [
+          [
+            3915801197,
+            1,
+            "The Kitchen",
+            "PORTION OF 15/F, S22, 22 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-03-03"
+          ],
+          [
+            3915801212,
+            1,
+            "ASIA ACES PICKLEBALL ACADEMY",
+            "PORTION A OF 12/F, S22, NO. 22 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-05-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519847
+        ]
+      ],
+      "coordinate": [
+        1.992568711684998,
+        0.3883005879484586,
+        69.55000305175781
+      ],
+      "halfSize": [
+        15.012550000101328,
+        19.266224999912083,
+        50.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1090519060,
+        31,
+        [
+          [
+            2215803249,
+            0,
+            "FOODLAB",
+            "SHOP UNIT G18, G/F, THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2215803258,
+            0,
+            "King Fong Bing Teng",
+            "SHOP G20, GROUND FLOOR, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2215803276,
+            0,
+            "PRESTIGE CUISINE (WONG CHUK HANG)",
+            "SHOP UNIT G50, G/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2215803294,
+            0,
+            "Queen's Cafe",
+            "SHOP G03, G/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2215803300,
+            0,
+            "McDonald's Restaurant",
+            "SHOP G01, G/F, THE SOUTHSIDE , 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2215803391,
+            0,
+            "Meet Met Met",
+            "SHOP UNIT LG31 AND LG32, LG FLOOR, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2215803416,
+            0,
+            "Chef's Cuts",
+            "UNIT 229 AND 230, SECOND FLOOR, THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2215803425,
+            0,
+            "OMBRA",
+            "SHOP UNIT LG17, LG/F, THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2215803443,
+            0,
+            "Bamboo Thai",
+            "SHOP UNIT 204, 2/F, THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2215803452,
+            0,
+            "Nana's Green Tea",
+            "SHOP UNIT 206 AND 207, 2/F, THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-11-18"
+          ],
+          [
+            2215803461,
+            0,
+            "Duan Chun Zhen",
+            "SHOP UNIT 205, 2/F, THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2215803470,
+            0,
+            "SANDONG SIKDANG / TERRACE IN SEASIDE (10)",
+            "SHOP UNITS 202-203 AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, 2/F., THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2215803522,
+            0,
+            "N+ Burger",
+            "SHOP UNIT LG01, LG/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2215803531,
+            0,
+            "\u83ef\u5bb4 \u98df\u5e9c",
+            "SHOP NO. 138, 1/F., THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2215803540,
+            0,
+            "Prince Restaurant",
+            "SHOP UNIT. 213, 2/F., THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2215803559,
+            0,
+            "Table",
+            "SHOP UNIT LG03, LG/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2215803568,
+            0,
+            "KONJIKI HOTOTOGISU",
+            "SHOP UNIT LG19, LG/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2215803595,
+            0,
+            "BIVACCO",
+            "SHOP UNIT LG09, LG/F, THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2215803601,
+            0,
+            "Another Hound Cafe",
+            "SHOP UNIT 101, 1/F., THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2215803610,
+            0,
+            "MUSEe",
+            "SHOP G19, G/F., THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2215803638,
+            0,
+            "NAMBU / OASIS FOOD SOCIAL",
+            "SHOP UNITS 302-303, 3/F., THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2215803735,
+            0,
+            "XIAO NOODLES",
+            "SHOP NO. G02, G/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2215803753,
+            0,
+            "Green Tea - The Southside",
+            "SHOP UNIT 301, 3/F., THE SOUTHSIDE, NO. 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2215803762,
+            0,
+            "813 MUSIC BOBA TEA HOUSE",
+            "SHOP UNIT LG18, LG/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2215803771,
+            0,
+            "J.O.M.O",
+            "SHOP UNIT 304, 3/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2027-02-11"
+          ],
+          [
+            3815803679,
+            0,
+            "366 SAN ROKU ROKU PAN",
+            "SHOP UNIT G49, GROUND FLOOR, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3115801047,
+            1,
+            "(no record found)",
+            "PORTION OF CINEMA PORTION ON 3RD FLOOR OF THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-09-10"
+          ],
+          [
+            3115801056,
+            1,
+            "\u8607\u54e5\u6e05\u6e6f\u8169",
+            "SHOP 201, 2/F., THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3115801065,
+            1,
+            "Ice By Yo Mama",
+            "SHOP UNIT LG16, LG/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG , HONG KONG",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3115801074,
+            1,
+            "stain+",
+            "SHOP UNIT 141, 1/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3115801083,
+            1,
+            "NOC COFFEE",
+            "SHOP LG02, LG/F, THE SOUTHSIDE, 11 HEUNG YIP ROAD, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519863
+        ]
+      ],
+      "coordinate": [
+        1.9926052059695394,
+        0.38827936562244914,
+        19.200000762939453
+      ],
+      "halfSize": [
+        152.522709279845,
+        149.61042500007898,
+        13.5
+      ]
+    }
+  ]
+}

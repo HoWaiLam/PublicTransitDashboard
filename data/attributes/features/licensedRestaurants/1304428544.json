@@ -1,0 +1,435 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1304428544,
+        1,
+        [
+          [
+            3198800058,
+            1,
+            "Tin Kee Store & Caf\u00e9",
+            "D.D. 253 LOT 402 RP (CAFE) OF 60M CLEAR WATER BAY ROAD, TSENG LAN SHUE, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429119
+        ]
+      ],
+      "coordinate": [
+        1.9938326520210499,
+        0.3898107878712933,
+        193.3000030517578
+      ],
+      "halfSize": [
+        6.123999999836087,
+        5.0625,
+        2.0
+      ]
+    },
+    {
+      "attributes": [
+        1304428545,
+        2,
+        [
+          [
+            2251141415,
+            0,
+            "\u5229\u7fa4\u5feb\u9910\u5c0f\u5eda",
+            "SHOPS E8 & E9, 3/F, LEE YAT HOUSE, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2251804282,
+            0,
+            "BRUNEI RESTAURANT",
+            "SHOP NO. E13-E14, 3/F, LEE YAT HOUSE, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429546
+        ]
+      ],
+      "coordinate": [
+        1.9936244715115805,
+        0.38975229597076283,
+        137.1999969482422
+      ],
+      "halfSize": [
+        39.521500000264496,
+        33.95356999989599,
+        26.0
+      ]
+    },
+    {
+      "attributes": [
+        1304428546,
+        4,
+        [
+          [
+            2251152792,
+            0,
+            "Caf'e de Coral",
+            "1/F, LEE HONG HOUSE, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2251805346,
+            0,
+            "\u738b\u8001\u5409\u6dbc\u8336.\u5065\u5100\u5802",
+            "SHOP NO. G03, F3 FLOOR, LEE HONG HOUSE, SHUN LEE ESTATE, 15 LEE ON ROAD, KOWLOON",
+            null,
+            "2026-07-25"
+          ],
+          [
+            3151801670,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP G08, 3/F, LEE HONG HOUSE, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-26"
+          ],
+          [
+            3151801935,
+            1,
+            "\u805a\u8208\u6a13",
+            "SHOP G04, F3 FLOOR, LEE HONG HOUSE, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429553
+        ]
+      ],
+      "coordinate": [
+        1.9936234996461575,
+        0.38974142236801396,
+        137.39999389648438
+      ],
+      "halfSize": [
+        41.48676500003785,
+        55.18322000000626,
+        25.70000457763672
+      ]
+    },
+    {
+      "attributes": [
+        1304428547,
+        1,
+        [
+          [
+            2251803100,
+            0,
+            "Wah On Cafe",
+            "SHOP NOS.6(MAJOR PORTION), 7 & 8, G/F, ON CHAK HOUSE, SHUN ON ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429564
+        ]
+      ],
+      "coordinate": [
+        1.9936318234151353,
+        0.3897131889802082,
+        111.85000610351562
+      ],
+      "halfSize": [
+        16.600750000216067,
+        19.593905000016093,
+        3.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1304428548,
+        1,
+        [
+          [
+            2251808284,
+            0,
+            "Shun On Restaurant",
+            "SHOP 1 AND 3, G/F, CAR PARK COMPLEX, SHUN ON ESTATE, 1 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429567
+        ]
+      ],
+      "coordinate": [
+        1.993628088596429,
+        0.38970515325426225,
+        113.30000305175781
+      ],
+      "halfSize": [
+        40.551099999807775,
+        41.425234999507666,
+        7.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1304428549,
+        7,
+        [
+          [
+            2251806914,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NO. CA01, F2 FLOOR, SHOPPING CENTRE I, SHUN LEE ESTATE, 15 LEE ON ROAD, KOWLOON",
+            null,
+            "2027-01-27"
+          ],
+          [
+            2251806932,
+            0,
+            "FAMOUS RESTAURANT",
+            "SHOP P09A, R01, 3/F. & SHOP R01, 4/F., SHOPPING CENTRE 1, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-02-27"
+          ],
+          [
+            2251807342,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 201A, F2 FLOOR, SHUN LEE COMMERCIAL CENTRE & LEE YIP HOUSE, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2251807379,
+            0,
+            "Thai Yin",
+            "SHOP NOS. D11 AND D12, F3 FLOOR, LEE YIP HOUSE, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2251807412,
+            0,
+            "Super Super",
+            "SHOP NO. 101A, GROUND FLOOR, SHOPPING CENTRE I(ALSO KNOWN AS SHUN LEE COMMERCIAL CENTRE)(FORMING PART OF COMMERCIAL / CAR PARK BLOCK I), SHUN LEE ESTATE, 15 LEE ON ROAD, KOWLOON",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2251809782,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 101B, GROUND FLOOR, SHOPPING CENTRE I, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-04"
+          ],
+          [
+            3151803375,
+            1,
+            "\u69ae\u57fa\u725b\u96dc\u7c89\u9eb5",
+            "SHOP NO. P10, 3/F, SHUN LEE COMMERCIAL CENTRE PHASE 1, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429593
+        ]
+      ],
+      "coordinate": [
+        1.9936219474191117,
+        0.3897485178678284,
+        120.8499984741211
+      ],
+      "halfSize": [
+        121.17724499991164,
+        120.79849999956787,
+        9.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1304428550,
+        5,
+        [
+          [
+            2251063584,
+            0,
+            "\u69ae\u83ef\u5feb\u9910\u5e97",
+            "11, G/F, TIN YIU HOUSE, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2251064028,
+            0,
+            "\u74cf\u9580\u9152\u5bb6",
+            "5-8, G/F, TIN KEI HOUSE, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2251078225,
+            0,
+            "Sweet Heart Fast Food Shop",
+            "5, G/F, TIN YIU HOUSE, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2251801867,
+            0,
+            "MAN SHUN RESTAURANT",
+            "FOOD STALL NO. 5-8, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-27"
+          ],
+          [
+            2251802134,
+            0,
+            "\u5929\u767c\u7ca5\u9eb5\u5c0f\u5eda",
+            "FOOD STALL NO. 3-4, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429595
+        ]
+      ],
+      "coordinate": [
+        1.993610510085958,
+        0.38966471356031857,
+        99.89999389648438
+      ],
+      "halfSize": [
+        27.637074999976903,
+        32.588000000454485,
+        1.7999992370605469
+      ]
+    },
+    {
+      "attributes": [
+        1304428551,
+        1,
+        [
+          [
+            2251807272,
+            0,
+            "Famous Restaurant",
+            "SHOP NO. 115, UPPER GROUND FLOOR, ON TAI SHOPPING CENTRE, SHING TAI HOUSE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429788
+        ]
+      ],
+      "coordinate": [
+        1.993691504525413,
+        0.3896711601976494,
+        210.89999389648438
+      ],
+      "halfSize": [
+        34.942000000271946,
+        24.0691499998793,
+        53.399993896484375
+      ]
+    },
+    {
+      "attributes": [
+        1304428552,
+        6,
+        [
+          [
+            2251806978,
+            0,
+            "\u7f8e\u5fc3MX",
+            "SHOP 1, LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, 20 ON SAU ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-13"
+          ],
+          [
+            2251807041,
+            0,
+            "On Tai Roasted Meat Shop",
+            "SHOP 17, 18, 19, 20, MARKET AT LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2251807087,
+            0,
+            "\u5b56\u8a18\u5eda\u623f",
+            "SHOP 12, MARKET AT LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2251807324,
+            0,
+            "KAM YUEN RESTAURANT",
+            "SHOP 114, UG/F., ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3151802406,
+            1,
+            "\u9673\u5100\u8208\u725b\u4ec0\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP 11, MARKET AT LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-14"
+          ],
+          [
+            3151802521,
+            1,
+            "\u65b0\u8208\u8eca\u4ed4\u9eb5",
+            "SHOP 15, MARKET AT LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429822
+        ]
+      ],
+      "coordinate": [
+        1.9936708382619635,
+        0.38968514182953873,
+        153.85000610351562
+      ],
+      "halfSize": [
+        146.20349087932846,
+        123.19249499961734,
+        3.6500015258789062
+      ]
+    }
+  ]
+}

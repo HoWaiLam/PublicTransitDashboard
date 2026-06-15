@@ -1,0 +1,285 @@
+{
+  "features": [
+    {
+      "attributes": [
+        362807296,
+        3,
+        [
+          [
+            2217800697,
+            0,
+            "Man Ho Chinese Restaurant / Red Zen",
+            "1/F (PORTION B) AND M/F (PORTION B), HONG KONG SKYCITY MARRIOTT HOTEL, 1 SKY CITY ROAD EAST, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2217800703,
+            0,
+            "Velocity Bar and Grill",
+            "G/F (PORTION A) AND M/F (PORTION A), HONG KONG SKYCITY MARRIOTT HOTEL, 1 SKY CITY ROAD EAST, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2217800712,
+            0,
+            "Sky City Bistro / Java+ / the Lounge",
+            "1/F (PORTION A), HONG KONG SKYCITY MARRIOTT HOTEL, 1 SKY CITY ROAD EAST, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807311
+        ]
+      ],
+      "coordinate": [
+        1.988692155577116,
+        0.3895419706032646,
+        28.44999885559082
+      ],
+      "halfSize": [
+        48.06923499982804,
+        74.70697499997914,
+        22.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        362807297,
+        3,
+        [
+          [
+            2217000136,
+            0,
+            "China Coast Bar & Grill",
+            "MINOR PORTION OF B/F AND SHOP G03 OF G/F, REGAL AIRPORT HOTEL, 9 CHEONG TAT ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2217001494,
+            0,
+            "Regal Airport Hotel",
+            "PORTION OF B/F, G/F, 1/F & 2/F, REGAL AIRPORT HOTEL, 9 CHEONG TAT ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            2217001722,
+            0,
+            "Airport Izakaya",
+            "SHOP G01, G/F., REGAL AIRPORT HOTEL, 9 CHEONG TAT ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807317
+        ]
+      ],
+      "coordinate": [
+        1.9885275798025046,
+        0.38953701391900636,
+        11.75
+      ],
+      "halfSize": [
+        71.74277500016615,
+        56.23632999975234,
+        6.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        362807298,
+        1,
+        [
+          [
+            2217804015,
+            0,
+            "(no record found)",
+            "LEVEL 7 (PORTION A) AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, HKIA COMMERCIAL BUILDING, 1 SKY PLAZA ROAD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-11-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807324
+        ]
+      ],
+      "coordinate": [
+        1.9885859844554874,
+        0.38946879630195574,
+        26.350000381469727
+      ],
+      "halfSize": [
+        25.884395000059158,
+        33.889174999669194,
+        19.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        362807299,
+        1,
+        [
+          [
+            2217802152,
+            0,
+            "McDonald's Restaurant",
+            "UNIT NO.7T102, 8T005A AND 8T005, TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, 1 CHEONG HONG ROAD, LANTAU, HONG KONG",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807344
+        ]
+      ],
+      "coordinate": [
+        1.988536906402736,
+        0.3894762385560812,
+        22.75
+      ],
+      "halfSize": [
+        184.9738749996759,
+        180.14760500006378,
+        17.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        362807300,
+        4,
+        [
+          [
+            2217803261,
+            0,
+            "Petra",
+            "PORTION A OF G/F, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-03-29"
+          ],
+          [
+            2217803298,
+            0,
+            "Palladium & Emerald",
+            "PORTION B OF 1/F, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2217803304,
+            0,
+            "Vivace",
+            "PORTION A OF 3/F AND OUTSIDE SEATING ACCOMMODATION AT PODIUM GARDEN OF 3/F, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2217803313,
+            0,
+            "Regala Grand Ballroom",
+            "PORTION A OF 1/F, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807373
+        ]
+      ],
+      "coordinate": [
+        1.9886637310817716,
+        0.3895431231933276,
+        16.5
+      ],
+      "halfSize": [
+        54.498404999729246,
+        33.45900500006974,
+        10.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        362807301,
+        2,
+        [
+          [
+            2217803650,
+            0,
+            "Tai Hing",
+            "SHOP A605, 6TH FLOOR, 11 SKIES, HONG KONG INTERNATIONAL AIRPORT, 6 SKY CITY ROAD EAST, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2217803951,
+            0,
+            "Tomacado Cafe Lantau Island",
+            "SHOP A121 ON LEVEL 1, 11 SKIES, 6 & 8 SKY CITY ROAD EAST, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807374
+        ]
+      ],
+      "coordinate": [
+        1.9886535485002321,
+        0.3895229687781714,
+        17.149999618530273
+      ],
+      "halfSize": [
+        144.76958500035107,
+        86.62996000051498,
+        10.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        362807302,
+        1,
+        [
+          [
+            2217803322,
+            0,
+            "the Jade",
+            "PORTION A OF 12/F AND OUTSIDE SEATING ACCOMMODATION AT ROOFTOP ABOVE, REGALA SKYCITY HOTEL, 8 AIRPORT EXPO BOULEVARD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807377
+        ]
+      ],
+      "coordinate": [
+        1.988663871160863,
+        0.3895431069782289,
+        29.850000381469727
+      ],
+      "halfSize": [
+        54.498404999729246,
+        33.45900500006974,
+        22.850000381469727
+      ]
+    }
+  ]
+}

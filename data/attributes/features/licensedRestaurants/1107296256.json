@@ -1,0 +1,682 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1107296256,
+        2,
+        [
+          [
+            2297804718,
+            0,
+            "FU KEE",
+            "COOKED FOOD STALL NOS. 9-12, G/F, COOKED FOOD STALLS (FORMING PART OF COMMERCIAL BLOCKS), LUNG HANG ESTATE, 1 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            3197801258,
+            1,
+            "FU KEE",
+            "COOKED FOOD STALL NOS. 5-8, G/F, COOKED FOOD STALLS (FORMING PART OF COMMERCIAL BLOCKS), LUNG HANG ESTATE, 1 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296257
+        ]
+      ],
+      "coordinate": [
+        1.9927793082668075,
+        0.39034688418136443,
+        13.199999809265137
+      ],
+      "halfSize": [
+        53.99599999981001,
+        43.22900000028312,
+        2.0
+      ]
+    },
+    {
+      "attributes": [
+        1107296257,
+        1,
+        [
+          [
+            2297803283,
+            0,
+            "\u745e\u5cf0\u8ed2",
+            "SHOP NO. 1B, G/F, JULIMOUNT GARDEN, 1-5 HIN TAI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296269
+        ]
+      ],
+      "coordinate": [
+        1.9927544154240213,
+        0.3902882741881883,
+        55.19999694824219
+      ],
+      "halfSize": [
+        58.41149999992922,
+        46.67100000008941,
+        1.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1107296258,
+        1,
+        [
+          [
+            2297801490,
+            0,
+            "Union Hospital",
+            "G/F (PORTION) &, 2/F (PORTION) AND OUTSIDE SEATING ACCOMMODATION AT SIDE OF 2/F (PORTION), UNION HOSPITAL, STTL 168 RP, 18 FU KIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296272
+        ]
+      ],
+      "coordinate": [
+        1.9927342663705532,
+        0.39026065944194877,
+        66.55000305175781
+      ],
+      "halfSize": [
+        50.01699999999255,
+        50.633755000308156,
+        4.649997711181641
+      ]
+    },
+    {
+      "attributes": [
+        1107296259,
+        1,
+        [
+          [
+            2297003157,
+            0,
+            "\u751f\u660c\u6f6e\u5dde\u6d77\u9bae\u9152\u5bb6",
+            "G/F, NO 150, HA KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296280
+        ]
+      ],
+      "coordinate": [
+        1.99274282516224,
+        0.390354499152268,
+        15.75
+      ],
+      "halfSize": [
+        5.982190000358969,
+        5.7124450001865625,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1107296260,
+        1,
+        [
+          [
+            2297002525,
+            0,
+            "\u751f\u660c",
+            "G/F, 151 HA KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296283
+        ]
+      ],
+      "coordinate": [
+        1.9927421641725687,
+        0.3903537698547354,
+        16.549999237060547
+      ],
+      "halfSize": [
+        6.04198500001803,
+        5.769895000383258,
+        5.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1107296261,
+        1,
+        [
+          [
+            3997802985,
+            1,
+            "No Record",
+            "G/F, DD NO. 189, LOT NO. 1716, 154 HA KENG HAU VILLAGE, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-04-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296291
+        ]
+      ],
+      "coordinate": [
+        1.9927394545105654,
+        0.39035078453386485,
+        16.75
+      ],
+      "halfSize": [
+        6.041980000212789,
+        5.769900000654161,
+        5.75
+      ]
+    },
+    {
+      "attributes": [
+        1107296262,
+        1,
+        [
+          [
+            2297002677,
+            0,
+            "\u4f73\u6377\u98df\u5e97",
+            "G/F, NO 102, SHEUNG KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296404
+        ]
+      ],
+      "coordinate": [
+        1.9927264616687255,
+        0.3903368029841589,
+        18.299999237060547
+      ],
+      "halfSize": [
+        6.040450000204146,
+        5.772850000299513,
+        5.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1107296263,
+        1,
+        [
+          [
+            3197000457,
+            1,
+            "REST LIFE",
+            "DD 187, LOT 597,GROUND FLOOR, 105 SHEUNG KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296419
+        ]
+      ],
+      "coordinate": [
+        1.9927241308263932,
+        0.39033424217269713,
+        18.450000762939453
+      ],
+      "halfSize": [
+        6.040450000204146,
+        5.772850000299513,
+        5.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1107296264,
+        1,
+        [
+          [
+            3197800079,
+            1,
+            "MAMA'S DREAM CAFE",
+            "NO. 15 SHEUNG KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296515
+        ]
+      ],
+      "coordinate": [
+        1.9927152259012673,
+        0.3903227000517617,
+        17.600000381469727
+      ],
+      "halfSize": [
+        3.9110349998809397,
+        4.041500000283122,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1107296265,
+        15,
+        [
+          [
+            2297000954,
+            0,
+            "Cafe de Coral",
+            "SHOP NO 303, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297000963,
+            0,
+            "Happiness",
+            "SHOP NO 301A, SHOPPING CENTRE, HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297003412,
+            0,
+            "Seasons Cafe",
+            "SHOP NO 208, 2/F, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2297003759,
+            0,
+            "\u4eac\u6eec\u5ead\u7279\u8272\u98a8\u5473\u5c0f\u5eda",
+            "SHOP NO.219, LEVEL 1, COMMERCIAL CENTRE, HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2297801223,
+            0,
+            "\u5927\u660e\u661f\u5c0f\u83dc\u9928",
+            "SHOP 224, LEVEL 2, WING A COMMERCIAL CENTRE, PHASE II, HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2297801542,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 301B, THIRD FLOOR, HIN KENG SHOPPING CENTRE (WING A), HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2297804949,
+            0,
+            "Pizza Hut",
+            "SHOP NOS. 220 AND 221, FIRST FLOOR, WING A, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2297805881,
+            0,
+            "\u7261\u4e39\u4ead",
+            "COOKED FOOD STALL NO. 3, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2297805890,
+            0,
+            "\u7261\u4e39\u4ead",
+            "COOKED FOOD STALL NO. 2, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2297806033,
+            0,
+            "WING FAT CUISINE RESTAURANT",
+            "COOKED FOOD STALL NO. 1, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2297807726,
+            0,
+            "\u5bb6\u5b9c\u7f8e\u98df",
+            "STALL NOS. M20 IN THE MARKET PLACE AND M21 IN THE MARKET PLACE, GROUND FLOOR COMMERCIAL / CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2297808598,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS 107 & 108, G/F, WING A OF HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ],
+          [
+            3197801063,
+            1,
+            "\u5c0f\u86c7\u7687",
+            "SHOP NO. 117, G/F, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-31"
+          ],
+          [
+            3997803012,
+            1,
+            "\u7f8e\u666f\u725b\u96dc\u9b5a\u65e6\u7c89",
+            "STALL NO. M22 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL / CAR PARK COMPLEX (ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            3997803049,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "STALL NOS. M23 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL/CAR PARK COMPLEX (ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296517
+        ]
+      ],
+      "coordinate": [
+        1.9926761194793736,
+        0.3903157715420293,
+        22.0
+      ],
+      "halfSize": [
+        50.50650000013411,
+        44.927499999292195,
+        9.5
+      ]
+    },
+    {
+      "attributes": [
+        1107296266,
+        1,
+        [
+          [
+            2297002446,
+            0,
+            "\u9f8d\u82d1\u9910\u5ef3",
+            "G/F, NO 70 & OUTSIDE SEATING ACCOMODATION AT SHOP FRONT, DD 187, LOT 585, SHEUNG KENG HAU VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296550
+        ]
+      ],
+      "coordinate": [
+        1.9927070577553836,
+        0.3903150503514073,
+        17.700000762939453
+      ],
+      "halfSize": [
+        6.1362499999813735,
+        5.1361499996855855,
+        4.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1107296267,
+        1,
+        [
+          [
+            2297802378,
+            0,
+            "\u9999\u6e2f\u4ed4\u8ca1\u8a18\u9b5a\u86cb\u7c89",
+            "G/F, NO. 120 HIN TIN VILLAGE, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296554
+        ]
+      ],
+      "coordinate": [
+        1.9927020129562576,
+        0.3903136602987252,
+        18.0
+      ],
+      "halfSize": [
+        5.5607100003398955,
+        6.116644999943674,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1107296268,
+        1,
+        [
+          [
+            3997803058,
+            1,
+            "Ball Ball House",
+            "G/F, NO. 72 SHEUNG KENG HAU VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296557
+        ]
+      ],
+      "coordinate": [
+        1.9927079950550564,
+        0.3903133378766493,
+        17.700000762939453
+      ],
+      "halfSize": [
+        6.136299999896437,
+        5.1361499996855855,
+        4.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1107296269,
+        1,
+        [
+          [
+            2297003494,
+            0,
+            "\u65b0\u767c\u8336\u9910\u5ef3",
+            "G/F, NO 119 HIN TIN VILLAGE & THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296558
+        ]
+      ],
+      "coordinate": [
+        1.9927011675299253,
+        0.39031310765733057,
+        17.899999618530273
+      ],
+      "halfSize": [
+        5.562344999983907,
+        6.1177949998527765,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        1107296270,
+        1,
+        [
+          [
+            3197800714,
+            1,
+            "\u5275",
+            "SHOP B, G/F, 118 HIN TIN VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296561
+        ]
+      ],
+      "coordinate": [
+        1.9926994488839331,
+        0.3903126923639849,
+        19.149999618530273
+      ],
+      "halfSize": [
+        5.681795000098646,
+        5.570655000396073,
+        5.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1107296271,
+        1,
+        [
+          [
+            2297002783,
+            0,
+            "\u8000\u54e5",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, DD 187, LOT 663, NO 117 HIN TIN VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296566
+        ]
+      ],
+      "coordinate": [
+        1.992698265731789,
+        0.3903119189539238,
+        19.25
+      ],
+      "halfSize": [
+        5.681790000293404,
+        5.57065499946475,
+        5.75
+      ]
+    },
+    {
+      "attributes": [
+        1107296272,
+        1,
+        [
+          [
+            2297808747,
+            0,
+            "\u8086\u5e74\u516b\u6708",
+            "G/F, NO. 148 SHEUNG KENG HAU, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296844
+        ]
+      ],
+      "coordinate": [
+        1.9927160359928084,
+        0.390325859739445,
+        16.899999618530273
+      ],
+      "halfSize": [
+        5.608999999705702,
+        5.658000000752509,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1107296273,
+        1,
+        [
+          [
+            3197802215,
+            1,
+            "Four X Four",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, NO. 143 SHEUNG KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296852
+        ]
+      ],
+      "coordinate": [
+        1.9927213500459768,
+        0.3903313381289408,
+        16.600000381469727
+      ],
+      "halfSize": [
+        5.691000000108033,
+        5.636500000022352,
+        4.100000381469727
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        637534208,
+        1,
+        [
+          [
+            2293002800,
+            0,
+            "\u963f\u4e00\u5eda\u623f\u9910\u5ef3",
+            "G/F, DD385, LOT 245B, TAI LAM CHUNG, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          637534216
+        ]
+      ],
+      "coordinate": [
+        1.9900603978554594,
+        0.39035996210837115,
+        8.350000381469727
+      ],
+      "halfSize": [
+        5.435000000055879,
+        6.115000000223517,
+        3.950000047683716
+      ]
+    },
+    {
+      "attributes": [
+        637534209,
+        1,
+        [
+          [
+            3193802606,
+            1,
+            "Caf\u00e9 Greenery",
+            "ROOM LR01, 3/F, LOW BLOCK, SIU LAM INTEGRATED REHABILITATION SERVICES COMPLEX, 12 HONG FAI ROAD, SIU LAM, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          637534541
+        ]
+      ],
+      "coordinate": [
+        1.9899293833048268,
+        0.39035181173904065,
+        68.6500015258789
+      ],
+      "halfSize": [
+        41.89795499993488,
+        33.88970500044525,
+        9.650001525878906
+      ]
+    }
+  ]
+}

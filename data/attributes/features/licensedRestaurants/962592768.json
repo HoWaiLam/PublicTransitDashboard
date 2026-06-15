@@ -1,0 +1,1725 @@
+{
+  "features": [
+    {
+      "attributes": [
+        962592768,
+        1,
+        [
+          [
+            2218818264,
+            0,
+            "AURUM DINING",
+            "3/F AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF OF 3/F., ONE-EIGHT-ONE HOTEL & SERVICED RESIDENCES, 181 CONNAUGHT ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-11-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592770
+        ]
+      ],
+      "coordinate": [
+        1.9920624161887581,
+        0.38898789584833965,
+        10.84999942779541
+      ],
+      "halfSize": [
+        25.094204999972135,
+        16.38467499986291,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        962592769,
+        2,
+        [
+          [
+            2218811351,
+            0,
+            "Yoshinoya",
+            "SHOP G & H ON GROUND FLOOR, FUNG YIP BUILDING, NOS. 347-349 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-09-20"
+          ],
+          [
+            2218819850,
+            0,
+            "\u559c\u52e2\u9ede",
+            "SHOP A, G/F, FUNG YIP BUILDING, 347-349 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-12-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592773
+        ]
+      ],
+      "coordinate": [
+        1.9920634969403315,
+        0.38898389448510035,
+        7.650000095367432
+      ],
+      "halfSize": [
+        27.174569999799132,
+        19.236624999903142,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        962592770,
+        5,
+        [
+          [
+            2214109706,
+            0,
+            "Caf\u00e9 De Coral",
+            "SHOP 8 & 9, G/F, HONG KONG PLAZA, 186-191 CONNAUGHT ROAD WEST, SAI YING PUN, WESTERN, HONG KONG",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2218811944,
+            0,
+            "JOLLY CONGEE & NOODLE",
+            "SHOP NOS. 4, 5, 6, 7, 11A, 11B, 27 & 28 ON GROUND FLOOR OF HONG KONG PLAZA, NO. 188 CONNAUGHT ROAD WEST, HONG KONG",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2218815779,
+            0,
+            "Mos Burger",
+            "UNIT SW-9-003, SHOP NOS. 17, 19, 21, 22A & 23-25, G/F., HONG KONG PLAZA, NO. 188 CONNAUGHT ROAD WEST, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2218816347,
+            0,
+            "616 HOT POT",
+            "SHOP NOS. 15, 16, 18, 20, 22, G/F., HONG KONG PLAZA, 188 CONNAUGHT ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            3118810958,
+            1,
+            "PACIFIC COFFEE",
+            "SHOP NO. 1, G/F, HONG KONG PLAZA, 188 CONNAUGHT ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-10-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592774
+        ]
+      ],
+      "coordinate": [
+        1.9920460534088953,
+        0.3889822999963234,
+        11.0
+      ],
+      "halfSize": [
+        33.50950000016019,
+        25.504499999806285,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        962592771,
+        2,
+        [
+          [
+            2218810747,
+            0,
+            "\u5858\u897f\u8c50\u5473\u9928\u79c1\u623f\u83dc",
+            "SHOP NO. 4, G/F., KWAN YICK BUILDING, PHASE 1, 434 DES VOEUX ROAD WEST, SAI YING PUN, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2218815982,
+            0,
+            "120\u51b0\u5ba4",
+            "SHOP 7, GROUND FLOOR, KWAN YICK BUILDING PHASE 1, 430-440A DES VOEUX ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-12-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592781
+        ]
+      ],
+      "coordinate": [
+        1.9920216673440292,
+        0.38897712532539536,
+        8.699999809265137
+      ],
+      "halfSize": [
+        52.02500000037253,
+        32.75950000062585,
+        5.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        962592772,
+        1,
+        [
+          [
+            2218801095,
+            0,
+            "\u745e\u69ae\u5c0f\u9928",
+            "G/F., NO. 382 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592783
+        ]
+      ],
+      "coordinate": [
+        1.9920705342031264,
+        0.38897754615260416,
+        11.5
+      ],
+      "halfSize": [
+        12.762000000104308,
+        16.900499999523163,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        962592773,
+        1,
+        [
+          [
+            2218807446,
+            0,
+            "Rich City Supreme",
+            "G/F. (PORTION), ELEGANT GARDEN, NO. 409 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592784
+        ]
+      ],
+      "coordinate": [
+        1.9920870919817335,
+        0.38897603454993285,
+        12.84999942779541
+      ],
+      "halfSize": [
+        27.074999999720603,
+        24.179500000551343,
+        8.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        962592774,
+        1,
+        [
+          [
+            2218816152,
+            0,
+            "TGIF",
+            "SHOP NO. 4-6, G/F, WO FAT BUILDING, 533-543 QUEEN'S ROAD WEST, SAI YING PUN, HONG KONG",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592785
+        ]
+      ],
+      "coordinate": [
+        1.9919913268949594,
+        0.3889779352668295,
+        7.0
+      ],
+      "halfSize": [
+        17.73149999976158,
+        9.488499999977648,
+        3.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        962592775,
+        2,
+        [
+          [
+            2218813904,
+            0,
+            "MALACCA CUISINE",
+            "SHOP B, G/F., NICE GARDEN, 513 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-12-15"
+          ],
+          [
+            3818820123,
+            0,
+            "(no record found)",
+            "SHOP C, D, E & F, G/F., NICE GARDEN, NO. 513 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592786
+        ]
+      ],
+      "coordinate": [
+        1.9920015845969614,
+        0.3889767024904819,
+        8.300000190734863
+      ],
+      "halfSize": [
+        16.319999999832362,
+        14.566500000655651,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        962592776,
+        1,
+        [
+          [
+            2218809798,
+            0,
+            "Fire Well Hot Pot & Sea Food Restaurant Limited",
+            "FLAT NO. 1 ON GROUND FLOOR, TUNG WAI GARDEN, NO. 419G QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592789
+        ]
+      ],
+      "coordinate": [
+        1.9920811359333845,
+        0.3889742592571651,
+        14.25
+      ],
+      "halfSize": [
+        9.459999999962747,
+        19.830000000074506,
+        9.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        962592777,
+        3,
+        [
+          [
+            2218818875,
+            0,
+            "SUPER FARM",
+            "SHOP G05 (PORTION B), G/F, PACIFIC PLAZA, 418 DES VOEUX ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2218819355,
+            0,
+            "SUPER SUPER",
+            "SHOP 07-08, G/F, PACIFIC PLAZA, 418 DES VOEUX ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-05-22"
+          ],
+          [
+            3118810967,
+            1,
+            "COMEBUYTEA",
+            "SHOP G02, G/F, PACIFIC PLAZA, 418 DES VOEUX ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592792
+        ]
+      ],
+      "coordinate": [
+        1.9920433644978124,
+        0.38897439350971413,
+        12.0
+      ],
+      "halfSize": [
+        24.006000000052154,
+        14.344499999657273,
+        8.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        962592778,
+        1,
+        [
+          [
+            2218818477,
+            0,
+            "THE BON",
+            "SHOP NO. 2, G/F, BLOCK A, MEI SUN LAU, NO. 442 DES VOEUX ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2027-02-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592793
+        ]
+      ],
+      "coordinate": [
+        1.9920110614120334,
+        0.38897404468715824,
+        7.149999618530273
+      ],
+      "halfSize": [
+        14.153500000014901,
+        12.748000000603497,
+        3.249999761581421
+      ]
+    },
+    {
+      "attributes": [
+        962592779,
+        3,
+        [
+          [
+            2218804216,
+            0,
+            "\u5ba2\u5c1a\u4f86",
+            "SHOP NO. 23, G/F., DRAGON FAIR GARDEN, 455-485 QUEEN'S ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-10-14"
+          ],
+          [
+            3114223336,
+            1,
+            "\u7fc1\u8a18\u6f6e\u5dde\u9eb5",
+            "SHOP NO.19, G/F, DRAGONFAIR GARDEN, 455-485 QUEEN'S ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-04-21"
+          ],
+          [
+            3118811483,
+            1,
+            "WONG YIU MUI",
+            "SHOP 01, G/F, DRAGONFAIR GARDEN, 455-485 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592795
+        ]
+      ],
+      "coordinate": [
+        1.9920240086548198,
+        0.3889712761622132,
+        9.550000190734863
+      ],
+      "halfSize": [
+        31.940500000026077,
+        16.325000000186265,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        962592780,
+        2,
+        [
+          [
+            2218811148,
+            0,
+            "24 Food Station",
+            "SHOP 12, G/F., WHITTY STREET COURT, 24 WHITTY STREET, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2026-07-10"
+          ],
+          [
+            3118812334,
+            1,
+            "\u9298\u8a18\u6e05\u6e6f\u725b\u8169",
+            "G/F, NO. 42-44 WHITTY STREET, WESTERN, HONG KONG",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592799
+        ]
+      ],
+      "coordinate": [
+        1.992057518434536,
+        0.38896883933419146,
+        7.399999618530273
+      ],
+      "halfSize": [
+        18.048494999762625,
+        19.70792999956757,
+        3.499999761581421
+      ]
+    },
+    {
+      "attributes": [
+        962592781,
+        1,
+        [
+          [
+            2218812123,
+            0,
+            "\u4e09\u8607\u8a18",
+            "SHOP 6, G/F., SUN SHING BUILDING, 6-6G BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592801
+        ]
+      ],
+      "coordinate": [
+        1.9919934098138128,
+        0.388968625170244,
+        6.199999809265137
+      ],
+      "halfSize": [
+        12.375500000081956,
+        13.747000000439584,
+        2.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        962592782,
+        1,
+        [
+          [
+            2218814721,
+            0,
+            "SOUTH LANE",
+            "UNITS B & C, PORTION B, 1/F., KAM LING COURT, 1-3 WOO HOP STREET, WESTERN, HONG KONG",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592804
+        ]
+      ],
+      "coordinate": [
+        1.9920202863616974,
+        0.38896234690101994,
+        11.649999618530273
+      ],
+      "halfSize": [
+        14.888499999884516,
+        33.57450000010431,
+        6.75
+      ]
+    },
+    {
+      "attributes": [
+        962592783,
+        2,
+        [
+          [
+            2214165065,
+            0,
+            "Caf\u00e9 Malacca",
+            "2/F, 508 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-11-02"
+          ],
+          [
+            3114165124,
+            1,
+            "Lobby Bar",
+            "1/F(PORTION), 508 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592805
+        ]
+      ],
+      "coordinate": [
+        1.992030185314237,
+        0.3889633515051139,
+        14.65000057220459
+      ],
+      "halfSize": [
+        17.362500000279397,
+        16.004499999806285,
+        9.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        962592784,
+        4,
+        [
+          [
+            2214046076,
+            0,
+            "McDonald's",
+            "PORTION OF M/F, 484-496 QUEEN'S ROAD WEST, SAI YING PUN, WESTERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2218808430,
+            0,
+            "\u5c71\u9053\u51b0\u5ba4",
+            "SHOP C & D, G/F., SUN ON BUILDING, NOS. 484-496 QUEEN'S ROAD WEST, NOS. 17-25 HILL ROAD, HONG KONG",
+            null,
+            "2026-03-12"
+          ],
+          [
+            2218815511,
+            0,
+            "\u4f73\u8a18\u7f8e\u98df",
+            "SHOP M, G/F., SUN ON BUILDING, NOS. 484-496 QUEEN'S ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-08-16"
+          ],
+          [
+            3118802227,
+            1,
+            "\u6c38\u5229\u6e05\u6e6f\u8169",
+            "G/F, 23 HILL ROAD, SHEK TONG TSUI, WESTERN, HONG KONG",
+            null,
+            "2027-01-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592808
+        ]
+      ],
+      "coordinate": [
+        1.992039019604369,
+        0.38896101197539457,
+        9.600000381469727
+      ],
+      "halfSize": [
+        22.47800000011921,
+        19.510999999940395,
+        3.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        962592785,
+        1,
+        [
+          [
+            2218809770,
+            0,
+            "\u5927\u6fb3\u51b0\u5ba4\u5c0f\u5eda",
+            "SHOP A, C/L., AND, SHOP A & B, G/F., GOA BUILDING, 20-24 HILL ROAD, SAI WAN, HONG KONG",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592811
+        ]
+      ],
+      "coordinate": [
+        1.9920295445858267,
+        0.38895970838809385,
+        10.25
+      ],
+      "halfSize": [
+        15.59000000031665,
+        11.432999999262393,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        962592786,
+        1,
+        [
+          [
+            3118802856,
+            1,
+            "The Junk Yard Dog Bar",
+            "G/F., SHOP 1 A, 14 - 16 WOO HOP STREET, SOUTH LANE, HONG KONG",
+            null,
+            "2026-04-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592812
+        ]
+      ],
+      "coordinate": [
+        1.9920151187398782,
+        0.38895962343731844,
+        9.699999809265137
+      ],
+      "halfSize": [
+        10.943500000052154,
+        10.307500000111759,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        962592787,
+        1,
+        [
+          [
+            2214145230,
+            0,
+            "\u5fb7\u8a18\u6f6e\u5dde\u83dc\u9928",
+            "G/F (PORTION), YICK FUNG GARDEN, 20-21 PRAYA ROAD, KENNEDY TOWN, WESTERN, HONG KONG",
+            null,
+            "2026-04-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592813
+        ]
+      ],
+      "coordinate": [
+        1.9919813540521636,
+        0.3889575633714733,
+        9.199999809265137
+      ],
+      "halfSize": [
+        26.03899999987334,
+        23.639000000432134,
+        5.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        962592788,
+        1,
+        [
+          [
+            3118808049,
+            1,
+            "GRILL N ME",
+            "SHOP D, G/F., GRACEFUL COURT, 27-37 HILL ROAD, WESTERN DISTRICT, HONG KONG",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592815
+        ]
+      ],
+      "coordinate": [
+        1.9920412283670377,
+        0.3889568845014988,
+        11.75
+      ],
+      "halfSize": [
+        14.600000000093132,
+        9.41399999987334,
+        5.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        962592789,
+        1,
+        [
+          [
+            2218807127,
+            0,
+            "\u5473\u6e90\u4e00\u65b9",
+            "GROUND FLOOR, FU YIN COURT, NO. 39 HILL ROAD, HONG KONG",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592817
+        ]
+      ],
+      "coordinate": [
+        1.9920446937253677,
+        0.38895583848159876,
+        11.899999618530273
+      ],
+      "halfSize": [
+        5.458500000182539,
+        7.184999999590218,
+        5.5
+      ]
+    },
+    {
+      "attributes": [
+        962592790,
+        1,
+        [
+          [
+            3118810301,
+            1,
+            "Quay Club",
+            "5/F (PORTION A AND PORTION B), ONE-EIGHT-ONE HOTEL & SERVICED RESIDENCES, 181 CONNAUGHT ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592849
+        ]
+      ],
+      "coordinate": [
+        1.9920620683388615,
+        0.3889881090896181,
+        66.30000305175781
+      ],
+      "halfSize": [
+        21.736845000181347,
+        11.86873000022024,
+        48.0
+      ]
+    },
+    {
+      "attributes": [
+        962592791,
+        1,
+        [
+          [
+            2218818033,
+            0,
+            "Wai Kee Cafe",
+            "SHOP NOS. 6 AND 7, G/F, HANG YUE BUILDING, NOS. 334-350 DES VOEUX ROAD WEST, SAI YING PUN, HONG KONG",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592855
+        ]
+      ],
+      "coordinate": [
+        1.992086254831617,
+        0.3889829456774236,
+        40.29999923706055
+      ],
+      "halfSize": [
+        22.195134999696165,
+        13.980645000003278,
+        36.20000076293945
+      ]
+    },
+    {
+      "attributes": [
+        962592792,
+        5,
+        [
+          [
+            2213235116,
+            0,
+            "AMY'S KITCHEN",
+            "G/F, 352 DES VOEUX ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2214107108,
+            0,
+            "\u6d77\u4eae",
+            "G/F, 356 DES VOEUX ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2218810491,
+            0,
+            "WING HOP SING",
+            "G/F., 360 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2218810686,
+            0,
+            "King Prawn Restaurant",
+            "SHOP 4, G/F., CHUNG AH MANSION, 352-366 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3118803239,
+            1,
+            "\u5df4\u8700\u8ed2\u8c6c\u6252\u9178\u8fa3\u7c73\u7dda",
+            "SHOP 6, G/F., CHUNG AH BUILDING, NO. 362 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592859
+        ]
+      ],
+      "coordinate": [
+        1.9920799744643878,
+        0.38898135282263196,
+        27.950000762939453
+      ],
+      "halfSize": [
+        20.092829999979585,
+        12.321735000237823,
+        23.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        962592793,
+        1,
+        [
+          [
+            3118802564,
+            1,
+            "\u6eab\uff0b\u98fd",
+            "G/F., 372 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-09-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592865
+        ]
+      ],
+      "coordinate": [
+        1.9920756871686014,
+        0.38897956376033876,
+        18.849998474121094
+      ],
+      "halfSize": [
+        7.720900000073016,
+        12.856110000051558,
+        14.749999046325684
+      ]
+    },
+    {
+      "attributes": [
+        962592794,
+        2,
+        [
+          [
+            2218812372,
+            0,
+            "\u86c7\u7ac7\u8336\u8a18",
+            "SHOP B, G/F., TUNG TAT BUILDING, 390-392 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2218819452,
+            0,
+            "THAI ZAB VERR",
+            "SHOP A, G/F, TUNG TAT BUILDING, NOS. 390, 390A & 392 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592872
+        ]
+      ],
+      "coordinate": [
+        1.9920682446859932,
+        0.3889771591032533,
+        25.0
+      ],
+      "halfSize": [
+        8.759599999990314,
+        14.445044999942183,
+        21.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        962592795,
+        3,
+        [
+          [
+            2214019674,
+            0,
+            "Ocean Palace",
+            "16, G/F & 4-16, M/F, HILL ROAD, WESTERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3114010921,
+            1,
+            "\u6e90\u8208\u9686",
+            "G/F, 453 QUEEN'S ROAD WEST, SAI YING PUN, WESTERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3118811410,
+            1,
+            "\u8fa3\u5f97\u559c",
+            "SHOP NO. 7, G/F., YIP CHEUNG BUILDING, NOS. 443-453 QUEEN'S ROAD WEST, NOS. 426-428B DES VOEUX ROAD WEST & NOS. 4-16 HILL ROAD, WESTERN, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592874
+        ]
+      ],
+      "coordinate": [
+        1.9920329138697213,
+        0.38897315338109856,
+        25.899999618530273
+      ],
+      "halfSize": [
+        21.15080500021577,
+        35.31434000004083,
+        22.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        962592796,
+        2,
+        [
+          [
+            2218809415,
+            0,
+            "Katsuisen",
+            "G/F., 503 QUEEN'S ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-11-29"
+          ],
+          [
+            2218813515,
+            0,
+            "sushieki",
+            "G/F., 509 QUEEN'S ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592882
+        ]
+      ],
+      "coordinate": [
+        1.9920063338422265,
+        0.3889751355703472,
+        22.75
+      ],
+      "halfSize": [
+        16.89007500000298,
+        13.173769999295473,
+        18.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        962592797,
+        1,
+        [
+          [
+            3114222120,
+            1,
+            "\u8d8a\u6f6e",
+            "SHOP B, G/F, 406 DES VOEUX ROAD WEST, SAI WAN, WESTERN, HONG KONG",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592889
+        ]
+      ],
+      "coordinate": [
+        1.992057527438775,
+        0.388974603512089,
+        24.75
+      ],
+      "halfSize": [
+        5.274625000078231,
+        11.318589999340475,
+        21.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        962592798,
+        1,
+        [
+          [
+            2218808856,
+            0,
+            "\u6210\u8208\u7ca5\u54c1",
+            "G/F., FRONT BLOCK, 408D DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592901
+        ]
+      ],
+      "coordinate": [
+        1.9920481376512236,
+        0.3889732755390296,
+        24.799999237060547
+      ],
+      "halfSize": [
+        4.910494999960065,
+        9.199915000237525,
+        21.0
+      ]
+    },
+    {
+      "attributes": [
+        962592799,
+        1,
+        [
+          [
+            3118804676,
+            1,
+            "\u805a\u5473\u9928",
+            "G/F., 602 QUEEN'S ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-05-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592910
+        ]
+      ],
+      "coordinate": [
+        1.9919956036960735,
+        0.3889721372782234,
+        15.5
+      ],
+      "halfSize": [
+        3.952139999717474,
+        6.183739999309182,
+        11.5
+      ]
+    },
+    {
+      "attributes": [
+        962592800,
+        1,
+        [
+          [
+            2218807084,
+            0,
+            "KA HING RESTAURANT",
+            "SHOP 4, G/F., SIU YEE BUILDING, NOS. 590, 592, 594 AND 596 QUEEN'S ROAD WEST, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592913
+        ]
+      ],
+      "coordinate": [
+        1.991998960081573,
+        0.3889696489448743,
+        37.349998474121094
+      ],
+      "halfSize": [
+        14.093989999964833,
+        18.195724999532104,
+        33.25
+      ]
+    },
+    {
+      "attributes": [
+        962592801,
+        1,
+        [
+          [
+            3118805633,
+            1,
+            "HOHON EATERY",
+            "SHOP NO. 3 , G/F., NOS. 419L, 419M, 419N, 419P & 419Q QUEEN'S ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592915
+        ]
+      ],
+      "coordinate": [
+        1.99207744788416,
+        0.3889707276243605,
+        21.350000381469727
+      ],
+      "halfSize": [
+        9.817490000277758,
+        9.880260000005364,
+        15.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        962592802,
+        2,
+        [
+          [
+            2214082227,
+            0,
+            "TORI MAMA",
+            "G/F, 20 WHITTY STREET, WESTERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2218815283,
+            0,
+            "\u5f69",
+            "G/F., NO. 16 WHITTY STREET, KAM LING COURT, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2027-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592924
+        ]
+      ],
+      "coordinate": [
+        1.9920489097861844,
+        0.38896941117727124,
+        23.850000381469727
+      ],
+      "halfSize": [
+        14.476880000438541,
+        10.803805000148714,
+        19.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        962592803,
+        2,
+        [
+          [
+            2218812983,
+            0,
+            "CHORLAND COOKFOOD STALL",
+            "SHOP NO. 1, G/F., YAT FU LANE, 554-560 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-03-07"
+          ],
+          [
+            2218819665,
+            0,
+            "KING OF CHARSIU",
+            "SHOP A, G/F, PAK HOO MANSION, 554-560 QUEEN'S ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592932
+        ]
+      ],
+      "coordinate": [
+        1.992012996717529,
+        0.3889667653554356,
+        24.5
+      ],
+      "halfSize": [
+        13.69988500000909,
+        17.931239999830723,
+        20.0
+      ]
+    },
+    {
+      "attributes": [
+        962592804,
+        2,
+        [
+          [
+            2218818088,
+            0,
+            "Double Happiness Roast Meat Restaurant",
+            "SHOP C, G/F., 427-437 QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-08-20"
+          ],
+          [
+            3118802476,
+            1,
+            "\u516b\u65b9\u96f2\u96c6\u934b\u8cbc\u6c34\u9903\u5c08\u9580\u5e97(\u77f3\u5858\u5480\u5e97)",
+            "SHOP F, G/F., SANG CHEONG BUILDING, NO. 427-437 QUEEN'S ROAD WEST, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592935
+        ]
+      ],
+      "coordinate": [
+        1.9920428620327881,
+        0.38896620612595845,
+        21.049999237060547
+      ],
+      "halfSize": [
+        14.784649999812245,
+        10.842109999619424,
+        15.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        962592805,
+        1,
+        [
+          [
+            2218807303,
+            0,
+            "\u677e\u8a18\u7cd6\u6c34\u5e97",
+            "SHOP NO. 4, G/F., JOY FAT HOUSE, NO. 522-530 QUEEN'S ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-04-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592944
+        ]
+      ],
+      "coordinate": [
+        1.9920239583361155,
+        0.38896326528818875,
+        22.950000762939453
+      ],
+      "halfSize": [
+        14.234994999598712,
+        24.35194499976933,
+        18.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        962592806,
+        1,
+        [
+          [
+            2218814387,
+            0,
+            "24 YUMMY",
+            "G/F. (REAR PORTION), NOS. 425T & 425U QUEEN'S ROAD WEST, HONG KONG",
+            null,
+            "2026-04-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592949
+        ]
+      ],
+      "coordinate": [
+        1.9920506719913065,
+        0.38896493742381527,
+        26.350000381469727
+      ],
+      "halfSize": [
+        4.864479999989271,
+        11.258165000006557,
+        21.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        962592807,
+        1,
+        [
+          [
+            2218804067,
+            0,
+            "Rajdoot  Indian & Nepalesa Cuisine + Bar",
+            "G/F (REAR PORTION), 425Q QUEEN'S ROAD WEST, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2026-08-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592955
+        ]
+      ],
+      "coordinate": [
+        1.9920542002983133,
+        0.38896411999274283,
+        26.350000381469727
+      ],
+      "halfSize": [
+        4.903149999678135,
+        11.263944999314845,
+        21.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        962592808,
+        1,
+        [
+          [
+            3114165230,
+            1,
+            "Club Lounge",
+            "28/F, 508 QUEEN'S ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-11-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592961
+        ]
+      ],
+      "coordinate": [
+        1.9920302148661133,
+        0.3889634221566056,
+        65.69999694824219
+      ],
+      "halfSize": [
+        16.15722500020638,
+        10.009870000183582,
+        41.5
+      ]
+    },
+    {
+      "attributes": [
+        962592809,
+        2,
+        [
+          [
+            2218803417,
+            0,
+            "\u6843\u6e90\u5ddd\u7cb5\u5c0f\u5eda",
+            "FLAT 2, G/F., FU GA BUILDING, 7-13 YAT FU LANE, SHEK TONG TSUI, SAI WAN, HONG KONG",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2218806799,
+            0,
+            "JIANG'S HUNAN CHEF",
+            "G/F., 13 YAT FU LANE, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2026-08-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592968
+        ]
+      ],
+      "coordinate": [
+        1.9920121366061276,
+        0.3889615523755077,
+        41.099998474121094
+      ],
+      "halfSize": [
+        10.76355000026524,
+        17.68984999973327,
+        36.0
+      ]
+    },
+    {
+      "attributes": [
+        962592810,
+        1,
+        [
+          [
+            2218816578,
+            0,
+            "CHITCHAT RESTAURANT",
+            "SHOP NO. 1, G/F, WING HING HOUSE, 476-482 QUEEN'S ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962592971
+        ]
+      ],
+      "coordinate": [
+        1.9920446250737742,
+        0.38896056172583393,
+        23.850000381469727
+      ],
+      "halfSize": [
+        13.240629999898374,
+        12.525500000454485,
+        17.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        962592811,
+        5,
+        [
+          [
+            2218817304,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP G03 & G04, G/F, THE ROCKPOOL, 402-404 DES VOEUX ROAD WEST, SAI YING PUN, HONG KONG",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2218817960,
+            0,
+            "Genki Sushi",
+            "SHOP G02, G/F, THE ROCKPOOL, 402-404 DES VOEUX ROAD WEST, SAI YING PUN, HONG KONG",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2218818149,
+            0,
+            "Fairwood Fast Food",
+            "SHOP 101, 1/F, THE ROCKPOOL, NOS. 402 & 404 DES VOEUX ROAD WEST, HONG KONG",
+            null,
+            "2026-09-06"
+          ],
+          [
+            2218819188,
+            0,
+            "MUWU BARBEQUE - The Rockpool Shop",
+            "SHOPS.104 & 105, 1/F, THE ROCKPOOL, NOS. 402 & 404 DES VOEUX ROAD WEST, SAI YING PUN, HONG KONG",
+            null,
+            "2027-02-16"
+          ],
+          [
+            3918812855,
+            1,
+            "Namcheon Korean Food",
+            "SHOP 110, 1/F, THE ROCKPOOL, 402 & 404 DES VOEUX ROAD WEST, SAI WAN, HONG KONG",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962593009
+        ]
+      ],
+      "coordinate": [
+        1.9920634257909775,
+        0.38897044710875833,
+        7.800000190734863
+      ],
+      "halfSize": [
+        23.644089999608696,
+        51.941469999961555,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        962592812,
+        2,
+        [
+          [
+            2218811087,
+            0,
+            "\u56de\u5bb6\u6e58",
+            "SHOP 1B ON GROUND FLOOR, UPTON, 180 CONNAUGHT ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-06-08"
+          ],
+          [
+            2218818538,
+            0,
+            "BLZ Restaurant",
+            "SHOP 1A, G/F, UPTON, 180 CONNAUGHT ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2026-03-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962593018
+        ]
+      ],
+      "coordinate": [
+        1.99206962711805,
+        0.38898746320145366,
+        10.299999237060547
+      ],
+      "halfSize": [
+        23.588334999978542,
+        26.52470500022173,
+        6.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        962592813,
+        1,
+        [
+          [
+            3118810541,
+            1,
+            "Fineprint",
+            "SHOP 1, G/F, 8-12 SOUTH LANE, SAI WAN, HONG KONG",
+            null,
+            "2026-11-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962593020
+        ]
+      ],
+      "coordinate": [
+        1.9920232831605371,
+        0.3889578238053772,
+        14.399999618530273
+      ],
+      "halfSize": [
+        16.31651999987662,
+        8.571565000340343,
+        5.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        962592814,
+        1,
+        [
+          [
+            2218815724,
+            0,
+            "BROOKLYN BAR AND GRILL",
+            "G/F., ONE SOUTH LANE, 1 SOUTH LANE, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2026-10-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          962593022
+        ]
+      ],
+      "coordinate": [
+        1.9920296386531968,
+        0.3889511349893391,
+        15.949999809265137
+      ],
+      "halfSize": [
+        9.501004999969155,
+        11.725629999302328,
+        7.449999809265137
+      ]
+    }
+  ]
+}

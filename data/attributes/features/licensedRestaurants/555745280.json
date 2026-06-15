@@ -1,0 +1,502 @@
+{
+  "features": [
+    {
+      "attributes": [
+        555745280,
+        6,
+        [
+          [
+            2217001546,
+            0,
+            "SA NE",
+            "SHOP 19, G/F., MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2217001740,
+            0,
+            "McDonald's",
+            "SHOP NOS. 1, 3 & 5, G/F & C/L, AND THE OUTSIDE SEATING ACCOMMODATION IN OPEN SPACE AT SIDE, MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2217801052,
+            0,
+            "DEER HORN RESTAURANT &' BAR",
+            "SHOP 11, G/F., MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-19"
+          ],
+          [
+            3117000064,
+            1,
+            "China Bear",
+            "SHOP 2 & 4, G/F & C/L, AND OUTSIDE SEATING AREAS AT SHOP FRONT, MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            3117800084,
+            1,
+            "CAFFE PARADISO",
+            "SHOP 8, G/F. & COCKLOFT, MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3117801166,
+            1,
+            "\u66fc\u8c37\u5c0f\u5eda",
+            "SHOP 9, G/F., MUI WO CENTRE, NO. 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745288
+        ]
+      ],
+      "coordinate": [
+        1.9897043393247833,
+        0.388584836132334,
+        7.050000190734863
+      ],
+      "halfSize": [
+        29.996999999973923,
+        14.893499999307096,
+        3.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        555745281,
+        2,
+        [
+          [
+            2217801159,
+            0,
+            "the kitchen",
+            "G/F, C/L (PORTION) AND OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT OF SHOP NO.1, SCENIC CREST, 18A MUI WO FERRY PIER ROAD, LANTAU, HONG KONG",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2217803359,
+            0,
+            "Village Kitchen",
+            "SHOP 5, G/F AND C/L, SCENIC CREST, 18A MUI WO FERRY PIER ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745289
+        ]
+      ],
+      "coordinate": [
+        1.9897064783731941,
+        0.3885704443107553,
+        6.849999904632568
+      ],
+      "halfSize": [
+        12.737999999895692,
+        19.700000000186265,
+        2.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        555745282,
+        1,
+        [
+          [
+            2217801724,
+            0,
+            "(No record found)",
+            "G/F. (PORTION), 11 TUNG WAN TAU ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745291
+        ]
+      ],
+      "coordinate": [
+        1.9896645116027267,
+        0.38871305429212744,
+        11.050000190734863
+      ],
+      "halfSize": [
+        18.37069999985397,
+        11.623004999943078,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        555745283,
+        1,
+        [
+          [
+            2217000880,
+            0,
+            "Silvermine Beach Resort",
+            "G/F. (PORTION), SILVERMINE BEACH RESORT, DD 2, LOT 648, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745585
+        ]
+      ],
+      "coordinate": [
+        1.98964079111533,
+        0.38865011380748027,
+        10.700000762939453
+      ],
+      "halfSize": [
+        22.671500000171363,
+        32.17850000038743,
+        5.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        555745284,
+        1,
+        [
+          [
+            3117801315,
+            1,
+            "PAUSE CAFE",
+            "G/F., 21 MUI WO CHUNG HAU STREET, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745685
+        ]
+      ],
+      "coordinate": [
+        1.9896334072786594,
+        0.38864580493839695,
+        6.900000095367432
+      ],
+      "halfSize": [
+        4.849940000101924,
+        8.187214999459684,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        555745285,
+        1,
+        [
+          [
+            3117000383,
+            1,
+            "\u54c1\u6a02\u98df\u5e97",
+            "G/F., 35 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745706
+        ]
+      ],
+      "coordinate": [
+        1.9896137043946729,
+        0.38864513560226344,
+        7.150000095367432
+      ],
+      "halfSize": [
+        4.7520000003278255,
+        7.573470000177622,
+        3.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        555745286,
+        1,
+        [
+          [
+            3117000967,
+            1,
+            "\u6995\u6a39\u982d\u7c89\u9eb5",
+            "G/F., 32 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745757
+        ]
+      ],
+      "coordinate": [
+        1.9896156565455214,
+        0.3886418945097763,
+        7.75
+      ],
+      "halfSize": [
+        4.231265000067651,
+        6.855744999833405,
+        3.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        555745287,
+        1,
+        [
+          [
+            3117801175,
+            1,
+            "\u516b\u5341\u540e\u5c0f\u98df",
+            "G/F., 48 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745783
+        ]
+      ],
+      "coordinate": [
+        1.9896093045635304,
+        0.38863971745651665,
+        7.099999904632568
+      ],
+      "halfSize": [
+        5.177474999800324,
+        7.338925000280142,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        555745288,
+        1,
+        [
+          [
+            3117000471,
+            1,
+            "\u9802\u597d",
+            "G/F., 54 MUI WO RURAL COMMITTEE ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745796
+        ]
+      ],
+      "coordinate": [
+        1.9896059558848587,
+        0.38863884675692245,
+        7.150000095367432
+      ],
+      "halfSize": [
+        4.822054999880493,
+        6.018864999525249,
+        3.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        555745289,
+        1,
+        [
+          [
+            3117000657,
+            1,
+            "\u9ea5\u751f\u8a18",
+            "G/F., 38F MUI WO CHUNG HAU STREET, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745805
+        ]
+      ],
+      "coordinate": [
+        1.989615023221647,
+        0.38863836152769354,
+        7.150000095367432
+      ],
+      "halfSize": [
+        4.550999999977648,
+        7.052025000564754,
+        3.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        555745290,
+        1,
+        [
+          [
+            3117801759,
+            1,
+            "(no record found)",
+            "PORTION A OF G/F., BLOCK 2, SILVERVIEW CENTRE, NO. 8 NGAN KWONG WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746021
+        ]
+      ],
+      "coordinate": [
+        1.9896164109155015,
+        0.3886055621815562,
+        9.25
+      ],
+      "halfSize": [
+        13.895999999716878,
+        9.817500000819564,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        555745291,
+        1,
+        [
+          [
+            3917801580,
+            1,
+            "(no record found)",
+            "SHOP C, G/F., SILVER CENTRE BUILDING, 10 MUI WO FERRY PIER ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746068
+        ]
+      ],
+      "coordinate": [
+        1.989687147880631,
+        0.38859330239883483,
+        16.0
+      ],
+      "halfSize": [
+        9.741979999933392,
+        20.06952999997884,
+        9.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        555745292,
+        3,
+        [
+          [
+            2217000233,
+            0,
+            "La Pizzeria",
+            "G/F., GRANDVIEW MANSION, 11C MUI WO FERRY PIER ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2217000835,
+            0,
+            "Roman Restaurant",
+            "BLOCK A, G/F., GRANDVIEW MANSION, DD 4, LOT 669, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2217801441,
+            0,
+            "BAAN RAO",
+            "SHOP D, G/F., BLOCK D, GRANDVIEW MANSION, 11 MUI WO FERRY PIER ROAD, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746085
+        ]
+      ],
+      "coordinate": [
+        1.9896876045230139,
+        0.3885874459350942,
+        15.600000381469727
+      ],
+      "halfSize": [
+        11.975499999709427,
+        10.4375,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        555745293,
+        1,
+        [
+          [
+            2217803085,
+            0,
+            "Grill House",
+            "SHOP 2, G/F, 6 NGAN KWONG WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746415
+        ]
+      ],
+      "coordinate": [
+        1.9896271026388734,
+        0.3886121806504215,
+        6.849999904632568
+      ],
+      "halfSize": [
+        33.58279999997467,
+        27.77930000051856,
+        1.8499999046325684
+      ]
+    }
+  ]
+}

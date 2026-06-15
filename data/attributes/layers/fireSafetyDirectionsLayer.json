@@ -1,0 +1,54 @@
+{
+  "name": "fireSafetyDirections",
+  "label": "Fire Safety Directions Issued Under Fire Safety (Industrial Buildings) Ordinance",
+  "groupDisplay": 1,
+  "attributes": [
+    {
+      "name": "fireSafetyIID",
+      "label": "Fire Safety Directions Issued Under Fire Safety (Industrial Buildings) Ordinance",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "noData": 4294967295,
+      "show": 0,
+      "representations": [
+        {
+          "type": "boolean",
+          "color": [
+            255,
+            102,
+            0
+          ],
+          "label": "Buildings with Fire Safety Directions Issued Under Fire Safety (Industrial Buildings) Ordinance"
+        }
+      ]
+    },
+    {
+      "name": "serialNumber",
+      "label": "Serial Number",
+      "type": "STRING",
+      "show": 3
+    },
+    {
+      "name": "buildingName",
+      "label": "Building Name",
+      "type": "STRING",
+      "show": 3,
+      "display": 0
+    },
+    {
+      "name": "address",
+      "label": "Address",
+      "type": "STRING",
+      "show": 3
+    }
+  ],
+  "links": [
+    {
+      "layer": "building",
+      "attribute": "buildingIID"
+    }
+  ],
+  "selection": "fireSafetyIID",
+  "featuresDir": "fireSafetyDirections",
+  "featuresTileDepth": 5
+}

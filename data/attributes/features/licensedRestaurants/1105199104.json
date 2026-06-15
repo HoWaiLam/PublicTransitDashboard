@@ -1,0 +1,184 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1105199104,
+        1,
+        [
+          [
+            2252268353,
+            0,
+            "RTHK Staff Canteen",
+            "STAFF CANTEEN, G/F (MINOR PORTION), BROADCASTING HOUSE, RTHK, 30 BROADCAST DRIVE, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1105199246
+        ]
+      ],
+      "coordinate": [
+        1.9928349623000972,
+        0.38993809646536653,
+        80.1500015258789
+      ],
+      "halfSize": [
+        26.719105000142008,
+        36.69118999969214,
+        8.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1105199105,
+        1,
+        [
+          [
+            2263804562,
+            0,
+            "MY DIAMOND CAFE",
+            "SHOP 4 AND REAR PORTION OF SHOP 3, G/F, FU CHAK HOUSE, CHAK ON ESTATE, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1105199381
+        ]
+      ],
+      "coordinate": [
+        1.9925506996630529,
+        0.389902341310958,
+        93.5999984741211
+      ],
+      "halfSize": [
+        27.745039999950677,
+        28.670824999921024,
+        10.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1105199106,
+        8,
+        [
+          [
+            2252140127,
+            0,
+            "BILLY BOOZER",
+            "SHOPS 20-23, G/F, 320 JUNCTION ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252188408,
+            0,
+            "LION ROCK BISTRO",
+            "SHOP NOS. 2,3,&4, G/F, FRANKI CENTRE, NKIL 5746, 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2252198986,
+            0,
+            "\u5143\u798f\u58fd\u53f8\u5c08\u9580\u5e97",
+            "SHOP 11, LOWER G/F, FRANKI CENTRE, 320 JUNCTION RD, KOWLOON TONG, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-02-23"
+          ],
+          [
+            2252806018,
+            0,
+            "Kam Kee",
+            "SHOP NOS. 5-8 & 13-15, G/F, FRANKI CENTRE, 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2252807002,
+            0,
+            "\u5c0f\u98df\u6382",
+            "SHOP NO. 10, ON LOWER GROUND FLOOR, FRANKI CENTRE, 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2252807419,
+            0,
+            "\u5143\u798f\u8336\u623f",
+            "SHOP NO. 12, ON LOWER GROUND FLOOR, FRANKI CENTRE, 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON",
+            null,
+            "2026-03-19"
+          ],
+          [
+            2252809415,
+            0,
+            "BLESSED KITCHEN",
+            "SHOP NOS. 7, 8, 9, 14, 15, 16, 17 AND 18, LG/F., FRANKI CENTRE, 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3152803594,
+            1,
+            "HAP COFFEE",
+            "SHOP NO. 9 & 16, G/F, FRANKI CENTRE, NO. 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON",
+            null,
+            "2026-08-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1105199421
+        ]
+      ],
+      "coordinate": [
+        1.9928321336639572,
+        0.38989776149868305,
+        43.25
+      ],
+      "halfSize": [
+        30.72362000029534,
+        24.174699999392033,
+        7.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1105199107,
+        1,
+        [
+          [
+            2252805398,
+            0,
+            "HONG KONG BAPTIST HOSPITAL RESTAURANT",
+            "2/F, BLOCK E, HONG KONG BAPTIST HOSPITAL, NO. 322 JUNCTION ROAD, KOWLOON TONG, NKIL 5748, KOWLOON",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1105199513
+        ]
+      ],
+      "coordinate": [
+        1.9928229227487817,
+        0.38989573202860395,
+        40.0
+      ],
+      "halfSize": [
+        13.92052000015974,
+        12.870750000700355,
+        7.0
+      ]
+    }
+  ]
+}

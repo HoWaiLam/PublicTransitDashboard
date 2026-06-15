@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        912261120,
+        1,
+        [
+          [
+            2992804659,
+            4,
+            "SAM SENG WINE PRODUCTION CO",
+            "SHOP A & B, 180 CHUEN LUNG VILLAGE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          912261223
+        ]
+      ],
+      "coordinate": [
+        1.9916056569348237,
+        0.3908703231341781,
+        313.0999755859375
+      ],
+      "halfSize": [
+        9.484999999869615,
+        9.910000000149012,
+        3.8000030517578125
+      ]
+    }
+  ]
+}

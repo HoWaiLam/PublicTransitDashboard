@@ -1,0 +1,607 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1180696576,
+        7,
+        [
+          [
+            2297802031,
+            0,
+            "Fairwood Fast Food",
+            "SHOP UNITS G86-87, PLAZA ASCOT, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ],
+          [
+            2297802457,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. G83A, G84-G85, GROUND FLOOR, PLAZA ASCOT, 1 TSUN KING ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2297802679,
+            0,
+            "OP Cafe",
+            "SHOP NOS. G92-93 (MAJOR PORTION), GROUND FLOOR, PLAZA ASCOT, 1 TSUN KING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2297805164,
+            0,
+            "SHENG MIEN",
+            "SHOP UNITS G80B-81B, PLAZA ASCOT, 1 TSUN KING ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2297809546,
+            0,
+            "ONE CUISINE",
+            "SHOP G22-G30, G/F, PLAZA ASCOT, 1 TSUN KING ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2297810364,
+            0,
+            "Mixian Sense",
+            "SHOP UNIT G83, PLAZA ASCOT, 1 TSUN KING ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2297810717,
+            0,
+            "\u99ac\u8336",
+            "SHOP NOS. G67-70, G/F., PLAZA ASCOT, NO. 1 TSUN KING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696593
+        ]
+      ],
+      "coordinate": [
+        1.9931856566314163,
+        0.3909354809150672,
+        12.699999809265137
+      ],
+      "halfSize": [
+        81.87850000010803,
+        73.40599999949336,
+        6.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696577,
+        1,
+        [
+          [
+            3197801823,
+            1,
+            "\u7f8e\u666f\u725b\u96dc\u7c89\u9eb5",
+            "SHOP 37-39, JUBILEE MARKET, NO. 2-18 LOK KING STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696600
+        ]
+      ],
+      "coordinate": [
+        1.9931728997344171,
+        0.39091411784525065,
+        15.899999618530273
+      ],
+      "halfSize": [
+        94.20081500010565,
+        128.44991500023752,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        1180696578,
+        1,
+        [
+          [
+            2297801755,
+            0,
+            "Cafe' de Coral",
+            "UNIT NO. 101, 1/F, COMMERCIAL ACCOMMODATION, THE PALAZZO, 28 LOK KING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696611
+        ]
+      ],
+      "coordinate": [
+        1.9931601349411125,
+        0.3908811929534785,
+        14.84999942779541
+      ],
+      "halfSize": [
+        147.4641049997881,
+        223.25049999915063,
+        8.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696579,
+        1,
+        [
+          [
+            2297003564,
+            0,
+            "\u9280\u751f\u8336\u9910\u5ef3",
+            "G/F, NO 83 WO LIU HANG, DD 176, LOT NO.763, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697087
+        ]
+      ],
+      "coordinate": [
+        1.9930951220370572,
+        0.39092112747977364,
+        19.299999237060547
+      ],
+      "halfSize": [
+        6.239000000059605,
+        5.637000000104308,
+        4.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696580,
+        1,
+        [
+          [
+            2297802873,
+            0,
+            "Chung's House",
+            "G/F, 13 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697169
+        ]
+      ],
+      "coordinate": [
+        1.993101384800741,
+        0.3908839318509767,
+        12.5
+      ],
+      "halfSize": [
+        19.304000000003725,
+        24.280480000190437,
+        8.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696581,
+        1,
+        [
+          [
+            3197800750,
+            1,
+            "\u5bb6\u6a02\u9910\u5ef3",
+            "G/F, 57 FO TAN VILLAGE, DD 176, LOT 798, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697238
+        ]
+      ],
+      "coordinate": [
+        1.9930922023284172,
+        0.39087254926144605,
+        10.699999809265137
+      ],
+      "halfSize": [
+        5.929130000062287,
+        5.9266050001606345,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1180696582,
+        1,
+        [
+          [
+            2297800415,
+            0,
+            "\u5bb6\u6a02\u9910\u5ef3",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, DD 176, LOT 798, 58 FO TAN VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697246
+        ]
+      ],
+      "coordinate": [
+        1.9930929244058853,
+        0.39087186424991593,
+        10.5
+      ],
+      "halfSize": [
+        5.926630000118166,
+        5.9241649992764,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1180696583,
+        1,
+        [
+          [
+            2297001920,
+            0,
+            "\u4e00\u8336\u4e00\u5473",
+            "G/F (MAJOR PORTION), DD 176, LOT 800, 60 FO TAN VILLAGE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697255
+        ]
+      ],
+      "coordinate": [
+        1.9930946621308843,
+        0.39087020516214377,
+        11.100000381469727
+      ],
+      "halfSize": [
+        5.9242250001989305,
+        5.877840000204742,
+        5.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1180696584,
+        1,
+        [
+          [
+            2297806097,
+            0,
+            "\u6c38\u6607\u5c0f\u5eda",
+            "G/F, 66 FO TAN VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697283
+        ]
+      ],
+      "coordinate": [
+        1.9931002665605104,
+        0.390864628568717,
+        10.550000190734863
+      ],
+      "halfSize": [
+        5.716975000221282,
+        5.723995000123978,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696585,
+        9,
+        [
+          [
+            2297003005,
+            0,
+            "McDonald's",
+            "SHOP NOS 1 & 2, G/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ],
+          [
+            2297800071,
+            0,
+            "DRAGON DELIGHT",
+            "2/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2297800363,
+            0,
+            "ASRA INDIAN RESTAURANT",
+            "SHOP NO. 15 , 1/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2297800372,
+            0,
+            "KFC",
+            "SHOP NOS. 9 AND 11, GROUND FLOOR, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2297804231,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. 10-12 &17, 1ST FLOOR, SHATIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-07"
+          ],
+          [
+            3197800671,
+            1,
+            "Starbucks Coffee",
+            "SHOP NOS. 12A & 12B, GROUND FLOOR, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            3197801391,
+            1,
+            "Grove Sandwiches",
+            "SHOP NO. G03, G/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            3197802677,
+            1,
+            "\u6d2a\u8a18\u9eb5\u5bb6",
+            "SHOP NO.10, G/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            3997803003,
+            1,
+            "\u6709\u9eb5\u6709\u5c0f\u98df",
+            "SHOP 16, 1/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697488
+        ]
+      ],
+      "coordinate": [
+        1.9930511685995467,
+        0.39090687221430354,
+        22.599998474121094
+      ],
+      "halfSize": [
+        43.04570999974385,
+        42.795930000022054,
+        10.499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1180696586,
+        3,
+        [
+          [
+            2297803122,
+            0,
+            "Euphoric Banquet",
+            "SHOP NOS. 304-314, 3/F, JUBILEE SQUARE, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2297804055,
+            0,
+            "Super Super",
+            "SHOP NO. 323A, 3/F, JUBILEE SQUARE, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2297805960,
+            0,
+            "MX",
+            "SHOP NOS. 315-317, 3/F, JUBILEE SQUARE, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697499
+        ]
+      ],
+      "coordinate": [
+        1.993159432400208,
+        0.39089137578531447,
+        24.950000762939453
+      ],
+      "halfSize": [
+        51.158650000113994,
+        53.63370500039309,
+        19.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696587,
+        5,
+        [
+          [
+            2297808127,
+            0,
+            "GOOD PAPA",
+            "SHOP 102, 1/F, CHUN YEUNG SHOPPING CENTRE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2297808136,
+            0,
+            "SUN MING YUEN SEAFOOD RESTAURANT",
+            "SHOP 101, 1/F, CHUN YEUNG SHOPPING CENTRE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2297808206,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NO. G12, G/F, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-26"
+          ],
+          [
+            2297808288,
+            0,
+            "\u592a\u5b50\u725b\u8169\u7c89\u9eb5",
+            "STALL NOS. MK 26, 27, 28 & 29, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2297808297,
+            0,
+            "\u745e\u69ae\u9910\u5ba4",
+            "SHOP NO. 14, G/F, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697518
+        ]
+      ],
+      "coordinate": [
+        1.9929941637147708,
+        0.3909423467561594,
+        49.400001525878906
+      ],
+      "halfSize": [
+        66.79155000019819,
+        52.662165000103414,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        1180696588,
+        6,
+        [
+          [
+            2297810160,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 205, SECOND FLOOR, THE ARLES, 1 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2297810513,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 232, SECOND FLOOR, THE ARLES, 1 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2027-02-19"
+          ],
+          [
+            2297810531,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO.201, 2/F, THE ARLES SHOPPING ARCADE, 1 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2297810595,
+            0,
+            "2 CAFE",
+            "SHOP NO. 101A, FIRST FLOOR, THE ARLES, 1 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ],
+          [
+            3997802967,
+            1,
+            "borsch spot",
+            "SHOP NO. 227, SECOND FLOOR, THE ARLES, 1 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ],
+          [
+            3997802994,
+            1,
+            "Luckin Coffee",
+            "SHOP NO.G02 , G/F, THE ARLES SHOPPING ARCADE, 1 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697537
+        ]
+      ],
+      "coordinate": [
+        1.993116591971321,
+        0.3908737986982818,
+        17.049999237060547
+      ],
+      "halfSize": [
+        89.11877500033006,
+        70.92937000002712,
+        13.449999809265137
+      ]
+    }
+  ]
+}

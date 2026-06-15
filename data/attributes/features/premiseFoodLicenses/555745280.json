@@ -1,0 +1,221 @@
+{
+  "features": [
+    {
+      "attributes": [
+        555745280,
+        1,
+        [
+          [
+            3217000074,
+            6,
+            "7-Eleven",
+            "G/F & C/L, PORTION OF SHOP NO.13, MUI WO CENTRE, 3 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745288
+        ]
+      ],
+      "coordinate": [
+        1.9897043393247833,
+        0.388584836132334,
+        7.050000190734863
+      ],
+      "halfSize": [
+        29.996999999973923,
+        14.893499999307096,
+        3.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        555745281,
+        1,
+        [
+          [
+            2917803976,
+            4,
+            "\u5bcc\u904b\u5de5\u5834",
+            "G/F., NO. 40K MUI WO CHUNG HAU STREET, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555745814
+        ]
+      ],
+      "coordinate": [
+        1.9896127695002068,
+        0.38863759100210254,
+        6.900000095367432
+      ],
+      "halfSize": [
+        4.564999999944121,
+        7.029585000127554,
+        3.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        555745282,
+        1,
+        [
+          [
+            2917803684,
+            4,
+            "Pink's Bubble Tea",
+            "G/F., BLOCK 10, SILVERVIEW CENTRE, 8 NGAN KWONG WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746021
+        ]
+      ],
+      "coordinate": [
+        1.9896164109155015,
+        0.3886055621815562,
+        9.25
+      ],
+      "halfSize": [
+        13.895999999716878,
+        9.817500000819564,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        555745283,
+        1,
+        [
+          [
+            3617800441,
+            5,
+            "FUSION",
+            "PORTIONS OF SHOP S1-S7 ON G/F., MUI WO BUILDING, LOT NO. 689 IN DD4 MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746095
+        ]
+      ],
+      "coordinate": [
+        1.989688509952044,
+        0.38858310002539537,
+        15.300000190734863
+      ],
+      "halfSize": [
+        13.558000000193715,
+        18.15749999973923,
+        9.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        555745284,
+        1,
+        [
+          [
+            2917800834,
+            4,
+            "Kebab Korner",
+            "SHOP F, G/F & C/L, SEAVIEW BUILDING, 1 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746098
+        ]
+      ],
+      "coordinate": [
+        1.989696250661379,
+        0.3885833534210796,
+        15.100000381469727
+      ],
+      "halfSize": [
+        17.141499999910593,
+        12.405500000342727,
+        10.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        555745285,
+        1,
+        [
+          [
+            3617800201,
+            5,
+            "Wellcome",
+            "SHOP 1-10 (PORTION A), GALLOP COURT, 2 NGAN WAN ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746110
+        ]
+      ],
+      "coordinate": [
+        1.9897037198036678,
+        0.3885789145940772,
+        13.700000762939453
+      ],
+      "halfSize": [
+        18.93250000011176,
+        14.385999999940395,
+        9.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        555745286,
+        1,
+        [
+          [
+            2917801697,
+            4,
+            "Village Bakery",
+            "SHOP 3, G/F., LUCKY COURT, 16 MUI WO FERRY PIER ROAD, MUI WO, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          555746116
+        ]
+      ],
+      "coordinate": [
+        1.9896965921763388,
+        0.388576762345119,
+        14.25
+      ],
+      "halfSize": [
+        12.572500000242144,
+        17.960500000044703,
+        9.75
+      ]
+    }
+  ]
+}

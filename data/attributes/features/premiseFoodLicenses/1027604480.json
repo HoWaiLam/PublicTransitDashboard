@@ -1,0 +1,5868 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1027604480,
+        6,
+        [
+          [
+            2918806796,
+            4,
+            "Pierre Herm\u00e9 Paris",
+            "MAJOR PORTION OF SHOP 2029, 2/F., INTERNATIONAL FINANCE CENTRE, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2918809883,
+            4,
+            "OMOTESANDO KOFFEE",
+            "SHOP NO. 1032, PODIUM LEVEL 1, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2918809926,
+            4,
+            "Cova Pasticceria - Confetteria",
+            "SHOP 1023, PODIUM LEVEL ONE, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2918810975,
+            4,
+            "Pata Negra House",
+            "SHOP NO. 3012, PODIUM LEVEL 3, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-07"
+          ],
+          [
+            4918813051,
+            4,
+            "TRUFFLE BAKERY",
+            "KIOSK LICENSED AREA 13, PODIUM LEVEL 1 OF IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3218800550,
+            6,
+            "Pierre Herm\u00e9 Paris",
+            "MINOR PORTION OF SHOP 2029, 2/F., INTERNATIONAL FINANCE CENTRE, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604481
+        ]
+      ],
+      "coordinate": [
+        1.9924155336302654,
+        0.3889483029093242,
+        18.700000762939453
+      ],
+      "halfSize": [
+        41.17849999992177,
+        33.975999999791384,
+        15.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604481,
+        1,
+        [
+          [
+            2918804189,
+            4,
+            "DON JO",
+            "SHOP D, G/F., FU FAI COMMERCIAL CENTRE, 27 HILLIER STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-05-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604483
+        ]
+      ],
+      "coordinate": [
+        1.9923151349163912,
+        0.38894946801620117,
+        6.600000381469727
+      ],
+      "halfSize": [
+        12.821955000050366,
+        13.99091999977827,
+        3.500000238418579
+      ]
+    },
+    {
+      "attributes": [
+        1027604482,
+        2,
+        [
+          [
+            2918811464,
+            4,
+            "Flying Butcher",
+            "PORTION A OF SHOP 8A, G/F., HANG SING MANSION, 48-78 HIGH STREET, SAI YING PUN, HONG KONG",
+            null,
+            "2026-10-14"
+          ],
+          [
+            3618802198,
+            5,
+            "Flying Butcher",
+            "PORTIONS OF SHOP 8A, G/F., HANG SING MANSION, 48-78 HIGH STREET, SAI YING PUN, HONG KONG",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604491
+        ]
+      ],
+      "coordinate": [
+        1.9921449359053283,
+        0.3889477042066746,
+        43.95000076293945
+      ],
+      "halfSize": [
+        42.0962100001052,
+        9.341815000399947,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604483,
+        1,
+        [
+          [
+            2918806486,
+            4,
+            "iBakery",
+            "SHOP 5, G/F., TUNG FAI GARDENS, 17 PO YAN STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604495
+        ]
+      ],
+      "coordinate": [
+        1.9922459487458914,
+        0.38894439849120843,
+        25.899999618530273
+      ],
+      "halfSize": [
+        28.727924999780953,
+        26.620310000143945,
+        5.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604484,
+        1,
+        [
+          [
+            2918808358,
+            4,
+            "MEOW MIE STUDIO",
+            "SHOP 2, G/F, JADE COURT, NO. 8 HIGH STREET, SAI YING PUN, HONG KONG",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604496
+        ]
+      ],
+      "coordinate": [
+        1.9921675730361534,
+        0.3889474330561113,
+        41.150001525878906
+      ],
+      "halfSize": [
+        8.084500000346452,
+        7.107499999925494,
+        2.3500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1027604485,
+        1,
+        [
+          [
+            2918805650,
+            4,
+            "Sam Yeung Ho Food Company - Graham Mum",
+            "SHOP A, G/F., WING HANG INSURANCE BUILDING, 11 WING KUT STREET, HONG KONG",
+            null,
+            "2026-08-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604497
+        ]
+      ],
+      "coordinate": [
+        1.9923635065040888,
+        0.388945914093805,
+        12.050000190734863
+      ],
+      "halfSize": [
+        12.828000000212342,
+        13.55449999962002,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1027604486,
+        1,
+        [
+          [
+            3614095567,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 2, PORTION OF G/F, 37-47 BONHAM ROAD, SAI YING PUN, WESTERN, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604505
+        ]
+      ],
+      "coordinate": [
+        1.9921496656079458,
+        0.38894344154508825,
+        52.20000076293945
+      ],
+      "halfSize": [
+        20.102084999904037,
+        15.203625000081956,
+        7.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604487,
+        2,
+        [
+          [
+            2918801278,
+            4,
+            "No Record",
+            "SHOP A, G/F., 46 JERVOIS STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-03-06"
+          ],
+          [
+            2918810027,
+            4,
+            "\u897f\u9580\u5722",
+            "SHOP C, G/F, LEE KEE COMMERCIAL BUILDING, NOS. 221-227 & 227A QUEEN'S ROAD CENTRAL, NOS. 46-52 & 52A JERVOIS STREET, HONG KONG",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604510
+        ]
+      ],
+      "coordinate": [
+        1.9923269953915625,
+        0.3889440146516653,
+        11.5
+      ],
+      "halfSize": [
+        8.012000000104308,
+        4.831999999471009,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604488,
+        1,
+        [
+          [
+            2918809953,
+            4,
+            "Fragile Coffee House",
+            "SHOP 7A, G/F., EVORA BUILDING, 68 LOK KU ROAD, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604513
+        ]
+      ],
+      "coordinate": [
+        1.9922962319194772,
+        0.3889401119870035,
+        15.350000381469727
+      ],
+      "halfSize": [
+        19.263499999884516,
+        19.009499999694526,
+        7.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604489,
+        1,
+        [
+          [
+            2918811996,
+            4,
+            "No Title Coffee Design Limited",
+            "SHOP 1B, G/F., 49-51A GOUGH STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604522
+        ]
+      ],
+      "coordinate": [
+        1.9923255113053586,
+        0.38893876250281667,
+        23.549999237060547
+      ],
+      "halfSize": [
+        12.113499999977648,
+        14.270999999716878,
+        15.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604490,
+        1,
+        [
+          [
+            2918807072,
+            4,
+            "Indigo Coffee",
+            "SHOP A, GROUND FLOOR, NO. 1 TAI PING SHAN STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-09-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604527
+        ]
+      ],
+      "coordinate": [
+        1.9922759115636357,
+        0.38893649749211223,
+        33.5
+      ],
+      "halfSize": [
+        12.498450000304729,
+        13.975475000217557,
+        4.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1027604491,
+        2,
+        [
+          [
+            2918801968,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 3, G/F., HOLLYWOOD TERRACE, 123 HOLLYWOOD ROAD, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-11-15"
+          ],
+          [
+            3218800277,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 3, G/F., HOLLYWOOD TERRACE, 123 HOLLYWOOD ROAD, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-11-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604530
+        ]
+      ],
+      "coordinate": [
+        1.9923141644325304,
+        0.38893284840503256,
+        18.75
+      ],
+      "halfSize": [
+        50.314500000327826,
+        29.334999999962747,
+        12.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604492,
+        1,
+        [
+          [
+            2914118686,
+            4,
+            "PIZZA HUT",
+            "SHOP B, G/F, HANSEN COURT, 3 ST. STEPHEN'S LANE, WESTERN, HONG KONG",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604531
+        ]
+      ],
+      "coordinate": [
+        1.9921528909940978,
+        0.3889362814920926,
+        62.099998474121094
+      ],
+      "halfSize": [
+        8.691529999952763,
+        8.54056499991566,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        1027604493,
+        2,
+        [
+          [
+            2918807151,
+            4,
+            "Artisan Butcher",
+            "PORTION B OF SHOP NO. 3, G/F., GOLDEN PHOENIX COURT, NOS. 1-2 ST. STEPHEN'S LANE, WESTERN, HONG KONG",
+            null,
+            "2026-10-10"
+          ],
+          [
+            3618801380,
+            5,
+            "Artisan Butcher",
+            "PORTIONS (EXCEPT PORTION B) OF SHOP NO. 3, G/F., GOLDEN PHOENIX COURT, NOS. 1-2 ST. STEPHEN'S LANE, WESTERN, HONG KONG",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604535
+        ]
+      ],
+      "coordinate": [
+        1.9921566705582643,
+        0.3889341406287008,
+        63.29999923706055
+      ],
+      "halfSize": [
+        22.3351500001736,
+        14.821440000087023,
+        4.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604494,
+        2,
+        [
+          [
+            4918812924,
+            4,
+            "MARKS AND SPENCER",
+            "PORTION A OF COMMERCIAL UNIT 3 ON GROUND FLOOR, WILTON PLACE, 68 BONHAM ROAD, HONG KONG",
+            null,
+            "2026-04-15"
+          ],
+          [
+            4618802106,
+            5,
+            "MARKS AND SPENCER",
+            "PORTIONS OF COMMERCIAL UNIT 3 ON GROUND FLOOR, WILTON PLACE, 68 BONHAM ROAD, HONG KONG",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604542
+        ]
+      ],
+      "coordinate": [
+        1.9921687715165786,
+        0.3889329742627601,
+        66.75
+      ],
+      "halfSize": [
+        16.958769999910146,
+        16.8879999993369,
+        8.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1027604495,
+        1,
+        [
+          [
+            3618801098,
+            5,
+            "Wellcome",
+            "G/F (PORTIONS), YEE GA COURT, NO. 62 BONHAM ROAD, HONG KONG",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604549
+        ]
+      ],
+      "coordinate": [
+        1.9921829908471986,
+        0.38892991404779365,
+        67.3499984741211
+      ],
+      "halfSize": [
+        11.450174999888986,
+        17.61462500039488,
+        5.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604496,
+        1,
+        [
+          [
+            3618800077,
+            5,
+            "Wellcome",
+            "G/F (PORTION), CARTWRIGHT GARDEN, 1 BONHAM ROAD, WESTERN, HONG KONG",
+            null,
+            "2027-03-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604567
+        ]
+      ],
+      "coordinate": [
+        1.9922328071321307,
+        0.38892524177222343,
+        67.4000015258789
+      ],
+      "halfSize": [
+        11.169999999925494,
+        10.734999999403954,
+        5.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1027604497,
+        9,
+        [
+          [
+            2918808783,
+            4,
+            "Delicatessen",
+            "SHOP QRC-5, B/F., 100 QRC, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2918808792,
+            4,
+            "Roast Potato",
+            "SHOP QRC-1, LG/F., 100 QRC, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2918808808,
+            4,
+            "Deli",
+            "SHOP QRC-7, LG/F., 100 QRC, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2918808826,
+            4,
+            "Meat",
+            "SHOP QRC-3, B/F., 100 QRC, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2918808835,
+            4,
+            "Sushi",
+            "SHOP QRC-4, B/F., 100 QRC, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2918808844,
+            4,
+            "Vegetable & fruit",
+            "SHOP QRC-2, B/F., 100 QRC, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2918811826,
+            4,
+            "sundazed",
+            "SHOP A (MAJOR PORTION), G/F, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-06-08"
+          ],
+          [
+            3618801593,
+            5,
+            "Supermarket",
+            "PORTIONS OF LG/F & PORTIONS OF BASEMENT FLOOR, 100 QRC, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            3218800772,
+            6,
+            "sundazed",
+            "SHOP A (MINOR PORTION), G/F, 100 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-06-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604583
+        ]
+      ],
+      "coordinate": [
+        1.9923797466863054,
+        0.38891747892753475,
+        18.649999618530273
+      ],
+      "halfSize": [
+        20.965220000129193,
+        23.21364000067115,
+        9.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604498,
+        1,
+        [
+          [
+            3618800907,
+            5,
+            "Fusion",
+            "PORTIONS OF SHOP B, G/F., TAI SHING BUILDING, 129-131 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-08-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604597
+        ]
+      ],
+      "coordinate": [
+        1.9922938012961722,
+        0.3889118882353901,
+        66.4000015258789
+      ],
+      "halfSize": [
+        13.922999999951571,
+        18.404000000096858,
+        11.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1027604499,
+        1,
+        [
+          [
+            2918809166,
+            4,
+            "Amaze Dumplings",
+            "SHOP 2B, G/F., JADESTONE COURT, 138 CAINE ROAD, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604612
+        ]
+      ],
+      "coordinate": [
+        1.9922803149368962,
+        0.3889087783767113,
+        78.69999694824219
+      ],
+      "halfSize": [
+        10.615999999921769,
+        11.22649999987334,
+        6.899997711181641
+      ]
+    },
+    {
+      "attributes": [
+        1027604500,
+        1,
+        [
+          [
+            4618802090,
+            5,
+            "ARGENTINA PREMIUM",
+            "PORTIONS OF SHOP B, LG/F, FELICITY BUILDING, NOS.54,54A,56,56A,58 HOLLYWOOD ROAD, NOS.38-44 PEEL STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604620
+        ]
+      ],
+      "coordinate": [
+        1.9923428674329953,
+        0.38890521524002347,
+        38.19999694824219
+      ],
+      "halfSize": [
+        18.426499999593943,
+        18.794999999925494,
+        5.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604501,
+        3,
+        [
+          [
+            2918802262,
+            4,
+            "Wellcome",
+            "SHOP A (PORTION C), G/F., 99 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-09-23"
+          ],
+          [
+            3613067420,
+            5,
+            "WELLCOME",
+            "SHOP A, G/F., 99 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3618801663,
+            5,
+            "Foodpanda",
+            "PORTIONS OF SHOP B, C, D, G/F., 99 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604627
+        ]
+      ],
+      "coordinate": [
+        1.9923127503968374,
+        0.38890223960255793,
+        71.25
+      ],
+      "halfSize": [
+        26.092000000178814,
+        25.847000000067055,
+        10.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604502,
+        1,
+        [
+          [
+            2918801560,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 1, G/F., NO. 9 CHIU LUNG STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604628
+        ]
+      ],
+      "coordinate": [
+        1.992406911545385,
+        0.38890463605727477,
+        11.350000381469727
+      ],
+      "halfSize": [
+        11.490999999921769,
+        10.915450000204146,
+        7.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1027604503,
+        1,
+        [
+          [
+            3618801876,
+            5,
+            "MARKS AND SPENCER",
+            "1/F (PORTION B), KINWICK CENTRE, 32 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-04-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604655
+        ]
+      ],
+      "coordinate": [
+        1.9923490241290571,
+        0.3888952474693574,
+        39.45000076293945
+      ],
+      "halfSize": [
+        16.114000000059605,
+        15.364000000059605,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604504,
+        3,
+        [
+          [
+            2918808288,
+            4,
+            "HYPEBEAST HONG KONG LIMITED",
+            "PORTION A OF SHOP B29 - B30, FIRST BASEMENT FLOOR, LANDMARK ATRIUM, 15 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2918812245,
+            4,
+            "LINE AND DINE",
+            "SHOP 239B, 2/F., LANDMARK ATRIUM, THE LANDMARK, 15 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-02-09"
+          ],
+          [
+            4918813006,
+            4,
+            "BELOWGROUND",
+            "SHOP B19A, B/F., LANDMARK ATRIUM, 15 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604670
+        ]
+      ],
+      "coordinate": [
+        1.992429688160974,
+        0.3888793031416249,
+        11.800000190734863
+      ],
+      "halfSize": [
+        55.00900000007823,
+        84.497405000031,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1027604505,
+        1,
+        [
+          [
+            2918808871,
+            4,
+            "Bakehouse Soho",
+            "G/F., ASIARICH COURT, 5 STAUNTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604676
+        ]
+      ],
+      "coordinate": [
+        1.9923493066979814,
+        0.3888892182325278,
+        48.400001525878906
+      ],
+      "halfSize": [
+        7.032009999733418,
+        6.7744950000196695,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1027604506,
+        1,
+        [
+          [
+            2918810595,
+            4,
+            "%ARABICA",
+            "SHOP 103, 1/F., ALEXANDRA HOUSE, 18 CHATER ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604680
+        ]
+      ],
+      "coordinate": [
+        1.992442781198717,
+        0.3888855603501104,
+        10.0
+      ],
+      "halfSize": [
+        35.210714999586344,
+        37.13385500013828,
+        6.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1027604507,
+        2,
+        [
+          [
+            2918804426,
+            4,
+            "HOOKED",
+            "SHOP D1, G/F., CAINE MANSION, NO. 80-88 CAINE ROAD, HONG KONG",
+            null,
+            "2026-11-24"
+          ],
+          [
+            3618801168,
+            5,
+            "HOOKED ON FRESH",
+            "SHOP D, G/F., CAINE MANSIONS, 80-88 CAINE ROAD, MID-LEVELS, CENTRAL, HONG KONG",
+            null,
+            "2027-01-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604681
+        ]
+      ],
+      "coordinate": [
+        1.992317054884172,
+        0.38888717537981193,
+        78.9000015258789
+      ],
+      "halfSize": [
+        20.285499999765307,
+        22.61349999997765,
+        7.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1027604508,
+        1,
+        [
+          [
+            2918808163,
+            4,
+            "THE COFFEE ACADEMICS",
+            "PORTION A OF ZONE D, 2ND FLOOR, COMMERCIAL PODIUM, STANDARD CHARTERED BANK BUILDING, 4-4A DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604719
+        ]
+      ],
+      "coordinate": [
+        1.9924508851839238,
+        0.3888655277897738,
+        11.050000190734863
+      ],
+      "halfSize": [
+        20.865000000223517,
+        36.07450000010431,
+        7.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604509,
+        1,
+        [
+          [
+            3618801511,
+            5,
+            "FEATHER AND BONE",
+            "PORTION OF SHOP A, G/F., ORCHID, 22 MOSQUE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604730
+        ]
+      ],
+      "coordinate": [
+        1.9923175654993859,
+        0.38886501330675427,
+        95.5999984741211
+      ],
+      "halfSize": [
+        11.373999999836087,
+        11.038499999791384,
+        3.5999984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1027604510,
+        1,
+        [
+          [
+            2913172526,
+            4,
+            "PAPA GOMES",
+            "SHOP 1, G/F., 31-37 MOSQUE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604732
+        ]
+      ],
+      "coordinate": [
+        1.9923144071205874,
+        0.38886373622439385,
+        96.25
+      ],
+      "halfSize": [
+        13.912000000011176,
+        12.94649999961257,
+        2.3499984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1027604511,
+        2,
+        [
+          [
+            2918804347,
+            4,
+            "Saint Honore Cake Shop",
+            "SHOP 10, G/F., FAIRVIEW HEIGHT, NO. 1 SEYMOUR ROAD, HONG KONG",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3613225747,
+            5,
+            "PARK' N SHOP",
+            "PTNS. OF SHOP NOS. 4 & 5 ON G/F, SHOP NOS. 1 & 2 ON LG/F., FAIRVIEW HEIGHT, 1 SEYMOUR ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604735
+        ]
+      ],
+      "coordinate": [
+        1.9923076169757454,
+        0.3888608928735599,
+        111.0
+      ],
+      "halfSize": [
+        14.0,
+        28.53000000026077,
+        9.800003051757812
+      ]
+    },
+    {
+      "attributes": [
+        1027604512,
+        2,
+        [
+          [
+            2918802350,
+            4,
+            "THANA DEE",
+            "SHOP D, G/F., KA YEE COURT, 23-27 MOSQUE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2918809908,
+            4,
+            "Derise Pork",
+            "SHOP A, G/F., KA YEE COURT, 23 MOSQUE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604755
+        ]
+      ],
+      "coordinate": [
+        1.9923200369544525,
+        0.38885927454160013,
+        98.1500015258789
+      ],
+      "halfSize": [
+        9.642999999690801,
+        9.537000000476837,
+        2.3499984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1027604513,
+        1,
+        [
+          [
+            2913171578,
+            4,
+            "\u666f\u6210",
+            "7 KENNEDY TERRACE GARAGE, 2-20 KENNEDY ROAD, CENTRAL, HONG KONG",
+            null,
+            "2027-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604796
+        ]
+      ],
+      "coordinate": [
+        1.9924208937655332,
+        0.388794199334374,
+        68.44999694824219
+      ],
+      "halfSize": [
+        25.435070000123233,
+        27.082670000381768,
+        4.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604514,
+        19,
+        [
+          [
+            2118800356,
+            1,
+            "Little Mermaid",
+            "PORTION 06, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-04-11"
+          ],
+          [
+            2118800499,
+            1,
+            "chapter",
+            "PORTION B, SHOP NO. 1081, LEVEL ONE, IFC MALL, NO. 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-15"
+          ],
+          [
+            2918801612,
+            4,
+            "Cafe de Coral",
+            "CONCESSION HOK 27A & 27B, HONG KONG STATION, HONG KONG",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2918804666,
+            4,
+            "NODI Coffee Stop",
+            "SHOP 1104A, PODIUM LEVEL 1, IFC MALL, NO. 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2918805322,
+            4,
+            "Sushi",
+            "PORTION 02, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET , CENTRAL, HONG KONG",
+            null,
+            "2027-03-30"
+          ],
+          [
+            2918805340,
+            4,
+            "Bellota",
+            "PORTION 03, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET , CENTRAL, HONG KONG",
+            null,
+            "2027-03-30"
+          ],
+          [
+            2918805359,
+            4,
+            "Ham / Cheese",
+            "PORTION 04, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-03-30"
+          ],
+          [
+            2918805386,
+            4,
+            "Sashimi / Oyster",
+            "PORTION 05, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-04-11"
+          ],
+          [
+            2918805456,
+            4,
+            "Fusion Deli, RF-1",
+            "PORTION 01, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2918805580,
+            4,
+            "Back Kitchen",
+            "PORTION 09, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2918805605,
+            4,
+            "Seafood / Sashimi",
+            "PORTION 07, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2918806750,
+            4,
+            "OMUSUBI",
+            "SHOP 1061, PODIUM LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2918806866,
+            4,
+            "% Arabica",
+            "SHOP NO. 1050, PODIUM LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2918808385,
+            4,
+            "ORIGINAL TASTE WORKSHOP",
+            "MTR STATION CONCESSION HOK 21A, HONG KONG STATION, HONG KONG",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2918810407,
+            4,
+            "Le Gourmet",
+            "PORTION 14, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2918810966,
+            4,
+            "\u5403\u8336\u4e09\u5343",
+            "SHOP NO. 1062, PODIUM LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2918811084,
+            4,
+            "Bacha Coffee",
+            "PORTION A OF SHOP NO. 1063, PODIUM LEVEL ONE, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2918811710,
+            4,
+            "maya x THE CAKERY",
+            "SHOP 1105A, PODIUM LEVEL ONE, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-03-23"
+          ],
+          [
+            3618801122,
+            5,
+            "Meat",
+            "PORTION 08, SHOP NOS. 1041-1049, LEVEL 1, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604860
+        ]
+      ],
+      "coordinate": [
+        1.992435893941055,
+        0.3889400535695383,
+        19.100000381469727
+      ],
+      "halfSize": [
+        101.6848849998787,
+        75.07753000035882,
+        15.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1027604515,
+        1,
+        [
+          [
+            2918807045,
+            4,
+            "Hei Lee Bakery",
+            "G/F., 13 WING WO STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604875
+        ]
+      ],
+      "coordinate": [
+        1.9923584042348308,
+        0.3889499322840306,
+        29.100000381469727
+      ],
+      "halfSize": [
+        10.325614999979734,
+        9.516545000486076,
+        23.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1027604516,
+        6,
+        [
+          [
+            2913169386,
+            4,
+            "GREENFIELD CAFE",
+            "SHOP 14, G/F, 189-205 QUEEN'S ROAD CENTRAL, SHEUNG WAN, CENTRAL, HONG KONG",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2918802226,
+            4,
+            "Poke Love",
+            "SHOP B2, B/F., KAI FUNG MANSION, 189-205 QUEEN'S ROAD CENTRAL, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2918806006,
+            4,
+            "CHECKCHECKCIN",
+            "PORTIONS OF SHOP NO. 6, B/F., KAI FUNG MANSION, NOS. 2-24 JERVOIS STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2918808482,
+            4,
+            "Queen Sophie",
+            "SHOP 5, BASEMENT, KAI FUNG BUILDING, NO. 2-24 JERVOIS STREET, & NOS. 189-205 QUEEN'S ROAD CENTRAL, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-09-21"
+          ],
+          [
+            4918812997,
+            4,
+            "MOJO STATION",
+            "PORTION A OF SHOP NO. 3, B/F., KAI FUNG MANSION, NOS. 2-24 JERVOIS STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-06-08"
+          ],
+          [
+            4918813079,
+            4,
+            "CHILL HOLE (HONG KONG) LIMITED",
+            "PORTION A OF SHOP 4, BASEMENT, KAI FUNG BUILDING, NO. 10 JERVOIS STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604896
+        ]
+      ],
+      "coordinate": [
+        1.9923388935995132,
+        0.38894801984199273,
+        19.5
+      ],
+      "halfSize": [
+        22.238425000105053,
+        14.306499999947846,
+        15.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604517,
+        1,
+        [
+          [
+            2918807948,
+            4,
+            "\u725b\u8eca\u6c34\u6d77\u5357\u96de\u5c08\u9580\u5e97",
+            "G/F, NO. 30 GILMAN'S BAZAAR, CENTRAL, HONG KONG",
+            null,
+            "2026-12-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604905
+        ]
+      ],
+      "coordinate": [
+        1.9923687760309605,
+        0.38894916353144526,
+        15.300000190734863
+      ],
+      "halfSize": [
+        4.832010000012815,
+        4.214774999767542,
+        11.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604518,
+        1,
+        [
+          [
+            2918803450,
+            4,
+            "Swiss",
+            "SHOP 15, G/F., SHING LEE COMMERCIAL BUILDING, 3-5 WING WO STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-12-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604912
+        ]
+      ],
+      "coordinate": [
+        1.9923580395895177,
+        0.38894725986263884,
+        38.599998474121094
+      ],
+      "halfSize": [
+        18.254650000017136,
+        15.628589999862015,
+        33.0
+      ]
+    },
+    {
+      "attributes": [
+        1027604519,
+        1,
+        [
+          [
+            2918803849,
+            4,
+            "LIKE YOU",
+            "G/F, C/L, GILMAN LADAAR BUILDING, 24 GILMAN'S BAZAAR, CENTRAL, HONG KONG",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604949
+        ]
+      ],
+      "coordinate": [
+        1.9923670687619635,
+        0.3889469155673799,
+        15.59999942779541
+      ],
+      "halfSize": [
+        6.217574999667704,
+        6.5333350002765656,
+        11.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604520,
+        2,
+        [
+          [
+            2918804286,
+            4,
+            "Poke Love",
+            "SHOP C, G/F, KAM FUNG MANSION, NO. 59-61 BONHAM ROAD, HONG KONG",
+            null,
+            "2026-08-03"
+          ],
+          [
+            2918811385,
+            4,
+            "\u8336\u5de5\u623f",
+            "SHOP D, G/F, KAM FUNG MANSION, NO. 59-61 BONHAM ROAD, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604984
+        ]
+      ],
+      "coordinate": [
+        1.992135985900756,
+        0.38894286820439994,
+        86.9000015258789
+      ],
+      "halfSize": [
+        7.089625000022352,
+        20.947909999638796,
+        41.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604521,
+        1,
+        [
+          [
+            2918811668,
+            4,
+            "Aster by Poppy",
+            "SHOP B1, G/F., HOLLYWOOD BUILDING, 186-190A HOLLYWOOD ROAD, SHEUNG WAN, HONG KONG",
+            null,
+            "2027-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027604994
+        ]
+      ],
+      "coordinate": [
+        1.9922853100056659,
+        0.3889436478692302,
+        52.79999923706055
+      ],
+      "halfSize": [
+        14.38150000013411,
+        14.12650000024587,
+        34.89999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1027604522,
+        1,
+        [
+          [
+            2918808817,
+            4,
+            "TAKU",
+            "G/F, 36 JERVOIS STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605001
+        ]
+      ],
+      "coordinate": [
+        1.992332401679343,
+        0.3889447313859071,
+        17.299999237060547
+      ],
+      "halfSize": [
+        4.58983499975875,
+        5.421439999714494,
+        13.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604523,
+        1,
+        [
+          [
+            2918811057,
+            4,
+            "Ohlalagout",
+            "SHOP B & C, G/F., TERN CENTRE, TOWER 2, 251 QUEEN'S ROAD CENTRAL, SHEUNG WAN, HONG KONG",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605014
+        ]
+      ],
+      "coordinate": [
+        1.992317082146522,
+        0.3889440231020806,
+        31.150001525878906
+      ],
+      "halfSize": [
+        6.864165000151843,
+        6.620959999971092,
+        27.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604524,
+        1,
+        [
+          [
+            2918804736,
+            4,
+            "PASSIONE",
+            "SHOP B, G/F., TOWER 1 OF TERN CENTRE, NO. 237 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605019
+        ]
+      ],
+      "coordinate": [
+        1.9923212991957497,
+        0.38894371371507525,
+        59.64999771118164
+      ],
+      "halfSize": [
+        9.282999999821186,
+        7.772119999863207,
+        35.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1027604525,
+        1,
+        [
+          [
+            2918810434,
+            4,
+            "hana-musubi",
+            "SHOP 2A, ENTRANCE HALL FLOOR, THE CENTER, 99 QUEEN'S ROAD CENTRAL, HONG KONG",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605028
+        ]
+      ],
+      "coordinate": [
+        1.9923758544743466,
+        0.38893986854175094,
+        153.75
+      ],
+      "halfSize": [
+        29.223439999856055,
+        29.544999999925494,
+        145.85000610351562
+      ]
+    },
+    {
+      "attributes": [
+        1027604526,
+        1,
+        [
+          [
+            2918803858,
+            4,
+            "Too Yuen Kee Fruit Company Limited",
+            "G/F., WING YAU HOUSE, 55 SAI STREET, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605030
+        ]
+      ],
+      "coordinate": [
+        1.9922665476401324,
+        0.38894298556797013,
+        33.55000305175781
+      ],
+      "halfSize": [
+        8.56015000026673,
+        8.486879999749362,
+        14.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604527,
+        2,
+        [
+          [
+            2918804231,
+            4,
+            "DELI EXPRESS",
+            "SHOP C1, G/F., SIU YING COMMERCIAL BUILDING, 151-155 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2918809795,
+            4,
+            "DOUGH BROS",
+            "SHOP A3, G/F., SIU YING COMMERCIAL BUILDING, 151-155 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605045
+        ]
+      ],
+      "coordinate": [
+        1.9923598502313733,
+        0.3889416081075635,
+        43.85000228881836
+      ],
+      "halfSize": [
+        13.262904999777675,
+        12.266564999707043,
+        35.95000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1027604528,
+        1,
+        [
+          [
+            2918811002,
+            4,
+            "FINEPRINT",
+            "KIOSK, 1/F., THREE EXCHANGE SQUARE, 8 CONNAUGHT PLACE, CENTRAL, HONG KONG",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605066
+        ]
+      ],
+      "coordinate": [
+        1.9924210222901444,
+        0.38893836766749884,
+        72.75
+      ],
+      "halfSize": [
+        25.03740999987349,
+        23.97228500060737,
+        68.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604529,
+        1,
+        [
+          [
+            2918808020,
+            4,
+            "BUNZ",
+            "SHOP A, COMMERCIAL UNIT G1, G/F, MANHATTAN AVENUE, NO. 255 QUEEN'S ROAD CENTRAL, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605078
+        ]
+      ],
+      "coordinate": [
+        1.9923143438843243,
+        0.3889407318013531,
+        51.150001525878906
+      ],
+      "halfSize": [
+        10.888000000268221,
+        7.618385000154376,
+        38.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1027604530,
+        1,
+        [
+          [
+            2918811622,
+            4,
+            "NIBBLES",
+            "PORTION A OF SHOP 1, G/F., PO HING COURT, 10-18 PO HING FONG, SHEUNG WAN, HONG KONG",
+            null,
+            "2027-02-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605083
+        ]
+      ],
+      "coordinate": [
+        1.9922449362430892,
+        0.38893971752372597,
+        51.5
+      ],
+      "halfSize": [
+        12.798200000077486,
+        12.058614999987185,
+        21.0
+      ]
+    },
+    {
+      "attributes": [
+        1027604531,
+        1,
+        [
+          [
+            2918806282,
+            4,
+            "CRAFTISSIMO",
+            "SHOP D, G/F., NO. 22-24 TAI PING SHAN STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-08-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605094
+        ]
+      ],
+      "coordinate": [
+        1.9922637101416263,
+        0.3889400739590266,
+        39.30000305175781
+      ],
+      "halfSize": [
+        7.383050000295043,
+        6.506300000473857,
+        10.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604532,
+        1,
+        [
+          [
+            2918807382,
+            4,
+            "Rapha",
+            "MINOR PORTION OF G/F., 56 SAI STREET, TAI PING SHAN, HONG KONG",
+            null,
+            "2027-01-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605096
+        ]
+      ],
+      "coordinate": [
+        1.9922681228775554,
+        0.388940190479274,
+        39.400001525878906
+      ],
+      "halfSize": [
+        6.237180000171065,
+        5.885685000568628,
+        11.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604533,
+        1,
+        [
+          [
+            2918811507,
+            4,
+            "MISUGU BENTO",
+            "G/F., 4 TIT HONG LANE, CENTRAL, HONG KONG",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605110
+        ]
+      ],
+      "coordinate": [
+        1.992386092489861,
+        0.38893958319918404,
+        12.449999809265137
+      ],
+      "halfSize": [
+        5.862435000017285,
+        5.291685000061989,
+        9.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1027604534,
+        1,
+        [
+          [
+            3618801186,
+            5,
+            "Market Place",
+            "SHOP A (PORTIONS), G/F., CENTRAL MANSION BUILDING, 270-276 QUEEN'S ROAD CENTRAL, SHEUNG WAN, HONG KONG",
+            null,
+            "2027-02-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605122
+        ]
+      ],
+      "coordinate": [
+        1.9923066023568752,
+        0.3889362422214111,
+        42.849998474121094
+      ],
+      "halfSize": [
+        18.649974999949336,
+        20.597420000471175,
+        37.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604535,
+        1,
+        [
+          [
+            2918806042,
+            4,
+            "Circle K Convenience Store",
+            "PORTIONS OF SHOP A, G/F., KAM NING MANSION, NOS. 13 & 15 BONHAM ROAD, SAI YING PUN, HONG KONG",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605132
+        ]
+      ],
+      "coordinate": [
+        1.9921699359152452,
+        0.3889383073183081,
+        82.30000305175781
+      ],
+      "halfSize": [
+        8.212909999769181,
+        5.215055000036955,
+        40.79999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1027604536,
+        1,
+        [
+          [
+            2918810337,
+            4,
+            "SOUL FRESH",
+            "SHOP B, G/F., 14 TAI PING SHAN STREET, HONG KONG",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605161
+        ]
+      ],
+      "coordinate": [
+        1.992267519383208,
+        0.38893679809157244,
+        39.79999923706055
+      ],
+      "halfSize": [
+        6.2448450000956655,
+        6.750810000114143,
+        8.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1027604537,
+        1,
+        [
+          [
+            2918802174,
+            4,
+            "PHD",
+            "SHOP 1, 3/F., HING HON BUILDING, NO. 63B-F BONHAM ROAD, NO. 15 HING HON ROAD, HONG KONG",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605164
+        ]
+      ],
+      "coordinate": [
+        1.9921158167926531,
+        0.38893620938258394,
+        80.19999694824219
+      ],
+      "halfSize": [
+        11.63925000000745,
+        7.9347699992358685,
+        37.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1027604538,
+        12,
+        [
+          [
+            2918809476,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 217, 2/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2918809485,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 219, 2/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2918809500,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 220, 2/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2918809519,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 110, 1/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2918809528,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 111, 1/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2918809537,
+            4,
+            "CENTRAL MARKET",
+            "SHOP G15B, G/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2918809546,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 248, 2/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2918809555,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 218, 2/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2918809634,
+            4,
+            "CHEF'S MARKET",
+            "SHOP G08, G/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, HONG KONG",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2918809643,
+            4,
+            "CHEF'S MARKET",
+            "SHOP G05-06, G/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2918809713,
+            4,
+            "CENTRAL MARKET",
+            "SHOP 247, 2/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-03-01"
+          ],
+          [
+            3618801849,
+            5,
+            "CHEF'S MARKET",
+            "SHOP G04, G/F, CENTRAL MARKET, 80 DES VOEUX ROAD CENTRAL AND 93 QUEEN'S ROAD CENTRAL, HONG KONG",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605178
+        ]
+      ],
+      "coordinate": [
+        1.9923879256988897,
+        0.3889296377644701,
+        13.550000190734863
+      ],
+      "halfSize": [
+        50.904531141684856,
+        45.53107498580357,
+        10.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1027604539,
+        1,
+        [
+          [
+            2918811613,
+            4,
+            "Lin Heung Roast",
+            "PORTION B OF G/F, TSANG CHIU HO BUILDING, NOS. 160-164 WELLINGTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605189
+        ]
+      ],
+      "coordinate": [
+        1.9923522817347492,
+        0.3889332837635463,
+        27.399999618530273
+      ],
+      "halfSize": [
+        14.152479999698699,
+        14.818334999494255,
+        13.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1027604540,
+        2,
+        [
+          [
+            2918812023,
+            4,
+            "\u7761\u98fd\u5403\u5403",
+            "G/F (MAJOR PORTION) AND COCKLOFT, 44 GOUGH STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-16"
+          ],
+          [
+            3218800790,
+            6,
+            "\u7761\u98fd\u5403\u5403",
+            "G/F (MINOR PORTION) AND COCKLOFT, 44 GOUGH STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605211
+        ]
+      ],
+      "coordinate": [
+        1.9923292930536913,
+        0.388933494202362,
+        31.5
+      ],
+      "halfSize": [
+        3.984625000040978,
+        6.06097500026226,
+        9.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604541,
+        2,
+        [
+          [
+            2918801463,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP C, G/F., HALESON BUILDING, 1 JUBILEE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-04"
+          ],
+          [
+            3218800204,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "G/F., PORTION A OF SHOP C, HALESON BUILDING, 1 JUBILEE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605225
+        ]
+      ],
+      "coordinate": [
+        1.9923775460471815,
+        0.388931698406865,
+        39.5
+      ],
+      "halfSize": [
+        16.74765499960631,
+        15.607920000329614,
+        33.80000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1027604542,
+        1,
+        [
+          [
+            2918812209,
+            4,
+            "PETIZEN",
+            "PORTION A OF G/F, 6-7 TANK LANE, SHEUNG WAN, HONG KONG",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605240
+        ]
+      ],
+      "coordinate": [
+        1.9922784363262303,
+        0.3889319724714276,
+        46.5
+      ],
+      "halfSize": [
+        7.074029999785125,
+        6.937505000270903,
+        14.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604543,
+        1,
+        [
+          [
+            2918811172,
+            4,
+            "CHAN KAN KEE SINCE 1948",
+            "G/F, NO. 32 GOUGH STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605242
+        ]
+      ],
+      "coordinate": [
+        1.9923344154394949,
+        0.38893196563094967,
+        32.20000076293945
+      ],
+      "halfSize": [
+        7.166830000001937,
+        7.805389999412,
+        10.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604544,
+        1,
+        [
+          [
+            2918802129,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "PORTION OF SHOP NO. 1, GROUND FLOOR, V HEUN BUILDING, 138 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-04-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605288
+        ]
+      ],
+      "coordinate": [
+        1.9923667718830826,
+        0.38892857316071583,
+        47.400001525878906
+      ],
+      "halfSize": [
+        20.363900000229478,
+        13.66380999982357,
+        39.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604545,
+        1,
+        [
+          [
+            2918810674,
+            4,
+            "EATIZEN",
+            "G/F., NO. 6 SQUARE STREET, SHEUNG WAN, HONG KONG",
+            null,
+            "2026-05-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605292
+        ]
+      ],
+      "coordinate": [
+        1.992288892025459,
+        0.3889297209801389,
+        37.5
+      ],
+      "halfSize": [
+        7.563620000146329,
+        7.2083900002762675,
+        11.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604546,
+        1,
+        [
+          [
+            2918811589,
+            4,
+            "POKE HEART",
+            "SHOP G, G/F., NEW CENTRAL MANSION, NOS. 39-41, 45-49 GAGE STREET, NOS. 8, 8A, 10 & 10A ABERDEEN STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605309
+        ]
+      ],
+      "coordinate": [
+        1.9923473729539911,
+        0.3889273023700646,
+        47.20000076293945
+      ],
+      "halfSize": [
+        14.566760000307113,
+        15.660225000232458,
+        24.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604547,
+        1,
+        [
+          [
+            2918810948,
+            4,
+            "\u5cb1\u6c11\u4e2d\u74b0\u5e97",
+            "G/F (FRONT PORTION), 7 GRAHAM STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605346
+        ]
+      ],
+      "coordinate": [
+        1.9923670098447972,
+        0.3889261594313273,
+        22.450000762939453
+      ],
+      "halfSize": [
+        12.088939999695867,
+        10.547120000235736,
+        12.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1027604548,
+        2,
+        [
+          [
+            2918812175,
+            4,
+            "Tokachi Milky",
+            "G/F (MAJOR PORTION) & COCKLOFT, NO. 17 ABERDEEN STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-14"
+          ],
+          [
+            3218800824,
+            6,
+            "Tokachi Milky",
+            "G/F(MINOR PORTION), NO. 17 ABERDEEN STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605351
+        ]
+      ],
+      "coordinate": [
+        1.9923405843746793,
+        0.38892661105360055,
+        36.75
+      ],
+      "halfSize": [
+        8.251900000032037,
+        5.613810000009835,
+        10.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604549,
+        1,
+        [
+          [
+            2918801922,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F., THE CHINESE BANK BUILDING, 2A POTTINGER STREET, 61-65 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605381
+        ]
+      ],
+      "coordinate": [
+        1.9924116121394668,
+        0.38892351202342546,
+        39.29999923706055
+      ],
+      "halfSize": [
+        18.016485000029206,
+        16.610609999857843,
+        35.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1027604550,
+        2,
+        [
+          [
+            2918807319,
+            4,
+            "\u83ef\u8c50\u71d2\u81d8",
+            "MAJOR PORTION OF G/F., 14 STAVELEY STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-12-16"
+          ],
+          [
+            3518800207,
+            8,
+            "\u83ef\u8c50\u71d2\u81d8",
+            "MINOR PORTION OF G/F., 14 STAVELEY STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605389
+        ]
+      ],
+      "coordinate": [
+        1.9923528700264617,
+        0.38892504839452263,
+        25.599998474121094
+      ],
+      "halfSize": [
+        4.369970000348985,
+        4.32039500027895,
+        6.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1027604551,
+        1,
+        [
+          [
+            2918807966,
+            4,
+            "Hana-Musubi",
+            "SHOP 109B, 1/F., MAN YEE ARCADE, MAN YEE BUILDING, 68 DES VOEUX ROAD CENTRAL, HONG KONG",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605392
+        ]
+      ],
+      "coordinate": [
+        1.9923985022016608,
+        0.38892180876673577,
+        73.85000610351562
+      ],
+      "halfSize": [
+        30.184589999727905,
+        24.92117999959737,
+        70.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604552,
+        1,
+        [
+          [
+            2918808419,
+            4,
+            "EVER SHINE",
+            "G/F, 13 PEEL STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605396
+        ]
+      ],
+      "coordinate": [
+        1.992356693601145,
+        0.3889245546920049,
+        24.099998474121094
+      ],
+      "halfSize": [
+        4.851509999949485,
+        5.276449999772012,
+        8.499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1027604553,
+        3,
+        [
+          [
+            2918804444,
+            4,
+            "Jessy Coffee Co",
+            "UNIT H105, 1/F., BLOCK B, PMQ, NO. 35 ABERDEEN STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2918807346,
+            4,
+            "T/EA",
+            "UNIT H107, 1/F., BLOCK B, PMQ, NO. 35 ABERDEEN STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-12-30"
+          ],
+          [
+            2918808206,
+            4,
+            "MOMENT BY MOMENT",
+            "SHOP H102, 1/F., BLOCK B, PMQ, 35 ABERDEEN STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605402
+        ]
+      ],
+      "coordinate": [
+        1.9923264937561966,
+        0.3889204154639473,
+        53.0
+      ],
+      "halfSize": [
+        29.576859999913722,
+        28.21110999956727,
+        14.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604554,
+        1,
+        [
+          [
+            2918802828,
+            4,
+            "KenKo Ramen",
+            "SHOP B, C, D, (PORTION 3), LG/F., NO.97 WELLINGTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605413
+        ]
+      ],
+      "coordinate": [
+        1.9923680150208989,
+        0.3889222391932512,
+        34.20000076293945
+      ],
+      "halfSize": [
+        12.80343999993056,
+        14.7420399999246,
+        22.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604555,
+        1,
+        [
+          [
+            2918809139,
+            4,
+            "ZAN CHEE",
+            "G/F, 36 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605453
+        ]
+      ],
+      "coordinate": [
+        1.9923471357921096,
+        0.3889211148331602,
+        36.599998474121094
+      ],
+      "halfSize": [
+        5.61765499971807,
+        6.7408750001341105,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604556,
+        1,
+        [
+          [
+            2918812157,
+            4,
+            "\u8d8a\u8336\u9999",
+            "G/F & C/L, 9 & 11 COCHRANE STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605463
+        ]
+      ],
+      "coordinate": [
+        1.9923747646155925,
+        0.3889203396852567,
+        24.900001525878906
+      ],
+      "halfSize": [
+        5.986934999935329,
+        6.146745000034571,
+        12.500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1027604557,
+        1,
+        [
+          [
+            3618800527,
+            5,
+            "SHING HING FROZEN MEAT & PROVISION CO. LTD.",
+            "G/F., 28 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605472
+        ]
+      ],
+      "coordinate": [
+        1.9923487336449366,
+        0.3889191196421657,
+        33.0
+      ],
+      "halfSize": [
+        9.279360000044107,
+        10.118865000084043,
+        10.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1027604558,
+        1,
+        [
+          [
+            2918809670,
+            4,
+            "--",
+            "PORTION B & PORTION C, G/F, THE CHINESE GENERAL CHAMBER OF COMMERCE BUILDING, 24-25 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-02-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605478
+        ]
+      ],
+      "coordinate": [
+        1.9924204250019242,
+        0.38891840043704695,
+        24.299999237060547
+      ],
+      "halfSize": [
+        13.32370000006631,
+        13.956710000522435,
+        20.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604559,
+        2,
+        [
+          [
+            2918811455,
+            4,
+            "O'TASTE",
+            "PORTION A OF G/F, LAP FAI BUILDING, NO. 24 LI YUEN STREET WEST, CENTRAL, HONG KONG",
+            null,
+            "2026-10-06"
+          ],
+          [
+            3618802189,
+            5,
+            "O'TASTE",
+            "PORTIONS OF G/F, LAP FAI BUILDING, NO. 24 LI YUEN STREET WEST, CENTRAL, HONG KONG",
+            null,
+            "2026-10-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605499
+        ]
+      ],
+      "coordinate": [
+        1.9924028247957304,
+        0.3889170739541274,
+        30.69999885559082
+      ],
+      "halfSize": [
+        13.803410000167787,
+        13.255634999834001,
+        26.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1027604560,
+        1,
+        [
+          [
+            2918811312,
+            4,
+            "GUZZLE",
+            "SHOP A2, G/F., KHUAN YING COMMERCIAL BUILDING, NOS. 85-89 WELLINGTON STREET, HONG KONG",
+            null,
+            "2026-07-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605506
+        ]
+      ],
+      "coordinate": [
+        1.9923705370020268,
+        0.3889173824005302,
+        36.54999923706055
+      ],
+      "halfSize": [
+        8.085209999699146,
+        9.59288499969989,
+        21.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604561,
+        1,
+        [
+          [
+            2918812193,
+            4,
+            "33 Cubread",
+            "G/F, THYRSE HOUSE, 16 POTTINGER STREET, HONG KONG",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605516
+        ]
+      ],
+      "coordinate": [
+        1.9923989571886955,
+        0.38891687628795857,
+        45.80000305175781
+      ],
+      "halfSize": [
+        6.037074999883771,
+        5.7417750004678965,
+        41.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604562,
+        2,
+        [
+          [
+            3613028313,
+            5,
+            "WELLCOME",
+            "BASEMENT(PORTION B), REGENT CENTRE, 84-90 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3518800146,
+            8,
+            "Wellcome",
+            "BASEMENT (PORTION D), REGENT CENTRE, 84-90 QUEEN'S ROAD CENTRAL, HONG KONG",
+            null,
+            "2027-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605520
+        ]
+      ],
+      "coordinate": [
+        1.9923825935788415,
+        0.38891419538170297,
+        50.54999923706055
+      ],
+      "halfSize": [
+        17.644214999862015,
+        21.156380000524223,
+        41.14999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1027604563,
+        1,
+        [
+          [
+            2918800512,
+            4,
+            "Maria's",
+            "SHOP A, G/F, HEUNG LAM BLDG., 23 CONNAUGHT ROAD CENTRAL & 3 DOUGLAS STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-03-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605521
+        ]
+      ],
+      "coordinate": [
+        1.99242225968097,
+        0.3889159317260935,
+        18.399999618530273
+      ],
+      "halfSize": [
+        12.008484999649227,
+        9.832949999719858,
+        14.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1027604564,
+        1,
+        [
+          [
+            2918811880,
+            4,
+            "Sheer Coffee",
+            "PORTION A OF SHOP 4, G/F, FOOK CHI HOUSE, 18A-18B PEEL STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605531
+        ]
+      ],
+      "coordinate": [
+        1.9923513411017186,
+        0.38891534370666675,
+        32.75
+      ],
+      "halfSize": [
+        8.228655000217259,
+        9.63241499941796,
+        10.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604565,
+        2,
+        [
+          [
+            2918805298,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF SHOP NO. 1, G/F, WINNING HOUSE, NOS. 10-16 COCHRANE STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-03-21"
+          ],
+          [
+            2918806024,
+            4,
+            "MAME-TO-CHA",
+            "SHOP 12, G/F., WINNING HOUSE, 10-16 COCHRANE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605541
+        ]
+      ],
+      "coordinate": [
+        1.9923744329653232,
+        0.38891434569327776,
+        38.099998474121094
+      ],
+      "halfSize": [
+        10.389625000301749,
+        12.11894499976188,
+        23.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604566,
+        4,
+        [
+          [
+            2918801898,
+            4,
+            "Starbucks Coffee",
+            "KIOSK A, GROUND FLOOR, JARDINE HOUSE, 1 CONNAUGHT PLACE, CENTRAL, HONG KONG",
+            null,
+            "2026-09-06"
+          ],
+          [
+            2918804727,
+            4,
+            "Market Place",
+            "SUITES 101-109 & 120 (PORTION C), 1/F., JARDINE HOUSE, 1 CONNAUGHT PLACE, CENTRAL, HONG KONG",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2918804745,
+            4,
+            "Market Place",
+            "SUITES 101-109 & 120 (PORTION A & B), 1/F., JARDINE HOUSE, 1 CONNAUGHT PLACE, CENTRAL, HONG KONG",
+            null,
+            "2026-06-02"
+          ],
+          [
+            3618800989,
+            5,
+            "Market Place",
+            "SUITES 101-109 & 120 (PORTIONS), 1/F., JARDINE HOUSE, 1 CONNAUGHT PLACE, CENTRAL, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605543
+        ]
+      ],
+      "coordinate": [
+        1.9924531319218861,
+        0.3889117882231334,
+        92.8499984741211
+      ],
+      "halfSize": [
+        31.37669500010088,
+        28.248060000129044,
+        89.1500015258789
+      ]
+    },
+    {
+      "attributes": [
+        1027604567,
+        1,
+        [
+          [
+            2918809324,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F, TUNG MING BUILDING, 40-42 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605551
+        ]
+      ],
+      "coordinate": [
+        1.9924092678779295,
+        0.38891465933999025,
+        26.150001525878906
+      ],
+      "halfSize": [
+        9.535354999825358,
+        8.72817000001669,
+        22.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604568,
+        2,
+        [
+          [
+            2918810717,
+            4,
+            "UOYA ZEN",
+            "PORTION A OF G/F., 108-110 WELLINGTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-06-19"
+          ],
+          [
+            3618802064,
+            5,
+            "UOYA ZEN",
+            "PORTION B OF G/F., 108-110 WELLINGTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-06-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605556
+        ]
+      ],
+      "coordinate": [
+        1.9923680488311826,
+        0.38891449497174985,
+        35.54999923706055
+      ],
+      "halfSize": [
+        7.94150000018999,
+        8.369999999180436,
+        20.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604569,
+        1,
+        [
+          [
+            2918811303,
+            4,
+            "THE ONE LEMON TEA",
+            "GROUND FLOOR, NO. 28 POTTINGER STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605573
+        ]
+      ],
+      "coordinate": [
+        1.99239451581976,
+        0.3889140856225116,
+        18.450000762939453
+      ],
+      "halfSize": [
+        7.722209999803454,
+        8.06146499980241,
+        11.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604570,
+        1,
+        [
+          [
+            2913042649,
+            4,
+            "GLORIOUS FAST FOOD SHOP",
+            "G/F, 147C CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605579
+        ]
+      ],
+      "coordinate": [
+        1.9922796773927878,
+        0.3889137161230107,
+        82.19999694824219
+      ],
+      "halfSize": [
+        7.679125000257045,
+        6.4998599998652935,
+        18.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1027604571,
+        1,
+        [
+          [
+            2918804471,
+            4,
+            "Common Ground",
+            "G/F., 19 SHING WONG STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-12-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605584
+        ]
+      ],
+      "coordinate": [
+        1.992308032559823,
+        0.3889138932659904,
+        61.650001525878906
+      ],
+      "halfSize": [
+        4.435560000129044,
+        5.249654999934137,
+        7.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604572,
+        1,
+        [
+          [
+            2918804295,
+            4,
+            "NOOD FOOD",
+            "MINOR PORTION OF 2/F., ASIA STANDARD TOWER, 59-65 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605587
+        ]
+      ],
+      "coordinate": [
+        1.9923949263640386,
+        0.38891250453165743,
+        41.70000076293945
+      ],
+      "halfSize": [
+        23.6652250001207,
+        14.217679999768734,
+        36.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1027604573,
+        2,
+        [
+          [
+            2918804675,
+            4,
+            "POLOLI",
+            "G/F., 39 GRAHAM STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2918811473,
+            4,
+            "CREWKIES",
+            "SHOP 2, G/F., KAR HO BUILDING, NOS. 35-39 GRAHAM STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605625
+        ]
+      ],
+      "coordinate": [
+        1.9923505385898055,
+        0.38891023378538814,
+        56.64999771118164
+      ],
+      "halfSize": [
+        9.449765000026673,
+        11.56900000013411,
+        31.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604574,
+        1,
+        [
+          [
+            3613131729,
+            5,
+            "Sun Kee",
+            "G/F, 14 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605631
+        ]
+      ],
+      "coordinate": [
+        1.9923549734459476,
+        0.3889105330863613,
+        33.599998474121094
+      ],
+      "halfSize": [
+        7.017529999837279,
+        6.714939999394119,
+        11.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604575,
+        1,
+        [
+          [
+            2918812148,
+            4,
+            "Chocolux Cafe",
+            "PORTION A OF GROUND FLOOR, THE SIBERIAN, 29 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605635
+        ]
+      ],
+      "coordinate": [
+        1.9924213202867647,
+        0.3889102973300025,
+        25.200000762939453
+      ],
+      "halfSize": [
+        9.393639999907464,
+        7.956039999611676,
+        21.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604576,
+        3,
+        [
+          [
+            2918800594,
+            4,
+            "\u6cf0\u660c\u9905\u5bb6",
+            "SHOP C, G/F., LYNDHURST BUILDING, 35 LYNDHURST TERRACE, CENTRAL, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2918808701,
+            4,
+            "Mother Pearl",
+            "SHOP G ON G/F., LYNDHURST BUILDING, NOS. 23, 25, 27, 31, 33, 35, 37 & 39 LYNDHURST TERRACE, CENTRAL, HONG KONG",
+            null,
+            "2026-02-25"
+          ],
+          [
+            3613107025,
+            5,
+            "PARK' N SHOP",
+            "SHOP 2A, G/F.(PTN.), LYNDHURST BUILDING, 2A GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-09-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605694
+        ]
+      ],
+      "coordinate": [
+        1.9923572571259454,
+        0.3889061337659755,
+        48.44999694824219
+      ],
+      "halfSize": [
+        21.398599999956787,
+        14.471520000137389,
+        25.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1027604577,
+        1,
+        [
+          [
+            2918809236,
+            4,
+            "TOASTED-DELI",
+            "G/F., 4 LI YUEN STREET EAST, CENTRAL, HONG KONG",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605695
+        ]
+      ],
+      "coordinate": [
+        1.992401653322607,
+        0.38890797984514014,
+        14.549999237060547
+      ],
+      "halfSize": [
+        5.0040250001475215,
+        6.201419999822974,
+        9.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604578,
+        1,
+        [
+          [
+            2918812111,
+            4,
+            "OneThird Coffee Roasters",
+            "G/F., NO. 32 GRAHAM STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-12-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605697
+        ]
+      ],
+      "coordinate": [
+        1.9923529438350789,
+        0.3889075557873695,
+        37.900001525878906
+      ],
+      "halfSize": [
+        6.226049999706447,
+        6.960645000450313,
+        11.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1027604579,
+        2,
+        [
+          [
+            2918812087,
+            4,
+            "DROOL FROYO",
+            "G/F., NO. 14 ELGIN STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-24"
+          ],
+          [
+            3218800806,
+            6,
+            "DROOL FROYO",
+            "PORTION OF G/F., NO. 14 ELGIN STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605737
+        ]
+      ],
+      "coordinate": [
+        1.9923367227346203,
+        0.3889050792884626,
+        52.25
+      ],
+      "halfSize": [
+        7.089265000075102,
+        8.674405000172555,
+        13.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604580,
+        1,
+        [
+          [
+            2918811136,
+            4,
+            "\u6797\u9999\u6ab8",
+            "SHOP 44A, LG/F, MAINSLIT BUILDING, 42-44 STANLEY STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-02-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605742
+        ]
+      ],
+      "coordinate": [
+        1.9923843040351215,
+        0.3889048721041842,
+        29.549999237060547
+      ],
+      "halfSize": [
+        6.923895000014454,
+        7.221165000461042,
+        12.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604581,
+        1,
+        [
+          [
+            2918805687,
+            4,
+            "Good Companion",
+            "G/F., 59A PEEL STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605764
+        ]
+      ],
+      "coordinate": [
+        1.9923353485346358,
+        0.38890326641094514,
+        53.349998474121094
+      ],
+      "halfSize": [
+        6.722839999943972,
+        8.769115000031888,
+        12.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604582,
+        1,
+        [
+          [
+            2918809661,
+            4,
+            "KITCHEN BY HOLE FOODS",
+            "OFFICE NO. 3, 2/F., CONWELL HOUSE, NOS. 34-38 STANLEY STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605766
+        ]
+      ],
+      "coordinate": [
+        1.9923856892932943,
+        0.38890296686732434,
+        33.70000076293945
+      ],
+      "halfSize": [
+        10.154095000121742,
+        9.990860000252724,
+        17.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604583,
+        1,
+        [
+          [
+            2918812014,
+            4,
+            "Banh mi nem",
+            "G/F., NO. 3 CHIU LUNG STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605768
+        ]
+      ],
+      "coordinate": [
+        1.9924032728473393,
+        0.3889021267891014,
+        26.25
+      ],
+      "halfSize": [
+        18.189989999867976,
+        15.023080000653863,
+        21.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604584,
+        1,
+        [
+          [
+            2918808446,
+            4,
+            "\u4e38\u4f5c\u98df\u8336",
+            "SHOP 2, G/F., SUN FUNG MANSION, 52-60 LYNDHURST TERRACE, CENTRAL, HONG KONG",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605781
+        ]
+      ],
+      "coordinate": [
+        1.9923524874267704,
+        0.38890208994785475,
+        49.70000076293945
+      ],
+      "halfSize": [
+        11.611500000115484,
+        5.957410000264645,
+        15.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604585,
+        2,
+        [
+          [
+            2913162914,
+            4,
+            "Ebeneezer's Kebabs Express",
+            "SHOP 5B, G/F, CHEUNG FAI BUILDING, 45-47 COCHRANE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2918811048,
+            4,
+            "One Dim Sum",
+            "SHOP NOS. 1 & 2, G/F, CHEUNG FAI BUILDING, NOS. 44 & 44A LYNDHURST TERRACE, CENTRAL, HONG KONG",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605788
+        ]
+      ],
+      "coordinate": [
+        1.9923594000678924,
+        0.388900997775098,
+        51.349998474121094
+      ],
+      "halfSize": [
+        5.806729999836534,
+        10.417850000783801,
+        23.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604586,
+        1,
+        [
+          [
+            2918808969,
+            4,
+            "Chickpea",
+            "SHOP 3, GROUND FLOOR, UNION COMMERCIAL BUILDING, NOS. 12,14,16 LYNDHURST TERRACE, CENTRAL, HONG KONG",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605802
+        ]
+      ],
+      "coordinate": [
+        1.992373271206317,
+        0.38890086800306856,
+        48.5
+      ],
+      "halfSize": [
+        8.459090000018477,
+        6.369900000281632,
+        23.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1027604587,
+        1,
+        [
+          [
+            2918809810,
+            4,
+            "Maison Libanaise",
+            "BASEMENT FLOOR, 37 STAUNTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605806
+        ]
+      ],
+      "coordinate": [
+        1.992337340762443,
+        0.388900482248976,
+        49.349998474121094
+      ],
+      "halfSize": [
+        5.094084999989718,
+        5.99875000026077,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604588,
+        1,
+        [
+          [
+            2918810364,
+            4,
+            "WET TACO",
+            "BASEMENT, 45 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-12-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605810
+        ]
+      ],
+      "coordinate": [
+        1.9923523336683953,
+        0.3889003324710466,
+        45.650001525878906
+      ],
+      "halfSize": [
+        5.311184999998659,
+        4.642900000326335,
+        12.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1027604589,
+        1,
+        [
+          [
+            2918802068,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F., NO. 76 WELLINGTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605812
+        ]
+      ],
+      "coordinate": [
+        1.9923799095476713,
+        0.3888995275373709,
+        34.55000305175781
+      ],
+      "halfSize": [
+        6.655409999657422,
+        7.328794999979436,
+        10.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604590,
+        1,
+        [
+          [
+            2918809838,
+            4,
+            "Frenchies Bakery & Coffee",
+            "SHOP A ON GROUND FLOOR, ON LOK MANSION, NOS. 39-43 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-04-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605814
+        ]
+      ],
+      "coordinate": [
+        1.992354434514809,
+        0.38889957036440714,
+        43.849998474121094
+      ],
+      "halfSize": [
+        7.614365000277758,
+        8.152394999749959,
+        11.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604591,
+        1,
+        [
+          [
+            3218800709,
+            6,
+            "MESSINA",
+            "SHOP NOS. 6B-7, UG/F, CAR PO COMMERCIAL BUILDING, 37-43 POTTINGER STREET, 18-20 LYNDHURST TERRACE, CENTRAL, HONG KONG",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605815
+        ]
+      ],
+      "coordinate": [
+        1.9923729061126567,
+        0.3888983401457935,
+        70.1500015258789
+      ],
+      "halfSize": [
+        19.436044999863952,
+        13.953754999674857,
+        44.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1027604592,
+        1,
+        [
+          [
+            2918806501,
+            4,
+            "CAKE SHOP",
+            "SHOP A, G/F., 34B STAUNTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605823
+        ]
+      ],
+      "coordinate": [
+        1.9923348948431925,
+        0.38889901764566326,
+        57.650001525878906
+      ],
+      "halfSize": [
+        7.712909999769181,
+        6.892500000074506,
+        11.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604593,
+        1,
+        [
+          [
+            2918803973,
+            4,
+            "27 KEBAB HOUSE LIMITED",
+            "SHOP D & E, BASEMENT, NO. 27 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-12-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605851
+        ]
+      ],
+      "coordinate": [
+        1.9923597767699366,
+        0.3888973153112218,
+        47.75
+      ],
+      "halfSize": [
+        6.017770000267774,
+        8.697875000536442,
+        15.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604594,
+        2,
+        [
+          [
+            2913101146,
+            4,
+            "MANDARIN ORIENTAL",
+            "2/F(PORTION), MANADARIN ORIENTAL HOTEL, 5 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3218800107,
+            6,
+            "No Record",
+            "2/F , (C-MINOR PORTION), 5 CONNAUGHT ROAD CENTRAL, MANDARIN ORIENTAL, HONG KONG",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605860
+        ]
+      ],
+      "coordinate": [
+        1.9924572492699775,
+        0.3888931475779744,
+        43.54999923706055
+      ],
+      "halfSize": [
+        32.701994999777526,
+        30.828515000641346,
+        39.85000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1027604595,
+        2,
+        [
+          [
+            2918808695,
+            4,
+            "BLACK SUGAR COFFEE",
+            "SHOP 109, 1/F, MANNING HOUSE, 38-48 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2918808710,
+            4,
+            "KARUI",
+            "SHOP 108, 1/F., MANNING HOUSE, 38-48 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605878
+        ]
+      ],
+      "coordinate": [
+        1.992399971406906,
+        0.38889364813027505,
+        28.25
+      ],
+      "halfSize": [
+        20.42181500000879,
+        20.01391000021249,
+        21.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604596,
+        1,
+        [
+          [
+            2918811950,
+            4,
+            "Fineprint",
+            "SHOP G6, G/F, PEDDER BUILDING, 12 PEDDER STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-09-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605891
+        ]
+      ],
+      "coordinate": [
+        1.9924151209684573,
+        0.3888922536805316,
+        24.649999618530273
+      ],
+      "halfSize": [
+        20.582500000018626,
+        24.44799999985844,
+        19.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1027604597,
+        1,
+        [
+          [
+            3618801672,
+            5,
+            "FEATHER AND BONE",
+            "PORTION A OF G/F., 20 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605923
+        ]
+      ],
+      "coordinate": [
+        1.9923585919294962,
+        0.3888932195282417,
+        43.099998474121094
+      ],
+      "halfSize": [
+        6.345375000033528,
+        9.01456500031054,
+        7.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1027604598,
+        1,
+        [
+          [
+            2913154423,
+            4,
+            "7-Eleven",
+            "PORTION B OF G/F, 89 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605926
+        ]
+      ],
+      "coordinate": [
+        1.992320436290887,
+        0.38889303270193815,
+        81.44999694824219
+      ],
+      "halfSize": [
+        8.878804999869317,
+        8.926675000227988,
+        13.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1027604599,
+        1,
+        [
+          [
+            2918811729,
+            4,
+            "Vission Nine",
+            "LOWER GROUND FLOOR, 9-11 STAUNTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605943
+        ]
+      ],
+      "coordinate": [
+        1.992346397838524,
+        0.3888924184329094,
+        53.45000076293945
+      ],
+      "halfSize": [
+        6.924650000408292,
+        6.975095000118017,
+        10.85000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1027604600,
+        2,
+        [
+          [
+            2918807203,
+            4,
+            "sensory ZERO",
+            "SHOP 50-B111 ON B1 FLOOR, OLD BAILEY WING AT THE CENTRAL POLICE STATION, NO. 10 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-18"
+          ],
+          [
+            2918809971,
+            4,
+            "STECCO NATURA",
+            "PORTION A OF SHOP G02, G/F., SUPERINTENDENT'S HOUSE & C HALL, CENTRAL POLICE STATION, NO. 10 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605944
+        ]
+      ],
+      "coordinate": [
+        1.9923653880822902,
+        0.3888906765243624,
+        46.5
+      ],
+      "halfSize": [
+        31.631509999744594,
+        19.014194999821484,
+        10.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604601,
+        1,
+        [
+          [
+            3613140781,
+            5,
+            "JCC RETAIL SHOP",
+            "LEVEL 5, JEWISH COMMUNITY CENTRE, ONE ROBINSON PLACE, 70 ROBINSON ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605953
+        ]
+      ],
+      "coordinate": [
+        1.9922728484968883,
+        0.38889148005953317,
+        121.69999694824219
+      ],
+      "halfSize": [
+        17.61151499999687,
+        8.793704999610782,
+        5.399997711181641
+      ]
+    },
+    {
+      "attributes": [
+        1027604602,
+        1,
+        [
+          [
+            2918810850,
+            4,
+            "VISSION BAKERY",
+            "LOWER GROUND FLOOR, 7 STAUNTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605957
+        ]
+      ],
+      "coordinate": [
+        1.9923472916405933,
+        0.38889171661958344,
+        53.650001525878906
+      ],
+      "halfSize": [
+        5.943489999976009,
+        6.011690000072122,
+        11.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604603,
+        1,
+        [
+          [
+            2918811808,
+            4,
+            "BOLOBOLO",
+            "SHOP A, G/F, WO ON BUILDING, NOS. 8-12 WO ON LANE, CENTRAL, HONG KONG",
+            null,
+            "2026-05-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606000
+        ]
+      ],
+      "coordinate": [
+        1.9923844596708846,
+        0.38888753872351933,
+        41.5
+      ],
+      "halfSize": [
+        11.746779999695718,
+        13.031115000136197,
+        23.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1027604604,
+        3,
+        [
+          [
+            2918810744,
+            4,
+            "OMUSUBI",
+            "SHOP B2, UG/F, CENTURY SQUARE, 1-13 D'AGUILAR STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2918811604,
+            4,
+            "CHA TRA MUE",
+            "MAJOR PORTION OF SHOP B3, UG/F., CENTURY SQUARE, 1-13 D'AGUILAR STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3218800763,
+            6,
+            "CHA TRA MUE",
+            "MINOR PORTION OF SHOP B3, UG/F., CENTURY SQUARE, 1-13 D'AGUILAR STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606006
+        ]
+      ],
+      "coordinate": [
+        1.9923974481712061,
+        0.38888665607645867,
+        37.75
+      ],
+      "halfSize": [
+        18.579505000263453,
+        16.740100000053644,
+        28.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1027604605,
+        3,
+        [
+          [
+            2918806723,
+            4,
+            "EMPEROR CINEMAS",
+            "SHOP L401, 4/F., ENTERTAINMENT BUILDING, NO. 30 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2918808738,
+            4,
+            "Coffee Dx by Colour Brown",
+            "SHOP B, LEVEL 2, ENTERTAINMENT BUILDING, 30 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2918811534,
+            4,
+            "% ARABICA",
+            "PORTION A OF CIRCULATION AREA NO. 1A ON THE G/F, ENTERTAINMENT BUILDING, 30 QUEEN'S ROAD CENTRAL, HONG KONG",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606026
+        ]
+      ],
+      "coordinate": [
+        1.9924055620315753,
+        0.3888849748538364,
+        75.5
+      ],
+      "halfSize": [
+        19.05795000027865,
+        21.0835000006482,
+        68.69999694824219
+      ]
+    },
+    {
+      "attributes": [
+        1027604606,
+        4,
+        [
+          [
+            2918808400,
+            4,
+            "TROIS",
+            "SHOP 109A, 1/F., CENTRAL BUILDING, 1-3 PEDDER STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2918810300,
+            4,
+            "Pacific Coffee Company",
+            "PORTION A OF SHOP 203, 2/F, CENTRAL BUILDING, 1-3 PEDDER STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-31"
+          ],
+          [
+            4952810681,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. M3-007, LEVEL G, KAI TAK MALL 3, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-01"
+          ],
+          [
+            4952810690,
+            4,
+            "\u8ecd\u6fb3",
+            "SHOP NO. M3-001(PORTION A), LEVEL G, KAI TAK MALL 3, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606035
+        ]
+      ],
+      "coordinate": [
+        1.9924206925560808,
+        0.38888252133538276,
+        35.44999694824219
+      ],
+      "halfSize": [
+        30.016189999878407,
+        29.66672999970615,
+        29.249998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1027604607,
+        6,
+        [
+          [
+            2918803043,
+            4,
+            "COVA",
+            "PORTION A OF SHOP NO. 134-135, 1/F., PRINCE'S BUILDING, 10 CHATER ROAD, CENTRAL, HONG KONG",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2918808181,
+            4,
+            "MAISON ERIC KAYSER",
+            "SHOP 139, 1/F., PRINCE'S BUILDING, 10 CHATER ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2918812041,
+            4,
+            "Oliver's Delicatessen",
+            "SHOP 322-324 AND 325-328 (PORTION C), 3/F, PRINCE'S BUILDING, 10 CHATER ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2918812050,
+            4,
+            "Oliver's Delicatessen",
+            "SHOP 322-324 AND 325-328 (PORTION B1 & B2), 3/F, PRINCE'S BUILDING, 10 CHATER ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            4918812863,
+            4,
+            "LINE AND DINE",
+            "SHOP 227A, 2/F., PRINCE'S BUILDING, 10 CHATER ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-03-16"
+          ],
+          [
+            3618802301,
+            5,
+            "Oliver's Delicatessen",
+            "SHOP 322-324 AND 325-328 (PORTION A & PORTIONS), 3/F, PRINCE'S BUILDING, 10 CHATER ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606036
+        ]
+      ],
+      "coordinate": [
+        1.9924532680851426,
+        0.3888807375381787,
+        43.89999771118164
+      ],
+      "halfSize": [
+        34.52527499990538,
+        40.932239999994636,
+        40.20000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1027604608,
+        1,
+        [
+          [
+            4918812872,
+            4,
+            "nodi l Moleskine",
+            "PORTION A OF SHOP 03 - G06, G/F., BARRACK BLOCK, TAI KWUN, NO. 10 HOLLYWOOD ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606042
+        ]
+      ],
+      "coordinate": [
+        1.9923627875670684,
+        0.38888305263478673,
+        56.95000076293945
+      ],
+      "halfSize": [
+        35.02441499987617,
+        20.32124499976635,
+        10.85000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1027604609,
+        1,
+        [
+          [
+            3218800596,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF G/F., NO. 40 ELGIN STREET, CENTRAL, HONG KONG",
+            null,
+            "2027-02-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606044
+        ]
+      ],
+      "coordinate": [
+        1.9923406616074586,
+        0.3888850432926617,
+        62.95000076293945
+      ],
+      "halfSize": [
+        7.741965000052005,
+        8.43980999942869,
+        11.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1027604610,
+        3,
+        [
+          [
+            2918811862,
+            4,
+            "CAFEMCM",
+            "PORTION OF 2/F LOBBY, CENTRAL TOWER, 28 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2918812218,
+            4,
+            "MARKS AND SPENCER",
+            "PORTION A OF 1/F, CENTRAL TOWER, 22-28 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            3618802338,
+            5,
+            "MARKS AND SPENCER",
+            "PORTIONS OF 1/F, CENTRAL TOWER, 22-28 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606082
+        ]
+      ],
+      "coordinate": [
+        1.992412117410609,
+        0.38887878280413124,
+        68.44999694824219
+      ],
+      "halfSize": [
+        23.652784999925643,
+        25.425829999148846,
+        62.04999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1027604611,
+        1,
+        [
+          [
+            4918812933,
+            4,
+            "\u57df\u52e4\u98df\u54c1",
+            "SHOP B, LG/F, SILVER FORTUNE PLAZA, 1 WELLINGTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606090
+        ]
+      ],
+      "coordinate": [
+        1.9924007958704333,
+        0.38887906762518337,
+        53.5
+      ],
+      "halfSize": [
+        15.149639999959618,
+        16.581645000725985,
+        41.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604612,
+        1,
+        [
+          [
+            2918811376,
+            4,
+            "T.co",
+            "SHOP D, G/F, DUKE WELLINGTON HOUSE, 20 WELLINGTON STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606104
+        ]
+      ],
+      "coordinate": [
+        1.992396218452946,
+        0.38887842533122363,
+        34.650001525878906
+      ],
+      "halfSize": [
+        12.746830000076443,
+        14.775305000133812,
+        21.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604613,
+        1,
+        [
+          [
+            4918813097,
+            4,
+            "KARY'S",
+            "SHOP A, G/F, YU YUET LAI BUILDING, NOS. 43-55 WYNDHAM STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606119
+        ]
+      ],
+      "coordinate": [
+        1.9923792667762632,
+        0.3888756089898454,
+        51.10000228881836
+      ],
+      "halfSize": [
+        8.602289999835193,
+        27.66033999994397,
+        23.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604614,
+        2,
+        [
+          [
+            2918802712,
+            4,
+            "MERCATO GOURMET",
+            "PORTION OF G/F AND BASEMENT, 53 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-06-13"
+          ],
+          [
+            3618800545,
+            5,
+            "MERCATO GOURMET",
+            "PORTION A OF G/F, 53 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606145
+        ]
+      ],
+      "coordinate": [
+        1.9923402535655486,
+        0.3888756855201292,
+        74.0
+      ],
+      "halfSize": [
+        9.656520000193268,
+        9.816775000654161,
+        12.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604615,
+        1,
+        [
+          [
+            4918812988,
+            4,
+            "Islet Coffee Lab",
+            "PORTION A OF G/F, 9 ON LAN STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606168
+        ]
+      ],
+      "coordinate": [
+        1.9924107271356302,
+        0.3888742837736443,
+        23.599998474121094
+      ],
+      "halfSize": [
+        6.389384999871254,
+        6.110059999860823,
+        11.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604616,
+        1,
+        [
+          [
+            2918803724,
+            4,
+            "NINETYS",
+            "SHOP NO. 1, 1/F., NEW WORLD TOWER, 16-18 QUEEN'S ROAD CENTRAL, HONG KONG",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606174
+        ]
+      ],
+      "coordinate": [
+        1.9924158160945296,
+        0.38886782090724153,
+        60.75
+      ],
+      "halfSize": [
+        43.324345000088215,
+        45.09341500047594,
+        54.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1027604617,
+        1,
+        [
+          [
+            2918806389,
+            4,
+            "Vida",
+            "SHOP 220-1, 2/F., THE GALLERIA, 9 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606191
+        ]
+      ],
+      "coordinate": [
+        1.9924420009417376,
+        0.3888680305851394,
+        94.54999542236328
+      ],
+      "halfSize": [
+        49.0371749997139,
+        32.94734000042081,
+        90.8499984741211
+      ]
+    },
+    {
+      "attributes": [
+        1027604618,
+        1,
+        [
+          [
+            2918809111,
+            4,
+            "POKE HK",
+            "GROUND FLOOR, 7 LAN KWAI FONG, CENTRAL, HONG KONG",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606200
+        ]
+      ],
+      "coordinate": [
+        1.9923929201194903,
+        0.3888716837114403,
+        30.0
+      ],
+      "halfSize": [
+        5.613389999605715,
+        6.341529999859631,
+        9.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604619,
+        1,
+        [
+          [
+            2918807832,
+            4,
+            "\u6e5b\u8a18\u5c0f\u98df",
+            "SHOP D, G/F., NOS. 39-41 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606230
+        ]
+      ],
+      "coordinate": [
+        1.9923526171853736,
+        0.38886877121290236,
+        78.39999389648438
+      ],
+      "halfSize": [
+        9.788050000090152,
+        9.221169999800622,
+        16.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604620,
+        1,
+        [
+          [
+            2918811321,
+            4,
+            "COFFEEPOLITANHK",
+            "PORTION A OF G/F, MINI HOTEL, 38 ICE HOUSE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606246
+        ]
+      ],
+      "coordinate": [
+        1.9924037827772798,
+        0.38886756170118925,
+        45.80000305175781
+      ],
+      "halfSize": [
+        11.232444999739528,
+        10.732455000281334,
+        28.000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1027604621,
+        1,
+        [
+          [
+            2913145601,
+            4,
+            "7-Eleven",
+            "G/F.(PORTION B), 27 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-04-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606274
+        ]
+      ],
+      "coordinate": [
+        1.9923614085677548,
+        0.388864656429165,
+        75.44999694824219
+      ],
+      "halfSize": [
+        10.124319999944419,
+        11.97800499945879,
+        14.249998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1027604622,
+        1,
+        [
+          [
+            2918812120,
+            4,
+            "\u8178\u7c89\u7687\u540e",
+            "SHOP B, G/F, AVON COURT, 21 CAINE ROAD, HONG KONG",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606289
+        ]
+      ],
+      "coordinate": [
+        1.9923635287009427,
+        0.3888633637108757,
+        79.4000015258789
+      ],
+      "halfSize": [
+        9.945869999937713,
+        11.150080000050366,
+        18.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1027604623,
+        1,
+        [
+          [
+            2918802378,
+            4,
+            "PIZZA HUT",
+            "LG/F., NO. 34 ROBINSON ROAD, HONG KONG",
+            null,
+            "2026-11-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606416
+        ]
+      ],
+      "coordinate": [
+        1.9923228572853202,
+        0.3888488743044099,
+        123.3499984741211
+      ],
+      "halfSize": [
+        7.969210000243038,
+        8.472304999828339,
+        14.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1027604624,
+        1,
+        [
+          [
+            2913205952,
+            4,
+            "CARITAS",
+            "ROOM 302, 3/F., BLOCK A, CARITAS HOUSE, 2 CAINE ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606444
+        ]
+      ],
+      "coordinate": [
+        1.9923670607219297,
+        0.38884006289575657,
+        75.9000015258789
+      ],
+      "halfSize": [
+        17.49849999975413,
+        24.298659999854863,
+        15.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604625,
+        1,
+        [
+          [
+            2918804161,
+            4,
+            "The Nest",
+            "PORTION OF ST. JOHN'S CATHEDRAL, 4-8 GARDEN ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606449
+        ]
+      ],
+      "coordinate": [
+        1.9924618319006941,
+        0.38883814380341747,
+        30.950000762939453
+      ],
+      "halfSize": [
+        25.392895000055432,
+        24.455949999392033,
+        7.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1027604626,
+        1,
+        [
+          [
+            2918801056,
+            4,
+            "PACIFIC  COFFEE COMPANY",
+            "SHOP D, GROUND FLOOR, ST. JOHN'S BUILDING, 33 GARDEN ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606534
+        ]
+      ],
+      "coordinate": [
+        1.992453441158982,
+        0.38881911197418934,
+        71.69999694824219
+      ],
+      "halfSize": [
+        21.32150726020336,
+        12.162174999713898,
+        45.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1027604627,
+        1,
+        [
+          [
+            2918805827,
+            4,
+            "Tram View Cafe",
+            "PORTION OF FLAT A, G/F., 2 TRAMWAY PATH, CENTRAL, HONG KONG",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606572
+        ]
+      ],
+      "coordinate": [
+        1.992437630136578,
+        0.38880186546447026,
+        58.29999923706055
+      ],
+      "halfSize": [
+        7.617450000252575,
+        11.912735000252724,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604628,
+        2,
+        [
+          [
+            2113234246,
+            1,
+            "Fusion",
+            "STALL NO.1, 1/F., 51 GARDEN ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            3613114948,
+            5,
+            "Fusion",
+            "STALL NO. 2, 3 & PORTIONS OF 1/F, 51 GARDEN ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606587
+        ]
+      ],
+      "coordinate": [
+        1.992401307348806,
+        0.388796013814885,
+        122.25
+      ],
+      "halfSize": [
+        11.868460000026971,
+        15.239854999817908,
+        44.25
+      ]
+    },
+    {
+      "attributes": [
+        1027604629,
+        1,
+        [
+          [
+            3618800721,
+            5,
+            "Market Place",
+            "UG/F (PORTION A), CLOVELLY COURT, 12 MAY ROAD, THE PEAK, HONG KONG",
+            null,
+            "2027-02-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606895
+        ]
+      ],
+      "coordinate": [
+        1.9923480938380458,
+        0.3887584986068673,
+        160.14999389648438
+      ],
+      "halfSize": [
+        26.57990500004962,
+        28.85149999987334,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1027604630,
+        1,
+        [
+          [
+            2918804356,
+            4,
+            "WTFXXD",
+            "SHOP 6, G/F., 1 LYNDHURST TOWER, 1 LYNDHURST TERRACE, CENTRAL, HONG KONG",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606899
+        ]
+      ],
+      "coordinate": [
+        1.9923749440357768,
+        0.38890460768615887,
+        29.200000762939453
+      ],
+      "halfSize": [
+        16.99515000032261,
+        10.226000000722706,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1027604631,
+        2,
+        [
+          [
+            2913159783,
+            4,
+            "\u65b0\u8208\u7f8e\u98df",
+            "G/F, 9B CHIU LUNG STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2918808899,
+            4,
+            "Homebake",
+            "SHOP B, G/F, MELBOURNE PLAZA, 33 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-05-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606911
+        ]
+      ],
+      "coordinate": [
+        1.9924087532032253,
+        0.38890023101253174,
+        44.85000228881836
+      ],
+      "halfSize": [
+        29.16869999980554,
+        26.987244999967515,
+        39.95000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1027604632,
+        1,
+        [
+          [
+            2918809306,
+            4,
+            "Yao Sushi Takeaway",
+            "SHOP 2A, LG/F., FLORAL TOWER, 1-9 MOSQUE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606919
+        ]
+      ],
+      "coordinate": [
+        1.9923277318980939,
+        0.38885217982086606,
+        103.89999389648438
+      ],
+      "halfSize": [
+        18.947000000160187,
+        15.072999999858439,
+        3.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1027604633,
+        2,
+        [
+          [
+            2918801870,
+            4,
+            "Market Place",
+            "WHOLE OF LG/F (PORTION C), NEXXUS BUILDING, 41 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-08-24"
+          ],
+          [
+            3618800341,
+            5,
+            "Market Place",
+            "WHOLE OF LG/F (PORTION A), NEXXUS BUILDING, 41 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-08-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606928
+        ]
+      ],
+      "coordinate": [
+        1.9924060959072436,
+        0.3889328491878844,
+        40.400001525878906
+      ],
+      "halfSize": [
+        28.420154999941587,
+        26.68104499951005,
+        36.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1027604634,
+        1,
+        [
+          [
+            2918810683,
+            4,
+            "HALFWAY COFFEE",
+            "LG FLOOR, NO. 8 REDNAXELA TERRACE, MID-LEVELS, HONG KONG",
+            null,
+            "2026-06-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606944
+        ]
+      ],
+      "coordinate": [
+        1.9923210692811877,
+        0.38887106628078794,
+        88.69999694824219
+      ],
+      "halfSize": [
+        9.380719999782741,
+        9.291915000416338,
+        5.899997711181641
+      ]
+    },
+    {
+      "attributes": [
+        1027604635,
+        7,
+        [
+          [
+            2918803557,
+            4,
+            "CHICHA",
+            "SHOP NO. 4, G/F., PROSPERITY TOWER, 39 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2918804903,
+            4,
+            "MAAN6",
+            "SHOP NO. 7, G/F., PROSPERITY TOWER, 39 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2918805669,
+            4,
+            "JOA",
+            "SHOP NO. 2, G/F., PROSPERITY TOWER, 39 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-08-22"
+          ],
+          [
+            2918806422,
+            4,
+            "Banh Mi Kitchen",
+            "SHOP NO. 5, G/F., PROSPERITY TOWER, NO. 39 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-10-22"
+          ],
+          [
+            2918806431,
+            4,
+            "onefood restaurant",
+            "SHOP NO. 6, G/F., PROSPERITY TOWER, 39 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2918806644,
+            4,
+            "HOME Dumpling",
+            "SHOP NO. 3, G/F., PROSPERITY TOWER, 39 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2918811561,
+            4,
+            "EXPRESS",
+            "SHOP NO. 8, G/F., PROSPERITY TOWER, 39 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606958
+        ]
+      ],
+      "coordinate": [
+        1.9924039914773162,
+        0.3889057033306119,
+        11.34999942779541
+      ],
+      "halfSize": [
+        32.508630000054836,
+        25.05934499949217,
+        6.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1027604636,
+        1,
+        [
+          [
+            2918801579,
+            4,
+            "PACIFIC COFFEE COMPANY",
+            "PORTION OF LOBBY, GROUND FLOOR, 8 WYNDHAM STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027606998
+        ]
+      ],
+      "coordinate": [
+        1.9924087120407608,
+        0.38887696683203193,
+        20.799999237060547
+      ],
+      "halfSize": [
+        11.077240000013262,
+        13.877679999917746,
+        5.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1027604637,
+        1,
+        [
+          [
+            2913171693,
+            4,
+            "HUEN KEE STORE",
+            "G/F, 4 KENNEDY ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027607001
+        ]
+      ],
+      "coordinate": [
+        1.9924116525842066,
+        0.38879506733499014,
+        76.5
+      ],
+      "halfSize": [
+        21.439074999652803,
+        17.71066499967128,
+        12.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1027604638,
+        6,
+        [
+          [
+            3618801201,
+            5,
+            "\u6b0a\u8a18\u90ed\u592a\u9b5a\u6a94",
+            "SHOP 1, G/F., MARKET BLOCK, 23 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-09"
+          ],
+          [
+            3618801210,
+            5,
+            "\u6587\u6210\u8a18\u8089\u98df\u516c\u53f8",
+            "SHOP 12, UG/F., MARKET BLOCK, 23 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-20"
+          ],
+          [
+            3618801238,
+            5,
+            "Lee Hung Sea Food",
+            "SHOP 11, UG/F., MARKET BLOCK, 23 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-23"
+          ],
+          [
+            3618801247,
+            5,
+            "Shing Hing Frozen Meat & Provision Company Limited",
+            "SHOP 10, UG/F., MARKET BLOCK, 23 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-23"
+          ],
+          [
+            3618801256,
+            5,
+            "\u696d\u8208\u8089\u98df\u516c\u53f8",
+            "SHOP 9, UG/F., MARKET BLOCK, 23 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-23"
+          ],
+          [
+            3618802082,
+            5,
+            "\u6649\u767c\u6d77\u9bae",
+            "SHOP 7, UG/F., MARKET BLOCK, 23 GAGE STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-09-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027607052
+        ]
+      ],
+      "coordinate": [
+        1.9923557716088494,
+        0.3889165071922159,
+        21.950000762939453
+      ],
+      "halfSize": [
+        10.545555000193417,
+        12.961670000106096,
+        3.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1027604639,
+        3,
+        [
+          [
+            2918810902,
+            4,
+            "Japanese Style Seasoned Rice",
+            "SHOP A, G/F., WORLD TRUST TOWER, NO. 50 STANLEY STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-09-11"
+          ],
+          [
+            2918811163,
+            4,
+            "HOLE FOODS HONG KONG LIMITED",
+            "SHOP C, G/F., WORLD TRUST TOWER, NO. 50 STANLEY STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-03-06"
+          ],
+          [
+            2918811516,
+            4,
+            "MORE YOGURT",
+            "SHOP F, G/F., WORLD TRUST TOWER, NO. 50 STANLEY STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027607089
+        ]
+      ],
+      "coordinate": [
+        1.9923813957607797,
+        0.3889079955046825,
+        23.25
+      ],
+      "halfSize": [
+        12.939900000113994,
+        16.21389999985695,
+        7.75
+      ]
+    }
+  ]
+}

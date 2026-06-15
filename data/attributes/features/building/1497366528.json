@@ -1,0 +1,7824 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1497366528,
+        1101782733,
+        "CALA DOR BLOCK A",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 257",
+            "New Grant Lot",
+            "C3767412",
+            [
+              [
+                "06081600860087",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11042001850016",
+                "2010-05-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "11060100760257",
+                "2010-12-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "11042001850031",
+                "2011-03-22",
+                "ASSIGNMENT",
+                "16000000.0"
+              ],
+              [
+                "11042001850045",
+                "2011-03-22",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "11042001850024",
+                "2011-03-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "16000000.0"
+              ],
+              [
+                "19101100990020",
+                "2019-10-08",
+                "SECOND LEGAL CHARGE",
+                "ALL MONIES UP TO A MAXIMUM AMOUNT OF $3,000,000.00"
+              ],
+              [
+                "21081100780016",
+                "2021-07-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947957950616078,
+        0.38882849367964945,
+        31.650001525878906
+      ],
+      "halfSize": [
+        5.6083599999547005,
+        5.688529999926686,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1497366529,
+        1101782735,
+        "CALA DOR BLOCK B",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 258",
+            "New Grant Lot",
+            "C5121933",
+            [
+              [
+                "06081600860121",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14111701320035",
+                "2009-10-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "14111701320044",
+                "2014-11-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "14111701320053",
+                "2014-11-01",
+                "ASSIGNMENT",
+                "8000000.0"
+              ],
+              [
+                "15021101210027",
+                "2015-02-04",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "15021101210030",
+                "2015-02-04",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947947636722583,
+        0.38882776519649836,
+        31.650001525878906
+      ],
+      "halfSize": [
+        5.608844999689609,
+        5.6884049996733665,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1497366530,
+        1101782737,
+        "CALA DOR BLOCK C",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 266",
+            "New Grant Lot",
+            "C3767434",
+            [
+              [
+                "06081600860035",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15100801970021",
+                "2010-05-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "15110900040062",
+                "2015-07-21",
+                "NO-OBJECTION LETTER",
+                null
+              ],
+              [
+                "15092500090021",
+                "2015-08-28",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "22800000.0"
+              ],
+              [
+                "15101400070172",
+                "2015-09-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "22800000.0"
+              ],
+              [
+                "15110900040078",
+                "2015-10-19",
+                "ASSIGNMENT",
+                "22800000.0"
+              ],
+              [
+                "17110302010075",
+                "2017-10-10",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "17110302010062",
+                "2017-10-10",
+                "MORTGAGE",
+                "ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947970613762929,
+        0.3888261684798524,
+        34.04999923706055
+      ],
+      "halfSize": [
+        5.613499999977648,
+        5.70200000051409,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366531,
+        1101782739,
+        "CALA DOR BLOCK D",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 259",
+            "New Grant Lot",
+            "C5985130",
+            [
+              [
+                "06081600860130",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15081800040057",
+                "2010-05-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "11072502090060",
+                "2011-06-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "15071400030133",
+                "2015-06-16",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "17500000.0"
+              ],
+              [
+                "15072101340181",
+                "2015-06-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "17500000.0"
+              ],
+              [
+                "15081800040064",
+                "2015-07-30",
+                "ASSIGNMENT",
+                "17500000.0"
+              ],
+              [
+                "17110302010062",
+                "2017-10-10",
+                "MORTGAGE",
+                "ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "17110302010075",
+                "2017-10-10",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947960322219669,
+        0.3888254438783695,
+        34.04999923706055
+      ],
+      "halfSize": [
+        5.614000000059605,
+        5.70200000051409,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366532,
+        1101782744,
+        "CALA DOR BLOCK E",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 210 S.B",
+            "Old Schedule Lot",
+            "C6348130",
+            [
+              [
+                "SK214507",
+                "1993-11-20",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214506",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214505",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214508",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK308789",
+                "1993-12-03",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "SK230301",
+                "1994-12-30",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "SK328535",
+                "1998-03-04",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                "5300.0"
+              ],
+              [
+                "SK536305",
+                "1998-03-04",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                "5300.0"
+              ],
+              [
+                "SK363246",
+                "1999-01-21",
+                "BUILDING LICENCE NO. 1442 (AS PER PLAN)",
+                null
+              ],
+              [
+                "SK619855",
+                "2004-10-27",
+                "SATISFACTION CERTIFICATE DCMP NO.2003 OF 1997",
+                null
+              ],
+              [
+                "06081600860068",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10080402710015",
+                "2009-11-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "10072002170148",
+                "2010-06-02",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "10070500940087",
+                "2010-06-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "20800000.0"
+              ],
+              [
+                "10081701990115",
+                "2010-07-29",
+                "DEED OF CONFIRMATORY ASSIGNMENT",
+                null
+              ],
+              [
+                "10080502430015",
+                "2010-07-30",
+                "ASSIGNMENT",
+                "20800000.0"
+              ],
+              [
+                "10082702130034",
+                "2010-08-24",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "10082702130021",
+                "2010-08-24",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18072302310038",
+                "2018-06-29",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "18072302310058",
+                "2018-06-29",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "18072302310049",
+                "2018-06-29",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947943569971374,
+        0.38882427713743045,
+        34.04999923706055
+      ],
+      "halfSize": [
+        5.6315000001341105,
+        5.708999999798834,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366533,
+        1101782747,
+        "CALA DOR BLOCK G",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 210 RP",
+            "Old Schedule Lot",
+            "C6348121",
+            [
+              [
+                "SK214507",
+                "1993-11-20",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214505",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214506",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214508",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK230299",
+                "1994-12-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK363254",
+                "1999-01-21",
+                "BUILDING LICENCE NO. 1444 (AS PER PLAN)",
+                null
+              ],
+              [
+                "06081600860093",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15011500700095",
+                "2009-10-16",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "15012600650013",
+                "2015-01-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "15012600650029",
+                "2015-01-12",
+                "ASSIGNMENT",
+                "8000000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947972809882917,
+        0.38882367399889256,
+        34.04999923706055
+      ],
+      "halfSize": [
+        5.631499999668449,
+        5.7085000006482005,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366534,
+        1101782749,
+        "CALA DOR BLOCK F",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 210 S.A",
+            "Old Schedule Lot",
+            "C3767110",
+            [
+              [
+                "SK214507",
+                "1993-11-20",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214505",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214506",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214508",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK230301",
+                "1994-12-30",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "SK363258",
+                "1999-01-27",
+                "BUILDING LICENCE NO. 1433 (AS PER PLAN)",
+                null
+              ],
+              [
+                "06081600860077",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15011900780059",
+                "2009-10-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "10071901330026",
+                "2010-06-28",
+                "PROBATE",
+                null
+              ],
+              [
+                "10081701990115",
+                "2010-07-29",
+                "DEED OF CONFIRMATORY ASSIGNMENT",
+                null
+              ],
+              [
+                "14112101910029",
+                "2014-11-13",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947933412641203,
+        0.388823536391805,
+        34.04999923706055
+      ],
+      "halfSize": [
+        5.6315000001341105,
+        5.708499999716878,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366535,
+        1101782750,
+        "CALA DOR BLOCK H",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 210 S.D",
+            "Old Schedule Lot",
+            "C6424536",
+            [
+              [
+                "SK214507",
+                "1993-11-20",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214505",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214506",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214508",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK230301",
+                "1994-12-30",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "SK363245",
+                "1999-01-21",
+                "BUILDING LICENCE NO. 1445 (AS PER PLAN)",
+                null
+              ],
+              [
+                "06081600860103",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10070902710018",
+                "2009-10-16",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "10072002170161",
+                "2010-05-31",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "10070902710035",
+                "2010-06-23",
+                "ASSIGNMENT",
+                "6500000.0"
+              ],
+              [
+                "10070902710029",
+                "2010-06-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6500000.0"
+              ],
+              [
+                "10081701990115",
+                "2010-07-29",
+                "DEED OF CONFIRMATORY ASSIGNMENT",
+                null
+              ],
+              [
+                "10122202580018",
+                "2010-12-21",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "15071701580016",
+                "2015-06-20",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "27000000.0"
+              ],
+              [
+                "15090200140130",
+                "2015-08-18",
+                "ASSIGNMENT",
+                "27000000.0"
+              ],
+              [
+                "15090900030018",
+                "2015-08-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "17110302010085",
+                "2017-10-10",
+                "MORTGAGE",
+                "ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "17110302010091",
+                "2017-10-10",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "24041001370131",
+                "2024-04-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "22800000.0"
+              ],
+              [
+                "24071501170046",
+                "2024-06-20",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "24071501170052",
+                "2024-06-20",
+                "ASSIGNMENT",
+                "22800000.0"
+              ],
+              [
+                "24071501170061",
+                "2024-06-20",
+                "MORTGAGE",
+                "ALL MONEY"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947962652546474,
+        0.38882293325431455,
+        34.04999923706055
+      ],
+      "halfSize": [
+        5.631499999668449,
+        5.709000000730157,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366536,
+        1101782751,
+        "CALA DOR BLOCK I",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 210 S.C",
+            "Old Schedule Lot",
+            "C3767127",
+            [
+              [
+                "SK214507",
+                "1993-11-20",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214505",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214508",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK214506",
+                "1993-11-30",
+                "-",
+                "160000.0"
+              ],
+              [
+                "SK230301",
+                "1994-12-30",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "SK363247",
+                "1999-01-21",
+                "BUILDING LICENCE NO. 1443 (AS PER PLAN)",
+                null
+              ],
+              [
+                "06081600860050",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10081102530068",
+                "2009-10-16",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "10080600760015",
+                "2010-05-31",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "10071402730115",
+                "2010-06-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "16500000.0"
+              ],
+              [
+                "10081701990115",
+                "2010-07-29",
+                "DEED OF CONFIRMATORY ASSIGNMENT",
+                null
+              ],
+              [
+                "10081802730069",
+                "2010-08-09",
+                "ASSIGNMENT",
+                "16500000.0"
+              ],
+              [
+                "10081802730077",
+                "2010-08-09",
+                "MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "19082200890091",
+                "2019-08-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "20061700280139",
+                "2020-05-28",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947942161777423,
+        0.3888216419818176,
+        34.04999923706055
+      ],
+      "halfSize": [
+        5.535999999847263,
+        5.643500000238419,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366537,
+        1101782753,
+        "CALA DOR BLOCK J",
+        "200 PO TOI O",
+        [
+          [
+            "DD241 265",
+            "New Grant Lot",
+            "C3767429",
+            [
+              [
+                "06081600860112",
+                "2006-07-31",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10041602630012",
+                "2009-11-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "10052500480015",
+                "2010-03-29",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "10042102120161",
+                "2010-04-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "19500000.0"
+              ],
+              [
+                "10061802110081",
+                "2010-05-28",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "10061802110076",
+                "2010-05-28",
+                "ASSIGNMENT",
+                "19500000.0"
+              ],
+              [
+                "21062900250373",
+                "2021-05-26",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947923466932518,
+        0.38882077497037765,
+        36.150001525878906
+      ],
+      "halfSize": [
+        5.601220000069588,
+        5.683685000054538,
+        4.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1497366538,
+        1101782754,
+        null,
+        null,
+        [
+          [
+            "DD241 225",
+            "New Grant Lot",
+            "C5121918",
+            [
+              [
+                "SK86779",
+                "1974-02-20",
+                "-",
+                null
+              ],
+              [
+                "SK92665",
+                "1978-11-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "SK506642",
+                "2002-01-16",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "SK532473",
+                "2002-01-16",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY MEMORIAL NO. 506642)",
+                null
+              ],
+              [
+                "14051902170015",
+                "2003-07-24",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "14031901680036",
+                "2003-08-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "14031401880027",
+                "2007-03-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "08111400130195",
+                "2008-10-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "70000.0"
+              ],
+              [
+                "08112000240436",
+                "2008-10-22",
+                "ASSIGNMENT",
+                "70000.0"
+              ],
+              [
+                "14032001330022",
+                "2014-03-05",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "14033101470016",
+                "2014-03-07",
+                "ASSIGNMENT",
+                "70000.0"
+              ],
+              [
+                "14032801590040",
+                "2014-03-07",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "70000.0"
+              ],
+              [
+                "14060401790081",
+                "2014-05-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "70000.0"
+              ],
+              [
+                "14060501920101",
+                "2014-05-12",
+                "ASSIGNMENT",
+                "70000.0"
+              ],
+              [
+                "25042300820129",
+                "2025-04-14",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948329970516179,
+        0.3888205081144579,
+        9.700000762939453
+      ],
+      "halfSize": [
+        4.39850000012666,
+        4.122500000521541,
+        2.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366539,
+        1101782765,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948270452569499,
+        0.38881620195100236,
+        8.699999809265137
+      ],
+      "halfSize": [
+        3.5056749996729195,
+        3.1854999996721745,
+        1.7999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1497366540,
+        1101782772,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948203372149143,
+        0.3888108183744841,
+        7.099999904632568
+      ],
+      "halfSize": [
+        2.3085000002756715,
+        2.269000000320375,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366541,
+        1101782775,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948166788855326,
+        0.38881029008262613,
+        13.0
+      ],
+      "halfSize": [
+        3.7494999999180436,
+        3.2364999996498227,
+        2.1000003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1497366542,
+        1101782777,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948149294358493,
+        0.38881020642753283,
+        14.0
+      ],
+      "halfSize": [
+        3.4490000000223517,
+        3.089000000618398,
+        2.1000003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1497366543,
+        1101782778,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948209943755264,
+        0.3888101452237169,
+        5.900000095367432
+      ],
+      "halfSize": [
+        3.2554999999701977,
+        3.2000000001862645,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366544,
+        1101782779,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948176409457656,
+        0.388809605804165,
+        10.0
+      ],
+      "halfSize": [
+        3.3264999999664724,
+        2.9275000002235174,
+        1.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1497366545,
+        1101782780,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.994818557196073,
+        0.3888090831427408,
+        7.799999713897705
+      ],
+      "halfSize": [
+        3.5844999998807907,
+        3.283999999985099,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366546,
+        1101782781,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948175449747136,
+        0.38880865220858907,
+        6.400000095367432
+      ],
+      "halfSize": [
+        3.0819699997082353,
+        3.3582699997350574,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366547,
+        1101782782,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.99481672909303,
+        0.3888084190798463,
+        6.400000095367432
+      ],
+      "halfSize": [
+        3.2928800000809133,
+        3.3925450006499887,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366548,
+        1101782783,
+        null,
+        null,
+        [
+          [
+            "DD241 195",
+            "Old Schedule Lot",
+            "C3766996",
+            [
+              [
+                "SK6958",
+                "1913-02-17",
+                "-",
+                null
+              ],
+              [
+                "SK73177",
+                "1961-10-06",
+                "-",
+                null
+              ],
+              [
+                "SK78625",
+                "1965-01-30",
+                "-",
+                null
+              ],
+              [
+                "SK78679",
+                "1965-02-15",
+                "CONVEYANCE ON SALE",
+                "9792.0"
+              ],
+              [
+                "SK90212",
+                "1977-06-07",
+                "-",
+                "50000.0"
+              ],
+              [
+                "SK106682",
+                "1980-08-19",
+                "CERTIFICATION OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "SK115012",
+                "1986-05-26",
+                "-",
+                "50000.0"
+              ],
+              [
+                "SK228305",
+                "1994-11-10",
+                "AGREEMENT FOR SALE AND PURCHASE BY LIEU HEILEN RE 1/2 SHARE",
+                "500000.0"
+              ],
+              [
+                "SK228306",
+                "1994-11-10",
+                "-",
+                "500000.0"
+              ],
+              [
+                "SK228761",
+                "1994-11-21",
+                "AGREEMENT FOR SALE AND PURCHASE BY MERCIA MARIA D'ALMADA REMEDIOS",
+                "3482500.0"
+              ],
+              [
+                "SK228760",
+                "1994-11-21",
+                "AGREEMENT FOR SALE AND PURCHASE BY TROJAN DEVELOPMENTS LIMITED",
+                "3482500.0"
+              ],
+              [
+                "SK229745",
+                "1995-01-03",
+                "-",
+                "3482500.0"
+              ],
+              [
+                "SK229744",
+                "1995-01-03",
+                "-",
+                "3482500.0"
+              ],
+              [
+                "SK449039",
+                "2000-11-08",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK474393",
+                "2001-05-23",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK518413",
+                "2002-05-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "05090300910023",
+                "2005-08-31",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "10022202640156",
+                "2010-02-08",
+                "MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "12033000130039",
+                "2012-03-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "13082200350129",
+                "2013-07-25",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE REMARKS"
+              ],
+              [
+                "14022701870065",
+                "2014-02-12",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "14070402220035",
+                "2014-06-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "14070402220087",
+                "2014-06-13",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "14070902210023",
+                "2014-06-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "14120300360299",
+                "2014-11-13",
+                "SECOND MORTGAGE",
+                "ALL SUMS OF MONEY"
+              ],
+              [
+                "15080501340062",
+                "2015-06-23",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "15081201150076",
+                "2015-08-07",
+                "SECOND MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "15091500800081",
+                "2015-09-02",
+                "FURTHER MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "15111802040166",
+                "2015-10-20",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15111101800107",
+                "2015-10-29",
+                "FOURTH MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "15122300210142",
+                "2015-12-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "15123100940085",
+                "2015-12-04",
+                "SECOND MORTGAGE",
+                "THE AGGREGATE AMOUNT SHALL NOT EXCEED HK$52,000,000"
+              ],
+              [
+                "15122300210063",
+                "2015-12-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "15122300210012",
+                "2015-12-04",
+                "RELEASE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "16011900690013",
+                "2015-12-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "16012501260044",
+                "2015-12-29",
+                "FURTHER MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "16030201240079",
+                "2016-02-04",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "17092601800093",
+                "2017-08-11",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "18020502410018",
+                "2018-01-04",
+                "SEALED COPY AMENDED ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994814120533997,
+        0.3888081996888667,
+        8.100000381469727
+      ],
+      "halfSize": [
+        2.1484999996609986,
+        3.029500000178814,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366549,
+        1101782784,
+        null,
+        "36H PO TOI O",
+        [
+          [
+            "DD241 256",
+            "New Grant Lot",
+            "C3767407",
+            [
+              [
+                "09110402740011",
+                "1998-04-23",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "07021500230085",
+                "2006-12-27",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08100300740136",
+                "2008-03-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09110402740037",
+                "2009-09-18",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "09110402740025",
+                "2009-09-18",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF DRAINAGE WORKS WITH PLAN",
+                null
+              ],
+              [
+                "10042801790040",
+                "2010-03-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "10042103170021",
+                "2010-04-08",
+                "ASSIGNMENT",
+                "11600000.0"
+              ],
+              [
+                "10042103170016",
+                "2010-04-08",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "11600000.0"
+              ],
+              [
+                "17110302010051",
+                "2017-10-10",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "17110302010042",
+                "2017-10-10",
+                "MORTGAGE",
+                "ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947998449957562,
+        0.3888076430455522,
+        9.149999618530273
+      ],
+      "halfSize": [
+        5.711250000167638,
+        6.041854999959469,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1497366550,
+        1101782786,
+        null,
+        null,
+        [
+          [
+            "DD241 194",
+            "Old Schedule Lot",
+            "C3766987",
+            []
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948129239319605,
+        0.3888077006239063,
+        5.099999904632568
+      ],
+      "halfSize": [
+        1.6850000000558794,
+        2.037499999627471,
+        2.0
+      ]
+    },
+    {
+      "attributes": [
+        1497366551,
+        1101782789,
+        null,
+        null,
+        [
+          [
+            "DD241 216",
+            "New Grant Lot",
+            "C6650665",
+            [
+              [
+                "SK73201",
+                "1961-10-09",
+                "-",
+                null
+              ],
+              [
+                "SK181144",
+                "1991-05-21",
+                "-",
+                "110000.0"
+              ],
+              [
+                "SK185792",
+                "1991-10-21",
+                "-",
+                "800000.0"
+              ],
+              [
+                "SK305984",
+                "1998-01-08",
+                "STATUTORY DECLARATION ON LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "SK351337",
+                "1998-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "21022300520020",
+                "2020-07-20",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21022600590028",
+                "2021-01-27",
+                "SEALED COPY OF BANKRUPTCY ORDER ON CREDITOR'S PETITION",
+                null
+              ],
+              [
+                "21052501280040",
+                "2021-04-28",
+                "CERTIFIED TRUE COPY OF MEMORANDUM TO COURT OF RESOLUTIONS",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994815243805703,
+        0.38880711864654316,
+        6.700000286102295
+      ],
+      "halfSize": [
+        2.9099999996833503,
+        3.0099999997764826,
+        1.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366552,
+        1101782791,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948142076031044,
+        0.3888066868879698,
+        6.600000381469727
+      ],
+      "halfSize": [
+        2.1494999998249114,
+        2.736000000499189,
+        2.200000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1497366553,
+        1101782793,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9947984575928754,
+        0.3888040221007011,
+        6.900000095367432
+      ],
+      "halfSize": [
+        3.760044999886304,
+        3.3370050005614758,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366554,
+        1101782794,
+        "FAIRWAY VISTA HOUSE 12",
+        "12 PO TOI O",
+        [
+          [
+            "DD241 230",
+            "New Grant Lot",
+            "C3767229",
+            [
+              [
+                "SK142114",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128781",
+                "1988-07-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "SK142115",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK142116",
+                "1989-01-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK142118",
+                "1989-04-24",
+                "-",
+                "2368493.0"
+              ],
+              [
+                "SK142119",
+                "1989-04-24",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK148408",
+                "1989-10-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2725000.0"
+              ],
+              [
+                "SK150203",
+                "1989-11-21",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK150205",
+                "1989-11-21",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK150204",
+                "1989-11-21",
+                "ASSIGNMENT",
+                "2725000.0"
+              ],
+              [
+                "SK198507",
+                "1992-11-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6200000.0"
+              ],
+              [
+                "SK200199",
+                "1993-01-09",
+                "LEGAL CHARGE",
+                "TO SECURE BANKING FACILITIES TO THE EXTENT OF $4,000,000.00"
+              ],
+              [
+                "SK200198",
+                "1993-01-09",
+                "ASSIGNMENT",
+                "6200000.0"
+              ],
+              [
+                "SK200197",
+                "1993-01-09",
+                "RELEASE",
+                null
+              ],
+              [
+                "09102002480090",
+                "2009-09-25",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "09102002480118",
+                "2009-09-25",
+                "SECOND MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "09102002480100",
+                "2009-09-25",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "11051303160018",
+                "2011-04-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "32000000.0"
+              ],
+              [
+                "11060303190110",
+                "2011-05-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "11061602960044",
+                "2011-05-18",
+                "ASSIGNMENT",
+                "32000000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994867156137669,
+        0.38880362920847267,
+        11.550000190734863
+      ],
+      "halfSize": [
+        3.2040000003762543,
+        5.519500000402331,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1497366555,
+        1101782795,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9947982555184633,
+        0.38880324105220937,
+        6.900000095367432
+      ],
+      "halfSize": [
+        3.708509999793023,
+        3.098509999923408,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366556,
+        1101782798,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.994798108165922,
+        0.38880233960735083,
+        6.900000095367432
+      ],
+      "halfSize": [
+        3.4649999998509884,
+        3.1375000001862645,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366557,
+        1101782801,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9947979466826833,
+        0.388801427037186,
+        6.900000095367432
+      ],
+      "halfSize": [
+        3.0970000000670552,
+        2.856999999843538,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366558,
+        1101782803,
+        "FAIRWAY VISTA HOUSE 11",
+        "11 PO TOI O",
+        [
+          [
+            "DD241 231",
+            "New Grant Lot",
+            "C3767236",
+            [
+              [
+                "SK140433",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128782",
+                "1988-07-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "SK140431",
+                "1988-10-03",
+                "RECTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK140432",
+                "1989-02-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK141855",
+                "1989-04-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK141848",
+                "1989-04-15",
+                "-",
+                "2256143.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK180403",
+                "1991-05-02",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "3050000.0"
+              ],
+              [
+                "SK180812",
+                "1991-05-04",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK180810",
+                "1991-05-04",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK180811",
+                "1991-05-04",
+                "-",
+                "3050000.0"
+              ],
+              [
+                "SK233074",
+                "1995-03-11",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "7500000.0"
+              ],
+              [
+                "SK235968",
+                "1995-06-15",
+                "-",
+                "7500000.0"
+              ],
+              [
+                "SK235967",
+                "1995-06-15",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK235969",
+                "1995-06-15",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK336869",
+                "1998-09-10",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK548824",
+                "2003-03-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6730000.0"
+              ],
+              [
+                "SK551212",
+                "2003-04-03",
+                "MORTGAGE",
+                "TO SECURE GENERAL BANKING FACILITIES TO AN UNLIMITED EXTENT"
+              ],
+              [
+                "SK551211",
+                "2003-04-03",
+                "ASSIGNMENT",
+                "6730000.0"
+              ],
+              [
+                "12052800950023",
+                "2012-05-09",
+                "RELEASE",
+                null
+              ],
+              [
+                "17071900810167",
+                "2017-07-10",
+                "MORTGAGE",
+                "ALL MONEY"
+              ],
+              [
+                "19080501700013",
+                "2019-07-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "37000000.0"
+              ],
+              [
+                "19101002450033",
+                "2019-07-29",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "19101002450012",
+                "2019-09-16",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19101002450027",
+                "2019-09-16",
+                "ASSIGNMENT",
+                "37000000.0"
+              ],
+              [
+                "19101002450046",
+                "2019-09-16",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "21122201860020",
+                "2021-11-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948671562264662,
+        0.38880073576973084,
+        12.949999809265137
+      ],
+      "halfSize": [
+        3.202500000130385,
+        5.418499999679625,
+        3.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1497366559,
+        1101782806,
+        "FAIRWAY VISTA HOUSE 9",
+        "9 PO TOI O",
+        [
+          [
+            "DD241 234",
+            "New Grant Lot",
+            "C6101085",
+            [
+              [
+                "SK142259",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128783",
+                "1988-07-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "SK142260",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK142261",
+                "1989-01-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK142562",
+                "1989-04-21",
+                "-",
+                "2631100.0"
+              ],
+              [
+                "SK148158",
+                "1989-04-21",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK530032",
+                "2002-07-18",
+                "AGREEMENT FOR SALE AND PURCHASE BY ALIBI LIMITED",
+                "6200000.0"
+              ],
+              [
+                "SK532620",
+                "2002-08-09",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK532622",
+                "2002-08-09",
+                "ASSIGNMENT",
+                "6200000.0"
+              ],
+              [
+                "SK532623",
+                "2002-08-09",
+                "MORTGAGE TO SECURE GENERAL CREDIT FACILITIES",
+                "TO SUCH EXTENT AS THE LENDER MAY IN ITS ABSOLUTE DISCRETION FROM TIME TO TIME DEEM FIT"
+              ],
+              [
+                "12110901970020",
+                "2012-10-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "32500000.0"
+              ],
+              [
+                "13020101200454",
+                "2013-01-04",
+                "RECEIPT ON DISCHARGE",
+                "ALL SUMS OF MONEY"
+              ],
+              [
+                "13012501380665",
+                "2013-01-04",
+                "ASSIGNMENT",
+                "32500000.0"
+              ],
+              [
+                "13012501380673",
+                "2013-01-04",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18051102290078",
+                "2018-04-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994871185686752,
+        0.3887991421052963,
+        23.850000381469727
+      ],
+      "halfSize": [
+        3.3804999999701977,
+        5.4934999998658895,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1497366560,
+        1101782812,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948443118557668,
+        0.3887977578292863,
+        8.0
+      ],
+      "halfSize": [
+        3.752915000077337,
+        3.8876800006255507,
+        2.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1497366561,
+        1101782813,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9947951111603652,
+        0.38879728488949633,
+        6.0
+      ],
+      "halfSize": [
+        3.458499999716878,
+        3.6000000005587935,
+        2.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1497366562,
+        1101782814,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948453951825895,
+        0.38879727404635833,
+        7.400000095367432
+      ],
+      "halfSize": [
+        2.7935500000603497,
+        2.749920000322163,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366563,
+        1101782816,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.994844865949835,
+        0.3887968486949923,
+        6.900000095367432
+      ],
+      "halfSize": [
+        2.250174999702722,
+        2.2756650000810623,
+        1.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366564,
+        1101782817,
+        "FAIRWAY VISTA HOUSE 8",
+        "8 PO TOI O",
+        [
+          [
+            "DD241 236",
+            "New Grant Lot",
+            "C6068393",
+            [
+              [
+                "SK143118",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128784",
+                "1988-07-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "SK143119",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK143120",
+                "1989-02-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK143121",
+                "1989-05-04",
+                "-",
+                "1551700.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK147656",
+                "1989-09-09",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK241277",
+                "1996-01-08",
+                "MEMORANDUM OF OUTSTANDING MANAGEMENT FEE",
+                null
+              ],
+              [
+                "SK274379",
+                "1997-02-27",
+                "AGREEMENT FOR SALE AND PRUCAHSE (UNDER MORTGAGEE SALE)",
+                "15250000.0"
+              ],
+              [
+                "SK286368",
+                "1997-07-05",
+                "MEMORANDUM OF RELEASE",
+                null
+              ],
+              [
+                "SK336548",
+                "1997-07-05",
+                "CERTIFIED TRUE COPY OF ASSIGNMENT",
+                "15250000.0"
+              ],
+              [
+                "SK336547",
+                "1998-08-28",
+                "STATUTORY DECLARATION OF CHAN TIM YIU RAYMONG",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994871187393894,
+        0.3887964089459243,
+        25.950000762939453
+      ],
+      "halfSize": [
+        3.7983500002883375,
+        4.308499999344349,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1497366565,
+        1101782818,
+        null,
+        "3A PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948399060343605,
+        0.38879637136487555,
+        7.049999713897705
+      ],
+      "halfSize": [
+        3.296370000112802,
+        3.1676799999549985,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366566,
+        1101782823,
+        "FAIRWAY VISTA HOUSE 7",
+        "7 PO TOI O",
+        [
+          [
+            "DD241 237",
+            "New Grant Lot",
+            "C3767252",
+            [
+              [
+                "SK143122",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128785",
+                "1988-07-15",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "SK143123",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK143124",
+                "1989-02-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK143125",
+                "1989-05-04",
+                "-",
+                "1551700.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK147656",
+                "1989-09-09",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK241277",
+                "1996-01-08",
+                "MEMORANDUM OF OUTSTANDING MANAGEMENT FEE",
+                null
+              ],
+              [
+                "SK274379",
+                "1997-02-27",
+                "AGREEMENT FOR SALE AND PRUCAHSE (UNDER MORTGAGEE SALE)",
+                "15250000.0"
+              ],
+              [
+                "SK286368",
+                "1997-07-05",
+                "MEMORANDUM OF RELEASE",
+                null
+              ],
+              [
+                "SK336548",
+                "1997-07-05",
+                "CERTIFIED TRUE COPY OF ASSIGNMENT",
+                "15250000.0"
+              ],
+              [
+                "SK336547",
+                "1998-08-28",
+                "STATUTORY DECLARATION OF CHAN TIM YIU RAYMONG",
+                null
+              ],
+              [
+                "SK555403",
+                "2003-05-12",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "5600000.0"
+              ],
+              [
+                "SK559034",
+                "2003-05-12",
+                "AGREEMENT FOR SALE AND PURCHASE (PREVIOUSLY REG'D BY M/N 555403)",
+                "5600000.0"
+              ],
+              [
+                "SK556845",
+                "2003-06-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5600000.0"
+              ],
+              [
+                "SK559036",
+                "2003-06-30",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES UNLIMITED EXTENT",
+                null
+              ],
+              [
+                "SK559035",
+                "2003-06-30",
+                "ASSIGNMENT",
+                "5600000.0"
+              ],
+              [
+                "14052602140013",
+                "2014-01-09",
+                "DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948711787722027,
+        0.388795077954147,
+        26.100000381469727
+      ],
+      "halfSize": [
+        3.8100700001232326,
+        4.269999999552965,
+        3.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1497366567,
+        1101782825,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948410196138546,
+        0.3887946361575969,
+        7.199999809265137
+      ],
+      "halfSize": [
+        3.3994649997912347,
+        2.8171849995851517,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1497366568,
+        1101782827,
+        null,
+        "4A PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948407754359232,
+        0.3887940111830441,
+        7.25
+      ],
+      "halfSize": [
+        3.608124999795109,
+        2.920385000295937,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1497366569,
+        1101782828,
+        "6",
+        null,
+        [
+          [
+            "DD241 155",
+            "Old Schedule Lot",
+            "C3766820",
+            [
+              [
+                "SK6502",
+                "1912-10-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "SK25721",
+                "1925-05-07",
+                "-",
+                null
+              ],
+              [
+                "SK72945",
+                "1961-08-23",
+                "-",
+                null
+              ],
+              [
+                "23090701930059",
+                "2023-08-08",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948401947574141,
+        0.3887929366463426,
+        9.5
+      ],
+      "halfSize": [
+        4.396164999809116,
+        4.8443400003015995,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1497366570,
+        1101782832,
+        "FAIRWAY VISTA HOUSE 6",
+        "6 PO TOI O",
+        [
+          [
+            "DD241 238",
+            "New Grant Lot",
+            "C3767268",
+            [
+              [
+                "SK128786",
+                "1988-07-15",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "SK140440",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK140441",
+                "1989-02-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK140442",
+                "1989-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK141851",
+                "1989-04-15",
+                "-",
+                "2256143.0"
+              ],
+              [
+                "SK141855",
+                "1989-04-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK238512",
+                "1995-08-30",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK238513",
+                "1995-08-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK266548",
+                "1997-01-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7200000.0"
+              ],
+              [
+                "SK269004",
+                "1997-01-31",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "SK269002",
+                "1997-01-31",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK269003",
+                "1997-01-31",
+                "ASSIGNMENT",
+                "7200000.0"
+              ],
+              [
+                "SK362385",
+                "1998-12-15",
+                "AGREEMENT FOR SALE AND PURCHASE BY KAMWIN INVESTMENT LIMITED",
+                "5850000.0"
+              ],
+              [
+                "SK362816",
+                "1999-01-02",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK362817",
+                "1999-01-02",
+                "ASSIGNMENT",
+                "5850000.0"
+              ],
+              [
+                "05102000340172",
+                "2005-10-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9500000.0"
+              ],
+              [
+                "06012100170144",
+                "2006-01-11",
+                "ASSIGNMENT",
+                "9500000.0"
+              ],
+              [
+                "06012100170154",
+                "2006-01-11",
+                "MORTGAGE DEED",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "17022301850087",
+                "2017-01-26",
+                "MORTGAGE",
+                "TO SECURE ALL SUMS OF MONEY INCLUDING GENERAL BANKING FACILITIES GRANTED"
+              ],
+              [
+                "17022301850079",
+                "2017-01-26",
+                "RELEASE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "23033001860088",
+                "2023-03-06",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "35000000.0"
+              ],
+              [
+                "23053001670202",
+                "2023-05-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "23052401700098",
+                "2023-05-05",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "23052401700083",
+                "2023-05-05",
+                "ASSIGNMENT",
+                "35000000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948709076790323,
+        0.38879243196793944,
+        27.200000762939453
+      ],
+      "halfSize": [
+        4.6106449998915195,
+        4.9689750000834465,
+        4.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1497366571,
+        1101782834,
+        null,
+        null,
+        [
+          [
+            "DD241 155",
+            "Old Schedule Lot",
+            "C3766820",
+            [
+              [
+                "SK6502",
+                "1912-10-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "SK25721",
+                "1925-05-07",
+                "-",
+                null
+              ],
+              [
+                "SK72945",
+                "1961-08-23",
+                "-",
+                null
+              ],
+              [
+                "23090701930059",
+                "2023-08-08",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948398032536492,
+        0.38879216775675696,
+        9.049999237060547
+      ],
+      "halfSize": [
+        3.3218749999068677,
+        2.677209999412298,
+        4.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1497366572,
+        1101782835,
+        "FAIRWAY VISTA HOUSE 5",
+        "5 PO TOI O",
+        [
+          [
+            "DD241 239",
+            "New Grant Lot",
+            "C3767275",
+            [
+              [
+                "SK140445",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128787",
+                "1988-07-15",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "SK140443",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK140444",
+                "1989-02-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK141855",
+                "1989-04-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK141852",
+                "1989-04-15",
+                "-",
+                "2256143.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK238513",
+                "1995-08-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK238512",
+                "1995-08-30",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK263704",
+                "1996-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7350000.0"
+              ],
+              [
+                "SK264822",
+                "1996-12-20",
+                "MORTGAGE",
+                "TO SECURE GENERAL BANKING FACILITIES TO UNLIMITED EXTENT"
+              ],
+              [
+                "SK264820",
+                "1996-12-20",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK264821",
+                "1996-12-20",
+                "ASSIGNMENT",
+                "7350000.0"
+              ],
+              [
+                "SK362652",
+                "1999-01-09",
+                "AGREEMENT FOR SALE AND PURCHASE BY OTTA LIMITED",
+                "5530000.0"
+              ],
+              [
+                "SK364808",
+                "1999-02-09",
+                "LEGAL CHARGE/ MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "SK364806",
+                "1999-02-09",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK364807",
+                "1999-02-09",
+                "ASSIGNMENT",
+                "5530000.0"
+              ],
+              [
+                "06111702470236",
+                "2006-10-19",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "06121101560042",
+                "2006-11-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "07021603290098",
+                "2007-01-22",
+                "MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07021603290085",
+                "2007-01-22",
+                "ASSIGNMENT",
+                "12000000.0"
+              ],
+              [
+                "07030102080014",
+                "2007-01-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "09111200820015",
+                "2009-10-14",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "10032301910075",
+                "2010-02-25",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "14500000.0"
+              ],
+              [
+                "10041601180038",
+                "2010-03-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14500000.0"
+              ],
+              [
+                "10051001750036",
+                "2010-04-19",
+                "ASSIGNMENT",
+                "14500000.0"
+              ],
+              [
+                "10051001750043",
+                "2010-04-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948706523582547,
+        0.38879110642794235,
+        27.25
+      ],
+      "halfSize": [
+        4.561854999978095,
+        4.81152500025928,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1497366573,
+        1101782836,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.994839027574982,
+        0.38879156214371535,
+        7.5
+      ],
+      "halfSize": [
+        2.0590099999681115,
+        1.88243000023067,
+        2.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1497366574,
+        1101782841,
+        null,
+        null,
+        [
+          [
+            "DD241 157",
+            "New Grant Lot",
+            "C3766836",
+            [
+              [
+                "SK36603",
+                "1934-04-11",
+                "-",
+                null
+              ],
+              [
+                "SK73429",
+                "1961-11-22",
+                "-",
+                null
+              ],
+              [
+                "SK104770",
+                "1983-01-19",
+                "-",
+                null
+              ],
+              [
+                "SK473345",
+                "2001-05-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "SK492072",
+                "2001-08-28",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "22120801860142",
+                "2022-10-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "22120801860151",
+                "2022-11-09",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994836737806614,
+        0.3887901134637008,
+        6.349999904632568
+      ],
+      "halfSize": [
+        7.340180000290275,
+        5.543999999761581,
+        1.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366575,
+        1101782843,
+        null,
+        "7A PO TOI O",
+        [
+          [
+            "DD241 228",
+            "New Grant Lot",
+            "C3767209",
+            [
+              [
+                "SK115514",
+                "1977-10-26",
+                "COPY CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK115515",
+                "1986-08-13",
+                "LEGAL CHARGE",
+                "150000.0"
+              ],
+              [
+                "SK141673",
+                "1989-04-20",
+                "FURTHER CHARGE",
+                "250000.0"
+              ],
+              [
+                "SK211523",
+                "1993-10-12",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948348891200582,
+        0.38878936363159694,
+        7.849999904632568
+      ],
+      "halfSize": [
+        3.1215500002726912,
+        6.4891900001093745,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366576,
+        1101782844,
+        null,
+        null,
+        [
+          [
+            "DD241 157",
+            "New Grant Lot",
+            "C3766836",
+            [
+              [
+                "SK36603",
+                "1934-04-11",
+                "-",
+                null
+              ],
+              [
+                "SK73429",
+                "1961-11-22",
+                "-",
+                null
+              ],
+              [
+                "SK104770",
+                "1983-01-19",
+                "-",
+                null
+              ],
+              [
+                "SK473345",
+                "2001-05-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "SK492072",
+                "2001-08-28",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "22120801860142",
+                "2022-10-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "22120801860151",
+                "2022-11-09",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948373925708753,
+        0.3887896100221062,
+        7.5
+      ],
+      "halfSize": [
+        5.357000000309199,
+        3.4084899993613362,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1497366577,
+        1101782848,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.994840826632659,
+        0.38878884881221504,
+        15.350000381469727
+      ],
+      "halfSize": [
+        2.3965000002644956,
+        4.20299999974668,
+        1.25
+      ]
+    },
+    {
+      "attributes": [
+        1497366578,
+        1101782849,
+        "FAIRWAY VISTA HOUSE 4",
+        "4 PO TOI O",
+        [
+          [
+            "DD241 240",
+            "New Grant Lot",
+            "C3767286",
+            [
+              [
+                "SK140448",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128788",
+                "1988-07-15",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "SK140446",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK140447",
+                "1989-02-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK141855",
+                "1989-04-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK141853",
+                "1989-04-15",
+                "-",
+                "2118643.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK238512",
+                "1995-08-30",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK238513",
+                "1995-08-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK274112",
+                "1997-03-20",
+                "AGREEMENT FOR SALE AND PURCHASE BY PERCEPTIVE INVESTMENTS LIMITED",
+                "7500000.0"
+              ],
+              [
+                "SK275339",
+                "1997-04-15",
+                "ASSIGNMENT",
+                "7500000.0"
+              ],
+              [
+                "SK275338",
+                "1997-04-15",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK510964",
+                "2002-02-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5800000.0"
+              ],
+              [
+                "SK517052",
+                "2002-04-10",
+                "MEMORANDUM FOR SUB-SALE AND SUB-PURCHASE BY INTERCHANGE LIMITED",
+                "5800000.0"
+              ],
+              [
+                "SK517494",
+                "2002-04-30",
+                "SECOND MORTGAGE BY TALIMA LIMITED",
+                null
+              ],
+              [
+                "SK517492",
+                "2002-04-30",
+                "ASSIGNMENT",
+                "5800000.0"
+              ],
+              [
+                "SK517493",
+                "2002-04-30",
+                "MORTGAGE BY TALIMA LIMITED",
+                null
+              ],
+              [
+                "07011701530010",
+                "2006-12-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "10110200960021",
+                "2010-10-08",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20112401110039",
+                "2020-10-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994870331551648,
+        0.3887885552143131,
+        28.149999618530273
+      ],
+      "halfSize": [
+        4.130630000028759,
+        4.459505000151694,
+        3.9499988555908203
+      ]
+    },
+    {
+      "attributes": [
+        1497366579,
+        1101782851,
+        null,
+        null,
+        [
+          [
+            "DD241 158 RP",
+            "Old Schedule Lot",
+            "C3766853",
+            [
+              [
+                "SK47658",
+                "1941-12-02",
+                "-",
+                null
+              ],
+              [
+                "SK47659",
+                "1941-12-02",
+                "-",
+                "200.0"
+              ],
+              [
+                "SK94489",
+                "1979-09-04",
+                "-",
+                null
+              ],
+              [
+                "13012300730192",
+                "2013-01-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD241 158 S.A",
+            "Old Schedule Lot",
+            "C3766868",
+            [
+              [
+                "SK47660",
+                "1941-12-02",
+                "C.C. MORTGAGE",
+                "80.0"
+              ],
+              [
+                "SK47657",
+                "1941-12-02",
+                "-",
+                null
+              ],
+              [
+                "SK78931",
+                "1965-04-10",
+                "STATUTORY DECLARATION BY LAM FUK ALIAS LAM MUK SANG RE 1/2 SHARE",
+                null
+              ],
+              [
+                "SK78934",
+                "1965-04-10",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK79594",
+                "1965-09-21",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK147645",
+                "1989-08-05",
+                "-",
+                null
+              ],
+              [
+                "SK239361",
+                "1995-10-20",
+                "-",
+                "95000.0"
+              ],
+              [
+                "SK239360",
+                "1995-10-20",
+                "STATUTORY DECLARATION BY LAM CHI KEUNG RICKY",
+                null
+              ],
+              [
+                "13012300730038",
+                "2013-01-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "13012300730041",
+                "2013-01-11",
+                "ASSIGNMENT",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948372528751486,
+        0.38878858408676165,
+        7.650000095367432
+      ],
+      "halfSize": [
+        5.35528999986127,
+        3.7384999999776483,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366580,
+        1101782852,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948339072781716,
+        0.3887880784685222,
+        5.949999809265137
+      ],
+      "halfSize": [
+        1.3326349998824298,
+        1.6473150001838803,
+        1.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1497366581,
+        1101782853,
+        "9",
+        null,
+        [
+          [
+            "DD241 229",
+            "New Grant Lot",
+            "C3767212",
+            [
+              [
+                "20012001560207",
+                "2013-08-21",
+                "PROBATE",
+                null
+              ],
+              [
+                "22091600150027",
+                "2022-09-07",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948372683476616,
+        0.3887874851180823,
+        7.75
+      ],
+      "halfSize": [
+        5.151500000152737,
+        3.1895000003278255,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1497366582,
+        1101782854,
+        "FAIRWAY VISTA HOUSE 3",
+        "3 PO TOI O",
+        [
+          [
+            "DD241 232",
+            "New Grant Lot",
+            "C3767249",
+            [
+              [
+                "SK140436",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128553",
+                "1988-05-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK140434",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK140435",
+                "1989-02-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK141855",
+                "1989-04-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK141849",
+                "1989-04-15",
+                "-",
+                "2118643.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK238512",
+                "1995-08-30",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK238513",
+                "1995-08-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK275010",
+                "1997-03-27",
+                "AGREEMENT FOR SALE AND PURCHASE BY PERCEPTIVE INVESTMENTS LIMITED",
+                "7850000.0"
+              ],
+              [
+                "SK276380",
+                "1997-04-30",
+                "ASSIGNMENT",
+                "7850000.0"
+              ],
+              [
+                "SK276379",
+                "1997-04-30",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK586783",
+                "2004-01-09",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "07052501640139",
+                "2007-05-02",
+                "RELEASE",
+                null
+              ],
+              [
+                "14071602300172",
+                "2014-06-20",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948702293789524,
+        0.3887872384913094,
+        27.950000762939453
+      ],
+      "halfSize": [
+        4.145075000356883,
+        4.467509999871254,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1497366583,
+        1101782858,
+        null,
+        "10B PO TOI O",
+        [
+          [
+            "DD241 215",
+            "New Grant Lot",
+            "C6650651",
+            [
+              [
+                "SK37152",
+                "1934-12-11",
+                "-",
+                null
+              ],
+              [
+                "SK86733",
+                "1974-01-21",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948349645040822,
+        0.3887868513453306,
+        7.849999904632568
+      ],
+      "halfSize": [
+        3.405625000130385,
+        2.4985450003296137,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366584,
+        1101782859,
+        "10",
+        null,
+        [
+          [
+            "DD241 160",
+            "Old Schedule Lot",
+            "C3766874",
+            [
+              [
+                "SK37152",
+                "1934-12-11",
+                "-",
+                null
+              ],
+              [
+                "SK86734",
+                "1974-01-21",
+                "-",
+                null
+              ],
+              [
+                "SK86733",
+                "1974-01-21",
+                "-",
+                null
+              ],
+              [
+                "SK97939",
+                "1980-10-09",
+                "-",
+                null
+              ],
+              [
+                "SK428331",
+                "1998-04-29",
+                "LETTERS OF ADMINISTRATION WITH THE WILL",
+                null
+              ],
+              [
+                "SK431935",
+                "2000-07-20",
+                "DEED OF AMILY ARRANGEMENT AND ASSENT",
+                null
+              ],
+              [
+                "18083100750046",
+                "2018-08-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD241 217",
+            "New Grant Lot",
+            "C3767150",
+            [
+              [
+                "SK37152",
+                "1934-12-11",
+                "-",
+                null
+              ],
+              [
+                "SK86734",
+                "1974-01-21",
+                "-",
+                null
+              ],
+              [
+                "SK86733",
+                "1974-01-21",
+                "-",
+                null
+              ],
+              [
+                "SK97939",
+                "1980-10-09",
+                "-",
+                null
+              ],
+              [
+                "SK428331",
+                "1998-04-29",
+                "LETTERS OF ADMINISTRATION WITH THE WILL",
+                null
+              ],
+              [
+                "SK431935",
+                "2000-07-20",
+                "DEED OF AMILY ARRANGEMENT AND ASSENT",
+                null
+              ],
+              [
+                "18083100750046",
+                "2018-08-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948370035547032,
+        0.38878667818948176,
+        7.449999809265137
+      ],
+      "halfSize": [
+        3.740999999921769,
+        2.3179999999701977,
+        2.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1497366585,
+        1101782861,
+        null,
+        "60 PO TOI O",
+        [
+          [
+            "DD241 244",
+            "New Grant Lot",
+            "C3767323",
+            [
+              [
+                "SK478813",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK476723",
+                "2001-05-24",
+                "ASSIGNMENT",
+                "5045675.58"
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "05062102170033",
+                "2005-05-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6380000.0"
+              ],
+              [
+                "05082901540076",
+                "2005-08-11",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "05082901540062",
+                "2005-08-11",
+                "ASSIGNMENT",
+                "6380000.0"
+              ],
+              [
+                "06051202690048",
+                "2006-04-04",
+                "ORDER NO. CWP/S1/96035/06/NT UNDER S.24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "06062801650016",
+                "2006-06-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "11350000.0"
+              ],
+              [
+                "06071402000024",
+                "2006-06-28",
+                "ASSIGNMENT",
+                "11350000.0"
+              ],
+              [
+                "06072200460013",
+                "2006-06-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "06101600740017",
+                "2006-08-24",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948632587884358,
+        0.3887857334439578,
+        30.100000381469727
+      ],
+      "halfSize": [
+        4.066380000207573,
+        5.848019999451935,
+        4.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1497366586,
+        1101782862,
+        null,
+        null,
+        [
+          [
+            "DD241 215",
+            "New Grant Lot",
+            "C6650651",
+            [
+              [
+                "SK37152",
+                "1934-12-11",
+                "-",
+                null
+              ],
+              [
+                "SK86733",
+                "1974-01-21",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948350485520747,
+        0.3887862211113662,
+        6.699999809265137
+      ],
+      "halfSize": [
+        3.393350000027567,
+        2.302015000022948,
+        1.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1497366587,
+        1101782863,
+        null,
+        "61 PO TOI O",
+        [
+          [
+            "DD241 245",
+            "New Grant Lot",
+            "C3767339",
+            [
+              [
+                "15072301500055",
+                "1999-01-15",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK478815",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK476722",
+                "2001-05-24",
+                "ASSIGNMENT",
+                "5045675.58"
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK623144",
+                "2004-10-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5100000.0"
+              ],
+              [
+                "SK623858",
+                "2004-11-18",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK623857",
+                "2004-11-18",
+                "ASSIGNMENT",
+                "5100000.0"
+              ],
+              [
+                "09120901160084",
+                "2009-11-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "09120901160096",
+                "2009-11-27",
+                "MORTGAGE",
+                "ALL MONEY"
+              ],
+              [
+                "10112402280484",
+                "2010-11-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14850000.0"
+              ],
+              [
+                "11012002140043",
+                "2010-12-31",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "11011102460016",
+                "2010-12-31",
+                "ASSIGNMENT",
+                "14850000.0"
+              ],
+              [
+                "15072302530120",
+                "2015-07-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "19300000.0"
+              ],
+              [
+                "15090202570068",
+                "2015-08-06",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15090202570058",
+                "2015-08-06",
+                "ASSIGNMENT",
+                "19300000.0"
+              ],
+              [
+                "17041202500091",
+                "2017-03-31",
+                "TENANCY AGREEMENT",
+                "THE RENT IS $48,500.00 PER MONTH"
+              ],
+              [
+                "24110401700074",
+                "2024-10-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948622492444037,
+        0.3887855353402749,
+        30.0
+      ],
+      "halfSize": [
+        4.071959999855608,
+        5.839525000192225,
+        4.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1497366588,
+        1101782865,
+        null,
+        "13A PO TOI O",
+        [
+          [
+            "DD241 164",
+            "Old Schedule Lot",
+            "C3766913",
+            [
+              [
+                "SK87216",
+                "1974-10-24",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948383132948202,
+        0.3887853361177293,
+        6.350000381469727
+      ],
+      "halfSize": [
+        5.574585000053048,
+        5.443245000205934,
+        2.250000238418579
+      ]
+    },
+    {
+      "attributes": [
+        1497366589,
+        1101782867,
+        null,
+        "62 PO TOI O",
+        [
+          [
+            "DD241 246",
+            "New Grant Lot",
+            "C3767341",
+            [
+              [
+                "SK434229",
+                "2000-07-19",
+                "LETTERS OF ADMINISTRATION WITH THE WILL",
+                null
+              ],
+              [
+                "SK478811",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK475539",
+                "2001-05-24",
+                "ASSENT",
+                null
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK497147",
+                "2001-10-17",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK597749",
+                "2004-04-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4315000.0"
+              ],
+              [
+                "SK604012",
+                "2004-05-24",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "SK604011",
+                "2004-05-24",
+                "ASSIGNMENT",
+                "4315000.0"
+              ],
+              [
+                "SK604010",
+                "2004-05-24",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "08073100340020",
+                "2008-06-30",
+                "NOTICE OF SEVERANCE",
+                null
+              ],
+              [
+                "10062301380015",
+                "2010-05-28",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "12500000.0"
+              ],
+              [
+                "10081801580027",
+                "2010-07-23",
+                "ASSIGNMENT",
+                "12500000.0"
+              ],
+              [
+                "10081801580015",
+                "2010-07-23",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948604257429081,
+        0.38878501096622775,
+        30.100000381469727
+      ],
+      "halfSize": [
+        4.682709999848157,
+        6.043895000591874,
+        4.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1497366590,
+        1101782868,
+        null,
+        null,
+        [
+          [
+            "DD241 162",
+            "Old Schedule Lot",
+            "C3766898",
+            [
+              [
+                "SK73430",
+                "1961-11-22",
+                "-",
+                null
+              ],
+              [
+                "SK96768",
+                "1980-05-02",
+                "-",
+                "12000.0"
+              ],
+              [
+                "SK96767",
+                "1980-05-02",
+                "-",
+                "20000.0"
+              ],
+              [
+                "SK97651",
+                "1980-08-27",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "250000.0"
+              ],
+              [
+                "SK98309",
+                "1980-10-24",
+                "-",
+                "250000.0"
+              ],
+              [
+                "SK121783",
+                "1987-08-28",
+                "-",
+                "210000.0"
+              ],
+              [
+                "SK188711",
+                "1992-01-20",
+                "-",
+                "80000.0"
+              ],
+              [
+                "SK256338",
+                "1996-08-08",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "SK328962",
+                "1998-05-28",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK500061",
+                "2001-11-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK500062",
+                "2001-11-21",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "SK545034",
+                "2001-11-21",
+                "ASSIGNMENT (BY WAY OF GIFT) (PREVIOUSLY REG'D BY M/N 500062)",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948354886064597,
+        0.3887854018253958,
+        8.949999809265137
+      ],
+      "halfSize": [
+        2.8958000000566244,
+        3.1537849996238947,
+        4.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1497366591,
+        1101782869,
+        null,
+        null,
+        [
+          [
+            "DD241 162",
+            "Old Schedule Lot",
+            "C3766898",
+            [
+              [
+                "SK73430",
+                "1961-11-22",
+                "-",
+                null
+              ],
+              [
+                "SK96768",
+                "1980-05-02",
+                "-",
+                "12000.0"
+              ],
+              [
+                "SK96767",
+                "1980-05-02",
+                "-",
+                "20000.0"
+              ],
+              [
+                "SK97651",
+                "1980-08-27",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "250000.0"
+              ],
+              [
+                "SK98309",
+                "1980-10-24",
+                "-",
+                "250000.0"
+              ],
+              [
+                "SK121783",
+                "1987-08-28",
+                "-",
+                "210000.0"
+              ],
+              [
+                "SK188711",
+                "1992-01-20",
+                "-",
+                "80000.0"
+              ],
+              [
+                "SK256338",
+                "1996-08-08",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "SK328962",
+                "1998-05-28",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK500061",
+                "2001-11-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK500062",
+                "2001-11-21",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "SK545034",
+                "2001-11-21",
+                "ASSIGNMENT (BY WAY OF GIFT) (PREVIOUSLY REG'D BY M/N 500062)",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948344388596284,
+        0.3887855185006579,
+        5.75
+      ],
+      "halfSize": [
+        2.4654999999329448,
+        2.12599999923259,
+        1.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366592,
+        1101782870,
+        null,
+        null,
+        [
+          [
+            "DD241 164",
+            "Old Schedule Lot",
+            "C3766913",
+            [
+              [
+                "SK87216",
+                "1974-10-24",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994838715254023,
+        0.38878492619555194,
+        6.300000190734863
+      ],
+      "halfSize": [
+        5.493724999949336,
+        5.242579999379814,
+        2.200000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1497366593,
+        1101782871,
+        null,
+        "63 PO TOI O",
+        [
+          [
+            "DD241 247",
+            "New Grant Lot",
+            "C3767354",
+            [
+              [
+                "SK478806",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK476724",
+                "2001-05-25",
+                "ASSIGNMENT",
+                "5045675.58"
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK497147",
+                "2001-10-17",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "07042601790156",
+                "2007-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15600000.0"
+              ],
+              [
+                "08041402540015",
+                "2008-03-26",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "08060602970198",
+                "2008-05-23",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE",
+                "13250000.0"
+              ],
+              [
+                "08071803100027",
+                "2008-06-23",
+                "ASSIGNMENT",
+                "13250000.0"
+              ],
+              [
+                "08071803100032",
+                "2008-06-23",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15030301840011",
+                "2015-02-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "18073002300025",
+                "2018-07-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "21650000.0"
+              ],
+              [
+                "18083001750017",
+                "2018-08-10",
+                "ASSIGNMENT",
+                "21650000.0"
+              ],
+              [
+                "18083001750024",
+                "2018-08-10",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948594574160303,
+        0.3887846858950225,
+        30.100000381469727
+      ],
+      "halfSize": [
+        4.674935000017285,
+        6.036244999617338,
+        4.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1497366594,
+        1101782872,
+        "FAIRWAY VISTA HOUSE 2",
+        "2 PO TOI O",
+        [
+          [
+            "DD241 233",
+            "New Grant Lot",
+            "C6468845",
+            [
+              [
+                "SK145630",
+                "1987-02-14",
+                "POWER OF ATTORNEY BY LEUNG WAH HEI",
+                null
+              ],
+              [
+                "SK128554",
+                "1988-05-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK145631",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK145632",
+                "1989-01-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK145633",
+                "1989-06-23",
+                "-",
+                "1551700.0"
+              ],
+              [
+                "SK147223",
+                "1989-08-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2400000.0"
+              ],
+              [
+                "SK147946",
+                "1989-09-18",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK147945",
+                "1989-09-18",
+                "ASSIGNMENT",
+                "2400000.0"
+              ],
+              [
+                "SK240960",
+                "1995-12-01",
+                "SALE AND PURCHASE AGREEMENT",
+                "7500000.0"
+              ],
+              [
+                "SK241513",
+                "1995-12-15",
+                "ASSIGNMENT",
+                "7500000.0"
+              ],
+              [
+                "SK241512",
+                "1995-12-15",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK242440",
+                "1996-01-27",
+                "LEGAL CHARGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK497239",
+                "2001-10-13",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK497238",
+                "2001-10-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK622595",
+                "2004-11-19",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK622596",
+                "2004-11-19",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07072501080080",
+                "2007-07-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "07072501080097",
+                "2007-07-05",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "10121602860140",
+                "2010-11-18",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "18800000.0"
+              ],
+              [
+                "11022202240067",
+                "2011-01-21",
+                "ASSIGNMENT",
+                "18800000.0"
+              ],
+              [
+                "11021803000211",
+                "2011-01-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "11021803000205",
+                "2011-01-21",
+                "LEGAL CHARGE / MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "18112701330016",
+                "2018-11-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "32380000.0"
+              ],
+              [
+                "19011501180018",
+                "2018-12-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19010200670017",
+                "2018-12-21",
+                "ASSIGNMENT",
+                "32380000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948703565854202,
+        0.3887847724256657,
+        28.299999237060547
+      ],
+      "halfSize": [
+        4.516840000171214,
+        4.893980000168085,
+        3.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1497366595,
+        1101782876,
+        null,
+        "64 PO TOI O",
+        [
+          [
+            "DD241 248",
+            "New Grant Lot",
+            "C3767367",
+            [
+              [
+                "19111101440071",
+                "1999-01-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK478809",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK476725",
+                "2001-05-24",
+                "ASSIGNMENT",
+                "5045675.58"
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK497147",
+                "2001-10-17",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "07042601790156",
+                "2007-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15600000.0"
+              ],
+              [
+                "08041402540015",
+                "2008-03-26",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "08042802060019",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "12600000.0"
+              ],
+              [
+                "08042802060023",
+                "2008-03-31",
+                "MORTGAGE",
+                "GENERAL BANKING FACILITIES TO AN UNLIMITED EXTENT"
+              ],
+              [
+                "08041702140077",
+                "2008-03-31",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE",
+                "12600000.0"
+              ],
+              [
+                "19102500330036",
+                "2019-10-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "24450000.0"
+              ],
+              [
+                "19121001680027",
+                "2019-11-29",
+                "ASSIGNMENT",
+                "24450000.0"
+              ],
+              [
+                "19121600850022",
+                "2019-11-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948576050052,
+        0.3887834814755366,
+        29.94999885559082
+      ],
+      "halfSize": [
+        5.981085000094026,
+        5.752770000137389,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1497366596,
+        1101782878,
+        "FAIRWAY VISTA HOUSE 1",
+        "1 PO TOI O",
+        [
+          [
+            "DD241 235",
+            "New Grant Lot",
+            "C6513514",
+            [
+              [
+                "SK140439",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128555",
+                "1988-05-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK140437",
+                "1988-10-03",
+                "CENTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK140438",
+                "1989-02-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK141855",
+                "1989-04-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK141850",
+                "1989-04-15",
+                "-",
+                "2256143.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK238513",
+                "1995-08-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK238512",
+                "1995-08-30",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK289946",
+                "1997-08-05",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK298219",
+                "1997-10-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "SK327854",
+                "1998-05-13",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "SK477487",
+                "2001-06-04",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "5700000.0"
+              ],
+              [
+                "SK482969",
+                "2001-07-14",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK482968",
+                "2001-07-14",
+                "ASSIGNMENT",
+                "5700000.0"
+              ],
+              [
+                "06112202650032",
+                "2006-10-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "14081202340037",
+                "2014-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "28000000.0"
+              ],
+              [
+                "14093002800018",
+                "2014-09-01",
+                "ASSIGNMENT",
+                "28000000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948701281645833,
+        0.388783463281863,
+        28.350000381469727
+      ],
+      "halfSize": [
+        4.498350000008941,
+        4.566054999828339,
+        3.8500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1497366597,
+        1101782879,
+        null,
+        "65 PO TOI O",
+        [
+          [
+            "DD241 249",
+            "New Grant Lot",
+            "C3767371",
+            [
+              [
+                "10062901310121",
+                "1999-01-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK478814",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK476726",
+                "2001-05-24",
+                "ASSIGNMENT",
+                "5045675.58"
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK497147",
+                "2001-10-17",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "05041800720018",
+                "2005-03-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5000000.0"
+              ],
+              [
+                "05052300280084",
+                "2005-04-27",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "05052300280107",
+                "2005-04-27",
+                "MORTGAGE",
+                "ALL MONEY"
+              ],
+              [
+                "05052300280091",
+                "2005-04-27",
+                "ASSIGNMENT",
+                "5000000.0"
+              ],
+              [
+                "10062201560238",
+                "2010-05-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14000000.0"
+              ],
+              [
+                "10072701810079",
+                "2010-06-30",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "10072701810044",
+                "2010-06-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "10072701810061",
+                "2010-06-30",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "10072701810050",
+                "2010-06-30",
+                "ASSIGNMENT",
+                "14000000.0"
+              ],
+              [
+                "19062602490044",
+                "2019-06-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "23380000.0"
+              ],
+              [
+                "19082201950093",
+                "2019-08-05",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "19082901920025",
+                "2019-08-05",
+                "RELEASE",
+                null
+              ],
+              [
+                "19082201950087",
+                "2019-08-05",
+                "ASSIGNMENT",
+                "23380000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948569405484047,
+        0.38878275275874513,
+        29.94999885559082
+      ],
+      "halfSize": [
+        6.010025000199676,
+        5.761295000091195,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1497366598,
+        1101782881,
+        null,
+        "71 PO TOI O",
+        [
+          [
+            "DD241 252",
+            "New Grant Lot",
+            "C5421722",
+            [
+              [
+                "SK478810",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK476728",
+                "2001-05-24",
+                "ASSIGNMENT",
+                "4831078.58"
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK497147",
+                "2001-10-17",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "07042601790169",
+                "2007-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14000000.0"
+              ],
+              [
+                "08081901690148",
+                "2008-07-31",
+                "ASSIGNMENT",
+                "14000000.0"
+              ],
+              [
+                "08080101620016",
+                "2008-07-31",
+                "RELEASE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948599951507768,
+        0.3887821826847326,
+        32.0
+      ],
+      "halfSize": [
+        5.651229999959469,
+        5.647309999912977,
+        4.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1497366599,
+        1101782882,
+        null,
+        "16A PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948379495061348,
+        0.38878210366372346,
+        6.349999904632568
+      ],
+      "halfSize": [
+        3.6110000000335276,
+        2.7625000001862645,
+        1.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366600,
+        1101782883,
+        null,
+        "66 PO TOI O",
+        [
+          [
+            "DD241 250",
+            "New Grant Lot",
+            "C5985121",
+            [
+              [
+                "SK478807",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK475466",
+                "2001-05-22",
+                "ASSIGNMENT",
+                "5720000.0"
+              ],
+              [
+                "SK475467",
+                "2001-05-22",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK515628",
+                "2002-04-29",
+                "SECOND MORTGAGE TO SECURE GENERAL CREDIT FACILITIES",
+                null
+              ],
+              [
+                "SK561318",
+                "2003-08-07",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "SK575073",
+                "2003-10-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3900000.0"
+              ],
+              [
+                "SK582578",
+                "2003-12-01",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK582577",
+                "2003-12-01",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK582576",
+                "2003-12-01",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK582579",
+                "2003-12-01",
+                "ASSIGNMENT",
+                "3900000.0"
+              ],
+              [
+                "SK582580",
+                "2003-12-01",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK622706",
+                "2004-11-22",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK622705",
+                "2004-11-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "06020400920059",
+                "2006-01-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "06030700120065",
+                "2006-02-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "06030700120082",
+                "2006-02-13",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "06030700120074",
+                "2006-02-13",
+                "ASSIGNMENT",
+                "7000000.0"
+              ],
+              [
+                "08043001970058",
+                "2008-03-25",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948557905823991,
+        0.38878149185365374,
+        29.899999618530273
+      ],
+      "halfSize": [
+        6.006784999743104,
+        5.75713500007987,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1497366601,
+        1101782884,
+        null,
+        "70 PO TOI O",
+        [
+          [
+            "DD241 253",
+            "New Grant Lot",
+            "C6513527",
+            [
+              [
+                "SK478808",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK476727",
+                "2001-05-22",
+                "ASSIGNMENT",
+                "4831078.58"
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK497147",
+                "2001-10-17",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "07042601790169",
+                "2007-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14000000.0"
+              ],
+              [
+                "08081901690148",
+                "2008-07-31",
+                "ASSIGNMENT",
+                "14000000.0"
+              ],
+              [
+                "08080101620016",
+                "2008-07-31",
+                "RELEASE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948591115797099,
+        0.3887812176157619,
+        32.04999923706055
+      ],
+      "halfSize": [
+        5.651624999940395,
+        5.638070000335574,
+        4.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1497366602,
+        1101782885,
+        "FAIRWAY VISTA HOUSE 1A",
+        "1A PO TOI O",
+        [
+          [
+            "DD241 242",
+            "New Grant Lot",
+            "C3767303",
+            [
+              [
+                "SK325657",
+                "1998-04-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "SK546716",
+                "1998-12-22",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK478812",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK475538",
+                "2001-05-24",
+                "ASSENT",
+                null
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK497147",
+                "2001-10-17",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK543976",
+                "2002-12-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4300000.0"
+              ],
+              [
+                "SK546717",
+                "2003-01-28",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK546719",
+                "2003-01-28",
+                "FIRST LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK546718",
+                "2003-01-28",
+                "ASSIGNMENT",
+                "4300000.0"
+              ],
+              [
+                "05062302000114",
+                "2005-05-20",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "08110701690073",
+                "2008-10-17",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "18011902320016",
+                "2018-01-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "25380000.0"
+              ],
+              [
+                "18030601370027",
+                "2018-02-08",
+                "ASSIGNMENT",
+                "25380000.0"
+              ],
+              [
+                "18030601370014",
+                "2018-02-08",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "24071501440086",
+                "2024-06-24",
+                "ORDER NO.VHN/Q07/100547/24/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994871286650292,
+        0.38878131222811063,
+        33.25
+      ],
+      "halfSize": [
+        4.5559999998658895,
+        4.577499999664724,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1497366603,
+        1101782888,
+        null,
+        "67 PO TOI O",
+        [
+          [
+            "DD241 251",
+            "New Grant Lot",
+            "C5255734",
+            [
+              [
+                "SK347350",
+                "1998-10-12",
+                "LETTERS OF ADMINISTRATION WITH THE WILL ANNEXED",
+                null
+              ],
+              [
+                "20072300910042",
+                "1999-01-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "10021001570029",
+                "2009-11-02",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "09121801920040",
+                "2009-12-02",
+                "MEMORANDUM OF AGREEMENT (AGREEMENT FOR SALE AND PURCHASE)",
+                "9330000.0"
+              ],
+              [
+                "10020901840079",
+                "2010-01-20",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "10020901840061",
+                "2010-01-20",
+                "ASSIGNMENT",
+                "9330000.0"
+              ],
+              [
+                "20071302310012",
+                "2020-06-16",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "26800000.0"
+              ],
+              [
+                "20102302070020",
+                "2020-09-29",
+                "ASSIGNMENT",
+                "26800000.0"
+              ],
+              [
+                "20102302070011",
+                "2020-09-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994855119980736,
+        0.38878076299290765,
+        29.899999618530273
+      ],
+      "halfSize": [
+        6.043240000028163,
+        5.772385000251234,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1497366604,
+        1101782891,
+        "FAIRWAY VISTA HOUSE 1B",
+        "1B PO TOI O",
+        [
+          [
+            "DD241 243",
+            "New Grant Lot",
+            "C3767314",
+            [
+              [
+                "SK536533",
+                "2001-04-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK481941",
+                "2001-07-05",
+                "DEED OF COVENANT AND MANAGEMENT AGREEMENT",
+                null
+              ],
+              [
+                "SK536532",
+                "2002-08-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "SK539922",
+                "2002-12-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "SK556547",
+                "2003-05-23",
+                "MORTGAGE TO SECURE GENERAL CREDIT FACILITIES",
+                null
+              ],
+              [
+                "SK586467",
+                "2004-01-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4220000.0"
+              ],
+              [
+                "SK586469",
+                "2004-01-08",
+                "ASSIGNMENT",
+                "4220000.0"
+              ],
+              [
+                "SK586468",
+                "2004-01-08",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "11121601030100",
+                "2011-08-23",
+                "WARNING LETTER",
+                null
+              ],
+              [
+                "24071501440093",
+                "2024-06-24",
+                "ORDER NO.VHN/Q07/100548/24/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948714821279048,
+        0.3887800571603739,
+        33.400001525878906
+      ],
+      "halfSize": [
+        4.560500000137836,
+        4.549000000581145,
+        3.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1497366605,
+        1101782892,
+        null,
+        "69 PO TOI O",
+        [
+          [
+            "DD241 254",
+            "New Grant Lot",
+            "C3767386",
+            [
+              [
+                "09030200330021",
+                "1998-12-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948578040107334,
+        0.38877977332676444,
+        32.150001525878906
+      ],
+      "halfSize": [
+        5.644500000402331,
+        5.667499999515712,
+        4.250000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366606,
+        1101782893,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.99485169023229,
+        0.3887802197004219,
+        24.200000762939453
+      ],
+      "halfSize": [
+        2.3514499999582767,
+        2.21225499920547,
+        1.0
+      ]
+    },
+    {
+      "attributes": [
+        1497366607,
+        1101782895,
+        null,
+        "17A PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948351989703055,
+        0.38877979399511065,
+        6.100000381469727
+      ],
+      "halfSize": [
+        2.7429900001734495,
+        2.6290849996730685,
+        2.000000238418579
+      ]
+    },
+    {
+      "attributes": [
+        1497366608,
+        1101782901,
+        null,
+        "20 PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948339738666439,
+        0.3887772123374367,
+        6.599999904632568
+      ],
+      "halfSize": [
+        3.3759150002151728,
+        3.1690799994394183,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366609,
+        1101782905,
+        null,
+        "20A PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.994833758923616,
+        0.3887765128109345,
+        5.699999809265137
+      ],
+      "halfSize": [
+        2.9463750002905726,
+        2.9400499993935227,
+        1.2000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1497366610,
+        1101782907,
+        null,
+        "20B PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948335390855905,
+        0.3887758535787789,
+        5.800000190734863
+      ],
+      "halfSize": [
+        2.929889999795705,
+        2.7512800004333258,
+        1.2999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1497366611,
+        1101782909,
+        null,
+        "21A PO TOI O",
+        [
+          [
+            "DD241 226",
+            "New Grant Lot",
+            "C5755209",
+            [
+              [
+                "SK576906",
+                "2003-10-22",
+                "ORDER BY THE BUILDING AUTHORITY (AS PER PLAN)",
+                null
+              ],
+              [
+                "07040301360025",
+                "2007-02-28",
+                "LETTER OF CANCELLATION",
+                null
+              ],
+              [
+                "09090301470027",
+                "2009-02-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09090301470037",
+                "2009-05-05",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994833569772367,
+        0.38877502738206754,
+        8.0
+      ],
+      "halfSize": [
+        5.035000000149012,
+        3.223314999602735,
+        2.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1497366612,
+        1101782910,
+        null,
+        "21 PO TOI O",
+        [
+          [
+            "DD241 226",
+            "New Grant Lot",
+            "C5755209",
+            [
+              [
+                "SK576906",
+                "2003-10-22",
+                "ORDER BY THE BUILDING AUTHORITY (AS PER PLAN)",
+                null
+              ],
+              [
+                "07040301360025",
+                "2007-02-28",
+                "LETTER OF CANCELLATION",
+                null
+              ],
+              [
+                "09090301470027",
+                "2009-02-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09090301470037",
+                "2009-05-05",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948335890250803,
+        0.3887743427919781,
+        6.449999809265137
+      ],
+      "halfSize": [
+        3.9634150001220405,
+        3.059999999590218,
+        1.25
+      ]
+    },
+    {
+      "attributes": [
+        1497366613,
+        1101782911,
+        null,
+        "21B PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948333839106633,
+        0.38877373778912716,
+        6.099999904632568
+      ],
+      "halfSize": [
+        4.060000000055879,
+        2.6499999994412065,
+        0.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366614,
+        1101782913,
+        null,
+        "22 PO TOI O",
+        [
+          [
+            "DD241 267",
+            "New Grant Lot",
+            "C6675204",
+            [
+              [
+                "18121001250038",
+                "2001-02-15",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF DRAINAGE WORKS",
+                null
+              ],
+              [
+                "18123101510019",
+                "2002-08-09",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "18123101510029",
+                "2004-08-24",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994833470536172,
+        0.3887723587647,
+        8.100000381469727
+      ],
+      "halfSize": [
+        4.711500000208616,
+        3.7094999998807907,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1497366615,
+        1101782917,
+        null,
+        "23 PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948329280324502,
+        0.38877145586898904,
+        5.550000190734863
+      ],
+      "halfSize": [
+        3.648999999742955,
+        2.734984999522567,
+        1.850000023841858
+      ]
+    },
+    {
+      "attributes": [
+        1497366616,
+        1101782918,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948314136861225,
+        0.38877125030657883,
+        5.099999904632568
+      ],
+      "halfSize": [
+        1.3604999999515712,
+        1.1090000001713634,
+        1.399999976158142
+      ]
+    },
+    {
+      "attributes": [
+        1497366617,
+        1101782920,
+        null,
+        "26 PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948313941329547,
+        0.3887690775847663,
+        6.400000095367432
+      ],
+      "halfSize": [
+        3.7530249999836087,
+        3.237560000270605,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366618,
+        1101782923,
+        null,
+        "139 TAI AU MUN ROAD",
+        [
+          [
+            "DD241 269",
+            "New Grant Lot",
+            "D3207999",
+            [
+              [
+                "17120602620025",
+                "2017-10-17",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20042800680036",
+                "2019-07-26",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9949256508209392,
+        0.3887317718366525,
+        30.349998474121094
+      ],
+      "halfSize": [
+        5.304000000003725,
+        6.55350000038743,
+        2.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1497366619,
+        1101782924,
+        null,
+        "139 TAI AU MUN ROAD",
+        [
+          [
+            "DD241 269",
+            "New Grant Lot",
+            "D3207999",
+            [
+              [
+                "17120602620025",
+                "2017-10-17",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20042800680036",
+                "2019-07-26",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948765895218097,
+        0.38873043430536275,
+        70.9000015258789
+      ],
+      "halfSize": [
+        3.5465000001713634,
+        3.6325000002980232,
+        1.0
+      ]
+    },
+    {
+      "attributes": [
+        1497366620,
+        1101782925,
+        null,
+        "139 TAI AU MUN ROAD",
+        [
+          [
+            "DD241 269",
+            "New Grant Lot",
+            "D3207999",
+            [
+              [
+                "17120602620025",
+                "2017-10-17",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20042800680036",
+                "2019-07-26",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948771339076299,
+        0.3887298163013258,
+        70.9000015258789
+      ],
+      "halfSize": [
+        2.2375000002793968,
+        2.0814999993890524,
+        1.0
+      ]
+    },
+    {
+      "attributes": [
+        1497366621,
+        1101782926,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948263985136119,
+        0.3887294931696755,
+        14.0
+      ],
+      "halfSize": [
+        1.4849999998696148,
+        1.388999999500811,
+        1.0
+      ]
+    },
+    {
+      "attributes": [
+        1497366622,
+        1101782928,
+        null,
+        "139 TAI AU MUN ROAD",
+        [
+          [
+            "DD241 269",
+            "New Grant Lot",
+            "D3207999",
+            [
+              [
+                "17120602620025",
+                "2017-10-17",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20042800680036",
+                "2019-07-26",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994761994689339,
+        0.38871612501904546,
+        52.95000076293945
+      ],
+      "halfSize": [
+        5.899999999906868,
+        4.550000000745058,
+        2.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1497366623,
+        1108794595,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948432562077576,
+        0.38879623462512575,
+        7.450000286102295
+      ],
+      "halfSize": [
+        3.5801350004039705,
+        3.866779999807477,
+        2.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366624,
+        1108794934,
+        null,
+        null,
+        [
+          [
+            "DD241 163",
+            "New Grant Lot",
+            "C3766906",
+            [
+              [
+                "SK586501",
+                "2003-12-09",
+                "SEALED COPY ORDER (IN HIGH COURT ACTION NO. HCMP4249/2002)",
+                null
+              ],
+              [
+                "SK597422",
+                "2004-05-05",
+                "CERTIFICATE OF CHARGE ON PROPERTY",
+                null
+              ],
+              [
+                "SK616577",
+                "2004-09-28",
+                "CERTIFICATE OF SATISFACTION OF CHARGE ON PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994837480649645,
+        0.38878572518307364,
+        6.399999618530273
+      ],
+      "halfSize": [
+        3.8444999996572733,
+        2.973000000230968,
+        2.299999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1497366625,
+        1108795227,
+        "FAIRWAY VISTA HOUSE 10",
+        "10 PO TOI O",
+        [
+          [
+            "DD241 241",
+            "New Grant Lot",
+            "C3767294",
+            [
+              [
+                "SK140451",
+                "1987-02-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK128789",
+                "1988-07-15",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "SK140449",
+                "1988-10-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK140450",
+                "1989-02-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK141855",
+                "1989-04-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK141854",
+                "1989-04-15",
+                "-",
+                "2118643.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK238513",
+                "1995-08-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK238512",
+                "1995-08-30",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK272421",
+                "1996-03-30",
+                "RE-REGISTRATION OF LEGAL CHARGE BY SUREWAY TEXTILE LIMITED",
+                null
+              ],
+              [
+                "SK257378",
+                "1996-08-22",
+                "AGREEMENT FOR SALE AND PURCHASE BY PERCEPTIVE INVESTMENTS LIMITED",
+                "7450000.0"
+              ],
+              [
+                "SK259596",
+                "1996-09-30",
+                "LEGAL CHARGE",
+                "GENERAL BANKING FACILITIES TO THE EXTENT OF ALL MONEYS"
+              ],
+              [
+                "SK259594",
+                "1996-09-30",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK259595",
+                "1996-09-30",
+                "ASSIGNMENT",
+                "7450000.0"
+              ],
+              [
+                "SK299480",
+                "1997-10-22",
+                "AGREEMENT FOR SALE AND PURCHASE BY SUREWAY TEXTILE LIMITED",
+                "10580000.0"
+              ],
+              [
+                "SK299479",
+                "1997-10-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK299481",
+                "1997-10-28",
+                "ASSIGNMENT",
+                "10580000.0"
+              ],
+              [
+                "SK604610",
+                "2004-05-20",
+                "AGREEMENT FOR SALE AND PURCHASE BY MAIN CHARTER ENTERPRISES LIMITED",
+                "12000000.0"
+              ],
+              [
+                "SK611170",
+                "2004-07-10",
+                "ASSIGNMENT",
+                "12000000.0"
+              ],
+              [
+                "SK611171",
+                "2004-07-10",
+                "MORTGAGE BY CHARTER ATLANTIC LIMITED",
+                null
+              ],
+              [
+                "12110901820066",
+                "2012-10-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994864772339542,
+        0.3887985943449374,
+        14.0
+      ],
+      "halfSize": [
+        6.277999999932945,
+        4.936499999836087,
+        3.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1497366626,
+        1108795235,
+        "PO TOI O RURAL COMMITTEE",
+        "115 PO TOI O",
+        []
+      ],
+      "coordinate": [
+        1.9948390231398956,
+        0.38878371986647653,
+        7.199999809265137
+      ],
+      "halfSize": [
+        5.8059999998658895,
+        5.9309999998658895,
+        1.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1497366627,
+        1108795469,
+        null,
+        "139 TAI AU MUN ROAD",
+        [
+          [
+            "DD241 269",
+            "New Grant Lot",
+            "D3207999",
+            [
+              [
+                "17120602620025",
+                "2017-10-17",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20042800680036",
+                "2019-07-26",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9949085765537957,
+        0.38883070941100684,
+        34.25
+      ],
+      "halfSize": [
+        4.659500000067055,
+        6.211855000816286,
+        1.9500007629394531
+      ]
+    },
+    {
+      "attributes": [
+        1497366628,
+        1810069885,
+        null,
+        null,
+        [
+          [
+            "DD241 219",
+            "New Grant Lot",
+            "C5121907",
+            [
+              [
+                "SK86787",
+                "1974-02-22",
+                "-",
+                null
+              ],
+              [
+                "SK92376",
+                "1978-10-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "SK179534",
+                "1991-03-08",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK510976",
+                "1996-07-29",
+                "LETTERS OF ADMINISTRATION GRANT NO. HCAG004300/96",
+                null
+              ],
+              [
+                "SK273598",
+                "1997-02-21",
+                "APPROVAL LETTER OF SUCCESSION BY DO/SK",
+                null
+              ],
+              [
+                "SK275451",
+                "1997-03-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK274455",
+                "1997-03-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK456634",
+                "2001-02-16",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "SK464002",
+                "2001-03-26",
+                "A SEALED COPY OF AN AMENDED ORDER ABSOLUTE IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "SK515243",
+                "2002-04-18",
+                "ASSIGNMENT",
+                "10000.0"
+              ],
+              [
+                "SK515242",
+                "2002-04-18",
+                "ASSENT",
+                null
+              ],
+              [
+                "SK537982",
+                "2002-10-07",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "SK537983",
+                "2002-11-09",
+                "DEED OF FAMILY ARRANGEMENT AND ASSENT",
+                null
+              ],
+              [
+                "SK549833",
+                "2003-04-01",
+                "A SEALED COPY OF ORDER FOR DISCHARGE IN THE DISTRICT COURT",
+                null
+              ],
+              [
+                "09092402730032",
+                "2009-09-10",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "150000.0"
+              ],
+              [
+                "09092402730011",
+                "2009-09-10",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "150000.0"
+              ],
+              [
+                "09092402730024",
+                "2009-09-10",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "09092402730082",
+                "2009-09-10",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "09092402730040",
+                "2009-09-10",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "09092402730071",
+                "2009-09-10",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "150000.0"
+              ],
+              [
+                "10081301390037",
+                "2010-03-04",
+                "ASSIGNMENT",
+                "960000.0"
+              ],
+              [
+                "11042800910039",
+                "2011-04-01",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "960000.0"
+              ],
+              [
+                "11042800910044",
+                "2011-04-01",
+                "ASSIGNMENT",
+                "960000.0"
+              ],
+              [
+                "11112101060019",
+                "2011-11-11",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "11112101060025",
+                "2011-11-11",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "19081401060044",
+                "2019-05-24",
+                "A SEALED COPY OF AN AMENDED CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "24092400910069",
+                "2019-10-14",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19112102330079",
+                "2019-10-14",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24062801290067",
+                "2024-06-19",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24071200560050",
+                "2024-06-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24081601190010",
+                "2024-08-10",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "24081601190021",
+                "2024-08-10",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948257671551168,
+        0.3888184607573285,
+        13.299999237060547
+      ],
+      "halfSize": [
+        3.7480000001378357,
+        4.403500000014901,
+        1.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366629,
+        1810150458,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948346333695228,
+        0.3887847178619552,
+        6.0
+      ],
+      "halfSize": [
+        3.6512000001966953,
+        3.318559999577701,
+        1.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1497366630,
+        1810165967,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948661369995442,
+        0.3887874403604279,
+        3.5
+      ],
+      "halfSize": [
+        2.4854449997656047,
+        2.105844999663532,
+        1.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1497366631,
+        1810166130,
+        null,
+        null,
+        [
+          [
+            "DD241 268",
+            "New Grant Lot",
+            "C3767441",
+            [
+              [
+                "14051201850078",
+                "2014-04-17",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948712799311032,
+        0.3887781550306914,
+        35.70000076293945
+      ],
+      "halfSize": [
+        4.771000000182539,
+        4.38399999961257,
+        4.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1497366632,
+        1910235024,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948424407676393,
+        0.3887956753301976,
+        7.349999904632568
+      ],
+      "halfSize": [
+        3.9008450000546873,
+        4.437094999477267,
+        2.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1497366633,
+        1910235031,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948477234858548,
+        0.3888003891535376,
+        6.0
+      ],
+      "halfSize": [
+        2.694405000191182,
+        2.782804999500513,
+        1.5
+      ]
+    },
+    {
+      "attributes": [
+        1497366634,
+        1910235035,
+        null,
+        null,
+        [
+          [
+            "DD241 146",
+            "Old Schedule Lot",
+            "C3766806",
+            [
+              [
+                "SK66042",
+                "1957-07-27",
+                "-",
+                null
+              ],
+              [
+                "SK134337",
+                "1988-09-14",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK134338",
+                "1988-10-11",
+                "STATUTORY DECLARATION BY LAU CHO (OR TSO) MEI",
+                null
+              ],
+              [
+                "SK134340",
+                "1988-10-18",
+                "-",
+                "718740.0"
+              ],
+              [
+                "SK142563",
+                "1989-04-21",
+                "-",
+                "1.0"
+              ],
+              [
+                "SK223027",
+                "1989-04-21",
+                "LEGAL CHARGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK142117",
+                "1989-04-24",
+                "-",
+                "62607.0"
+              ],
+              [
+                "SK141949",
+                "1989-04-29",
+                "ASSIGNMENT",
+                "438249.0"
+              ],
+              [
+                "SK146190",
+                "1989-06-23",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "SK145634",
+                "1989-06-23",
+                "-",
+                "62607.0"
+              ],
+              [
+                "SK147223",
+                "1989-08-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2400000.0"
+              ],
+              [
+                "SK147945",
+                "1989-09-18",
+                "ASSIGNMENT",
+                "2400000.0"
+              ],
+              [
+                "SK147946",
+                "1989-09-18",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK148408",
+                "1989-10-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2725000.0"
+              ],
+              [
+                "SK150204",
+                "1989-11-21",
+                "ASSIGNMENT",
+                "2725000.0"
+              ],
+              [
+                "SK150205",
+                "1989-11-21",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK198507",
+                "1992-11-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6200000.0"
+              ],
+              [
+                "SK200198",
+                "1993-01-09",
+                "ASSIGNMENT",
+                "6200000.0"
+              ],
+              [
+                "SK200199",
+                "1993-01-09",
+                "LEGAL CHARGE",
+                "TO SECURE BANKING FACILITIES TO THE EXTENT OF $4,000,000.00"
+              ],
+              [
+                "SK200197",
+                "1993-01-09",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK236519",
+                "1995-06-15",
+                "-",
+                "1.0"
+              ],
+              [
+                "SK236518",
+                "1995-06-15",
+                "-",
+                "1.0"
+              ],
+              [
+                "SK238513",
+                "1995-08-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK240960",
+                "1995-12-01",
+                "SALE AND PURCHASE AGREEMENT",
+                "7500000.0"
+              ],
+              [
+                "SK241513",
+                "1995-12-15",
+                "ASSIGNMENT",
+                "7500000.0"
+              ],
+              [
+                "SK241512",
+                "1995-12-15",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK242440",
+                "1996-01-27",
+                "LEGAL CHARGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "SK272421",
+                "1996-03-30",
+                "RE-REGISTRATION OF LEGAL CHARGE BY SUREWAY TEXTILE LIMITED",
+                null
+              ],
+              [
+                "SK257378",
+                "1996-08-22",
+                "AGREEMENT FOR SALE AND PURCHASE BY PERCEPTIVE INVESTMENTS LIMITED",
+                "7450000.0"
+              ],
+              [
+                "SK259595",
+                "1996-09-30",
+                "ASSIGNMENT",
+                "7450000.0"
+              ],
+              [
+                "SK259596",
+                "1996-09-30",
+                "LEGAL CHARGE",
+                "GENERAL BANKING FACILITIES TO THE EXTENT OF ALL MONEYS"
+              ],
+              [
+                "SK259594",
+                "1996-09-30",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK263704",
+                "1996-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7350000.0"
+              ],
+              [
+                "SK264822",
+                "1996-12-20",
+                "MORTGAGE",
+                "TO SECURE GENERAL BANKING FACILITIES TO UNLIMITED EXTENT"
+              ],
+              [
+                "SK264820",
+                "1996-12-20",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK264821",
+                "1996-12-20",
+                "ASSIGNMENT",
+                "7350000.0"
+              ],
+              [
+                "SK266548",
+                "1997-01-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7200000.0"
+              ],
+              [
+                "SK269003",
+                "1997-01-31",
+                "ASSIGNMENT",
+                "7200000.0"
+              ],
+              [
+                "SK269002",
+                "1997-01-31",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK269004",
+                "1997-01-31",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "SK274112",
+                "1997-03-20",
+                "AGREEMENT FOR SALE AND PURCHASE BY PERCEPTIVE INVESTMENTS LIMITED",
+                "7500000.0"
+              ],
+              [
+                "SK275010",
+                "1997-03-27",
+                "AGREEMENT FOR SALE AND PURCHASE BY PERCEPTIVE INVESTMENTS LIMITED",
+                "7850000.0"
+              ],
+              [
+                "SK275338",
+                "1997-04-15",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK275339",
+                "1997-04-15",
+                "ASSIGNMENT",
+                "7500000.0"
+              ],
+              [
+                "SK276379",
+                "1997-04-30",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "SK276380",
+                "1997-04-30",
+                "ASSIGNMENT",
+                "7850000.0"
+              ],
+              [
+                "SK336548",
+                "1997-07-05",
+                "CERTIFIED TRUE COPY OF ASSIGNMENT",
+                "15250000.0"
+              ],
+              [
+                "SK289946",
+                "1997-08-05",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK299480",
+                "1997-10-22",
+                "AGREEMENT FOR SALE AND PURCHASE BY SUREWAY TEXTILE LIMITED",
+                "10580000.0"
+              ],
+              [
+                "SK298219",
+                "1997-10-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "SK299481",
+                "1997-10-28",
+                "ASSIGNMENT",
+                "10580000.0"
+              ],
+              [
+                "SK299479",
+                "1997-10-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK327854",
+                "1998-05-13",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "SK336547",
+                "1998-08-28",
+                "STATUTORY DECLARATION OF CHAN TIM YIU RAYMONG",
+                null
+              ],
+              [
+                "SK362385",
+                "1998-12-15",
+                "AGREEMENT FOR SALE AND PURCHASE BY KAMWIN INVESTMENT LIMITED",
+                "5850000.0"
+              ],
+              [
+                "SK362817",
+                "1999-01-02",
+                "ASSIGNMENT",
+                "5850000.0"
+              ],
+              [
+                "SK362816",
+                "1999-01-02",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK362652",
+                "1999-01-09",
+                "AGREEMENT FOR SALE AND PURCHASE BY OTTA LIMITED",
+                "5530000.0"
+              ],
+              [
+                "SK364808",
+                "1999-02-09",
+                "LEGAL CHARGE/ MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "SK364807",
+                "1999-02-09",
+                "ASSIGNMENT",
+                "5530000.0"
+              ],
+              [
+                "SK364806",
+                "1999-02-09",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK477487",
+                "2001-06-04",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "5700000.0"
+              ],
+              [
+                "SK482968",
+                "2001-07-14",
+                "ASSIGNMENT",
+                "5700000.0"
+              ],
+              [
+                "SK482969",
+                "2001-07-14",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK497238",
+                "2001-10-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK497239",
+                "2001-10-13",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK517052",
+                "2002-04-10",
+                "MEMORANDUM FOR SUB-SALE AND SUB-PURCHASE BY INTERCHANGE LIMITED",
+                "5800000.0"
+              ],
+              [
+                "SK517493",
+                "2002-04-30",
+                "MORTGAGE BY TALIMA LIMITED",
+                null
+              ],
+              [
+                "SK517492",
+                "2002-04-30",
+                "ASSIGNMENT",
+                "5800000.0"
+              ],
+              [
+                "SK517494",
+                "2002-04-30",
+                "SECOND MORTGAGE BY TALIMA LIMITED",
+                null
+              ],
+              [
+                "SK530032",
+                "2002-07-18",
+                "AGREEMENT FOR SALE AND PURCHASE BY ALIBI LIMITED",
+                "6200000.0"
+              ],
+              [
+                "SK532621",
+                "2002-08-09",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK532622",
+                "2002-08-09",
+                "ASSIGNMENT",
+                "6200000.0"
+              ],
+              [
+                "SK532623",
+                "2002-08-09",
+                "MORTGAGE TO SECURE GENERAL CREDIT FACILITIES",
+                "TO SUCH EXTENT AS THE LENDER MAY IN ITS ABSOLUTE DISCRETION FROM TIME TO TIME DEEM FIT"
+              ],
+              [
+                "SK548824",
+                "2003-03-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6730000.0"
+              ],
+              [
+                "SK551212",
+                "2003-04-03",
+                "MORTGAGE",
+                "TO SECURE GENERAL BANKING FACILITIES TO AN UNLIMITED EXTENT"
+              ],
+              [
+                "SK551211",
+                "2003-04-03",
+                "ASSIGNMENT",
+                "6730000.0"
+              ],
+              [
+                "SK559036",
+                "2003-06-30",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES UNLIMITED EXTENT",
+                null
+              ],
+              [
+                "SK559035",
+                "2003-06-30",
+                "ASSIGNMENT",
+                "5600000.0"
+              ],
+              [
+                "SK604610",
+                "2004-05-20",
+                "AGREEMENT FOR SALE AND PURCHASE BY MAIN CHARTER ENTERPRISES LIMITED",
+                "12000000.0"
+              ],
+              [
+                "SK611170",
+                "2004-07-10",
+                "ASSIGNMENT",
+                "12000000.0"
+              ],
+              [
+                "SK611171",
+                "2004-07-10",
+                "MORTGAGE BY CHARTER ATLANTIC LIMITED",
+                null
+              ],
+              [
+                "SK622596",
+                "2004-11-19",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "SK622595",
+                "2004-11-19",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "05102000340172",
+                "2005-10-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9500000.0"
+              ],
+              [
+                "06012100170144",
+                "2006-01-11",
+                "ASSIGNMENT",
+                "9500000.0"
+              ],
+              [
+                "06111702470236",
+                "2006-10-19",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "06112202650032",
+                "2006-10-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "06121101560042",
+                "2006-11-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "07011701530010",
+                "2006-12-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "07030102080014",
+                "2007-01-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "07021603290085",
+                "2007-01-22",
+                "ASSIGNMENT",
+                "12000000.0"
+              ],
+              [
+                "07021603290098",
+                "2007-01-22",
+                "MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07072501080097",
+                "2007-07-05",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07072501080080",
+                "2007-07-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "09102002480090",
+                "2009-09-25",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "09102002480100",
+                "2009-09-25",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "09102002480118",
+                "2009-09-25",
+                "SECOND MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "09111200820015",
+                "2009-10-14",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "10032301910075",
+                "2010-02-25",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "14500000.0"
+              ],
+              [
+                "10041601180038",
+                "2010-03-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14500000.0"
+              ],
+              [
+                "10051001750043",
+                "2010-04-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "10051001750036",
+                "2010-04-19",
+                "ASSIGNMENT",
+                "14500000.0"
+              ],
+              [
+                "10110200960021",
+                "2010-10-08",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "10121602860140",
+                "2010-11-18",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "18800000.0"
+              ],
+              [
+                "11021803000205",
+                "2011-01-21",
+                "LEGAL CHARGE / MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "11021803000211",
+                "2011-01-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "11022202240067",
+                "2011-01-21",
+                "ASSIGNMENT",
+                "18800000.0"
+              ],
+              [
+                "11051303160018",
+                "2011-04-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "32000000.0"
+              ],
+              [
+                "11061602960044",
+                "2011-05-18",
+                "ASSIGNMENT",
+                "32000000.0"
+              ],
+              [
+                "11060303190110",
+                "2011-05-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "12052800950023",
+                "2012-05-09",
+                "RELEASE",
+                null
+              ],
+              [
+                "12110901820066",
+                "2012-10-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "12110901970020",
+                "2012-10-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "32500000.0"
+              ],
+              [
+                "13012501380665",
+                "2013-01-04",
+                "ASSIGNMENT",
+                "32500000.0"
+              ],
+              [
+                "13012501380673",
+                "2013-01-04",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "13020101200454",
+                "2013-01-04",
+                "RECEIPT ON DISCHARGE",
+                "ALL SUMS OF MONEY"
+              ],
+              [
+                "14052602140013",
+                "2014-01-09",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "14081202340037",
+                "2014-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "28000000.0"
+              ],
+              [
+                "14093002800018",
+                "2014-09-01",
+                "ASSIGNMENT",
+                "28000000.0"
+              ],
+              [
+                "17022301850087",
+                "2017-01-26",
+                "MORTGAGE",
+                "TO SECURE ALL SUMS OF MONEY INCLUDING GENERAL BANKING FACILITIES GRANTED"
+              ],
+              [
+                "17071900810167",
+                "2017-07-10",
+                "MORTGAGE",
+                "ALL MONEY"
+              ],
+              [
+                "18051102290078",
+                "2018-04-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "18112701330016",
+                "2018-11-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "32380000.0"
+              ],
+              [
+                "19011501180018",
+                "2018-12-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19010200670017",
+                "2018-12-21",
+                "ASSIGNMENT",
+                "32380000.0"
+              ],
+              [
+                "19080501700013",
+                "2019-07-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "37000000.0"
+              ],
+              [
+                "19101002450033",
+                "2019-07-29",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "19101002450027",
+                "2019-09-16",
+                "ASSIGNMENT",
+                "37000000.0"
+              ],
+              [
+                "19101002450046",
+                "2019-09-16",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "19101002450012",
+                "2019-09-16",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20112401110039",
+                "2020-10-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "21122201860020",
+                "2021-11-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "23033001860088",
+                "2023-03-06",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "35000000.0"
+              ],
+              [
+                "23052401700083",
+                "2023-05-05",
+                "ASSIGNMENT",
+                "35000000.0"
+              ],
+              [
+                "23053001670202",
+                "2023-05-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9948621457020232,
+        0.3888068606432677,
+        6.449999809265137
+      ],
+      "halfSize": [
+        3.163739999756217,
+        2.715024999342859,
+        2.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1497366635,
+        1910235047,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.994850335566103,
+        0.388801625617815,
+        6.699999809265137
+      ],
+      "halfSize": [
+        3.1592000001110137,
+        3.000769999809563,
+        2.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1497366636,
+        1910235049,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9948507403956663,
+        0.38880120457464507,
+        6.199999809265137
+      ],
+      "halfSize": [
+        3.1828850000165403,
+        3.0007700007408857,
+        1.2999999523162842
+      ]
+    }
+  ]
+}

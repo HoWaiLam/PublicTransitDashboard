@@ -1,0 +1,222 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1251999744,
+        1,
+        [
+          [
+            4997815850,
+            4,
+            "No Record",
+            "SHOP NO.S003B, G/F, BLOCK BUILDING 1E, HONG KONG SCIENCE PARK , 1 SCIENCE PARK EAST AVENUE, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999752
+        ]
+      ],
+      "coordinate": [
+        1.9933941264627006,
+        0.391394764726717,
+        20.950000762939453
+      ],
+      "halfSize": [
+        35.670000000391155,
+        36.169999999925494,
+        14.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1251999745,
+        1,
+        [
+          [
+            2997811780,
+            4,
+            "HUNG FOOK TONG",
+            "SHOP S010, G/F, BUILDING 1W, PHASE 1, HONG KONG SCIENCE PARK, 1 SCIENCE PARK WEST AVENUE, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999754
+        ]
+      ],
+      "coordinate": [
+        1.9933869785156566,
+        0.3913921811204436,
+        23.399999618530273
+      ],
+      "halfSize": [
+        36.325000000186265,
+        39.29116499982774,
+        17.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1251999746,
+        1,
+        [
+          [
+            2997809279,
+            4,
+            "THE HONG KONG INSTITUTE OF BIOTECHNOLOGY LIMITED",
+            "ROOM 107, 1/F, HONG KONG INSTITUTE OF BIOTECHNOLOGY, 2 BIOTECHNOLOGY AVENUE, 12 MILES TAI PO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999811
+        ]
+      ],
+      "coordinate": [
+        1.9934005969511766,
+        0.39134671997741477,
+        18.049999237060547
+      ],
+      "halfSize": [
+        34.00499999988824,
+        18.455249999649823,
+        11.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1251999747,
+        1,
+        [
+          [
+            2997804186,
+            4,
+            "Subway",
+            "UNIT S131, 1/F, LAKESIDE 1, HONG KONG SCIENCE PARK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999871
+        ]
+      ],
+      "coordinate": [
+        1.9933676899251571,
+        0.3914084041268739,
+        10.449999809265137
+      ],
+      "halfSize": [
+        64.91923000011593,
+        54.42289999965578,
+        3.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1251999748,
+        5,
+        [
+          [
+            2997811665,
+            4,
+            "Hana-Musubi",
+            "UNIT S012, G/F, BUILDING 1W, PHASE 1, HONG KONG SCIENCE PARK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2997813041,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF UNIT S046A, G/F, BUILDING 10W, PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2997814132,
+            4,
+            "Pizza Hut",
+            "UNIT S031A, G/F, PHASE 2, BUILDING 8W, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2997814211,
+            4,
+            "THE FOREST BAKERY",
+            "UNIT S046C, G/F., BUILDING 10W, PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3697804632,
+            5,
+            "fusion",
+            "PORTIONS OF UNITS S071, S076 AND S077, G/F.,BUILDING 12W, PH 3, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999934
+        ]
+      ],
+      "coordinate": [
+        1.9933291793732115,
+        0.3914345494089993,
+        9.899999618530273
+      ],
+      "halfSize": [
+        77.43091499991715,
+        82.13941500056535,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1251999749,
+        1,
+        [
+          [
+            3695800991,
+            5,
+            "Market Place",
+            "SHOP NO.16 (PORTIONS) LG/F, MAYFAIR LANE, 21 FO CHUN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1252000000
+        ]
+      ],
+      "coordinate": [
+        1.9932730788552488,
+        0.3915009810271615,
+        4.099999904632568
+      ],
+      "halfSize": [
+        72.3653301592567,
+        57.66776300506899,
+        3.4000000953674316
+      ]
+    }
+  ]
+}

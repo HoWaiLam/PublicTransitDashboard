@@ -1,0 +1,129 @@
+{
+  "features": [
+    {
+      "attributes": [
+        956301312,
+        2,
+        [
+          [
+            2915806050,
+            4,
+            "\u751c\u8a69\u601d\u7cd6\u83d3\u5e97",
+            "SHOP NO. 20, WAH FU (II) COMMERCIAL COMPLEX, WAH FU (II) ESTATE, POKFULAM, SOUTHERN, HONG KONG",
+            null,
+            "2026-03-21"
+          ],
+          [
+            3515800109,
+            8,
+            "\u5927\u751f\u71d2\u814a\u5e97",
+            "SHOP 35 & 36, 5/F., MARKET, WAH FU (II) ESTATE, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          956301332
+        ]
+      ],
+      "coordinate": [
+        1.9920532437297835,
+        0.3883903608189598,
+        57.79999923706055
+      ],
+      "halfSize": [
+        23.59750000014901,
+        40.96949999965727,
+        11.39999771118164
+      ]
+    },
+    {
+      "attributes": [
+        956301313,
+        1,
+        [
+          [
+            3515800084,
+            8,
+            "\u83ef\u5bcc\u4fe1\u5fb7\u71d2\u81d8",
+            "STALL 13+14, G/F, MARKET, WAH FU (I) ESTATE, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          956301338
+        ]
+      ],
+      "coordinate": [
+        1.9920679045943745,
+        0.3883407669405533,
+        35.349998474121094
+      ],
+      "halfSize": [
+        35.096000000368804,
+        64.5625,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        956301314,
+        4,
+        [
+          [
+            2915163814,
+            4,
+            "APPOLO (MAGIC HOUSE) SUPERSTORE LTD",
+            "SHOP NO.21, G/F, WAH FU (I) SHOPPING CENTRE, WAH FU ESTATE, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3615028645,
+            5,
+            "Wellcome",
+            "SHOP 2B, WAH FU (I) SHOPPING CENTRE, POKFULAM, SOUTHERN, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3615800632,
+            5,
+            "\u597d\u904b\u8089\u98df",
+            "SHOP NO. 41 - 42, G/F., WAH FU (I) SHOPPING CENTRE, WAH FU ESTATE, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3615801787,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP NO. 11, G/F., WAH FU (I) SHOPPING CENTRE, WAH FU ESTATE, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          956301509
+        ]
+      ],
+      "coordinate": [
+        1.9920745505100974,
+        0.3883385684592871,
+        46.349998474121094
+      ],
+      "halfSize": [
+        6.281255000270903,
+        14.153810000047088,
+        3.75
+      ]
+    }
+  ]
+}

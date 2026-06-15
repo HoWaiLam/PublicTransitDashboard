@@ -1,0 +1,249 @@
+{
+  "name": "premiseFoodLicenses",
+  "label": "Premises Holding Food License",
+  "groupDisplay": 1,
+  "attributes": [
+    {
+      "name": "foodLicenseIID",
+      "label": "Food License Details",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "noData": 4294967295,
+      "show": 0
+    },
+    {
+      "linkHeader": 1,
+      "name": "foodLicenseCount",
+      "label": "Number of Premises Holding Food License",
+      "type": "SCALAR",
+      "componentType": "UINT8",
+      "noData": 0,
+      "required": 1,
+      "show": 2,
+      "representations": [
+        {
+          "type": "continuous",
+          "label": "Premise Holding Food Licenses",
+          "legendLabel": "Number of Premises Holding Food License",
+          "ranges": [
+            0,
+            1,
+            5.0,
+            10.0,
+            15.0,
+            20.0,
+            25.0,
+            30.0,
+            35.0,
+            40.0,
+            45.0,
+            50.0,
+            55.0,
+            60.0,
+            65.0,
+            70.0,
+            75.0,
+            80.0,
+            85.0
+          ],
+          "colors": [
+            [
+              255,
+              255,
+              255
+            ],
+            [
+              153,
+              179,
+              255
+            ],
+            [
+              143,
+              171,
+              252
+            ],
+            [
+              133,
+              163,
+              249
+            ],
+            [
+              123,
+              155,
+              246
+            ],
+            [
+              113,
+              147,
+              243
+            ],
+            [
+              103,
+              139,
+              240
+            ],
+            [
+              93,
+              131,
+              237
+            ],
+            [
+              83,
+              123,
+              234
+            ],
+            [
+              73,
+              115,
+              231
+            ],
+            [
+              63,
+              107,
+              228
+            ],
+            [
+              53,
+              99,
+              225
+            ],
+            [
+              43,
+              91,
+              222
+            ],
+            [
+              33,
+              83,
+              219
+            ],
+            [
+              23,
+              75,
+              216
+            ],
+            [
+              13,
+              67,
+              213
+            ],
+            [
+              3,
+              59,
+              210
+            ],
+            [
+              0,
+              51,
+              204
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "foodLicenses",
+      "label": "Food Licenses",
+      "type": "ARRAY",
+      "componentType": "OBJECT",
+      "componentSchema": {
+        "attributes": [
+          {
+            "name": "licenseNo",
+            "label": "License Number",
+            "type": "SCALAR",
+            "componentType": "UINT32",
+            "show": 1
+          },
+          {
+            "componentHeader": 1,
+            "name": "licenseType",
+            "label": "License Type",
+            "type": "ENUM",
+            "enumType": "licenseEnumTypes",
+            "show": 1
+          },
+          {
+            "name": "premiseName",
+            "label": "Premise Name",
+            "type": "STRING",
+            "show": 1
+          },
+          {
+            "name": "address",
+            "label": "Address",
+            "type": "STRING",
+            "show": 1
+          },
+          {
+            "name": "additionalInfo",
+            "label": "Additional License Info",
+            "type": "BITFLAG_ENUM",
+            "show": 1
+          },
+          {
+            "name": "expiryDate",
+            "label": "Expiry Date",
+            "type": "STRING",
+            "show": 1
+          }
+        ]
+      },
+      "required": 1,
+      "show": 1
+    }
+  ],
+  "enums": {
+    "licenseEnumTypes": {
+      "name": "License Type",
+      "valueType": "UINT32",
+      "values": [
+        {
+          "value": 0,
+          "name": "Composite Food Shop Licence"
+        },
+        {
+          "value": 1,
+          "name": "Bakery Licence"
+        },
+        {
+          "value": 2,
+          "name": "Cold Store Licence"
+        },
+        {
+          "value": 3,
+          "name": "Factory Canteen Licence"
+        },
+        {
+          "value": 4,
+          "name": "Food Factory Licence"
+        },
+        {
+          "value": 5,
+          "name": "Fresh Provision Shop Licence"
+        },
+        {
+          "value": 6,
+          "name": "Frozen Confection Factory Licence"
+        },
+        {
+          "value": 7,
+          "name": "Milk Factory Licence"
+        },
+        {
+          "value": 8,
+          "name": "Siu Mei and Lo Mei Shop Licence"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "layer": "building",
+      "attribute": "buildingIID"
+    }
+  ],
+  "selection": "foodLicenseIID",
+  "featuresDir": "premiseFoodLicenses",
+  "featuresTileDepth": 5
+}

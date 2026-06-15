@@ -1,0 +1,549 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1361051648,
+        13,
+        [
+          [
+            2211204806,
+            0,
+            "McDonald's",
+            "SHOP 11B, G/F, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2211221678,
+            0,
+            "\u7406\u60f3\u5e97\u65fa\u65fa\u5496\u5561\u5ea7",
+            "SHOP NO. G6, G/F, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-02-19"
+          ],
+          [
+            2211800491,
+            0,
+            "\u80af\u5fb7\u57fa",
+            "SHOP NO. G8, G/F, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2211801546,
+            0,
+            "WEALTHY GARDEN",
+            "SHOP NOS. 11 & 12, UG/F., ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2211803782,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 11, 1/F., ISLAND RESORT MALL, NO. 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2211804217,
+            0,
+            "GENKI SUSHI",
+            "SHOP NO. 17 ON GROUND FLOOR, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2211804891,
+            0,
+            "\u4eac\u90fd\u6599\u7406",
+            "SHOP NO. G7, ON G/F., ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2211805283,
+            0,
+            "Milk Cafe",
+            "SHOP NO. G16, G/F., ISLAND RESORT MALL, ISLAND RESORT, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2211805894,
+            0,
+            "MOU MOU CLUB",
+            "SHOP NOS. 8B, 9 & 10, UG/F., ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2211809939,
+            0,
+            "Gyukaku Japanese Yakiniku Restaurant",
+            "SHOP G11A, G/F., ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-03-29"
+          ],
+          [
+            2211810076,
+            0,
+            "PIZZAEXPRESS",
+            "SHOP G10, G/F, ISLAND RESORT MALL, NO. 28 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2211810100,
+            0,
+            "Johnny's Kitchen",
+            "SHOP NO. 12 & 15, G/F., ISLAND RESORT MALL, NO. 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            3111804880,
+            1,
+            "\u871c\u96ea\u51b0\u57ce",
+            "SHOP 58, UG/F, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051654
+        ]
+      ],
+      "coordinate": [
+        1.9940535953229488,
+        0.38862003083815033,
+        20.549999237060547
+      ],
+      "halfSize": [
+        116.210999999661,
+        105.5230000000447,
+        15.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1361051649,
+        1,
+        [
+          [
+            3111152910,
+            1,
+            "\u5229\u82d1\u7c89\u9eb5",
+            "SHOP NO. 73, G/F, HARMONY GARDEN, SIU SAI WAN, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051660
+        ]
+      ],
+      "coordinate": [
+        1.994027284651146,
+        0.38859967676135493,
+        7.150000095367432
+      ],
+      "halfSize": [
+        38.85450000036508,
+        41.27500000037253,
+        2.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1361051650,
+        7,
+        [
+          [
+            2211130455,
+            0,
+            "McDonald's",
+            "SHOP C10-C19, G/F, CARPARK BLDG OF COM BLDG, CHEERFUL GDN, 23 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2211802132,
+            0,
+            "\u5bcc\u8208",
+            "SHOP NOS. 26-27, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2211806028,
+            0,
+            "\u65b0\u6a4b\u7f8e\u98df",
+            "SHOP NO. 43, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3111800198,
+            1,
+            "\u5bcc\u6e90\u6f6e\u6d32\u9eb5\u57ce",
+            "SHOP NO. 11-12, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-11-11"
+          ],
+          [
+            3111802626,
+            1,
+            "\u83ef\u9054\u53f0\u7063\u5c0f\u98df",
+            "SHOP NO. 40, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3111804491,
+            1,
+            "\u5b8f\u5fb7",
+            "SHOP NO. 44, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-29"
+          ],
+          [
+            3911804994,
+            1,
+            "Pho Phuong Quang Vietnam Restaurant",
+            "SHOP 35, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051661
+        ]
+      ],
+      "coordinate": [
+        1.9940469280414403,
+        0.38856333524160314,
+        7.800000190734863
+      ],
+      "halfSize": [
+        84.88499999977648,
+        67.05499999970198,
+        2.3999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1361051651,
+        1,
+        [
+          [
+            2211153085,
+            0,
+            "\u591a\u7f8e\u9910\u5ef3",
+            "SHOP 1-9, 1/F, 8 COMMERCIAL TOWER, 8 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051699
+        ]
+      ],
+      "coordinate": [
+        1.9939897917766993,
+        0.3886328927372044,
+        59.20000076293945
+      ],
+      "halfSize": [
+        22.233700000215322,
+        23.40089000016451,
+        54.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1361051652,
+        8,
+        [
+          [
+            2211802406,
+            0,
+            "\u771f \u77e5 \u5473",
+            "SHOP NOS. 54-56, G/F., HARMONY GARDEN, 9 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2211804457,
+            0,
+            "Tai Hing",
+            "SHOP NO. 8, G/F., HARMONY GARDEN, NO. 9 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-03-14"
+          ],
+          [
+            2211808617,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 6, G/F., HARMONY GARDEN, NO. 9 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2211810535,
+            0,
+            "\u767e\u559c\u7ca5\u5e97",
+            "SHOP NO. 50-51, G/F, HARMONY GARDEN, 9 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2211811617,
+            0,
+            "\u5927\u54e5\u96de\u98ef",
+            "SHOP NOS. 59 AND 62-64, G/F, HARMONY GARDEN, NO. 9 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3111802796,
+            1,
+            "\u610f\u8814\u5c4b",
+            "SHOP NO. 66, G/F., HARMONY GARDEN, 9 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-18"
+          ],
+          [
+            3111803373,
+            1,
+            "\u7c73\u7dda\u56ab",
+            "SHOP 76, G/F., HARMONY GARDEN, NO. 9 SIU SAI WAN ROAD, SIU SAI WAN, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-05"
+          ],
+          [
+            3911804860,
+            1,
+            "(no record found)",
+            "SHOP NO. 61, G/F, HARMONY GARDEN, 9 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051734
+        ]
+      ],
+      "coordinate": [
+        1.9940060553460721,
+        0.38859883432945896,
+        15.300000190734863
+      ],
+      "halfSize": [
+        23.024809999857098,
+        26.36136000044644,
+        9.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1361051653,
+        13,
+        [
+          [
+            2211806532,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 302, 3/F., SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2211806930,
+            0,
+            "Kam Wah Restaurant",
+            "STALL NOS. 68 & 69, G/F., SIU SAI WAN MARKET, CHAI WAN , HONG KONG",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2211807094,
+            0,
+            "Metropolis Cuisine",
+            "SHOP NO. 303, THIRD FLOOR, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2211807535,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP 402B, 4/F., SIU SAI WAN PLAZA, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2211807881,
+            0,
+            "MOMOKU & RUD",
+            "SHOP NO. 111, 1/F., SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2211808024,
+            0,
+            "Cafe de Coral",
+            "SHOP 109, FIRST FLOOR, SIU SAI WAN PLAZA (FORMING PART OF COMMERCIAL / CAR PARK BLOCKS), SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-10"
+          ],
+          [
+            2211809531,
+            0,
+            "Sushi Express",
+            "SHOP NO. G02-04, G/F., SIU SAI WAN PLAZA, 10 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2211810146,
+            0,
+            "CROWN",
+            "SHOP NO. G10, G/F, SIU SAI WAN PLAZA, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-04"
+          ],
+          [
+            2211810784,
+            0,
+            "LIANG SHE HAN BUY GOOD (SIU SAI WAN)",
+            "SHOP NO. G01, G/F, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2211811228,
+            0,
+            "CAFE DE PAPA",
+            "SHOP NO. 119, 119A, 120, 1/F., SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-29"
+          ],
+          [
+            3111803258,
+            1,
+            "\u4e2d\u8208\u725b\u96dc\u7c89\u9eb5",
+            "STALL 49 & 50, G/F., SIU SAI WAN MARKET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            3111803708,
+            1,
+            "(no record found)",
+            "STALL NOS. 24-25, G/F., SIU SAI WAN MARKET, SIU SAI WAN ESTATE, NO. 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-30"
+          ],
+          [
+            3111804738,
+            1,
+            "Luckin Coffee",
+            "SHOP NO. 11, GROUND FLOOR, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051782
+        ]
+      ],
+      "coordinate": [
+        1.9940163405501188,
+        0.38855813629655267,
+        16.350000381469727
+      ],
+      "halfSize": [
+        38.79738000035286,
+        55.970285000279546,
+        10.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1361051654,
+        5,
+        [
+          [
+            2211139595,
+            0,
+            "\u9b5a\u4f60\u76f8\u805a\u9178\u83dc\u9b5a",
+            "SHOP NO. 49-50, G/F, FULLVIEW GARDEN COMMERCIAL CENTRE, 18 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2211803302,
+            0,
+            "BISTRO QUOTIDIAN",
+            "SHOP 3, G/F., FULLVIEW SHOPPING CENTRE, 18 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3111804233,
+            1,
+            "HKA1",
+            "SHOP NO. 47, G/F, FULLVIEW GARDEN COMMERCIAL CENTRE, NO. 18 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3111804473,
+            1,
+            "Rolling Coffee Brewery",
+            "SHOP 155-156, 1/F., FULLVIEW GARDEN COMMERCIAL CENTRE, 18 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-03-11"
+          ],
+          [
+            3111804747,
+            1,
+            "\u8208\u8a18\u96f2\u541e\u9eb5",
+            "SHOP NOS. 13, 13A & 13C, G/F, FULLVIEW GARDEN COMMERCIAL CENTRE, NO. 18 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-08-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051798
+        ]
+      ],
+      "coordinate": [
+        1.994061560683547,
+        0.3885542543063081,
+        11.050000190734863
+      ],
+      "halfSize": [
+        25.480470000300556,
+        24.674805000424385,
+        4.649999618530273
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "features": [
+    {
+      "attributes": [
+        444596224,
+        6,
+        [
+          [
+            2193000496,
+            1,
+            "Top Bread \u62d3\u6bd4\u6b77(\u9eb5\u5305\u897f\u9905\u5c08\u9580\u5e97)",
+            "SHOP NO. 11, G/F, PO TIN SHOPPING CENTRE, PO TIN INTERIM HOUSING, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2993809721,
+            4,
+            "\u65b0\u9f8d\u57ce\u9ede\u5fc3\u5c0f\u5eda",
+            "SHOP STALL NO. 25-28, G/F, PO TIN MARKET, PO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            2993809730,
+            4,
+            "\u69ae\u83ef\u7c89\u9eb5\u7ca5\u5e97",
+            "SHOP STALL NO. 29 & 30, G/F, PO TIN MARKET, PO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2993810248,
+            4,
+            "\u58f9\u559c.\u5439\u6c34\u5c0f\u5eda",
+            "SHOP STALL NO. 32 & 33, G/F, PO TIN MARKET, PO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3693802276,
+            5,
+            "\u5b9c\u8208\u8089\u6a94\u5b9c\u8208\u51b0\u9bae\u5bb6\u79bd",
+            "SHOP STALL NO.45 & 46, G/F, PO TIN MARKET, PO TIN INTERIM HOUSING, 99 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3693802799,
+            5,
+            "\u6de6\u6797\u9bae\u9b5a",
+            "STALL NO. 44, G/F, MARKET, PO TIN SHOPPING CENTRE, PO TIN ESTATE, 99 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          444596230
+        ]
+      ],
+      "coordinate": [
+        1.98909335585551,
+        0.39111908320835537,
+        23.44999885559082
+      ],
+      "halfSize": [
+        30.21875,
+        39.125,
+        9.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        444596225,
+        1,
+        [
+          [
+            2993801718,
+            4,
+            "HEALTHY FOOD PRODUCTION",
+            "ROOM 17, G/F, BLOCK 10, TIN LOK HOUSE, TIN KING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          444596248
+        ]
+      ],
+      "coordinate": [
+        1.989063196368337,
+        0.39107882047305076,
+        39.89999771118164
+      ],
+      "halfSize": [
+        63.685499999672174,
+        39.77500000037253,
+        26.799999237060547
+      ]
+    }
+  ]
+}

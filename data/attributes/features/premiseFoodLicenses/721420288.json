@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        721420288,
+        2,
+        [
+          [
+            2994803340,
+            4,
+            "Fusion",
+            "STALL NO. 8, D.D. 104, LOT NO. 4665, G/F, FAIRVIEW PARK COMMERCIAL CENTRE, TAI SANG WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2994803359,
+            4,
+            "Fusion",
+            "STALL NO. 5, D.D. 104, LOT NO. 4665, G/F, FAIRVIEW PARK COMMERCIAL CENTRE, TAI SANG WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          721420973
+        ]
+      ],
+      "coordinate": [
+        1.9904170809076343,
+        0.3921917004886414,
+        6.050000190734863
+      ],
+      "halfSize": [
+        3.171779999975115,
+        4.380499999970198,
+        2.450000047683716
+      ]
+    }
+  ]
+}

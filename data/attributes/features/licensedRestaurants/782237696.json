@@ -1,0 +1,74 @@
+{
+  "features": [
+    {
+      "attributes": [
+        782237696,
+        1,
+        [
+          [
+            2294002986,
+            0,
+            "\u77f3\u6e56\u5858\u9910\u5ef3",
+            "DD 106, LOT 364A, SHEK WU TONG, PAT HEUNG, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          782237896
+        ]
+      ],
+      "coordinate": [
+        1.9909429340991307,
+        0.39142714806274403,
+        14.949999809265137
+      ],
+      "halfSize": [
+        3.7370700002647936,
+        4.80350000038743,
+        2.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        782237697,
+        2,
+        [
+          [
+            2294811250,
+            0,
+            "KONG HA KITCHEN",
+            "UNIT G01, G/F, POK OI SERVICE BUILDING, POK OI KONG HA WAI VILLAGE, 71 KAM SHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ],
+          [
+            2294811311,
+            0,
+            "\u5728\u4e00\u8d77",
+            "UNIT G02, G/F, POK OI SERVICE BUILDING, POK OI KONG HA WAI VILLAGE, 71 KAM SHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          782238718
+        ]
+      ],
+      "coordinate": [
+        1.9909355920518146,
+        0.39151012218947845,
+        16.450000762939453
+      ],
+      "halfSize": [
+        53.34010499995202,
+        44.66175499930978,
+        6.250000476837158
+      ]
+    }
+  ]
+}

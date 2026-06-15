@@ -1,0 +1,1271 @@
+{
+  "features": [
+    {
+      "attributes": [
+        905969664,
+        1,
+        [
+          [
+            2292805798,
+            0,
+            "\u6708\u4f34\u5802",
+            "SHOP 108, G/F, BLOCK 22, HOI YUE MANSION, RIVIERA GARDENS, 1-5 YI LOK STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905969715
+        ]
+      ],
+      "coordinate": [
+        1.9916787004079413,
+        0.3903005462863795,
+        66.6500015258789
+      ],
+      "halfSize": [
+        14.169000000227243,
+        16.073499999940395,
+        42.04999923706055
+      ]
+    },
+    {
+      "attributes": [
+        905969665,
+        1,
+        [
+          [
+            2291803430,
+            0,
+            "RICH GARDEN RESTAURANT",
+            "LEVEL 4, COMMERCIAL ACCOMMODATION, VILLA ESPLANADA, NO. 8 NGA YING CHAU STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905969728
+        ]
+      ],
+      "coordinate": [
+        1.9915341852534119,
+        0.3902897132796532,
+        16.700000762939453
+      ],
+      "halfSize": [
+        45.60041500022635,
+        49.846830000169575,
+        5.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        905969666,
+        1,
+        [
+          [
+            2291800927,
+            0,
+            "WAN KEE RESTAURANT",
+            "SHOP 5, CHEUNG WANG SHOPPING CENTRE, CHEUNG WANG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905969940
+        ]
+      ],
+      "coordinate": [
+        1.9913439089424678,
+        0.39019592972661915,
+        92.35000610351562
+      ],
+      "halfSize": [
+        29.031344999559224,
+        31.283489999361336,
+        5.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        905969667,
+        1,
+        [
+          [
+            2291802871,
+            0,
+            "Olbye",
+            "G/F, TSING YI SWIMMING POOL, 51 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905969949
+        ]
+      ],
+      "coordinate": [
+        1.9915505890203957,
+        0.3901884869471712,
+        15.40000057220459
+      ],
+      "halfSize": [
+        12.851044999901205,
+        60.94022500049323,
+        8.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        905969668,
+        1,
+        [
+          [
+            2291001937,
+            0,
+            "\u91d1\u5bf6\u8336\u9910\u5ef3",
+            "G/F, NO. 5, TSING YU NEW VILLAGE AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970030
+        ]
+      ],
+      "coordinate": [
+        1.99145145129569,
+        0.39017857419871194,
+        14.0
+      ],
+      "halfSize": [
+        6.0065000001341105,
+        5.729530000127852,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        905969669,
+        3,
+        [
+          [
+            2291802686,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. S3, GROUND FLOOR, TSING YI ESTATE COMMERCIAL COMPLEX, TSING YI ESTATE, 10 FUNG SHUE WO ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2291803740,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. S1-S2, GROUND FLOOR , TSING YI SHOPPING CENTRE, TSING YI ESTATE, 10 FUNG SHUE WO ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2291805409,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NOS. S6-7, G/F, TSING YI SHOPPING CENTRE, TSING YI ESTATE, 10 FUNG SHUE WO ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970126
+        ]
+      ],
+      "coordinate": [
+        1.9914788614820451,
+        0.3901588296567078,
+        18.75
+      ],
+      "halfSize": [
+        23.539499999955297,
+        23.845499999821186,
+        10.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        905969670,
+        2,
+        [
+          [
+            2291801887,
+            0,
+            "\u6cf0\u5beb\u610f",
+            "SHOP NO. 28, 2/F, SHOPPING CENTRE, KWAI SHING WEST ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2291802862,
+            0,
+            "\u65b0\u5927\u660c\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP NO. 13, G/F, SHOPPING CENTRE, KWAI SHING WEST ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970212
+        ]
+      ],
+      "coordinate": [
+        1.9915651442150792,
+        0.39014528669502013,
+        10.699999809265137
+      ],
+      "halfSize": [
+        11.04281000001356,
+        18.26049999985844,
+        5.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        905969671,
+        1,
+        [
+          [
+            2291002505,
+            0,
+            "\u8000\u8a18\u6ef7\u6c34\u98ef\u5e97",
+            "G/F, NO. 25, TAI WONG HA RESITE VILLAGE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970257
+        ]
+      ],
+      "coordinate": [
+        1.9914411057208516,
+        0.3901415551298788,
+        13.300000190734863
+      ],
+      "halfSize": [
+        6.371729999780655,
+        5.525024999864399,
+        3.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        905969672,
+        1,
+        [
+          [
+            2291001283,
+            0,
+            "\u91d1\u714c\u7f8e\u98df\u9910\u5ef3",
+            "NO. 1, G/F, SAN UK RESITE VILLAGE, TSING SUM STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970292
+        ]
+      ],
+      "coordinate": [
+        1.9914323023358504,
+        0.39013576270660133,
+        13.800000190734863
+      ],
+      "halfSize": [
+        6.122504999861121,
+        5.315000000409782,
+        3.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        905969673,
+        1,
+        [
+          [
+            2292804069,
+            0,
+            "TAK HING YUEN SEAFOOD RESTAURANT",
+            "SHOP NOS G21-28 & 37, G/F, WATERSIDE PLAZA, 38 WING SHUN STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970348
+        ]
+      ],
+      "coordinate": [
+        1.9916727079103491,
+        0.3903203209031391,
+        11.850000381469727
+      ],
+      "halfSize": [
+        47.40599999995902,
+        48.323499999940395,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        905969674,
+        2,
+        [
+          [
+            2292001873,
+            0,
+            "\u91d1\u838e\u5821",
+            "SHOP NO. 121, PODIUM FLOOR, PODIUM A, TOWER 1-4, RIVIERA GARDENS, 1-7 YI HONG STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2292805521,
+            0,
+            "\u5473\u6e90\u51b0\u5ba4",
+            "SHOP 120, PODIUM FLOOR, RIVIERA GARDEN, 1-7 YI HONG STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970349
+        ]
+      ],
+      "coordinate": [
+        1.9916594629247344,
+        0.39030378263731536,
+        7.25
+      ],
+      "halfSize": [
+        52.7426249999553,
+        71.56550000049174,
+        3.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        905969675,
+        2,
+        [
+          [
+            2291801373,
+            0,
+            "Super Super",
+            "SHOP NO. 319, LEVEL 3, CHEUNG FAT SHOPPING CENTRE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2291803874,
+            0,
+            "Yu Mai Soup Plus",
+            "SHOP 211 , 2/F, CHEUNG FAT SHOPPING CENTRE, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970350
+        ]
+      ],
+      "coordinate": [
+        1.9914789626272549,
+        0.3902987465321627,
+        10.649999618530273
+      ],
+      "halfSize": [
+        85.30050000036135,
+        46.381000000052154,
+        5.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        905969676,
+        2,
+        [
+          [
+            2291002286,
+            0,
+            "\u8cd3\u589f\u51b0\u5ba4",
+            "SHOP NO.1, LEVEL 1, COMMERCIAL BLOCK, VILLA ESPLANADA, 8 NGA YING CHAU STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-13"
+          ],
+          [
+            3191802019,
+            1,
+            "\u91d1\u6f6e\u8208\u725b\u96dc\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP NO. 2, LEVEL 1, COMMERCIAL BLOCK, VILLA ESPLANADA , 8 NGA YING CHAU STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970351
+        ]
+      ],
+      "coordinate": [
+        1.991536012101027,
+        0.39028909649713106,
+        7.899999618530273
+      ],
+      "halfSize": [
+        124.88934373873053,
+        101.778210000135,
+        3.999999761581421
+      ]
+    },
+    {
+      "attributes": [
+        905969677,
+        9,
+        [
+          [
+            2292001864,
+            0,
+            "\u6d77\u6ff1\u934b\u6c23\u5c0f\u5eda",
+            "SHOP 47-48, 1/F., MARKET, PODIUM D, RIVIERA GARDENS, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2292003116,
+            0,
+            "\u677e\u677f\u65e5\u672c\u6599\u7406",
+            "SHOP 108-109, G/F., HOI SAN MANSION AND HOI NGAN MANSION, RIVIERA GARDENS, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2292803109,
+            0,
+            "\u65b0\u77e5\u5473\u8336\u9910\u5ef3",
+            "SHOP 119A, G/F, PODIUM B, RIVIERA GARDENS, 2-12 YI HONG STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2292803233,
+            0,
+            "\u6d25\u6d25\u5eda\u623f",
+            "SHOP 119C, G/F, PODIUM B, TOWER 6, RIVIERA GARDENS, 2-12 YI HONG STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2292806029,
+            0,
+            "\u91d1\u6c99\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP 112, PODIUM FLOOR, PODIUM B OF RIVIERA GARDENS, 2-12 YI HONG STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2292807235,
+            0,
+            "\u5ddd\u9999\u8a18\u8fb2\u5bb6\u83dc",
+            "SHOP NO. 111, G/F, BLOCK 12, RIVIERA GARDENS, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2292808210,
+            0,
+            "\u5690\u9ede",
+            "SHOP M32, 1/F, PODIUM D, RIVIERA MARKET, RIVIERA GARDENS, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3192802539,
+            1,
+            "Unique Meal",
+            "SHOP NO. 109, PODIUM FLOOR, PODIUM B, RIVIERA GARDENS, NOS. 2-12 YI HONG STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3192802645,
+            1,
+            "\u7f8e\u98df\u8ed2",
+            "SHOP NO. 24, 1/F, RIVIERA MARKET, TOWER 16-19, PODIUM D, RIVIERA GARDENS, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970359
+        ]
+      ],
+      "coordinate": [
+        1.9916419250837012,
+        0.39027457367585294,
+        7.849999904632568
+      ],
+      "halfSize": [
+        96.0954900002107,
+        43.92054499965161,
+        5.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        905969678,
+        2,
+        [
+          [
+            2291805667,
+            0,
+            "Marugame",
+            "SHOP 225, 2/F, MARITIME SQUARE 2, 31 TSING KING ROAD, TSING YI, KWAI TSING, NEW TERRITORIES",
+            null,
+            "2026-09-21"
+          ],
+          [
+            3191802107,
+            1,
+            "GRINDIE",
+            "SHOP UNITS 186-187, 1/F, MARITIME SQUARE 2, 31 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970360
+        ]
+      ],
+      "coordinate": [
+        1.9915516335924943,
+        0.3902579564381424,
+        12.800000190734863
+      ],
+      "halfSize": [
+        97.99022500030696,
+        48.42334909463534,
+        8.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        905969679,
+        37,
+        [
+          [
+            2291001663,
+            0,
+            "KFC",
+            "SHOP UNIT 301, LEVEL 3, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            2291002000,
+            0,
+            "ONE CUISINE",
+            "SHOP G04, G/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2291800556,
+            0,
+            "Victoria Harbour Supreme",
+            "SHOP 310A, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2291801063,
+            0,
+            "Menya Musashi Gorindo",
+            "SHOP UNIT 218B, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-11"
+          ],
+          [
+            2291801735,
+            0,
+            "East Ocean Lafayette",
+            "SHOP 117, 1/F, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2291801780,
+            0,
+            "Pokka Cafe",
+            "SHOP 201, LEVEL 2, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2291801975,
+            0,
+            "PRAISE HOUSE CONGEE & NOODLE CUISINE",
+            "SHOP UNIT G03B, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2291802002,
+            0,
+            "Mr. Steak",
+            "SHOP UNIT G03A, G/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2291803148,
+            0,
+            "Paradise Dynasty",
+            "SHOP 310B, LEVEL 3, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2291803290,
+            0,
+            "McDonald's Restaurant",
+            "SHOP UNITS G36-37, GROUND FLOOR, MARITIME SQUARE, 31 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2291803324,
+            0,
+            "GENKI SUSHI",
+            "SHOP 228, LEVEL 2, MARITIME SQUARE , 31 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2291803351,
+            0,
+            "Cafe de Coral, Super Super & Mixian Sense",
+            "SHOP G32-33, GROUND FLOOR, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2291803379,
+            0,
+            "Beans the Rambler",
+            "SHOP UNIT 222, LEVEL 2, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2291803397,
+            0,
+            "Hungry Korean",
+            "SHOP 226, 2/F, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2291803403,
+            0,
+            "PIZZAEXPRESS",
+            "SHOP 325, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2291803412,
+            0,
+            "101Taiwanese Cafe",
+            "SHOP UNIT G30, LEVEL G, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2291803634,
+            0,
+            "Meokbang Korean BBQ & Bar",
+            "SHOP UNIT 119B, 1/F, MARITIME SQUARE, 31-33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2291803759,
+            0,
+            "Teawood Taiwanese Cafe & Restaurant",
+            "SHOP UNITS G07-G09, G/F, MARITIME SQUARE, NOS. 31-33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2291803777,
+            0,
+            "No Record",
+            "SHOP UNIT G02, G/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2291803829,
+            0,
+            "Hong Kong Nam Kee Noodle",
+            "SHOP NOS. G15 & G16, GROUND FLOOR, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            2291804211,
+            0,
+            "\u5927\u6995\u6a39\u4e0b",
+            "SHOP UNIT G01, GROUND FLOOR, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ],
+          [
+            2291804424,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP 180, 1/F, MARITIME SQUARE, 31 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            2291804761,
+            0,
+            "GING SUN HO KING OF BUN",
+            "SHOP UNIT 197, LEVEL 1, MARITIME SQUARE, 31 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2291804770,
+            0,
+            "Asam Chicken Rice",
+            "SHOP UNIT 218A, LEVEL 2, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-13"
+          ],
+          [
+            2291804868,
+            0,
+            "\u5341\u4e8c\u5473",
+            "SHOP UNIT 224, LEVEL 2, MARITIME SQUARE, 31 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2291805074,
+            0,
+            "Twinkle Elephant",
+            "SHOP UNIT 302, 3/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ],
+          [
+            2291805454,
+            0,
+            "3.3 CAFE",
+            "SHOP UNITS. G24 & G25, G/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2291805515,
+            0,
+            "SUKA X VIETMIAM",
+            "SHOP UNITS 202-203, LEVEL 2, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2291805542,
+            0,
+            "Sukiya",
+            "SHOP 301A, 3/F, MARITIME SQUARE 1, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2291805551,
+            0,
+            "SUSHIRO (MARITIME SQUARE 1)",
+            "SHOP 211, 2/F, MARITIME SQUARE 1, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2291805560,
+            0,
+            "Yakiniku Like",
+            "SHOP NO.212, 2/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-23"
+          ],
+          [
+            2291805597,
+            0,
+            "UURO",
+            "SHOP NO. G22-G23, G/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2291805658,
+            0,
+            "Tonkichi",
+            "SHOP 212A, 2/F, MARITIME SQUARE 1, 31-33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3891805680,
+            0,
+            "SHABU SHABU LE-TA-SU/ SEN-RYO",
+            "SHOP UNIT 322B, 3/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3191800518,
+            1,
+            "STARBUCKS COFFEE",
+            "SHOP UNIT 166, LEVEL 1, MARITIME SQUARE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            3191801353,
+            1,
+            "Cine-Art House (Maritime Square)",
+            "PORTION B OF UNIT 326, 3/F, MARITIME SQUARE, NO. 31 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            3191802091,
+            1,
+            "WING NIN NOODLE",
+            "SHOP UNITS G26-27, G/F, MARITIME SQUARE, 33 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970362
+        ]
+      ],
+      "coordinate": [
+        1.9915464471422066,
+        0.3902300749043955,
+        22.75
+      ],
+      "halfSize": [
+        147.26499999966472,
+        122.2938550002873,
+        17.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        905969680,
+        6,
+        [
+          [
+            2291000943,
+            0,
+            "FAIRWOOD FAST FOOD",
+            "SHOP NO. 324, 3/F, CHEUNG HANG SHOPPING CENTRE, CHEUNG HANG ESTATE, 6 LIU TO ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291802835,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. 321-323, 3/F, CHEUNG HANG SHOPPING CENTRE, CHEUNG HANG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2291804442,
+            0,
+            "\u592a\u5b50\u7c89\u9eb5",
+            "STALL NOS. 37, 38 & 39, G/F (FORMERLY KNOWN AS LG4), MARKET, COMMERCIAL/CAR PARK BLOCK(ALSO KNOWN AS CHEUNG HANG SHOPPING CENTRE), CHEUNG HANG ESTATE, 6 LIU TO ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            2291804497,
+            0,
+            "Cafe 100%",
+            "SHOP NO. 319-320, 3/F, CHEUNG HANG SHOPPING CENTRE, CHEUNG HANG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2291804549,
+            0,
+            "Pizza Hut",
+            "SHOP NOS. 317-318 , 3/F, CHEUNG HANG SHOPPING CENTRE, 6 LIU TO ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-10"
+          ],
+          [
+            2291805427,
+            0,
+            "OCEAN PALACE (TSING YI)",
+            "SHOP NO. 512, 5/F, CHEUNG HANG SHOPPING CENTRE, CHEUNG HANG ESTATE, 6 LIU TO ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970364
+        ]
+      ],
+      "coordinate": [
+        1.9913814860090828,
+        0.39016027947280285,
+        64.8499984741211
+      ],
+      "halfSize": [
+        28.101500000339,
+        57.68049999978393,
+        10.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        905969681,
+        5,
+        [
+          [
+            2291001478,
+            0,
+            "\u7965\u767c\u8336\u9910\u5ef3",
+            "SHOP NOS. 14-16, G/F, TSING YI GARDEN, 7-19 TSING LUK STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2291001982,
+            0,
+            "\u4fca\u9054\u665e\u8336\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP NO. 12-13, 1/F, TSING YI SQUARE, 7-19 TSING LUK STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2291802066,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP 4-7, G/F, TSING YI GARDEN, 7-19 TSING LUK STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2291804956,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. 4-8, 1/F, TSING YI SQUARE, TSING YI GARDEN, 7-19 TSING LUK STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            3191800989,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP NO. 44, G/F, TSING YI SQUARE , TSING YI GARDEN, 7-19 TSING LUK STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970367
+        ]
+      ],
+      "coordinate": [
+        1.9915108025994261,
+        0.39014419578286863,
+        14.399999618530273
+      ],
+      "halfSize": [
+        92.50842499965802,
+        51.87832000013441,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        905969682,
+        1,
+        [
+          [
+            2291001177,
+            0,
+            "\u51f1\u6085\u8336\u9910\u5ef3",
+            "SHOP NOS. 3-6, G/F, SERENE GARDEN, 77 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970383
+        ]
+      ],
+      "coordinate": [
+        1.991552316618467,
+        0.39015131912837364,
+        8.800000190734863
+      ],
+      "halfSize": [
+        15.03110000025481,
+        20.998194999992847,
+        2.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        905969683,
+        1,
+        [
+          [
+            2291001821,
+            0,
+            "\u8543\u8304\u5de5\u623f",
+            "SHOP NOS. 102-104, 1/F, COMMERCIAL CENTRE, BROADVIEW GARDEN, 1 TSING LUK STREET, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970388
+        ]
+      ],
+      "coordinate": [
+        1.9914915840743201,
+        0.390189240517314,
+        15.09999942779541
+      ],
+      "halfSize": [
+        30.813000000081956,
+        28.367999999783933,
+        6.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        905969684,
+        18,
+        [
+          [
+            2291000882,
+            0,
+            "MCDONALD'S",
+            "SHOP 406-407 ON 4/F, CHEUNG FAT PLAZA, TSING YI ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291801364,
+            0,
+            "MX/Port Spot",
+            "SHOP 224 & 225, 2/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-11"
+          ],
+          [
+            2291801629,
+            0,
+            "ITAMOMO CAFE & R.U.D",
+            "SHOP 321C, LEVEL 3, CHEUNG FAT PLAZA, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2291802376,
+            0,
+            "Yoshinoya",
+            "SHOP NOS. 313, 314, 315 AND 316, THIRD FLOOR, CHEUNG FAT PLAZA , CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2291802589,
+            0,
+            "Mos Burger",
+            "SHOP NO. 203 & 203A, 2/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2291802899,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP 208 & 208A, 2/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2291803050,
+            0,
+            "NGAN LUNG  RESTAURANT",
+            "SHOP 402-403, 4/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2291803573,
+            0,
+            "Choi Wui Palace",
+            "SHOP NO. 502, 5/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2291803616,
+            0,
+            "KFC",
+            "SHOP NO. 114C, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2291803713,
+            0,
+            "Thai Yin",
+            "SHOP 114B, G/F, CHEUNG FAT PLAZA, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2291803892,
+            0,
+            "SAIZERIYA ITALIAN RESTAURANT",
+            "SHOP 501A, 5/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2291804044,
+            0,
+            "JIN BAI HU",
+            "SHOP 501C & 501D, 5/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2291805135,
+            0,
+            "\u8336\u8c46\u51b0\u5ba4",
+            "SHOP NO. 147, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2291805171,
+            0,
+            "\u9b5a\u773e\u4e0d\u540c",
+            "SHOP NO. 317, 3/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2291805357,
+            0,
+            "\u7396\u5b50\u8336",
+            "SHOP 213 & 215, 2/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            3191801265,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP NO. 304 & 311, 3/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3191801557,
+            1,
+            "BAKE & BITE",
+            "PORTION B OF SHOP 201A, 2/F, CHEUNG FAT PLAZA,CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-23"
+          ],
+          [
+            3191802028,
+            1,
+            "\u767e\u5e74\u725b\u96dc\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP NOS. 13-14, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970389
+        ]
+      ],
+      "coordinate": [
+        1.99147397764549,
+        0.3902978267477169,
+        22.200000762939453
+      ],
+      "halfSize": [
+        56.554000000003725,
+        32.40449999924749,
+        6.199999809265137
+      ]
+    }
+  ]
+}

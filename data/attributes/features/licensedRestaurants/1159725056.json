@@ -1,0 +1,1401 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1159725056,
+        1,
+        [
+          [
+            2212807514,
+            0,
+            "HONG KONG CUISINE",
+            "1/F., ELEGANCE COURT, 2-4 TSOI TAK STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725098
+        ]
+      ],
+      "coordinate": [
+        1.992918533840905,
+        0.3886761803665262,
+        17.100000381469727
+      ],
+      "halfSize": [
+        12.324999999720603,
+        12.420000000856817,
+        6.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1159725057,
+        1,
+        [
+          [
+            3112188325,
+            1,
+            "Alabar",
+            "SHOP NO.3(NO.38), THE UG/F, KAM KWONG MANSION, 36-44 KING KWONG ST., HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725114
+        ]
+      ],
+      "coordinate": [
+        1.992891336458937,
+        0.38866571110888126,
+        16.149999618530273
+      ],
+      "halfSize": [
+        17.938000000081956,
+        11.20449999999255,
+        3.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1159725058,
+        2,
+        [
+          [
+            2212128534,
+            0,
+            "McDonald's",
+            "SHOP A, G/F, CHUN HING MANS., 19-21 KING KWONG ST., WAN CHAI, HONG KONG",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2212822724,
+            0,
+            "\u6b63\u6597\u7ca5\u9eb5\u5c08\u5bb6",
+            "G/F, 21 KING KWONG ST., HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725117
+        ]
+      ],
+      "coordinate": [
+        1.9929023999102993,
+        0.38866395326614045,
+        15.300000190734863
+      ],
+      "halfSize": [
+        10.955000000074506,
+        13.129999999888241,
+        2.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1159725059,
+        1,
+        [
+          [
+            2212819867,
+            0,
+            "ZANK YOU",
+            "SHOP A ON GROUND FLOOR, YUK SING BUILDING, NOS. 1-9 YUK SAU STREET & NOS. 12, 12A-12C SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725125
+        ]
+      ],
+      "coordinate": [
+        1.9929217315513403,
+        0.3886610899208143,
+        18.200000762939453
+      ],
+      "halfSize": [
+        22.918500000145286,
+        16.000500000081956,
+        5.500000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1159725060,
+        1,
+        [
+          [
+            2212821183,
+            0,
+            "Full Happiness",
+            "SHOP A, G/F, MINT GARDEN, 1-3 CHEONG MING STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725127
+        ]
+      ],
+      "coordinate": [
+        1.9929337922145198,
+        0.38866140085895023,
+        18.599998474121094
+      ],
+      "halfSize": [
+        10.729000000283122,
+        10.719399999827147,
+        3.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1159725061,
+        1,
+        [
+          [
+            2212815838,
+            0,
+            "Banh mi pate (Vietnam Genuine)",
+            "SHOP B, G/F., 1-5 SHING PING STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725148
+        ]
+      ],
+      "coordinate": [
+        1.9929377969257736,
+        0.38865433447568426,
+        22.0
+      ],
+      "halfSize": [
+        10.643000000156462,
+        11.404500000178814,
+        3.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1159725062,
+        1,
+        [
+          [
+            2212813638,
+            0,
+            "LITTLE LUCIE'S HONG KONG",
+            "SHOP A, G/F., JUBILEE GARDEN, NO. 18 SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725173
+        ]
+      ],
+      "coordinate": [
+        1.9929334207410048,
+        0.3886464736868124,
+        21.149999618530273
+      ],
+      "halfSize": [
+        9.566999999806285,
+        9.60950000025332,
+        2.8500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1159725063,
+        1,
+        [
+          [
+            3112804832,
+            1,
+            "Starbucks Coffee",
+            "G/F., LE CACHET, NO. 69 SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725177
+        ]
+      ],
+      "coordinate": [
+        1.9929430421003287,
+        0.38864405102029853,
+        29.0
+      ],
+      "halfSize": [
+        19.140000000130385,
+        14.97800000011921,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1159725064,
+        1,
+        [
+          [
+            2212817782,
+            0,
+            "27 KEBAB HOUSE",
+            "G/F., NO. 2 BLUE POOL ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725229
+        ]
+      ],
+      "coordinate": [
+        1.9929874672595889,
+        0.3885755506311696,
+        86.19999694824219
+      ],
+      "halfSize": [
+        13.183000000193715,
+        13.104500000365078,
+        1.2999992370605469
+      ]
+    },
+    {
+      "attributes": [
+        1159725065,
+        1,
+        [
+          [
+            2212808377,
+            0,
+            "\u5929\u4e00\u95a3",
+            "SHOP C ON G/F & SHOP D ON MEZZ FLOOR OF BONNY VIEW HOUSE, NOS. 63 - 65 WONG NAI CHUNG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-04-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725280
+        ]
+      ],
+      "coordinate": [
+        1.9929045295940324,
+        0.38870594717476126,
+        27.450000762939453
+      ],
+      "halfSize": [
+        15.96747999964282,
+        10.713994999416173,
+        18.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1159725066,
+        1,
+        [
+          [
+            3112804966,
+            1,
+            "Maison Eric Kayser",
+            "G/F., 60 VENTRIS ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725338
+        ]
+      ],
+      "coordinate": [
+        1.9929105576352033,
+        0.38869027286603486,
+        29.399999618530273
+      ],
+      "halfSize": [
+        22.205000000074506,
+        12.41550000011921,
+        20.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1159725067,
+        1,
+        [
+          [
+            3112810257,
+            1,
+            "Fineprint",
+            "G/F, 4 BLUE POOL ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-06-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725374
+        ]
+      ],
+      "coordinate": [
+        1.9929069972136153,
+        0.3886847140887222,
+        27.599998474121094
+      ],
+      "halfSize": [
+        14.31533999973908,
+        10.89049999974668,
+        19.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1159725068,
+        4,
+        [
+          [
+            2212814534,
+            0,
+            "The Mickey B Pizza Co.",
+            "G/F AND OUTSIDE SEATING ACCOMMODATION 1 & OUTSIDE SEATING ACCOMMODATION 2 IN FRONT OF G/F., 35 WONG NAI CHUNG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3112803477,
+            1,
+            "HAPPY VALLEY BAR + GRILL",
+            "SHOP 37A-B, G/F., AND THE OUTSIDE SEATING ACCOMMODATION ONPAVEMENT AT SHOP FRONT, RACE VIEW APARTMENTS, 37 WONG NAI CHUNG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-11-24"
+          ],
+          [
+            3112810114,
+            1,
+            "SINBAD COFFEE ROASTERS",
+            "SHOP ON THE G/F OF NO. 31 WONG NAI CHUNG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-03-05"
+          ],
+          [
+            3912811063,
+            1,
+            "NELOHE SAKE IZAKAYA",
+            "G/F, 33 WONG NAI CHUNG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725375
+        ]
+      ],
+      "coordinate": [
+        1.9929018946789743,
+        0.38868442478608634,
+        26.850000381469727
+      ],
+      "halfSize": [
+        16.6355000003241,
+        12.710149999707937,
+        18.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1159725069,
+        1,
+        [
+          [
+            2212234170,
+            0,
+            "Wagyu Bar & Grill",
+            "GROUND FLOOR, 18 BLUE POOL ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725395
+        ]
+      ],
+      "coordinate": [
+        1.9929130698180735,
+        0.38868067701398124,
+        42.400001525878906
+      ],
+      "halfSize": [
+        22.134499999694526,
+        19.13650000002235,
+        33.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1159725070,
+        2,
+        [
+          [
+            2212187652,
+            0,
+            "\u7dad\u6e2f\u9b5a\u86cb\u9eb5\u5c0f\u5eda",
+            "G/F, 11 SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2212817807,
+            0,
+            "Cheung Sing Cafe",
+            "G/F. & C/L., 9 SING WOO ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725409
+        ]
+      ],
+      "coordinate": [
+        1.9929063528571413,
+        0.38868059355523876,
+        17.299999237060547
+      ],
+      "halfSize": [
+        8.261355000082403,
+        9.68872999958694,
+        8.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1159725071,
+        1,
+        [
+          [
+            2212818679,
+            0,
+            "Ask for Alonzo",
+            "SHOP 19, G/F, HANG FUNG MANSION, 17-19 WONG NAI CHUNG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-05-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725413
+        ]
+      ],
+      "coordinate": [
+        1.9928910339434727,
+        0.38867913016838823,
+        29.5
+      ],
+      "halfSize": [
+        10.47899999981746,
+        13.787999999709427,
+        21.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1159725072,
+        1,
+        [
+          [
+            2212820843,
+            0,
+            "\u725b\u5976\u51b0\u5ba4",
+            "SHOP NO. 1-4, LG/F, YEE FUNG BUILDING, 1-1F VILLAGE ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-10-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725422
+        ]
+      ],
+      "coordinate": [
+        1.9928786776586813,
+        0.3886772791553041,
+        28.850000381469727
+      ],
+      "halfSize": [
+        16.316000000108033,
+        20.581499999389052,
+        20.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1159725073,
+        1,
+        [
+          [
+            2212803707,
+            0,
+            "OYSTER TALKS SEAFOOD & WINE BAR",
+            "SHOP 4, G/F., 14-18 YIK YAM STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725443
+        ]
+      ],
+      "coordinate": [
+        1.9928979899642925,
+        0.3886754693411296,
+        35.5
+      ],
+      "halfSize": [
+        10.481999999843538,
+        9.211965000256896,
+        25.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1159725074,
+        1,
+        [
+          [
+            2212169665,
+            0,
+            "\u65b0\u660c\u660e\u98df\u5e97",
+            "G/F, 22 YIK YAM STREET, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725448
+        ]
+      ],
+      "coordinate": [
+        1.9928956450999573,
+        0.38867475680982855,
+        22.5
+      ],
+      "halfSize": [
+        7.8174850000068545,
+        8.793220000341535,
+        13.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1159725075,
+        1,
+        [
+          [
+            2212807745,
+            0,
+            "\u65b0\u7965\u8208\u8336\u9910\u5ef3",
+            "SHOP B, G/F., NO. 24-28 YIK YAM STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-10-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725455
+        ]
+      ],
+      "coordinate": [
+        1.9928932371519914,
+        0.3886739424794828,
+        22.75
+      ],
+      "halfSize": [
+        11.228894999716431,
+        9.907025000080466,
+        14.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1159725076,
+        1,
+        [
+          [
+            2212036062,
+            0,
+            "\u7965\u8208\u5496\u5561\u5ba4",
+            "G/F, 9-11 YIK YAM ST., HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725464
+        ]
+      ],
+      "coordinate": [
+        1.9929034918656154,
+        0.3886732568790566,
+        16.299999237060547
+      ],
+      "halfSize": [
+        4.694439999759197,
+        6.823610000312328,
+        6.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1159725077,
+        1,
+        [
+          [
+            2212093537,
+            0,
+            "\u6c38\u7965\u71d2\u81d8\u98ef\u5e97",
+            "G/F (REAR PTN), 2 KING KWONG STREET, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725473
+        ]
+      ],
+      "coordinate": [
+        1.992909996974172,
+        0.38867233858458533,
+        20.75
+      ],
+      "halfSize": [
+        5.026524999644607,
+        7.6295349998399615,
+        11.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1159725078,
+        2,
+        [
+          [
+            2212809033,
+            0,
+            "THE TUCK ROOM",
+            "G/F., REAR BLOCK, 14 YUEN YUEN STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            3112802003,
+            1,
+            "AEDES BAR",
+            "GROUND FLOOR & COCKLOFT, NO. 14 YUEN YUEN STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-10-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725479
+        ]
+      ],
+      "coordinate": [
+        1.9929262056922843,
+        0.3886718929559789,
+        25.349998474121094
+      ],
+      "halfSize": [
+        9.762500000186265,
+        8.536499999463558,
+        10.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1159725079,
+        1,
+        [
+          [
+            3112810549,
+            1,
+            "FULL NATURE ROASTERY",
+            "PORTION A OF G/F & M/F, 3 YUEN YUEN STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-11-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725483
+        ]
+      ],
+      "coordinate": [
+        1.9929196252926251,
+        0.3886716157522447,
+        21.75
+      ],
+      "halfSize": [
+        8.101670000236481,
+        7.20306499954313,
+        10.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1159725080,
+        2,
+        [
+          [
+            2212804490,
+            0,
+            "Nan Tei",
+            "G/F., NO. 10 YUEN YUEN STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2212814543,
+            0,
+            "LOCANDA DELL ANGELO",
+            "G/F., 12 YUEN YUEN STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725485
+        ]
+      ],
+      "coordinate": [
+        1.9929253680301025,
+        0.3886709706134615,
+        25.399999618530273
+      ],
+      "halfSize": [
+        11.208000000100583,
+        9.457999999634922,
+        11.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1159725081,
+        1,
+        [
+          [
+            3112809013,
+            1,
+            "JIKKA",
+            "SHOP B, G/F & COCKLOFT, 10 - 12 KING KWONG STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725488
+        ]
+      ],
+      "coordinate": [
+        1.99290654359462,
+        0.3886709422625688,
+        22.299999237060547
+      ],
+      "halfSize": [
+        6.543079999741167,
+        7.876934999600053,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        1159725082,
+        1,
+        [
+          [
+            2212814011,
+            0,
+            "Pang's Kitchen",
+            "G/F., 25 YIK YAM STREET, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725492
+        ]
+      ],
+      "coordinate": [
+        1.9928963393853103,
+        0.38867050747994675,
+        21.950000762939453
+      ],
+      "halfSize": [
+        7.138065000064671,
+        8.492030000314116,
+        11.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1159725083,
+        1,
+        [
+          [
+            2212148776,
+            0,
+            "Bojyo",
+            "G/F, 18 KING KWONG STREET, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725496
+        ]
+      ],
+      "coordinate": [
+        1.9929010519283834,
+        0.38866913758958194,
+        29.80000114440918
+      ],
+      "halfSize": [
+        17.490519999992102,
+        12.39718999993056,
+        18.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1159725084,
+        1,
+        [
+          [
+            3112808083,
+            1,
+            "KAM MAN KITCHEN",
+            "G/F. AND COCKLOFT, 35 YIK YAM STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725500
+        ]
+      ],
+      "coordinate": [
+        1.9928930326988212,
+        0.38866983290624635,
+        21.5
+      ],
+      "halfSize": [
+        5.6585849998518825,
+        5.790500000119209,
+        10.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1159725085,
+        1,
+        [
+          [
+            2212801640,
+            0,
+            "\u9244\u677f\u7ad9\u6252\u623f\u9910\u5ef3",
+            "PORTION A ON G/F., IGLOO RESIDENCE, 1A SHAN KWONG ROAD, HONG KONG",
+            null,
+            "2026-06-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725515
+        ]
+      ],
+      "coordinate": [
+        1.992888646572245,
+        0.3886679844037018,
+        29.049999237060547
+      ],
+      "halfSize": [
+        8.219000000040978,
+        8.521195000037551,
+        16.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1159725086,
+        1,
+        [
+          [
+            3112802289,
+            1,
+            "\u9ea5\u5146\u8a18(\u7956\u50b3)\u5ee3\u5dde\u96f2\u541e\u9eb5",
+            "G/F & COCKLOFT (PORTION), NO. 32 KING KWONG STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725534
+        ]
+      ],
+      "coordinate": [
+        1.9928947271863207,
+        0.38866662871650515,
+        25.0
+      ],
+      "halfSize": [
+        6.101595000363886,
+        6.596210000105202,
+        12.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1159725087,
+        1,
+        [
+          [
+            2212822344,
+            0,
+            "\u676d\u5dde\u9152\u5bb6",
+            "G/F. & COCKLOFT, NO. 13 KING KWONG STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-12-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725536
+        ]
+      ],
+      "coordinate": [
+        1.9929067451963465,
+        0.388665633525296,
+        22.899999618530273
+      ],
+      "halfSize": [
+        8.192994999699295,
+        11.297209999524057,
+        11.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1159725088,
+        1,
+        [
+          [
+            2212818174,
+            0,
+            "Cotton Lane Cafe",
+            "G/F., 14 MIN FAT STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725549
+        ]
+      ],
+      "coordinate": [
+        1.9929321474710036,
+        0.38866483204577007,
+        27.450000762939453
+      ],
+      "halfSize": [
+        5.3355000000447035,
+        8.0625,
+        10.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1159725089,
+        1,
+        [
+          [
+            3112809192,
+            1,
+            "VIET",
+            "GROUND FLOOR, NO. 12 MIN FAT STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725551
+        ]
+      ],
+      "coordinate": [
+        1.9929314785288457,
+        0.38866464107648335,
+        25.150001525878906
+      ],
+      "halfSize": [
+        5.838005000259727,
+        7.027999999932945,
+        9.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1159725090,
+        1,
+        [
+          [
+            2212214053,
+            0,
+            "SICHUAN RESTAURANT",
+            "G/F, 10 MIN FAT ST, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725555
+        ]
+      ],
+      "coordinate": [
+        1.992930700093826,
+        0.3886642069613912,
+        24.850000381469727
+      ],
+      "halfSize": [
+        4.969000000040978,
+        7.5710049998015165,
+        9.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1159725091,
+        1,
+        [
+          [
+            2212807444,
+            0,
+            "NA THAI",
+            "G/F., NO. 8 MIN FAT STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725559
+        ]
+      ],
+      "coordinate": [
+        1.9929299945944905,
+        0.38866383232521134,
+        24.5
+      ],
+      "halfSize": [
+        4.688719999976456,
+        7.605275000445545,
+        9.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1159725092,
+        2,
+        [
+          [
+            2212178706,
+            0,
+            "\u71d2\u9ce5\u4ead",
+            "SHOP C, G/F, 49-51A SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2212815342,
+            0,
+            "\u68ee\u8a18\u8eca\u4ed4\u9eb5",
+            "SHOP F, M/F., NAM WING BUILDING, 49-51A SING WOO ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-06-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725584
+        ]
+      ],
+      "coordinate": [
+        1.9929311955101174,
+        0.3886599901138041,
+        28.75
+      ],
+      "halfSize": [
+        13.24743999959901,
+        11.474999999627471,
+        14.75
+      ]
+    },
+    {
+      "attributes": [
+        1159725093,
+        1,
+        [
+          [
+            3112808375,
+            1,
+            "Coffeelin",
+            "G/F., NO. 8 CHEONG MING STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-08-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725606
+        ]
+      ],
+      "coordinate": [
+        1.9929372706913142,
+        0.38865822011607776,
+        30.899999618530273
+      ],
+      "halfSize": [
+        5.714610000140965,
+        7.51450000051409,
+        11.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1159725094,
+        1,
+        [
+          [
+            2212155015,
+            0,
+            "\u842c\u8208\u8336\u9910\u5ef3",
+            "G/F, NO.2 CHEONG MING STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725616
+        ]
+      ],
+      "coordinate": [
+        1.99293528554788,
+        0.3886570025223496,
+        28.549999237060547
+      ],
+      "halfSize": [
+        5.712500000372529,
+        8.001855000853539,
+        10.75
+      ]
+    },
+    {
+      "attributes": [
+        1159725095,
+        1,
+        [
+          [
+            2212819575,
+            0,
+            "Date Cafe",
+            "G/F, 59 SING WOO ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725622
+        ]
+      ],
+      "coordinate": [
+        1.9929331706076776,
+        0.38865567031959,
+        29.049999237060547
+      ],
+      "halfSize": [
+        9.981259999796748,
+        11.10266000032425,
+        13.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1159725096,
+        1,
+        [
+          [
+            2212805369,
+            0,
+            "\u5feb\u6d3b\u8c37\u9910\u5ef3\u5c0f\u5eda",
+            "G/F., 8 SHING PING STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725670
+        ]
+      ],
+      "coordinate": [
+        1.9929415193768112,
+        0.38865103297085124,
+        36.400001525878906
+      ],
+      "halfSize": [
+        6.804804999846965,
+        8.17989999987185,
+        14.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1159725097,
+        1,
+        [
+          [
+            3112807327,
+            1,
+            "Reaction Coffee Roasters",
+            "SHOP NOS. 67B & 67C, G/F., SHING PING MANSION, 67 SING WOO ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2027-02-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725691
+        ]
+      ],
+      "coordinate": [
+        1.992937655046019,
+        0.38864862808989326,
+        33.349998474121094
+      ],
+      "halfSize": [
+        9.524500000290573,
+        10.880959999747574,
+        15.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1159725098,
+        1,
+        [
+          [
+            3112807673,
+            1,
+            "THE COFFEE ACADEMICS",
+            "G/F., NOS. 17-19 YIK YAM STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-08-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159726268
+        ]
+      ],
+      "coordinate": [
+        1.9928996578917353,
+        0.38867152273376976,
+        17.75
+      ],
+      "halfSize": [
+        7.926779999863356,
+        8.070685000158846,
+        7.450000286102295
+      ]
+    }
+  ]
+}

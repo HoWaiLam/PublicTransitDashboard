@@ -1,0 +1,4758 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1168113664,
+        3,
+        [
+          [
+            2952227229,
+            4,
+            "\u5473\u5c07\u8ecd",
+            "SHOP NO.49, G/F, CHUN SEEN MEI CHUEN, FU NING STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-10-18"
+          ],
+          [
+            3652800332,
+            5,
+            "WELLCOME",
+            "SHOP 29, 31, 33, 35 & 37 (PORTION A), G/F, CHI CHUN LAU, CHUN SEEN MEI CHUEN, MA TAU WAI, KOWLOON",
+            null,
+            "2026-05-22"
+          ],
+          [
+            3252098287,
+            6,
+            "7-Eleven",
+            "G/F., CHUN SEEN MEI CHUEN, 11 FU NING ST., MA TAU WAI, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113675
+        ]
+      ],
+      "coordinate": [
+        1.9929543750150587,
+        0.3896473294010636,
+        24.100000381469727
+      ],
+      "halfSize": [
+        59.89056000020355,
+        30.508545000106096,
+        17.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1168113665,
+        1,
+        [
+          [
+            2952806796,
+            4,
+            "(NO RECORD FOUND)",
+            "REFRESHMENT KIOSK, 2/F, KOWLOON CITY LAW COURTS BUILDING, NO. 147M ARGYLE STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113678
+        ]
+      ],
+      "coordinate": [
+        1.9929085700421245,
+        0.38964870164329046,
+        43.400001525878906
+      ],
+      "halfSize": [
+        21.536445000208914,
+        26.13131000008434,
+        23.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1168113666,
+        1,
+        [
+          [
+            4952810618,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP G, G/F, KAM WAH BUILDING, 117 MA TAU CHUNG ROAD, KOWLOON",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113686
+        ]
+      ],
+      "coordinate": [
+        1.9929691023651015,
+        0.38964475191764153,
+        24.899999618530273
+      ],
+      "halfSize": [
+        16.420514999888837,
+        21.775369999930263,
+        18.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113667,
+        1,
+        [
+          [
+            2952806130,
+            4,
+            "Shadi",
+            "SHOP A, G/F, 6 MOK CHEONG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113792
+        ]
+      ],
+      "coordinate": [
+        1.9929733982175384,
+        0.3896135463046903,
+        24.0
+      ],
+      "halfSize": [
+        11.945055000018328,
+        11.009885000064969,
+        18.5
+      ]
+    },
+    {
+      "attributes": [
+        1168113668,
+        1,
+        [
+          [
+            2952039149,
+            4,
+            "\u8766\u8a18\u9eb5\u5ee0",
+            "G/F, 69 TAM KUNG RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113842
+        ]
+      ],
+      "coordinate": [
+        1.9929632707018932,
+        0.3896062683240531,
+        20.80000114440918
+      ],
+      "halfSize": [
+        8.979114999994636,
+        4.811769999563694,
+        14.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113669,
+        4,
+        [
+          [
+            2952800910,
+            4,
+            "\u9f8d\u8208\u98df\u54c1\u516c\u53f8",
+            "RM 1, 1/F, BLOCK B, LUEN MING HING FACTORY BUILDING, 36 MOK CHEONG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2952804170,
+            4,
+            "ARJUN'S",
+            "SHOP X, G/F, LUEN MING HING FACTORY BUILDING, 36 MOK CHEONG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2952805641,
+            4,
+            "BROTHER FRESH FOOD HOLDINGS LIMITED",
+            "SHOP B1A, 1/F, LUEN MING HING FACTORY BUILDING, 36 MOK CHEONG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2952809467,
+            4,
+            "FUK KEE FROZEN MEAT COMPANY LIMITED",
+            "PORTION OF WORKSPACE B2, 7/F, LUEN MING HING FACTORY BUILDING, 36 MOK CHEONG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113843
+        ]
+      ],
+      "coordinate": [
+        1.9929937384625724,
+        0.3896026310191361,
+        25.049999237060547
+      ],
+      "halfSize": [
+        25.21622999990359,
+        26.720944999717176,
+        20.25
+      ]
+    },
+    {
+      "attributes": [
+        1168113670,
+        3,
+        [
+          [
+            2952801180,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 109, G/F., GERANIUM HOUSE, MA TAU WAI ESTATE, TOKWAWAN, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2952808765,
+            4,
+            "Sushi Take-Out",
+            "SHOP 107, G/F, GERANIUM HOUSE, MA TAU WAI ESTATE, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-18"
+          ],
+          [
+            3252037358,
+            6,
+            "7-Eleven",
+            "SHOP 109 (PORTION), GERANIUM HOUSE, MA TAU WAI ESTATE, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113844
+        ]
+      ],
+      "coordinate": [
+        1.9929472721767982,
+        0.38960162930878367,
+        26.149999618530273
+      ],
+      "halfSize": [
+        20.61841499991715,
+        33.65013499930501,
+        18.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1168113671,
+        1,
+        [
+          [
+            2952805924,
+            4,
+            "(NO RECORD FOUND)",
+            "MIDDLE PORTION OF SHOP D, G/F, 65 TAM KUNG ROAD, KOWLOON",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113846
+        ]
+      ],
+      "coordinate": [
+        1.992962570552682,
+        0.38960499395070725,
+        20.80000114440918
+      ],
+      "halfSize": [
+        10.967304999940097,
+        9.987875000573695,
+        14.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113672,
+        1,
+        [
+          [
+            3652802055,
+            5,
+            "\u65e5\u65e5\u9bae",
+            "SHOP NO. A2 (PORTION), G/F, H.I.C.B. BUILDING, 78-82 TAM KUNG ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113851
+        ]
+      ],
+      "coordinate": [
+        1.9929684776339343,
+        0.38960262471114226,
+        25.049999237060547
+      ],
+      "halfSize": [
+        9.444395000115037,
+        9.729809999465942,
+        19.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1168113673,
+        1,
+        [
+          [
+            4652803020,
+            5,
+            "\u597d\u9bae\u751f",
+            "PORTIONS OF SHOP A, G/F., HOP SHING MANSION, NOS. 4J & 4K MA TAU KOK ROAD, NOS. 97 & 99 PAK TAI STREET, TOKWAWAN, KOWLOON",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113858
+        ]
+      ],
+      "coordinate": [
+        1.9929712065005218,
+        0.38960093712095933,
+        22.149999618530273
+      ],
+      "halfSize": [
+        10.473140000365674,
+        8.127609999850392,
+        16.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113674,
+        4,
+        [
+          [
+            2152136822,
+            1,
+            "\u6771\u4eac\u9eb5\u5305\u9905\u98df",
+            "G/F., 57 TAM KUNG ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2952803946,
+            4,
+            "\u9ba8\u708e\u6c34\u7522",
+            "SHOP I, G/F, TAM KUNG MANSION, NOS.45, 45A, 47-51, 51A, 53, 53A, 55, 55A, 57, 57A, 59-63 & 63A TAM KUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-30"
+          ],
+          [
+            3652801405,
+            5,
+            "\u5b89\u683c\u65af\u51cd\u8089",
+            "SHOP J4, G/F, TAM KUNG MANSION, 45-63A TAM KUNG ROAD, TO KWA WAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-11"
+          ],
+          [
+            3652802550,
+            5,
+            "\u8c6c\u8089\u69ae\u65b0\u83ef\u6210\u8a18\u9bae\u9b5a",
+            "FRONT PORTION OF SHOP J (ALSO KNOWN AS SHOP J1), G/F, TAM KUNG MANSION, 45-63A TAM KUNG ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113860
+        ]
+      ],
+      "coordinate": [
+        1.9929588875070428,
+        0.38959777974590964,
+        27.350000381469727
+      ],
+      "halfSize": [
+        18.526409999933094,
+        27.041614999994636,
+        20.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113675,
+        7,
+        [
+          [
+            2952808783,
+            4,
+            "\u5927\u7d05",
+            "PORTION OF FLAT A1, 2/F, TUNG NAM FACTORY BUILDING, 40 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-01"
+          ],
+          [
+            4952810371,
+            4,
+            "\u5927\u7d05\u98f2\u98df",
+            "PORTION A OF FLAT A4-02, 2/F, TUNG NAM FACTORY BUILDING, 40 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-02-27"
+          ],
+          [
+            3652055905,
+            5,
+            "\u6797\u6d2a\u8089\u98df\u516c\u53f8",
+            "G/F, SHOP B, TUNG NAM FTY BLDG, 40 MA TAU KOK RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3652203531,
+            5,
+            "\u6210\u4fe1\u51cd\u8089",
+            "SHOP C, G/F, 40 MA TAU KOK ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-10-21"
+          ],
+          [
+            3652800545,
+            5,
+            "\u9806\u767c\u8089\u98df",
+            "SHOP I, G/F., TUNG NAM FACTORY BUILDING, NO. 40 MA TAU KOK ROAD, TOKWAWAN, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3652800554,
+            5,
+            "\u798f\u8a18\u975a\u9dc4",
+            "SHOP D, G/F, 40 MA TAU KOK ROAD, KOWLOON",
+            null,
+            "2026-05-12"
+          ],
+          [
+            3652801511,
+            5,
+            "Wellcome",
+            "SHOP A (PORTIONS), G/F., TUNG NAM FACTORY BUILDING, NO. 40 MA TAU KOK ROAD, KOWLOON",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113871
+        ]
+      ],
+      "coordinate": [
+        1.9929902081153106,
+        0.3895955292804657,
+        24.850000381469727
+      ],
+      "halfSize": [
+        25.256000000052154,
+        26.680499999783933,
+        19.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1168113676,
+        2,
+        [
+          [
+            2952809528,
+            4,
+            "\u65e5\u6607\u5c0f\u98df",
+            "SHOP 9 C2, G/F, NO.9 MA TAU KOK ROAD, KOWLOON",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2952809582,
+            4,
+            "\u6e2f\u7063\u5c0f\u98df",
+            "SHOP C3, G/F, NO. 9 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113890
+        ]
+      ],
+      "coordinate": [
+        1.99296996956823,
+        0.3895959945118476,
+        13.149999618530273
+      ],
+      "halfSize": [
+        5.705564999952912,
+        8.72571000084281,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1168113677,
+        1,
+        [
+          [
+            2952808570,
+            4,
+            "\u83ef\u5bcc\u6e2f\u5f0f\u65e5\u5f0f\u5916\u8ce3\u5c08\u9580\u5e97",
+            "SHOP C, G/F, 28 LUNG TO STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113894
+        ]
+      ],
+      "coordinate": [
+        1.9930161608581036,
+        0.3895960307690265,
+        16.75
+      ],
+      "halfSize": [
+        5.275720000267029,
+        4.941469999961555,
+        12.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113678,
+        1,
+        [
+          [
+            2952808914,
+            4,
+            "HONG CHI MA TAU KOK WORKSHOP",
+            "FOOD PACKING ROOM AND CHANGING ROOM, HONG CHI MA TAU KOK WORKSHOP, 2/F., JUBILANT PLACE, 33 MA TAU KOK ROAD, TOKWAWAN, KOWLOON",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113909
+        ]
+      ],
+      "coordinate": [
+        1.9929807777377564,
+        0.3895916869757657,
+        18.149999618530273
+      ],
+      "halfSize": [
+        32.07249999977648,
+        22.020000000484288,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1168113679,
+        1,
+        [
+          [
+            2952173490,
+            4,
+            "SHING FUNG FOODS CO.",
+            "G/F, 27 PANG CHING STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168113989
+        ]
+      ],
+      "coordinate": [
+        1.9930338460813348,
+        0.38958840142377843,
+        16.649999618530273
+      ],
+      "halfSize": [
+        5.39894500002265,
+        4.662929999642074,
+        12.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113680,
+        1,
+        [
+          [
+            2952180562,
+            4,
+            "\u65b0\u7fa9\u6210\u98df\u54c1\u8cbf\u6613\u516c\u53f8",
+            "G/F, 21 YING YEUNG STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-02-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114010
+        ]
+      ],
+      "coordinate": [
+        1.9930282774618033,
+        0.38958720093830757,
+        16.799999237060547
+      ],
+      "halfSize": [
+        5.289450000040233,
+        4.952139999717474,
+        12.5
+      ]
+    },
+    {
+      "attributes": [
+        1168113681,
+        1,
+        [
+          [
+            2952806626,
+            4,
+            "Mr. Bake",
+            "SHOP B, G/F, 27 PAK TAI STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114314
+        ]
+      ],
+      "coordinate": [
+        1.992956681448873,
+        0.3895711896244569,
+        18.600000381469727
+      ],
+      "halfSize": [
+        8.608564999885857,
+        7.270980000495911,
+        11.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1168113682,
+        1,
+        [
+          [
+            2952800707,
+            4,
+            "\u767c\u8a18\u5c0f\u98df",
+            "PORTION OF SHOP B, G/F, 2 YIN ON STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-12-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114336
+        ]
+      ],
+      "coordinate": [
+        1.9930428764717865,
+        0.3895697807284448,
+        16.399999618530273
+      ],
+      "halfSize": [
+        5.398484999779612,
+        4.667789999395609,
+        12.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113683,
+        1,
+        [
+          [
+            2952806981,
+            4,
+            "Trendsetter Catering Limited",
+            "ROOM 17, 2/F, NEWPORT CENTRE, PHASE 2, 116 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-11-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114347
+        ]
+      ],
+      "coordinate": [
+        1.9930644310766985,
+        0.38956376999485987,
+        10.949999809265137
+      ],
+      "halfSize": [
+        50.241839999798685,
+        37.966389999724925,
+        7.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1168113684,
+        1,
+        [
+          [
+            2952805234,
+            4,
+            "\u56db\u5b63\u6e6f",
+            "SHOP B, G/F., 2 TSUN FAT STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114357
+        ]
+      ],
+      "coordinate": [
+        1.9930469733949545,
+        0.38956801450753903,
+        16.299999237060547
+      ],
+      "halfSize": [
+        5.396879999898374,
+        4.662579999305308,
+        12.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113685,
+        1,
+        [
+          [
+            2952807735,
+            4,
+            "\u751f\u660c\u7119\u8c46",
+            "G/F., NO. 114 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114359
+        ]
+      ],
+      "coordinate": [
+        1.9930520806405079,
+        0.38956700151257356,
+        16.350000381469727
+      ],
+      "halfSize": [
+        11.652675000019372,
+        8.917870000004768,
+        12.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113686,
+        1,
+        [
+          [
+            2952806705,
+            4,
+            "WONG CHO TONG INTEGRATED VOCATIONAL REHABILITATION CENTRE",
+            "PORTION OF G/F, WONG CHO TONG SOCIAL SERVICE BUILDING, 39 SHEUNG SHING STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114398
+        ]
+      ],
+      "coordinate": [
+        1.9928497036248343,
+        0.38955974695913637,
+        51.349998474121094
+      ],
+      "halfSize": [
+        24.430989999789745,
+        22.033904999494553,
+        13.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1168113687,
+        2,
+        [
+          [
+            2952805243,
+            4,
+            "\u6885\u7aa9\u9ebb\u7cec\u738b",
+            "SHOP NO.6(PORTION B), G/F, NOS. 12-14 PAK TAI STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2952805368,
+            4,
+            "DIM TEA",
+            "SHOP NO.6(PORTION A), G/F, NOS. 12-14 PAK TAI STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114426
+        ]
+      ],
+      "coordinate": [
+        1.9929560300549756,
+        0.38955702332798076,
+        23.5
+      ],
+      "halfSize": [
+        12.945169999729842,
+        12.417019999586046,
+        14.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1168113688,
+        2,
+        [
+          [
+            2952294926,
+            4,
+            "\u56cd \u56cd",
+            "SHOP B, G/F, YUET FAI HOUSE, 50 TIN KWONG ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            4952810478,
+            4,
+            "RAINBOW CANTEEN",
+            "SHOP D-1, G/F, YUET FAI HOUSE, 50 TIN KWONG ROAD, HO MAN TIN, KOWLOON",
+            null,
+            "2026-04-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114444
+        ]
+      ],
+      "coordinate": [
+        1.99294487568368,
+        0.3895561410407557,
+        26.899999618530273
+      ],
+      "halfSize": [
+        9.07706999965012,
+        3.9135849997401237,
+        16.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113689,
+        4,
+        [
+          [
+            2952807568,
+            4,
+            "HANA SENJU CO.",
+            "PORTION A OF SHOP 2 & 3, G/F., CHUNG HWA BUILDING AND KIU SHING BUILDING, 3A-5F MA HANG CHUNG ROAD AND 55-65 PAU CHUNG STREET, KOWLOON",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2952807586,
+            4,
+            "\u6f6e\u5305",
+            "PORTION B OF SHOP 2 & 3, G/F, CHUNG HWA BUILDING AND KIU SHING BUILDING, 3A-5F MA HANG CHUNG ROAD, AND 55-65 PAU CHUNG STREET, KOWLOON",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3652222752,
+            5,
+            "Wellcome",
+            "PORTION OF SHOP 5, G/F, CHUNG HWA PLAZA, 5B-5F MA HANG CHUNG ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3652802806,
+            5,
+            "FRESH MEAT & FARM",
+            "PORTION C OF SHOP 2 & 3, G/F, CHUNG HWA BUILDING AND KIU SHING BUILDING, 3A-5F MA HANG CHUNG ROAD, AND 55-65 PAU CHUNG STREET, KOWLOON",
+            null,
+            "2026-10-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114456
+        ]
+      ],
+      "coordinate": [
+        1.9929620445989615,
+        0.389552164276379,
+        27.450000762939453
+      ],
+      "halfSize": [
+        19.662040000315756,
+        25.17460000049323,
+        18.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1168113690,
+        1,
+        [
+          [
+            2952806574,
+            4,
+            "FOOD BROTHER",
+            "SHOP 3B, G/F., TOWER 2, HILLVILLE TERRACE, NO. 28 TIN KWONG ROAD, HO MAN TIN, KOWLOON",
+            null,
+            "2026-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114459
+        ]
+      ],
+      "coordinate": [
+        1.9929319790187243,
+        0.3895551728258241,
+        61.5
+      ],
+      "halfSize": [
+        9.58231500023976,
+        6.36562000028789,
+        31.0
+      ]
+    },
+    {
+      "attributes": [
+        1168113691,
+        1,
+        [
+          [
+            2952805447,
+            4,
+            "WOON LAM NOODLE",
+            "SHOP 1BB, G/F, 187 & 187A MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114535
+        ]
+      ],
+      "coordinate": [
+        1.9929521985968346,
+        0.3895505919132269,
+        24.350000381469727
+      ],
+      "halfSize": [
+        4.692585000302643,
+        6.17956000007689,
+        13.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113692,
+        23,
+        [
+          [
+            2952297846,
+            4,
+            "\u570b\u57fa\u51cd\u8089",
+            "FLAT B5, 7/F, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2952800202,
+            4,
+            "LA CASA CATERING / MR MIX CATERING",
+            "FLAT B18, 8/F, BLOCKB MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, MA TAU KOK, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            2952801621,
+            4,
+            "GC DESIGN LIMITED",
+            "RM. 5, 10/F., BLOCK A, MERIT INDUSTRIAL BUILDING, 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-03-17"
+          ],
+          [
+            2952802800,
+            4,
+            "\u6f22\u8a18\u98df\u54c1\u516c\u53f8",
+            "FLAT B2, 11/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2952802819,
+            4,
+            "FeStyle",
+            "FLAT A1, 5/F, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2027-03-10"
+          ],
+          [
+            2952803423,
+            4,
+            "LOK SIN TONG MEAL DELIVERY SERVICE CENTRE",
+            "FACTORY A16 (PORTION), 11/F, BLOCK A, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2952804116,
+            4,
+            "Global Prosperity Develop Provision Co.",
+            "UNIT 709, 7/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TOKWAWAN ROAD, TOKWAWAN, KOWLOON",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2952804189,
+            4,
+            "Fitasty",
+            "UNIT A7, 9/F, BLOCK A, MERIT INDUSTRIAL CENTRE, 94 TOKWAWAN ROAD, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2952805137,
+            4,
+            "\u5229\u5bf6\u51cd\u8089\u6709\u9650\u516c\u53f8",
+            "ROOM 17, 5/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2952805331,
+            4,
+            "\u9999\u6e2f\u5473\u4f86\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "FLAT A1, 7/F, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2952805906,
+            4,
+            "OH PRODUCTION",
+            "PORTION A OF UNIT B8 ON 9TH FLOOR, MERIT INDUSTRIAL CENTRE, NO. 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-09"
+          ],
+          [
+            2952806051,
+            4,
+            "Global Prosperity Develop Provision Co.",
+            "UNIT 11, 7/F., BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-02-24"
+          ],
+          [
+            2952806404,
+            4,
+            "STAR DICE",
+            "UNIT 513, 5/F, BLOCK A, MERIT INDUSTRIAL CENTRE, NO. 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2952807470,
+            4,
+            "KTOWN",
+            "UNIT 17, 8/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2952807939,
+            4,
+            "CHEUNG HING KEE CATERING MANAGEMENT (ASIA) LIMITED",
+            "ROOM 18, 10/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-03-28"
+          ],
+          [
+            2952808011,
+            4,
+            "GOLD GRACE DEVELOPMENT LIMITED",
+            "PORTION A OF UNIT 16, 7/F, BLOCK A, MERIT INDUSTRIAL BUILDING, 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-08"
+          ],
+          [
+            2952808109,
+            4,
+            "JAC.",
+            "UNIT 16, 7/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2952808190,
+            4,
+            "EL FORON",
+            "UNIT 2, 6/F, BLOCK B, MERIT INDUSTRIAL BUILDING, 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2952808561,
+            4,
+            "MR. MIX CATERING",
+            "UNIT 10, 7/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2952808659,
+            4,
+            "Yuen Long Hop Lung Noodle",
+            "UNIT 9A, 10/F, BLOCK B, MERIT INDUSTRIAL CENTRE, 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2952808710,
+            4,
+            "Paul Lafayet Patisserie Francaise",
+            "UNIT B18, 5/F, BLOCK B, MERIT INDUSTRIAL CENTRE, NO. 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-11-11"
+          ],
+          [
+            4952810557,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION A OF ROOM 8, 3/F, BLOCK A, MERIT INDUSTRIAL BUILDING, 94 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            3252800453,
+            6,
+            "OH PRODUCTION",
+            "PORTION B OF UNIT B8 ON 9TH FLOOR, MERIT INDUSTRIAL CENTRE, NO. 94 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114549
+        ]
+      ],
+      "coordinate": [
+        1.9930235046500686,
+        0.38954525705412696,
+        24.75
+      ],
+      "halfSize": [
+        36.68443499971181,
+        32.339124999940395,
+        20.25
+      ]
+    },
+    {
+      "attributes": [
+        1168113693,
+        2,
+        [
+          [
+            2952228222,
+            4,
+            "\u9b5a\u86cb\u4f6c",
+            "G/F, 183 MA TAU WAI ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2952806468,
+            4,
+            "Bao babe",
+            "SHOP A, G/F, 183 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-12-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114603
+        ]
+      ],
+      "coordinate": [
+        1.9929520826068043,
+        0.389546719830695,
+        24.900001525878906
+      ],
+      "halfSize": [
+        3.7293849997222424,
+        5.114159999415278,
+        13.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113694,
+        2,
+        [
+          [
+            4952810645,
+            4,
+            "\u91d1\u838a\u98df\u54c1",
+            "(MINOR PORTION) G/F, 1 SHEUNG HEUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-04"
+          ],
+          [
+            4552800640,
+            8,
+            "\u91d1\u838a\u98df\u54c1",
+            "(MAJOR PORTION) G/F, 1 SHEUNG HEUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114674
+        ]
+      ],
+      "coordinate": [
+        1.9929531127326303,
+        0.38954239865522294,
+        25.450000762939453
+      ],
+      "halfSize": [
+        4.50876499991864,
+        4.958770000375807,
+        14.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113695,
+        3,
+        [
+          [
+            2952807443,
+            4,
+            "TWELVE WAYS LIMITED",
+            "PORTION OF UNIT B, 5/F, LUCKY BUILDING, NOS. 3-5 SAN MA TAU STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2952807610,
+            4,
+            "TIGER PARKING MANAGEMENT LIMITED",
+            "PORTION 2, 1/F, LUCKY BUILDING, 3-5 SAN MA TAU STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2952809351,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION A OF UNIT B, 5/F, LUCKY BUILDING, NOS. 3-5 SAN MA TAU STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114718
+        ]
+      ],
+      "coordinate": [
+        1.9930369151941691,
+        0.3895353920075704,
+        22.80000114440918
+      ],
+      "halfSize": [
+        29.932980000041425,
+        30.128434999845922,
+        18.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113696,
+        1,
+        [
+          [
+            3652803067,
+            5,
+            "\u5927\u5e2b\u5144\u9bae\u6d3b\u5e02\u96c6",
+            "PORTIONS OF G/F, 43 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114768
+        ]
+      ],
+      "coordinate": [
+        1.9929723063197042,
+        0.3895339165897916,
+        17.0
+      ],
+      "halfSize": [
+        8.525694999843836,
+        6.157935000024736,
+        7.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1168113697,
+        1,
+        [
+          [
+            3652801715,
+            5,
+            "Shearer Butcher",
+            "G/F (PORTIONS), 41 KOWLOON CITY ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114805
+        ]
+      ],
+      "coordinate": [
+        1.9929707549426243,
+        0.38953034488477833,
+        21.149999618530273
+      ],
+      "halfSize": [
+        6.972234999760985,
+        4.651619999669492,
+        11.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1168113698,
+        2,
+        [
+          [
+            2952808145,
+            4,
+            "WAGYU Master Limited",
+            "UNITS 712-713, 7/F, BRILL PLAZA, 84 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-29"
+          ],
+          [
+            2952808640,
+            4,
+            "\u9673\u8336\u9928",
+            "FLAT 02, 9/F, BRILL PLAZA, 84 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114830
+        ]
+      ],
+      "coordinate": [
+        1.9930083351993249,
+        0.3895244730901096,
+        31.94999885559082
+      ],
+      "halfSize": [
+        26.467765000183135,
+        23.45454499963671,
+        12.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113699,
+        6,
+        [
+          [
+            2952801524,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 132, G/F., LOK SEEN LAU, LOK MAN SUN CHUEN, TOKWAWAN, KOWLOON",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2952807285,
+            4,
+            "SHEK HUEN HONG",
+            "G/F (MAJOR PORTION), 146 KAU PUI LUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-04-06"
+          ],
+          [
+            2952807452,
+            4,
+            "Seafoodflowery",
+            "PORTION A OF SHOP NO. 97, LG/F, BLOCK I, LOK MAN SUN CHUEN, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-14"
+          ],
+          [
+            3652802587,
+            5,
+            "SHEK HUEN HONG",
+            "G/F (MINOR PORTION), 146 KAU PUI LUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-04-06"
+          ],
+          [
+            3652802754,
+            5,
+            "Seafoodflowery",
+            "PORTION B OF SHOP NO. 97, LG/F, BLOCK I, LOK MAN SUN CHUEN, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-14"
+          ],
+          [
+            3252199696,
+            6,
+            "7-Eleven",
+            "PORTION A OF SHOP NO. 132, G/F, LOK SEEN LAU, LOK MAN SUN CHUEN, TOKWAWAN, KOWLOON",
+            null,
+            "2027-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114858
+        ]
+      ],
+      "coordinate": [
+        1.9929218791513024,
+        0.38952028172623177,
+        36.900001525878906
+      ],
+      "halfSize": [
+        32.184355000033975,
+        35.9172249995172,
+        21.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113700,
+        2,
+        [
+          [
+            2952805304,
+            4,
+            "\u5ee3\u8c50\u71d2\u6ef7\u5c08\u9580\u5e97",
+            "PORTION B, G/F, 23 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3552800386,
+            8,
+            "\u5ee3\u8c50\u71d2\u6ef7\u5c08\u9580\u5e97",
+            "PORTION A, G/F, 23 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114862
+        ]
+      ],
+      "coordinate": [
+        1.9929670444888112,
+        0.3895238385118017,
+        25.049999237060547
+      ],
+      "halfSize": [
+        10.063265000004321,
+        7.650260000489652,
+        15.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113701,
+        2,
+        [
+          [
+            2952808853,
+            4,
+            "(NO RECORD FOUND)",
+            "G/F, (PORTION B), NO. 19 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-03-03"
+          ],
+          [
+            3552800508,
+            8,
+            "\u570b\u83ef\u71d2\u81d8\u9e75\u6c34\u5e97",
+            "G/F, (PORTION A), NO. 19 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-03-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114872
+        ]
+      ],
+      "coordinate": [
+        1.9929663529670376,
+        0.3895221644274215,
+        25.599998474121094
+      ],
+      "halfSize": [
+        7.709600000176579,
+        5.2463400000706315,
+        16.5
+      ]
+    },
+    {
+      "attributes": [
+        1168113702,
+        1,
+        [
+          [
+            2952803043,
+            4,
+            "\u65e6\u65e6\u9b5a\u8089",
+            "G/F, 13 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114887
+        ]
+      ],
+      "coordinate": [
+        1.9929651438699636,
+        0.3895202996236487,
+        24.700000762939453
+      ],
+      "halfSize": [
+        9.148045000154525,
+        5.44679499976337,
+        15.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1168113703,
+        1,
+        [
+          [
+            2952806501,
+            4,
+            "\u4e09\u5bf6\u5c0f\u98df",
+            "SHOP A, G/F, 352-354B MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114890
+        ]
+      ],
+      "coordinate": [
+        1.992945105299409,
+        0.3895198396700358,
+        25.44999885559082
+      ],
+      "halfSize": [
+        8.994694999884814,
+        4.662004999816418,
+        14.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113704,
+        1,
+        [
+          [
+            2152173340,
+            1,
+            "\u6771\u4eac\u9eb5\u5305\u9905\u5e97",
+            "G/F, 7 KOWLOON CITY RD, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114897
+        ]
+      ],
+      "coordinate": [
+        1.9929642120749684,
+        0.38951831326841846,
+        25.149999618530273
+      ],
+      "halfSize": [
+        11.133415000047535,
+        10.186710000038147,
+        16.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113705,
+        2,
+        [
+          [
+            2952807896,
+            4,
+            "\u826f\u8476",
+            "SHOP A, G/F, 1K-1N LOK SHAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-03-06"
+          ],
+          [
+            3552800322,
+            8,
+            "\u5510\u9806\u8208",
+            "G/F, 1M LOK SHAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114898
+        ]
+      ],
+      "coordinate": [
+        1.9929601972337767,
+        0.3895183001771054,
+        21.849998474121094
+      ],
+      "halfSize": [
+        9.804384999908507,
+        10.53213999979198,
+        12.249999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1168113706,
+        1,
+        [
+          [
+            2952801454,
+            4,
+            "\u96de\u86cb\u4ed4\u5c4b",
+            "SHOP 16A, G/F, CHIAP THONG BUILDING, 321-323 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114945
+        ]
+      ],
+      "coordinate": [
+        1.9930095297866453,
+        0.38951207373953484,
+        32.55000305175781
+      ],
+      "halfSize": [
+        14.749064999632537,
+        14.561604999937117,
+        12.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113707,
+        3,
+        [
+          [
+            2952268101,
+            4,
+            "\u8208\u767c\u71d2\u81d8",
+            "FLAT C, G/F, 5 LOK SHAN RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-11-06"
+          ],
+          [
+            3652802693,
+            5,
+            "\u65b0\u9bae\u8c6c\u8089",
+            "PORTION OF SHOP A ON G/F (NO.7 LOK SHAN ROAD), CHUNG SHUN BUILDING, NO.3 LOK SHAN ROAD, NOS.56A/C KOWLOON CITY ROAD, KOWLOON",
+            null,
+            "2026-06-15"
+          ],
+          [
+            4652803048,
+            5,
+            "\u65b0\u754c\u4ed4\u512a\u8cea\u98df\u6750",
+            "PORTIONS OF SHOP C, G/F, CHUNG SHUN BUILDING, NO. 3 LOK SHAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114951
+        ]
+      ],
+      "coordinate": [
+        1.9929699558637453,
+        0.3895116723107941,
+        25.649999618530273
+      ],
+      "halfSize": [
+        11.6808500001207,
+        15.033235000446439,
+        17.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113708,
+        2,
+        [
+          [
+            2952806060,
+            4,
+            "\u8c50\u4fee\u9903\u5b50\u96f2\u541e",
+            "SHOP F (PORTION A), G/F, KAM WO BUILDING, 48-50 KOWLOON CITY ROAD, TOKWAWAN, KOWLOON",
+            null,
+            "2026-02-27"
+          ],
+          [
+            3652029685,
+            5,
+            "\u91d1\u5bf6\u8089\u98df\u516c\u53f8",
+            "G/F, 48-50 LOK SHAN RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168114998
+        ]
+      ],
+      "coordinate": [
+        1.9929668931075295,
+        0.3895057608271405,
+        29.900001525878906
+      ],
+      "halfSize": [
+        12.812200000043958,
+        15.516610000282526,
+        22.0
+      ]
+    },
+    {
+      "attributes": [
+        1168113709,
+        2,
+        [
+          [
+            3652802435,
+            5,
+            "\u51a0\u8208\u51cd\u8089",
+            "PORTION OF G/F., HILL MAIN MANSION, NO. 45 HA HEUNG ROAD, KOWLOON",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3652802569,
+            5,
+            "Domestic Pigs Company Limited",
+            "REAR PORTIONS OF G/F, HILL MAIN MANSION, 47 HA HEUNG ROAD, MA TAU KOK, KOWLOON",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115013
+        ]
+      ],
+      "coordinate": [
+        1.992969537108094,
+        0.3895026393419636,
+        22.0
+      ],
+      "halfSize": [
+        14.570805000141263,
+        21.11538500059396,
+        14.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1168113710,
+        1,
+        [
+          [
+            3652802286,
+            5,
+            "\u9322\u5927\u5abd",
+            "PORTION B, G/F, LING NAM BUILDING, 9C & 9D LOK SHAN ROAD, KOWLOON",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115019
+        ]
+      ],
+      "coordinate": [
+        1.992980818254708,
+        0.3895034379049988,
+        22.100000381469727
+      ],
+      "halfSize": [
+        13.09375,
+        15.875,
+        16.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1168113711,
+        1,
+        [
+          [
+            2952807179,
+            4,
+            "SUSHI TAKE-OUT",
+            "G/F, 265 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115082
+        ]
+      ],
+      "coordinate": [
+        1.9929946749922287,
+        0.38949783623715273,
+        16.950000762939453
+      ],
+      "halfSize": [
+        6.960270000156015,
+        5.8125,
+        11.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113712,
+        1,
+        [
+          [
+            2952802527,
+            4,
+            "Pasta Factory",
+            "G/F, 28 MEI KING STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115111
+        ]
+      ],
+      "coordinate": [
+        1.9930041581141302,
+        0.3894958726242187,
+        23.049999237060547
+      ],
+      "halfSize": [
+        5.375,
+        5.0625,
+        18.25
+      ]
+    },
+    {
+      "attributes": [
+        1168113713,
+        1,
+        [
+          [
+            4652803011,
+            5,
+            "\u83ef\u8fb2\u512a\u9bae",
+            "PORTION A OF SHOP C, G/F, LUEN YIP BUILDING, NO.10-16A KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115198
+        ]
+      ],
+      "coordinate": [
+        1.992958150255527,
+        0.3894887868129319,
+        29.700000762939453
+      ],
+      "halfSize": [
+        10.201594999991357,
+        11.656640000641346,
+        22.0
+      ]
+    },
+    {
+      "attributes": [
+        1168113714,
+        1,
+        [
+          [
+            2952807036,
+            4,
+            "AE Bread Gallery",
+            "SHOP B, G/F, PAK KIN BUILDING, 288 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-12-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115217
+        ]
+      ],
+      "coordinate": [
+        1.9929457041270313,
+        0.38948821266698314,
+        33.39999771118164
+      ],
+      "halfSize": [
+        6.827655000146478,
+        5.40790499933064,
+        24.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1168113715,
+        1,
+        [
+          [
+            4952810414,
+            4,
+            "\u516b\u756a\u6ecb\u5473\u5e97",
+            "SHOP D, G/F, PHASE 1, MEI KING MANSION, 21 LOK SHAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115219
+        ]
+      ],
+      "coordinate": [
+        1.9929962099741636,
+        0.3894882018401011,
+        24.55000114440918
+      ],
+      "halfSize": [
+        4.819970000069588,
+        5.099940000101924,
+        19.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113716,
+        1,
+        [
+          [
+            4552800668,
+            8,
+            "Wellcome",
+            "STALL NO. 4 OF SHOP A & B, LOWER G/F., WEARBEST BUILDING, 66 TOKWAWAN ROAD, TOKWAWAN, KOWLOON",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115255
+        ]
+      ],
+      "coordinate": [
+        1.9929673640867551,
+        0.38948180604882143,
+        21.649999618530273
+      ],
+      "halfSize": [
+        26.646629999857396,
+        24.762625000439584,
+        15.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1168113717,
+        1,
+        [
+          [
+            2952805094,
+            4,
+            "\u5609\u8208\u8a18",
+            "SHOP XX, G/F, KIU FAT MANSION, NOS. 96, 96A-96H, 96J, 98, 100, 102, 104, 106, 106A-106H & 106J LOK SHAN ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-02-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115325
+        ]
+      ],
+      "coordinate": [
+        1.99299325426124,
+        0.3894764979701605,
+        27.049999237060547
+      ],
+      "halfSize": [
+        5.875,
+        5.75,
+        22.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1168113718,
+        1,
+        [
+          [
+            2952299903,
+            4,
+            "\u86c7\u738b\u6fe4",
+            "SHOP A1, G/F, BLOCK A, I-FENG MANSION, 40 CHI KIANG STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115326
+        ]
+      ],
+      "coordinate": [
+        1.9929791218542963,
+        0.3894731876200174,
+        27.100000381469727
+      ],
+      "halfSize": [
+        42.13914499990642,
+        26.0970900002867,
+        22.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113719,
+        4,
+        [
+          [
+            2952285593,
+            4,
+            "Zensho Hong Kong Co. Limited",
+            "UNIT A, 4/F, FOOK SHING INDUSTRIAL BUILDING, 1A YUK YAT STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2952303978,
+            4,
+            "Zensho Hong Kong Co. Limited",
+            "UNIT B, 4/F, FOOK SHING INDUSTRIAL BUILDING, 1A YUK YAT STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-03-30"
+          ],
+          [
+            2952805933,
+            4,
+            "FOOD CURATION",
+            "FLAT B, 3/F., FOOK SHING INDUSTRIAL BUILDING, 1A YUK YAT STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2952806413,
+            4,
+            "ZENSHO HONG KONG CO., LIMITED",
+            "PORTION OF FLAT A, 3/F., FOOK SHING INDUSTRIAL BUILDING, 1A YUK YAT STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115340
+        ]
+      ],
+      "coordinate": [
+        1.992995870670809,
+        0.38946985224599756,
+        32.900001525878906
+      ],
+      "halfSize": [
+        23.13169000018388,
+        22.347490000538528,
+        14.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113720,
+        2,
+        [
+          [
+            2952803034,
+            4,
+            "\u8208\u8208\u9903\u5b50\u9928",
+            "SHOP G5, G/F, 27 CHI KIANG STREET, TO KWA WAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-18"
+          ],
+          [
+            2952807081,
+            4,
+            "Bake Bake World",
+            "SHOP NO. 12 (RIGHT PORTION), G/F, PO TECK MANSION, 25A CHI KIANG STREET, KOWLOON",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115360
+        ]
+      ],
+      "coordinate": [
+        1.9929830548953533,
+        0.38946454787209606,
+        30.100000381469727
+      ],
+      "halfSize": [
+        15.373510000295937,
+        15.974984999746084,
+        21.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113721,
+        1,
+        [
+          [
+            2952805030,
+            4,
+            "Oriental Store",
+            "SHOP D, GROUND FLOOR, NO. 222-228 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115376
+        ]
+      ],
+      "coordinate": [
+        1.992943128141926,
+        0.38946162941345197,
+        20.44999885559082
+      ],
+      "halfSize": [
+        9.417159999720752,
+        6.037765000015497,
+        12.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1168113722,
+        1,
+        [
+          [
+            2952807106,
+            4,
+            "Tung Ho Foods Limited",
+            "MAJOR PORTION OF WORK SHOP B, 3/F, FUNG YU INDUSTRIAL BUILDING, 41 NGAN HON STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-12-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115377
+        ]
+      ],
+      "coordinate": [
+        1.992986780663136,
+        0.3894597975954175,
+        28.049999237060547
+      ],
+      "halfSize": [
+        20.96875,
+        16.562400000169873,
+        23.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1168113723,
+        1,
+        [
+          [
+            2952257000,
+            4,
+            "\u610f",
+            "G/F, 216 MA TAU WAI RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115393
+        ]
+      ],
+      "coordinate": [
+        1.992945135438559,
+        0.3894435468328037,
+        20.399999618530273
+      ],
+      "halfSize": [
+        16.848419999703765,
+        24.910980000160635,
+        13.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113724,
+        3,
+        [
+          [
+            2952801773,
+            4,
+            "\u6d77\u798f\u5802",
+            "SHOP B2, G/F., FOK ON BLDG., 92 MA TAU CHUNG RD., TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2952806732,
+            4,
+            "85\u00b0C",
+            "SHOP 3, G/F, FOK ON BUILDING, 90-98 MA TAU CHUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-19"
+          ],
+          [
+            3652800299,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOPS 4, 5A, 5B, 6A & 6B, G/F, FOK ON BUILDING, 90-98 MA TAU CHUNG ROAD, TOKWAWAN, KOWLOON",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115458
+        ]
+      ],
+      "coordinate": [
+        1.9929692756528927,
+        0.3896267659237438,
+        9.299999237060547
+      ],
+      "halfSize": [
+        24.126499999780208,
+        39.03650000039488,
+        3.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1168113725,
+        1,
+        [
+          [
+            2952802226,
+            4,
+            "CAFE CORNER",
+            "G/F (PORTION A) HARBOUR PLAZA 8 DEGREES, 199 KOWLOON CITY ROAD, KOWLOON",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115466
+        ]
+      ],
+      "coordinate": [
+        1.9930036141264,
+        0.3896088372451528,
+        9.0
+      ],
+      "halfSize": [
+        43.74771000025794,
+        33.67300000041723,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1168113726,
+        1,
+        [
+          [
+            2952807522,
+            4,
+            "UO-SHOW",
+            "PORTION A, G/F, 42-46 MA TAU CHUNG ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115472
+        ]
+      ],
+      "coordinate": [
+        1.9929561875621014,
+        0.3896004841771169,
+        16.100000381469727
+      ],
+      "halfSize": [
+        15.422999999951571,
+        19.12999999988824,
+        9.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113727,
+        2,
+        [
+          [
+            2952805465,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP NO. 8, G/F, METROPOLITAN RISE, 28 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            3652802170,
+            5,
+            "Qdama(Ma Tau Kok Shop)",
+            "PORTIONS OF SHOP 9, G/F, METROPOLITAN RISE, 28 MA TAU KOK ROAD, KOWLOON",
+            null,
+            "2026-10-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115474
+        ]
+      ],
+      "coordinate": [
+        1.992980627481091,
+        0.3895987730509945,
+        14.350000381469727
+      ],
+      "halfSize": [
+        31.95600000023842,
+        25.526879999786615,
+        9.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113728,
+        2,
+        [
+          [
+            2952256946,
+            4,
+            "\u8b5a\u516c\u9053\u5c0f\u98df",
+            "SHOP 3, G/F, TAK SHING MANSION, 48-54 TAM KUNG RD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-16"
+          ],
+          [
+            4652803057,
+            5,
+            "\u5ee3\u8c50\u9bae\u8089",
+            "SHOP 7, G/F, TAK SHING MANSION, 50 TAM KUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115475
+        ]
+      ],
+      "coordinate": [
+        1.9929659855975739,
+        0.3895976116660403,
+        12.300000190734863
+      ],
+      "halfSize": [
+        10.634500000160187,
+        11.347999999299645,
+        6.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113729,
+        1,
+        [
+          [
+            2152304964,
+            1,
+            "\u5e78\u904b\u661f",
+            "SHOP NO.4, G/F & 1/F, 35-45 MA TAU KOK ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115484
+        ]
+      ],
+      "coordinate": [
+        1.9929872569781961,
+        0.3895885141368689,
+        8.199999809265137
+      ],
+      "halfSize": [
+        16.08750000037253,
+        13.815999999642372,
+        3.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1168113730,
+        2,
+        [
+          [
+            2952809397,
+            4,
+            "\u5442\u9326\u8a18\u624b\u6495\u96de\u5c08\u9580\u5e97",
+            "SHOP C, G/F, ON NING BUILDING, 47, 51, 53 & 55 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-28"
+          ],
+          [
+            4652803039,
+            5,
+            "(NO RECORD FOUND)",
+            "PORTIONS OF SHOP D, G/F, ON NING BUILDING, 47-55 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115485
+        ]
+      ],
+      "coordinate": [
+        1.9929937487831695,
+        0.3895856103458572,
+        6.849999904632568
+      ],
+      "halfSize": [
+        12.07894999999553,
+        12.112540000118315,
+        2.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1168113731,
+        1,
+        [
+          [
+            2952807346,
+            4,
+            "\u6771\u4eac\u8857",
+            "SHOP B, G/F, SUN CHEONG BUILDING, NOS. 57-59 MA TAU KOK ROAD, KOWLOON",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115487
+        ]
+      ],
+      "coordinate": [
+        1.992997349243087,
+        0.38958486286994387,
+        6.199999809265137
+      ],
+      "halfSize": [
+        10.195855000056326,
+        8.031580000184476,
+        1.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1168113732,
+        1,
+        [
+          [
+            3652801919,
+            5,
+            "SURE WELL",
+            "(SHOP NOS. 6 & 7) PORTIONS, G/F, KAM SHING HOUSE, 146, 146A-C, 148, 148A-B, & 150 PAU CHUNG STREET, KOWLOON",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115490
+        ]
+      ],
+      "coordinate": [
+        1.9929901057820152,
+        0.389578312273489,
+        9.850000381469727
+      ],
+      "halfSize": [
+        15.545135000254959,
+        19.459759999997914,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113733,
+        1,
+        [
+          [
+            2952289692,
+            4,
+            "\u65b0\u9cf3\u5982\u71d2\u81d8\u98df\u54c1\u88fd\u9020\u516c\u53f8",
+            "SHOP A, G/F, 157-159 KOWLOON CITY ROAD, KOWLOON",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115492
+        ]
+      ],
+      "coordinate": [
+        1.9929942448312548,
+        0.38957862441096225,
+        6.5
+      ],
+      "halfSize": [
+        11.234534999821335,
+        10.242540000006557,
+        1.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1168113734,
+        2,
+        [
+          [
+            2952267694,
+            4,
+            "7-Eleven",
+            "SHOP A(PTN B), G/F, 24-24A PAK TAI ST, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-10-29"
+          ],
+          [
+            3252186313,
+            6,
+            "7-Eleven",
+            "SHOP A (PTN A), G/F, 24-24A PAK TAI STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115500
+        ]
+      ],
+      "coordinate": [
+        1.99295521429598,
+        0.3895692936827956,
+        11.649999618530273
+      ],
+      "halfSize": [
+        11.95509500009939,
+        10.325279999524355,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113735,
+        1,
+        [
+          [
+            2152147738,
+            1,
+            "Yue Tak Cake House",
+            "UNIT NO. 10, G/F, 141 KOWLOON CITY ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115501
+        ]
+      ],
+      "coordinate": [
+        1.9929851899531477,
+        0.38956440674103865,
+        9.050000190734863
+      ],
+      "halfSize": [
+        27.46350000007078,
+        29.04850000049919,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113736,
+        1,
+        [
+          [
+            3552800483,
+            8,
+            "\u6709\u6a02\u71d2\u5473",
+            "SHOP 3C, G/F, BLOCK 2, HILLVILLE TERRACE, NO. 28 TIN KWONG ROAD, KOWLOON",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115506
+        ]
+      ],
+      "coordinate": [
+        1.992934494553086,
+        0.3895551817269708,
+        21.200000762939453
+      ],
+      "halfSize": [
+        24.477455000393093,
+        9.347420000471175,
+        9.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113737,
+        3,
+        [
+          [
+            2952802457,
+            4,
+            "TASTE",
+            "STALL NO. 1 & 3, SHOP NO.12, 1/F., CELESTIAL PLACE, NO. 80 SHEUNG SHING STREET, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3652800712,
+            5,
+            "TASTE",
+            "STALL NO. 4, 5 & PORTIONS OF SHOP NO.12, 1/F., CELESTIAL PLACE, NO. 80 SHEUNG SHING STREET, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3552800191,
+            8,
+            "Taste",
+            "STALL NO. 2, SHOP NO. 12, 1/F., CELESTIAL PLACE, NO. 80 SHEUNG SHING STREET, KOWLOON",
+            null,
+            "2026-04-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115507
+        ]
+      ],
+      "coordinate": [
+        1.9929171090778262,
+        0.38954101190993157,
+        22.350000381469727
+      ],
+      "halfSize": [
+        65.33909000037238,
+        83.06984500028193,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1168113738,
+        1,
+        [
+          [
+            3652801186,
+            5,
+            "Wellcome",
+            "SHOP NOS.127-129 AND 130B (PORTION A), 1/F, GRAND WATERFRONT PLAZA, NO.38 SAN MA TAU STREET, TOKWAWAN, KOWLOON",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115512
+        ]
+      ],
+      "coordinate": [
+        1.9930551416181796,
+        0.38954442327727734,
+        16.549999237060547
+      ],
+      "halfSize": [
+        87.85466499999166,
+        54.916865000501275,
+        13.25
+      ]
+    },
+    {
+      "attributes": [
+        1168113739,
+        1,
+        [
+          [
+            2952803131,
+            4,
+            "\u65e5\u6607\u5c0f\u98df",
+            "SHOP C, G/F, MAIDSHINE COURT, 428 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115519
+        ]
+      ],
+      "coordinate": [
+        1.992944846966017,
+        0.3895460175510283,
+        16.25
+      ],
+      "halfSize": [
+        9.030344999860972,
+        8.252430000342429,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1168113740,
+        1,
+        [
+          [
+            2952804815,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "SHOP A, G/F, NO. 50 PAU CHUNG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115523
+        ]
+      ],
+      "coordinate": [
+        1.9929695768825118,
+        0.3895372771833582,
+        13.450000762939453
+      ],
+      "halfSize": [
+        10.342999999877065,
+        8.380499999970198,
+        3.750000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1168113741,
+        1,
+        [
+          [
+            2952245377,
+            4,
+            "WING FUNG FOOD CO.",
+            "G/F., 47A KOWLOON CITY RD., KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115524
+        ]
+      ],
+      "coordinate": [
+        1.9929735950940815,
+        0.38953639242311866,
+        11.049999237060547
+      ],
+      "halfSize": [
+        10.71019500028342,
+        12.223489999771118,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1168113742,
+        3,
+        [
+          [
+            2152205968,
+            1,
+            "\u96f2\u9802\u70d8\u7119",
+            "SHOP I, G/F & C/L, 46-48 PAU CHUNG ST, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2952802253,
+            4,
+            "\u694a\u6210\u7f8e\u98df",
+            "SHOP G, G/F & COCKLOFT, 46-48 PAU CHUNG STREET, TOKWAWAN, KOWLOON",
+            null,
+            "2026-10-03"
+          ],
+          [
+            4952810496,
+            4,
+            "\u6f64\u5fc3\u7cd6\u6c34",
+            "SHOP E, G/F & COCKLOFT, NO. 46-48 PAU CHUNG STREET, KOWLOON",
+            null,
+            "2026-05-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115525
+        ]
+      ],
+      "coordinate": [
+        1.992968853596941,
+        0.38953582736440606,
+        12.850000381469727
+      ],
+      "halfSize": [
+        10.442499999888241,
+        8.53099999949336,
+        3.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1168113743,
+        2,
+        [
+          [
+            2952804161,
+            4,
+            "SUPREME COOKIE",
+            "G/F, BLOCK B, CHONG CHIEN COURT, WYLER GARDENS, 89 MEI KING STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2952809616,
+            4,
+            "KILN CHICKEN KING",
+            "SHOP 11, G/F, CHONG CHIEN COURT, NO. 357 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115528
+        ]
+      ],
+      "coordinate": [
+        1.9930235790947848,
+        0.389525280900564,
+        6.75
+      ],
+      "halfSize": [
+        54.47410999983549,
+        57.95788000058383,
+        2.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1168113744,
+        1,
+        [
+          [
+            4952810362,
+            4,
+            "\u4e0a\u6d77\u7f8e\u98df\u4e4b\u5bb6",
+            "SHOP D1, G/F, MAY COURT, NOS. 38-44 PAU CHUNG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115529
+        ]
+      ],
+      "coordinate": [
+        1.9929665133601902,
+        0.3895311856910667,
+        11.699999809265137
+      ],
+      "halfSize": [
+        11.870499999728054,
+        11.401999999769032,
+        1.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1168113745,
+        1,
+        [
+          [
+            3652802374,
+            5,
+            "You Ying Food Store",
+            "PORTIONS OF SHOP B, G/F, GRANADA BUILDING, 35-37 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115530
+        ]
+      ],
+      "coordinate": [
+        1.9929692289404422,
+        0.3895285771136295,
+        12.0
+      ],
+      "halfSize": [
+        10.611000000033528,
+        8.849999999627471,
+        3.0
+      ]
+    },
+    {
+      "attributes": [
+        1168113746,
+        1,
+        [
+          [
+            2952808224,
+            4,
+            "ASAHIYA MEAT SHOP LIMITED",
+            "UNIT 418, 4/F, BRILL PLAZA, 84 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-12-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115531
+        ]
+      ],
+      "coordinate": [
+        1.9930080202955736,
+        0.3895250279424119,
+        12.09999942779541
+      ],
+      "halfSize": [
+        29.3933749999851,
+        27.417179999873042,
+        7.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113747,
+        5,
+        [
+          [
+            2952801676,
+            4,
+            "PARK'N SHOP",
+            "STALL NO. 4 & 5, SHOPS 30A & PORTION OF ARCADE, SHOP D1 AND 10, G/F, HANG CHIEN COURT, 108 MEI KING STREET, TOKWAWAN, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2952805605,
+            4,
+            "\u8c46\u829d\u9999",
+            "SHOP 2, G/F, 4G KWEI CHOW STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-28"
+          ],
+          [
+            3652800493,
+            5,
+            "PARK'N SHOP",
+            "STALL NO. 1& PORTIONS OF SHOPS 30A & PORTION OF ARCADE, SHOP D1 AND 10, GROUND FLOOR, HANG CHIEN COURT, 108 MEI KING STREET, TOKWAWAN, KOWLOON",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3652801247,
+            5,
+            "Wellcome",
+            "SHOP NOS. 3,4 & 22 (PORTIONS), G/F, CHONG CHIEN COURT, NOS. 331-361 TO KWA WAN ROAD, NOS. 2-6 SAN MA TAU STREET, NOS. 79-111 MEI KING STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-03-15"
+          ],
+          [
+            3552800128,
+            8,
+            "PARK'N SHOP",
+            "STALL NO. 3, SHOPS 30A & PORTION OF ARCADE, SHOP D1 AND 10, GROUND FLOOR, HANG CHIEN COURT, 108 MEI KING STREET, TOKWAWAN, KOWLOON",
+            null,
+            "2026-09-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115532
+        ]
+      ],
+      "coordinate": [
+        1.9930310836628176,
+        0.3895191391193252,
+        6.5
+      ],
+      "halfSize": [
+        59.169325000140816,
+        62.16409000009298,
+        2.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1168113748,
+        1,
+        [
+          [
+            2952801649,
+            4,
+            "\u541b\u5a01\u9905\u5e97",
+            "SHOP 3, G/F., LUCKY MANSION, 360 MA TAU WAI ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-04-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115533
+        ]
+      ],
+      "coordinate": [
+        1.9929449885185395,
+        0.38952623676984377,
+        17.950000762939453
+      ],
+      "halfSize": [
+        9.223185000009835,
+        12.2513100001961,
+        6.750000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1168113749,
+        1,
+        [
+          [
+            4652802975,
+            5,
+            "5369\u7279\u7522\u5c08\u71df\u5e97",
+            "PORTIONS OF SHOP H, G/F, WAH KING MANSION, NO. 44 HA HEUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115539
+        ]
+      ],
+      "coordinate": [
+        1.992985331965747,
+        0.38952127610061615,
+        9.449999809265137
+      ],
+      "halfSize": [
+        15.228499999735504,
+        20.84400000050664,
+        2.049999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1168113750,
+        1,
+        [
+          [
+            2952806556,
+            4,
+            "BOO DIM LUI LEE",
+            "SHOP A, G/F & C/L, 356 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-02-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115540
+        ]
+      ],
+      "coordinate": [
+        1.9929450069061816,
+        0.3895238599969404,
+        13.799999237060547
+      ],
+      "halfSize": [
+        9.162635000422597,
+        3.0694949999451637,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1168113751,
+        1,
+        [
+          [
+            3652802912,
+            5,
+            "\u65b0\u5354\u8208",
+            "SHOP NO. 3, G/F, MERRY MANSION, 47 CHEUNG NING STREET, KOWLOON",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115541
+        ]
+      ],
+      "coordinate": [
+        1.992988706891192,
+        0.38951959419181875,
+        8.800000190734863
+      ],
+      "halfSize": [
+        16.973634999711066,
+        22.503995000384748,
+        2.200000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1168113752,
+        1,
+        [
+          [
+            2952254515,
+            4,
+            "VERY GOOD CATERING SERVICE CENTRE",
+            "SHOP B, G/F, FULL YUET COURT, 79-87 HA HEUNG ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115542
+        ]
+      ],
+      "coordinate": [
+        1.9929786609597,
+        0.3895212284768687,
+        9.549999237060547
+      ],
+      "halfSize": [
+        11.975999999791384,
+        11.953999999910593,
+        1.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1168113753,
+        2,
+        [
+          [
+            2152253727,
+            1,
+            "\u559c\u627f\u70d8\u7119",
+            "SHOP E, G/F, BLOCK A, HONOUR BUILDING, 78-80W TOKWAWAN ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2952806538,
+            4,
+            "\u9ea5\u4e09\u6d77\u5357\u7279\u7522",
+            "SHOP 23, G/F , HONOUR BUILDING, 80C TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115544
+        ]
+      ],
+      "coordinate": [
+        1.9929933145914207,
+        0.3895103459588395,
+        9.199999809265137
+      ],
+      "halfSize": [
+        60.250500000081956,
+        74.45749999955297,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113754,
+        3,
+        [
+          [
+            4952810566,
+            4,
+            "\u91d1\u88d5\u6607\u5473\u7f8e\u98df",
+            "PORTION B OF SHOP A, G/F., MORNING JOY BUILDING, 141-143 KAU PUI LUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            4652803002,
+            5,
+            "Tian Dama",
+            "PORTIONS OF SHOP A, G/F., MORNING JOY BUILDING, 141-143 KAU PUI LUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-10"
+          ],
+          [
+            4552800659,
+            8,
+            "\u91d1\u88d5\u6607\u5473\u71d2\u5473",
+            "PORTION C OF SHOP A, G/F., MORNING JOY BUILDING, 141-143 KAU PUI LUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115545
+        ]
+      ],
+      "coordinate": [
+        1.9929321606601307,
+        0.3895169829649106,
+        19.100000381469727
+      ],
+      "halfSize": [
+        9.240065000019968,
+        21.57071499992162,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1168113755,
+        1,
+        [
+          [
+            3652803155,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP B, G/F, KA BO MANSION, NOS. 67-77 HA HEUNG ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-02-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115546
+        ]
+      ],
+      "coordinate": [
+        1.9929768729356545,
+        0.3895176359513854,
+        11.399999618530273
+      ],
+      "halfSize": [
+        13.936500000301749,
+        16.305500000715256,
+        3.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1168113756,
+        2,
+        [
+          [
+            2952808516,
+            4,
+            "\u65fb\u718f\u98df\u54c1\u516c\u53f8",
+            "SHOP NO. 2, G/F., WAH KEUNG BUILDING, 36 HA HEUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-01"
+          ],
+          [
+            3652802763,
+            5,
+            "916 Frozen Food Supermarket",
+            "PORTIONS OF SHOP NO. 3, G/F, WAH KEUNG BUILDING, NO. 36 HA HEUNG ROAD, KOWLOON",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115547
+        ]
+      ],
+      "coordinate": [
+        1.9929829524861598,
+        0.3895160489844466,
+        14.699999809265137
+      ],
+      "halfSize": [
+        14.210984999779612,
+        16.635005000047386,
+        7.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1168113757,
+        1,
+        [
+          [
+            3652802392,
+            5,
+            "\u51cd\u8089\u4f6c",
+            "G/F (PORTION) , NO. 62 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115548
+        ]
+      ],
+      "coordinate": [
+        1.99297221025992,
+        0.38951621869615644,
+        12.5
+      ],
+      "halfSize": [
+        10.857754999771714,
+        9.422245000489056,
+        4.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1168113758,
+        2,
+        [
+          [
+            2152285461,
+            1,
+            "\u91d1\u5473\u9eb5\u5305\u8216",
+            "NO.77, G/F, YIK YIN BUILDING, 73-77 MEI KING STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-24"
+          ],
+          [
+            2952800521,
+            4,
+            "\u701b\u9bae",
+            "SHOP B, G/F, 313 TO KWA WAN ROAD, KOWLOON",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115549
+        ]
+      ],
+      "coordinate": [
+        1.9930118603966298,
+        0.3895129530288017,
+        12.15000057220459
+      ],
+      "halfSize": [
+        30.178009999915957,
+        29.747564999386668,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1168113759,
+        1,
+        [
+          [
+            3652803137,
+            5,
+            "\u7965\u8208\u98df\u54c1\u6279\u767c\u5e02\u5834",
+            "PORTIONS OF SHOP NO. 1 & 2, G/F, CHEONG HING BUILDING, 26, 26A & 30 HA HEUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-12-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115553
+        ]
+      ],
+      "coordinate": [
+        1.9929797055330343,
+        0.38950957164561606,
+        11.300000190734863
+      ],
+      "halfSize": [
+        12.74750000005588,
+        13.62599999923259,
+        4.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1168113760,
+        1,
+        [
+          [
+            3652801362,
+            5,
+            "SHUN SUM FOODS COMPANY",
+            "PORTION OF SHOP A AND SHOP B, G/F,RICHES COURT, 22 HA HEUNG ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-01-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115559
+        ]
+      ],
+      "coordinate": [
+        1.9929783046482221,
+        0.38950674178453665,
+        10.850000381469727
+      ],
+      "halfSize": [
+        11.957500000018626,
+        11.746500000357628,
+        4.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1168113761,
+        1,
+        [
+          [
+            2952804806,
+            4,
+            "C. Domie Cake Shop",
+            "G/F, TOKWAWAN MANSION, NO. 283 TO KWA WAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115561
+        ]
+      ],
+      "coordinate": [
+        1.993001381359666,
+        0.3895045678440254,
+        6.0
+      ],
+      "halfSize": [
+        22.844000000040978,
+        23.156000000424683,
+        1.0
+      ]
+    },
+    {
+      "attributes": [
+        1168113762,
+        1,
+        [
+          [
+            4652802957,
+            5,
+            "(NO RECORD FOUND)",
+            "SHOP EAST, G/F, 9 LOK SHAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115562
+        ]
+      ],
+      "coordinate": [
+        1.992977489378944,
+        0.38950463936573604,
+        9.449999809265137
+      ],
+      "halfSize": [
+        10.112999999895692,
+        9.691500000655651,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1168113763,
+        1,
+        [
+          [
+            2952801898,
+            4,
+            "\u9d3b\u798f\u7f8e\u98df\u6709\u9650\u516c\u53f8",
+            "MINOR PORTION A OF 2/F., ORIENTAL DAILY NEWS BUILDING, 6 KWEI CHOW STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115563
+        ]
+      ],
+      "coordinate": [
+        1.9930263903700323,
+        0.38950365432504774,
+        13.200000762939453
+      ],
+      "halfSize": [
+        15.132000000216067,
+        15.211959999985993,
+        9.0
+      ]
+    },
+    {
+      "attributes": [
+        1168113764,
+        1,
+        [
+          [
+            3652029861,
+            5,
+            "\u65b0\u76db\u767c\u8089\u98df\u516c\u53f8",
+            "G/F., 35 MEI KING STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115566
+        ]
+      ],
+      "coordinate": [
+        1.993003995533817,
+        0.38950176028367295,
+        6.5
+      ],
+      "halfSize": [
+        18.843499999959022,
+        19.996499999426305,
+        1.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1168113765,
+        3,
+        [
+          [
+            2952807975,
+            4,
+            "Aunt Ann",
+            "PORTION A OF SHOP C, G/F, 36 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-04-23"
+          ],
+          [
+            3652800420,
+            5,
+            "\u5354\u8208\u8089\u98df\u516c\u53f8",
+            "G/F., NO. 40 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-24"
+          ],
+          [
+            4652802939,
+            5,
+            "(NO RECORD FOUND)",
+            "SHOP D1 & D2, G/F, HUNG YING HOUSE, NO. 34 KOWLOON CITY ROAD, TO KWA WAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115570
+        ]
+      ],
+      "coordinate": [
+        1.9929641620225258,
+        0.3895002256037913,
+        10.300000190734863
+      ],
+      "halfSize": [
+        10.955974999815226,
+        12.978700000792742,
+        2.3999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1168113766,
+        1,
+        [
+          [
+            2952124498,
+            4,
+            "CHOI LEE FROZEN MEAT COMPANY",
+            "G/F, 49 MEI KWONG ST, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115572
+        ]
+      ],
+      "coordinate": [
+        1.9930081417879155,
+        0.38949906057654005,
+        7.350000381469727
+      ],
+      "halfSize": [
+        14.368999999947846,
+        14.810499999672174,
+        2.750000238418579
+      ]
+    },
+    {
+      "attributes": [
+        1168113767,
+        17,
+        [
+          [
+            2952248765,
+            4,
+            "Appolo (Magic House) Superstore Ltd.",
+            "SHOP NO 213, HOMANTIN PLAZA, HOMANTIN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-03-28"
+          ],
+          [
+            2952804930,
+            4,
+            "Market Place by Jasons",
+            "SHOP NO. 305 (PORTION B), 3/F, HOMANTIN PLAZA, 80 FAT KWONG STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2952804949,
+            4,
+            "Market Place by Jasons",
+            "SHOP NO. 305 (PORTION C), 3/F, HOMANTIN PLAZA, 80 FAT KWONG STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2952805696,
+            4,
+            "LOK KA CONGEE SHOP",
+            "STALL NO. S31, G/F, HOMANTIN MARKET, HOMANTIN PLAZA, HOMANTIN ESTATE, HO MAN TIN, KOWLOON",
+            null,
+            "2026-03-25"
+          ],
+          [
+            2952805720,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. 10, G/F., HOMANTIN PLAZA, HO MAN TIN ESTATE, 80 FAT KWONG STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2952807160,
+            4,
+            "HUNG FOOK TONG",
+            "PORTION A OF SHOP NOS. 317A & 317B, LEVEL 3, HOMANTIN PLAZA, 80 FAT KWONG STREET, HOMANTIN, KOWLOON",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2952807531,
+            4,
+            "Chateraise",
+            "SHOP NO. 218, 2/F, HOMANTIN PLAZA, KOWLOON",
+            null,
+            "2026-09-12"
+          ],
+          [
+            2952808534,
+            4,
+            "Lam Hing",
+            "SHOP S2 & S3, G/F, HOMANTIN PLAZA, NO. 80 FAT KWONG STREET, HO MAN TIN , KOWLOON",
+            null,
+            "2026-05-20"
+          ],
+          [
+            3652801593,
+            5,
+            "Market Place by Jasons",
+            "SHOP NO. 305 (PORTIONS), 3/F, HOMANTIN PLAZA, 80 FAT KWONG STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-11-28"
+          ],
+          [
+            3652801733,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL NO. S17, G/F, MARKET, (HOMANTIN PLAZA), HOMANTIN ESTATE, HO MAN TIN, KOWLOON",
+            null,
+            "2026-08-27"
+          ],
+          [
+            3652801760,
+            5,
+            "\u91d1\u9f8d\u83ef\u725b\u8089",
+            "STALL NO. S37, G/F, MARKET, HOMANTIN PLAZA, HOMANTIN ESTATE, HO MAN TIN, KOWLOON",
+            null,
+            "2026-09-27"
+          ],
+          [
+            3652801788,
+            5,
+            "\u4f55\u6587\u7530\u9bae\u9b5a",
+            "STALL S23, G/F MARKET MALL, HOMANTIN PLAZA, HOMANTIN ESTATE, KOWLOON",
+            null,
+            "2026-10-08"
+          ],
+          [
+            3652801812,
+            5,
+            "\u5be6\u60e0\u8c6c\u8089",
+            "STALL NOS. S27 & S28, G/F, MARKET, HOMANTIN PLAZA, HOMANTIN ESTATE, HO MAN TIN, KOWLOON",
+            null,
+            "2026-11-18"
+          ],
+          [
+            3652801821,
+            5,
+            "\u5ee3\u6771\u8089\u98df",
+            "STALL NO. S38, G/F, MARKET, HOMANTIN PLAZA, HOMANTIN ESTATE, HO MAN TIN, KOWLOON",
+            null,
+            "2026-11-19"
+          ],
+          [
+            3652803100,
+            5,
+            "\u81f4\u65fa\u6d77\u9bae",
+            "STALL NO. S47, G/F, MARKET, HOMANTIN PLAZA, NO. 80 FAT KWONG STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3652803119,
+            5,
+            "\u81f4\u65fa\u9bae\u9b5a",
+            "STALL NO. S24, G/F, MARKET, HOMANTIN PLAZA, NO. 80 FAT KWONG STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3552800359,
+            8,
+            "Market Place by Jasons",
+            "SHOP NO. 305 (PORTION A), 3/F, HOMANTIN PLAZA, 80 FAT KWONG STREET, HO MAN TIN, KOWLOON",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115573
+        ]
+      ],
+      "coordinate": [
+        1.992849086623816,
+        0.38949138518075854,
+        48.44999694824219
+      ],
+      "halfSize": [
+        47.02499999990687,
+        54.46049999911338,
+        9.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113768,
+        1,
+        [
+          [
+            2952804426,
+            4,
+            "\u592a\u548c\u9905\u5e97",
+            "G/F, 80 LOK SHAN ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115577
+        ]
+      ],
+      "coordinate": [
+        1.9929854339642696,
+        0.3894872582441494,
+        6.949999809265137
+      ],
+      "halfSize": [
+        27.281500000040978,
+        28.6875,
+        2.049999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1168113769,
+        1,
+        [
+          [
+            2952809546,
+            4,
+            "LUNA Bakery",
+            "SHOP 223, 2/F, HO MAN TIN PLAZA, HO MAN TIN ESTATE, KOWLOON",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115584
+        ]
+      ],
+      "coordinate": [
+        1.992850299018762,
+        0.3894663978322797,
+        54.599998474121094
+      ],
+      "halfSize": [
+        38.51149999955669,
+        112.20149999950081,
+        11.5
+      ]
+    },
+    {
+      "attributes": [
+        1168113770,
+        1,
+        [
+          [
+            2952806972,
+            4,
+            "\u7cd5\u8c46\u7f8e\u98df",
+            "SHOP 7, G/F, NO. 272-274 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-11-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115586
+        ]
+      ],
+      "coordinate": [
+        1.9929451853172293,
+        0.3894762566449783,
+        13.350000381469727
+      ],
+      "halfSize": [
+        9.913000000175089,
+        7.352500000037253,
+        5.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1168113771,
+        1,
+        [
+          [
+            2952808552,
+            4,
+            "85 C",
+            "G/F, WANG FUNG BUILDING, NO. 31E CHI KIANG STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115590
+        ]
+      ],
+      "coordinate": [
+        1.9929721768809259,
+        0.3894703942867209,
+        9.600000381469727
+      ],
+      "halfSize": [
+        27.665000000037253,
+        17.75499999988824,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1168113772,
+        1,
+        [
+          [
+            2952801995,
+            4,
+            "\u4fe1\u8208\u9686",
+            "SHOP F, G/F, MORNING RAY MANSION, 182-186 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115609
+        ]
+      ],
+      "coordinate": [
+        1.9929458322767712,
+        0.38943189964959407,
+        12.25
+      ],
+      "halfSize": [
+        8.729255000129342,
+        7.285415000282228,
+        6.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1168113773,
+        2,
+        [
+          [
+            2952801241,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 6, G/F., YEE FAI BUILDING, 423-433 CHATHAM ROAD NORTH, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3252800152,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 6, G/F., YEE FAI BUILDING, 423-433 CHATHAM ROAD NORTH, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115611
+        ]
+      ],
+      "coordinate": [
+        1.9929244423902412,
+        0.38942624626745587,
+        16.899999618530273
+      ],
+      "halfSize": [
+        14.837500000372529,
+        16.552500000223517,
+        3.700000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1168113774,
+        8,
+        [
+          [
+            2152800134,
+            1,
+            "KING BAKERY",
+            "SHOP 11, G/F, JUBILANT PLACE, TOKWAWAN, KOWLOON",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2952218984,
+            4,
+            "PIZZA HUT",
+            "SHOP NO 7, G/F, JUBILANT PLACE, 33 MA TAU KOK RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2952803292,
+            4,
+            "HUNG FOOK TONG",
+            "SHOP NO.34, G/F, JUBILANT PLACE, 33 MA TAU KOK ROAD, TOKWAWAN, KOWLOON",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2952804727,
+            4,
+            "fusion",
+            "STALL NO. 5, SHOP NO. 27, G/F, JUBILANT PLAZA, 33 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2952804736,
+            4,
+            "fusion",
+            "STALL NO. 1, SHOP NO. 27, G/F, JUBILANT PLAZA, 33 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2952806033,
+            4,
+            "\u76c8\u82d1\u6d77\u9bae\u9152\u5bb6",
+            "SHOP 33A, G/F, COMMERCIAL COMPLEX, JUBILANT PLAZA, 33 MA TAU KOK ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-16"
+          ],
+          [
+            3652801539,
+            5,
+            "fusion",
+            "STALL NO. 3, 4 & PORTIONS OF SHOP NO. 27, G/F, JUBILANT PLAZA, 33 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-30"
+          ],
+          [
+            3552800331,
+            8,
+            "fusion",
+            "STALL NO. 2, SHOP NO. 27, G/F, JUBILANT PLAZA, 33 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115621
+        ]
+      ],
+      "coordinate": [
+        1.9929775428002583,
+        0.38958412627783623,
+        7.75
+      ],
+      "halfSize": [
+        66.79449999984354,
+        70.07949999999255,
+        2.6499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1168113775,
+        2,
+        [
+          [
+            2952808701,
+            4,
+            "\u91d1\u7345\u70e4\u8089\u5712",
+            "SHOP NO. 15, G/F, THE ZUTTEN, NO. 50 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-11-06"
+          ],
+          [
+            4652802993,
+            5,
+            "(NO RECORD FOUND)",
+            "SHOP 3, G/F, THE ZUTTEN, 50 MA TAU KOK ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115714
+        ]
+      ],
+      "coordinate": [
+        1.9929977436068822,
+        0.38959123060757544,
+        12.899999618530273
+      ],
+      "halfSize": [
+        21.201204999815673,
+        25.025915000587702,
+        8.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1168113776,
+        1,
+        [
+          [
+            3652803182,
+            5,
+            "DeliFans",
+            "PORTIONS OF SHOP E ON G/F., 93 PAU CHUNG STREET, NO. 24 SAN SHAN ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2027-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115725
+        ]
+      ],
+      "coordinate": [
+        1.992975116812461,
+        0.3895712548370836,
+        14.949999809265137
+      ],
+      "halfSize": [
+        30.727565000299364,
+        20.205779999494553,
+        8.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1168113777,
+        1,
+        [
+          [
+            2952801135,
+            4,
+            "\u71d2\u70e4\u5e97",
+            "SHOP D2, G/F, 101 TAM KUNG ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115730
+        ]
+      ],
+      "coordinate": [
+        1.9929699909123832,
+        0.389620207950664,
+        8.800000190734863
+      ],
+      "halfSize": [
+        9.522160000167787,
+        6.526350000873208,
+        2.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1168113778,
+        8,
+        [
+          [
+            2952806291,
+            4,
+            "SODA MALL",
+            "SHOP 10, G/F, NO. 23 SUNG ON STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-18"
+          ],
+          [
+            2952806307,
+            4,
+            "SODA MALL",
+            "MAJOR PORTION OF SHOP 11, G/F, NO. 23 SUNG ON STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2952807461,
+            4,
+            "EC EVENTS & CATERING MANAGEMENT",
+            "SHOP 14, G/F, UPPER EAST, 23 SUNG ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2952808093,
+            4,
+            "\u6cf0\u5f0f\u7f8e\u98df",
+            "SHOP 9, G/F, NO. 23 SUNG ON STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2952808127,
+            4,
+            "K-Food Kitchen",
+            "PORTION OF SHOP 04, G/F, UPPER EAST, 23 SUNG ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2952809245,
+            4,
+            "Tastea coffee",
+            "SHOP 05-06, G/F, UPPER EAST, 23 SUNG ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-08"
+          ],
+          [
+            4952810502,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP 03 OF SODA MALL ON GROUND FLOOR, UPPER EAST, 23 SUNG ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3652802107,
+            5,
+            "SODA MALL",
+            "MINOR PORTION OF SHOP 11, G/F, NO. 23 SUNG ON STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115739
+        ]
+      ],
+      "coordinate": [
+        1.9929751559619655,
+        0.38943512519504087,
+        12.34999942779541
+      ],
+      "halfSize": [
+        36.995714999735355,
+        21.67052000015974,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113779,
+        2,
+        [
+          [
+            2952807124,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "PORTION OF SHOP 2, G/F, COMMERCIAL ACCOMMODATION, DOWNTOWN 38, NO. 38 PAK TAI STREET, KOWLOON",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2952807382,
+            4,
+            "\u98f2\u591a\u5169\u76c5",
+            "SHOP NO. 9, G/F, DOWNTOWN 38, PAK TAI STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115760
+        ]
+      ],
+      "coordinate": [
+        1.9929639427423063,
+        0.38957273932217995,
+        18.799999237060547
+      ],
+      "halfSize": [
+        19.273940000217408,
+        28.228084999136627,
+        12.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1168113780,
+        4,
+        [
+          [
+            2952809050,
+            4,
+            "TOP ONE TAKOYAKI (KAI TAK) x TEA BASARA",
+            "SHOP NO. A-001, LEVEL G, KAI TAK ARENA, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2952809120,
+            4,
+            "\u5403\u8336\u4e09\u5343",
+            "SHOP NO. A-007, LEVEL G, KAI TAK ARENA, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2952809227,
+            4,
+            "APPOLO",
+            "SHOP A-005, LEVEL G, KAI TAK ARENA, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2952809449,
+            4,
+            "SUBWAY KAI TAK",
+            "SHOP NO. A-002, LEVEL G, KAI TAK ARENA, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115787
+        ]
+      ],
+      "coordinate": [
+        1.993109224294726,
+        0.3896510337570384,
+        20.100000381469727
+      ],
+      "halfSize": [
+        68.21593499975279,
+        95.89041500451276,
+        4.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1168113781,
+        15,
+        [
+          [
+            2952808826,
+            4,
+            "(NO RECORD FOUND)",
+            "REFRESHMENT SHOP, L01, PUBLIC SPORTS GROUND, 38 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2952808932,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 1 & 2, L02 AND KEG ROOM K10, L01, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2952808941,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 3, 4 & 5, L02 AND KEG ROOM K03, L01, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2952808969,
+            4,
+            "Arena F&B",
+            "ARENA F&B, LEVEL 1M, MAIN ARENA, INDOOR SPORTS CENTRE, 38 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2952808987,
+            4,
+            "(NO RECORD FOUND)",
+            "KIT SAT 4, L03, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2952808996,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 8, L02 AND KEG ROOM K05, L01, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2952809005,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 9, 10 & 11, L02 AND KEG ROOM K06, L01, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2952809023,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 6 & 7, L02 AND KEG ROOM K04, L01, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2952809032,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 5, L05 AND KEG ROOM K05, L04, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2952809041,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 6, L05 AND KEG ROOM K06, L04, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2952809069,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 4, L05 AND KEG ROOM K04, L04, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2952809087,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 2, L03 AND KEG ROOM K26, L02, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2952809096,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 1, L05 AND KEG ROOM K01, L04, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2952809102,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 1, L03 AND KEG ROOM K02, L02, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2952809148,
+            4,
+            "(NO RECORD FOUND)",
+            "BAR 2 & 3, L05 AND KEG ROOM K03, L04, MAIN STADIUM, 39 SHING KAI ROAD, KAI TAK, KOWLOON",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1168115804
+        ]
+      ],
+      "coordinate": [
+        1.9931153088528257,
+        0.3896178371699723,
+        10.449999809265137
+      ],
+      "halfSize": [
+        261.8608634695993,
+        380.8898737281561,
+        4.949999809265137
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1067450368,
+        1,
+        [
+          [
+            2296800816,
+            0,
+            "\u5357\u9f4b",
+            "G/F, CANTEEN BLOCK, WUN CHUEN SIN KWOON, 188 PING CHE ROAD, TA KWU LING, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1067451067
+        ]
+      ],
+      "coordinate": [
+        1.992404682684272,
+        0.3932327033076366,
+        13.149999618530273
+      ],
+      "halfSize": [
+        26.4089999999851,
+        28.33200000040233,
+        1.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1067450369,
+        1,
+        [
+          [
+            2296803806,
+            0,
+            "POK OI SING PING VILLAGE CANTEEN",
+            "UNIT G04, POK OI SING PING VILLAGE SERVICE BUILDING, 200 PING CHE ROAD, TA KWU LING, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1067451251
+        ]
+      ],
+      "coordinate": [
+        1.9923537305794548,
+        0.39326094378214926,
+        19.100000381469727
+      ],
+      "halfSize": [
+        36.61303999973461,
+        44.84905500058085,
+        6.600000381469727
+      ]
+    }
+  ]
+}

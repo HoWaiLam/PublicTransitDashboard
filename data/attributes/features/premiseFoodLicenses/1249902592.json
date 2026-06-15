@@ -1,0 +1,389 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1249902592,
+        1,
+        [
+          [
+            3697802432,
+            5,
+            "fusion",
+            "PORTIONS OF LOWER GROUND FLOOR, THE JOHN FULTON CENTRE, THE CHINESE UNIVERSITY OF HONG KONG, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249902662
+        ]
+      ],
+      "coordinate": [
+        1.9932469862293671,
+        0.39127206425586125,
+        96.0
+      ],
+      "halfSize": [
+        18.21199999982491,
+        17.01549999974668,
+        8.699996948242188
+      ]
+    },
+    {
+      "attributes": [
+        1249902593,
+        5,
+        [
+          [
+            4997815735,
+            4,
+            "No Record",
+            "MARKET STALL NO. 29, G/F., KAM TAI SHOPPING CENTRE, NO. 31 NING TAI ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            4997815780,
+            4,
+            "SUSHI HANGRY",
+            "MARKET STALL NO. 27, G/F, KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3697803657,
+            5,
+            "Wellcome",
+            "SHOPS NO. 101 (PORTION A & PORTIONS), 1/F, KAM TAI SHOPPING CENTRE, 31 NING TAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3697804003,
+            5,
+            "\u5bcc\u5f37\u9bae\u9b5a",
+            "SHOP NO. 16, MARKET, G/F, KAM TAI SHOPPING CENTRE, 31 NING TAI ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3597800824,
+            8,
+            "\u5bcc\u6cf0\u71d2\u81d8",
+            "SHOP 30, G/F, KAM TAI SHOPPING CENTRE, 31 NING TAI ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249902912
+        ]
+      ],
+      "coordinate": [
+        1.993548809966006,
+        0.3911085753704925,
+        19.549999237060547
+      ],
+      "halfSize": [
+        38.56041999999434,
+        55.76404000073671,
+        13.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1249902594,
+        10,
+        [
+          [
+            2997809659,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "STALL NO.1, KAM TAI MARKET ON GROUND FLOOR,COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2997809826,
+            4,
+            "\u9ea5\u5de5\u574a",
+            "STALL NO. 25, KAM TAI MARKET ON GROUND FLOOR, COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2997811540,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO.1, GROUND FLOOR, COMMERCIAL/CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2997814062,
+            4,
+            "\u6e2f\u539f\u5473",
+            "STALL NO. 24, G/F, KAM TAI MARKET, COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            3697804012,
+            5,
+            "\u986f\u6e90\u725b\u8089",
+            "SHOP 8, G/F, KAM TAI MARKET, COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            3697804085,
+            5,
+            "\u5be6\u60e0\u8c6c\u8089",
+            "STALL NO. 2 & 3, G/F, KAM TAI MARKET, COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            3697804182,
+            5,
+            "\u5ee3\u6771\u8089\u98df\u516c\u53f8",
+            "STALL NO. 7, G/F, KAM TAI MARKET, COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            3697804979,
+            5,
+            "\u91d1\u65fa\u51cd\u8089\u8d85\u5e02",
+            "STALL NOS. 10, 11 & 12A, G/F, KAM TAI MARKET, COMMERCIAL/CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-20"
+          ],
+          [
+            3697805006,
+            5,
+            "\u7f8e\u4eba\u9b5a",
+            "STALL NO. 13, G/F, KAM TAI MARKET, COMMERCIAL/ CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            4697804853,
+            5,
+            "\u660e\u8a18\u6d77\u9bae",
+            "STALL NO.15, KAM TAI MARKET ON GROUND FLOOR, COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903086
+        ]
+      ],
+      "coordinate": [
+        1.9935246654773389,
+        0.39109226411655973,
+        63.25
+      ],
+      "halfSize": [
+        18.869999999646097,
+        19.091640000231564,
+        56.94999694824219
+      ]
+    },
+    {
+      "attributes": [
+        1249902595,
+        1,
+        [
+          [
+            2997804894,
+            4,
+            "tong kee bao dim",
+            "MTR STATION SHOP UNI 6, UNIVERSITY STATION, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903292
+        ]
+      ],
+      "coordinate": [
+        1.99334469771786,
+        0.3911891031504772,
+        8.449999809265137
+      ],
+      "halfSize": [
+        28.725000000093132,
+        45.71167499944568,
+        2.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1249902596,
+        2,
+        [
+          [
+            2997801804,
+            4,
+            "No Record",
+            "SHOP 2, LEVEL 3, HYATT REGENCY HONG KONG, SHA TIN , 18 CHAK CHEUNG STREET , SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2997805055,
+            4,
+            "Hyatt Regency Hong Kong, Sha Tin",
+            "LEVEL 2 (PORTION A), HYATT REGENCY HONG KONG, SHA TIN, 18 CHAK CHEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903330
+        ]
+      ],
+      "coordinate": [
+        1.9933614275139275,
+        0.39115565263794216,
+        10.75
+      ],
+      "halfSize": [
+        70.18283000029624,
+        81.99786499980837,
+        5.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1249902597,
+        7,
+        [
+          [
+            2997807307,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G01, G/F, 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-10"
+          ],
+          [
+            2997807495,
+            4,
+            "TASTE",
+            "STALL NO. 7, SHOP 301, 3/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2997807644,
+            4,
+            "TASTE",
+            "STALL NO. 3, SHOP 301, 3/F, WE GO MALL, NO. 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2997808009,
+            4,
+            "TASTE",
+            "STALL NO. 5, SHOP 301, 3/F, WE GO MALL, NO. 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-14"
+          ],
+          [
+            2997808018,
+            4,
+            "TASTE",
+            "STALL NO. 6, SHOP 301, 3/F, WE GO MALL, NO. 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-14"
+          ],
+          [
+            3697803107,
+            5,
+            "TASTE",
+            "STALL NO. 1, 2 & PORTIONS OF SHOP 301, 3/F, WE GO MALL, NO. 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3597800480,
+            8,
+            "TASTE",
+            "STALL NO. 4, SHOP 301, 3/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903446
+        ]
+      ],
+      "coordinate": [
+        1.9935833619800847,
+        0.3912001951184814,
+        18.0
+      ],
+      "halfSize": [
+        34.106760000344366,
+        53.26047999970615,
+        11.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1249902598,
+        2,
+        [
+          [
+            2997813351,
+            4,
+            "Original Taste Workshop",
+            "SHOP G02, G/F., CUHK MEDICAL CENTRE, 9 CHAK CHEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2997813388,
+            4,
+            "I.Teeea",
+            "SHOP G01, G/F, CUHK MEDICAL CENTRE, 9 CHAK CHEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903492
+        ]
+      ],
+      "coordinate": [
+        1.9933636690871597,
+        0.3911893262577821,
+        46.75
+      ],
+      "halfSize": [
+        63.67286500008777,
+        46.257589999586344,
+        30.55000114440918
+      ]
+    }
+  ]
+}

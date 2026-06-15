@@ -1,0 +1,176 @@
+{
+  "features": [
+    {
+      "attributes": [
+        629145600,
+        1,
+        [
+          [
+            3117800729,
+            1,
+            "The Bounty Entertainment & Sports Bar",
+            "SHOP 5A, G/F., 82 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          629145662
+        ]
+      ],
+      "coordinate": [
+        1.9899604730220937,
+        0.3893220450862211,
+        11.350000381469727
+      ],
+      "halfSize": [
+        26.70035000005737,
+        42.785410000011325,
+        5.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        629145601,
+        3,
+        [
+          [
+            2217801335,
+            0,
+            "No Record",
+            "2/F (PORTION A), AUBERGE DISCOVERY BAY, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2217801344,
+            0,
+            "No Record",
+            "G/F (PORTION A), AUBERGE DISCOVERY BAY, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2217801353,
+            0,
+            "No Record",
+            "G/F (PORTION C) AND 1/F (PORTION A), AUBERGE DISCOVERY BAY, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          629146083
+        ]
+      ],
+      "coordinate": [
+        1.989972768595258,
+        0.389336643484777,
+        14.0
+      ],
+      "halfSize": [
+        32.819450000301,
+        51.90211999975145,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        629145602,
+        3,
+        [
+          [
+            2217801946,
+            0,
+            "Pachanga",
+            "SHOP NO. G12, G/F., 92 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2217803526,
+            0,
+            "Smokey Joe's Beer Beef BBQ",
+            "SHOP NO. G08, G/F., 92 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-03-20"
+          ],
+          [
+            3117800482,
+            1,
+            "UNCLE RUSS COFFEE",
+            "LG19, LOWER GROUND, DISCOVERY BAY NORTH DEVELOPMENT, DISCOVERY BAY, 92 SIENA AVENUE, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          629146084
+        ]
+      ],
+      "coordinate": [
+        1.9899647769331377,
+        0.389350216132946,
+        11.899999618530273
+      ],
+      "halfSize": [
+        31.406260000076145,
+        34.50410000048578,
+        2.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        629145603,
+        3,
+        [
+          [
+            2217802912,
+            0,
+            "\u8d8a\u4e0d\u540c",
+            "SHOP NO. G27, G/F., 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2217803067,
+            0,
+            "TASTE OF THAI",
+            "SHOP NO. G30, G/F, 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2217803669,
+            0,
+            "JOO Korean grill & bar",
+            "SHOP NO. G29, G/F, 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-10-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          629146091
+        ]
+      ],
+      "coordinate": [
+        1.9899689725528686,
+        0.3893649497578236,
+        14.25
+      ],
+      "halfSize": [
+        44.90923999994993,
+        45.04635000042617,
+        6.049999713897705
+      ]
+    }
+  ]
+}

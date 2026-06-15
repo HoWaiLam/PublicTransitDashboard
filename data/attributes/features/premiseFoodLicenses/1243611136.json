@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1243611136,
+        1,
+        [
+          [
+            2997814929,
+            4,
+            "Food Angel Jockey Club Food Production Centre",
+            "G/F. (PORTION), 1/F. (PORTION) AND 2/F. (PORTION), NO. 1 TO SHEK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1243611336
+        ]
+      ],
+      "coordinate": [
+        1.993261781147814,
+        0.39058154491974306,
+        15.300000190734863
+      ],
+      "halfSize": [
+        41.442275000270456,
+        34.706694999709725,
+        8.90000057220459
+      ]
+    }
+  ]
+}

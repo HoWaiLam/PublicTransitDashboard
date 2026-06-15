@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1031798784,
+        1,
+        [
+          [
+            3261801036,
+            6,
+            "Pineapple Canteen",
+            "LS2, NEAR COMPETITION PAVILION, ART PARK,WEST KOWLOON CULTURAL DISTRICT, KOWLOON",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1031798813
+        ]
+      ],
+      "coordinate": [
+        1.9924053095097027,
+        0.38919327077965277,
+        7.099999904632568
+      ],
+      "halfSize": [
+        87.12598499981686,
+        34.712680000811815,
+        2.299999713897705
+      ]
+    }
+  ]
+}

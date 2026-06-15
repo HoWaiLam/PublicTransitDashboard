@@ -1,0 +1,603 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1159725056,
+        1,
+        [
+          [
+            3612800738,
+            5,
+            "fusion",
+            "PORTIONS OF SHOP ON GROUND FLOOR, LAI SING BUILDING, NOS. 13-19 SING WOO ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725088
+        ]
+      ],
+      "coordinate": [
+        1.9929084742444447,
+        0.388679497019837,
+        12.699999809265137
+      ],
+      "halfSize": [
+        13.065814999863505,
+        13.081869999878109,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1159725057,
+        1,
+        [
+          [
+            3612801537,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOPS NOS. A & B, G/F, UNIQUE TOWER, NOS. 7-9 WONG NAI CHUNG ROAD, HONG KONG",
+            null,
+            "2026-03-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725091
+        ]
+      ],
+      "coordinate": [
+        1.9928863066105322,
+        0.3886765108015032,
+        10.600000381469727
+      ],
+      "halfSize": [
+        12.02199999988079,
+        18.002999999560416,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1159725058,
+        1,
+        [
+          [
+            3612800400,
+            5,
+            "Wellcome",
+            "G/ F (PORTION A), ELEGANCE COURT, NOS. 2 & 4, TSOI TAK STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-04-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725098
+        ]
+      ],
+      "coordinate": [
+        1.992918533840905,
+        0.3886761803665262,
+        17.100000381469727
+      ],
+      "halfSize": [
+        12.324999999720603,
+        12.420000000856817,
+        6.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1159725059,
+        1,
+        [
+          [
+            2112139573,
+            1,
+            "Tin Lok Bakery",
+            "SHOP 1, G/F & 1/F, 2 MIN FAT STREET., HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725122
+        ]
+      ],
+      "coordinate": [
+        1.9929286261225896,
+        0.3886625966538425,
+        16.700000762939453
+      ],
+      "halfSize": [
+        8.620000000111759,
+        10.088000000454485,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1159725060,
+        2,
+        [
+          [
+            2912803087,
+            4,
+            "Fusion",
+            "STALL NO. 8 & 9, THE WHOLE OF LOWER GROUND FLOOR, FINE MANSION, NOS 32-40 VILLAGE RD, HONG KONG",
+            null,
+            "2026-04-18"
+          ],
+          [
+            3612062303,
+            5,
+            "Fusion",
+            "STALL NO. 1 & PORTION OF THE WHOLE OF LOWER GROUND FLOOR, FINE MANSION, NOS 32-40 VILLAGE RD, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725178
+        ]
+      ],
+      "coordinate": [
+        1.9928981886499488,
+        0.38864246218213805,
+        24.100000381469727
+      ],
+      "halfSize": [
+        29.222000000067055,
+        21.94482500012964,
+        3.3999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1159725061,
+        3,
+        [
+          [
+            2915801772,
+            4,
+            "Korean Squid Food Cart",
+            "KOREAN SQUID FOOD CART, K39, THRILL MOUNTAIN, THE SUMMIT, WONG CHUK HANG ROAD, BRICK HILL, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2915801790,
+            4,
+            "Clown Corner",
+            "K38, THRILL MOUNTAIN, THE SUMMIT,WONG CHUK HANG ROAD, BRICK HILL, ABERDEEN, HONG KONG",
+            null,
+            "2027-03-15"
+          ],
+          [
+            3215800197,
+            6,
+            "Refill Station",
+            "K37, THRILL MOUNTAIN, THE SUMMIT, WONG CHUK HANG ROAD, BRICK HILL, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725214
+        ]
+      ],
+      "coordinate": [
+        1.9928824873029192,
+        0.38860683175958594,
+        152.0
+      ],
+      "halfSize": [
+        39.69050000002608,
+        31.47550000064075,
+        16.800003051757812
+      ]
+    },
+    {
+      "attributes": [
+        1159725062,
+        2,
+        [
+          [
+            2912804576,
+            4,
+            "Market Place",
+            "1/F (PORTION C), JARDINE'S LOOKOUT, 5 PERKIN'S ROAD, HONG KONG",
+            null,
+            "2027-02-07"
+          ],
+          [
+            3612088233,
+            5,
+            "Market Place",
+            "1/F.(PTN.), JARDINE LOOKOUT, 5 PERKINS RD., WAN CHAI, HONG KONG",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725299
+        ]
+      ],
+      "coordinate": [
+        1.9930207770214339,
+        0.38869583187788126,
+        125.64999389648438
+      ],
+      "halfSize": [
+        18.80168499983847,
+        21.44672999996692,
+        4.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1159725063,
+        1,
+        [
+          [
+            2912800811,
+            4,
+            "Circle K Convenience Store",
+            "PORTION A OF SHOP B, G/F., HOOLEY MANSION, NOS. 21-23 WONG NAI CHUNG ROAD, HONG KONG",
+            null,
+            "2026-07-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725412
+        ]
+      ],
+      "coordinate": [
+        1.992893359950334,
+        0.38867911502564473,
+        26.200000762939453
+      ],
+      "halfSize": [
+        11.692245000042021,
+        17.28836499992758,
+        18.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1159725064,
+        1,
+        [
+          [
+            2912807441,
+            4,
+            "Hung Fook Tong",
+            "PORTION A OF GROUND FLOOR OF NO. 8 SING WOO ROAD, HONG KONG",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725414
+        ]
+      ],
+      "coordinate": [
+        1.9928998296737146,
+        0.38867945462007725,
+        22.75
+      ],
+      "halfSize": [
+        12.300499999895692,
+        9.674000000581145,
+        14.25
+      ]
+    },
+    {
+      "attributes": [
+        1159725065,
+        3,
+        [
+          [
+            2912802534,
+            4,
+            "Mercato Gourmet",
+            "REAR PORTION OF G/F., 23 SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-18"
+          ],
+          [
+            2912803795,
+            4,
+            "Saint Honore Cake Shop",
+            "G/F., NO. 21 SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-05"
+          ],
+          [
+            3612800446,
+            5,
+            "Mercato Gourmet",
+            "FRONT PORTION OF G/F., 23 SING WOO ROAD, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725425
+        ]
+      ],
+      "coordinate": [
+        1.9929102230758837,
+        0.38867793054758437,
+        22.100000381469727
+      ],
+      "halfSize": [
+        8.14640500023961,
+        8.802499999292195,
+        13.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1159725066,
+        1,
+        [
+          [
+            2912810186,
+            4,
+            "N+ BURGER",
+            "SHOP 1, G/F, KING KWONG MANSION, 8 KING KWONG STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-11-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725477
+        ]
+      ],
+      "coordinate": [
+        1.992908418694564,
+        0.3886717853697796,
+        46.25
+      ],
+      "halfSize": [
+        9.668014999944717,
+        9.371779999695718,
+        36.55000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1159725067,
+        1,
+        [
+          [
+            2912802482,
+            4,
+            "DOUGH BROS",
+            "SHOP 5, G/F., 38-42 YIK YAM STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725481
+        ]
+      ],
+      "coordinate": [
+        1.9928867941287611,
+        0.38867164105983176,
+        24.200000762939453
+      ],
+      "halfSize": [
+        7.939999999944121,
+        8.476999999955297,
+        14.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1159725068,
+        2,
+        [
+          [
+            4912811424,
+            4,
+            "CHILL",
+            "SHOP 1A ON G/F, KING CHEUNG MANSIONS, NOS. 1, 3, 7 & 9 KING KWONG STREET, NOS. 2-20 TSAP TSEUNG STREET AND NOS. 6-8 YUK SAU STREET, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-30"
+          ],
+          [
+            3612115263,
+            5,
+            "Meat Master",
+            "G/F, KING CHEUNG MANSION, 7-9 KING KWONG STREET, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725518
+        ]
+      ],
+      "coordinate": [
+        1.9929116295234568,
+        0.38866526202666063,
+        28.149999618530273
+      ],
+      "halfSize": [
+        17.343499999959022,
+        25.07299999985844,
+        17.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1159725069,
+        1,
+        [
+          [
+            3612801722,
+            5,
+            "MARKS AND SPENCER",
+            "PORTIONS OF G/F, NO. 28-30 KING KWONG STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725524
+        ]
+      ],
+      "coordinate": [
+        1.9928961732665518,
+        0.38866739935506983,
+        23.649999618530273
+      ],
+      "halfSize": [
+        6.772094999905676,
+        8.501749999821186,
+        11.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1159725070,
+        1,
+        [
+          [
+            2912803926,
+            4,
+            "Proof.",
+            "G/F., NO. 14 TSUN YUEN STREET, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-04-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725756
+        ]
+      ],
+      "coordinate": [
+        1.9929477344410294,
+        0.38863999110210007,
+        33.349998474121094
+      ],
+      "halfSize": [
+        4.968499999959022,
+        5.425599999725819,
+        7.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1159725071,
+        1,
+        [
+          [
+            2912149800,
+            4,
+            "Pizza Hut",
+            "G/F, 69C SING WOO RD., HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725769
+        ]
+      ],
+      "coordinate": [
+        1.9929440357141899,
+        0.3886381714792785,
+        31.399999618530273
+      ],
+      "halfSize": [
+        6.56650000018999,
+        4.843504999764264,
+        8.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1159725072,
+        3,
+        [
+          [
+            3612800677,
+            5,
+            "The Hong Kong Jockey Club",
+            "PORTION OF FOOD PLAZA, 4/F., HAPPY VALLEY CLUBHOUSE, IL 8204 SHAN KWONG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-08-23"
+          ],
+          [
+            3612801050,
+            5,
+            "THE HONG KONG JOCKEY CLUB",
+            "PORTION A OF 6/F, HKJC HAPPY VALLEY NEW CLUBHOUSE, 25 SHAN KWONG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-11-12"
+          ],
+          [
+            3212801001,
+            6,
+            "The Parade",
+            "PORTION B OF 6/F, HKJC HAPPY VALLEY NEW CLUBHOUSE, 25 SHAN KWONG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2027-02-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1159725908
+        ]
+      ],
+      "coordinate": [
+        1.9929356622720793,
+        0.3886052162053976,
+        72.85000610351562
+      ],
+      "halfSize": [
+        48.660155000165105,
+        51.495120000094175,
+        8.549999237060547
+      ]
+    }
+  ]
+}

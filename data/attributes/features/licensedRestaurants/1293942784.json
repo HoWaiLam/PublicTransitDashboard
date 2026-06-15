@@ -1,0 +1,890 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1293942784,
+        3,
+        [
+          [
+            2211801403,
+            0,
+            "Asia Pacific Catering",
+            "PORTION OF LG2 AND THE \u201cFOOD HALL\u201d - 3/F., MAIN BLOCK, PAMELA YOUDE NETHERSOLE EASTERN HOSPITAL, 3 LOK MAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-24"
+          ],
+          [
+            2211809036,
+            0,
+            "ASIA PACIFIC CATERING CORPORATION LIMITED",
+            "THE FOOD HALL 2, 3/F., MAIN BLOCK PAMELA YOUDE NETHERSOLE EASTERN HOSPITAL, 3 LOK MAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-09"
+          ],
+          [
+            3111803656,
+            1,
+            "Starbucks Coffee",
+            "LOBBY, 1/F., MAIN BLOCK, PAMELA YOUDE NETHERSOLE EASTERN HOSPITAL, 3 LOK MAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942786
+        ]
+      ],
+      "coordinate": [
+        1.9938068545669783,
+        0.38868051491142447,
+        54.69999694824219
+      ],
+      "halfSize": [
+        122.62519000004977,
+        91.43009500019252,
+        19.999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1293942785,
+        4,
+        [
+          [
+            2211074133,
+            0,
+            "\u5bcc\u81e8\u7687\u5bae",
+            "LEVEL 4(PTN), L5(PORT), L6 & ROOF(PORT), CWIL 118, GREENWOOD TERRACE COMM COMPLEX, HONG MAN STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211142957,
+            0,
+            "Sun Wai Restaurant",
+            "LEVEL 5, SHOP 5A (MAJOR PORTION), SHOP 5B (MAJOR PORTION),SHOP 5C (PORTION) & SHOP 6C (PORTION), COMMERCIAL BLOCK, GREENWOOD TERRACE, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-21"
+          ],
+          [
+            2211801315,
+            0,
+            "Sino Kitchen",
+            "SHOP 2A, 1B & 2B, 5/F., GREENWOOD TERRACE COMM. COMPLEX, 16 TAI MAN STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3111802194,
+            1,
+            "\u6c11\u8a18\u9eb5\u5bb6",
+            "SHOP 2C (2), 5/F., GREENWOOD TERRACE, 16 TAI MAN STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942807
+        ]
+      ],
+      "coordinate": [
+        1.9937771069190942,
+        0.38862616079180545,
+        16.0
+      ],
+      "halfSize": [
+        79.4484999999404,
+        55.54300000052899,
+        7.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1293942786,
+        2,
+        [
+          [
+            2211803922,
+            0,
+            "\u7965\u8208\u5c45\u5ddd\u6eec\u9eb5\u9ede\u5c0f\u5eda",
+            "SHOP 65-66, GROUND FLOOR, KOWAY COURT, 111 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3111803753,
+            1,
+            "JO CAF\u00c9",
+            "SHOP 87-88, LG/F., KOWAY PLAZA, 111 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942809
+        ]
+      ],
+      "coordinate": [
+        1.9937604815051608,
+        0.3886197698184432,
+        27.149999618530273
+      ],
+      "halfSize": [
+        28.32799999974668,
+        44.36849999986589,
+        11.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1293942787,
+        2,
+        [
+          [
+            2211045382,
+            0,
+            "\u5a01\u5229\u83ef",
+            "SHOP 28-32 & 35-37, G/F, BLOCK A, WALTON ESTATE, 1-3 YEE SHUN STREET, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211074230,
+            0,
+            "\u5929\u5929\u8336\u9910\u5ef3",
+            "SHOP 9, 11, 12 & 13, G/F, WALTON ESTATE, 1-3 YEE SHUN STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942827
+        ]
+      ],
+      "coordinate": [
+        1.9938553094458193,
+        0.38859102731979467,
+        10.850000381469727
+      ],
+      "halfSize": [
+        31.14449999993667,
+        33.9945000000298,
+        6.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1293942788,
+        2,
+        [
+          [
+            2211803560,
+            0,
+            "\u91d1\u6a02\u8ed2",
+            "SHOP NO. 215-216, GROUND FLOOR, LOK HIN TERRACE, 350 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-07"
+          ],
+          [
+            3111802468,
+            1,
+            "\u5bcc\u666f\u6e05\u9999\u9eb5\u5bb6",
+            "SHOP 116, 117, 118, 119, G/F., LOK HIN TERRACE, 350 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942829
+        ]
+      ],
+      "coordinate": [
+        1.993880061574346,
+        0.38857985027131164,
+        8.649999618530273
+      ],
+      "halfSize": [
+        94.37800000002608,
+        83.68450000043958,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1293942789,
+        7,
+        [
+          [
+            2211110930,
+            0,
+            "\u5927\u65b9",
+            "SHOP 11B, G/F, 345 CHAI WAN ROAD, HONG KONG",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2211233824,
+            0,
+            "\u592a\u548c\u5802",
+            "SHOP NO. 21, G/F, GOLDMINE BUILDING, 345 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2211809799,
+            0,
+            "King Well Restaurant",
+            "SHOP NO. 19, 20, 43, G/F., GOLD MINE BUILDING, 345 CHAI WAN ROAD, HONG KONG",
+            null,
+            "2027-02-06"
+          ],
+          [
+            3111106281,
+            1,
+            "\u592a\u548c\u9eb5\u98df",
+            "SHOP NO. 18, G/F, GOLD MINE BLDG, 345 CHAI WAN ROAD, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3111802680,
+            1,
+            "\u9326\u5c1a\u751c",
+            "SHOP NO. 8, G/F., GOLD MINE BUILDING, 345 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3111802705,
+            1,
+            "Yuan Kee",
+            "SHOP NO. 10, G/F., 345 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3111804002,
+            1,
+            "\u5c0f\u91cd\u6176",
+            "SHOP NO. 2, G/F., GOLD MINE BUILDING, NO. 345 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942830
+        ]
+      ],
+      "coordinate": [
+        1.993869080275808,
+        0.3885878184289666,
+        9.199999809265137
+      ],
+      "halfSize": [
+        29.565260000061244,
+        29.146314999088645,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1293942790,
+        9,
+        [
+          [
+            2211084550,
+            0,
+            "\u80af\u5fb7\u57fa",
+            "SHOP 322-323, NEW JADE SHOPPING ARCADE, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211800835,
+            0,
+            "Super Super",
+            "SHOP NO. 9 WITH 3A & 4A, LEVEL 4, NEW JADE GARDENS SHOPPING ARCADE, 233 CHAI WAN ROAD, HONG KONG",
+            null,
+            "2026-07-05"
+          ],
+          [
+            2211802682,
+            0,
+            "Dragon Delight",
+            "SHOP 1A, 6A, 7A, 8A, 28, 53 & 68 OF LEVEL 4 OF THE PODIUM OF NEW JADE GARDEN, NO. 233 CHAI WAN ROAD, HONG KONG",
+            null,
+            "2026-03-29"
+          ],
+          [
+            2211804369,
+            0,
+            "GENKI SUSHI",
+            "SHOP 112A, LEVEL 1, NEW JADE SHOPPING ARCADE, 233 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2211804387,
+            0,
+            "\u7f8e\u5fc3MX",
+            "SHOP NO. 111, LEVEL 1, NEW JADE SHOPPING ARCADE, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2211809276,
+            0,
+            "Asam Chicken Rice",
+            "SHOP NO. 114A, LEVEL 1, NEW JADE SHOPPING ARCADE, 233 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2211810331,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 114, LEVEL 1, NEW JADE SHOPPING ARCADE, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2211811501,
+            0,
+            "Yakiniku Like",
+            "SHOP NO. 114B, LEVEL 1, NEW JADE SHOPPING ARCADE, 233 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-22"
+          ],
+          [
+            3111802024,
+            1,
+            "Starbucks Coffee",
+            "SHOP NO. 112B, LEVEL 1, NEW JADE SHOPPING ARCADE, 233 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942832
+        ]
+      ],
+      "coordinate": [
+        1.993810313871821,
+        0.3885787653580502,
+        13.799999237060547
+      ],
+      "halfSize": [
+        64.4370000003837,
+        60.09300000034273,
+        8.5
+      ]
+    },
+    {
+      "attributes": [
+        1293942791,
+        1,
+        [
+          [
+            2211811635,
+            0,
+            "McDonald's RESTAURANT",
+            "SHOP NO.1, G/F, BLOCK A, WALTON ESTATE, 341-343 CHAI WAN ROAD, 1-3 YEE SHUN STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942834
+        ]
+      ],
+      "coordinate": [
+        1.9938606893082396,
+        0.38858166975469194,
+        9.75
+      ],
+      "halfSize": [
+        33.09400000004098,
+        31.82949999999255,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1293942792,
+        4,
+        [
+          [
+            2211132460,
+            0,
+            "TSUI WAN SEAFOOD RESTAURANT",
+            "G/F (PTN) & 1/F, WINNER CENTRE, 333 CHAI WAN ROAD, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2211800941,
+            0,
+            "WINNER RESTAURANT",
+            "SHOP NOS. 1-13, G/F., WINNER CENTRE, 333 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-22"
+          ],
+          [
+            2211807021,
+            0,
+            "\u7fa4\u8a18",
+            "SHOP 71, G/F., WINNER CENTRE, 333 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-02"
+          ],
+          [
+            3111803489,
+            1,
+            "SMALL POTATO MOVIELAND",
+            "PORTIONS B1 & B2 OF SHOP J, G/F., WINNER CENTRE, 333 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942836
+        ]
+      ],
+      "coordinate": [
+        1.9938392634673594,
+        0.38857434913420175,
+        12.950000762939453
+      ],
+      "halfSize": [
+        37.53910499997437,
+        35.443710000254214,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1293942793,
+        1,
+        [
+          [
+            2211806550,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP A, I & H, G/F., WAH TAI MANSION, 220 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942839
+        ]
+      ],
+      "coordinate": [
+        1.9937930601748233,
+        0.38856521065991434,
+        14.5
+      ],
+      "halfSize": [
+        13.87250000005588,
+        14.5550000006333,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1293942794,
+        9,
+        [
+          [
+            2211801005,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 113, 1/F, HING WAH PLAZA, HING WAH (I) ESTATE, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-31"
+          ],
+          [
+            2211803047,
+            0,
+            "MY Cafe",
+            "SHOP 109B, 1/F., HING WAH SHOPPING CENTRE, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2211806718,
+            0,
+            "MAN WAH RESTAURANT",
+            "MAJOR PORTION OF SHOP 101 & 102, 1/F., HING WAH PLAZA, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2211808644,
+            0,
+            "TAI PAN",
+            "MAJOR PORTION OF SHOP NOS. 115-116, 1/F., HING WAH PLAZA, HING WAH (I) ESTATE, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2211809814,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 109A, FIRST FLOOR, HING WAH PLAZA, HING WAH (I) ESTATE, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2211809966,
+            0,
+            "NORTH VIET PHO MALACCA CUISINE",
+            "SHOP NO. 114, 1/F, HING WAH PLAZA, HING WAH (I) ESTATE, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2211811246,
+            0,
+            "LUCKY CONGEE SHOP",
+            "SHOP NO. G02, G/F., HING WAH PLAZA, HING WAH (I) ESTATE, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-27"
+          ],
+          [
+            3111804020,
+            1,
+            "PANDA WONTON",
+            "SHOP NO. 1&2, G/F., HING WAH PLAZA, HING WAH ESTATE, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-03-07"
+          ],
+          [
+            3111804853,
+            1,
+            "Hefu Noodles",
+            "SHOP NO. G01, GROUND FLOOR, HING WAH PLAZA, 11 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942842
+        ]
+      ],
+      "coordinate": [
+        1.993789840848007,
+        0.38855339571562214,
+        16.299999237060547
+      ],
+      "halfSize": [
+        43.504499999806285,
+        47.4605000000447,
+        5.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1293942795,
+        1,
+        [
+          [
+            3111803160,
+            1,
+            "BAR PACIFIC",
+            "SHOP A, BLOCK B, G/F., YEN LOK BUILDING, 120 WAN TSUI ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293942845
+        ]
+      ],
+      "coordinate": [
+        1.993792831494705,
+        0.38853882155105424,
+        18.450000762939453
+      ],
+      "halfSize": [
+        25.533499999903142,
+        38.54749999940395,
+        5.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1293942796,
+        1,
+        [
+          [
+            3111803601,
+            1,
+            "So Bakery",
+            "SHOP 404 (MAJOR PORTION) ON LEVEL 4, COMMERCIAL / CARPARK BLOCK, HING MAN ESTATE, NO. 188 TAI TAM ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293943040
+        ]
+      ],
+      "coordinate": [
+        1.9937343770654823,
+        0.38860787735048063,
+        134.39999389648438
+      ],
+      "halfSize": [
+        23.415980000048876,
+        22.674124999903142,
+        58.70000457763672
+      ]
+    },
+    {
+      "attributes": [
+        1293942797,
+        1,
+        [
+          [
+            2211806860,
+            0,
+            "\u5561\u9928",
+            "1/F., CHAI WAN SPORTS CENTRE, 6 YEE SHUN STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293943081
+        ]
+      ],
+      "coordinate": [
+        1.9938615499690255,
+        0.38859539511346647,
+        13.199999809265137
+      ],
+      "halfSize": [
+        24.416850000154227,
+        26.19691500067711,
+        8.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1293942798,
+        1,
+        [
+          [
+            2211091996,
+            0,
+            "ORIENTAL GOURMET",
+            "G/F (PTN) & M/F, TAK LUK HOUSE, WALTON EST, 1-3 YEE SHUN STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293943105
+        ]
+      ],
+      "coordinate": [
+        1.9938564652983293,
+        0.38858903955521984,
+        44.94999694824219
+      ],
+      "halfSize": [
+        13.175315000116825,
+        12.044519999995828,
+        40.25
+      ]
+    },
+    {
+      "attributes": [
+        1293942799,
+        1,
+        [
+          [
+            2211106858,
+            0,
+            "\u771f\u597d\u5473",
+            "SHOP NO.12, G/F, TAK SHOU HOUSE BLOCK B, WALTON EST, 341-343 CHAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293943126
+        ]
+      ],
+      "coordinate": [
+        1.9938585609726482,
+        0.3885814381386549,
+        44.75
+      ],
+      "halfSize": [
+        13.45850000018254,
+        12.208499999716878,
+        39.94999694824219
+      ]
+    },
+    {
+      "attributes": [
+        1293942800,
+        8,
+        [
+          [
+            2211808228,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 204, SECOND FLOOR, WAN TSUI SHOPPING CENTRE, WAN TSUI ESTATE, NO. 2 WAH HA STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2211808316,
+            0,
+            "Golden City Seafood Restaurant",
+            "SHOP NO. G12, GROUND FLOOR, WAN TSUI SHOPPING CENTRE, WAN TSUI ESTATE, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2211808361,
+            0,
+            "WONG LAM KEE",
+            "SHOP NO. G02, G/F., WAN TSUI SHOPPING CENTRE, WAN TSUI ESTATE, 2 WAH HA STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2211808547,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SEATING AREA NO. 1 & SHOP NO. G01, G/F., WAN TSUI SHOPPING CENTRE, 2 WAH HA STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2211811495,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NO. 205, 2/F, WAN TSUI SHOPPING CENTRE, 2 WAH HA STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2211811565,
+            0,
+            "\u6e58\u6e58",
+            "SHOP G19 & G20, G/F, WAN TSUI SHOPPING CENTRE, WAN TSUI ESTATE, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-26"
+          ],
+          [
+            3111803850,
+            1,
+            "\u98df\u5f97\u68e7",
+            "SHOP NO. G06, G/F., WAN TSUI SHOPPING CENTRE, WAN TSUI ESTATE, 2 WAH HA STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3111804710,
+            1,
+            "\u91d1\u6f6e\u8208\u725b\u96dc\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP NO. 202, 2/F, WAN TSUI SHOPPING CENTRE, WAN TSUI ESTATE, NO. 2 WAH HA STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293943165
+        ]
+      ],
+      "coordinate": [
+        1.9938234768847312,
+        0.3885587265136506,
+        15.699999809265137
+      ],
+      "halfSize": [
+        24.06631499994546,
+        24.433064999990165,
+        10.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1293942801,
+        2,
+        [
+          [
+            2211806259,
+            0,
+            "Home Sister",
+            "FLAT A, B & C, 6/F., E-TRADE PLAZA, 24 LEE CHUNG STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2211808334,
+            0,
+            "CMON.HK",
+            "FLAT E, 6/F., E-TRADE PLAZA, 24 LEE CHUNG STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1293943277
+        ]
+      ],
+      "coordinate": [
+        1.9938040444648917,
+        0.38861177001848807,
+        77.75
+      ],
+      "halfSize": [
+        23.01966500002891,
+        23.784350000321865,
+        71.05000305175781
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1742 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1319108608,
+        1,
+        [
+          [
+            3297800593,
+            6,
+            "McDonald's Restaurant",
+            "PORTION OF SHOP NO. 304, LOWER G/F 3, LEE ON SHOPPING CENTRE, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-04-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108615
+        ]
+      ],
+      "coordinate": [
+        1.9938918564117434,
+        0.3914152314031727,
+        20.399999618530273
+      ],
+      "halfSize": [
+        46.02366499975324,
+        26.635975000448525,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1319108609,
+        16,
+        [
+          [
+            2997002124,
+            4,
+            "7-Eleven",
+            "PORTION B OF SHOP NOS 201-202 LEVEL 2, BAYSHORE TOWERS, MA ON SHAN PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2997804681,
+            4,
+            "Arome Bakery",
+            "SHOP 203, LEVEL 2, MA ON SHAN PLAZA, 608 SAI SHA ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2997804797,
+            4,
+            "TASTE",
+            "STALL NO. 18, SHOP 345-346 & 354-363, LEVEL 3, MA ON SHAN PLAZA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2997804803,
+            4,
+            "TASTE",
+            "STALL NO. 7 & 16, SHOP 345-346 & 354-363, LEVEL 3, MA ON SHAN PLAZA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-09"
+          ],
+          [
+            2997804812,
+            4,
+            "TASTE",
+            "STALL NO. 5, SHOP 345-346 & 354-363, LEVEL 3, MA ON SHAN PLAZA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-09"
+          ],
+          [
+            2997804830,
+            4,
+            "TASTE",
+            "STALL NO. 19, SHOP 345-346 & 354-363, LEVEL 3, MA ON SHAN PLAZA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-19"
+          ],
+          [
+            2997804876,
+            4,
+            "TASTE",
+            "STALL NO. 6, SHOP 345-346 & 354-363, LEVEL 3, MA ON SHAN PLAZA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2997807291,
+            4,
+            "TenRen's Tea",
+            "SHOP NO. 340C, LEVEL 3, MA ON SHAN PLAZA, NO. 608 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2997808258,
+            4,
+            "\u842c\u6ce2",
+            "SHOP NO. 216, LEVEL 2, MA ON SHAN PLAZA, 608 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2997809941,
+            4,
+            "HANA-MUSUBI",
+            "SHOP NO. 289 ON LEVEL 2 OF MA ON SHAN PLAZA, NO. 608 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2997810839,
+            4,
+            "Panash",
+            "SHOP NOS. 296-297, LEVEL 2, MA ON SHAN PLAZA, 608 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            4997815753,
+            4,
+            "Luckin Coffee",
+            "OPEN CAFE SA03, LEVEL 3, MA ON SHAN PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3697801925,
+            5,
+            "TASTE",
+            "STALL NO. 1, 2, 3, 4 & PORTIONS OF SHOP 345-346 & 354-363, LEVEL 3, MA ON SHAN PLAZA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-04"
+          ],
+          [
+            3297800131,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP NOS. 201-202, MA ON SHAN PLAZA, BAYSHORE TOWERS, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            3297800511,
+            6,
+            "TenRen's Tea",
+            "MINOR PORTION OF SHOP NO. 340C, LEVEL 3, MA ON SHAN PLAZA, NO. 608 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            3597800356,
+            8,
+            "TASTE",
+            "STALL NO. 17, SHOP 345-346 & 354-363, LEVEL 3, MA ON SHAN PLAZA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108620
+        ]
+      ],
+      "coordinate": [
+        1.993713427325987,
+        0.3913975491897004,
+        14.550000190734863
+      ],
+      "halfSize": [
+        109.00042500020936,
+        67.46499500051141,
+        8.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1319108610,
+        1,
+        [
+          [
+            2997809853,
+            4,
+            "MOTTO BAKERY",
+            "SHOP NO. G17, G/F , MOSTOWN, 628 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108624
+        ]
+      ],
+      "coordinate": [
+        1.9936888844520784,
+        0.3913894625602365,
+        12.149999618530273
+      ],
+      "halfSize": [
+        55.55500000016764,
+        48.46999999973923,
+        6.75
+      ]
+    },
+    {
+      "attributes": [
+        1319108611,
+        2,
+        [
+          [
+            3697804395,
+            5,
+            "\u5929\u5929\u8089\u98df",
+            "SHOP NO. 50, G/F, FOK ON GARDEN, 11 ON CHUN STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            3697805972,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP NOS. 63. 64 & 64A, G/F., FOK ON GARDEN, NO. 11 ON CHUN STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108625
+        ]
+      ],
+      "coordinate": [
+        1.9936716858195676,
+        0.3913866364303314,
+        12.299999237060547
+      ],
+      "halfSize": [
+        41.675995000172406,
+        46.07299500051886,
+        5.999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1319108612,
+        3,
+        [
+          [
+            2997812109,
+            4,
+            "\u4e00\u9ba8\u5275\u4f5c\u58fd\u53f8",
+            "SHOP 11, 1/F, FU FAI GARDEN, 28 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2997813263,
+            4,
+            "\u5b8f\u5fb7\u767c",
+            "SHOP 7A, 1/F, FU FAI GARDEN SHOPPING CENTRE, FU FAI GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2997815117,
+            4,
+            "\u6cf0\u99ff",
+            "SHOP 10, 1/F, FU FAI GARDEN, 28 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108626
+        ]
+      ],
+      "coordinate": [
+        1.9937513217995935,
+        0.39138799661889323,
+        10.600000381469727
+      ],
+      "halfSize": [
+        48.216495000291616,
+        31.450009999796748,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1319108613,
+        1,
+        [
+          [
+            3697802229,
+            5,
+            "Wellcome",
+            "SHOP 01C (PORTIONS), G/F, THE WATERSIDE, 15 ON CHUN STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108627
+        ]
+      ],
+      "coordinate": [
+        1.9936580821984318,
+        0.3913855819019611,
+        9.699999809265137
+      ],
+      "halfSize": [
+        44.40291999978945,
+        34.93491499964148,
+        5.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1319108614,
+        32,
+        [
+          [
+            2197800353,
+            1,
+            "Men Wah Bing Teng / Pho Le",
+            "MINOR PORTION OF SHOP NO. 2106, LEVEL 2, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2197800414,
+            1,
+            "Hong Kong Day Bakery Cafe",
+            "PORTION B, SHOP 2245, LEVEL 2, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2997803563,
+            4,
+            "Starbucks Coffee",
+            "OPEN SPACE (NEAR SHOP NOS. 2130-31), LEVEL 2, MOSTOWN, NO.18 ON LUK STREET , MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2997805602,
+            4,
+            "\u9eb5\u98fd\u7687\u5b50",
+            "SHOPSTALL NO. S77, G/F, SUNSHINE CITY MARKET CENTRE, PHASE 4 SUNSHINE CITY, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2997807103,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NOS. 2002-3 ON LEVEL 2 OF MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2997808771,
+            4,
+            "HAN YIN HONG",
+            "PORTION A OF SHOP 2014, 2/F , MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-10"
+          ],
+          [
+            2997808850,
+            4,
+            "Fook Hing Congee Shop",
+            "STALL NO. S91, G/F, MOSTOWN WET MARKET, 18 ON LUK STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2997809570,
+            4,
+            "Chez Choux",
+            "SHOP NOS. 2224-25, LEVEL 2, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2997810264,
+            4,
+            "\u8cde\u8336",
+            "SHOP F & B OF CITISTORE AT LEVEL 3, MOS TOWN, 18 ON LUK STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2997810778,
+            4,
+            "Ying Fung Hainan Chicken Specialist",
+            "STALL S92, G/F, MOSTOWN WET MARKET, 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2997811647,
+            4,
+            "\u8c50\u76db\u71d2\u5473",
+            "MAJOR PORTION OF SHOP NO. S58, G/F., MOSTOWN MARKET, 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2997811674,
+            4,
+            "SICK BURGER",
+            "SHOP NO. G04, G/F, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2997812002,
+            4,
+            "Thai Yuet Kitchen",
+            "SHOPSTALL NO. S76, G/F, MARKET, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2997813032,
+            4,
+            "Beans bakery",
+            "SHOP NO. 2329, LEVEL 2, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2997814099,
+            4,
+            "\u9999\u9999\u6ab8\u8336",
+            "SHOP NO.2407, LEVEL 2, MOSTOWN (PHASE 4), NO.18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2997814512,
+            4,
+            "LEGEND BAKEOLOGY",
+            "SHOP NO. 2015A, LEVEL 2, MOSTOWN (PHASE 4), NO. 18 ON LUK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2997815135,
+            4,
+            "\u871c\u96ea\u51b0\u57ce",
+            "SHOP 2140, 2/F, PHASE 4, MOSTOWN, 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            4997815638,
+            4,
+            "MR. Avocado",
+            "SHOP NO. 2004 ON LEVEL 2 OF MOSTOWN, NO. 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-28"
+          ],
+          [
+            4997815726,
+            4,
+            "\u963f\u7d05",
+            "SHOPSTALL NO. S46, G/F., MOSTOWN MARKET, 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            4997815823,
+            4,
+            "\u8c50\u4fee",
+            "SHOPSTALL S71, G/F, MOSTOWN MARKET, 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            3697802539,
+            5,
+            "\u8302\u767c\u9bae\u9b5a",
+            "SHOPSTALL NO. S23, G/F, SUNSHINE CITY MARKET CENTRE, PHASE 4 SUNSHINE CITY, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ],
+          [
+            3697803541,
+            5,
+            "HAN YIN HONG",
+            "PORTION B OF SHOP 2014, 2/F, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-10"
+          ],
+          [
+            3697803602,
+            5,
+            "\u6c38\u767c\u8089\u67b1",
+            "SHOPSTALL NO. S100, G/F, MOSTOWN, MARKET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            3697803611,
+            5,
+            "\u5927\u5fb7\u9bae\u8089",
+            "SHOPSTALL NO. S99, G/F, MOSTOWN, MARKET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            3697804225,
+            5,
+            "\u5f37\u8a18\u96de\u9d28",
+            "SHOPSTALL NO. S19, G/F, MOSTOWN, MARKET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ],
+          [
+            3697804261,
+            5,
+            "\u5408\u6210\u6d77\u9bae",
+            "SHOPSTALL NO. S89, G/F, MOSTOWN, MARKET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ],
+          [
+            3697804845,
+            5,
+            "\u5408\u6210\u6d77\u9bae",
+            "SHOPSTALL NO. S10A, G/F, MOSTOWN, MARKET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            3697805219,
+            5,
+            "\u5fb7\u660c\u9bae\u8089",
+            "SHOPSTALL NO. S38, G/F, MOSTOWN, MARKET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            3697805866,
+            5,
+            "Chefs Concept by HK Taste",
+            "SHOP NO. 2317, LEVEL 2, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            4697804835,
+            5,
+            "\u725b\u820d",
+            "STALL NO. S42, GROUND LEVEL (AS KNOWN AS WET MARKET) OF MOSTOWN (FORMERLY KNOWN AS SUNSHINE CITY PLAZA) OF SUNSHINE CITY, NO. 18 ON LUK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            3297800849,
+            6,
+            "\u871c\u96ea\u51b0\u57ce",
+            "MINOR PORTION OF SHOP 2140, 2/F, PHASE 4, MOSTOWN, 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3597800754,
+            8,
+            "\u8c50\u76db\u71d2\u5473",
+            "MINOR PORTION OF SHOP NO. S58, G/F., MOSTOWN MARKET, 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108628
+        ]
+      ],
+      "coordinate": [
+        1.993716961793547,
+        0.39137429133989904,
+        16.149999618530273
+      ],
+      "halfSize": [
+        169.34227500017732,
+        82.73029499966651,
+        10.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1319108615,
+        1,
+        [
+          [
+            2997810097,
+            4,
+            "Zeppelin Hot Dog Shop",
+            "SHOP G-2/01, G/F, MOSTOWN STREET, 22 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108631
+        ]
+      ],
+      "coordinate": [
+        1.9937513760525374,
+        0.39136936878026884,
+        10.850000381469727
+      ],
+      "halfSize": [
+        36.44349499978125,
+        39.331500000320375,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1319108616,
+        3,
+        [
+          [
+            2197800423,
+            1,
+            "MAMA BAKERY",
+            "SHOP NO. LG01B(PORTION B), SECOND FLOOR, KAM YING SHOPPING CENTRE, KAM YING COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2997814798,
+            4,
+            "NI.KU.MAN LIMITED",
+            "SHOP 11C, LG1/F, KAM YING SHOPPING CENTRE, KAM YING COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            3697803189,
+            5,
+            "Wellcome",
+            "SHOP NO. 12 (PORTIONS & PORTION A), LG 1/F, KAM YING SHOPPING CENTRE, 9 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108633
+        ]
+      ],
+      "coordinate": [
+        1.9937989860284793,
+        0.39135317162115163,
+        54.599998474121094
+      ],
+      "halfSize": [
+        56.86149999964982,
+        50.68100000079721,
+        4.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1319108617,
+        2,
+        [
+          [
+            2997814354,
+            4,
+            "DOUGH BROS",
+            "SHOP NOS G-3/12&33, G/F, MOSTOWN STREET, 8 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-25"
+          ],
+          [
+            3297800520,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NOS. 30 & 32, G/F., PODIUM OF BLOCKS N, P, Q & R, MOSTOWN STREET, 8 ON SHING ST, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108635
+        ]
+      ],
+      "coordinate": [
+        1.993719341257881,
+        0.391343816934748,
+        11.299999237060547
+      ],
+      "halfSize": [
+        60.90982000017539,
+        59.309799999929965,
+        5.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1319108618,
+        1,
+        [
+          [
+            2997802524,
+            4,
+            "\u5c0f\u98df\u4ead",
+            "KIOSK, 2/F, MA ON SHAN SPORTS GROUND, 1 HANG HONG STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108638
+        ]
+      ],
+      "coordinate": [
+        1.993646453933471,
+        0.3913205570370939,
+        8.949999809265137
+      ],
+      "halfSize": [
+        25.59499999973923,
+        58.634499999694526,
+        2.25
+      ]
+    },
+    {
+      "attributes": [
+        1319108619,
+        8,
+        [
+          [
+            2997807237,
+            4,
+            "\u71d2\u5473\u58f9\u756a",
+            "PORTION B OF SHOPSTALL NO. C10, G/F, CHUNG ON (ALLMART) CHINESE MARKET, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2997809455,
+            4,
+            "\u58f9\u54c1",
+            "STALL C6A, G/F, CHUNG ON (ALLMART) CHINESE MARKET, CHUNG ON ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2997810583,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NOS. 2D AND 3A, GROUND FLOOR, COMMERICAL / CAR PARK BLOCK (ALSO KNOWN AS CHUNG ON SHOPPING CENTRE), CHUNG ON ESTATE, SAI SHA ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            3697002102,
+            5,
+            "\u980c\u5b89",
+            "SHOPSTALL NO C53, CHUNG ON (ALLMART) CHINESE MARKET, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3697002111,
+            5,
+            "\u5eb7\u6cf0",
+            "SHOPSTALL NO C56, CHUNG ON (ALLMART) CHINESE MARKET, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ],
+          [
+            3697002120,
+            5,
+            "\u5229\u76db\u51cd\u8089",
+            "SHOPSTALL NO C45, CHUNG ON (ALLMART) CHINESE MARKET, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            3697801457,
+            5,
+            "\u660e\u8a18\u6d77\u9bae",
+            "SHOPSTALL NO. C22 & C22A, G/F, CHUNG ON (ALLMART) CHINESE MARKET, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3597800471,
+            8,
+            "\u71d2\u5473\u58f9\u756a",
+            "PORTION A OF SHOPSTALL NO. C10, G/F, CHUNG ON (ALLMART) CHINESE MARKET, CHUNG ON ESTATE, MA ON SHAN , SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108639
+        ]
+      ],
+      "coordinate": [
+        1.9936226236981531,
+        0.3913265940578418,
+        8.550000190734863
+      ],
+      "halfSize": [
+        6.5020000003278255,
+        12.490500000305474,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1319108620,
+        15,
+        [
+          [
+            2997810927,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G3, G/F, LEE ON SHOPPING CENTRE, LEE ON ESTATE, NO. 23 SHA ON STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2997811638,
+            4,
+            "\u5cb1\u6c11\u5229\u5b89\u5e97",
+            "STALL NO. 17, LG1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2997811957,
+            4,
+            "\u91d1\u5178\u9905\u5bb6",
+            "STALL NO. 23, LG1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-03"
+          ],
+          [
+            2997814859,
+            4,
+            "\u6a02\u5584\u71d2\u5473",
+            "PORTION A OF STALL NOS. M-LO19 & 20, LG1/F, MARKET, LEE ON SHOPPING CENTRE, LEE ON ESTATE, 23 SHA ON STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ],
+          [
+            3697801943,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 106, 107, 109 & 110, LEVEL LG/1, LEE ON SHOPPING CENTRE, LEE ON ESTATE, 23 SHA ON STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-05"
+          ],
+          [
+            3697804836,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL NO. 37, LG1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3697804854,
+            5,
+            "\u9054\u6c5f\u6f01\u696d",
+            "STALL NO. 12, LG1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3697804863,
+            5,
+            "\u9818\u9bae",
+            "STALL NO. 7, LG1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3697804890,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL NO. 8, LG 1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            3697804942,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL NO. 38-39, LG 1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ],
+          [
+            3697804960,
+            5,
+            "\u9999\u6e2f\u5730\u98df\u54c1",
+            "STALL NO. 15 &16, LG1/F, LEE ON MARKET, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            3697805769,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP NO. 115, LG/F, LEE ON SHOPPING CENTRE, LEE ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-13"
+          ],
+          [
+            3697805945,
+            5,
+            "Monster Beef",
+            "STALL NO. M-LO40, LG1/F, MARKET, LEE ON SHOPPING CENTRE, LEE ON ESTATE, 23 SHA ON STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ],
+          [
+            3297800618,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. G3, G/F., LEE ON SHOPPING CENTRE, LEE ON ESTATE, NO. 23 SHA ON STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            3597800833,
+            8,
+            "\u6a02\u5584\u71d2\u5473",
+            "PORTION B OF STALL NOS. M-LO19 & 20, LG1/F, MARKET, LEE ON SHOPPING CENTRE, LEE ON ESTATE, 23 SHA ON STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108960
+        ]
+      ],
+      "coordinate": [
+        1.9938813596860288,
+        0.39141674827845147,
+        24.5
+      ],
+      "halfSize": [
+        43.07521999999881,
+        59.51302499976009,
+        8.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1319108621,
+        1,
+        [
+          [
+            2997811452,
+            4,
+            "No Record",
+            "LIGHT REFRESHMENT KIOSK, G/F, MA ON SHAN PARK, 12 ON CHUN STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319108997
+        ]
+      ],
+      "coordinate": [
+        1.9937002089017963,
+        0.3914127210099914,
+        9.75
+      ],
+      "halfSize": [
+        9.937994999811053,
+        7.334999999962747,
+        3.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1319108622,
+        5,
+        [
+          [
+            2197800070,
+            1,
+            "Bread City",
+            "SHOP G15 & G16, G/F, SADDLE RIDGE COMMERCIAL COMPLEX, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2997002221,
+            4,
+            "\u597d\u4f73\u574a\u6709\u9650\u516c\u53f8",
+            "SHOP G25 & G26, G/F, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2997803633,
+            4,
+            "\u5e7b\u6708\u58fd\u53f8",
+            "SHOP G54, G/F, SADDLE RIDGE GARDEN COMMERCIAL CENTRE, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2997804991,
+            4,
+            "\u8c50\u5473\u5802",
+            "SHOP G19, G/F, THE COMMERCIAL CENTRE, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-02"
+          ],
+          [
+            4997815799,
+            4,
+            "\u6ef7\u9ede\u8eca\u4ed4\u9eb5",
+            "SHOP G5, G/F, SADDLE RIDGE GARDEN COMMERCIAL CENTRE, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109051
+        ]
+      ],
+      "coordinate": [
+        1.9938328877431994,
+        0.3913909037323662,
+        29.700000762939453
+      ],
+      "halfSize": [
+        24.329470000229776,
+        8.19651500042528,
+        3.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1319108623,
+        2,
+        [
+          [
+            3697001710,
+            5,
+            "\u5bf6\u52dd\u6d77\u9bae",
+            "SHOPSTALL NO G2, G/F, COMMERCIAL CENTRE, SADDLE RIDGE GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-10"
+          ],
+          [
+            3597800231,
+            8,
+            "\u4e09\u591a\u71d2\u81d8",
+            "SHOP STALL NO. G7, COMMERCIAL CENTRE, SADDLE RIDGE GARDEN, MA ON SHAN , SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109055
+        ]
+      ],
+      "coordinate": [
+        1.9938205003632552,
+        0.39138670413752263,
+        32.20000076293945
+      ],
+      "halfSize": [
+        46.559969999827445,
+        29.0058000003919,
+        6.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1319108624,
+        1,
+        [
+          [
+            2997001097,
+            4,
+            "\u5229\u82d1",
+            "SHOP NO G6, G/F, WET MARKET, SADDLE RIDGE GARDEN COMM CENTRE, STTL 352, SADDLE RIDGE GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109074
+        ]
+      ],
+      "coordinate": [
+        1.993821037750395,
+        0.39138086988119025,
+        47.29999923706055
+      ],
+      "halfSize": [
+        67.39789499994367,
+        24.533125000074506,
+        13.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1319108625,
+        5,
+        [
+          [
+            2997806915,
+            4,
+            "Market Place",
+            "SHOP A, B, C AND 3E-10 & 3E-11 (PORTION B1), LEVEL 3, SUNSHINE CITY PLAZA, 18 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2997806924,
+            4,
+            "Market Place",
+            "SHOP A, B, C AND 3E-10 & 3E-11 (PORTION D1 & D2), LEVEL 3, SUNSHINE CITY PLAZA, 18 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2997806942,
+            4,
+            "Market Place",
+            "SHOP A, B, C AND 3E-10 & 3E-11 (PORTION E), LEVEL 3, SUNSHINE CITY PLAZA, 18 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3697802867,
+            5,
+            "Market Place",
+            "SHOP A, B, C AND 3E-10 & 3E-11 (PORTION A1, A2 & PORTIONS), LEVEL 3, SUNSHINE CITY PLAZA, 18 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3597800453,
+            8,
+            "Market Place",
+            "SHOP A, B, C AND 3E-10 & 3E-11 (PORTION C), LEVEL 3, SUNSHINE CITY PLAZA, 18 ON SHING STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109122
+        ]
+      ],
+      "coordinate": [
+        1.9937349091017287,
+        0.3913544694009308,
+        59.54999923706055
+      ],
+      "halfSize": [
+        14.384500000160187,
+        15.25099999923259,
+        44.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1319108626,
+        25,
+        [
+          [
+            2997800573,
+            4,
+            "CIRCLE K",
+            "PORTION A OF SHOP 1, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2997806261,
+            4,
+            "Bread City",
+            "STALL C1, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2997806933,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP NO. 17B, G/F, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, SAI SHA ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2997808230,
+            4,
+            "SUSHI TAKE-OUT",
+            "SHOP 17A, GROUND FLOOR, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2997812419,
+            4,
+            "Natural Bakery",
+            "SHOP NO. 9, G/F, CHUNG ON SHOPPING CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2997813555,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "STALL C19, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2997813607,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "STALL C6B, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2997813874,
+            4,
+            "\u5403\u8ca8",
+            "STALL NO. C23A, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            2997813935,
+            4,
+            "\u718a\u8c93\u7f8e\u98df",
+            "STALL NO. C3, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2997814114,
+            4,
+            "Sharetea",
+            "SHOP 14, G/F, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, SAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2997814442,
+            4,
+            "\u4e00\u672c",
+            "STALL NO. C21, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            3697002184,
+            5,
+            "\u548c\u660c\u9bae\u725b\u8089\u5e97",
+            "MARKET STALL C57, CHUNG ON (ALLMART) CHINESE MARKET G/F, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            3697800472,
+            5,
+            "WELLCOME SUPERMARKET",
+            "SHOP NO. 8 (PORTION A), G/F, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            3697802584,
+            5,
+            "\u5a01\u8a18\u9bae\u9b5a",
+            "STALL C51, MARKET, G/F, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            3697802946,
+            5,
+            "\u767c\u8a18\u9bae\u9b5a",
+            "STALL NO. C17, CHUNG ON MARKET, CHUNG ON ESTATE, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ],
+          [
+            3697804270,
+            5,
+            "\u70ba\u98df\u51b0\u8c5a",
+            "STALL NO. C61, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            3697805237,
+            5,
+            "\u980c\u5b89\u96de\u9d28",
+            "STALL NO. C52, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3697805273,
+            5,
+            "\u4f73\u54c1\u98df\u54c1",
+            "SHOP STALL NO. C26A, G/F, MARKET, CHUNG ON SHOPPING CENTRE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            3697805440,
+            5,
+            "\u9054\u6eff\u9bae\u9b5a",
+            "STALL NO. C25, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ],
+          [
+            3697805510,
+            5,
+            "PREMIUM FROZEN",
+            "SHOP C13, MARKET, G/F, CHUNG ON SHOPPING CENTRE, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3697805529,
+            5,
+            "\u65b0\u548c\u5bcc",
+            "STALL NO. C25A, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3697805538,
+            5,
+            "\u80a5\u9a30\u9bae\u8089",
+            "STALL NO. C50, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3697805592,
+            5,
+            "\u5bcc\u5f37\u9bae\u9b5a",
+            "STALL NO. C59, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHATIN, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            3697805680,
+            5,
+            "\u4e00\u5bb6\u722d\u9bae",
+            "STALL NO. C20, G/F, MARKET, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ],
+          [
+            3297800201,
+            6,
+            "McDonald's",
+            "KIOSK 1, G/F, CHUNG ON SHOPPING CENTRE, CHUNG ON ESTATE, MA ON SHAN , SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109132
+        ]
+      ],
+      "coordinate": [
+        1.9936300531429636,
+        0.3913335778021524,
+        16.549999237060547
+      ],
+      "halfSize": [
+        46.580000000074506,
+        92.31110499985516,
+        10.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1319108627,
+        5,
+        [
+          [
+            2997002276,
+            4,
+            "Circle K",
+            "G/F, MINOR PORTION OF SHOP NO 116, YIU ON SHOPPING CENTRE, YIU ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-07"
+          ],
+          [
+            2997801798,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G110, G/F, YIU ON SHOPPING CENTRE, YIU ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2997804131,
+            4,
+            "Sakana-dai Toride Sushi",
+            "SHOP NO. G108, G/F, YIU ON SHOPPING CENTRE, YIU ON ESTATE, 2 HANG HONG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-03"
+          ],
+          [
+            2997812792,
+            4,
+            "\u805a\u8208\u6a13",
+            "SHOP NO. G106, GROUND FLOOR, YIU ON SHOPPING CENTRE, YIU ON ESTATE, NO.2 HANG HONG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            4697804774,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. L201, LEVEL 2, YIU ON SHOPPING CENTRE, YIU ON ESTATE, NO. 2 HANG HONG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109193
+        ]
+      ],
+      "coordinate": [
+        1.993696796290143,
+        0.39131006286453557,
+        17.950000762939453
+      ],
+      "halfSize": [
+        44.11850000033155,
+        32.177499999292195,
+        10.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1319108628,
+        18,
+        [
+          [
+            2997810024,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. G11, G/F, LAKE SILVER, 599 SAI SHA ROAD, WU KAI SHA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2997810176,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "SHOP M9, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2997810617,
+            4,
+            "\u541b\u797f\u6d77\u5357\u96de\u5c08\u5bb6",
+            "SHOP M07, G/F, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-10-11"
+          ],
+          [
+            2997810662,
+            4,
+            "SILVER RARE BREAD & CAKE",
+            "SHOP M12D, G/F, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ],
+          [
+            2997810787,
+            4,
+            "\u660e\u6cf0\u71d2\u81d8",
+            "REAR PORTION OF SHOP M11, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2997810820,
+            4,
+            "Soups Room",
+            "SHOP NO. M12C, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2997812312,
+            4,
+            "\u80a5\u5abd\u5169\u9938\u98ef",
+            "SHOP NOS. M12A & M12B, G/F, LAKE SILVER DAY DAY FRESH MARKET, 599 SAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2997813722,
+            4,
+            "\u6f6e\u5dde\u806f\u8208",
+            "SHOP M5, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            4997815896,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "SHOP M10, G/F, DAY DAY FRESH, LAKE SILVER, 599 SAI SHA ROAD, WU KAI SHA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            3697800755,
+            5,
+            "Wellcome",
+            "UNIT 1 (PORTION A), LAKE SILVER, 599 SAI SHA ROAD, WU KAI SHA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            3697804298,
+            5,
+            "\u60e0\u91cc\u8c5a",
+            "STALL M22, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, WU KAI SHA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ],
+          [
+            3697804304,
+            5,
+            "HONG KONG HERITAGE PORK",
+            "SHOP M25, DAY DAY FRESH (MARKET), G/F, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-04-06"
+          ],
+          [
+            3697804580,
+            5,
+            "\u53fb\u53fb\u8c6c",
+            "SHOP M18, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            3697804599,
+            5,
+            "\u9280\u6e56\u9bae\u9b5a",
+            "SHOP M27, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-17"
+          ],
+          [
+            3697804614,
+            5,
+            "\u6649\u661f\u725b\u8089",
+            "SHOP M29, G/F, LAKE SILVER, 599 SAI SHA ROAD, WU KAI SHA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            3697805079,
+            5,
+            "\u71df\u706b\u98df\u54c1",
+            "STALL M3, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, WU KAI SHA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            3697805802,
+            5,
+            "\u591a\u5473\u5409\u9bae\u9b5a",
+            "SHOP M26, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-27"
+          ],
+          [
+            3597800675,
+            8,
+            "\u660e\u6cf0\u71d2\u81d8",
+            "FRONT PORTION OF SHOP M11, G/F, MARKET, LAKE SILVER, 599 SAI SHA ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109224
+        ]
+      ],
+      "coordinate": [
+        1.9939350036349635,
+        0.3914508998399216,
+        24.75
+      ],
+      "halfSize": [
+        117.38960000034422,
+        76.31795500032604,
+        15.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1319108629,
+        6,
+        [
+          [
+            2997804593,
+            4,
+            "Market Place by Jasons",
+            "SHOP NO. 1 (PORTION A & B), G/F, DOUBLE COVE PLACE, 8 WU KAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2997805365,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 8, 2/F, DOUBLE COVE PLACE, 8 WU KAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ],
+          [
+            2997809589,
+            4,
+            "Circle K Convenience Store",
+            "PORTION A OF SHOP NO. 2, 2/F, DOUBLE COVE PLACE, LOK WO SHA, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2997812181,
+            4,
+            "Chateraise",
+            "SHOP NO.6B & 6C, 2/F, DOUBLE COVE PLACE, 8 WU KAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ],
+          [
+            3697801873,
+            5,
+            "Market Place by Jasons",
+            "SHOP NO.1 (PORTIONS), G/F, DOUBLE COVE PLACE, 8 WU KAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            3297800423,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 8, 2/F, DOUBLE COVE PLACE, 8 WU KAI SHA ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109254
+        ]
+      ],
+      "coordinate": [
+        1.993925805047357,
+        0.3914807743138742,
+        12.050000190734863
+      ],
+      "halfSize": [
+        128.164800000377,
+        58.76694999914616,
+        4.050000190734863
+      ]
+    }
+  ]
+}

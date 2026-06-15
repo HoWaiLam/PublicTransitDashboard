@@ -1,0 +1,2758 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1109393408,
+        8,
+        [
+          [
+            2297800530,
+            0,
+            "YOSHINOYA",
+            "SHOP NOS. 111-113, 1/F, GRANDEUR SHOPPING ARCADE, 55-65 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-22"
+          ],
+          [
+            2297806875,
+            0,
+            "Cafe de Coral",
+            "SHOP NOS. 103-104 ON THE FIRST FLOOR OF GRANDEUR GARDEN, NOS. 2-12 CHIK FAI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ],
+          [
+            2297806981,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS. 101 AND 102, FIRST FLOOR, GRANDEUR GARDEN, NOS. 2-12 CHIK FAI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2297807319,
+            0,
+            "KAM HEI CAFE",
+            "SHOP NOS.115 AND 116 ON THE FIRST FLOOR OF GRANDEUR GARDEN, NOS. 2-12 CHIK FAI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2297807869,
+            0,
+            "\u5fa1\u8a18\u5fa1\u7287\u9eb5\u9928",
+            "SHOP 5, G/F, GRANDEUR SHOPPING CENTRE, 55-65 TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ],
+          [
+            3897810989,
+            0,
+            "THAI FRESH",
+            "SHOP 8, G/F , GRANDEUR GARDEN, NOS.14-18 CHIK FAI STREET, NOS.55-65 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3197000110,
+            1,
+            "\u9e7f\u82d1\u6f6e\u6d32\u7c89\u9eb5",
+            "G/F, SHOP NO 7, GRANDEUR GARDEN, 55-65 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3197800972,
+            1,
+            "\u8001\u8868\u96f2\u541e\u9eb5",
+            "SHOP 14, G/F, GRANDEUR GARDEN, 14-18 CHIK FAI STREET, 55-65 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393417
+        ]
+      ],
+      "coordinate": [
+        1.9927727877252521,
+        0.39050407083786376,
+        10.549999237060547
+      ],
+      "halfSize": [
+        58.43549499986693,
+        56.99100500065833,
+        4.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1109393409,
+        3,
+        [
+          [
+            2297800886,
+            0,
+            "\u8475\u5eb7\u9b5a\u86cb\u7c89\u9eb5",
+            "COOKED FOOD STALL NO. 1-4, G/F, SUN CHUI ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2297803405,
+            0,
+            "\u65b0\u7fe0\u83ef\u5496\u5561\u5c0f\u98df",
+            "COOKED FOOD STALL NO. 9, 10, 12, G/F, SUN CHUI ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2297807018,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 17, GROUND FLOOR, COMMERCIAL CENTRE (ALSO KNOWN AS SUN CHUI SHOPPING CENTRE)(FORMING PART OF COMMERCIAL BLOCKS), SUN CHUI ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393419
+        ]
+      ],
+      "coordinate": [
+        1.9928236646224236,
+        0.3904483849167084,
+        7.650000095367432
+      ],
+      "halfSize": [
+        45.075999999884516,
+        45.9980000006035,
+        2.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1109393410,
+        1,
+        [
+          [
+            2297805571,
+            0,
+            "Rich Forex Restaurant",
+            "SHOP 115, LEVEL 2, COMMERCIAL COMPLEX(ALSO KNOWN AS LUNG HANG SHOPPING CENTRE), LUNG HANG ESTATE, 1 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393422
+        ]
+      ],
+      "coordinate": [
+        1.9928136011556574,
+        0.39040652696157796,
+        10.600000381469727
+      ],
+      "halfSize": [
+        40.200000000186265,
+        24.554999999701977,
+        3.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1109393411,
+        11,
+        [
+          [
+            2297001823,
+            0,
+            "McDonald's",
+            "SHOP NO 96, 1/F, MEI LAM SHOPPING CENTRE, MEI LAM ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2297001939,
+            0,
+            "\u8377\u862d\u51b0\u5ba4",
+            "SHOP NO 97, 1/F, MEI LAM SHOPPING CENTRE, MEI LAM ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2297800390,
+            0,
+            "Cafe' de Coral",
+            "SHOP NO. 1, GROUND FLOOR, MEI LAM SHOPPING CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2297804277,
+            0,
+            "Victoria Harbour Roasted Goose & Seafood Restaurant",
+            "SHOP NO. S1, 2/F, MEI LAM SHOPPING CENTRE, MEI LAM ESTATE, 30 MEI TIN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2297806024,
+            0,
+            "Sweet Canteen",
+            "COOKED FOOD STALL NOS. 5, 6, 7 AND PORTION OF STALL NO. 8, G/F, MEI LAM ESTATE, NO. 30 MEI TIN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ],
+          [
+            2297807692,
+            0,
+            "Komeya",
+            "COOKED FOOD STALL NOS. 1, 2, 3 AND 4, MEI LAM ESTATE, NO. 30 MEI TIN ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2297808400,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. F3, 1/F, MEI LAM SHOPPING CENTRE, MEI LAM ESTATE, 30 MEI TIN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2297808446,
+            0,
+            "MOMOKU",
+            "SHOP NO. F1, 1/F, MEI LAM SHOPPING CENTRE, MEI LAM ESTATE, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2297808552,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO.F2, FIRST FLOOR, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS MEI LAM SHOPPING CENTRE), MEI LAM ESTATE, NO.30 MEI TIN ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            2297809883,
+            0,
+            "SICHUN CANTONESE RESTAURANT",
+            "COOKED FOOD STALL NOS. 9-12, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP SIDE, MEI LAM EST., 30 MEI TIN ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3197802826,
+            1,
+            "\u7f8e\u666f\u725b\u96dc\u7c89\u9eb5",
+            "SHOP NO. 102, G/F, MARKET PLACE, MEI LAM SHOPPING CENTRE, MEI LAM ESTATE, NO. 30 MEI TIN ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393461
+        ]
+      ],
+      "coordinate": [
+        1.9927537553901373,
+        0.3905733661039659,
+        13.5
+      ],
+      "halfSize": [
+        54.57958499994129,
+        31.890889999456704,
+        6.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393412,
+        1,
+        [
+          [
+            2297001674,
+            0,
+            "PIZZA HUT",
+            "SHOP NOS 1-5, G/F, MEI FUNG HOUSE, MEI LAM ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393566
+        ]
+      ],
+      "coordinate": [
+        1.9927441949735027,
+        0.39055853525649165,
+        36.45000076293945
+      ],
+      "halfSize": [
+        64.34900000039488,
+        28.17700000014156,
+        28.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1109393413,
+        2,
+        [
+          [
+            3197800510,
+            1,
+            "Bar Pacific",
+            "SHOP A & B, G/F, LIN FUNG HOUSE, 82-86 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            3197802367,
+            1,
+            "BAR PACIFIC",
+            "SHOP C, G/F, LIN FUNG HOUSE, 82-86 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393589
+        ]
+      ],
+      "coordinate": [
+        1.9928005351943303,
+        0.3905521576988652,
+        13.350000381469727
+      ],
+      "halfSize": [
+        10.523030000273138,
+        7.316965000703931,
+        6.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1109393414,
+        1,
+        [
+          [
+            3197802312,
+            1,
+            "Moon Ocean",
+            "SHOP A, G/F & COCKLOFT, HING WAN HOUSE, 74-76 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393597
+        ]
+      ],
+      "coordinate": [
+        1.9927955913030904,
+        0.3905508468192542,
+        18.0
+      ],
+      "halfSize": [
+        4.657740000169724,
+        6.134154999628663,
+        11.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1109393415,
+        1,
+        [
+          [
+            3197801993,
+            1,
+            "XI XUP",
+            "SHOP C, G/F & COCKLOFT, KING SING HOUSE, 70-72 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393598
+        ]
+      ],
+      "coordinate": [
+        1.9927945541930419,
+        0.3905505726182712,
+        17.75
+      ],
+      "halfSize": [
+        4.138174999970943,
+        6.657384999096394,
+        10.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1109393416,
+        1,
+        [
+          [
+            3197000013,
+            1,
+            "\u5e78\u904b(\u8208\u9686)\u51b0\u5ba4",
+            "G/F & C/L, 70 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393599
+        ]
+      ],
+      "coordinate": [
+        1.9927936437962228,
+        0.3905503359082232,
+        18.450000762939453
+      ],
+      "halfSize": [
+        4.509259999729693,
+        6.130250000394881,
+        11.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1109393417,
+        1,
+        [
+          [
+            3197802482,
+            1,
+            "\u8001\u53bb\u8336\u4e8b",
+            "SHOP B ON GROUND FLOOR, KAI WAH MANSION, NOS. 77-81 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393601
+        ]
+      ],
+      "coordinate": [
+        1.9928020845957535,
+        0.3905501261481018,
+        14.549999237060547
+      ],
+      "halfSize": [
+        4.977720000315458,
+        6.2918899999931455,
+        8.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1109393418,
+        1,
+        [
+          [
+            2297804064,
+            0,
+            "\u6587\u8a18",
+            "SHOP B, G/F, LAP WO HOUSE, 75 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393608
+        ]
+      ],
+      "coordinate": [
+        1.9927993837735818,
+        0.39054936785654726,
+        17.299999237060547
+      ],
+      "halfSize": [
+        4.080509999766946,
+        5.869725000113249,
+        11.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1109393419,
+        1,
+        [
+          [
+            3197801230,
+            1,
+            "WINDMILL RESTAURANT & BAR",
+            "SHOP C, G/F, KWAI WAI BUILDING, 46-56 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393620
+        ]
+      ],
+      "coordinate": [
+        1.9927854458508831,
+        0.3905471352925538,
+        17.850000381469727
+      ],
+      "halfSize": [
+        12.805559999775141,
+        10.699344999156892,
+        10.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1109393420,
+        1,
+        [
+          [
+            3197800769,
+            1,
+            "\u7cd6\u5bae",
+            "G/F, 61 CHIK SHUN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393622
+        ]
+      ],
+      "coordinate": [
+        1.9927937529070872,
+        0.3905477803961403,
+        16.950000762939453
+      ],
+      "halfSize": [
+        4.553414999973029,
+        5.292500000447035,
+        10.25
+      ]
+    },
+    {
+      "attributes": [
+        1109393421,
+        1,
+        [
+          [
+            2297805614,
+            0,
+            "Aries Cafe",
+            "SHOP A, G/F & M/F, CHIK SHUN HOUSE, 59 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393623
+        ]
+      ],
+      "coordinate": [
+        1.9927929298643117,
+        0.390547563844496,
+        16.950000762939453
+      ],
+      "halfSize": [
+        3.1528449999168515,
+        5.671639999374747,
+        10.25
+      ]
+    },
+    {
+      "attributes": [
+        1109393422,
+        1,
+        [
+          [
+            2297000103,
+            0,
+            "\u9673\u8a18\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "G/F & C/L, 66 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393638
+        ]
+      ],
+      "coordinate": [
+        1.9928010572541508,
+        0.39054606005189757,
+        13.649999618530273
+      ],
+      "halfSize": [
+        5.588465000037104,
+        6.068070000037551,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1109393423,
+        5,
+        [
+          [
+            2297804091,
+            0,
+            "\u91d1\u82d1\u7c89\u9eb5",
+            "SHOP B, G/F, ON SHUN MANSION, 31-51 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2297808048,
+            0,
+            "Kau Fu Gan",
+            "SHOP Q, G/F, ON SHUN MANSION, 31-51 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            3197800723,
+            1,
+            "UCHI CAFE",
+            "SHOP P, G/F, ON SHUN BUILDING, 31-51 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            3197801221,
+            1,
+            "\u8814\u71d2",
+            "SHOP A, G/F, ON SHUN BUILDING, 31-35 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ],
+          [
+            3197801975,
+            1,
+            "GOLDEN AND JADE HALL DESSERT",
+            "SHOP L, G/F , ON SHUN MANSION, 31-51 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393639
+        ]
+      ],
+      "coordinate": [
+        1.9927842888987894,
+        0.39054368497776826,
+        16.850000381469727
+      ],
+      "halfSize": [
+        25.0,
+        19.160499999299645,
+        9.75
+      ]
+    },
+    {
+      "attributes": [
+        1109393424,
+        1,
+        [
+          [
+            2297003254,
+            0,
+            "\u65b0\u660e\u8a18\u80a5\u725b\u8c6c\u9aa8\u7172",
+            "G/F & C/L, 38-44 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393640
+        ]
+      ],
+      "coordinate": [
+        1.9927825583069734,
+        0.39054531923643165,
+        17.5
+      ],
+      "halfSize": [
+        10.728395000100136,
+        10.055970000103116,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        1109393425,
+        1,
+        [
+          [
+            2297002400,
+            0,
+            "HAKKA INN",
+            "G/F, 34-36 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393648
+        ]
+      ],
+      "coordinate": [
+        1.9927805863680261,
+        0.3905440746836725,
+        17.549999237060547
+      ],
+      "halfSize": [
+        7.772919999901205,
+        7.8999999994412065,
+        9.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1109393426,
+        1,
+        [
+          [
+            2297807920,
+            0,
+            "\u6cd3",
+            "G/F, 8 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393650
+        ]
+      ],
+      "coordinate": [
+        1.992801791000059,
+        0.3905440903580732,
+        16.850000381469727
+      ],
+      "halfSize": [
+        6.905994999688119,
+        6.464500000700355,
+        10.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1109393427,
+        1,
+        [
+          [
+            3197801081,
+            1,
+            "168",
+            "SHOP B, G/F, 32 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393652
+        ]
+      ],
+      "coordinate": [
+        1.9927792630389216,
+        0.3905432853053324,
+        13.899999618530273
+      ],
+      "halfSize": [
+        5.061999999918044,
+        7.34499999973923,
+        6.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393428,
+        1,
+        [
+          [
+            3197802118,
+            1,
+            "E FOR EGG",
+            "SHOP E, G/F. & C/L, SHING HO BUILDING, 19-25 SHING HO ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393660
+        ]
+      ],
+      "coordinate": [
+        1.992803498370088,
+        0.3905416753925919,
+        16.700000762939453
+      ],
+      "halfSize": [
+        12.968499999959022,
+        10.415000000037253,
+        11.0
+      ]
+    },
+    {
+      "attributes": [
+        1109393429,
+        2,
+        [
+          [
+            2297800743,
+            0,
+            "New City Restaurant",
+            "SHOP 102, MEI TIN SHOPPING CENTRE, MEI TIN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2297801737,
+            0,
+            "TAI WAI LUNG SHUN HIN SEAFOOD RESTAURANT",
+            "SHOP 201, 2/F, MEI TIN SHOPPING CENTRE, MEI TIN ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393662
+        ]
+      ],
+      "coordinate": [
+        1.9926544057281153,
+        0.39053907179870756,
+        23.44999885559082
+      ],
+      "halfSize": [
+        45.6753449998796,
+        26.589634999632835,
+        10.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393430,
+        1,
+        [
+          [
+            2297804763,
+            0,
+            "\u5408\u767c\u98ef\u5e97",
+            "SHOP B, C AND FRONT PORTION OF SHOP A, G/F, 30 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393670
+        ]
+      ],
+      "coordinate": [
+        1.9927762575422263,
+        0.39054120605022297,
+        15.049999237060547
+      ],
+      "halfSize": [
+        8.142624999862164,
+        7.369599999859929,
+        7.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1109393431,
+        4,
+        [
+          [
+            2297805243,
+            0,
+            "\u4e32\u71d2\u738b BBQ King",
+            "G/F & COCKLOFT, 18 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2297808738,
+            0,
+            "Bak Kui Teh",
+            "G/F, SIU YUEN HOUSE, 14 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            3197000527,
+            1,
+            "\u597d\u6e6f\u597d\u9eb5",
+            "G/F & C/L, 20 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            3197802738,
+            1,
+            "A little treat",
+            "PORTION OF SHOP D, G/F, 12-20 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393687
+        ]
+      ],
+      "coordinate": [
+        1.9927730508890114,
+        0.39053916245410275,
+        19.25
+      ],
+      "halfSize": [
+        10.612010000273585,
+        9.79600999969989,
+        11.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1109393432,
+        1,
+        [
+          [
+            3197802303,
+            1,
+            "\u5289\u8208\u8a18",
+            "SHOP NO.4, G/F, KUT HING HOUSE, 25 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393688
+        ]
+      ],
+      "coordinate": [
+        1.9927776453676078,
+        0.39053928172864594,
+        17.0
+      ],
+      "halfSize": [
+        7.354009999893606,
+        8.355539999902248,
+        9.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393433,
+        1,
+        [
+          [
+            3197802941,
+            1,
+            "\u963f\u4e00\u8c6c\u6252\u9178\u8fa3\u7c73\u7dab",
+            "SHOP 1, G/F, MUN TONG BUILDING, 17-21 CHIK SHUN STREET, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393707
+        ]
+      ],
+      "coordinate": [
+        1.992775780506406,
+        0.3905378940765186,
+        18.049999237060547
+      ],
+      "halfSize": [
+        8.312029999680817,
+        7.770480000413954,
+        11.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1109393434,
+        1,
+        [
+          [
+            2297000626,
+            0,
+            "THAI E-SANRAM-MIS",
+            "SHOP A G/F & SHOP B G/F & C/L, LUNG KING BUILDING, 6-10 CHIK CHUEN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393709
+        ]
+      ],
+      "coordinate": [
+        1.992771114158001,
+        0.3905377207353713,
+        18.75
+      ],
+      "halfSize": [
+        8.050499999895692,
+        8.041495000012219,
+        11.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393435,
+        7,
+        [
+          [
+            2297800442,
+            0,
+            "Star Seafood Restaurant",
+            "G/F (PORTION) AND THE WHOLE OF FIRST FLOOR, KAM SHAN BUILDING, 1-35 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2297806547,
+            0,
+            "YEUNG KEE SPICY FISH RESTAURANT",
+            "SHOP NO.6, G/F, KAM SHAN BUILDING, 1-35 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2297807850,
+            0,
+            "SUN KEE",
+            "SHOP 11, G/F, KAM SHAN BUILDING, 1-5, 9, 13-27 & 31-35 TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ],
+          [
+            2297808525,
+            0,
+            "\u9577\u65fa\u6ef7\u5473\u5927\u738b",
+            "SHOP NO. 10, G/F, KAM SHAN BUILDING, NOS. 1-35 TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            2297810045,
+            0,
+            "Hong Kong Nam Kee Noodle",
+            "SHOP NO. 4, G/F, KAM SHAN BUILDING, NOS. 1-5, 9, 13-27 & 31-35, TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            2297810063,
+            0,
+            "\u8d85\u4eba\u71d2\u9d5d",
+            "SHOP NO.7, G/F, KAM SHAN BUILDING, 1-35 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2297811048,
+            0,
+            "Sukiya",
+            "SHOP NOS. 12 & 13, G/F, KAM SHAN BUILDING, NOS. 1-5, 9, 13-27 & 31-35 TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393720
+        ]
+      ],
+      "coordinate": [
+        1.9927661801222907,
+        0.39053184086176546,
+        26.149999618530273
+      ],
+      "halfSize": [
+        32.06455999985337,
+        39.90195500012487,
+        19.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393436,
+        2,
+        [
+          [
+            2297803450,
+            0,
+            "Tai Hing",
+            "UNIT A, G/F & COCKLOFT, SUI FUNG MANSION, 1-15 CHIK SHUN STREET & 12-14 TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2297809607,
+            0,
+            "DOUBLE HAPPINESS",
+            "UNIT B, G/F, SUI FUNG MANSION, NOS. 1-15 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393723
+        ]
+      ],
+      "coordinate": [
+        1.9927724712207504,
+        0.3905358530525812,
+        17.649999618530273
+      ],
+      "halfSize": [
+        16.43447500001639,
+        12.955000000074506,
+        10.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1109393437,
+        2,
+        [
+          [
+            2297804444,
+            0,
+            "\u5a46\u5a46\u5bb6\u9903\u5b50\u9928",
+            "SHOP B, G/F, HEY YUET BUILDING, 18-24 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-18"
+          ],
+          [
+            3197802127,
+            1,
+            "ET\u9e7d\u6c34\u96de",
+            "SHOP A2, G/F, HEY YUET BUILDING, NO. 13 CHIK FU STREET & NO. 18-24 CHIK SHUN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393737
+        ]
+      ],
+      "coordinate": [
+        1.992779005912459,
+        0.3905358351878149,
+        17.0
+      ],
+      "halfSize": [
+        10.866515000350773,
+        8.97800000011921,
+        10.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1109393438,
+        1,
+        [
+          [
+            2297807382,
+            0,
+            "Sushi Express",
+            "SHOP A COCKLOFT AND SHOP A & B, G/F, CHEUNG FUNG MANSION, 16 CHIK SHUN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393763
+        ]
+      ],
+      "coordinate": [
+        1.9927750731951988,
+        0.3905329800401673,
+        16.950000762939453
+      ],
+      "halfSize": [
+        17.14449999993667,
+        15.437519999220967,
+        10.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1109393439,
+        2,
+        [
+          [
+            2297801579,
+            0,
+            "\u9d3b\u904b",
+            "G/F, 17 CHIK TAK LANE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2297804532,
+            0,
+            "\u71d2\u5473\u4e4b\u4f5c",
+            "SHOP C, G/F, LUNG FUNG HOUSE, 15-19 CHIK TAK LANE, 15-17 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393767
+        ]
+      ],
+      "coordinate": [
+        1.9927796552860833,
+        0.3905334771714387,
+        14.050000190734863
+      ],
+      "halfSize": [
+        10.19160500029102,
+        11.059854999184608,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1109393440,
+        1,
+        [
+          [
+            2297802518,
+            0,
+            "Hoi Fung Noodles",
+            "SHOP A, G/F, KAI TAK BUILDING, 11-13 CHIK TAK LANE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393816
+        ]
+      ],
+      "coordinate": [
+        1.9927775186198953,
+        0.39053198021948105,
+        16.200000762939453
+      ],
+      "halfSize": [
+        7.647944999858737,
+        7.673249999992549,
+        9.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1109393441,
+        14,
+        [
+          [
+            2297000617,
+            0,
+            "\u6e2f\u8208",
+            "G/F & C/L, STTL 145, 79-81 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297000714,
+            0,
+            "Fairwood Fast Food",
+            "G/F (PORTION), KCR TAI WAI STATION, TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297001726,
+            0,
+            "Golden Bangkok Thai Restaurant",
+            "G/F, NO 264 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, TIN SAM VILLAGE, TIN SAM STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2297002589,
+            0,
+            "\u597d\u98df\u5929\u5730",
+            "G/F, NO 259 & THE OUTSIDE SEATING ACCOMMODATION AT SHOP SIDE, TIN SAM TSUEN, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            2297800354,
+            0,
+            "Ha Noi Vietnamese Cuisine",
+            "G/F, KAM CHEONG BUILDING, 55B TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2297800798,
+            0,
+            "The Grove",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 269 TIN SAM VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2297801199,
+            0,
+            "Po Fook Restaurant",
+            "PORTION, 1/F, PO FOOK MEMORIAL HALL, LOT 388, 1 YAU ON STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2297802855,
+            0,
+            "Come Come Restaurant",
+            "SHOP NO. 15, G/F, HOLFORD GARDEN SHOPPING ARCADE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2297804310,
+            0,
+            "NEW HOP FAT RESTAURANT",
+            "SHOP C-D, G/F AND COCKLOFT OF SHOP D, 20 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2297806723,
+            0,
+            "\u91d1\u57ce\u5c0f\u5eda",
+            "SHOP NOS. 3-4 AND 27, G/F, SHOPPING ARCADE, HOLFORD GARDEN, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2297808279,
+            0,
+            "DELICIOUS",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 199 TIN SAM VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2297810498,
+            0,
+            "\u91d1\u57ce\u5c0f\u5eda",
+            "SHOP NOS. 32 & 33, G/F, SHOPPING ARCADE, HOLFORD GARDEN, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-18"
+          ],
+          [
+            3197000350,
+            1,
+            "\u69ae\u767c\u7f8e\u98df",
+            "G/F, 261 & 261B & OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, TIN SAM VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            3197000688,
+            1,
+            "\u5085\u5e2b\u5085\u751c\u54c1\u5c0f\u98df",
+            "SHOP 1, G/F, TAI WAI VILLAGE, NO 1 SIXTH STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393847
+        ]
+      ],
+      "coordinate": [
+        1.992787615953715,
+        0.39053001806354776,
+        9.450000762939453
+      ],
+      "halfSize": [
+        9.0730000003241,
+        8.650500000454485,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1109393442,
+        4,
+        [
+          [
+            2297803788,
+            0,
+            "\u6e6f\u6236\u65b9",
+            "G/F, 12 CHIK TAK LANE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2297804408,
+            0,
+            "\u8208\u9686\u8336\u9910\u5ef3\u665a\u98ef\u5c0f\u83dc",
+            "SHOP A, G/F, 22 CHIK TAK LANE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2297809661,
+            0,
+            "\u52dd\u8a18\u6f6e\u5dde\u6ef7\u9d5d\u5c08\u5bb6",
+            "SHOP F, G/F, CHIK TAT HOUSE, 10-22 CHIK TAK LANE, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            3197801425,
+            1,
+            "COUSIN WONTON NOODLE",
+            "SHOP D, G/F AND PORTION OF COCKLOFT, CHIK TAT HOUSE, 10-22 CHIK TAK LANE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393853
+        ]
+      ],
+      "coordinate": [
+        1.9927804867100358,
+        0.39052938401975007,
+        16.700000762939453
+      ],
+      "halfSize": [
+        12.539720000233501,
+        10.6089149992913,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        1109393443,
+        3,
+        [
+          [
+            2297002385,
+            0,
+            "\u96f2\u8cb4\u5ddd",
+            "SHOP NO 1, G/F, RICH COURT, 31 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2297802864,
+            0,
+            "\u5341\u516d\u6d66\u4e32\u71d2\u96de\u7172",
+            "SHOP 2, G/F, RICH COURT, 31 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ],
+          [
+            3197801337,
+            1,
+            "By the O",
+            "SHOP 03, G/F & COCKLOFT, RICH COURT, 31 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393873
+        ]
+      ],
+      "coordinate": [
+        1.9927820312143034,
+        0.39052708442931616,
+        18.149999618530273
+      ],
+      "halfSize": [
+        9.876345000229776,
+        12.288430000655353,
+        12.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393444,
+        1,
+        [
+          [
+            2297806370,
+            0,
+            "McDonald's Restaurant",
+            "SHOP 1 ON G/F AND WHOLE 1/F, YIU PO MANSION, 37-47 TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393895
+        ]
+      ],
+      "coordinate": [
+        1.9927719005399143,
+        0.39052458128693596,
+        24.94999885559082
+      ],
+      "halfSize": [
+        13.966934999916703,
+        15.137045000679791,
+        18.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1109393445,
+        2,
+        [
+          [
+            2297805182,
+            0,
+            "616\u725b\u8089\u706b\u934b\u5c08\u9580\u5e97",
+            "SHOP C & D, G/F, CHIK HONG MANSION, 33 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2297805270,
+            0,
+            "\u6728\u5b50",
+            "SHOP E-G, G/F, CHIK HONG MANSION, 33 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393904
+        ]
+      ],
+      "coordinate": [
+        1.9927829649192856,
+        0.3905240866525489,
+        16.100000381469727
+      ],
+      "halfSize": [
+        10.368259999901056,
+        13.409725000150502,
+        10.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1109393446,
+        1,
+        [
+          [
+            3197802923,
+            1,
+            "\u6f6e\u6eff\u6f6e\u5f0f\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP B, G/F, LUEN FAT HOUSE, 32-40 TAI WAI ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393913
+        ]
+      ],
+      "coordinate": [
+        1.9927802799242424,
+        0.39052301928448424,
+        16.5
+      ],
+      "halfSize": [
+        10.691705000121146,
+        13.930759999901056,
+        10.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1109393447,
+        1,
+        [
+          [
+            3897810952,
+            0,
+            "No Record",
+            "SHOPS C&D, G/F, CHIK KIN MANSION, NOS. 35-47 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109393957
+        ]
+      ],
+      "coordinate": [
+        1.9927839471506135,
+        0.3905213120593671,
+        16.149999618530273
+      ],
+      "halfSize": [
+        8.347310000099242,
+        9.213724999688566,
+        10.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1109393448,
+        1,
+        [
+          [
+            3197800097,
+            1,
+            "\u5eb7\u548c\u8eca\u4ed4\u9eb5\u8336\u9910\u5ef3",
+            "SHOP C, G/F, CHIK FU MANSION, 57-69 CHIK FU STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394058
+        ]
+      ],
+      "coordinate": [
+        1.9927862755313837,
+        0.3905147982230029,
+        15.699999809265137
+      ],
+      "halfSize": [
+        8.76181499985978,
+        13.148744999431074,
+        10.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1109393449,
+        1,
+        [
+          [
+            3897811016,
+            0,
+            "FU YUAN KITCHEN",
+            "SHOP A, G/F, WAH MEE HOUSE, 66-72 TAI WAI ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394082
+        ]
+      ],
+      "coordinate": [
+        1.9927850878044187,
+        0.39051181148785696,
+        16.649999618530273
+      ],
+      "halfSize": [
+        9.739829999860376,
+        11.202735000289977,
+        11.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393450,
+        2,
+        [
+          [
+            2297000556,
+            0,
+            "\u6797\u5712",
+            "SHOP NO 2, G/F, HO SZE HOUSE, 60 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297806820,
+            0,
+            "ODEON CAFE",
+            "SHOP 4 & 5, G/F, HO SZE HOUSE, 62 CHIK FUK STREET, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394084
+        ]
+      ],
+      "coordinate": [
+        1.9928083717168805,
+        0.3905120495190374,
+        15.649999618530273
+      ],
+      "halfSize": [
+        10.865499999839813,
+        10.053999999538064,
+        10.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393451,
+        2,
+        [
+          [
+            2297807300,
+            0,
+            "COZY",
+            "SHOP C, G/F AND COCKLOFT, 64-66 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            3197802932,
+            1,
+            "SHANXI NOODLE KING",
+            "SHOP D, G/F, CHEUNG HING MANSION, 64-66 CHIK FUK STREET, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394090
+        ]
+      ],
+      "coordinate": [
+        1.992806556272338,
+        0.39051089764642916,
+        15.700000762939453
+      ],
+      "halfSize": [
+        10.195999999996275,
+        11.615500000305474,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        1109393452,
+        1,
+        [
+          [
+            2297002011,
+            0,
+            "\u65b0\u5927\u5229\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP C, G/F, 74-76 TAI WAI ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394097
+        ]
+      ],
+      "coordinate": [
+        1.9927875004772617,
+        0.39050991258494794,
+        16.299999237060547
+      ],
+      "halfSize": [
+        13.504714999813586,
+        11.659880000166595,
+        10.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1109393453,
+        1,
+        [
+          [
+            2297805599,
+            0,
+            "FRIENDSHIP HOUSE",
+            "SHOP A, G/F, LAI SING MANSION, NOS. 77-81 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394099
+        ]
+      ],
+      "coordinate": [
+        1.9928105982718336,
+        0.390509355633781,
+        15.600000381469727
+      ],
+      "halfSize": [
+        8.662499999627471,
+        11.475445000454783,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        1109393454,
+        1,
+        [
+          [
+            2297810267,
+            0,
+            "YUNG KEE HAINAN CHICKEN",
+            "SHOP B, G/F, KAM FAI BUILDING, NOS. 70 & 72 CHIK FUK STREET, NOS. 1 & 3 CHIK SAU LANE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394105
+        ]
+      ],
+      "coordinate": [
+        1.9928029195717238,
+        0.39050824035260157,
+        16.700000762939453
+      ],
+      "halfSize": [
+        14.350860000122339,
+        12.328664999455214,
+        11.5
+      ]
+    },
+    {
+      "attributes": [
+        1109393455,
+        1,
+        [
+          [
+            3197801452,
+            1,
+            "\u6b0a\u8a18\u8eca\u4ed4\u9762",
+            "SHOP C, G/F, MOON WAH MANSION, 71-75 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394106
+        ]
+      ],
+      "coordinate": [
+        1.992808848127475,
+        0.3905081012840194,
+        15.850000381469727
+      ],
+      "halfSize": [
+        10.98445999994874,
+        11.562999999150634,
+        10.75
+      ]
+    },
+    {
+      "attributes": [
+        1109393456,
+        6,
+        [
+          [
+            2297000662,
+            0,
+            "KAM SHING RESTAURANT",
+            "G/F, 84 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297800558,
+            0,
+            "\u7cb5\u8ed2",
+            "G/F, HONG LOK HOUSE, 76 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2297801454,
+            0,
+            "\u7cb5\u8ed2",
+            "G/F, HONG LOK HOUSE, 82 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2297802323,
+            0,
+            "HON NIN RESTAURANT",
+            "G/F, 100 CHIK FUK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2297805049,
+            0,
+            "\u5fb7\u8208\u9910\u5ef3",
+            "SHOP E & F, G/F, HONG LOK BUILDING, 76-100 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2297805386,
+            0,
+            "\u5927\u570d\u5c0f\u9928",
+            "G/F, 92, 94 & 98 CHIK FUK STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394112
+        ]
+      ],
+      "coordinate": [
+        1.9927983228917665,
+        0.39050510477709205,
+        16.600000381469727
+      ],
+      "halfSize": [
+        24.19275499973446,
+        21.4165350003168,
+        11.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1109393457,
+        3,
+        [
+          [
+            2297805508,
+            0,
+            "DAFENG",
+            "SHOP A2, G/F, KAM CHEONG BUILDING, NOS. 53, 55, 61, 63 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2297809111,
+            0,
+            "\u5fa1\u7287\u9eb5\u9928",
+            "SHOP A1, G/F, KAM CHEONG BUILDING, NO. 53, 55, 61, 63 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            3897811007,
+            0,
+            "\u5927\u5e2b\u5085\u7ca5\u54c1",
+            "SHOP D1, G/F, KAM CHEONG BUILDING, 53, 55, 61 & 63 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394127
+        ]
+      ],
+      "coordinate": [
+        1.9928029791703197,
+        0.3905040133647067,
+        16.549999237060547
+      ],
+      "halfSize": [
+        16.360959999728948,
+        15.529910000041127,
+        11.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1109393458,
+        1,
+        [
+          [
+            2297802952,
+            0,
+            "\u738b\u724c \u570d\u4e00\u53c9\u71d2",
+            "SHOP 8, G/F & COCKLOFT, TIN PO BUILDING, 94-98 & 102 TAI WAI ROAD, 102-108 CHIK FUK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394140
+        ]
+      ],
+      "coordinate": [
+        1.9927937674073286,
+        0.3905018936529299,
+        16.200000762939453
+      ],
+      "halfSize": [
+        13.107210000045598,
+        14.074885000474751,
+        10.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393459,
+        3,
+        [
+          [
+            2297808358,
+            0,
+            "\u7d05\u8336",
+            "SHOP D (MAJOR PORTION), G/F. AND C/L D,TAI ON BUILDING, 41, 45, 47 & 51 TSUEN NAM ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2297809458,
+            0,
+            "KFC",
+            "PORTION OF SHOP B AND PORTION OF SHOP C ON G/F, TAI ON BUILDING, NOS. 41, 45, 47, & 51 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2297810188,
+            0,
+            "TWELVE FLAVORS",
+            "PORTION OF SHOP B & C ON G/F AND SHOP B & C ON COCKLOFT, TAI ON BUILDING, 41, 45, 47 & 51 TSUEN NAM ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394143
+        ]
+      ],
+      "coordinate": [
+        1.992797956029505,
+        0.3905003208067252,
+        16.350000381469727
+      ],
+      "halfSize": [
+        25.47770999977365,
+        19.994384999386966,
+        10.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1109393460,
+        2,
+        [
+          [
+            3197801142,
+            1,
+            "\u5c0f\u80a5\u8c6c\u6252\u9910\u5ef3",
+            "SHOP 14, G/F, HOLFORD SHOPPING ARCADE, 2-8 CHIK WAN STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3197802701,
+            1,
+            "CURRY BOY",
+            "SHOP NO. 22, GROUND FLOOR, HOLFORD GARDEN SHOPPING ARCADE, NOS. 2-8 CHIK WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394200
+        ]
+      ],
+      "coordinate": [
+        1.9927600292133627,
+        0.3904820195088011,
+        8.550000190734863
+      ],
+      "halfSize": [
+        42.739999999757856,
+        36.72849999926984,
+        3.6499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1109393461,
+        1,
+        [
+          [
+            2297002482,
+            0,
+            "328 \u8336\u9910\u5ef3",
+            "SHOP NO 217, G/F, DD 189, LOT 1631, TIN SAM VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394263
+        ]
+      ],
+      "coordinate": [
+        1.9927888612314941,
+        0.3904446973151534,
+        11.899999618530273
+      ],
+      "halfSize": [
+        4.08705999981612,
+        5.934580000117421,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1109393462,
+        2,
+        [
+          [
+            2297804648,
+            0,
+            "Delicious Inn",
+            "SHOP NO. 1, G/F, SUN YEE HOUSE, SUN CHUI ESTATE, 2 CHUI TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2297810407,
+            0,
+            "Mo-Ikken cafe Kimura Bakery",
+            "SHOP NO. 1A, GROUND FLOOR, SUN YEE HOUSE, SUN CHUI ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394375
+        ]
+      ],
+      "coordinate": [
+        1.9928390124900377,
+        0.39042242567725216,
+        27.649999618530273
+      ],
+      "halfSize": [
+        53.78300000028685,
+        43.33799999952316,
+        22.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1109393463,
+        1,
+        [
+          [
+            2297803195,
+            0,
+            "TS' Taste",
+            "G/F, 249 TIN SAM VILLAGE, DD 189, LOT NO. 1677, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394489
+        ]
+      ],
+      "coordinate": [
+        1.9927989867738496,
+        0.3904174227755268,
+        13.050000190734863
+      ],
+      "halfSize": [
+        4.943045000080019,
+        5.118400000035763,
+        6.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1109393464,
+        1,
+        [
+          [
+            2297002419,
+            0,
+            "\u91d1\u6e90\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "G/F, NO 258, DD 189, LOT 1679, TIN SAM VILLAGE, TIN SAM STREET, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394524
+        ]
+      ],
+      "coordinate": [
+        1.992796961563449,
+        0.39041407431913056,
+        12.699999809265137
+      ],
+      "halfSize": [
+        3.040499999653548,
+        5.584999999962747,
+        5.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1109393465,
+        1,
+        [
+          [
+            2297000796,
+            0,
+            "Wing Fat Fast Food",
+            "NO 260, G/F, AND THE OUTSIDE SEATING AREA AT SHOPFRONT, DD 189, LOT 1691, TIN SUM VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394542
+        ]
+      ],
+      "coordinate": [
+        1.9927855864670714,
+        0.3904101593418989,
+        13.899999618530273
+      ],
+      "halfSize": [
+        5.668999999761581,
+        5.721499999985099,
+        6.5
+      ]
+    },
+    {
+      "attributes": [
+        1109393466,
+        1,
+        [
+          [
+            2297804976,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 201, LEVEL 3, LUNG HANG SHOPPING CENTRE, LUNG HANG ESTATE, 1 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394555
+        ]
+      ],
+      "coordinate": [
+        1.9928105977345798,
+        0.3903992091764481,
+        12.949999809265137
+      ],
+      "halfSize": [
+        66.78550000023097,
+        48.88550000078976,
+        5.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1109393467,
+        1,
+        [
+          [
+            2297002640,
+            0,
+            "BIG SMILE RESTAURANT",
+            "SHOP G1, G/F, CARADO GARDEN, 10-30 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394653
+        ]
+      ],
+      "coordinate": [
+        1.992772873459594,
+        0.3904058109469664,
+        14.25
+      ],
+      "halfSize": [
+        27.62000000011176,
+        33.74850000068545,
+        5.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1109393468,
+        3,
+        [
+          [
+            2297802077,
+            0,
+            "\u8c6c\u6252\u5c4b",
+            "SHOP NO. 4, G/F, CARADO GARDEN, 20-30 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ],
+          [
+            2297803441,
+            0,
+            "\u548c\u767c",
+            "SHOP 12 & 13, G/F, CARADO GARDEN, 20-30 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ],
+          [
+            3197800945,
+            1,
+            "Fruity Land",
+            "SHOP 2, G/F, CARADO GARDEN SHOPPING CENTRE, 20-30 TIN SAM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394666
+        ]
+      ],
+      "coordinate": [
+        1.9927588446351743,
+        0.39040511227642233,
+        48.10000228881836
+      ],
+      "halfSize": [
+        18.977500000037253,
+        20.74349999986589,
+        39.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1109393469,
+        34,
+        [
+          [
+            2297809537,
+            0,
+            "TORITEN",
+            "SHOP NO. 233, 2/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2297809564,
+            0,
+            "Cafe de Coral",
+            "SHOP UNIT 519, 5/F, THE WAI, COMMERCIAL DEVELOPMENT AT TAI WAI STATION, SHA TIN TOWN LOT NO. 520, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2297809582,
+            0,
+            "McDonald's Restaurant",
+            "SHOP UNIT 520, 5/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2297809591,
+            0,
+            "Men Wah Bing Teng",
+            "SHOP UNIT 434, 4/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2297809616,
+            0,
+            "CHATTERBOX CAFE",
+            "UNIT 304, 3/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2297809625,
+            0,
+            "CAFE DECO PIZZERIA",
+            "SHOP 218, 2/F , THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2297809634,
+            0,
+            "Full Moon House Chuan",
+            "SHOP NO. 232, 2/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2297809643,
+            0,
+            "Yakiniku Like",
+            "SHOP UNIT 426A, 4/F, THE WAI, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2297809652,
+            0,
+            "Genki Sushi",
+            "SHOP UNIT 433A, 4/F, THE WAI, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2297809670,
+            0,
+            "MOOJOO LIFESTYLE CAFE",
+            "MAJOR PORTION OF SHOP UNIT 335, 3/F, THE WAI, NO. 18 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2297809689,
+            0,
+            "Sen-ryo",
+            "SHOP UNIT 305, 3/F, THE WAI, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2297809704,
+            0,
+            "Aburi En",
+            "SHOP UNIT 426B, 4/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2297809713,
+            0,
+            "Chiuchow Garden / M&C. Duck",
+            "SHOP NO. 501, 5/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2297809722,
+            0,
+            "Khao San/ Nabe Urawa",
+            "SHOP UNITS 431-432 AND SEATING AREA OPPOSITE SHOP UNITS 431-432, LEVEL 4, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2297809731,
+            0,
+            "Modern Shanghai Imperial",
+            "SHOP UNIT 334, 3/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2297809740,
+            0,
+            "Whole Day",
+            "PORTION OF UNIT 325, 3/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2297809759,
+            0,
+            "Yamamotoya",
+            "SHOP UNIT 527, 5/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2297809786,
+            0,
+            "Nha Trang Vietnamese Cuisine",
+            "SHOP 425, 4/F, THE WAI, 18 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2297809795,
+            0,
+            "PEI BISTRO",
+            "SHOP UNIT 528, 5/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2297809801,
+            0,
+            "GALBI GUNG",
+            "SHOP UNIT 331, 3/F., THE WAI, NO. 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2297809810,
+            0,
+            "Greenhouse (Asian Gourmet)",
+            "SHOP 203, 2/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2297809856,
+            0,
+            "Cou Cou  \u2022 Tea Mi Tea",
+            "SHOP UNIT 327, 3/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2027-02-19"
+          ],
+          [
+            2297809892,
+            0,
+            "Shang Yang Restaurant",
+            "SHOP 329, 3/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            2297809944,
+            0,
+            "Liukoushui Chongqing Noodles/Kew+",
+            "SHOP UNIT 521, 5/F., THE WAI, NO. 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2297810106,
+            0,
+            "TERA",
+            "SHOP 320, 3/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2297810665,
+            0,
+            "Green Tea - The Wai",
+            "SHOP UNIT 321A, 3/F., THE WAI, NO. 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            3897810891,
+            0,
+            "Canton House",
+            "SHOP UNIT 332, 3/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3197802491,
+            1,
+            "Starbucks Coffee",
+            "SHOP NO. 319, THIRD FLOOR, THE WAI, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            3197802507,
+            1,
+            "COMEBUYTEA",
+            "SHOP UNIT 424, 4/F, THE WAI, COMMERCIAL DEVELOPMENT AT TAI WAI STATION, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            3197802516,
+            1,
+            "agn\u00e8s b.",
+            "KIOSK 11, 2/F, THE WAI, COMMERCIAL DEVELOPMENT AT TAI WAI STATION, SHA TIN TOWN LOT NO. 520, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            3197802534,
+            1,
+            "NOC COFFEE CO.",
+            "SHOP NO. 430 & KIOSK 07, 4/F., THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3197802552,
+            1,
+            "Haagen-Dazs",
+            "SHOP 240, 2/F, THE WAI, 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            3197802710,
+            1,
+            "\u9ea5\u5940\u96f2\u541e\u9eb5\u4e16\u5bb6",
+            "SHOP 221B, 2/F, THE WAI, COMMERCIAL DEVELOPMENT AT TAI WAI STATION, SHA TIN TOWN LOT NO. 520, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            3197802835,
+            1,
+            "PHI Coffee & Pancake / Jollibean",
+            "PORTION A OF KIOSKS 26A & 26B, 5/F, THE WAI, NO. 18 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1109394816
+        ]
+      ],
+      "coordinate": [
+        1.992809692671925,
+        0.3904831929909243,
+        26.5
+      ],
+      "halfSize": [
+        147.67577999969944,
+        125.59987999964505,
+        21.0
+      ]
+    }
+  ]
+}

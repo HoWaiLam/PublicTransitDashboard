@@ -1,0 +1,113 @@
+{
+  "features": [
+    {
+      "attributes": [
+        859832320,
+        1,
+        [
+          [
+            3194802117,
+            1,
+            "Foon Hei Lau Home Made Cooking",
+            "G/F, DD 102 LOT 3360, SAN TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          859832935
+        ]
+      ],
+      "coordinate": [
+        1.9910333891385668,
+        0.3926831372295828,
+        8.699999809265137
+      ],
+      "halfSize": [
+        10.863444999791682,
+        9.612499999813735,
+        2.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        859832321,
+        2,
+        [
+          [
+            2294002977,
+            0,
+            "\u65b0\u7530\u8336\u9910\u5ef3",
+            "FLAT 1 & 2, G/F, DD 102, LOT 215, SAN TIN MAIN ROAD, SAN TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2294003323,
+            0,
+            "\u65b0\u8208\u767c\u8336\u9910\u5ef3",
+            "BLOCK C & D, G/F, DD 102, LOT 215, MAIN ROAD, SAN TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          859833001
+        ]
+      ],
+      "coordinate": [
+        1.991034078724971,
+        0.3926754940677346,
+        8.649999618530273
+      ],
+      "halfSize": [
+        5.003555000294,
+        6.017500000074506,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        859832322,
+        2,
+        [
+          [
+            2294810628,
+            0,
+            "\u91d1\u660e\u82d1\u5712\u6797\u6d77\u9bae\u9152\u5bb6",
+            "G/F, IN D.D. 102, LOT NO. 198 R.P, CASTLE PEAK ROAD (SAN TIN SECTION), YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2294810646,
+            0,
+            "\u91d1\u660e\u82d1\u5712\u6797\u6d77\u9bae\u9152\u5bb6",
+            "G/F, IN D.D. 102, LOT NO.198 S.B. , CASTLE PEAK ROAD (SAN TIN SECTION), YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          859833449
+        ]
+      ],
+      "coordinate": [
+        1.991045506456939,
+        0.39268544889927903,
+        9.5
+      ],
+      "halfSize": [
+        5.306500000413507,
+        3.035999999381602,
+        4.100000381469727
+      ]
+    }
+  ]
+}

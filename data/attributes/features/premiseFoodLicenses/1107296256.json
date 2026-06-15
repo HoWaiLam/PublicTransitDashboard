@@ -1,0 +1,453 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1107296256,
+        4,
+        [
+          [
+            2997001361,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP NOS 1-4 (PORTION), COOKED FOOD STALL, LUNG HANG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2997806289,
+            4,
+            "V28",
+            "SHOP NO. 116, COMMERCIAL COMPLEX, LUNG HANG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-08"
+          ],
+          [
+            3697805088,
+            5,
+            "\u725b\u820d",
+            "STALL S-LH 56, LUNG HANG MARKET, G/F, LUNG HANG ESTATE, 1 TIN SUM STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-16"
+          ],
+          [
+            3297000087,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP NOS 1-4 (PORTION), COOKED FOOD STALL, LUNG HANG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296257
+        ]
+      ],
+      "coordinate": [
+        1.9927793082668075,
+        0.39034688418136443,
+        13.199999809265137
+      ],
+      "halfSize": [
+        53.99599999981001,
+        43.22900000028312,
+        2.0
+      ]
+    },
+    {
+      "attributes": [
+        1107296257,
+        1,
+        [
+          [
+            3697800861,
+            5,
+            "Wellcome",
+            "SHOP NO. 13, 15-19 (PORTION A), G/F OF PODIUM B, JULIMOUNT GARDEN, 1-5 HIN TAI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296269
+        ]
+      ],
+      "coordinate": [
+        1.9927544154240213,
+        0.3902882741881883,
+        55.19999694824219
+      ],
+      "halfSize": [
+        58.41149999992922,
+        46.67100000008941,
+        1.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1107296258,
+        1,
+        [
+          [
+            2997806030,
+            4,
+            "Grasp Coffee",
+            "SHOP A, G/F, 30 HA KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296307
+        ]
+      ],
+      "coordinate": [
+        1.9927500292292113,
+        0.3903467728735048,
+        17.599998474121094
+      ],
+      "halfSize": [
+        4.512019999790937,
+        4.861814999952912,
+        6.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1107296259,
+        1,
+        [
+          [
+            2997813102,
+            4,
+            "Dr. Cow",
+            "G/F, 31 HA KENG HAU VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296309
+        ]
+      ],
+      "coordinate": [
+        1.992751255192538,
+        0.39034654694018556,
+        17.549999237060547
+      ],
+      "halfSize": [
+        4.352504999842495,
+        4.81946500018239,
+        6.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1107296260,
+        1,
+        [
+          [
+            2997813254,
+            4,
+            "\u828b\u5713\u5c4b",
+            "PORTION OF G/F, NO. 2, SHEUNG KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296459
+        ]
+      ],
+      "coordinate": [
+        1.9927255887486404,
+        0.39032963347506566,
+        18.100000381469727
+      ],
+      "halfSize": [
+        4.6405950002372265,
+        4.606735000386834,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1107296261,
+        27,
+        [
+          [
+            2197000379,
+            1,
+            "\u5609\u6a02",
+            "SHOP 222, LEVEL 1, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2997001264,
+            4,
+            "7-ELEVEN",
+            "SHOP NO 114 (PORTION B), HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2997807176,
+            4,
+            "PARKnSHOP",
+            "STALL NO.2, SHOP NOS. 101, 102 & 103, G/F, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2997807787,
+            4,
+            "V28",
+            "SHOP NO. 112, G/F, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2997808203,
+            4,
+            "CRAFTED",
+            "PORTION A OF SHOP NOS. 106-108, G/F, HIN KENG SHOPPING CENTRE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2997809604,
+            4,
+            "Sugar Lemon",
+            "STALL NOS.M19, G/F, MARKET, WING A, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            2997809640,
+            4,
+            "GREEN CHILI",
+            "STALL NO. M29 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL / CAR PARK COMPLEX (ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, NO.69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ],
+          [
+            2997809668,
+            4,
+            "\u71d2\u6d12\u4e00\u65cf",
+            "STALL NO. M30 IN THE MARKET PLACE, GROUND FLOOR, WING A OF HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2997809701,
+            4,
+            "\u65b0\u745e\u8208\u71d2\u5473",
+            "STALL NO.M18 (REAR PORTION) IN THE MARKET PLACE,GROUND FLOOR, WING A OF HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO.69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            2997809792,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "STALL NO. M33, G/F, MARKET, COMMERCIAL/CAR PARK COMPLEX (ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-05"
+          ],
+          [
+            2997812686,
+            4,
+            "\u5fb7\u5229",
+            "STALL NO. M52 IN THE MARKET PLACE ON GROUND FLOOR, COMMERCIAL / CAR PARK COMPLEX (ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2997813184,
+            4,
+            "\u5fb7\u5229\u5c0f\u5eda",
+            "STALL NO. M31 & M32 IN THE MARKET PLACE, GROUND FLOOR COMMERCIAL / CAR PARK COMPLEX (ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3697802919,
+            5,
+            "PARKnSHOP",
+            "STALL NO. 1 & PORTIONS OF SHOP NOS. 101, 102 & 103, G/F, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3697804030,
+            5,
+            "\u51a0\u8208\u51cd\u8089",
+            "STALL NO. M2, G/F, MARKET, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            3697804067,
+            5,
+            "\u5f37\u8a18\u96de\u9d28",
+            "STALL NO. M55, G/F, MARKET, COMMERCIAL / CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3697804094,
+            5,
+            "\u512a\u9bae",
+            "STALL NOS. M54 & M56, G/F, MARKET, COMMERCIAL / CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-03"
+          ],
+          [
+            3697804100,
+            5,
+            "\u4e09\u8208\u8089\u67b1",
+            "STALL NO. M11, G/F, MARKET, COMMERCIAL / CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            3697804119,
+            5,
+            "\u6f01\u5e02",
+            "STALL NO. M57 IN THE MARKET PLACE ON G/F, COMMERCIAL/CAR PARK COMPLEX, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            3697804137,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "MARKET STALL NOS. M58-59 IN THE MARKET PLACE ON G/F, COMMERCIAL / CAR PARK COMPLEX, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-06"
+          ],
+          [
+            3697804173,
+            5,
+            "\u516d\u6708\u725b\u8089",
+            "STALL NO. M10, G/F, MARKET, COMMERCIAL / CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3697804216,
+            5,
+            "\u5ee3\u6771\u8089\u98df",
+            "STALL NO. M37, G/F, MARKET, COMMERCIAL / CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            3697804234,
+            5,
+            "\u5929\u5bf6\u4ed4\u9bae\u9b5a",
+            "STALL NO. M61, HIN KENG MARKET, HIN KENG SHOPPING CENTRE, 69 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            3697804243,
+            5,
+            "\u986f\u5f91\u9bae\u9b5a",
+            "STALL NO. M60, G/F, MARKET, COMMERCIAL/CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            3697804340,
+            5,
+            "\u5927\u5bcc\u6d77\u9bae",
+            "STALL NO. M06, G/F, MARKET, COMMERCIAL / CAR PARK COMPLEX(ALSO KNOWN AS WING A OF HIN KENG SHOPPING CENTRE), HIN KENG ESTATE, 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            3297000166,
+            6,
+            "7-ELEVEN",
+            "SHOP 114 (PORTION A), SHOPPING CENTRE, HIN KENG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            3597800462,
+            8,
+            "PARKnSHOP",
+            "STALL NO. 3, SHOP NOS. 101, 102 & 103, G/F, HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            3597800620,
+            8,
+            "\u65b0\u745e\u8208\u71d2\u5473",
+            "STALL NO. M18 (FRONT PORTION) IN THE MARKET PLACE, GROUND FLOOR, WING A OF HIN KENG SHOPPING CENTRE, HIN KENG ESTATE, NO. 69 CHE KUNG MIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296517
+        ]
+      ],
+      "coordinate": [
+        1.9926761194793736,
+        0.3903157715420293,
+        22.0
+      ],
+      "halfSize": [
+        50.50650000013411,
+        44.927499999292195,
+        9.5
+      ]
+    },
+    {
+      "attributes": [
+        1107296262,
+        1,
+        [
+          [
+            2997811513,
+            4,
+            "Pizza Bird - Pizza & Chicken",
+            "SHOP B, G/F, NO. 56, DD 187, LOT 580, SHEUNG KENG HAU VILLAGE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1107296546
+        ]
+      ],
+      "coordinate": [
+        1.992709450775749,
+        0.39031603164447054,
+        17.799999237060547
+      ],
+      "halfSize": [
+        4.305000000167638,
+        4.309999999590218,
+        4.099999904632568
+      ]
+    }
+  ]
+}

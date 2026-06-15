@@ -1,0 +1,315 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1239416832,
+        1,
+        [
+          [
+            2253801977,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. L206, L207 AND L208, LG2/F, FU YAN HOUSE, FU SHAN ESTATE, KOWLOON",
+            null,
+            "2027-01-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239416953
+        ]
+      ],
+      "coordinate": [
+        1.9933108565952014,
+        0.3899544769666453,
+        88.55000305175781
+      ],
+      "halfSize": [
+        19.70050000026822,
+        45.560374999418855,
+        27.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1239416833,
+        1,
+        [
+          [
+            2253059363,
+            0,
+            "\u5bcc\u82d1\u91d1\u95a3",
+            "SHOP NO.2, (G/F, LG 1 & LG 2), FU LAI HOUSE, FU SHAN ESTATE, HAMMER HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239416956
+        ]
+      ],
+      "coordinate": [
+        1.993317265558944,
+        0.38994569257339146,
+        71.80000305175781
+      ],
+      "halfSize": [
+        37.63501500012353,
+        16.648870000615716,
+        10.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1239416834,
+        1,
+        [
+          [
+            2253296746,
+            0,
+            "\u53d9\u82d1\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP B1-B6, G/F, COMMERCIAL/CAR PARK, GRAND VIEW GARDEN, 185 HAMMER HILL ROAD, HAMMER HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239416958
+        ]
+      ],
+      "coordinate": [
+        1.9933069768613005,
+        0.3899336341718336,
+        52.75
+      ],
+      "halfSize": [
+        29.059464999940246,
+        84.10317000001669,
+        14.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1239416835,
+        1,
+        [
+          [
+            3153801267,
+            1,
+            "\u5510\u98a8\u5c0f\u7bc9",
+            "TANG GALLERY, NAN LIAN GARDEN, 60 FUNG TAK ROAD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417056
+        ]
+      ],
+      "coordinate": [
+        1.9932593787325639,
+        0.38989578634857464,
+        18.900001525878906
+      ],
+      "halfSize": [
+        21.411179999820888,
+        5.3360350001603365,
+        2.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1239416836,
+        1,
+        [
+          [
+            2253803593,
+            0,
+            "\u5169\u4e09\u7897\u8eca\u4ed4\u9eb5",
+            "SHOP A & C, G/F, KA WAH BUILDING, 74-80 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-01-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417060
+        ]
+      ],
+      "coordinate": [
+        1.993215119827306,
+        0.39002966333044464,
+        83.19999694824219
+      ],
+      "halfSize": [
+        11.076965000014752,
+        6.6413000002503395,
+        3.1000022888183594
+      ]
+    },
+    {
+      "attributes": [
+        1239416837,
+        2,
+        [
+          [
+            3153099666,
+            1,
+            "\u5927\u7cd6",
+            "SHOP NO. 5, G/F, MAN PO BLDG., 28 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3153211228,
+            1,
+            "\u84b2\u9ede",
+            "SHOP 6, G/F, MAN PO MANSION, 28 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417061
+        ]
+      ],
+      "coordinate": [
+        1.9932152318821033,
+        0.3900271796903945,
+        82.55000305175781
+      ],
+      "halfSize": [
+        12.691765000112355,
+        7.944680000655353,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1239416838,
+        2,
+        [
+          [
+            2253252494,
+            0,
+            "\u4e09\u8a18\u7f8e\u98df",
+            "G/F, 4 PO KING LANE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2253804754,
+            0,
+            "SAM KEE CHIU CHOW BRINED FOOD LIMITED",
+            "G/F, 8 PO KING LANE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417063
+        ]
+      ],
+      "coordinate": [
+        1.9932145417930731,
+        0.3900219421956127,
+        80.25
+      ],
+      "halfSize": [
+        8.380499999970198,
+        17.501000000163913,
+        5.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1239416839,
+        2,
+        [
+          [
+            2253804231,
+            0,
+            "\u6797\u5712",
+            "1A, G/F, FU LAI HOUSE, FU SHAN ESTATE, HAMMER HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-20"
+          ],
+          [
+            2253805632,
+            0,
+            "\u7fa9\u8208",
+            "1B, G/F, FU LAI HOUSE, FU SHAN ESTATE, HAMMER HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417066
+        ]
+      ],
+      "coordinate": [
+        1.993317144961978,
+        0.3899540937004153,
+        56.04999923706055
+      ],
+      "halfSize": [
+        68.18489000014961,
+        67.06775500066578,
+        4.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1239416840,
+        2,
+        [
+          [
+            2253805465,
+            0,
+            "\u5609\u5cf0\u5c0f\u5eda",
+            "SHOP NO. 3, G/F, SHOPPING CENTRE, KINGSFORD TERRACE, 8 KING TUNG STREET, KOWLOON",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3153801212,
+            1,
+            "Blessing Cart Noodles",
+            "SHOP 5B, G/F., KINGSFORD TERRACE, NO. 8 KING TUNG STREET, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417074
+        ]
+      ],
+      "coordinate": [
+        1.993360962507604,
+        0.38991460530833894,
+        64.05000305175781
+      ],
+      "halfSize": [
+        81.44985500024632,
+        70.23617000039667,
+        12.450000762939453
+      ]
+    }
+  ]
+}

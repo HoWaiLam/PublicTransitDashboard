@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        882900992,
+        1,
+        [
+          [
+            2517000041,
+            3,
+            "Lamma Power Station",
+            "G/F. (MAJOR PORTION) & 1/F. (MAJOR PORTION), AMENITY BUILDING, LAMMA POWER STATION, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          882900993
+        ]
+      ],
+      "coordinate": [
+        1.991505969977656,
+        0.3877681434734989,
+        12.399999618530273
+      ],
+      "halfSize": [
+        27.287999999709427,
+        10.401999999769032,
+        6.599999904632568
+      ]
+    }
+  ]
+}

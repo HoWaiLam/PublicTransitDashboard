@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1377828864,
+        1,
+        [
+          [
+            2298001158,
+            0,
+            "\u9806\u767c\u7f8e\u98df",
+            "CAFETERIA (CANTEEN),SAI KUNG OUTDOOR RECREATION CENTRE,21 HONG KIN ROAD, TUI MIN HOI AREA, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1377829090
+        ]
+      ],
+      "coordinate": [
+        1.994327439975035,
+        0.3905364553331084,
+        39.75
+      ],
+      "halfSize": [
+        24.258499999996275,
+        27.20799999963492,
+        0.9500007629394531
+      ]
+    },
+    {
+      "attributes": [
+        1377828865,
+        1,
+        [
+          [
+            2298001972,
+            0,
+            "Hong Kong Society for the Deaf Cafeteria",
+            "LIONS NATURE EDUCATION CENTRE,& OUTSIDE SEATING ACCOMMODATION AT SIDE,TSIU HANG SPECIAL AREA, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1377829188
+        ]
+      ],
+      "coordinate": [
+        1.994283517676491,
+        0.3904989932414208,
+        33.099998474121094
+      ],
+      "halfSize": [
+        8.212999999988824,
+        9.36049999948591,
+        3.4999990463256836
+      ]
+    }
+  ]
+}

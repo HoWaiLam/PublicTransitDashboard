@@ -1,0 +1,176 @@
+{
+  "features": [
+    {
+      "attributes": [
+        771751936,
+        1,
+        [
+          [
+            2992000488,
+            4,
+            "Garden",
+            "7/F, BLOCK D, CASTLE PEAK ROAD,DD390, LOT 194, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771751936
+        ]
+      ],
+      "coordinate": [
+        1.9907852938116115,
+        0.39035854382820234,
+        38.5
+      ],
+      "halfSize": [
+        53.55600000033155,
+        51.21750000026077,
+        34.5
+      ]
+    },
+    {
+      "attributes": [
+        771751937,
+        1,
+        [
+          [
+            2992810524,
+            4,
+            "Mamma Snacks",
+            "SHOP NO. P3, LEVEL 1, PARK ISLAND PIER, PARK ISLAND, LOT NO. 392, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771752096
+        ]
+      ],
+      "coordinate": [
+        1.9907979685236858,
+        0.3901308963967791,
+        9.149999618530273
+      ],
+      "halfSize": [
+        62.69759499980137,
+        36.92278499994427,
+        4.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        771751938,
+        1,
+        [
+          [
+            2992807126,
+            4,
+            "HUADU KITCHEN",
+            "G/F, 66 TIN LIU NEW VILLAGE, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771752124
+        ]
+      ],
+      "coordinate": [
+        1.9907185349999421,
+        0.3901310834101656,
+        29.399999618530273
+      ],
+      "halfSize": [
+        3.345000000204891,
+        5.360000000335276,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        771751939,
+        7,
+        [
+          [
+            2992803230,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. S5 & S6 ON LEVEL 1, PARK ISLAND-PIER, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2992804710,
+            4,
+            "Fusion",
+            "STALL NO. 15, SHOP NO. S7, LEVEL 1, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2992804738,
+            4,
+            "Fusion",
+            "STALL NO. 16, SHOP NO. S7, LEVEL 1, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2992804747,
+            4,
+            "Fusion",
+            "STALL NO. 11, SHOP NO. S7, LEVEL 1, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3692801285,
+            5,
+            "Fusion",
+            "STALL NO. 13, 14 & PORTIONS OF SHOP NO. S7, LEVEL 1, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3292800516,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. S5 & S6 ON LEVEL 1, PARK ISLAND - PIER, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3592800397,
+            8,
+            "Fusion",
+            "STALL NO. 12, SHOP NO. S7, LEVEL 1, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771752162
+        ]
+      ],
+      "coordinate": [
+        1.9907727412491434,
+        0.3901567702120855,
+        9.899999618530273
+      ],
+      "halfSize": [
+        72.31658499967307,
+        55.239380000159144,
+        2.4000000953674316
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "features": [
+    {
+      "attributes": [
+        627048448,
+        6,
+        [
+          [
+            2917800968,
+            4,
+            "Fusion",
+            "STALL NO. 5, SHOP NOS. G21-22, G23A-B, G24A-B, G25 & G32B, G/F., BLOCK C, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2917801013,
+            4,
+            "Fusion",
+            "STALL NO. 8, SHOP NOS. G21-22, G23A-B, G24A-B, G25 & G32B, G/F., BLOCK C, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2917802371,
+            4,
+            "fusion",
+            "STALL NO. 7, SHOP NOS. G21-22, G23A-B, G24A-B, G25 & G32B, G/F., BLOCK C, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2917802380,
+            4,
+            "fusion",
+            "STALL NO. 3, SHOP NOS. G21-22, G23A-B, G24A-B, G25 & G32B, G/F., BLOCK C, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2917802405,
+            4,
+            "fusion",
+            "STALL NO. 12, SHOP NOS. G21-22, G23A-B, G24A-B, G25 & G32B, G/F., BLOCK C, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-08"
+          ],
+          [
+            3517800185,
+            8,
+            "fusion",
+            "STALL NO. 4, SHOP NOS. G21-22, G23A-B, G24A-B, G25 & G32B, G/F., BLOCK C, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          627048449
+        ]
+      ],
+      "coordinate": [
+        1.9899719711439787,
+        0.3891307393797055,
+        11.34999942779541
+      ],
+      "halfSize": [
+        93.06659000040963,
+        69.31822500005364,
+        5.449999809265137
+      ]
+    }
+  ]
+}

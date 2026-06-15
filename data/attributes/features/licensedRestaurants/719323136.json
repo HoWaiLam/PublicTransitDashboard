@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        719323136,
+        1,
+        [
+          [
+            2294000032,
+            0,
+            "Fung Yuen Restaurant",
+            "G/F, DD 115, LOT 60A, 271 HUNG TIN TSUEN, SHAN PUI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          719323510
+        ]
+      ],
+      "coordinate": [
+        1.990261596539304,
+        0.39181606085967247,
+        9.850000381469727
+      ],
+      "halfSize": [
+        5.5539950001984835,
+        4.708750000223517,
+        5.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        719323137,
+        1,
+        [
+          [
+            2217803793,
+            0,
+            "Kwun Yum Temple",
+            "KWUN YUM TEMPLE, DD 311, LOT 759, KEUNG SHAN, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          719324052
+        ]
+      ],
+      "coordinate": [
+        1.9902819707130344,
+        0.39178794602679073,
+        5.75
+      ],
+      "halfSize": [
+        6.824150000233203,
+        11.380149999633431,
+        2.8500001430511475
+      ]
+    }
+  ]
+}

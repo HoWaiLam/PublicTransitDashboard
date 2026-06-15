@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1270874112,
+        2,
+        [
+          [
+            2296802025,
+            0,
+            "TAI HING RESTAURANT",
+            "SHOP NO. 1, G/F, YING HOI HOUSE, SHA TAU KOK CHUEN, 23 SHUN HING STREET, SHA TAU KOK, NEW TERRITORIES",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2296802672,
+            0,
+            "FARM RESTAURANT",
+            "SHOP 2, G/F, YING HOI HOUSE, SHA TAU KOK CHUEN, 23 SHUN HING STREET, SHA TAU KOK, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1270874845
+        ]
+      ],
+      "coordinate": [
+        1.9935723137599066,
+        0.39348143206832437,
+        17.850000381469727
+      ],
+      "halfSize": [
+        30.99129999987781,
+        27.569120000116527,
+        7.150000095367432
+      ]
+    }
+  ]
+}

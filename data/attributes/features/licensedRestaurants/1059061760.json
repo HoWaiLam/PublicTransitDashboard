@@ -1,0 +1,447 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1059061760,
+        2,
+        [
+          [
+            2296801165,
+            0,
+            "Hundred Percent Restaurant",
+            "SHOP NOS. R101-R106 (MAJOR PORTION), 1/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2296802937,
+            0,
+            "Momoku Chicken Factory",
+            "SHOP NOS. R120,R121,R122&R123, 1/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059062619
+        ]
+      ],
+      "coordinate": [
+        1.9921553460345724,
+        0.39246663869529363,
+        24.299999237060547
+      ],
+      "halfSize": [
+        32.6199999996461,
+        26.535624999552965,
+        5.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1059061761,
+        10,
+        [
+          [
+            2296802016,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. G33, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2296803143,
+            0,
+            "Hung Kee Congee",
+            "SHOP NO. G23, GROUND FLOOR, COMMERCIAL / CAR PARK BLOCKS (ALSO KNOWN AS WAH MING SHOPPING CENTRE), WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2296803657,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP G04, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO.21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2296803684,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. G12, GROUND FLOOR, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2296803693,
+            0,
+            "Sushi Express",
+            "SHOP NO. G14B, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2296803718,
+            0,
+            "\u6f01\u6e2f\u5c0f\u5eda",
+            "SHOP G05, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2296803772,
+            0,
+            "CHAOSHAN GOURMET RESTAURANT",
+            "SHOP NOS. G03 & G06, G/F, COMMERCIAL /CAR PARK BLOCKS (ALSO KNOWN AS WAH MING SHOPPING CENTRE), WAH MING ESTATE, 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3196800586,
+            1,
+            "\u4ec1\u548c\u5802\u9f9c\u82d3\u818f\u5c08\u9580\u5e97",
+            "SHOP G07, G/F, WAH MING SHOPPING CENTRE, 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            3196800610,
+            1,
+            "\u4e00\u54c1\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. G09, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            3196800948,
+            1,
+            "\u806f\u767c\u7c89\u9eb5",
+            "STALL F-WM 48-49, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059062846
+        ]
+      ],
+      "coordinate": [
+        1.9921384506802269,
+        0.39241994361911825,
+        27.049999237060547
+      ],
+      "halfSize": [
+        57.60800000000745,
+        48.94150000065565,
+        4.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1059061762,
+        4,
+        [
+          [
+            2296001093,
+            0,
+            "\u9280\u9f8d\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP NO 5, G/F, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, FANLING, NEW TERRITORIES",
+            null,
+            "2027-02-13"
+          ],
+          [
+            2296001145,
+            0,
+            "Cafe De Coral",
+            "SHOP NO 102, 1/F, YUNG SHING SHOPPING CENTRE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-11"
+          ],
+          [
+            2296802502,
+            0,
+            "YUMMY THINGIES",
+            "SHOP 4, G/F, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 8 FAI MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            3196800665,
+            1,
+            "\u516b\u56cd\u725b\u96dc\u7c89\u9eb5",
+            "SHOPSTALL NO. 38-40, G/F MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059062972
+        ]
+      ],
+      "coordinate": [
+        1.992096375501319,
+        0.3923967408302638,
+        34.099998474121094
+      ],
+      "halfSize": [
+        82.45024499995634,
+        61.511570000089705,
+        9.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1059061763,
+        7,
+        [
+          [
+            2296001039,
+            0,
+            "\u65b0\u5927\u773e\u6a02",
+            "SHOP G4-G5, DAWNING VIEWS, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2296001118,
+            0,
+            "Ramen Usagi",
+            "SHOP G37, G/F, DAWNING VIEWS, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-02-27"
+          ],
+          [
+            2296001394,
+            0,
+            "Golden Durian Tai Restaurant",
+            "SHOP G2, G/F, DAWNING VIEWS, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            2296800728,
+            0,
+            "HOP FU TONG CHING",
+            "SHOP G3, G/F, DAWNING VIEWS PLAZA, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2296801183,
+            0,
+            "\u6f01\u6e2f\u8588",
+            "SHOP NOS. G8-10, G/F, DAWNING VIEWS SHOPPING PLAZA, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2296801758,
+            0,
+            "\u97d3\u5f0f\u98a8\u5473",
+            "SHOP G30, G/F, DAWNING VIEWS SHOPPING PLAZA, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2296802432,
+            0,
+            "Saizeriya ltalian Restaurant",
+            "SHOP NO. G1D, G/F, DAWNING VIEWS SHOPPING PLAZA, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059063090
+        ]
+      ],
+      "coordinate": [
+        1.992192823180116,
+        0.3924741080404947,
+        21.299999237060547
+      ],
+      "halfSize": [
+        110.20553500019014,
+        86.29999999981374,
+        5.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1059061764,
+        18,
+        [
+          [
+            2296000489,
+            0,
+            "McDonald's",
+            "SHOP 91A 93 94 & 95, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2296000559,
+            0,
+            "Pizza Hut",
+            "SHOP NO A71 A73 & 131, G/F FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2296800913,
+            0,
+            "\u7f8e\u59d0\u8336\u8a18",
+            "SHOP NO. 56, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2296801244,
+            0,
+            "Kowloon Teng",
+            "SHOPS A22 & 117, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2296801323,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 72, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2296801457,
+            0,
+            "Cow Cow Kitchen",
+            "SHOP NO. 133, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2296803231,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS. A30,A32,A34,119,120 AND 121, GROUND FLOOR, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2296803295,
+            0,
+            "\u9b5a\u773e\u4e0d\u540c",
+            "SHOP NOS. A1-A3, GROUND FLOOR, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2296803462,
+            0,
+            "KFC",
+            "SHOP A65-A67, A69 & 128-130, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2026-12-13"
+          ],
+          [
+            2296803666,
+            0,
+            "\u8914\u6eff\u5ead",
+            "SHOP NOS. A83-A98, A102, A103 & A106, 1/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-28"
+          ],
+          [
+            3896803935,
+            0,
+            "HSIEN HO JAPANESE RESTAURANT",
+            "SHOP A24, A26 & 118, G/F, FLORA PLAZA, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3196000432,
+            1,
+            "\u6d25\u82d1\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP NO 92, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            3196800124,
+            1,
+            "Magic Dessert",
+            "SHOP NO. 115, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ],
+          [
+            3196800416,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP 87, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-11"
+          ],
+          [
+            3196800744,
+            1,
+            "Machi",
+            "SHOP 9, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            3196800939,
+            1,
+            "TAI KOK",
+            "SHOP 45-46, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            3196801011,
+            1,
+            "THAI TAI",
+            "SHOP 80, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            3196801039,
+            1,
+            "TINY BEAN COFFEE",
+            "SHOP NO. 51, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059063091
+        ]
+      ],
+      "coordinate": [
+        1.9921427736828912,
+        0.3924443267109014,
+        25.649999618530273
+      ],
+      "halfSize": [
+        99.0749999997206,
+        92.2749999994412,
+        4.75
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "features": [
+    {
+      "attributes": [
+        719323136,
+        10,
+        [
+          [
+            2194800361,
+            1,
+            "FAMOUS TEAM INTERNATIONAL LIMITED",
+            "ROOM 9-10 (PORTION A), 6/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2994000358,
+            4,
+            "\u990a\u548c\u5802",
+            "UNIT 10, 5/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2994001360,
+            4,
+            "Asia Pacific Catering",
+            "SHOP NO. 12-15, 3/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-07"
+          ],
+          [
+            2994800527,
+            4,
+            "\u61ac\u83ef\u5343\u5f0f\u6709\u9650\u516c\u53f8",
+            "UNIT 1-5, 5/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2994801140,
+            4,
+            "Yeung Woo Tong Company Limited",
+            "UNITS 11 & 12, 5/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-12"
+          ],
+          [
+            2994803997,
+            4,
+            "\u53f0\u7063\u9eb5\u5de5\u5834",
+            "UNIT 302, 3/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2994809278,
+            4,
+            "FAME BLOOM LIMITED",
+            "ROOM 9-10 (PORTION B), 6/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2994810607,
+            4,
+            "AB POSTRE LIMITED",
+            "UNIT 5, 4/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2994811868,
+            4,
+            "Yau Tin Pot Cuisine",
+            "UNIT 7, 4/F, MANSFIELD INDUSTRIAL CENTRE , 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2994812135,
+            4,
+            "HO LEE FISHBALL",
+            "UNITS 11-15, 6/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          719323446
+        ]
+      ],
+      "coordinate": [
+        1.9902205369722537,
+        0.3918343321542883,
+        21.94999885559082
+      ],
+      "halfSize": [
+        35.665934999939054,
+        30.06811000034213,
+        17.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        719323137,
+        6,
+        [
+          [
+            2994000260,
+            4,
+            "\u541b\u5716\u71df\u990a\u5747\u8861\u6599\u7406\u6709\u9650\u516c\u53f8",
+            "UNIT 21-22, 1/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ],
+          [
+            2994800475,
+            4,
+            "Luncheon Star",
+            "WORKSHOPS UNITS NOS. 6, 7, 8, 9 AND 10,THIRD FLOOR, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, TUNG TAU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2994803775,
+            4,
+            "Ho Lee",
+            "UNIT 6-10, 1/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2994805443,
+            4,
+            "Asia Pacific Catering Corporation Limited",
+            "WORKSHOP NOS. 16, 17 AND 18 ON 3RD FLOOR OF MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2994809940,
+            4,
+            "\u5b78\u5229\u9b5a\u86cb",
+            "UNIT 1, 1/F, MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2994811716,
+            4,
+            "HAVEST GLOBAL FOOD TRADING COMPANY",
+            "UNIT 201, 2/F , MANSFIELD INDUSTRIAL CENTRE, 19 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          719324875
+        ]
+      ],
+      "coordinate": [
+        1.9902221596729481,
+        0.39183671924182456,
+        7.699999809265137
+      ],
+      "halfSize": [
+        43.9894999996759,
+        48.53499999921769,
+        3.1999998092651367
+      ]
+    }
+  ]
+}

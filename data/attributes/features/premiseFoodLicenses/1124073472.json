@@ -1,0 +1,106 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1124073472,
+        4,
+        [
+          [
+            2995803383,
+            4,
+            "hc: Kitchen",
+            "TRAINING ROOM NO.1, G/F, HONG CHI JOCKEY CLUB PINEHILL VOCATIONAL TRAINING COMPLEX, PINEHILL VILLAGE, T.P.T.L. NO. 34, CHUNG NGA ROAD, NAM HANG , TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2995803426,
+            4,
+            "hc: Bakery",
+            "TRAINING ROOM NO.1A & 1B, G/F, HONG CHI JOCKEY CLUB PINEHILL VOCATIONAL TRAINING COMPLEX, PINEHILL VILLAGE, T.P.T.L. NO. 34, CHUNG NGA ROAD, NAM HANG, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2995803471,
+            4,
+            "IVTC Bakery",
+            "TRAINING ROOM NO.3, G/F, HONG CHI JOCKEY CLUB PINEHILL VOCATIONAL TRAINING COMPLEX, PINEHILL VILLAGE, T.P.T.L. NO. 34, CHUNG NGA ROAD, NAM HANG , TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2995803514,
+            4,
+            "IVTC Kitchen",
+            "TRAINING ROOM NO.2A , G/F, HONG CHI JOCKEY CLUB PINEHILL VOCATIONAL TRAINING COMPLEX, PINEHILL VILLAGE, T.P.T.L. NO. 34, CHUNG NGA ROAD, NAM HANG , TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1124073669
+        ]
+      ],
+      "coordinate": [
+        1.9927088534566157,
+        0.39204507161906404,
+        26.149999618530273
+      ],
+      "halfSize": [
+        34.41158499987796,
+        23.97762000001967,
+        3.6499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1124073473,
+        3,
+        [
+          [
+            4995805493,
+            4,
+            "\u9ea5\u98df\u70d8\u7119",
+            "SHOP 20, G/F, FU TIP SHOPPING CENTRE, FU TIP ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3695802492,
+            5,
+            "\u548c\u5e73\u5e02\u96c6",
+            "PORTION A, SHOP 19, G/F, FU TIP SHOPPING CENTRE, FU TIP ESTATE PHASE 2, 11 CHOI TIP STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-31"
+          ],
+          [
+            4695802428,
+            5,
+            "PARKnSHOP",
+            "STALL NO.1 & PORTIONS OF SHOP NO. 13, G/F, FU TIP SHOPPING CENTRE, FU TIP ESTATE (PHASE 2), TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1124073877
+        ]
+      ],
+      "coordinate": [
+        1.9927560287752963,
+        0.39206085681211367,
+        45.75
+      ],
+      "halfSize": [
+        150.33866999996826,
+        89.22406000085175,
+        11.75
+      ]
+    }
+  ]
+}

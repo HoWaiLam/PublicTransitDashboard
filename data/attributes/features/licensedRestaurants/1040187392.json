@@ -1,0 +1,169 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1040187392,
+        8,
+        [
+          [
+            2291002596,
+            0,
+            "\u69ae\u767c\u71d2\u5473\u8336\u9910\u5ef3",
+            "UNIT 236, 2/F, SHEK LEI SHOPPING CENTRE, PHASE 2, SHEK LEI ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ],
+          [
+            2291804123,
+            0,
+            "CAFE 100% & Itamomo",
+            "SHOP 324(PORTION A), 3/F, SHEK LEI SHOPPING CENTRE (PH 2), SHEK LEI ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2291804336,
+            0,
+            "SUSHI EXPRESS",
+            "SHOP B318, 3/F, SHEK LEI SHOPPING CENTRE (PHASE 2), SHEK LEI ESTATE, NO. 110 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ],
+          [
+            2291804406,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. B111, 1/F, SHEK LEI SHOPPING CENTRE (PHASE 2), SHEK LEI ESTATE, NO. 110 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2291804460,
+            0,
+            "DELUXE RESTAURANT",
+            "SHOP B210, B211 AND B212, 2/F, SHEK LEI SHOPPING CENTRE PHASE 2, SHEK LEI ESTATE, 110 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2291804567,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. B013-B016, G/F, SHEK LEI SHOPPING CENTRE (PHASE2), SHEK LEI ESTATE, NO. 110 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ],
+          [
+            2291804859,
+            0,
+            "Ngan Lung Cafe",
+            "MAJOR PORTION OF SHOP NOS. B004 AND B005, G/F, SHEK LEI SHOPPING CENTRE, PHASE 2, SHEK LEI ESTATE, NO. 110 TAI LOONG STREET, , KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2291805250,
+            0,
+            "Yoshinoya",
+            "SHOP B201, 2/F , SHEK LEI SHOPPING CENTRE (PHASE 2), SHEK LEI ESTATE, NO. 110 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1040187392
+        ]
+      ],
+      "coordinate": [
+        1.9921047841578163,
+        0.3903547232644498,
+        69.4000015258789
+      ],
+      "halfSize": [
+        59.74236000003293,
+        57.95949999988079,
+        16.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1040187393,
+        1,
+        [
+          [
+            3191801955,
+            1,
+            "MISS YOU CAFE",
+            "SHOP 101B, G/F, YAU MING BUILDING, 89-101 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1040187434
+        ]
+      ],
+      "coordinate": [
+        1.9920908849988352,
+        0.39035571876261194,
+        59.599998474121094
+      ],
+      "halfSize": [
+        12.666524999774992,
+        13.354984999634326,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1040187394,
+        3,
+        [
+          [
+            2291804345,
+            0,
+            "Yu Mai, Soup Plus, Moon Cafe",
+            "SHOP NO. B232A ON THE SECOND FLOOR OF SHEK LEI SHOPPING CENTRE (PHASE 2)(FORMING PART OFCOMMERCIAL/CAR PARK BLOCKS), SHEK LEI ESTATE, NO. 110 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            2291804691,
+            0,
+            "Four Seasons Roast Meat",
+            "SHOPSTALL NO. 14, G/F, SHEK LEI SHOPPING CENTRE, SHEK LEI (I) ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            3191801982,
+            1,
+            "PANDA WONTON",
+            "SHOP NO.A107A, 1/F, PHASE 1, SHEK LEI SHOPPING CENTRE, 110 TAI LOONG STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1040187449
+        ]
+      ],
+      "coordinate": [
+        1.9921051003483228,
+        0.39035539041662815,
+        64.05000305175781
+      ],
+      "halfSize": [
+        59.74249999970198,
+        69.86149999964982,
+        13.549999237060547
+      ]
+    }
+  ]
+}

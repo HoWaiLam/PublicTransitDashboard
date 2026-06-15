@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1025507328,
+        3,
+        [
+          [
+            4918812854,
+            4,
+            "SILK TEA",
+            "SHOP G02, G/F, THE PEAK TOWER, 128 PEAK ROAD, THE PEAK, HONG KONG",
+            null,
+            "2026-03-14"
+          ],
+          [
+            4918812979,
+            4,
+            "Starbucks Coffee",
+            "SHOP 101 ON LEVEL 1, THE PEAK TOWER, 128 PEAK ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-05-17"
+          ],
+          [
+            4918813015,
+            4,
+            "(No Record Found)",
+            "SHOP P104-P105, LEVEL P1, THE PEAK TOWER, 128 PEAK ROAD, HONG KONG",
+            null,
+            "2026-06-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1025507400
+        ]
+      ],
+      "coordinate": [
+        1.9922927129611006,
+        0.3887064026002368,
+        401.70001220703125
+      ],
+      "halfSize": [
+        38.00478499988094,
+        16.578555000014603,
+        23.699996948242188
+      ]
+    },
+    {
+      "attributes": [
+        1025507329,
+        5,
+        [
+          [
+            2918807920,
+            4,
+            "HUNG FOOK TONG",
+            "SHOP 206B, LEVEL TWO, PEAK GALLERIA, 118 PEAK ROAD, HONG KONG",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2918807993,
+            4,
+            "Monopoly Dreams",
+            "SHOP NO. 301 (MINOR PORTION), LEVEL 3, THE PEAK GALLERIA, 118 PEAK ROAD, HONG KONG",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2918808002,
+            4,
+            "TAI CHEONG BAKERY",
+            "SHOP NO. 206A, LEVEL TWO, PEAK GALLERIA, 118 PEAK ROAD, THE PEAK, HONG KONG",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2918808367,
+            4,
+            "I SEE i SEE",
+            "SHOP 115, LEVEL ONE, THE PEAK GALLERIA, 118 PEAK ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-06-08"
+          ],
+          [
+            2918811224,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP G7, G/F, PEAK GALLERIA, 118 PEAK ROAD, HONG KONG",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1025507413
+        ]
+      ],
+      "coordinate": [
+        1.9922930050005034,
+        0.3886916558995442,
+        407.70001220703125
+      ],
+      "halfSize": [
+        45.169155000243336,
+        63.570534999482334,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        1025507330,
+        1,
+        [
+          [
+            3613084122,
+            5,
+            "Market Place",
+            "1/F (PTN.), BLOCK A, 100 & 104 PEAK ROAD, RBL 312, CENTRAL, HONG KONG",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1025507542
+        ]
+      ],
+      "coordinate": [
+        1.992321496093396,
+        0.38865294190074545,
+        421.25
+      ],
+      "halfSize": [
+        15.367000000085682,
+        21.315499999560416,
+        8.04998779296875
+      ]
+    }
+  ]
+}

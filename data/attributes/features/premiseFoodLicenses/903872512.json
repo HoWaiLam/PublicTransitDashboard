@@ -1,0 +1,947 @@
+{
+  "features": [
+    {
+      "attributes": [
+        903872512,
+        2,
+        [
+          [
+            2591800179,
+            3,
+            "GEES@WATERFRONT",
+            "UNIT C2, 20/F, GATEWAY TS, 8 CHEUNG FAI ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2991813377,
+            4,
+            "Intrinsic Wealth Limited",
+            "UNIT A (MINOR PORTION), 7/F., GATEWAY TS, 8 CHEUNG FAI ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903872699
+        ]
+      ],
+      "coordinate": [
+        1.9915943743921392,
+        0.39010142718831364,
+        56.25
+      ],
+      "halfSize": [
+        56.05849999981001,
+        67.45600000023842,
+        51.44999694824219
+      ]
+    },
+    {
+      "attributes": [
+        903872513,
+        1,
+        [
+          [
+            3691800090,
+            5,
+            "\u83ef\u8a18",
+            "G/F, NO. 41 CHUNG MEI LO UK TSUEN, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903872748
+        ]
+      ],
+      "coordinate": [
+        1.9915143402126856,
+        0.3901072369148589,
+        30.399999618530273
+      ],
+      "halfSize": [
+        4.380439999978989,
+        5.862205000594258,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        903872514,
+        9,
+        [
+          [
+            2991806490,
+            4,
+            "\u65b0\u660c\u98df\u54c1\u516c\u53f8",
+            "WORKSHOP 6, 16/F, BLOCK B, VIGOR INDUSTRIAL BUILDING, 14-20 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2991808618,
+            4,
+            "FOUR SEASONS TEA HOUSE",
+            "FLAT 10, 15/F, BLOCK A, VIGOR INDUSTRIAL BUILDING, NO. 14 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-18"
+          ],
+          [
+            2991809842,
+            4,
+            "Deliverz",
+            "ROOM 12, 13/F, BLOCK A, VIGOR INDUSTRIAL BUILDING, 14 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2991810004,
+            4,
+            "FOOD 520",
+            "WORKSHOP NOS. 16, 17 AND 18 ON 4TH FLOOR OF BLOCK A, VIGOR INDUSTRIAL BUILDING , NOS. 14-20 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-05"
+          ],
+          [
+            2991810624,
+            4,
+            "HOTON FROZEN FOODS COMPANY",
+            "WORKSHOP 03, 17/F, BLOCK B, VIGOR INDUSTRIAL BUILDING, 14-20 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2991811098,
+            4,
+            "Generous Pole Limited",
+            "PORTION B OF FLAT 15, 14/F, BLOCK A, VIGOR INDUSTRIAL BUILDING, NO. 14-20 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2991811292,
+            4,
+            "OKA Cake Co., Ltd",
+            "PORTION A OF FLAT 15, 14/F, BLOCK A, VIGOR INDUSTRIAL BUILDING, NO. 14-20 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2991813508,
+            4,
+            "DOWNSTAIRS.HK",
+            "PORTION A OF FLAT 11, 16/F, BLOCK B, VIGOR INDUSTRIAL BUILDING, NO. 14-20 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2991815346,
+            4,
+            "No Record",
+            "WORKSHOP 09, 16/F, BLOCK B, VIGOR INDUSTRIAL BUILDING, 14-20 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903872801
+        ]
+      ],
+      "coordinate": [
+        1.9915791015266788,
+        0.3900923343797532,
+        43.39999771118164
+      ],
+      "halfSize": [
+        64.4144999999553,
+        62.97834499925375,
+        30.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        903872515,
+        1,
+        [
+          [
+            2991814732,
+            4,
+            "\u5c0f\u8c6c\u5abd\u5c0f\u98df\u5e97",
+            "PORTION A, G/F, 136 CHUNG MEI LO UK VILLAGE, CHUNG MEI ROAD, KWAI TSING, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903872841
+        ]
+      ],
+      "coordinate": [
+        1.9915246443543093,
+        0.39009743122261226,
+        29.899999618530273
+      ],
+      "halfSize": [
+        4.338085000403225,
+        5.913335000164807,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        903872516,
+        1,
+        [
+          [
+            3691803275,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP NO. 6, G/F, HONG TAI HOUSE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903872889
+        ]
+      ],
+      "coordinate": [
+        1.9915029451486137,
+        0.3900851674961461,
+        63.0
+      ],
+      "halfSize": [
+        27.908500000368804,
+        33.73549999948591,
+        25.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        903872517,
+        7,
+        [
+          [
+            2991809170,
+            4,
+            "\u69ae\u5eb7\u71d2\u814a",
+            "STALL NO. M4 (REAR PORTION), G/F, HONG WO HOUSE, CHEUNG HONG MARKET, CHEUNG HONG ESTATE, NO. 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2991813775,
+            4,
+            "\u592a\u597d\u5473",
+            "MAJOR PORTION OF SHOP NO. 104, G/F, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 CHING HONG ROAD , TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            2991816066,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "STALL NO. M5, G/F, HONG WO HOUSE, CHEUNG HONG ESTATE, NO. 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            3691801969,
+            5,
+            "PARKNSHOP",
+            "PORTIONS OF SHOP NOS.308, 309, 310, 311 AND 312C, LEVEL 3, COMMERCIAL CENTRE NO. 2, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ],
+          [
+            3691802953,
+            5,
+            "QDAMA (CHEUNG HONG MARKET)",
+            "PORTIONS OF STALL M9,M10,M13,M14, G/F, HONG WO HOUSE, CHEUNG HONG MARKET,CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-03-30"
+          ],
+          [
+            3591800497,
+            8,
+            "\u69ae\u5eb7\u71d2\u814a",
+            "STALL NO. M4 (FRONT PORTION), G/F, HONG WO HOUSE, CHEUNG HONG MARKET, CHEUNG HONG ESTATE, NO. 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            3591800600,
+            8,
+            "\u592a\u597d\u5473",
+            "MINOR PORTION OF SHOP NO. 104, G/F, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903872962
+        ]
+      ],
+      "coordinate": [
+        1.9915247783713101,
+        0.3900631569704289,
+        44.79999923706055
+      ],
+      "halfSize": [
+        23.820465000346303,
+        31.411000000312924,
+        7.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        903872518,
+        2,
+        [
+          [
+            2991801404,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP NO. 5, G/F, HONG KWAI HOUSE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3291800139,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP NO. 5, G/F, HONG KWAI HOUSE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903872968
+        ]
+      ],
+      "coordinate": [
+        1.991514136594833,
+        0.39006276560331893,
+        62.400001525878906
+      ],
+      "halfSize": [
+        45.21315999981016,
+        19.24523000046611,
+        25.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        903872519,
+        1,
+        [
+          [
+            2991000357,
+            4,
+            "\u6843\u5712\u5c0f\u98df",
+            "SHOP NO. 89, LEVEL 3, BLOCK 5, SHOPPING ARCADE, MAYFAIR GARDENS, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873030
+        ]
+      ],
+      "coordinate": [
+        1.9915483853244458,
+        0.38997749362567036,
+        35.45000076293945
+      ],
+      "halfSize": [
+        22.181499999947846,
+        30.489000000059605,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        903872520,
+        7,
+        [
+          [
+            2191800315,
+            1,
+            "TAI PAN",
+            "SHOP NOS. G10 & G11, G/F, COMMERCIAL CENTRE, PHASE 2, GREENFIELD GARDEN, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2991801811,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G17, G/F, COMMERCIAL CENTRE, PHASE II, GREENFIELD GARDEN, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2991804935,
+            4,
+            "Hung Fook Tong",
+            "SHOP G33, G/F, COMMERCIAL CENTRE AT PHASE 2, GREENFIELD GARDEN, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2991813304,
+            4,
+            "\u97cb\u6c76\u70d8\u7119",
+            "SHOP NO. 1A, G/F, COMMERCIAL CENTRE, PHASE 1, GREENFIELD GARDEN, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2991816109,
+            4,
+            "DOUGH BROS",
+            "SHOP NOS. G34-G35, G/F., COMMERCIAL CENTRE, PHASE 2, GREENFIELD GARDEN, TSING YI, KWAI TSING, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            3691801455,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 5 ON G/F, GREENFIELD GARDEN, COMMERCIAL CENTRE AT PHASE I, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-03-11"
+          ],
+          [
+            3291000085,
+            6,
+            "7-Eleven",
+            "PORTION A OF SHOP NO. G17, COMMERCIAL CENTRE, PHASE II, GREENFIELD GARDEN, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873062
+        ]
+      ],
+      "coordinate": [
+        1.991568343607786,
+        0.3901224332805455,
+        9.149999618530273
+      ],
+      "halfSize": [
+        84.77554999990389,
+        118.2684999993071,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        903872521,
+        10,
+        [
+          [
+            2191000322,
+            1,
+            "\u7d05\u5fc3\u9905\u5e97",
+            "SHOP NO. 103, G/F, 2ND COMMERCIAL CENTRE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2991001040,
+            4,
+            "7-Eleven",
+            "SHOP NO. 106 & 107 (PORTION B), G/F, COMMERCIAL CENTRE II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ],
+          [
+            2991001572,
+            4,
+            "\u69ae\u5eb7\u5c0f\u98df",
+            "MARKETSTALL NO. 18, 1/F, MARKET 2, PHASE 5, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2991802337,
+            4,
+            "\u80a5\u4f6c\u5fb7\u5c0f\u98df\u6ecb\u5473\u7121\u9650",
+            "SHOP NO. 12, G/F, MARKET II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            3691000566,
+            5,
+            "\u65b0\u660c\u74b0\u7403\u51cd\u8089",
+            "SHOPSTALL NO. 32, MARKET II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3691001514,
+            5,
+            "WELLCOME SUPERMARKET",
+            "G/F, SHOP NO. 3 (MINOR PORTION), CHEUNG HONG SHOPPING CENTRE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            3691801206,
+            5,
+            "\u5354\u660c\u51cd\u8089",
+            "SHOPSTALL NO. 39, MARKET II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ],
+          [
+            3691801640,
+            5,
+            "\u5ee3\u798f\u6d77\u9bae",
+            "SHOPSTALL NO. 30, MARKET II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ],
+          [
+            3291000030,
+            6,
+            "7-Eleven",
+            "SHOP 106 & 107, COMMERCIAL CENTRE II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            3591800460,
+            8,
+            "\u7fe0\u7464\u71d2\u814a",
+            "SHOPSTALL NO. 25, MARKET II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873065
+        ]
+      ],
+      "coordinate": [
+        1.9914530820428,
+        0.3900814448152288,
+        59.79999923706055
+      ],
+      "halfSize": [
+        97.56300000008196,
+        64.0809999993071,
+        3.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        903872522,
+        3,
+        [
+          [
+            2991803738,
+            4,
+            "Caf\u00e9 de Coral",
+            "PORTION B OF SHOP 2A & 2B, LEVEL 1 OF THE PODIUM, RAMBLER CREST, 1 TSING YI ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2991805008,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 1, G/F, RAMBLER PLAZA , 1 TSING YI ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ],
+          [
+            3691800027,
+            5,
+            "PARK'N SHOP",
+            "PORTIONS OF SHOP 3, LEVEL 1, RAMBLER PLAZA, 1 TSING YI ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873071
+        ]
+      ],
+      "coordinate": [
+        1.9916003364703374,
+        0.38995850680406047,
+        10.75
+      ],
+      "halfSize": [
+        84.76153999986127,
+        132.2670700000599,
+        6.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        903872523,
+        3,
+        [
+          [
+            2991805567,
+            4,
+            "I's Cream Trattoria",
+            "SHOP NO. 118, LEVEL 3, MAYFAIR GARDEN SHOPPING ARCADE, 2-16 SAI SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-06"
+          ],
+          [
+            3691000618,
+            5,
+            "WELLCOME SUPERMARKET",
+            "SHOP 26 & 27, LEVEL 3, NORTHERN BLOCK, MAYFAIR GARDENS COMMERCIAL CENTRE, TYTL 83, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3291800388,
+            6,
+            "I's Cream Trattoria",
+            "SHOP NO. 118 (PORTION A), LEVEL 3, MAYFAIR GARDEN SHOPPING ARCADE, 2-16 SAI SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873080
+        ]
+      ],
+      "coordinate": [
+        1.9915453337682338,
+        0.38997884672734023,
+        28.299999237060547
+      ],
+      "halfSize": [
+        89.77625999972224,
+        87.3731350004673,
+        3.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        903872524,
+        5,
+        [
+          [
+            2991801927,
+            4,
+            "No Record",
+            "FLAT A-3, 12/F, BLOCK A, TSING YI INDUSTRIAL CENTRE, PHASE I, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-20"
+          ],
+          [
+            2991803604,
+            4,
+            "LUEN FUNG FOODS COMPANY LIMITED",
+            "UNIT NO. 2, 11/F, BLOCK B, PHASE 1, TSING YI INDUSTRIAL CENTRE, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ],
+          [
+            2991810022,
+            4,
+            "TAMAGO",
+            "FLAT B3, 5/F, BLOCK B, PHASE 1, TSING YI INDUSTRIAL CENTRE, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2991814185,
+            4,
+            "Hop Hing Spice Company Limited",
+            "UNIT A1, A3, 11/F, BLOCK A, PHASE 1, TSING YI INDUSTRIAL CENTRE, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2991814547,
+            4,
+            "No Record",
+            "WORKSHOP A4, 3/F, (INCLUDING CORRESPONDING PART OF FLAT ROOF) TSING YI INDUSTRIAL CENTRE PHASE 1, NOS. 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873090
+        ]
+      ],
+      "coordinate": [
+        1.991601586361796,
+        0.3900859840818854,
+        12.649999618530273
+      ],
+      "halfSize": [
+        47.419759159500245,
+        39.479957900883164,
+        7.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        903872525,
+        11,
+        [
+          [
+            2991000454,
+            4,
+            "\u6797\u8a18\u71d2\u81d8\u5de5\u5834",
+            "FLAT C6, 13/F., PHASE 2, TSING YI INDUSTRIAL CENTRE, TSING YI ISLAND, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2991000816,
+            4,
+            "\u6377\u9054\u98df\u54c1\u5de5\u696d\u4e2d\u5fc3",
+            "UNIT 10, 2/F, BLOCK E, TSING YI INDUSTRIAL CENTRE, PHASE 2, 133 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-24"
+          ],
+          [
+            2991001767,
+            4,
+            "\u65b0\u6797\u8a18",
+            "FLAT 13, 13/F., BLOCK E, PHASE 2, TSING YI INDUSTRIAL CENTRE, CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2991800085,
+            4,
+            "Yiu Hing Hong (Provisions)",
+            "ROOM 8, 15/F, BLOCK C, PHASE II, TSING YI INDUSTRIAL CENTRE, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2991804412,
+            4,
+            "\u71d2\u70e4\u738b",
+            "UNIT 12, 11/F, BLOCK E, TSING YI INDUSTRIAL CENTRE, PHASE 2, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2991808502,
+            4,
+            "H.K. Lovecraft Limited",
+            "WORKSHOPS 48, 49 & 52, G/F, BLOCK E, TSING YI INDUSTRIAL CENTRE PHASE II, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-13"
+          ],
+          [
+            2991808885,
+            4,
+            "( NO RECORD FOUND)",
+            "MINOR PORTION OF UNIT 10, 14/F, BLOCK C, PHASE 2, TSING YI INDUSTRIAL CENTRE, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2991809426,
+            4,
+            "CHARITON INVESTMENT LIMITED",
+            "PORTION A OF WORKSHOP 7, 12/F., BLOCK D, TSING YI INDUSTRIAL CENTRE PHASE II, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2991812930,
+            4,
+            "\u5c0f\u8c6c\u5abd\u70b8\u4e32",
+            "UNIT 6, 10/F, BLOCK E, TSING YI INDUSTRIAL CENTRE, PHASE 2, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2991813553,
+            4,
+            "ST1 PROVISION LIMITED",
+            "UNIT 27, G/F, TSING YI INDUSTRIAL CENTRE, PHASE 2, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2991815762,
+            4,
+            "PANTRY FOODIES LIMITED",
+            "WORKSHOP 12, 9/F, BLOCK D, TSING YI INDUSTRIAL CENTRE, PHASE 2, 1-33 CHEUNG TAT ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873094
+        ]
+      ],
+      "coordinate": [
+        1.9916085298158626,
+        0.3900712000539377,
+        11.049999237060547
+      ],
+      "halfSize": [
+        67.78940000012517,
+        82.69195500016212,
+        5.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        903872526,
+        2,
+        [
+          [
+            2991813827,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 106, UG/F., CHING FU SHOPPING CENTRE, CHING FU COURT, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3291800564,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 106, UG/F, CHING FU SHOPPING CENTRE, CHING FU COURT, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873116
+        ]
+      ],
+      "coordinate": [
+        1.9915544124858042,
+        0.38994382368868935,
+        12.949999809265137
+      ],
+      "halfSize": [
+        76.898499999661,
+        111.23533000051975,
+        7.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        903872527,
+        1,
+        [
+          [
+            2991815799,
+            4,
+            "SPCA - The Nest",
+            "PORTION A, G/F, THE SPCA JOCKEY CLUB CENTENNIAL CENTRE, 38 CHEUNG FAI ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873118
+        ]
+      ],
+      "coordinate": [
+        1.9916230865132374,
+        0.3900272794291216,
+        16.049999237060547
+      ],
+      "halfSize": [
+        19.493294999934733,
+        32.33200000040233,
+        10.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        903872528,
+        3,
+        [
+          [
+            2991001800,
+            4,
+            "\u540d\u5bb6\u9905\u5e97",
+            "SHOP 6+6A, COMMERCIAL CENTRE, CHEUNG CHING ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            3691000937,
+            5,
+            "WELLCOME SUPERMARKET",
+            "SHOP NOS. T1-T5 (PORTION), G/F, COMMERCIAL CENTRE, CHEUNG CHING ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3691800063,
+            5,
+            "\u83ef\u8a18\u8089\u67b1",
+            "SHOPSTALL NO. 16, MARKET, CHEUNG CHING ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873125
+        ]
+      ],
+      "coordinate": [
+        1.991571049552306,
+        0.39003182075465126,
+        70.4000015258789
+      ],
+      "halfSize": [
+        53.32885999977589,
+        52.58691999968141,
+        3.0999984741210938
+      ]
+    }
+  ]
+}

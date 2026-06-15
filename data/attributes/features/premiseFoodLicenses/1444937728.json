@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1444937728,
+        2,
+        [
+          [
+            2998807890,
+            4,
+            "NOVAS PIZZERIA",
+            "PORTION OF G/F, 38 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            3298800509,
+            6,
+            "NOVAS PIZZERIA",
+            "PORTION OF G/F (MINOR PORTION), 38 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937745
+        ]
+      ],
+      "coordinate": [
+        1.9944217944487437,
+        0.39059669799696084,
+        8.350000381469727
+      ],
+      "halfSize": [
+        4.082484999671578,
+        4.704829999245703,
+        4.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1444937729,
+        1,
+        [
+          [
+            3698800761,
+            5,
+            "SING KEE SEAFOOD",
+            "G/F, 31 SAI KUNG TAI STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937778
+        ]
+      ],
+      "coordinate": [
+        1.994398623425378,
+        0.3905943055972314,
+        8.449999809265137
+      ],
+      "halfSize": [
+        10.02735499991104,
+        5.075290000066161,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1444937730,
+        1,
+        [
+          [
+            2998807207,
+            4,
+            "LCE",
+            "G/F, 4 SAI KUNG HOI PONG STREET, LOT 616 IN DD 215, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937797
+        ]
+      ],
+      "coordinate": [
+        1.9944051258053919,
+        0.3905916564958809,
+        9.600000381469727
+      ],
+      "halfSize": [
+        3.919230000115931,
+        6.360639999620616,
+        5.900000095367432
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1436549120,
+        2,
+        [
+          [
+            2998802600,
+            4,
+            "NINKI SHOKUDO",
+            "SHOP 3, G/F, THE COMMERCIAL CENTRE, FU NING GARDEN, 25 PO NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            3698001319,
+            5,
+            "U SELECT DISCOUNT STORE",
+            "SHOP NO. 16(PORTION), G/F., COMMERCIAL CENTRE, FU NING GARDEN, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1436549709
+        ]
+      ],
+      "coordinate": [
+        1.9943470683011315,
+        0.38953690911371314,
+        13.149999618530273
+      ],
+      "halfSize": [
+        80.65299999993294,
+        45.791999999433756,
+        6.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1436549121,
+        5,
+        [
+          [
+            2998806028,
+            4,
+            "MoMoKo",
+            "SHOP NO. G3, GROUND FLOOR, MING TAK SHOPPING CENTRE, MING TAK ESTATE, NO. 10 PUI SHING LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2998806046,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "SHOP NO. 25, G/F, MING TAK SHOPPING CENTRE, MING TAK ESTATE, 10 PUI SHING LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2998806116,
+            4,
+            "\u5cb1\u6c11\u660e\u5fb7\u5e97",
+            "STALL NO.1 OF SHOP NO. 16, GROUND FLOOR, MING TAK SHOPPING CENTRE, MING TAK ESTATE, NO. 10 PUI SHING LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            3698802873,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 2, G/F, MING TAK SHOPPING CENTRE, MING TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            3698803025,
+            5,
+            "S-mart Food",
+            "PORTION A & PORTION B OF SHOP NO. 16, GROUND FLOOR, MING TAK SHOPPING CENTRE, MING TAK ESTATE, NO. 10 PUI SHING LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1436549972
+        ]
+      ],
+      "coordinate": [
+        1.9943588510687151,
+        0.3894907075196929,
+        13.5
+      ],
+      "halfSize": [
+        21.797799999825656,
+        25.643835000693798,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1436549122,
+        2,
+        [
+          [
+            2998802008,
+            4,
+            "PARK'N SHOP",
+            "STALL NO. 3, LEVEL 5 & 6, SILVERSTRAND MART, DD 224, LOT 374, 2 SILVER CAPE ROAD, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            3698001072,
+            5,
+            "Park'N Shop",
+            "PORTION OF LEVEL 5&6, SHOPPING COMPLEX, DD 224, LOT 374, SILVERSTRAND, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1436550483
+        ]
+      ],
+      "coordinate": [
+        1.9944188332138766,
+        0.38957158710409867,
+        60.75
+      ],
+      "halfSize": [
+        24.201864999718964,
+        23.67261999938637,
+        5.75
+      ]
+    }
+  ]
+}

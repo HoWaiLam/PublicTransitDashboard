@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        83886080,
+        1,
+        [
+          [
+            2217801186,
+            0,
+            "TAI O LOOK OUT",
+            "PORTION OF 1/F., TAI O HERITAGE HOTEL (OLD TAI O POLICE STATION), SHEK TSAI PO STREET, TAI O, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          83886170
+        ]
+      ],
+      "coordinate": [
+        1.9871182729637888,
+        0.3883918253333137,
+        21.649999618530273
+      ],
+      "halfSize": [
+        11.65995500003919,
+        5.688639999367297,
+        4.75
+      ]
+    }
+  ]
+}

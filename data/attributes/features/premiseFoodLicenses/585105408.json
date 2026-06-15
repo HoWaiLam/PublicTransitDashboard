@@ -1,0 +1,1405 @@
+{
+  "features": [
+    {
+      "attributes": [
+        585105408,
+        7,
+        [
+          [
+            2994805911,
+            4,
+            "\u8299\u84c9\u5fb7",
+            "SHOP T7, G/F, TIN SHUI MARKET, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-04"
+          ],
+          [
+            2994807281,
+            4,
+            "\u9957\u98df\u4ead",
+            "SHOP T26, G/F, TIN SHUI MARKET, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2994807324,
+            4,
+            "\u53ef\u53e3\u8178\u7c89",
+            "SHOP T9, G/F, TIN SHUI MARKET, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2994810166,
+            4,
+            "\u9ebb\u5409\u53f0\u8cbc",
+            "SHOP T63, G/F, TIN SHUI MARKET, TIN SHUI ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2994811381,
+            4,
+            "\u6e90\u6cf0\u6d77\u5357\u96de\u98ef",
+            "SHOP T41, TIN SHUI MARKET, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2994811734,
+            4,
+            "U Chicken",
+            "SHOP T13, G/F, TIN SHUI MARKET, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            3694802802,
+            5,
+            "SMART FOOD",
+            "SHOP T47, G/F, TIN SHUI MARKET, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105551
+        ]
+      ],
+      "coordinate": [
+        1.989646498351029,
+        0.39194589570371285,
+        12.550000190734863
+      ],
+      "halfSize": [
+        43.13299999991432,
+        54.01088500022888,
+        6.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        585105409,
+        1,
+        [
+          [
+            2994810689,
+            4,
+            "Tin Shui Wai Sports Ground Food KIOSK",
+            "ROOM D12-D16, 1/F, TIN SHUI WAI SPORTS GROUND, NO. 2 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105589
+        ]
+      ],
+      "coordinate": [
+        1.989748213370483,
+        0.39191169347717764,
+        12.950000762939453
+      ],
+      "halfSize": [
+        29.113625000230968,
+        69.63340499997139,
+        6.250000476837158
+      ]
+    },
+    {
+      "attributes": [
+        585105410,
+        1,
+        [
+          [
+            2994812074,
+            4,
+            "FAST FOOD KIOSK",
+            "TIN SHUI WAI SWIMMING POOL AND SPORTS CENTRE FAST FOOD KIOSK (PORTION), 1 TIN PAK ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105592
+        ]
+      ],
+      "coordinate": [
+        1.9897887594373258,
+        0.3919138933806032,
+        16.700000762939453
+      ],
+      "halfSize": [
+        36.979855000041425,
+        44.768749999813735,
+        8.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        585105411,
+        5,
+        [
+          [
+            2994806604,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. 1D AND 1E,G/F,TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-25"
+          ],
+          [
+            2994807591,
+            4,
+            "BAO DIM SIN SENG",
+            "SHOP NO.4 , G/F, TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2994810148,
+            4,
+            "Pizza Hut",
+            "SHOP NO. 07, G/F, TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            3694802343,
+            5,
+            "Wellcome",
+            "SHOP NO. 101 & 102 (PORTIONS), 1/F, TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            3294800404,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NOS. 1D AND 1E,G/F,TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105666
+        ]
+      ],
+      "coordinate": [
+        1.989795486876827,
+        0.39188266227818075,
+        11.5
+      ],
+      "halfSize": [
+        62.900799999944866,
+        32.79099999926984,
+        5.5
+      ]
+    },
+    {
+      "attributes": [
+        585105412,
+        13,
+        [
+          [
+            2994800749,
+            4,
+            "\u80a5\u4f6c\u8089\u9905\u5c08\u9580\u5e97",
+            "SHOP D12, HARAJUKU ZONE, 1/F, KINGSWOOD RICHLY PLAZA, PHASE I, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2994800828,
+            4,
+            "\u771f\u610f\u5c0f\u98df",
+            "SHOP D1, 1/F, HARAJUKU ZONE, KINGSWOOD RICHLY PLAZA (PHASE 1), KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ],
+          [
+            2994801742,
+            4,
+            "\u51b0\u5c71\u306e\u570b",
+            "SHOP D2, 1/F, HARAJUKU ZONE, KINGSWOOD RICHLY PLAZA (PHASE 1), KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2994801751,
+            4,
+            "\u82f1\u59d0\u6f22\u5821\u4f6c",
+            "SHOP D10, HARAJUKU ZONE, 1/F, KINGSWOOD RICHLY PLAZA, PHASE I, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2994801849,
+            4,
+            "\u82af\u8a18\u751c\u54c1\u5c0f\u98df",
+            "SHOP A147-A148, HARAJUKU ZONE, G/F, KINGSWOOD RICHLY PLAZA, PHASE I, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2994801973,
+            4,
+            "\u5c71\u8b19",
+            "SHOP D16, 1/F, HARAJUKU ZONE, KINGSWOOD RICHLY PLAZA, PHASE 1, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2994802222,
+            4,
+            "\u842c\u8208\u5ba2\u5bb6\u9e7d\u7117\u96de\u5c08\u9580\u5e97",
+            "SHOP A71-A72 & A84, G/F, HARAJUKU ZONE, KINGSWOOD RICHLY PLAZA, PHASE I, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-24"
+          ],
+          [
+            2994802523,
+            4,
+            "\u6d25\u6d25\u6709\u5473",
+            "SHOP A95, G/F, HARAJUKU ZONE, KINGSWOOD RICHLY PLAZA, PHASE 1, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2994806756,
+            4,
+            "\u9b5a\u5f69\u58fd\u53f8\u53ca\u523a\u8eab\u5c08\u9580\u5e97",
+            "SHOP B2-B3, 1/F, KINGSWOOD RICKLY PLAZA (PHASE 1), KINGSWOOD VILLAS, NO. 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            2994807078,
+            4,
+            "Momo Yummy",
+            "SHOP D150, 1/F, PHASE I, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2994808345,
+            4,
+            "\u9f8d\u83ef\u958b\u5fc3\u7f8e\u98df",
+            "PORTION OF SHOP A62-A64, G/F, KINGSWOOD RICHLY PLAZA, PHASE I, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            3694800222,
+            5,
+            "\u5609\u83ef\u8089\u67b1",
+            "SHOP A91-26, 27, G/F, PHASE I, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            3694803364,
+            5,
+            "\u98df\u5e73\u5572",
+            "PORTION OF SHOP NOS. A184 & A185, G/F, PHASE I, KINGSWOOD RICHLY PLAZA, TSWTL 1, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105712
+        ]
+      ],
+      "coordinate": [
+        1.9896838692725678,
+        0.39186737737596744,
+        12.350000381469727
+      ],
+      "halfSize": [
+        42.804000000003725,
+        89.22049999982119,
+        5.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        585105413,
+        2,
+        [
+          [
+            2994805045,
+            4,
+            "MAMMA M.I.A",
+            "SHOP 53, 2/F, PHASE II, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ],
+          [
+            2994807193,
+            4,
+            "Little Panda",
+            "SHOP F9A, 1/F, KINGSWOOD RICHLY PLAZA, PHASE 2, 1 TIN WU ROAD, TIN SHUI WAI , YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105995
+        ]
+      ],
+      "coordinate": [
+        1.989698102328401,
+        0.3918559316219867,
+        14.350000381469727
+      ],
+      "halfSize": [
+        31.457500000018626,
+        24.862999999895692,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        585105414,
+        1,
+        [
+          [
+            2994810713,
+            4,
+            "FLAT MOUNTAIN",
+            "SHOP 2, G/F, 249 SHEUNG CHEUNG WAI, PING SHAN, LOT357 IN D.D 122, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585106649
+        ]
+      ],
+      "coordinate": [
+        1.9898032515985626,
+        0.39182212386302273,
+        6.75
+      ],
+      "halfSize": [
+        7.870904999785125,
+        10.507724999450147,
+        2.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        585105415,
+        29,
+        [
+          [
+            2994805559,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO. L005, G/F, TIN SHING SHOPPING CENTRE, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2994805577,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF SHOP NO. L003, G/F, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2994805647,
+            4,
+            "\u69ae\u5c11\u5587\u6c99",
+            "STALL NO. M415, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2994806400,
+            4,
+            "\u5bb6\u5bb6\u5473",
+            "STALL NO. M407, G/F , MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2994806419,
+            4,
+            "On Tai Roasted Meat Shop",
+            "MAJOR PORTION OF STALL NOS. M318 & M320, G/F IN THE MARKET PLACE, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2994806437,
+            4,
+            "ZEPPELIN HOT DOG SHOP",
+            "SHOP M417, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2994807430,
+            4,
+            "\u9ede\u76c5\u7687",
+            "STALL NO. M402, G/F, MARKET,TIN SHING SHOPPING CENTRE,TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2994807953,
+            4,
+            "\u6dfb\u5bf6",
+            "MARKET STALL NOS. M322 & M326, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2994808044,
+            4,
+            "\u9bae\u9bae\u4e09\u6587\u9b5a\u523a\u8eab\u58fd\u53f8",
+            "STALL NO. M405, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2994808220,
+            4,
+            "Appolo (Magic House) Superstore Ltd.",
+            "SHOP L101, 1/F, TIN SHING SHOPPING CENTRE, TIN SHING COURT, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2994809861,
+            4,
+            "\u5c0f\u82f1\u6ef7\u8089",
+            "SHOP M408, G/F, MARKET PLACE OF TIN SHING SHOPPING CENTRE, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2994811840,
+            4,
+            "TEE RAK THAI FOOD",
+            "STALL NO. M419, G/F, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2994811910,
+            4,
+            "\u694a\u8a18\u624b\u5de5\u9903",
+            "MARKET STALL M325, G/F, IN THE MARKET PLACE OF TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ],
+          [
+            3694801854,
+            5,
+            "\u5ee3\u6771\u8089\u98df\u516c\u53f8",
+            "STALL NO. M119, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            3694801863,
+            5,
+            "\u6cf0\u8208\u51cd\u8089\u91ce\u706b\u6a02\u5712",
+            "STALL NO. M121 & M233, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            3694801906,
+            5,
+            "\u6d77\u9bae\u5357\u5cb8",
+            "STALL NO. M341, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            3694801942,
+            5,
+            "\u9054\u6c5f\u7da0\u8272\u672c\u5730\u6f01\u5834",
+            "STALL NO. M331 & M333, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ],
+          [
+            3694801951,
+            5,
+            "\u826f\u610f\u9bae\u8089",
+            "MARKET STALL NO. 237, G/F, TIN SHING SHOPPING CENTRE, TIN SHING COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-23"
+          ],
+          [
+            3694801960,
+            5,
+            "\u9818\u9bae\u9bae\u8089",
+            "STALL NO. M340, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            3694801979,
+            5,
+            "\u5efa\u83ef\u8fb2\u7267",
+            "STALL NO. M235, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            3694802033,
+            5,
+            "\u5eb7\u8a18\u51b7\u9bae\u8089",
+            "SHOP STALL NO. M338, G/F, TIN SHING COURT, TIN SHING SHOPPING CENTRE, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3694802130,
+            5,
+            "\u92aa\u5f97\u98df",
+            "STALL NO. M113, GROUND FLOOR, MARKET PLACE OF TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            3694802158,
+            5,
+            "\u71df\u706b\u98df\u54c1",
+            "MARKET STALL NO. 115 & 117, G/F, TIN SHING SHOPPING CENTRE , TIN SHING COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            3694803708,
+            5,
+            "\u6cf0\u8208\u74b0\u7403\u51b7\u51cd\u98df\u6750",
+            "MARKET STALL NOS. M208 & M313, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-04-03"
+          ],
+          [
+            3694804154,
+            5,
+            "\u4e00\u54c1\u725b\u8089",
+            "STALL NO. M346, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3694804224,
+            5,
+            "\u73cd\u73cd\u9bae\u9b5a",
+            "MARKET STALL NO.M230, GROUND FLOOR IN THE MARKET PLACE OF TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ],
+          [
+            3694804622,
+            5,
+            "\u5929\u6c34\u570d\u725b\u8089",
+            "STALL NO. M336, G/F, MARKET, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            4694803983,
+            5,
+            "\u9bae\u8588\u9bae\u9b5a",
+            "MARKET STALL NO.M229, GROUND FLOOR IN THE MARKET PLACE OF TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3594800638,
+            8,
+            "On Tai Roasted Meat Shop",
+            "MINOR PORTION OF STALL NOS. M318 & M320, G/F IN THE MARKET PLACE, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585106657
+        ]
+      ],
+      "coordinate": [
+        1.9897238206489087,
+        0.39180792144469123,
+        24.5
+      ],
+      "halfSize": [
+        58.08018000004813,
+        94.34867999982089,
+        17.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        585105416,
+        2,
+        [
+          [
+            2994806729,
+            4,
+            "TenRen's Tea",
+            "MTR STATION SHOP TIS 44,TIN SHUI WAI STATION, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ],
+          [
+            3294800413,
+            6,
+            "TenRen's Tea",
+            "MINOR PORTION OF MTR STATION SHOP TIS 44, TIN SHUI WAI STATION, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585106659
+        ]
+      ],
+      "coordinate": [
+        1.989756109412062,
+        0.39179228273404404,
+        17.0
+      ],
+      "halfSize": [
+        175.9780000001192,
+        190.64400000032037,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        585105417,
+        1,
+        [
+          [
+            3694000664,
+            5,
+            "Wellcome",
+            "SHOP NO. 1-4 (PTN), G/F, CHESTWOOD COURT, 8 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107073
+        ]
+      ],
+      "coordinate": [
+        1.9896704809930323,
+        0.3919805580894427,
+        8.699999809265137
+      ],
+      "halfSize": [
+        25.785494999960065,
+        33.431944999843836,
+        2.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        585105418,
+        5,
+        [
+          [
+            2194000271,
+            1,
+            "\u5343\u5f0f\u9eb5\u5305\u5c4b",
+            "SHOP NO. C48, 1/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2994002284,
+            4,
+            "\u694a\u6d0b",
+            "SHOP A91-08 & 09, G/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2994002293,
+            4,
+            "\u4eca\u798f\u5357\u5317\u7f8e\u98df\u4ead",
+            "SHOPA91-28,29,30,31, G/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2994803377,
+            4,
+            "\u4f5b\u6148\u9f4b",
+            "SHOP A55, G/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2994806075,
+            4,
+            "TEA RHYME",
+            "SHOP D3, 1/F, HARAJUKU ZONE, KINGSWOOD VILLAS, RICHLY PLAZA, (PHASE 1), 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107076
+        ]
+      ],
+      "coordinate": [
+        1.9897823718883996,
+        0.39197272308329345,
+        9.300000190734863
+      ],
+      "halfSize": [
+        74.87732499977574,
+        21.218425000086427,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        585105419,
+        5,
+        [
+          [
+            2194800352,
+            1,
+            "Smile Bread",
+            "PORTION B OF SHOP NO. G77-78A, G79 & 80, G/F, PHASE 1, FORTUNE KINGSWOOD, 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2994802374,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G73B, G/F, PHASE 1, +WOO, 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2994809533,
+            4,
+            "Chateraise",
+            "SHOP G85A, G/F, PHASE 1, +WOO, 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ],
+          [
+            2994811725,
+            4,
+            "\u842c\u6ce2",
+            "SHOP NO. G61, G/F., +WOO PHASE 1, NOS. 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ],
+          [
+            3294800547,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. G73B, G/F., PHASE 1, +WOO, , 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107080
+        ]
+      ],
+      "coordinate": [
+        1.9897478724041073,
+        0.3919483178315814,
+        14.449999809265137
+      ],
+      "halfSize": [
+        124.8491200003773,
+        56.15756999980658,
+        8.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        585105420,
+        34,
+        [
+          [
+            2994000093,
+            4,
+            "Appolo (Magic House) Superstore Ltd.",
+            "SHOP NO. 8, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2994803100,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF SHOP NO. L026, LEVEL 1, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, 9 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2994803298,
+            4,
+            "Park'N Shop",
+            "STALL NO. 4, SHOP NO. L101, LEVEL 2, TIN SHUI SHOPPING CENTRE, 9 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2994803304,
+            4,
+            "Park'N Shop",
+            "STALL NO. 2 & 3, SHOP NO. L101, LEVEL 2, TIN SHUI SHOPPING CENTRE, 9 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2994803368,
+            4,
+            "\u5305\u9ede\u5148\u751f x \u71d2\u8ce3\u738b\u5b50",
+            "SHOP G23, G/F, PHASE 2, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2994804662,
+            4,
+            "\u79cb\u7530\u9905\u5e97",
+            "STALL NO. T8, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2994804671,
+            4,
+            "\u5ddd\u5473\u8ed2",
+            "STALL NO. T64, G/F, MARKET, COMMERCIAL/ CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2994804714,
+            4,
+            "\u82b1\u6c90",
+            "STALL NO. T2, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I&II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2994804769,
+            4,
+            "\u82af\u8a18\u751c\u54c1",
+            "STALL NO. T34, G/F, MARKET, COMMERCIAL/ CAR PARK BLOCK(TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2994804796,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G1A, G/F, TIN SHUI SHOPPING CENTRE , TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            2994805902,
+            4,
+            "PHD",
+            "SHOP NO. G34, GROUND FLOOR, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2994807564,
+            4,
+            "KUNG FU TEA",
+            "SHOP NO. G2C, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2994810838,
+            4,
+            "Sushi Take-Out",
+            "SHOP G22, G/F, PHASE 2, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2994811673,
+            4,
+            "\u694a\u8a18\u96f2\u9903",
+            "STALL T-TS23, G/F, TIN SHUI MARKET, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2994811707,
+            4,
+            "KAM KEE",
+            "STALL NO. T52, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2994811770,
+            4,
+            "No Record",
+            "(PART B OF MINOR PORTION) SHOP NOS. G2D, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            4994813303,
+            4,
+            "No Record",
+            "REAR PORTION OF STALL. T-TS33 & T-TS49, G/F, TIN SHUI MARKET, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            3694001162,
+            5,
+            "\u71d5\u59d0\u5bb6\u79bd",
+            "SHOPSTALL NO. T50, TIN SHUI WET MARKET, NO. 111 TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-03"
+          ],
+          [
+            3694801216,
+            5,
+            "Park'N Shop",
+            "STALL NO. 5 & PORTIONS OF SHOP NO. L101, LEVEL 2, TIN SHUI SHOPPING CENTRE, 9 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            3694801544,
+            5,
+            "\u9818\u9bae",
+            "STALL NO. T29, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3694801553,
+            5,
+            "\u5229\u8c50\u9bae\u8089",
+            "STALL NO. T28, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3694801580,
+            5,
+            "\u5929\u745e\u9bae\u9b5a",
+            "STALL NO. T43, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            3694801599,
+            5,
+            "\u6d77\u57ce\u9bae\u9b5a",
+            "STALL NO. T36, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            3694801605,
+            5,
+            "\u65b0\u4ed4\u9bae\u9b5a",
+            "STALL NO. T37, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            3694801614,
+            5,
+            "\u8fb2\u7267\u98df\u54c1",
+            "STALL NO. T10, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3694801623,
+            5,
+            "\u5104\u8208\u51cd\u8089",
+            "STALL NO. T31, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3694801632,
+            5,
+            "\u6210\u767c\u8c46\u54c1",
+            "STALL NO. T16, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3694801641,
+            5,
+            "\u4fe1\u660e\u6d77\u9bae",
+            "STALL NO. T38, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3694801669,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL NO. T25, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3694801678,
+            5,
+            "\u82f1\u767c\u9bae\u9b5a",
+            "STALL NO. T39, G/F, MARKET, COMMERCIAL/CAR PARK BLOCK (TIN SHUI SHOPPING CENTRE), TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3294800316,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. G1A, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            3594800382,
+            8,
+            "Park'N Shop",
+            "STALL NO. 1, SHOP NO. L101, LEVEL 2, TIN SHUI SHOPPING CENTRE, 9 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            3594800911,
+            8,
+            "\u5e74\u54e5\u71d2\u9d5d",
+            "(PART A OF MINOR PORTION) SHOP NOS. G2D, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            4594800929,
+            8,
+            "No Record",
+            "FRONT PORTION OF STALL. T-TS33 & T-TS49, G/F, TIN SHUI MARKET, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107154
+        ]
+      ],
+      "coordinate": [
+        1.989648307979333,
+        0.3919294772640539,
+        12.550000190734863
+      ],
+      "halfSize": [
+        48.840735000092536,
+        67.4409699998796,
+        6.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        585105421,
+        13,
+        [
+          [
+            2994804680,
+            4,
+            "PARKnSHOP",
+            "STALL NO. 5, SHOP NOS. L109 & L110, FIRST FLOOR, TIN YIU PLAZA , TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2994804699,
+            4,
+            "PARKnSHOP",
+            "STALL NO. 3, SHOP NOS. L109 & L110, FIRST FLOOR, TIN YIU PLAZA , TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2994806446,
+            4,
+            "\u5305\u9ede\u5148\u751fx \u71d2\u8ce3\u738b\u5b50",
+            "SHOP NOS. L059 AND L060, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2994806747,
+            4,
+            "Pie & Tart",
+            "SHOP NOS. L061A & L062A, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2994809755,
+            4,
+            "On Site Bakery",
+            "SHOP L031, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2994810227,
+            4,
+            "AROME BAKERY",
+            "PORTION A OF SHOP L051, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2994810281,
+            4,
+            "Uo-show",
+            "PORTION B OF SHOP L051, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-09"
+          ],
+          [
+            2994811248,
+            4,
+            "Wanpo tea shop",
+            "SHOP L042, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-09-26"
+          ],
+          [
+            4994813321,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION C OF SHOP NO. L032, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ],
+          [
+            3694801526,
+            5,
+            "PARKnSHOP",
+            "STALL NO. 1, 2 & PORTIONS OF SHOP NOS. L109 & L110, FIRST FLOOR, TIN YIU PLAZA , TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3294800529,
+            6,
+            "Arome Bakery",
+            "MINOR PORTION OF PORTION A OF SHOP L051, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-19"
+          ],
+          [
+            4294800351,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION D OF SHOP NO. L032, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ],
+          [
+            3594800461,
+            8,
+            "PARKnSHOP",
+            "STALL NO. 4, SHOP NOS. L109 & L110, FIRST FLOOR, TIN YIU PLAZA , TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107177
+        ]
+      ],
+      "coordinate": [
+        1.989739163587299,
+        0.39183984690915946,
+        7.25
+      ],
+      "halfSize": [
+        80.33750000037253,
+        46.16949999984354,
+        3.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        585105422,
+        13,
+        [
+          [
+            2994800466,
+            4,
+            "\u54c1\u9999\u5feb\u9910\u7f8e\u98df\u5c4b",
+            "SHOP A-146, G/F, KINGSWOOD RICHLY PLAZA, NO. 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2994801478,
+            4,
+            "\u771f\u7ae0\u9b5a\u7121\u96d9(\u5929\u6c34\u570d)",
+            "SHOP NO. A87 AND A88, G/F, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2994805920,
+            4,
+            "\u4f4f\u5bb6\u83dc",
+            "SHOP A60 & A61, G/F, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2994807494,
+            4,
+            "Tong Kee Bao Dim",
+            "SHOP NO. C40, 1/F, COMMERCIAL DEVELOPMENT OF LOCWOOD COURT, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ],
+          [
+            2994808886,
+            4,
+            "\u5927\u6c60\u8a18",
+            "SHOP G5, G/F, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            2994811600,
+            4,
+            "\u6435\u91ce\u98df",
+            "SHOP NO. 9B, 1/F, (THE MALL OF) THE COMMERCIAL DEVELOPMENT, LOCWOOD COURT, KINGSWOOD VILLA, NO. 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            4994813251,
+            4,
+            "Sushi Monster",
+            "SHOP NO. D7D, 1/F, KINGSWOOD RICHLY PLAZA, NO. 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-01"
+          ],
+          [
+            3694804303,
+            5,
+            "cross",
+            "SHOP NOS. A80 & A81, G/F, KINGSWOOD RICHLY PLAZA, NO. 1 TIN WU ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            3694804455,
+            5,
+            "\u9bae\u5473 x \u6f01\u5e02",
+            "STALL A & B OF PORTION B ON G/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, NO. 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ],
+          [
+            3694804473,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL C OF PORTION B ON G/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, NO. 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            3694804552,
+            5,
+            "\u4f73\u5bf6\u51cd\u8089\u8d85\u7d1a\u5e02\u5834",
+            "FLAT 16-17, 1/F, KINGSWOOD RICHLY PLAZA, LOCWOOD COURT, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            4694804056,
+            5,
+            "No Record",
+            "SHOP F6, 1/F, KINGSWOOD RICHLY PLAZA, LOCWOOD COURT, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            3594800595,
+            8,
+            "\u6d77\u5357\u96de\u5c08\u9580\u5e97",
+            "SHOP NO. G7, G/F, THE COMMERCIAL DEVELOPMENT LOCWOOD COURT, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107244
+        ]
+      ],
+      "coordinate": [
+        1.9896623820171888,
+        0.3918625347501044,
+        8.300000190734863
+      ],
+      "halfSize": [
+        45.412000000011176,
+        31.569500000216067,
+        2.200000047683716
+      ]
+    }
+  ]
+}

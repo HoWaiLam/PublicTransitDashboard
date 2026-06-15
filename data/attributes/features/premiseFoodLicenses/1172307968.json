@@ -1,0 +1,3056 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1172307968,
+        1,
+        [
+          [
+            2953803493,
+            4,
+            "Food for Good",
+            "COOKED FOOD STALL NO. 4, G/F, COMMERCIAL COMPLEX (TUNG TAU SHOPPING CENTRE), TUNG TAU (II) ESTATE, KOWLOON",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308017
+        ]
+      ],
+      "coordinate": [
+        1.993203196752964,
+        0.3900741956079997,
+        116.1500015258789
+      ],
+      "halfSize": [
+        22.87503999983892,
+        23.341880000196397,
+        4.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1172307969,
+        44,
+        [
+          [
+            2153800201,
+            1,
+            "\u7d14\u7a57\u70d8\u7119",
+            "STALL K-TWS 1001-1002, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-04-01"
+          ],
+          [
+            2953205255,
+            4,
+            "7-ELEVEN",
+            "PORTION B, SHOP NO. 324 & 325, LEVEL 3, TSZ WAN SHAN SHOPPING CENTRE, 23 YUK WAH STREET, KOWLOON",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2953800102,
+            4,
+            "Saint Honore Cake Shop",
+            "SHOP 329, TSZ WAN SHAN SHOPPING CENTRE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            2953800722,
+            4,
+            "HUNG FOOK TONG",
+            "PORTION OF SHOP 409, TSZ WAN SHAN SHOPPING CENTRE, YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2953803004,
+            4,
+            "SUSHI TAKE-OUT",
+            "SHOP NO. 332, 3/F, TSZ WAN SHAN SHOPPING CENTRE, 23 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2953803916,
+            4,
+            "Maxim's Cakes",
+            "SHOP NOS. 110-112, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2953804007,
+            4,
+            "18 \u54c1\u5473",
+            "STALL K-TWS 1003, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2953804016,
+            4,
+            "\u6f6e\u9e75\u6c34",
+            "STALL K-TWS 1031 (PORTION A), TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2953804265,
+            4,
+            "\u5305\u9ede\u5148\u751f x \u71d2\u8ce3\u738b\u5b50",
+            "SHOP NOS. 103A & 103B, 1/F, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2953804672,
+            4,
+            "\u672c\u7063\u6c34\u7522",
+            "PORTION E OF SHOP NOS. 213-222, 2/F., TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2953804715,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION A OF SHOP NOS. 213-222, 2/F., TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-15"
+          ],
+          [
+            2953804724,
+            4,
+            "\u672c\u7063\u6c34\u7522",
+            "PORTION B OF SHOP NOS. 213-222, 2/F., TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2953804733,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION C OF SHOP NOS. 213-222, 2/F., TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2953804779,
+            4,
+            "FANTASTIC TEA",
+            "SHOP NO. 510, FIFTH FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2953805596,
+            4,
+            "Chateraise",
+            "SHOP NO. 203, 2/F, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2953805675,
+            4,
+            "Hana-Musubi",
+            "SHOP 323, 3/F, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2953806474,
+            4,
+            "TIN TIN SIU MEI",
+            "STALL K-TWS1019 (PORTION A), TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-03-18"
+          ],
+          [
+            2953806720,
+            4,
+            "\u694a\u8a18\u96f2\u9903",
+            "STALL K-TWS 1032, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2953806775,
+            4,
+            "\u6cf0\u975a\u624b\u6495\u96de",
+            "STALL K-TWS 1033, TSZ WAN SHAN MARKET, 1/F, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2953806809,
+            4,
+            "\u5feb\u6a02\u8543\u85af",
+            "SHOP NO. 106A, 1/F, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-01-23"
+          ],
+          [
+            4953807882,
+            4,
+            "\u5fb7\u8ca1\u5c0f\u5eda",
+            "STALL K-TWS 1007-1008, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-17"
+          ],
+          [
+            4953808016,
+            4,
+            "RICE GARDEN",
+            "SHOP NO. 104B, 1/F, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3653801785,
+            5,
+            "PARKnSHOP",
+            "STALL NO. 1 & PORTIONS OF SHOP NOS. 528-535, 5/F, TSZ WAN SHAN SHOPPING CENTRE, 23 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3653801934,
+            5,
+            "\u9673\u5bec\u8a18\u96de\u9d28",
+            "STALL K-TWS 1006, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-11-01"
+          ],
+          [
+            3653801970,
+            5,
+            "\u7965\u5229\u9bae\u9b5a",
+            "STALL K-TWS 1058-1059, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-12-30"
+          ],
+          [
+            3653801989,
+            5,
+            "\u6839\u8a18\u9bae\u9b5a",
+            "STALL K-TWS 1049, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-01-01"
+          ],
+          [
+            3653802016,
+            5,
+            "\u9818\u9bae",
+            "STALL K-TWS 1012, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-01-20"
+          ],
+          [
+            3653802025,
+            5,
+            "\u5473\u738b\u71d2\u70e4",
+            "STALL K-TWS 1029, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-01-27"
+          ],
+          [
+            3653802043,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL K-TWS 1009, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-02-03"
+          ],
+          [
+            3653802052,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL K-TWS 1016, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-02-21"
+          ],
+          [
+            3653802089,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL K-TWS 1015, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-02-24"
+          ],
+          [
+            3653802113,
+            5,
+            "\u6f01\u5e02",
+            "STALL K-TWS 1011, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3653802131,
+            5,
+            "\u91d1\u9f8d\u9bae\u9b5a",
+            "STALL K-TWS 1014, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-03-13"
+          ],
+          [
+            3653802186,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL K-TWS 1056-1057, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-05-08"
+          ],
+          [
+            3653802265,
+            5,
+            "\u6771\u6607",
+            "STALL K-TWS 1048 & 1051, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-05-28"
+          ],
+          [
+            3653803019,
+            5,
+            "\u5efa\u83ef\u8fb2\u7267",
+            "STALL K-TWS 1053, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-02-22"
+          ],
+          [
+            3653803028,
+            5,
+            "\u5927\u5229\u51cd\u8089",
+            "STALL K-TWS 1023-1025, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-03-27"
+          ],
+          [
+            3653803310,
+            5,
+            "\u6c38\u65fa\u725b\u8089",
+            "STALL K-TWS 1017, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-08-07"
+          ],
+          [
+            3653803365,
+            5,
+            "S-MART FOOD",
+            "STALL K-TWS 1018, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-03-03"
+          ],
+          [
+            3653803514,
+            5,
+            "\u96c4\u8a18\u6d77\u9bae",
+            "STALL K-TWS 1050, TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-09-01"
+          ],
+          [
+            3253205266,
+            6,
+            "7-ELEVEN",
+            "PORTION A, SHOP NO. 324 & 325, LEVEL 3, TSZ WAN SHAN SHOPPING CENTRE, 23 YUK WAH STREET, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-21"
+          ],
+          [
+            3553800268,
+            8,
+            "PARKnSHOP",
+            "STALL NO. 2, SHOP NOS. 528-535, 5/F, TSZ WAN SHAN SHOPPING CENTRE, 23 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3553800286,
+            8,
+            "\u6f6e\u9e75\u6c34",
+            "STALL K-TWS 1031 (PORTION B), TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-04-11"
+          ],
+          [
+            3553800408,
+            8,
+            "TIN TIN SIU MEI",
+            "STALL K-TWS1019 (PORTION B), TSZ WAN SHAN MARKET, FIRST FLOOR, TSZ WAN SHAN SHOPPING CENTRE, TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308041
+        ]
+      ],
+      "coordinate": [
+        1.9931735694706598,
+        0.3900516419566538,
+        95.75
+      ],
+      "halfSize": [
+        61.57421500002965,
+        91.00480500049889,
+        23.050003051757812
+      ]
+    },
+    {
+      "attributes": [
+        1172307970,
+        3,
+        [
+          [
+            3653801873,
+            5,
+            "\u81ea\u5bb6\u8fb2\u5834\u8c6c",
+            "SHOP NO. C, G/F, KAM ON BUILDING, 40-44 YUK WAH STREET, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            3653802681,
+            5,
+            "\u5fb7\u660c\u9bae\u8089",
+            "SHOP A2, G/F, KAM ON BUILDING, 40-44 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-03-08"
+          ],
+          [
+            4653803090,
+            5,
+            "(NO RECORD FOUND)",
+            "SHOP A3, G/F, KAM ON BUILDING, 40-44 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308124
+        ]
+      ],
+      "coordinate": [
+        1.9931876381885123,
+        0.3900317101352217,
+        85.0999984741211
+      ],
+      "halfSize": [
+        6.8236650000326335,
+        3.1786949997767806,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        1172307971,
+        2,
+        [
+          [
+            4953807828,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "SHOP D, G/F, WING LEE BUILDING, 1 TSZ WAH LANE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3653802991,
+            5,
+            "FU YUAN PORK",
+            "G/F, 56 YUK WAH STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308129
+        ]
+      ],
+      "coordinate": [
+        1.9931940326393784,
+        0.3900305603640291,
+        87.0
+      ],
+      "halfSize": [
+        6.429130000062287,
+        8.411530000157654,
+        11.800003051757812
+      ]
+    },
+    {
+      "attributes": [
+        1172307972,
+        2,
+        [
+          [
+            3653801855,
+            5,
+            "\u5f37\u4ed4\u9bae\u9b5a\u5c08\u9580\u5e97",
+            "SHOP B, G/F, TAK TSZ HOUSE, 4-14 TSZ WAH LANE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-31"
+          ],
+          [
+            3653801907,
+            5,
+            "\u5f37\u4ed4\u8c6c\u8089\u852c\u83dc\u5c08\u9580\u5e97",
+            "PORTION OF SHOP E, G/F, TAK TSZ HOUSE, 4-14 TSZ WAH LANE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308140
+        ]
+      ],
+      "coordinate": [
+        1.9931903124844133,
+        0.39002816366477844,
+        85.3499984741211
+      ],
+      "halfSize": [
+        6.475815000012517,
+        12.226315000094473,
+        12.25
+      ]
+    },
+    {
+      "attributes": [
+        1172307973,
+        1,
+        [
+          [
+            3653802751,
+            5,
+            "\u9322\u5927\u5abd",
+            "PORTIONS OF G/F, 11 TSZ WAH LANE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308154
+        ]
+      ],
+      "coordinate": [
+        1.9931937530914323,
+        0.3900262971120661,
+        85.4000015258789
+      ],
+      "halfSize": [
+        6.14778000023216,
+        3.3734499998390675,
+        11.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1172307974,
+        1,
+        [
+          [
+            2953805541,
+            4,
+            "CHUK YUEN BAKERY WORKSHOP",
+            "ROOM 104 & PORTION A OF ROOM 105, G/F, CHEUNG YUEN HOUSE, CHUK YUEN (NORTH) ESTATE, KOWLOON",
+            null,
+            "2027-04-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308162
+        ]
+      ],
+      "coordinate": [
+        1.9930637567139904,
+        0.3900198518312703,
+        104.3499984741211
+      ],
+      "halfSize": [
+        30.391129999887198,
+        35.6543800001964,
+        48.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1172307975,
+        1,
+        [
+          [
+            2953148851,
+            4,
+            "\u6c5f\u8a18",
+            "G/F, 20 TSUI FUNG ST., FUNG WONG SAN TSUEN, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308342
+        ]
+      ],
+      "coordinate": [
+        1.9931148959961693,
+        0.38998903540120067,
+        49.45000076293945
+      ],
+      "halfSize": [
+        2.2784349997527897,
+        4.710274999961257,
+        10.75
+      ]
+    },
+    {
+      "attributes": [
+        1172307976,
+        1,
+        [
+          [
+            3653803356,
+            5,
+            "(NO RECORD FOUND)",
+            "SHOP A3, G/F, WAH HING HOUSE, 32-34A SHEUNG FUNG STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308350
+        ]
+      ],
+      "coordinate": [
+        1.9931257220154408,
+        0.3899879472673181,
+        47.349998474121094
+      ],
+      "halfSize": [
+        5.441450000274926,
+        6.669815000146627,
+        11.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1172307977,
+        1,
+        [
+          [
+            3253800317,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION C OF G/F, 30 SHEUNG FUNG STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-12-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308361
+        ]
+      ],
+      "coordinate": [
+        1.9931257369823754,
+        0.38998643631866425,
+        46.70000076293945
+      ],
+      "halfSize": [
+        5.970594999846071,
+        3.1451850002631545,
+        11.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1172307978,
+        1,
+        [
+          [
+            2953801479,
+            4,
+            "\u611b\u5fc3\u8373\u8150\u82b1",
+            "SHOP A, G/F., 28 SHEUNG FUNG STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308384
+        ]
+      ],
+      "coordinate": [
+        1.9931257205277988,
+        0.38998543867757474,
+        45.900001525878906
+      ],
+      "halfSize": [
+        5.3338099997490644,
+        3.1598699996247888,
+        11.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1172307979,
+        1,
+        [
+          [
+            4653803063,
+            5,
+            "\u83ef\u8fb2\u512a\u9bae",
+            "PORTION OF G/F, 26 SHEUNG FUNG STREET, FUNG WONG SAN TSUEN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308389
+        ]
+      ],
+      "coordinate": [
+        1.9931257116228134,
+        0.3899844716928355,
+        45.75
+      ],
+      "halfSize": [
+        5.341874999925494,
+        3.0700850002467632,
+        11.25
+      ]
+    },
+    {
+      "attributes": [
+        1172307980,
+        1,
+        [
+          [
+            2153019845,
+            1,
+            "\u4e09\u4e95",
+            "G/F, 24 SHEUNG FUNG ST., FUNG WONG SAN TSUEN, TSZ WAN SHAN , WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308396
+        ]
+      ],
+      "coordinate": [
+        1.9931257115862995,
+        0.389983340635351,
+        45.54999923706055
+      ],
+      "halfSize": [
+        5.355759999714792,
+        4.176959999836981,
+        12.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1172307981,
+        1,
+        [
+          [
+            2953800704,
+            4,
+            "\u6613\u62ce\u8178\u7c89",
+            "SHOP A, G/F, FUNG WONG BUILDING, NO. 37 SHEUNG FUNG STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308399
+        ]
+      ],
+      "coordinate": [
+        1.9931188182433752,
+        0.3899821612262459,
+        47.099998474121094
+      ],
+      "halfSize": [
+        21.177174999844283,
+        7.63268500007689,
+        13.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1172307982,
+        12,
+        [
+          [
+            2953805222,
+            4,
+            "BBQ Family",
+            "SHOP CF11(REAR PORTION), G/F., MARKET PLACE, FUNG TAK SHOPPING CENTRE, FUNG TAK ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2953805301,
+            4,
+            "\u5927\u6c60\u8a18\u9903\u5b50",
+            "STALL CF4, G/F, MARKET PLACE, FUNG TAK SHOPPING CENTRE, FUNG TAK ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2953805958,
+            4,
+            "To Yuen Brine Goose Eatery",
+            "STALL CF7, G/F, MARKET PLACE, FUNG TAK SHOPPING CENTRE, FUNG TAK ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-06"
+          ],
+          [
+            2953806483,
+            4,
+            "\u660e\u8208\u7f8e\u98df",
+            "STALL CF6, G/F, MARKET PLACE, FUNG TAK SHOPPING CENTRE, FUNG TAK ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-19"
+          ],
+          [
+            2953806605,
+            4,
+            "Natural Bakery",
+            "SHOP NO. 207, 2/F., FUNG TAK SHOPPING CENTRE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2953807024,
+            4,
+            "Thank You \u5916\u8ce3",
+            "STALL CF2, G/F, FUNG TAK MARKET, FUNG TAK SHOPPING CENTRE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2953807033,
+            4,
+            "TSUI HING LAU",
+            "SHOP NO.225, 2/F, FUNG TAK SHOPPING CENTRE, FUNG TAK ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-21"
+          ],
+          [
+            3653163474,
+            5,
+            "Park'N Shop",
+            "SHOP 215, LEVEL 3, FUNG TAK SHOPPING CENTRE, FUNG TAK ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3653802423,
+            5,
+            "\u597d\u716e\u610f",
+            "MARKET STALL NO. S14, LEVEL 1, MARKET 1, FUNG TAK SHOPPING CENTRE, 111 FUNG TAK ROAD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3653802539,
+            5,
+            "(NO RECORD FOUND)",
+            "MARKET STALL NO. S38, LEVEL 1, MARKET 1, FUNG TAK SHOPPING CENTRE, 111 FUNG TAK ROAD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-08-03"
+          ],
+          [
+            3653802575,
+            5,
+            "\u76db\u54c1",
+            "MARKET STALL NOS. S22 & S27, LEVEL 1, MARKET 1, FUNG TAK SHOPPING CENTRE, 111 FUNG TAK ROAD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-09-24"
+          ],
+          [
+            3553800374,
+            8,
+            "BBQ Family",
+            "SHOP CF11(FRONT PORTION), G/F., MARKET PLACE, FUNG TAK SHOPPING CENTRE, FUNG TAK ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308412
+        ]
+      ],
+      "coordinate": [
+        1.9931663004229996,
+        0.3899739701805135,
+        31.5
+      ],
+      "halfSize": [
+        84.125,
+        56.97948999982327,
+        7.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1172307983,
+        1,
+        [
+          [
+            2953802409,
+            4,
+            "RED CHERRY",
+            "NO.14, G/F, WAH FUNG MANSION, 12-14 SHEUNG FUNG STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-09-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308429
+        ]
+      ],
+      "coordinate": [
+        1.993125826052789,
+        0.3899766845006504,
+        41.05000305175781
+      ],
+      "halfSize": [
+        6.080395000055432,
+        7.224279999732971,
+        11.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1172307984,
+        1,
+        [
+          [
+            3653803505,
+            5,
+            "\u81ea\u5bb6\u8fb2\u5834\u8c6c",
+            "PORTION A OF GROUND FLOOR, NO. 2 NGAN FUNG STREET, FUNG WONG SAN TSUEN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308433
+        ]
+      ],
+      "coordinate": [
+        1.9931327557792706,
+        0.3899770036968904,
+        39.75
+      ],
+      "halfSize": [
+        6.086025000084192,
+        3.0849000001326203,
+        9.25
+      ]
+    },
+    {
+      "attributes": [
+        1172307985,
+        2,
+        [
+          [
+            2153800159,
+            1,
+            "\u4e09\u4e95\u98fd\u9905\u5c08\u9580\u5e97",
+            "SHOP B, G/F, HANG ON BUILDING, 43-59 PO KONG VILLAGE ROAD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2953806997,
+            4,
+            "\u8449\u59d0\u4e09\u9938\u98ef",
+            "SHOP F2, G/F, HANG ON BUILDING, NOS. 43-59 PO KONG VILLAGE ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308444
+        ]
+      ],
+      "coordinate": [
+        1.9931419483836843,
+        0.3899741137227056,
+        67.54999542236328
+      ],
+      "halfSize": [
+        10.365355000365525,
+        15.72063499968499,
+        38.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1172307986,
+        1,
+        [
+          [
+            2953804399,
+            4,
+            "TONG KEE BAO DIM",
+            "G/F, 20 WAN FUNG STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308460
+        ]
+      ],
+      "coordinate": [
+        1.9931339833761872,
+        0.3899710824809639,
+        40.19999694824219
+      ],
+      "halfSize": [
+        6.445449999999255,
+        9.025969999842346,
+        12.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1172307987,
+        1,
+        [
+          [
+            2953803846,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "G/F, 28 WAN FUNG STREET, FUNG WONG SAN TSUEN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308462
+        ]
+      ],
+      "coordinate": [
+        1.9931370219502387,
+        0.3899705254719644,
+        38.900001525878906
+      ],
+      "halfSize": [
+        5.755975000094622,
+        8.876659999601543,
+        11.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1172307988,
+        1,
+        [
+          [
+            3653803295,
+            5,
+            "\u9818\u9bae",
+            "G/F., FUNG WONG SUN CHUEN, 32 WAN FUNG STREET, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308465
+        ]
+      ],
+      "coordinate": [
+        1.9931384699316594,
+        0.38997021319145886,
+        38.25
+      ],
+      "halfSize": [
+        6.25054999999702,
+        8.969565000385046,
+        10.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1172307989,
+        1,
+        [
+          [
+            3653803134,
+            5,
+            "\u9054\u8208\u4e0a\u7b49\u9bae\u8089",
+            "SHOP A, G/F, WING KIN MANSION, 83-89 FUNG TAK ROAD, KOWLOON",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308482
+        ]
+      ],
+      "coordinate": [
+        1.993135572677954,
+        0.3899674585324262,
+        37.400001525878906
+      ],
+      "halfSize": [
+        9.77276000007987,
+        9.570325000211596,
+        11.000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1172307990,
+        1,
+        [
+          [
+            3653801688,
+            5,
+            "\u7965\u8208\u98df\u54c1\u6279\u767c\u5e02\u5834",
+            "G/F (PORTION), KAM FAT BUILDING, 5, 7, 9 & 11 FUNG TAK ROAD, KOWLOON",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308496
+        ]
+      ],
+      "coordinate": [
+        1.9930984319326006,
+        0.3899657919983943,
+        37.400001525878906
+      ],
+      "halfSize": [
+        8.548579999711365,
+        7.73536999989301,
+        11.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1172307991,
+        1,
+        [
+          [
+            3653802821,
+            5,
+            "\u806f\u8c50\u6d77\u9bae",
+            "G/F, 19 FUNG TAK ROAD, FUNG WONG SAN TSUEN, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308505
+        ]
+      ],
+      "coordinate": [
+        1.9931023413356592,
+        0.3899657273591144,
+        37.20000076293945
+      ],
+      "halfSize": [
+        14.154035000130534,
+        6.270685000345111,
+        11.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1172307992,
+        2,
+        [
+          [
+            2953806599,
+            4,
+            "Guten Morgen Bakery",
+            "SHOP NO. FF02, 1/F., TIN MA COURT COMMERCIAL CENTRE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-22"
+          ],
+          [
+            3653801961,
+            5,
+            "Wellcome",
+            "SHOP NO. F09 (PORTION A & PORTIONS), 1/F, TIN MA COURT COMMERCIAL CENTRE, 55 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308532
+        ]
+      ],
+      "coordinate": [
+        1.9929424605825754,
+        0.38995666699695364,
+        51.099998474121094
+      ],
+      "halfSize": [
+        45.64502499997616,
+        25.283160000108182,
+        13.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1172307993,
+        19,
+        [
+          [
+            2953803031,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP NO.323, LEVEL 3, PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2953803271,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. 322, LEVEL 3, PLAZA HOLLYWOOD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2953803299,
+            4,
+            "Taste",
+            "STALL NO.4, SHOP NO.401, LEVEL 4, PLAZA HOLLYWOOD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2953803305,
+            4,
+            "Taste",
+            "STALL NO.3, SHOP NO.401, LEVEL 4, PLAZA HOLLYWOOD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2953803448,
+            4,
+            "HANA-MUSUBI",
+            "SHOP NO. 233, LEVEL 2, PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2027-04-10"
+          ],
+          [
+            2953803518,
+            4,
+            "\u8cde\u8336",
+            "SHOP NO. 324, 3/F, PLAZA HOLLYWOOD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2953803563,
+            4,
+            "TENREN'S TEA",
+            "SHOP NO. G102A, GROUND FLOOR, PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-08-31"
+          ],
+          [
+            2953804423,
+            4,
+            "NAM KOK",
+            "SHOP NO. G102B, GROUND FLOOR, PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-09-19"
+          ],
+          [
+            2953805392,
+            4,
+            "FANTASTIC TEA",
+            "SHOP NO. 237A, LEVEL 2, PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2953805462,
+            4,
+            "Chateraise",
+            "SHOP NO. 266, LEVEL 2 , PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2953806304,
+            4,
+            "Deli Counter",
+            "UNIT PH-01, SHOP NO. 101, 1/F., PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2953806313,
+            4,
+            "Produce",
+            "UNIT PH-06, SHOP NO. 101, 1/F., PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2953806331,
+            4,
+            "Deli",
+            "UNIT PH-04, SHOP NO. 101, 1/F., PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2953806340,
+            4,
+            "Sushi & Sashimi",
+            "UNIT PH-02, SHOP NO. 101, 1/F., PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2953806359,
+            4,
+            "Meat",
+            "UNIT PH-05, SHOP NO. 101, 1/F., PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2953807398,
+            4,
+            "CineArt Hollywood",
+            "PORTION A OF CINEMA PORTION OF LEVEL 3, NKIL 6160, PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2027-01-06"
+          ],
+          [
+            3653801554,
+            5,
+            "Taste",
+            "STALL NO.1, 2 & PORTIONS OF SHOP NO.401, LEVEL 4, PLAZA HOLLYWOOD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-06-28"
+          ],
+          [
+            3653803198,
+            5,
+            "Supermarket",
+            "PORTIONS OF SHOP NO. 101, 1/F., PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-10-18"
+          ],
+          [
+            3553800222,
+            8,
+            "Taste",
+            "STALL NO.5, SHOP NO.401, LEVEL 4, PLAZA HOLLYWOOD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308668
+        ]
+      ],
+      "coordinate": [
+        1.993204333307637,
+        0.3899171430211168,
+        28.899999618530273
+      ],
+      "halfSize": [
+        111.97791999997571,
+        82.16327999997884,
+        15.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1172307994,
+        3,
+        [
+          [
+            2953228025,
+            4,
+            "7-11",
+            "LEVEL 3, PORTION B OF UNITS 5,6,7 & 8, WANG FAI CENTRE, WANG TAU HOM ESTATE, WANG TAU HOM, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2953806933,
+            4,
+            "Umi Cake",
+            "UNIT 311, LEVEL 3, WANG FAI CENTRE, WANG TAU HOM ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-08"
+          ],
+          [
+            3253172335,
+            6,
+            "7-11",
+            "LEVEL 3, PORTION A UNITS 5, 6, 7 & 8, WANG FAI CENTRE, WANG TAU HOM ESTATE, WANG TAU HOM, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308669
+        ]
+      ],
+      "coordinate": [
+        1.9929440591580714,
+        0.3899266136506966,
+        36.70000076293945
+      ],
+      "halfSize": [
+        6.210480000358075,
+        33.37604499980807,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1172307995,
+        2,
+        [
+          [
+            2953208777,
+            4,
+            "7-11",
+            "PORTION B OF SHOP NO. 1 (PORTION), G/F, LUNG LOK HOUSE, LOWER WONG TAI SIN ESTATE II, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-21"
+          ],
+          [
+            3253101502,
+            6,
+            "7-11",
+            "PORTION A OF SHOP NO. 1 (PORTION), G/F, LUNG LOK HOUSE, LOWER WONG TAI SIN ESTATE II, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308681
+        ]
+      ],
+      "coordinate": [
+        1.9930347005724576,
+        0.389927137613188,
+        53.80000305175781
+      ],
+      "halfSize": [
+        18.215014999732375,
+        14.664195000194013,
+        37.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1172307996,
+        2,
+        [
+          [
+            2953802542,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF SHOP NO.2, G/F, TSZ CHING SHOPPING CENTRE II, TSZ CHING ESTATE, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-02-20"
+          ],
+          [
+            3653255609,
+            5,
+            "Park'N Shop",
+            "STALL NO.1 & PORTION OF SHOP NO.1, G/F., TSZ CHING SHOPPING CTR II, TSZ CHING ESTATE, KOWLOON",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308814
+        ]
+      ],
+      "coordinate": [
+        1.993178977547633,
+        0.3900910401961842,
+        114.69999694824219
+      ],
+      "halfSize": [
+        46.11750000016764,
+        28.10700000077486,
+        3.8999977111816406
+      ]
+    },
+    {
+      "attributes": [
+        1172307997,
+        1,
+        [
+          [
+            2953807006,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "SHOP NO. 106B, 1/F, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TSZ WAN SHAN SHOPPING CENTRE), TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308818
+        ]
+      ],
+      "coordinate": [
+        1.9931362534116017,
+        0.3900652109607492,
+        80.6500015258789
+      ],
+      "halfSize": [
+        88.89500000001863,
+        50.499160000123084,
+        1.8499984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1172307998,
+        1,
+        [
+          [
+            3253037498,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP D, G/F, YUK WAH MANSION, 1-11 FONG WAH LANE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308820
+        ]
+      ],
+      "coordinate": [
+        1.9931965202934379,
+        0.3900284458883252,
+        77.80000305175781
+      ],
+      "halfSize": [
+        6.985499999951571,
+        20.92700000014156,
+        3.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1172307999,
+        1,
+        [
+          [
+            2953807219,
+            4,
+            "Fat Fu Gourmet Restaurant",
+            "SHOP A, G/F, 2 FONG WAH LANE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308821
+        ]
+      ],
+      "coordinate": [
+        1.9932001110669517,
+        0.3900285870248277,
+        79.80000305175781
+      ],
+      "halfSize": [
+        6.94550000037998,
+        18.700000000186265,
+        3.6000022888183594
+      ]
+    },
+    {
+      "attributes": [
+        1172308000,
+        3,
+        [
+          [
+            2953806757,
+            4,
+            "\u5442\u9326\u8a18\u624b\u6495\u96de\u5c08\u9580\u5e97",
+            "SHOP F, G/F, WAH KAY HOUSE, 23 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            3653803417,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP A - B & PORTION OF SHOP C2, G/F, WAH KAY HOUSE, NOS.1,3,5,7,9,13,15,17,19,21 & 23 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-23"
+          ],
+          [
+            3653803426,
+            5,
+            "\u4f73\u5bf6\u98df\u54c1",
+            "SHOP C1, G/F, WAH KAY HOUSE, NOS.1,3,5,7,9,13,15,17,19,21 & 23 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308822
+        ]
+      ],
+      "coordinate": [
+        1.9931876137166002,
+        0.3900280396129043,
+        75.80000305175781
+      ],
+      "halfSize": [
+        7.301500000059605,
+        22.25099999923259,
+        3.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1172308001,
+        1,
+        [
+          [
+            2953807352,
+            4,
+            "First Meal",
+            "PORTION OF SHOP 5, G/F, MANNING THEATRE BUILDING, 51-55 YUK WAH CRESCENT, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308823
+        ]
+      ],
+      "coordinate": [
+        1.9932079051553548,
+        0.3900289836220916,
+        85.85000610351562
+      ],
+      "halfSize": [
+        12.406500000040978,
+        14.479999999515712,
+        6.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1172308002,
+        1,
+        [
+          [
+            2953803314,
+            4,
+            "(No record found)",
+            "SHOP NO. 24, GROUND FLOOR, CHE WAH SHOPPING ARCADE, NO. 18 YUK WAH CRESCENT, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308827
+        ]
+      ],
+      "coordinate": [
+        1.9932035574272016,
+        0.39002043258220415,
+        75.30000305175781
+      ],
+      "halfSize": [
+        16.052999999839813,
+        18.623000000603497,
+        6.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1172308003,
+        4,
+        [
+          [
+            2953186169,
+            4,
+            "\u4e9e\u80a5\u7f8e\u98df",
+            "SHOP NO. 6, G/F, 16 YUK WAH CRESCENT, TZE WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-07"
+          ],
+          [
+            2953300967,
+            4,
+            "\u5169\u4e09\u4e32",
+            "SHOP 3A, G/F, CHE CHEUNG BUILDING, 16 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2953800403,
+            4,
+            "Lee \u5bb6 Snack Expert",
+            "SHOP 4, G/F, CHE CHEUNG BUILDING,16 YUK WAH CRESCENT,TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-04-12"
+          ],
+          [
+            2953801947,
+            4,
+            "Docle",
+            "SHOP 5B, G/F, CHE CHEUNG BUILDING, 16 YUK WAH CRESCENT, TZE WAN SHAN, KOWLOON",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308828
+        ]
+      ],
+      "coordinate": [
+        1.993197398455564,
+        0.3900196102941941,
+        73.10000610351562
+      ],
+      "halfSize": [
+        16.032999999821186,
+        18.63549999985844,
+        6.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1172308004,
+        3,
+        [
+          [
+            2953802445,
+            4,
+            "GONG CHA",
+            "SHOP NO.322, 3/F., COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TSZ WAN SHAN SHOPPING CENTRE), TSZ LOK ESTATE, 10 WAN WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2953802685,
+            4,
+            "PIZZA HUT",
+            "SHOP NO. 331, 3/F, TSZ WAN SHAN SHOPPING CENTRE, 10 WAN WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-05-20"
+          ],
+          [
+            3653803259,
+            5,
+            "\u9999\u6e2f\u9bae\u8c6c",
+            "PORTION F OF SHOP NOS. 213, 214, 215, 216, 218,219, 220, 221 AND 222, SECOND FLOOR,COMMERCIAL/CAR PARK BLOCK(ALSO KNOWN AS TSZ WAN SHAN SHOPPING CENTRE), TSZ LOK ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2027-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308832
+        ]
+      ],
+      "coordinate": [
+        1.9931654914795152,
+        0.39001513406063687,
+        59.900001525878906
+      ],
+      "halfSize": [
+        32.03445000015199,
+        25.976000000722706,
+        8.5
+      ]
+    },
+    {
+      "attributes": [
+        1172308005,
+        1,
+        [
+          [
+            3653803374,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP A & B, G/F., THE FOREST PLACE, NO. 99 PO KONG VILLAGE ROAD, , TSZ WAN SHAN, WONG TAI SIN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308842
+        ]
+      ],
+      "coordinate": [
+        1.9931498081346273,
+        0.39000446882271056,
+        58.75
+      ],
+      "halfSize": [
+        26.27936499984935,
+        30.233830000273883,
+        15.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1172308006,
+        2,
+        [
+          [
+            2953801886,
+            4,
+            "FOOD STATION",
+            "SHOP S016, G/F., CHUK YUEN PLAZA, CHUK YUEN SOUTH ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-24"
+          ],
+          [
+            2953806270,
+            4,
+            "Natural Bakery",
+            "SHOP NO. S220, 2/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308845
+        ]
+      ],
+      "coordinate": [
+        1.9930456511307553,
+        0.3899951733191756,
+        57.099998474121094
+      ],
+      "halfSize": [
+        74.07200000016019,
+        37.50300000049174,
+        5.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1172308007,
+        1,
+        [
+          [
+            4953807855,
+            4,
+            "\u96f7\u723a\u79c1\u623f",
+            "SHOP C, G/F, ON TAT BUILDING, NO. 17-27 NGAN FUNG STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308854
+        ]
+      ],
+      "coordinate": [
+        1.993128528631859,
+        0.3899870925857954,
+        38.099998474121094
+      ],
+      "halfSize": [
+        6.445999999996275,
+        11.687709999270737,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        1172308008,
+        1,
+        [
+          [
+            2953806410,
+            4,
+            "\u6e90\u8a18\u9f4b",
+            "SHOP E, G/F, FUNG WONG NEW VILLAGE, 1 NGAN FUNG STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-01-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308861
+        ]
+      ],
+      "coordinate": [
+        1.993128496548765,
+        0.3899795060259508,
+        34.79999923706055
+      ],
+      "halfSize": [
+        6.5555000002495944,
+        24.900500000454485,
+        4.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1172308009,
+        52,
+        [
+          [
+            2153800113,
+            1,
+            "\u798f\u5d0e\u9eb5\u5305\u5e97",
+            "PORTION B OF SHOP NO. S012 & S013,G/F., CHUK YUEN PLAZA, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-22"
+          ],
+          [
+            2953800935,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 219, 2/F., CHUK YUEN SHOPPING CENTRE, CHUK YUEN SOUTH ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2953801877,
+            4,
+            "PARK'N SHOP",
+            "STALL NO. 1, SHOP S229, SECOND FLOOR, CHUK YUEN PLAZA, 15 CHUK YUEN RD., WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2953801901,
+            4,
+            "SHUN YIM UNCLE RICE ROLL",
+            "SHOP NO. S017, G/F., CHUK YUEN SHOPPING CENTRE, CHUK YUEN (SOUTH) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2953804113,
+            4,
+            "\u91cd\u6176\u5c0f\u98df",
+            "STALL W-CY 94, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2953804168,
+            4,
+            "\u5927\u6c60\u8a18",
+            "STALL W-CY 103, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2953804177,
+            4,
+            "\u7f8e\u5473\u5c4b",
+            "STALL W-CY 105-106, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2953804195,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "STALL W-CY 91, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2953804201,
+            4,
+            "\u5764\u8a18\u5c0f\u98df",
+            "STALL W-CY 89, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2953804283,
+            4,
+            "\u5927\u4e09\u5143",
+            "STALL W-CY 139 (PORTION A), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2953804292,
+            4,
+            "\u6f6e\u65fa\u6ef7\u5473",
+            "STALL W-CY 3 (PORTION A), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2953804308,
+            4,
+            "\u69ae\u8208\u71d2\u5473",
+            "STALL W-CY 1 (PORTION A), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2953804317,
+            4,
+            "\u5983\u5b50\u9b0d\u9b1a\u96de",
+            "STALL W-CY 5 (PORTION A), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2953804353,
+            4,
+            "\u8c6a\u5927\u5927\u96de\u6392",
+            "STALL W-CY 100, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2953804371,
+            4,
+            "\u677f\u716e\u5de5\u623f",
+            "STALL W-CY 90A, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2953804450,
+            4,
+            "\u5305\u9ede\u5148\u751f",
+            "STALL W-CY 81 & 82, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2953804520,
+            4,
+            "\u7f8e\u7f8e\u7cd6\u6c34",
+            "STALL W-CY 84, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2953805091,
+            4,
+            "\u7af9\u5730\u5e02\u5834",
+            "STALL W-CY104, CHUK YUEN MARKET, G/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2953805374,
+            4,
+            "\u7af9\u6599",
+            "STALL W-CY 92, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2953806207,
+            4,
+            "Ming Kee Hainanese Chicken",
+            "STALL W-CY102, CHUK YUEN MARKET, G/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2953806261,
+            4,
+            "UO-SHOW",
+            "SHOP NO. S221, 2/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2953806915,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO. S003, GROUND FLOOR, CHUK YUEN PLAZA, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2953806988,
+            4,
+            "Zhen Zhen Thai Food",
+            "STALL W-CY 93, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-08"
+          ],
+          [
+            2953807194,
+            4,
+            "\u9938\u591a\u591a\u7f8e\u98df",
+            "STALL W-CY 4, CHUK YUEN MARKET, G/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2953807282,
+            4,
+            "\u6dfb\u306e\u5473\u624b\u6495\u96de",
+            "STALL W-CY 88, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-08"
+          ],
+          [
+            4953807800,
+            4,
+            "Sushi Take-Out",
+            "SHOP NO. S102, 1/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, NO. 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-04-09"
+          ],
+          [
+            3653800737,
+            5,
+            "PARK'N SHOP",
+            "STALL NO. 2 & PORTIONS OF SHOP S229, SECOND FLOOR, CHUK YUEN PLAZA, 15 CHUK YUEN RD., WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3653802034,
+            5,
+            "\u7403\u8a18",
+            "STALL W-CY 137, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3653802159,
+            5,
+            "\u51b0\u8a18\u5bb6\u79bd",
+            "STALL W-CY 125, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3653802168,
+            5,
+            "\u9b5a\u6bdb\u8766\u4ed4",
+            "STALL W-CY 121, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3653802177,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL W-CY 124, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3653802201,
+            5,
+            "\u7af9\u5712\u9bae\u9b5a",
+            "STALL W-CY 126, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-21"
+          ],
+          [
+            3653802210,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL W-CY 69, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-21"
+          ],
+          [
+            3653802238,
+            5,
+            "\u6771\u6607\u9bae\u9b5a",
+            "STALL W-CY 130, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3653802247,
+            5,
+            "\u9818\u9bae",
+            "STALL W-CY 134, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3653802292,
+            5,
+            "\u6771\u6607\u6d77\u9bae",
+            "STALL W-CY 120&127, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-02"
+          ],
+          [
+            3653802308,
+            5,
+            "\u5229\u8c50",
+            "STALL W-CY 62, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3653802317,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL W-CY 70, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            3653802344,
+            5,
+            "(NO RECORD FOUND)",
+            "STALL W-CY 129&136, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3653802362,
+            5,
+            "\u826f\u8208\u51cd\u8089",
+            "STALL W-CY 128, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-28"
+          ],
+          [
+            3653802760,
+            5,
+            "\u76db\u54c1\u51cd\u8089",
+            "STALL W-CY122, CHUK YUEN MARKET, G/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-09"
+          ],
+          [
+            3653802779,
+            5,
+            "\u76db\u54c1\u51cd\u8089",
+            "STALL W-CY109 & 110, CHUK YUEN MARKET, G/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-09"
+          ],
+          [
+            3653803152,
+            5,
+            "\u65b0\u8208\u725b\u8089",
+            "STALL W-CY55, CHUK YUEN MARKET, G/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-16"
+          ],
+          [
+            3653803329,
+            5,
+            "\u51a0\u8208\u51cd\u8089",
+            "STALL W-CY 6-7, CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-05"
+          ],
+          [
+            3653803471,
+            5,
+            "\u9b5a\u6bdb\u8766\u4ed4",
+            "STALL W-CY131, CHUK YUEN MARKET, G/F, CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-01"
+          ],
+          [
+            3253800113,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "SHOP S4, (PORTION A), G/F, CHUK YUEN SHOPPING CENTRE, CHUK YUEN (SOUTH) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3253800131,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 219, 2/F., CHUK YUEN SHOPPING CENTRE, CHUK YUEN SOUTH ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-02-04"
+          ],
+          [
+            4253800185,
+            6,
+            "Sushi Take-Out",
+            "PORTION A OF SHOP NO. S102, 1/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, NO. 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-04-09"
+          ],
+          [
+            3553800301,
+            8,
+            "\u5927\u4e09\u5143",
+            "STALL W-CY 139 (PORTION B), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3553800310,
+            8,
+            "\u6f6e\u65fa\u6ef7\u5473",
+            "STALL W-CY 3 (PORTION B), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            3553800329,
+            8,
+            "\u69ae\u8208\u71d2\u5473",
+            "STALL W-CY 1 (PORTION B), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            3553800338,
+            8,
+            "\u5983\u5b50\u9b0d\u9b1a\u96de",
+            "STALL W-CY 5 (PORTION B), CHUK YUEN MARKET, G/F., CHUK YUEN PLAZA, CHUK YUEN (SOUTH) ESTATE, 15 CHUK YUEN ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308862
+        ]
+      ],
+      "coordinate": [
+        1.9930652125953818,
+        0.38997605744785313,
+        34.349998474121094
+      ],
+      "halfSize": [
+        82.43949999986216,
+        25.580295000225306,
+        8.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1172308010,
+        1,
+        [
+          [
+            3653802742,
+            5,
+            "Qdama(Wan Fung Street Shop)",
+            "PORTIONS OF SHOP C, G/F, HOI HUNG BUILDING, 40-44 WAN FUNG STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308866
+        ]
+      ],
+      "coordinate": [
+        1.9931390159976092,
+        0.38997398467074856,
+        33.349998474121094
+      ],
+      "halfSize": [
+        7.950500000268221,
+        11.330500000156462,
+        3.1499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1172308011,
+        1,
+        [
+          [
+            3653802371,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "SHOP NO. A1-A, G/F., ON LEE BUILDING, NOS. 41-53 FUNG TAK ROAD, NOS. 9-15 FEI FUNG STREET, KOWLOON",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308869
+        ]
+      ],
+      "coordinate": [
+        1.9931175195602284,
+        0.3899681144254511,
+        34.20000076293945
+      ],
+      "halfSize": [
+        23.656999999657273,
+        12.780500000342727,
+        7.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1172308012,
+        2,
+        [
+          [
+            3653802399,
+            5,
+            "\u91d1\u6e90\u9bae\u8089",
+            "SHOP 3A, G/F, BAILY COURT, 33 PO KONG VILLAGE ROAD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            3653803532,
+            5,
+            "HOP HING FRESH MEAT",
+            "PORTION OF SHOP 1G, G/F., BAILY COURT, NO. 33 PO KONG VILLAGE ROAD, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308870
+        ]
+      ],
+      "coordinate": [
+        1.9931402852584224,
+        0.38996667349608694,
+        30.099998474121094
+      ],
+      "halfSize": [
+        9.1875,
+        10.163499999791384,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1172308013,
+        1,
+        [
+          [
+            3653184761,
+            5,
+            "Wellcome",
+            "SHOP NO.110 & 110A, G/F, LUNG POON COURT SHOPPING CENTRE, LUNG POON COURT, DIAMOND HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308873
+        ]
+      ],
+      "coordinate": [
+        1.9931671167065328,
+        0.3899535233128101,
+        21.649999618530273
+      ],
+      "halfSize": [
+        71.3379600001499,
+        22.261935000307858,
+        3.6499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1172308014,
+        12,
+        [
+          [
+            2953803183,
+            4,
+            "HUNG FOOK TONG",
+            "PORTION OF SHOP NO. N214, SECOND FLOORTEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-02-24"
+          ],
+          [
+            2953803253,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO.N116, LEVEL 1, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2953805055,
+            4,
+            "Hana-Musubi",
+            "SHOP NO. G04A, G/F, TEMPLE MALL NORTH, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2953806836,
+            4,
+            "\u6a02\u9ad8\u9eb5\u5305",
+            "STALL G OF SHOP NOS. N212 & N212A, 2/F, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-09"
+          ],
+          [
+            2953806845,
+            4,
+            "\u83ef\u8a18\u5ddd\u6eec",
+            "STALL F OF SHOP NOS. N212 & N212A, 2/F, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-19"
+          ],
+          [
+            2953807015,
+            4,
+            "\u65b0\u9bae\u96dc\u8ca8",
+            "STALL J OF SHOP NOS. N212 & N212A, 2/F, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            4953807837,
+            4,
+            "Pie & Tart",
+            "SHOP NO. N219, SECOND FLOOR, TEMPLE MALL NORTH, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-10"
+          ],
+          [
+            3653801545,
+            5,
+            "Taste",
+            "PORTIONS OF SHOP NOS. N212 & N212A, 2/F, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-14"
+          ],
+          [
+            3653803435,
+            5,
+            "\u6d77\u9bae\u57ce",
+            "STALL I OF SHOP NOS. N212 & N212A, 2/F, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3653803444,
+            5,
+            "Butcher Craft",
+            "STALL H OF SHOP NOS. N212 & N212A, 2/F, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3253800256,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO.N116, LEVEL 1, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-04-25"
+          ],
+          [
+            3553800417,
+            8,
+            "\u71d2\u5473",
+            "STALL E OF SHOP NOS. N212 & N212A, 2/F, TEMPLE MALL NORTH, UPPER WONG TAI SIN ESTATE, 136 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308875
+        ]
+      ],
+      "coordinate": [
+        1.9930233221645615,
+        0.3899437962702106,
+        25.44999885559082
+      ],
+      "halfSize": [
+        152.3070000000298,
+        38.05250000022352,
+        12.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1172308015,
+        6,
+        [
+          [
+            2153278305,
+            1,
+            "\u6cc9\u6210\u8336\u9910\u5ef3",
+            "G/F, NO.4A(MAJOR PORTION), BLOCK 2, HSIN KUANG CENTRE, 120 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2953804830,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP 001, G/F, M2 HSIN KUANG CENTRE, 120 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2953805125,
+            4,
+            "\u5bcc\u81e8TAKEAWAY",
+            "SHOP 106, 1/F., HSIN KUANG CENTRE, NO. 120 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-11"
+          ],
+          [
+            2953805295,
+            4,
+            "\u65b0\u5149\u7f8e\u98df",
+            "SHOP NO. 260, 2/F, HSIN KUANG CENTRE, 120 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3653802627,
+            5,
+            "BRILLIANT FOOD",
+            "PORTIONS OF SHOP NO1, G/F., HSIN KUANG CENTRE, 120 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-17"
+          ],
+          [
+            3253800326,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP 001, G/F, M2 HSIN KUANG CENTRE, 120 LUNG CHEUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308878
+        ]
+      ],
+      "coordinate": [
+        1.9931027966802894,
+        0.3899428707975016,
+        22.200000762939453
+      ],
+      "halfSize": [
+        31.02449999982491,
+        25.980999999679625,
+        7.500000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1172308016,
+        9,
+        [
+          [
+            2953803615,
+            4,
+            "\u5305\u9ede\u5148\u751f",
+            "SHOP NO. LG13, LG/F, TEMPLE MALL SOUTH, LOWER WONG TAI SIN ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2953804584,
+            4,
+            "Ten Ren's Tea",
+            "SHOP G1A, G/F., TEMPLE MALL SOUTH, LOWER WONG TAI SIN (2) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2953805383,
+            4,
+            "Chateraise",
+            "SHOP NO. UG47A, UPPER G/F, TEMPLE MALL SOUTH, 103 CHING TAK STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2953805408,
+            4,
+            "CULTURE BAKERY",
+            "SHOP NOS. LG12 AND LG12A, LOWER GROUND FLOOR, MULTI-STOREY COMMERCIAL/CAR PARK ACCOMMODATION (FORMING PART OF TEMPLE MALL SOUTH), LOWER WONG TAI SIN (2) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2953805824,
+            4,
+            "Maxim's on site bakery",
+            "PORTION A OF SHOP NO. G11, G/F, TEMPLE MALL SOUTH, LOWER WONG TAI SIN (2) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2953805833,
+            4,
+            "Uo -Show",
+            "PORTION B OF SHOP NO. G11, G/F, TEMPLE MALL SOUTH, LOWER WONG TAI SIN (2) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2953806012,
+            4,
+            "Pizza Hut",
+            "SHOP NOS. G2 AND G2A , GROUND FLOOR, TEMPLE MALL SOUTH, LOWER WONG TAI SIN (2) ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2953806298,
+            4,
+            "MILKSHA",
+            "SHOP NO. LG3, LG/F., TEMPLE MALL SOUTH, 103 CHING TAK STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2953806623,
+            4,
+            "\u8c46\u4e73\u72c2\u4eba",
+            "SHOP NOS. G10A & G10B, G/F., TEMPLE MALL SOUTH, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308893
+        ]
+      ],
+      "coordinate": [
+        1.9930658682118636,
+        0.38993062419464497,
+        22.150001525878906
+      ],
+      "halfSize": [
+        113.78250000020489,
+        19.55449999962002,
+        8.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1172308017,
+        1,
+        [
+          [
+            3653800977,
+            5,
+            "MARKET PLACE",
+            "UNIT 2 (PORTION A), 2/F., LIONS RISE, NO.8 MUK LUN STREET, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308934
+        ]
+      ],
+      "coordinate": [
+        1.9931155171833517,
+        0.3899158728677424,
+        29.299999237060547
+      ],
+      "halfSize": [
+        77.91318000014871,
+        53.97458500042558,
+        17.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1172308018,
+        15,
+        [
+          [
+            2953805718,
+            4,
+            "Mama Bakery",
+            "SHOP NO. G06, G/F, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2953806182,
+            4,
+            "\u725b\u813e\u6c23\u6f6e\u5dde\u7c89\u9eb5",
+            "STALL NO. MK13, B1/F, MARKET, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2953806386,
+            4,
+            "Eatsy to Go",
+            "SHOP NO. G03, G/F, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT (PHASE 1), WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2953806854,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP 115, 1/F, KAI CHUEN SHOPPING CENTRE, 235 CHOI HUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2953806924,
+            4,
+            "MUZI BAKERY",
+            "SHOP NO. G15, G/F, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2953807273,
+            4,
+            "WING LOK KITCHEN",
+            "STALL NO. MK11-12, B1/F, MARKET, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2953807389,
+            4,
+            "\u5168\u65e5\u65e9\u9910",
+            "SHOP NO. 114, 1/F, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT (PHASE 2), WONG TAI SIN, KOWLOON",
+            null,
+            "2027-01-05"
+          ],
+          [
+            3653803082,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL NOS. MK33 & MK34, B1/F, MARKET, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3653803143,
+            5,
+            "\u6f01\u5e02",
+            "STALL NOS. MK 27 & 28, B1/F, MARKET, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT, 235 CHOI HUNG ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3653803301,
+            5,
+            "Brilliant Food",
+            "SHOP NO.G22, G/F, KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3653803347,
+            5,
+            "Wellcome",
+            "SHOP NOS B11 (PORTIONS), B1/F., KAI CHUEN SHOPPING CENTRE, KAI CHUEN COURT (PHASE II) , DIAMOND HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-26"
+          ],
+          [
+            3653803541,
+            5,
+            "\u9818\u9bae X \u725b\u820d",
+            "STALL W-KC-MK16-17, KAI CHUEN MARKET, B1/F., KAI CHUEN SHOPPING CENTRE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-22"
+          ],
+          [
+            3653803550,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL W-KC-MK18-19, KAI CHUEN MARKET, B1/F., KAI CHUEN SHOPPING CENTRE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-22"
+          ],
+          [
+            3653803569,
+            5,
+            "\u9b5a\u6bdb\u8766\u4ed4",
+            "STALL W-KC-MK35, KAI CHUEN MARKET, B1/F., KAI CHUEN SHOPPING CENTRE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-22"
+          ],
+          [
+            3653803578,
+            5,
+            "S-MART FOOD",
+            "STALL W-KC-MK01-05, KAI CHUEN MARKET, B1/F., KAI CHUEN SHOPPING CENTRE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308976
+        ]
+      ],
+      "coordinate": [
+        1.9931610599845382,
+        0.3899033115570153,
+        19.75
+      ],
+      "halfSize": [
+        50.737519999966025,
+        45.91753000020981,
+        11.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1172308019,
+        1,
+        [
+          [
+            2953806863,
+            4,
+            "\u8f1d\u8f1d\u7f8e\u98df",
+            "SHOP NO. 111, 1/F, KAI CHUEN SHOPPING CENTRE, PHASE 2, KAI CHUEN COURT, DIAMOND HILL, KOWLOON",
+            null,
+            "2027-03-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1172308994
+        ]
+      ],
+      "coordinate": [
+        1.9931761383159856,
+        0.38989438087033157,
+        12.100000381469727
+      ],
+      "halfSize": [
+        81.13776000030339,
+        75.77642500028014,
+        2.5
+      ]
+    }
+  ]
+}

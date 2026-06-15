@@ -1,0 +1,782 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1652555776,
+        1101763681,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9955116716209156,
+        0.3911645598227336,
+        80.55000305175781
+      ],
+      "halfSize": [
+        1.4989999998360872,
+        1.486999999731779,
+        1.5499992370605469
+      ]
+    },
+    {
+      "attributes": [
+        1652555777,
+        1106136906,
+        null,
+        "9 PAK TAM AU",
+        []
+      ],
+      "coordinate": [
+        1.995483128468395,
+        0.3913029613716352,
+        137.14999389648438
+      ],
+      "halfSize": [
+        5.718485000077635,
+        6.931499999947846,
+        3.4500045776367188
+      ]
+    },
+    {
+      "attributes": [
+        1652555778,
+        1106136908,
+        null,
+        null,
+        [
+          [
+            "DD255 45",
+            "Old Schedule Lot",
+            "C1799356",
+            [
+              [
+                "TP196064",
+                "1979-06-28",
+                "-",
+                "50000.0"
+              ],
+              [
+                "TP196082",
+                "1979-07-03",
+                "-",
+                "75000.0"
+              ]
+            ]
+          ],
+          [
+            "DD255 46",
+            "Old Schedule Lot",
+            "C6192533",
+            [
+              [
+                "TP143949",
+                "1961-04-26",
+                "-",
+                null
+              ],
+              [
+                "TP413222",
+                "1992-09-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "468996.0"
+              ],
+              [
+                "TP411840",
+                "1992-11-12",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHAN KOON WAH",
+                "468996.0"
+              ],
+              [
+                "TP524565",
+                "1996-10-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "08070201110256",
+                "2008-02-28",
+                "ASSIGNMENT",
+                "617100.0"
+              ],
+              [
+                "08070201110243",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "1234200.0"
+              ],
+              [
+                "08070201110233",
+                "2008-05-15",
+                "ASSIGNMENT",
+                "617100.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954847731928416,
+        0.3913030152021702,
+        137.39999389648438
+      ],
+      "halfSize": [
+        4.358500000089407,
+        4.168000000528991,
+        1.7999954223632812
+      ]
+    },
+    {
+      "attributes": [
+        1652555779,
+        1106136911,
+        null,
+        "12A PAK TAM AU",
+        [
+          [
+            "DD255 372",
+            "New Grant Lot",
+            "C1801510",
+            [
+              [
+                "TP302162",
+                "1989-07-04",
+                "-",
+                null
+              ],
+              [
+                "TP324105",
+                "1990-06-01",
+                "CONDITIONAL AGREEMENT FOR SUB-SALE & PURCHASE",
+                "1600000.0"
+              ],
+              [
+                "TP359402",
+                "1990-07-19",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP327670",
+                "1990-07-26",
+                "-",
+                "1600000.0"
+              ],
+              [
+                "TP327671",
+                "1990-07-26",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "TP359403",
+                "1991-02-05",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TP391800",
+                "1992-05-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3130000.0"
+              ],
+              [
+                "TP396002",
+                "1992-06-29",
+                "-",
+                "3130000.0"
+              ],
+              [
+                "TP396003",
+                "1992-06-29",
+                "LEGAL CHARGE",
+                "2500000.0"
+              ],
+              [
+                "TP396001",
+                "1992-06-29",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TP462084",
+                "1995-03-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5000000.0"
+              ],
+              [
+                "TP462661",
+                "1995-03-31",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "TP462659",
+                "1995-03-31",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TP462660",
+                "1995-03-31",
+                "-",
+                "5000000.0"
+              ],
+              [
+                "TP497005",
+                "1996-07-12",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "TP497004",
+                "1996-07-12",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TP669712",
+                "2001-07-24",
+                "RELEASE",
+                null
+              ],
+              [
+                "TP669713",
+                "2001-07-24",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TP728118",
+                "2004-08-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3100000.0"
+              ],
+              [
+                "TP729949",
+                "2004-08-31",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TP729947",
+                "2004-08-31",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "TP729948",
+                "2004-08-31",
+                "ASSIGNMENT",
+                "3100000.0"
+              ],
+              [
+                "09011202440085",
+                "2008-12-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16081002140074",
+                "2016-07-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "16091302260157",
+                "2016-08-31",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16091302260140",
+                "2016-08-31",
+                "ASSIGNMENT",
+                "12000000.0"
+              ],
+              [
+                "19011500510015",
+                "2018-12-11",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954788190185677,
+        0.3913023654349158,
+        136.54998779296875
+      ],
+      "halfSize": [
+        5.580000000074506,
+        6.2105000000447035,
+        4.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1652555780,
+        1106136928,
+        null,
+        "13 PAK TAM AU",
+        [
+          [
+            "DD255 374",
+            "New Grant Lot",
+            "C4872494",
+            [
+              [
+                "11122201290036",
+                "2011-12-20",
+                "LEGAL CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "12121800620045",
+                "2012-12-17",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "14103100540020",
+                "2014-10-23",
+                "LEASE",
+                "THE RENT IS $23,000.00 PER MONTH"
+              ],
+              [
+                "20112601450073",
+                "2020-11-19",
+                "LEASE",
+                "THE RENT IS $23,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995480632971913,
+        0.3913010253011373,
+        136.9499969482422
+      ],
+      "halfSize": [
+        5.264999999664724,
+        6.221499999985099,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1652555781,
+        1106136930,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9954797165473364,
+        0.39130119677211317,
+        133.14999389648438
+      ],
+      "halfSize": [
+        2.3535000002011657,
+        2.537499999627471,
+        1.3499984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1652555782,
+        1106136931,
+        null,
+        "11 PAK TAM AU",
+        [
+          [
+            "DD255 48",
+            "Old Schedule Lot",
+            "C1799378",
+            [
+              [
+                "TP144766",
+                "1961-07-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP265434",
+                "1986-05-23",
+                "POWER OF ATTORNEY BY WONG LIN",
+                null
+              ],
+              [
+                "TP263536",
+                "1986-07-25",
+                "DECLARATION OF HO KEI ALIAS HO KI",
+                null
+              ],
+              [
+                "TP263537",
+                "1986-07-25",
+                "DECLARATION BY HO LAU",
+                null
+              ],
+              [
+                "TP263538",
+                "1986-09-11",
+                "DECLARATION BY HO AH YAM ALSO KNOWN AS HO YIM",
+                null
+              ],
+              [
+                "TP263539",
+                "1986-09-11",
+                "DECLARATION BY HO LAU",
+                null
+              ],
+              [
+                "TP265435",
+                "1987-05-15",
+                "ASSIGNMENT",
+                "10000.0"
+              ],
+              [
+                "12051502560010",
+                "2012-04-17",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD255 49 RP",
+            "Old Schedule Lot",
+            "C6192547",
+            [
+              [
+                "TP226339",
+                "1985-03-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995484565376389,
+        0.39130077268618485,
+        136.35000610351562
+      ],
+      "halfSize": [
+        4.548349999822676,
+        5.131234999746084,
+        1.8499984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1652555783,
+        1106136940,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9954816093821286,
+        0.39129975228781383,
+        134.60000610351562
+      ],
+      "halfSize": [
+        2.8924999996088445,
+        2.5515000000596046,
+        1.5999984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1652555784,
+        1106136942,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9954819535887758,
+        0.39129935165813284,
+        134.35000610351562
+      ],
+      "halfSize": [
+        3.121999999973923,
+        2.7034999998286366,
+        1.25
+      ]
+    },
+    {
+      "attributes": [
+        1652555785,
+        1106136947,
+        null,
+        null,
+        [
+          [
+            "DD255 105",
+            "Old Schedule Lot",
+            "C6660181",
+            [
+              [
+                "TP144565",
+                "1961-07-04",
+                "-",
+                null
+              ],
+              [
+                "TP199778",
+                "1980-07-25",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "TP203317",
+                "1981-03-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP208634",
+                "1982-05-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP226339",
+                "1985-03-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP281110",
+                "1988-04-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411095",
+                "1992-07-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411096",
+                "1992-07-13",
+                "-",
+                null
+              ],
+              [
+                "TP403449",
+                "1992-09-14",
+                "AGREEMENT FOR SALE AND PURCHASE BY HO KAM KUEN RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP403450",
+                "1992-09-14",
+                "AGREEMENT FOR SALE AND PURCHASE BY HO KAM MING RE 1/4 SHARE",
+                "1820808.0"
+              ],
+              [
+                "TP403451",
+                "1992-09-14",
+                "AGREEMENT FOR SALE AND PURCHASE BY HO LAU RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP450034",
+                "1994-07-29",
+                "SUPPLEMENTAL AGREEMENT BY HO LAU RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP482792",
+                "1996-02-16",
+                "SUPPLEMENTAL AGREEMENT BY HO KAM KUEN RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP487539",
+                "1996-03-29",
+                "SUPPLEMENTAL AGREEMENT BY HO KAM MING RE 1/4 SHARE",
+                "1820808.0"
+              ],
+              [
+                "TP501743",
+                "1996-09-19",
+                "IRREVOCABLE POWER OF ATTORNEY BY HO KAM MING RE 1/4 SHARE",
+                null
+              ],
+              [
+                "TP501742",
+                "1996-09-19",
+                "SUPPLEMENTAL AGREEMENT BY HO KAM MING RE 1/4 SHARE",
+                "1820808.0"
+              ],
+              [
+                "TP507312",
+                "1996-11-15",
+                "SUPPLEMENTAL AGREEMENT BY HO LAU RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP513416",
+                "1997-01-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP516200",
+                "1997-01-28",
+                "SUPPLEMENTAL AGREEMENT BY HO KAM MING RE 1/4 SHARE",
+                "1820808.0"
+              ],
+              [
+                "TP516201",
+                "1997-01-28",
+                "SECOND SUPPLEMENTAL AGREEMENT BY HO KAM KUEN RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP516202",
+                "1997-01-28",
+                "THIRD SUPPLEMENTAL AGREEMENT BY HO LAU RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP527262",
+                "1997-05-12",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP569906",
+                "1998-04-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP581330",
+                "1998-08-21",
+                "SUPPLEMENTAL AGREEMENT RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP581331",
+                "1998-08-21",
+                "FOURTH SUPPLEMENTAL AGREEMENT BY HO LAU RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP582730",
+                "1998-09-23",
+                "THIRD SUPPLEMENTAL AGREEMENT BY HO KAM KUEN RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP653539",
+                "1998-09-28",
+                "CONDITIONAL AGREEMENT WITH PLAN",
+                "38000.0"
+              ],
+              [
+                "TP648467",
+                "2000-11-10",
+                "FIFTH SUPPLEMENTAL AGREEMENT BY HO LAU RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "06080900360058",
+                "2006-07-15",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "08070201110221",
+                "2007-04-27",
+                "RE-REGISTRATION OF AGREEMENT FOR SALE AND PURCHASE IN CHINESE MEMORIAL NO. 07061400930017",
+                "603033.75"
+              ],
+              [
+                "07061400930017",
+                "2007-04-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "603033.75"
+              ],
+              [
+                "08032001050232",
+                "2008-01-16",
+                "ASSIGNMENT",
+                "1206067.5"
+              ],
+              [
+                "08031201220114",
+                "2008-01-28",
+                "ASSIGNMENT",
+                "2412135.0"
+              ],
+              [
+                "08031201220105",
+                "2008-01-28",
+                "ASSIGNMENT",
+                "2412135.0"
+              ],
+              [
+                "08031201220070",
+                "2008-01-28",
+                "ASSIGNMENT",
+                "1206067.5"
+              ],
+              [
+                "08031201220061",
+                "2008-01-28",
+                "ASSIGNMENT",
+                "603033.75"
+              ],
+              [
+                "08031201220091",
+                "2008-01-28",
+                "ASSIGNMENT",
+                "1206067.5"
+              ],
+              [
+                "08031201220089",
+                "2008-01-28",
+                "ASSIGNMENT",
+                "603033.75"
+              ],
+              [
+                "08022601080214",
+                "2008-01-29",
+                "LEGAL CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "20082601370064",
+                "2020-08-05",
+                "DEBENTURE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995482674471006,
+        0.3912985869614032,
+        135.1999969482422
+      ],
+      "halfSize": [
+        3.9890000000596046,
+        3.4579549999907613,
+        1.5
+      ]
+    }
+  ]
+}

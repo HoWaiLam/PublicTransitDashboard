@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        929038336,
+        1,
+        [
+          [
+            2996801205,
+            4,
+            "DAILY FRESH FOOD (HK) LTD",
+            "PORTION D, DD 95, LOT 1049 & STT 1491, HO SHEUNG HEUNG, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          929038657
+        ]
+      ],
+      "coordinate": [
+        1.9915761267516,
+        0.3928908290288112,
+        10.699999809265137
+      ],
+      "halfSize": [
+        17.162000000011176,
+        10.411999999545515,
+        3.799999952316284
+      ]
+    }
+  ]
+}

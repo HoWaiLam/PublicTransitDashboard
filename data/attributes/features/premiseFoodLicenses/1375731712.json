@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1375731712,
+        2,
+        [
+          [
+            2998801360,
+            4,
+            "7 - ELEVEN FOOD STORE",
+            "PORTION B OF SHOP C2, G/F, MARINA COVE SHOPPING CENTRE, STAGE III , MARINA COVE , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3298800095,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP C2, G/F, MARINA COVE SHOPPING CENTRE, STAGE III, MARINA COVE, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1375731742
+        ]
+      ],
+      "coordinate": [
+        1.9940828187791944,
+        0.39018902857892807,
+        5.5
+      ],
+      "halfSize": [
+        40.80499999970198,
+        31.70700000040233,
+        1.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1375731713,
+        1,
+        [
+          [
+            2998803889,
+            4,
+            "\u51a0\u76ca\u83ef\u8a18",
+            "DD 210, LOT 339-340 & 383-389, LUK MEI CHUEN, HO CHUNG, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1375732646
+        ]
+      ],
+      "coordinate": [
+        1.9940462895156303,
+        0.3902129103289423,
+        14.699999809265137
+      ],
+      "halfSize": [
+        10.433999999891967,
+        7.771999999880791,
+        2.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1375731714,
+        1,
+        [
+          [
+            3698801506,
+            5,
+            "Market Place",
+            "SHOP A1-A10 (PORTIONS), G/F , MARINA COVE SHOPPING CENTRE, MARINA COVE, 380 HIRAM'S HIGHWAY, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1375732969
+        ]
+      ],
+      "coordinate": [
+        1.9940704500568731,
+        0.39017718906040455,
+        8.649999618530273
+      ],
+      "halfSize": [
+        23.135999999940395,
+        26.21100000012666,
+        2.249999761581421
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6091 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1163919360,
+        6,
+        [
+          [
+            2211809258,
+            0,
+            "TWELVE FLAVORS(NP)",
+            "SHOP NO. G20-21, G/F., WORFU, 21-53 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2211809823,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP G28, GROUND FLOOR, WORFU, 21-53 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2211811264,
+            0,
+            "\u516b\u5e61\u5e73\u77f3\u71d2\u725b\u6252\u5c0a\u9580\u5e97",
+            "SHOP NO. B57-B58, BASEMENT, WORFU, 21-53 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-14"
+          ],
+          [
+            3111804075,
+            1,
+            "Starbucks Coffee",
+            "SHOP GK01, G/F, WORFU, 21-53 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-23"
+          ],
+          [
+            3111804224,
+            1,
+            "THE COFFEE ACADEMICS",
+            "NO. G31, G/F, WORFU, 21-53 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-28"
+          ],
+          [
+            3111804598,
+            1,
+            "GUI YUAN SIU WOK MIXIAN",
+            "SHOP B15-16, BASEMENT, WORFU, 21-53 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919360
+        ]
+      ],
+      "coordinate": [
+        1.9931059844274321,
+        0.38907616058899525,
+        7.700000286102295
+      ],
+      "halfSize": [
+        148.9930000002496,
+        74.98500000033528,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1163919361,
+        2,
+        [
+          [
+            2211811626,
+            0,
+            "\u8fb2\u8015\u8a18 - \u6e58\u83dc\u9928",
+            "SHOP 6-10, G/F, KA WAI BUILDING, 146-166 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-04"
+          ],
+          [
+            3111803513,
+            1,
+            "\u6cf0\u597d\u98df",
+            "FLAT 1B, G/F., KA WAI BUILDING, NOS. 146-166 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919363
+        ]
+      ],
+      "coordinate": [
+        1.9931856161909034,
+        0.389074666596214,
+        6.25
+      ],
+      "halfSize": [
+        27.406640000175685,
+        14.143845000304282,
+        2.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1163919362,
+        1,
+        [
+          [
+            2211198844,
+            0,
+            "Ibis North Point",
+            "2/F, IBIS NORTH POINT, 136-144 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919364
+        ]
+      ],
+      "coordinate": [
+        1.9931786329414096,
+        0.38907338213445053,
+        9.850000381469727
+      ],
+      "halfSize": [
+        14.0562749998644,
+        11.645999999716878,
+        5.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919363,
+        1,
+        [
+          [
+            2211121208,
+            0,
+            "\u9999\u6e2f\u71d2\u5473\u9910\u5ef3",
+            "SHOP 1, 2 & 3, G/F, WORKINGBERG COMM'L BLDG, 41-47 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919366
+        ]
+      ],
+      "coordinate": [
+        1.9931871301929218,
+        0.38907154532703986,
+        11.649999618530273
+      ],
+      "halfSize": [
+        11.414499999955297,
+        11.218000000342727,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1163919364,
+        1,
+        [
+          [
+            3811811728,
+            0,
+            "CHIUCHOW DELICACIES",
+            "PORTION A AND PORTION B OF SHOP 4, G/F., GAIN YU BUILDING, 96-110 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919367
+        ]
+      ],
+      "coordinate": [
+        1.993123851377762,
+        0.3890714729634929,
+        9.199999809265137
+      ],
+      "halfSize": [
+        17.850000000093132,
+        11.490500000305474,
+        5.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919365,
+        1,
+        [
+          [
+            2211222608,
+            0,
+            "\u5fb7\u660c\u9b5a\u86cb\u7c89",
+            "SHOP 1, G/F, ODERON BLDG, 28 SHU KUK STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919368
+        ]
+      ],
+      "coordinate": [
+        1.9931702523943033,
+        0.389069804089366,
+        11.450000762939453
+      ],
+      "halfSize": [
+        13.552579999901354,
+        21.401559999212623,
+        7.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1163919366,
+        2,
+        [
+          [
+            2211803083,
+            0,
+            "Sun Kong Restaurant",
+            "2/F (PORTION) & 3/F., MARBLE SHOPPING CENTRE, 33 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2211806161,
+            0,
+            "BIG BOIL'S CLUB",
+            "SHOP 116-125, 1/F., MARBLE GARDEN, 33 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919369
+        ]
+      ],
+      "coordinate": [
+        1.9931805956780897,
+        0.38907022271154623,
+        12.899999618530273
+      ],
+      "halfSize": [
+        31.225000000093132,
+        15.502000000327826,
+        8.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1163919367,
+        1,
+        [
+          [
+            2211811334,
+            0,
+            "Artistic Bistro & Cafe",
+            "1/F (PORTION A AND PORTION B), THE SOUTH CHINA HOTEL, 67-75 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919370
+        ]
+      ],
+      "coordinate": [
+        1.9931353112994976,
+        0.3890707956241888,
+        12.049999237060547
+      ],
+      "halfSize": [
+        18.598500000312924,
+        11.099500000476837,
+        7.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1163919368,
+        1,
+        [
+          [
+            2211230047,
+            0,
+            "GOOD LUCK DA PAI DONG",
+            "SHOP B2, G/F, THE WHARF, 33 NORTH POINT ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919376
+        ]
+      ],
+      "coordinate": [
+        1.9931005478004575,
+        0.389064680794762,
+        9.149999618530273
+      ],
+      "halfSize": [
+        11.57799999974668,
+        17.346959999762475,
+        4.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1163919369,
+        4,
+        [
+          [
+            2211805195,
+            0,
+            "\u6d77\u6a02\u9903\u5b50\u5e97",
+            "SHOP A, G/F., TUNG PO BUILDING, 483-497 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2211808103,
+            0,
+            "NAGE",
+            "SHOP C & D, G/F., TUNG PO BUILDING, NOS. 483-497 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2211809638,
+            0,
+            "Viet House",
+            "SHOP B, G/F., TUNG PO BUILDING, NOS. 483-497 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2211810386,
+            0,
+            "Bangkok Thai Restaurant",
+            "SHOP E-F, G/F, TUNG PO BUILDING, 483-497 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919378
+        ]
+      ],
+      "coordinate": [
+        1.993198734463223,
+        0.38906411729970714,
+        11.75
+      ],
+      "halfSize": [
+        24.43999999994412,
+        14.799999999813735,
+        7.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1163919370,
+        1,
+        [
+          [
+            3111804899,
+            1,
+            "\u6f6e\u6cf0\u9928",
+            "SHOP NO. 8, G/F, FUNG CHEONG BUILDING, NOS. 38-48 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919380
+        ]
+      ],
+      "coordinate": [
+        1.9930966062372215,
+        0.38906427765299834,
+        5.899999618530273
+      ],
+      "halfSize": [
+        14.588999999687076,
+        12.496500000357628,
+        1.7999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1163919371,
+        1,
+        [
+          [
+            2211808006,
+            0,
+            "Koji Charcoal Grill",
+            "SHOP NO. 6, G/F., CHINA UNITED CENTRE, 28 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919382
+        ]
+      ],
+      "coordinate": [
+        1.993176296508165,
+        0.38906314980498896,
+        10.949999809265137
+      ],
+      "halfSize": [
+        34.27100000018254,
+        16.228500000201166,
+        6.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919372,
+        2,
+        [
+          [
+            2211045957,
+            0,
+            "KOREAN INN RESTAURAT",
+            "SHOP NO. 1-6, 11, 13-15, 1/F., 20-36 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211153076,
+            0,
+            "\u62c9\u9eb5\u5c45\u9152\u5c4b\u795e\u8c5a",
+            "SHOP 7-9, 1/F, 20-36 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919384
+        ]
+      ],
+      "coordinate": [
+        1.9930916206251033,
+        0.38906191694317727,
+        6.549999713897705
+      ],
+      "halfSize": [
+        19.290000000037253,
+        15.182289999909699,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1163919373,
+        1,
+        [
+          [
+            3811811719,
+            0,
+            "\u6587\u805a\u9910\u5ef3",
+            "SHOP NO. 5-8, G/F, THE HARBOURSIDE, 18 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919389
+        ]
+      ],
+      "coordinate": [
+        1.9930867101852334,
+        0.3890597613299385,
+        9.300000190734863
+      ],
+      "halfSize": [
+        11.662500000093132,
+        11.073499999940395,
+        4.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919374,
+        10,
+        [
+          [
+            2211144263,
+            0,
+            "Oedo",
+            "SHOP B10, BASEMENT, ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-17"
+          ],
+          [
+            2211144333,
+            0,
+            "\u806f\u76db\u5bb4",
+            "SHOP 202, 2/F, ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-19"
+          ],
+          [
+            2211801999,
+            0,
+            "Queen's Cafe",
+            "SHOP 022, G/F., ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2211808088,
+            0,
+            "Fairwood Fast Food",
+            "SHOP 201, 2/F., ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2211808194,
+            0,
+            "alfafa",
+            "SHOPS 123-124, 1/F., ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2211809878,
+            0,
+            "SANDAIME",
+            "SHOP 011-013, G/F., ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-02"
+          ],
+          [
+            2211810793,
+            0,
+            "JOLLY CONGEE & NOODLE",
+            "SHOP 131-132, 1/F, ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3111801395,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP 101, 1/F., ISLAND PLACE, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3111803425,
+            1,
+            "Starbucks Coffee",
+            "SHOP 14 & 16, G/F., ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            3911804903,
+            1,
+            "Luckin Coffee",
+            "SHOP 3, G/F., ISLAND PLACE, 500 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919391
+        ]
+      ],
+      "coordinate": [
+        1.9932071866088807,
+        0.38905275135652656,
+        14.149999618530273
+      ],
+      "halfSize": [
+        55.12800000002608,
+        45.466499999165535,
+        9.75
+      ]
+    },
+    {
+      "attributes": [
+        1163919375,
+        1,
+        [
+          [
+            2211811079,
+            0,
+            "Jeon Po Meat Shop",
+            "SHOP B, C AND D, G/F, AND THE FLAT ROOF ON 1/F., SEAVIEW BUILDING, NO. 6-8 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919392
+        ]
+      ],
+      "coordinate": [
+        1.9930831685094763,
+        0.3890580945552793,
+        6.349999904632568
+      ],
+      "halfSize": [
+        11.771500000264496,
+        11.15599999949336,
+        1.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1163919376,
+        2,
+        [
+          [
+            2211127774,
+            0,
+            "ZI NEN YA",
+            "SHOP 36-38, G/F, BLOCK 9, CITY GARDEN SHOPPING CENTRE, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-26"
+          ],
+          [
+            2211217125,
+            0,
+            "\u6cf0\u91d1\u9999\u5c0f\u5eda",
+            "SHOP NO. 94, 1/F, BLOCK 14, CITY GARDEN SHOPPING CENTRE, 233 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919394
+        ]
+      ],
+      "coordinate": [
+        1.993050200229841,
+        0.38905144420805404,
+        8.550000190734863
+      ],
+      "halfSize": [
+        45.77099999971688,
+        48.01850000023842,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919377,
+        7,
+        [
+          [
+            2211081904,
+            0,
+            "LEI GARDEN RESTAURANT",
+            "SHOP 25-28, 33-36, 39-44, 1/F, SHOPPING ARCADE BLOCK 9-10, CITY GARDEN, ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211100416,
+            0,
+            "Cafe de Coral",
+            "FLAT/ROOM 1 & 87, 1/F, MAXI MALL, THE PODIUM OF BLOCKS 1, 2 AND 3, CITY GARDEN, NO. 233 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2211805511,
+            0,
+            "No Record",
+            "UNIT NO. 54-55 ON THE PORTION OF THE GROUND FLOOR OF THE PODIUM OF BLOCKS 1, 2 AND 3 CITY GARDEN, NO. 233 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2211805724,
+            0,
+            "\u5ddd\u54c1\u96f2\u5357\u7c73\u7dda(\u5317\u89d2)",
+            "SHOP NO. 53, G/F., CITY GARDEN, 233 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-23"
+          ],
+          [
+            2211807669,
+            0,
+            "\u9326\u6c5f\u8ed2\u98df\u5e9c",
+            "SHOP NO. 14, 15, 16 & 18, G/F., BLOCK 8, CITY GARDEN, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2211808556,
+            0,
+            "Tai Yuan Lou",
+            "PORTION A & C OF UNIT NOS. 24-49 ON THE PORTION OF THE GROUND FLOOR OF THE PODIUM OF BLOCKS 1, 2 & 3, CITY GARDEN, NO. 233 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3111802644,
+            1,
+            "\u6fb3\u9580\u6881\u6176\u8a18\u5168\u86cb\u9eb5\u98df",
+            "SHOP NO. 4, G/F., BLOCK 1-3, MAXI MALL, CITY GARDEN, 233 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919395
+        ]
+      ],
+      "coordinate": [
+        1.9930741849940419,
+        0.389050142147709,
+        9.800000190734863
+      ],
+      "halfSize": [
+        52.294999999925494,
+        54.37650000024587,
+        5.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919378,
+        1,
+        [
+          [
+            2211810836,
+            0,
+            "\u798f\u8a18\u79c1\u623f\u83dc",
+            "PORTION OF G/F. AND 1/F., CIRCLE COURT, 3-5A JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919396
+        ]
+      ],
+      "coordinate": [
+        1.9930864376272797,
+        0.3890565380820559,
+        8.449999809265137
+      ],
+      "halfSize": [
+        11.861000000033528,
+        9.07949999999255,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919379,
+        2,
+        [
+          [
+            2211160810,
+            0,
+            "A MEI CANTING",
+            "UNIT NO. 14, G/F, WELLBORNE COMML CENTRE, 8 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2211810182,
+            0,
+            "HIRO OMAKASE",
+            "SHOP 13, G/F., WELLBORNE COMMERCIAL CENTRE, 8 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919402
+        ]
+      ],
+      "coordinate": [
+        1.9930888154908772,
+        0.3890528191578659,
+        10.649999618530273
+      ],
+      "halfSize": [
+        24.705500000156462,
+        16.576000000350177,
+        6.25
+      ]
+    },
+    {
+      "attributes": [
+        1163919380,
+        1,
+        [
+          [
+            3111802495,
+            1,
+            "First Caf\u00e9",
+            "SHOP 1, 1/F., 88 CHUN YEUNG STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919403
+        ]
+      ],
+      "coordinate": [
+        1.9931227001952663,
+        0.3890522926418068,
+        11.649999618530273
+      ],
+      "halfSize": [
+        23.94400000013411,
+        14.370000000111759,
+        7.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919381,
+        3,
+        [
+          [
+            2211087212,
+            0,
+            "McDonald's",
+            "SHOP 5, 1 B/M PORTION & 2 B/M PORTION, ROCA CENTRE, 466 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211810298,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP 7, G/F, ROCA CENTRE, 460-470 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-28"
+          ],
+          [
+            3111803948,
+            1,
+            "\u5bcc\u6021\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP 2B, G/F., ROCA CENTRE, NO. 460-470 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919405
+        ]
+      ],
+      "coordinate": [
+        1.993178257662379,
+        0.38905054081609053,
+        12.0
+      ],
+      "halfSize": [
+        30.810535000171512,
+        28.004535000771284,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919382,
+        2,
+        [
+          [
+            2211181578,
+            0,
+            "\u7fe0\u5712\u751c\u54c1\u5c08\u5bb6",
+            "SHOP NO. 3, G/F, HUNG YAT BUILDING, 11-13 NORTH POINT ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2211234313,
+            0,
+            "\u592a\u5e73\u71d2\u5473",
+            "SHOP 4, G/F, 11-13 NORTH POINT ROAD, HONG KONG",
+            null,
+            "2026-04-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919408
+        ]
+      ],
+      "coordinate": [
+        1.993103693723305,
+        0.3890510334646465,
+        8.449999809265137
+      ],
+      "halfSize": [
+        10.045000000391155,
+        9.859000000171363,
+        3.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1163919383,
+        2,
+        [
+          [
+            2211120463,
+            0,
+            "Vegetarian Kitchen",
+            "SHOP NO. 3, G/F, EVERWIN BUILDING, 406-408 KING'S ROAD, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2211811440,
+            0,
+            "\u5927\u5e2b\u5085\u7ca5\u54c1",
+            "SHOP NO. 1, G/F, 406-408 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919419
+        ]
+      ],
+      "coordinate": [
+        1.9931473490434115,
+        0.38904337014881396,
+        9.399999618530273
+      ],
+      "halfSize": [
+        11.950999999884516,
+        23.190999999642372,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919384,
+        2,
+        [
+          [
+            2211123532,
+            0,
+            "\u83ef\u9e97\u5ddd\u6e58\u9928",
+            "SHOP NO. 5B & 6, G/F, MING YUEN CENTRE, 400-404 KING'S ROAD, HONG KONG",
+            null,
+            "2026-07-16"
+          ],
+          [
+            2211806480,
+            0,
+            "Chicken Chiko",
+            "SHOP NO. 4, G/F., MING YUEN CENTRE, 2-6 MING YUEN WESTERN STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919421
+        ]
+      ],
+      "coordinate": [
+        1.99314267914406,
+        0.38904242857638643,
+        8.300000190734863
+      ],
+      "halfSize": [
+        12.288000000175089,
+        22.74100000038743,
+        3.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1163919385,
+        2,
+        [
+          [
+            2211803621,
+            0,
+            "\u706b\u934b\u672c\u8272",
+            "SHOP 3 & 5, G/F., TANNER GARDEN, 18 TANNER ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2211810030,
+            0,
+            "TieHuaCun",
+            "SHOP 6, G/F, TANNER GARDEN, 18 TANNER ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919422
+        ]
+      ],
+      "coordinate": [
+        1.9932023624885058,
+        0.38903544766686315,
+        21.400001525878906
+      ],
+      "halfSize": [
+        62.92200000025332,
+        61.26699999999255,
+        13.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919386,
+        1,
+        [
+          [
+            2211100300,
+            0,
+            "ALLEY PEOPLE",
+            "2, LG/F, ECHO TOWER, 61 FORT STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919425
+        ]
+      ],
+      "coordinate": [
+        1.9931405104968059,
+        0.3890386639529782,
+        9.800000190734863
+      ],
+      "halfSize": [
+        8.486500000115484,
+        13.156999999657273,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919387,
+        2,
+        [
+          [
+            2211030508,
+            0,
+            "VERY GOOD JOYFUL BANQUET",
+            "1/F, M/F & G/F (PTN), 294-296 KING'S ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211235273,
+            0,
+            "CHILLIE GARDEN RESTAURANT",
+            "SHOP C, G/F, CONTINENTAL MANSION, 294 KING'S ROAD, HONG KONG",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919432
+        ]
+      ],
+      "coordinate": [
+        1.9930884804647844,
+        0.3890314129073383,
+        11.350000381469727
+      ],
+      "halfSize": [
+        23.76450000004843,
+        24.31499999947846,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919388,
+        7,
+        [
+          [
+            2211805788,
+            0,
+            "SEOUL NOODLE SHOP",
+            "SHOP E, GROUND FLOOR, WAH HOI MANSION, 254-280 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2211806709,
+            0,
+            "Yu Mai",
+            "SHOP K, G/F., WAH HOI MANSION, NO. 254-280 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2211808185,
+            0,
+            "MALACCA CUISINE",
+            "SHOP F, G/F., WAH HOI MANSION, 254-280 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2211808389,
+            0,
+            "table",
+            "MAJOR PORTION OF SHOP C AND SHOP D, G/F., WAH HOI MANSION, NO. 254-280 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2211809179,
+            0,
+            "WINS CAFE",
+            "1/F., WAH HOI BUILDING, 276-280 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2211810207,
+            0,
+            "\u5927\u723a\u71d2\u9d5d",
+            "SHOP B, G/F, WAH HOI MANSION, 254-280 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-30"
+          ],
+          [
+            3111804011,
+            1,
+            "(no record found)",
+            "SHOP NO. G, G/F., WAH HOI MANSION, NOS. 254-280 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919439
+        ]
+      ],
+      "coordinate": [
+        1.9930606781800586,
+        0.3890237987883371,
+        9.050000190734863
+      ],
+      "halfSize": [
+        31.94799999985844,
+        37.18500000052154,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919389,
+        1,
+        [
+          [
+            3111804093,
+            1,
+            "Cactus",
+            "SHOP A, G/F., GOLDEN CASTLE MANSION, NOS. 5-13 FORTRESS HILL ROAD, FORTRESS HILL, HONG KONG",
+            null,
+            "2026-11-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919443
+        ]
+      ],
+      "coordinate": [
+        1.9930816747605253,
+        0.38901768803740067,
+        17.350000381469727
+      ],
+      "halfSize": [
+        18.955000000074506,
+        34.446999999694526,
+        9.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919390,
+        1,
+        [
+          [
+            2211802549,
+            0,
+            "\u8c50\u6e90\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP A, G/F., RAYMOND COURT, 14-16 KIN WAH STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919447
+        ]
+      ],
+      "coordinate": [
+        1.993110654689032,
+        0.38901830591183933,
+        20.400001525878906
+      ],
+      "halfSize": [
+        10.877000000327826,
+        7.622499999590218,
+        1.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1163919391,
+        1,
+        [
+          [
+            2211803931,
+            0,
+            "McDonald's Restaurant",
+            "SHOP B2 & B3 OF THE LARGE SHOP ON THE GROUND FLOOR OF FORTRESS METRO TOWER, 238 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919457
+        ]
+      ],
+      "coordinate": [
+        1.9930617592095634,
+        0.38900275745390417,
+        18.450000762939453
+      ],
+      "halfSize": [
+        43.651855000294745,
+        42.06950000021607,
+        13.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919392,
+        8,
+        [
+          [
+            2211159931,
+            0,
+            "THE WHITE HOUSE",
+            "SHOP 7, VICTOR COURT, 14-28 WANG ON ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2211804907,
+            0,
+            "Fisholic",
+            "SHOP 14, G/F., VICTOR COURT, 14-18 WANG ON ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2211807988,
+            0,
+            "\u534a\u5cf6\u51b0\u5ba4",
+            "SHOP NOS. 1-2, G/F., VICTOR COURT, 14-28 WANG ON ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2211808495,
+            0,
+            "Angus Cafe",
+            "SHOP 3-4, G/F., VICTOR COURT, 18 WANG ON ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2211809115,
+            0,
+            "TWO GREENS",
+            "SHOP 6, G/F., VICTOR COURT, 18 WANG ON ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-10"
+          ],
+          [
+            3111803531,
+            1,
+            "Mitsuba",
+            "SHOP 8, G/F., VICTOR COURT, NO. 18 WANG ON ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-26"
+          ],
+          [
+            3111803762,
+            1,
+            "HOORAY DELI",
+            "SHOP 10, G/F., VICTOR COURT, NO. 18 WANG ON ROAD, FORTRESS HILL, HONG KONG",
+            null,
+            "2026-10-24"
+          ],
+          [
+            3111804774,
+            1,
+            "Machi Machi (North Point)",
+            "SHOP 9, G/F., VICTOR COURT, NO. 18 WANG ON ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919458
+        ]
+      ],
+      "coordinate": [
+        1.9930259226452949,
+        0.3890048561874917,
+        6.849999904632568
+      ],
+      "halfSize": [
+        21.341500000096858,
+        22.33999999985099,
+        2.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1163919393,
+        1,
+        [
+          [
+            3111803179,
+            1,
+            "MoM",
+            "SHOP NO. 39, BASEMENT, 7 SEAS SHOPPING CENTRE, 121 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919468
+        ]
+      ],
+      "coordinate": [
+        1.9930341448876894,
+        0.3889916271575572,
+        11.75
+      ],
+      "halfSize": [
+        29.115500000305474,
+        28.753500000573695,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919394,
+        7,
+        [
+          [
+            2211205809,
+            0,
+            "\u9038\u6771",
+            "SHOP F, G/F, PO WING BLDG, 6-16 SHELL STREET, HONG KONG",
+            null,
+            "2026-11-18"
+          ],
+          [
+            2211802266,
+            0,
+            "\u9189\u71d2\u4ead",
+            "SHOP C, G/F., PO WING BUILDING, 6-16 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-05"
+          ],
+          [
+            2212814118,
+            0,
+            "(\u6c92\u6709\u8a18\u9304)",
+            "SHOP E, G/F., PO WING BUILDING, 6-16 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2212823532,
+            0,
+            "Dou Ma DAAN",
+            "SHOP B, G/F., PO WING BUILDING, 6-16 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-18"
+          ],
+          [
+            3112807804,
+            1,
+            "Mirror Burger",
+            "SHOP I, G/F., PO WING BUILDING, 6-16 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3112809183,
+            1,
+            "LUNGO",
+            "SHOP H, G/F., PO WING BUILDING, 6-16 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-03"
+          ],
+          [
+            3912811054,
+            1,
+            "\u91d1\u5ddd\u6e6f",
+            "SHOP D1, G/F., PO WING BUILDING, 6-16 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-02-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919482
+        ]
+      ],
+      "coordinate": [
+        1.9930290105226272,
+        0.3889818001076486,
+        6.900000095367432
+      ],
+      "halfSize": [
+        17.68900000024587,
+        10.35800000000745,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1163919395,
+        2,
+        [
+          [
+            2212823444,
+            0,
+            "\u5343\u4e4b\u5473\u523a\u8eab\u58fd\u53f8\u5c08\u9580\u5e97(\u5929\u540e\u5e97)",
+            "SHOP 6, G/F, KAM TAO, NGAN TAO & HOI TAO BUILDINGS, 6B WHITFIELD ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3111120504,
+            1,
+            "Chillies-chill",
+            "G/F, 6 WHITFIELD ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919485
+        ]
+      ],
+      "coordinate": [
+        1.9930053536829042,
+        0.3889762211923498,
+        11.449999809265137
+      ],
+      "halfSize": [
+        42.70981999998912,
+        34.45391000062227,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1163919396,
+        2,
+        [
+          [
+            3111131474,
+            1,
+            "\u4e32\u71d2\u738b",
+            "SHOP 2, G/F, KIN GA BLDG, 99 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-06"
+          ],
+          [
+            3112808092,
+            1,
+            "WONTON HOT 88",
+            "SHOP 3, G/F., KIN GA BUILDING, 99 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919489
+        ]
+      ],
+      "coordinate": [
+        1.9930378489576983,
+        0.38897800974938185,
+        8.149999618530273
+      ],
+      "halfSize": [
+        10.659500000067055,
+        5.783999999985099,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1163919397,
+        3,
+        [
+          [
+            2211805627,
+            0,
+            "\u7d05\u8449\u51b0\u5ba4",
+            "PORTION 1 OF SHOP NO.C,G/F., SEABRIGHT PLAZA, NOS. 9,11,13,15,17,19,21 AND 23 SHELL STREET, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2211805964,
+            0,
+            "\u7a76\u6975\u5802",
+            "SHOP D, G/F., SEABRIGHT PLAZA, NOS. 9-23 SHELL STREET, HONG KONG",
+            null,
+            "2026-07-16"
+          ],
+          [
+            2212819016,
+            0,
+            "TIGERS",
+            "SHOP C2, G/F., SEABRIGHT PLAZA, NOS. 9-23 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919490
+        ]
+      ],
+      "coordinate": [
+        1.9930284612288798,
+        0.3889767801895587,
+        11.600000381469727
+      ],
+      "halfSize": [
+        22.467000000178814,
+        10.976000000722706,
+        6.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1163919398,
+        1,
+        [
+          [
+            2211801856,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 1 ON THE GROUND FLOOR OF NO. 148 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-11-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919493
+        ]
+      ],
+      "coordinate": [
+        1.9930217607340501,
+        0.3889715973337126,
+        11.5
+      ],
+      "halfSize": [
+        15.24349999986589,
+        27.56550000049174,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919399,
+        1,
+        [
+          [
+            3111803799,
+            1,
+            "BAR PACIFIC",
+            "SHOP A & B, G/F., COMFORT GARDENS, 58-60 KING'S ROAD, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919497
+        ]
+      ],
+      "coordinate": [
+        1.9930491801263424,
+        0.3889720873667079,
+        14.59999942779541
+      ],
+      "halfSize": [
+        24.934104999992996,
+        19.82149999961257,
+        7.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919400,
+        2,
+        [
+          [
+            2211804226,
+            0,
+            "\u7fe0\u6e56\u6d77\u9bae\u98ef\u5e97",
+            "SHOP C, D AND E, G/F., JUPITER TERRACE, 18 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2212821226,
+            0,
+            "Hop Sze Private kitchen",
+            "SHOPS F & G, G/F, JUPITER TERRACE, NO. 18 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919498
+        ]
+      ],
+      "coordinate": [
+        1.993030494713405,
+        0.3889732870641012,
+        10.100000381469727
+      ],
+      "halfSize": [
+        33.373000000137836,
+        11.482499999925494,
+        5.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1163919401,
+        3,
+        [
+          [
+            2211116682,
+            0,
+            "\u70cf\u9f8d\u5c0f\u5eda",
+            "SHOP B, G/F, 5 WHITFIELD ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2211169215,
+            0,
+            "Chung Kee Yee Restaurant",
+            "G/F, KAM DO MANSION, 6A WHITFIELD ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3112809262,
+            1,
+            "Coffee Hermosa",
+            "PORTION A OF SHOP NO. 3 ON G/F, KAM TAO, NGAN TAO & HOI TAO BUILDINGS, NO. 6E WHITFIELD ROAD, HONG KONG AND SHOP NO. 31B ON G/F, KAM TAO, NGAN TAO & HOI TAO BUILDINGS, NO. 7 WATSON ROAD, HONG KONG",
+            null,
+            "2026-03-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919507
+        ]
+      ],
+      "coordinate": [
+        1.993009429003019,
+        0.38896833746466175,
+        5.950000286102295
+      ],
+      "halfSize": [
+        10.35950000025332,
+        14.910500000230968,
+        2.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1163919402,
+        1,
+        [
+          [
+            2212813443,
+            0,
+            "ROJO",
+            "SHOP B, G/F., NO. 3 JUPITER STREET, TIN HAU, HONG KONG",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919508
+        ]
+      ],
+      "coordinate": [
+        1.9930349658335085,
+        0.3889683405969686,
+        13.149999618530273
+      ],
+      "halfSize": [
+        8.084500000346452,
+        11.1875,
+        7.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1163919403,
+        2,
+        [
+          [
+            2211802655,
+            0,
+            "LAO CAI 56",
+            "SHOP NOS. 1-2, G/F., JUPITER TOWER, 9 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-23"
+          ],
+          [
+            2212819672,
+            0,
+            "OYSTER STATION",
+            "SHOP NOS. 3&5, G/F, JUPITER TOWER , 9 JUPITER STREET, HONG KONG",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919509
+        ]
+      ],
+      "coordinate": [
+        1.993032202390779,
+        0.3889682106741015,
+        9.149999618530273
+      ],
+      "halfSize": [
+        8.955000000074506,
+        11.248130000196397,
+        3.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1163919404,
+        2,
+        [
+          [
+            2211220684,
+            0,
+            "TAK TOU",
+            "SHOP B, G/F, HANG PO BUILDING, 6-8 MERCURY STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-11"
+          ],
+          [
+            3812824707,
+            0,
+            "\u6ecb\u5473\u9ede",
+            "SHOP A, G/F, HANG PO BUILDING, 6-8 MERCURY STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919512
+        ]
+      ],
+      "coordinate": [
+        1.9930356244543241,
+        0.388964394335924,
+        14.25
+      ],
+      "halfSize": [
+        5.984655000269413,
+        11.520789999514818,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919405,
+        1,
+        [
+          [
+            2212815573,
+            0,
+            "Cock N Rice",
+            "SHOP A, G/F., HOI SUN BUILDING, 12 MERCURY STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919513
+        ]
+      ],
+      "coordinate": [
+        1.9930328657160847,
+        0.3889642292357992,
+        8.0
+      ],
+      "halfSize": [
+        11.546204999554902,
+        11.80422000028193,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919406,
+        1,
+        [
+          [
+            2211120384,
+            0,
+            "\u6085\u8208\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "G/F, 18 MERCURY STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919515
+        ]
+      ],
+      "coordinate": [
+        1.993030082516998,
+        0.38896411195709485,
+        7.349999904632568
+      ],
+      "halfSize": [
+        6.087505000177771,
+        11.474159999750555,
+        2.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1163919407,
+        1,
+        [
+          [
+            3111800912,
+            1,
+            "Oyster Cove",
+            "SHOP 1, G/F., SUPERNOVA STAND, 28 MERCURY STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919516
+        ]
+      ],
+      "coordinate": [
+        1.9930274389237679,
+        0.38896397500514385,
+        8.949999809265137
+      ],
+      "halfSize": [
+        10.706904999911785,
+        11.705240000039339,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919408,
+        2,
+        [
+          [
+            2211800321,
+            0,
+            "\u5690\u559c\u5927\u4e0d\u540c\u51b0\u5ba4\u5c0f\u5eda",
+            "SHOP B, G/F., 5-7 MERCURY STREET, HONG KONG",
+            null,
+            "2026-08-22"
+          ],
+          [
+            2211805539,
+            0,
+            "Ha Ha Bar and Restaurant",
+            "G/F., HOI HING BUILDING, 5 MERCURY STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919523
+        ]
+      ],
+      "coordinate": [
+        1.9930350121128533,
+        0.38895895848923046,
+        9.949999809265137
+      ],
+      "halfSize": [
+        11.39608500013128,
+        11.507690000347793,
+        3.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1163919409,
+        1,
+        [
+          [
+            3112807929,
+            1,
+            "NOC Coffee",
+            "G/F., THE MERCURY, 23 MERCURY STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919525
+        ]
+      ],
+      "coordinate": [
+        1.9930266997464796,
+        0.38895856682057744,
+        8.800000190734863
+      ],
+      "halfSize": [
+        6.070170000195503,
+        11.24349999986589,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919410,
+        1,
+        [
+          [
+            2212818350,
+            0,
+            "OYSTER C",
+            "SHOP A, G/F., NOS. 9-11 WING HING STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919528
+        ]
+      ],
+      "coordinate": [
+        1.9930141860672703,
+        0.38895340479275736,
+        6.800000190734863
+      ],
+      "halfSize": [
+        7.695999999996275,
+        9.924499999731779,
+        2.700000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1163919411,
+        1,
+        [
+          [
+            2211811398,
+            0,
+            "POKEGREEN",
+            "SHOP A, G/F., KIU WAH BUILDING, NOS. 188-194 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919543
+        ]
+      ],
+      "coordinate": [
+        1.993200658139171,
+        0.38907777776906544,
+        40.400001525878906
+      ],
+      "halfSize": [
+        11.483394999988377,
+        11.07850000075996,
+        36.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919412,
+        2,
+        [
+          [
+            2211805016,
+            0,
+            "\u91d1\u6a02\u8ed2\u96de\u7172\u9b5a\u934b",
+            "SHOP C3, G/F., CONWELL MANSION, NOS. 114-118, 122-126 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2211810252,
+            0,
+            "WA SHARE CAFE AND BAR",
+            "SHOP A2, G/F., CONWELL MANSION, NOS. 114-118, 122-126 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919559
+        ]
+      ],
+      "coordinate": [
+        1.9931301662011196,
+        0.3890727724336442,
+        41.45000076293945
+      ],
+      "halfSize": [
+        22.97145999968052,
+        12.671390000730753,
+        37.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1163919413,
+        4,
+        [
+          [
+            2211804253,
+            0,
+            "\u4f73\u8a18\u5c0f\u54c1",
+            "SHOP 3, G/F, NGAN FAI BUILDING, 84-94 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2211805955,
+            0,
+            "\u805a\u6f6e\u6f6e\u6c55\u5730\u9053\u7f8e\u98df",
+            "SHOP NO. 4 ON GROUND FLOOR, NGAN FAI BUILDING, NOS. 84-94 WHARF ROAD, HONG KONG",
+            null,
+            "2026-07-16"
+          ],
+          [
+            2211809896,
+            0,
+            "\u7cb5\u6e58\u98df",
+            "SHOP 5-6, G/F, NGAN FAI BUILDING, 84, 84A, 86-94 & 94A WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-15"
+          ],
+          [
+            3111803647,
+            1,
+            "\u4e32\u71d2\u98df\u5802",
+            "SHOP 1, G/F., NGAN FAI BUILDING, 84-94 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919567
+        ]
+      ],
+      "coordinate": [
+        1.9931186210964507,
+        0.3890703906542006,
+        39.95000076293945
+      ],
+      "halfSize": [
+        16.509240000043064,
+        11.242790000513196,
+        35.85000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1163919414,
+        2,
+        [
+          [
+            2211207841,
+            0,
+            "\u65b0\u83ef\u8a18\u5c0f\u5eda\u8336\u9910\u5ef3",
+            "G/F, 82 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-18"
+          ],
+          [
+            3111802848,
+            1,
+            "BAR PACIFIC",
+            "PORTIONS OF G/F, AND BASEMENT, YEN PO COURT, 74-82 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919576
+        ]
+      ],
+      "coordinate": [
+        1.9931138685250491,
+        0.3890694545267161,
+        35.0
+      ],
+      "halfSize": [
+        12.617910000029951,
+        10.022434999234974,
+        30.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919415,
+        1,
+        [
+          [
+            2211804475,
+            0,
+            "PAPA SPICY RESTAURANT",
+            "SHOP B, G/F., WAH SING BUILDING, 61-63 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919577
+        ]
+      ],
+      "coordinate": [
+        1.9931304099868814,
+        0.389069828465962,
+        24.150001525878906
+      ],
+      "halfSize": [
+        7.123350000008941,
+        7.278030000627041,
+        12.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919416,
+        1,
+        [
+          [
+            2211811583,
+            0,
+            "\u4e00\u7c60\u7c60\u9ede\u5fc3\u5c08\u9580\u5e97",
+            "G/F, DAK SHING BUILDING, 88 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919579
+        ]
+      ],
+      "coordinate": [
+        1.9931564265852197,
+        0.38906864117457585,
+        18.850000381469727
+      ],
+      "halfSize": [
+        13.660750000271946,
+        12.102225000038743,
+        14.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1163919417,
+        2,
+        [
+          [
+            2211807128,
+            0,
+            "Tsukimi Japanese Restaurant",
+            "SHOP B & C, G/F., NEW WEALTH MANSION, 68-72 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2211810580,
+            0,
+            "HONG KONG CANTEEN",
+            "SHOP A, G/F, NEW WEALTH MANSION, 68-72 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919583
+        ]
+      ],
+      "coordinate": [
+        1.9931102766711872,
+        0.3890686381041106,
+        38.89999771118164
+      ],
+      "halfSize": [
+        10.168519999831915,
+        9.811920000240207,
+        34.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919418,
+        1,
+        [
+          [
+            2211807906,
+            0,
+            "TONKLA RESTAURANT",
+            "SHOP A & B, G29, G/F., WAH LAI MANSION, NO. 62-76 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919584
+        ]
+      ],
+      "coordinate": [
+        1.9931978365326954,
+        0.389067664580177,
+        38.20000076293945
+      ],
+      "halfSize": [
+        24.300144999753684,
+        15.12311500031501,
+        33.79999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1163919419,
+        1,
+        [
+          [
+            2211806754,
+            0,
+            "\u9f0e\u7559\u9999\u6ef7\u5473\u5c08\u9580\u5e97",
+            "G/F., NO. 86 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919586
+        ]
+      ],
+      "coordinate": [
+        1.9931538985523056,
+        0.3890680627663278,
+        16.950000762939453
+      ],
+      "halfSize": [
+        4.366840000264347,
+        11.529020000249147,
+        12.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919420,
+        1,
+        [
+          [
+            2211091570,
+            0,
+            "\u69ae\u8a18\u9910\u5ef3\u5c0f\u5eda",
+            "G/F, 84 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919588
+        ]
+      ],
+      "coordinate": [
+        1.9931531006695935,
+        0.3890678737084676,
+        16.950000762939453
+      ],
+      "halfSize": [
+        5.283959999680519,
+        11.28679500054568,
+        12.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919421,
+        1,
+        [
+          [
+            3111802185,
+            1,
+            "KAM SHEUNG TIM",
+            "SHOP A, G/F., 64-66 WHARF ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919590
+        ]
+      ],
+      "coordinate": [
+        1.9931064907654268,
+        0.3890686171593011,
+        13.699999809265137
+      ],
+      "halfSize": [
+        10.129895000252873,
+        6.1818949999287724,
+        9.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919422,
+        1,
+        [
+          [
+            2211804439,
+            0,
+            "\u6e23\u83ef\u8336\u51b0\u5ef3",
+            "G/F., NO. 82 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919592
+        ]
+      ],
+      "coordinate": [
+        1.993151940255054,
+        0.3890676769268063,
+        17.0
+      ],
+      "halfSize": [
+        4.220464999787509,
+        11.542549999430776,
+        12.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919423,
+        1,
+        [
+          [
+            2211063449,
+            0,
+            "\u6a02\u5fb7",
+            "G/F, 80 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919593
+        ]
+      ],
+      "coordinate": [
+        1.9931511581217327,
+        0.38906750770958204,
+        17.0
+      ],
+      "halfSize": [
+        5.341260000132024,
+        11.284465000033379,
+        12.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919424,
+        1,
+        [
+          [
+            2211803816,
+            0,
+            "Nam Kee Spring Roll Noodle Company Limited",
+            "G/F, 78 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919594
+        ]
+      ],
+      "coordinate": [
+        1.9931484379111102,
+        0.38906672986556123,
+        40.099998474121094
+      ],
+      "halfSize": [
+        15.002039999701083,
+        13.761315000243485,
+        35.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919425,
+        1,
+        [
+          [
+            2211805982,
+            0,
+            "TAK HING LOONG BEAN CURD SHOP",
+            "SHOP 1Q, G/F., MARVEL BUILDING, 1Q-1Y MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919622
+        ]
+      ],
+      "coordinate": [
+        1.9931514176311111,
+        0.3890641178119268,
+        37.39999771118164
+      ],
+      "halfSize": [
+        12.53802500013262,
+        8.264045000076294,
+        33.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1163919426,
+        1,
+        [
+          [
+            2211806745,
+            0,
+            "\u68ee\u68ee\u98df\u5802",
+            "SHOP 2 (PORTION B) AND SHOP 3, G/F., WAH HING BUILDING, 449-455 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919652
+        ]
+      ],
+      "coordinate": [
+        1.9931826441850597,
+        0.3890605767876129,
+        39.04999923706055
+      ],
+      "halfSize": [
+        11.528970000334084,
+        11.123780000023544,
+        34.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1163919427,
+        1,
+        [
+          [
+            2211811529,
+            0,
+            "SEOUL NOODLE SHOP",
+            "SHOP B, G/F, CHU KEE BUILDING, 433-437 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919662
+        ]
+      ],
+      "coordinate": [
+        1.993176242240128,
+        0.3890594072525274,
+        35.25
+      ],
+      "halfSize": [
+        11.892454999964684,
+        12.19505999982357,
+        30.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1163919428,
+        1,
+        [
+          [
+            2211806435,
+            0,
+            "AQUADELI",
+            "SHOP NO. 4, G/F., ON NING BUILDING, 431 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919675
+        ]
+      ],
+      "coordinate": [
+        1.9931729427277,
+        0.3890586539141701,
+        31.149999618530273
+      ],
+      "halfSize": [
+        11.955335000064224,
+        11.407464999705553,
+        26.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919429,
+        2,
+        [
+          [
+            2211805201,
+            0,
+            "Pizza Hut",
+            "FIRST FLOOR, NORTH POINT ASIA-PAC COMMERCIAL CENTRE, NO. 10 NORTH POINT ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-19"
+          ],
+          [
+            3111804844,
+            1,
+            "BAKA BURGER",
+            "SHOP 1, G/F., NORTH POINT ASIA-PAC COMMERCIAL CENTRE, 10 NORTH POINT ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919678
+        ]
+      ],
+      "coordinate": [
+        1.9931087388267974,
+        0.3890587987205725,
+        55.80000305175781
+      ],
+      "halfSize": [
+        9.681344999931753,
+        8.504769999533892,
+        36.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919430,
+        3,
+        [
+          [
+            2211800613,
+            0,
+            "Three Virtues Vegetarian Restaurant",
+            "EAST WING, 1/F, 395 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2211800923,
+            0,
+            "\u8d8a\u4e2d\u610f",
+            "SHOP G24, G/F., KIU KOON BUILDING, NO. 395 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2211810881,
+            0,
+            "\u5927\u897f\u6d0b\u706b\u934b",
+            "SHOP NOS. 28, 29, 30, 31, G/F, KIU KWAN MANSION, NO. 395 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919680
+        ]
+      ],
+      "coordinate": [
+        1.9931513100669236,
+        0.3890561495111735,
+        47.150001525878906
+      ],
+      "halfSize": [
+        20.038294999860227,
+        24.336904999800026,
+        42.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1163919431,
+        2,
+        [
+          [
+            2211204790,
+            0,
+            "\u6ff0\u4eac\u574a",
+            "SHOP C, G/F, 21A NORTH POINT ROAD, HONG KONG",
+            null,
+            "2026-10-09"
+          ],
+          [
+            3111803522,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP B, G/F., NOS. 19, 21 & 21A NORTH POINT ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919709
+        ]
+      ],
+      "coordinate": [
+        1.9931027808846336,
+        0.38905544912342976,
+        23.80000114440918
+      ],
+      "halfSize": [
+        8.796055000275373,
+        8.06298500020057,
+        19.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919432,
+        1,
+        [
+          [
+            2211046288,
+            0,
+            "\u5bcc\u8f1d",
+            "SHOP A, G/F & PORTION OF FLAT C, 1/F., YEN DACK BUILDING, NO.7 TONG SHUI ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919710
+        ]
+      ],
+      "coordinate": [
+        1.9931418645165713,
+        0.3890556838644389,
+        38.599998474121094
+      ],
+      "halfSize": [
+        7.264535000082105,
+        6.473690000362694,
+        34.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919433,
+        1,
+        [
+          [
+            2211808608,
+            0,
+            "\u4f73\u8a18\u7f8e\u98df",
+            "G/F., 490 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919712
+        ]
+      ],
+      "coordinate": [
+        1.993194003952899,
+        0.3890548596780241,
+        14.800000190734863
+      ],
+      "halfSize": [
+        7.415020000189543,
+        11.538209999911487,
+        10.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919434,
+        1,
+        [
+          [
+            2211811194,
+            0,
+            "SUPERMAN ROASTED GOOSE",
+            "SHOP E, G/F, ON FAI HOUSE, 482 KING'S ROAD, HONG KONG",
+            null,
+            "2026-09-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919718
+        ]
+      ],
+      "coordinate": [
+        1.9931901371802423,
+        0.3890544452971493,
+        14.399999618530273
+      ],
+      "halfSize": [
+        4.252875000238419,
+        8.190379999578,
+        9.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919435,
+        1,
+        [
+          [
+            2211806648,
+            0,
+            "WAI SIR PRIVATE KITCHEN",
+            "G/F., 17 NORTH POINT ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919725
+        ]
+      ],
+      "coordinate": [
+        1.993103306893791,
+        0.3890538534618253,
+        13.75
+      ],
+      "halfSize": [
+        8.386334999930114,
+        4.945695000700653,
+        9.25
+      ]
+    },
+    {
+      "attributes": [
+        1163919436,
+        1,
+        [
+          [
+            3111802167,
+            1,
+            "\u9999\u6e2f\u4ed4\u4e00\u54c1\u9b5a\u86cb\u738b",
+            "G/F., 15 NORTH POINT ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919733
+        ]
+      ],
+      "coordinate": [
+        1.9931035456082806,
+        0.3890530364083163,
+        12.600000381469727
+      ],
+      "halfSize": [
+        8.96534000011161,
+        4.250589999370277,
+        8.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919437,
+        1,
+        [
+          [
+            3111199313,
+            1,
+            "\u771f\u771f\u7f8e\u98df",
+            "SHOP B, G/F, 70-74 CHUN YEUNG STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919735
+        ]
+      ],
+      "coordinate": [
+        1.993117607760354,
+        0.3890512575248576,
+        40.5
+      ],
+      "halfSize": [
+        10.393819999881089,
+        11.51486000046134,
+        36.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919438,
+        6,
+        [
+          [
+            2211209078,
+            0,
+            "\u7965\u767c\u8336\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP D, G/F, 27 TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-21"
+          ],
+          [
+            2211802026,
+            0,
+            "Tsat Hay Noodle & Congee House",
+            "SHOP B, G/F., SCALA MANSION, 25, 27 & 31 TSAT TSZ MUI ROAD & 6 & 6A KAM HONG STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-05"
+          ],
+          [
+            2211808042,
+            0,
+            "688\u51b0\u5ba4",
+            "SHOP C, G/F., SCALA MANSION, 25, 27 & 31 TSAT TSZ MUI ROAD, 6 & 6A KAM HONG STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-10"
+          ],
+          [
+            2211810997,
+            0,
+            "In Noodle",
+            "SHOP NOS. G14-G16, G/F, WAH LAI MANSION , NOS. 5-7B KAM HONG STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-04"
+          ],
+          [
+            3811811791,
+            0,
+            "(no record found)",
+            "SHOP E, G/F, SCALA MANSION, 25 TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            3111804394,
+            1,
+            "\u4f73\u8c50\u7c89\u9eb5",
+            "SHOP A ON GROUND FLOOR OF SCALA MANSION, NOS. 25, 27 & 31 OF TSAT TSZ MUI ROAD AND NOS. 6 & 6A KAM HONG STREET, HONG KONG",
+            null,
+            "2026-11-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919738
+        ]
+      ],
+      "coordinate": [
+        1.9931928830511518,
+        0.38905075370992803,
+        40.349998474121094
+      ],
+      "halfSize": [
+        15.992210000287741,
+        13.517579999752343,
+        34.75
+      ]
+    },
+    {
+      "attributes": [
+        1163919439,
+        1,
+        [
+          [
+            2211809692,
+            0,
+            "\u5fb7\u514b\u58eb",
+            "G/F., 377 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919740
+        ]
+      ],
+      "coordinate": [
+        1.9931334013734718,
+        0.3890506510482521,
+        26.049999237060547
+      ],
+      "halfSize": [
+        9.018284999765456,
+        11.893755000084639,
+        21.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1163919440,
+        5,
+        [
+          [
+            2211111021,
+            0,
+            "\u7fbd\u9280\u4ead",
+            "G/F, 9 SHU KUK STREET, HONG KONG",
+            null,
+            "2026-07-27"
+          ],
+          [
+            2211122238,
+            0,
+            "\u92d2\u5c11\u751c\u54c1",
+            "G/F, MAY LUN APARTMENTS, 7 SHU KUK STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-30"
+          ],
+          [
+            2211807696,
+            0,
+            "DALAT VIENAMESE RESTAURANT",
+            "SHOP 15, G/F., MAYLUN APARTMENTS, NOS. 442-456 KING'S ROAD & NOS. 1-25 SHU KUK STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-15"
+          ],
+          [
+            2211808255,
+            0,
+            "\u74ca\u5abd\u5abd",
+            "SHOP 16, G/F., MAYLUN APARTMENTS, NOS. 442-456 KING'S ROAD & NOS. 1-25 SHU KUK STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3111802501,
+            1,
+            "\u7fe0\u82d1",
+            "SHOP 19, G/F., MAYLUN APARTMENTS, NOS 442-456 KING'S ROAD, NOS. 1-21 & 25 SHU KUK STREET, HONG KONG",
+            null,
+            "2026-12-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919747
+        ]
+      ],
+      "coordinate": [
+        1.9931693486404205,
+        0.38904812539593997,
+        19.650001525878906
+      ],
+      "halfSize": [
+        24.441130000166595,
+        27.564980000257492,
+        15.250000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1163919441,
+        1,
+        [
+          [
+            2211030562,
+            0,
+            "McDonald's",
+            "SHOP A & B & C, G/F, 355-361 KING'S ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919752
+        ]
+      ],
+      "coordinate": [
+        1.993123211984405,
+        0.3890485953601756,
+        44.14999771118164
+      ],
+      "halfSize": [
+        15.757480000145733,
+        13.480484999716282,
+        39.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919442,
+        1,
+        [
+          [
+            2211804563,
+            0,
+            "TULSI INDIAN RESTAURANT",
+            "SHOP NO. 2, G/F., FAIRVIEW COURT, 5-13 TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919755
+        ]
+      ],
+      "coordinate": [
+        1.9931809609802176,
+        0.38904805504374806,
+        41.70000076293945
+      ],
+      "halfSize": [
+        15.255849999841303,
+        12.629924999549985,
+        36.79999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1163919443,
+        1,
+        [
+          [
+            2211805405,
+            0,
+            "\u5fe0\u8a18\u7ca5\u54c1",
+            "SHOP 2, G/F., MILLAN HOUSE, 2-4 NORTH POINT ROAD, HONG KONG",
+            null,
+            "2026-09-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919757
+        ]
+      ],
+      "coordinate": [
+        1.9931110627684947,
+        0.3890490028560495,
+        25.850000381469727
+      ],
+      "halfSize": [
+        10.499580000061542,
+        6.369710000231862,
+        21.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1163919444,
+        1,
+        [
+          [
+            2211033659,
+            0,
+            "Sun Hing",
+            "G/F, 7A NORTH POINT ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919758
+        ]
+      ],
+      "coordinate": [
+        1.9931046419628262,
+        0.3890456930484436,
+        29.44999885559082
+      ],
+      "halfSize": [
+        14.344315000344068,
+        22.318190000019968,
+        24.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919445,
+        2,
+        [
+          [
+            2211105767,
+            0,
+            "See See Lok",
+            "SHOP B, LG/F, SIU NIN BLDG, 30-32 TSAT TSZ MUI ROAD, HONG KONG",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2211811574,
+            0,
+            "IGARASHI JAPANESE RESTAURANT",
+            "PORTION OF SHOP A, G/F, SIU NIN BUILDING, 34 TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919770
+        ]
+      ],
+      "coordinate": [
+        1.9931927600546244,
+        0.3890449116740022,
+        36.30000305175781
+      ],
+      "halfSize": [
+        9.080000000074506,
+        13.355704999528825,
+        30.500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1163919446,
+        1,
+        [
+          [
+            3111803416,
+            1,
+            "Jardine Roi Cafe",
+            "UNIT NOS. S12-S22, 2/F., KING SQUARE, 390-394 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919779
+        ]
+      ],
+      "coordinate": [
+        1.9931375945261784,
+        0.38904286672248206,
+        36.400001525878906
+      ],
+      "halfSize": [
+        18.215644999872893,
+        16.1368599999696,
+        32.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919447,
+        1,
+        [
+          [
+            2211807058,
+            0,
+            "DIM SIU YI",
+            "SHOP A, G/F., SIU KING BUILDING, 14-16 TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919781
+        ]
+      ],
+      "coordinate": [
+        1.9931840537785384,
+        0.3890431166624239,
+        42.35000228881836
+      ],
+      "halfSize": [
+        9.105384999886155,
+        13.27477000001818,
+        37.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919448,
+        2,
+        [
+          [
+            2211135405,
+            0,
+            "\u6885\u82b1\u90a8",
+            "SHOP 5, G/F, CHEONG YUEN APARTMENTS, 2-8A TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2211802008,
+            0,
+            "\u963f\u4e00\u8c6c\u6252\u9178\u8fa3\u7c73\u7dab",
+            "SHOP 3, G/F., CHEONG YUEN APARTMENTS, 2-8A TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919785
+        ]
+      ],
+      "coordinate": [
+        1.9931786187781162,
+        0.3890420023400026,
+        40.400001525878906
+      ],
+      "halfSize": [
+        15.620000000111759,
+        14.78000000026077,
+        35.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919449,
+        1,
+        [
+          [
+            2211808820,
+            0,
+            "Gwing Kee Restaurant",
+            "SHOP A, G/F., MARY COURT, 376-380 KING'S ROAD, HONG KONG",
+            null,
+            "2026-04-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919789
+        ]
+      ],
+      "coordinate": [
+        1.993129872971339,
+        0.38904159933557214,
+        40.5
+      ],
+      "halfSize": [
+        11.694090000353754,
+        12.635974999517202,
+        36.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919450,
+        2,
+        [
+          [
+            2211087601,
+            0,
+            "Garden Cafe",
+            "1/F (PTN), GARDEN CAFE, CITY GARDEN HOTEL, 9 CITY GARDEN ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211089908,
+            0,
+            "Yue",
+            "1/F (PTN), CITY GARDEN HOTEL, 9 CITY GARDEN ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919790
+        ]
+      ],
+      "coordinate": [
+        1.993064574518743,
+        0.38903913088709124,
+        44.849998474121094
+      ],
+      "halfSize": [
+        25.13705000001937,
+        26.987065000459552,
+        40.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919451,
+        1,
+        [
+          [
+            2211807784,
+            0,
+            "Jollibee",
+            "G/F., CHINA HARBOUR BUILDING, NOS. 370-374 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919792
+        ]
+      ],
+      "coordinate": [
+        1.9931266736772324,
+        0.3890405739686192,
+        42.95000076293945
+      ],
+      "halfSize": [
+        11.660774999763817,
+        14.588380000554025,
+        38.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919452,
+        2,
+        [
+          [
+            3111804446,
+            1,
+            "\u6f6e\u5712 \u6b63\u5b97\u624b\u6253\u725b\u4e38",
+            "SHOP E, G/F., LUEN WO APARTMENTS, NO. 308 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-30"
+          ],
+          [
+            3911804897,
+            1,
+            "\u590f\u9298\u8a18",
+            "SHOPS A & D, G/F, LUEN WO APARTMENTS, 9-15 TIN CHONG STREET, FORTRESS HILL, HONG KONG",
+            null,
+            "2026-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919795
+        ]
+      ],
+      "coordinate": [
+        1.9930763715010518,
+        0.3890406143093418,
+        26.549999237060547
+      ],
+      "halfSize": [
+        13.204694999847561,
+        13.40610000025481,
+        21.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1163919453,
+        5,
+        [
+          [
+            2211804800,
+            0,
+            "\u9ba8\u9baa\u5c45\u9152\u5c4b",
+            "G/F., TUNG FAT BUILDING, 21 KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2211805812,
+            0,
+            "VILLA VILLA",
+            "G/F., BLOCK A, TUNG FAT BUILDING, 25A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2211806903,
+            0,
+            "Man Kong Restaurant",
+            "G/F., 25-27 KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2211807605,
+            0,
+            "SUMI RAKU",
+            "SHOP 32, G/F., BLOCK A, TUNG FAT BUILDING, NO. 23A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2211808033,
+            0,
+            "\u5fb7\u5229\u5473\u574a",
+            "SHOP 33, G/F., BLOCK A, TUNG FAT BUILDING, 21A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919796
+        ]
+      ],
+      "coordinate": [
+        1.9931694230334038,
+        0.38904059594468104,
+        30.700000762939453
+      ],
+      "halfSize": [
+        16.43231000006199,
+        12.343170000240207,
+        25.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1163919454,
+        2,
+        [
+          [
+            2211094579,
+            0,
+            "\u82b1\u5712\u9910\u5ef3",
+            "1/F, 275 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211810429,
+            0,
+            "More Fortune Here Dim Sum",
+            "SHOP A, G/F, NAM TIN BUILDING, 275 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919803
+        ]
+      ],
+      "coordinate": [
+        1.9930798960415852,
+        0.3890382748997196,
+        37.150001525878906
+      ],
+      "halfSize": [
+        15.928564999718219,
+        15.120610000565648,
+        31.25
+      ]
+    },
+    {
+      "attributes": [
+        1163919455,
+        3,
+        [
+          [
+            3111804136,
+            1,
+            "\u4e0d",
+            "SHOP 27, G/F., BLOCK B, TUNG FAT BUILDING, NOS. 29, 29A, 31, 31A, 33A, 35 & 35A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-27"
+          ],
+          [
+            3111804808,
+            1,
+            "ICEYAKI",
+            "G/F, BLOCK B, TUNG FAT BUILDING, 31A KAM PING STREET, HONG KONG",
+            null,
+            "2026-11-02"
+          ],
+          [
+            3911804976,
+            1,
+            "DUMPLING ATELIER",
+            "SHOP 29A, G/F, BLOCK B, TUNG FAT BUILDING, NOS. 29, 29A, 31, 31A, 33A, 35 & 35A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919809
+        ]
+      ],
+      "coordinate": [
+        1.9931701130256159,
+        0.38903772067135933,
+        31.0
+      ],
+      "halfSize": [
+        16.42820500023663,
+        12.203665000386536,
+        25.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919456,
+        1,
+        [
+          [
+            3811811685,
+            0,
+            "\u71d2\u5473\u4e00\u65cf",
+            "SHOP NO. 3, G/F, SOUTHERN BUILDING, NOS. 257-273 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919812
+        ]
+      ],
+      "coordinate": [
+        1.9930749524821905,
+        0.38903492980517723,
+        36.10000228881836
+      ],
+      "halfSize": [
+        25.5305300001055,
+        26.232625000178814,
+        30.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1163919457,
+        3,
+        [
+          [
+            3111804631,
+            1,
+            "DOZY",
+            "SHOP NO. A1, G/F., FORTUNA BUILDING, NOS. 24-38 KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-06"
+          ],
+          [
+            3111804686,
+            1,
+            "Time To Gold",
+            "FLAT D1, G/F., FORTUNA BUILDING, NO. 26 KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-05"
+          ],
+          [
+            3111804695,
+            1,
+            "KINDLY TAILS",
+            "SHOP NO. B1, G/F., FORTUNA BUILDING, NOS. 24-38 KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919814
+        ]
+      ],
+      "coordinate": [
+        1.993164348760322,
+        0.3890346473327069,
+        23.75
+      ],
+      "halfSize": [
+        15.661815000232309,
+        27.36223499942571,
+        18.25
+      ]
+    },
+    {
+      "attributes": [
+        1163919458,
+        1,
+        [
+          [
+            3111804871,
+            1,
+            "RUMI",
+            "SHOP 23, G/F., BLOCK C, TUNG FAT BUILDING, NO. 41A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919831
+        ]
+      ],
+      "coordinate": [
+        1.9931707990849914,
+        0.3890348580809187,
+        31.75
+      ],
+      "halfSize": [
+        16.436244999989867,
+        12.21944500040263,
+        24.75
+      ]
+    },
+    {
+      "attributes": [
+        1163919459,
+        2,
+        [
+          [
+            2211185914,
+            0,
+            "\u5f69\u798f\u559c\u5bb4",
+            "ENTRANCE OF RESTAURANT SPACE ON 2/F & WHOLE OF 3/F, OLYMPIA PLAZA, 243-255 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            3111803027,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP 05, G/F., OLYMPIA PLAZA, NO. 255 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919842
+        ]
+      ],
+      "coordinate": [
+        1.9930696232374534,
+        0.3890309469395647,
+        62.400001525878906
+      ],
+      "halfSize": [
+        24.700700000394136,
+        24.028599999845028,
+        57.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919460,
+        3,
+        [
+          [
+            2211019211,
+            0,
+            "\u4e09\u6085\u51b0\u5ba4",
+            "G/F, 19A FORT STREET, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211811255,
+            0,
+            "LA PARRILLA STEAKHOUSE",
+            "LG/F, KING MAN COURT, NO.19 FORT STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-02"
+          ],
+          [
+            3111802565,
+            1,
+            "Brew Note Coffee Roaster",
+            "SHOP 2, G/F., KING MAN COURT, 19-19A FORT STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919847
+        ]
+      ],
+      "coordinate": [
+        1.9931077182434342,
+        0.38903188810125394,
+        42.5
+      ],
+      "halfSize": [
+        11.690690000075847,
+        13.668949999846518,
+        33.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919461,
+        2,
+        [
+          [
+            2211809054,
+            0,
+            "abcx",
+            "SHOP 21 & 22, G/F., BLOCK C & D, TUNG FAT BUILDING, NO. 43A & 45A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-20"
+          ],
+          [
+            3111800754,
+            1,
+            "Dear Grey",
+            "SHOP 26, G/F., BLOCK B, TUNG FAT BUILDING, 35A KAM PING STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919848
+        ]
+      ],
+      "coordinate": [
+        1.9931718754009422,
+        0.3890322061948764,
+        32.650001525878906
+      ],
+      "halfSize": [
+        19.342599999625236,
+        11.210380000062287,
+        23.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919462,
+        1,
+        [
+          [
+            2211803807,
+            0,
+            "\u5927\u6cc9\u5dde\u83dc\u9928",
+            "SHOP D, LG/F. AND G/F., MING COURT, 19-23 MING YUEN WESTERN STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919853
+        ]
+      ],
+      "coordinate": [
+        1.9931500249068332,
+        0.3890315908802462,
+        44.39999771118164
+      ],
+      "halfSize": [
+        8.082544999662787,
+        9.187974999658763,
+        33.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1163919463,
+        1,
+        [
+          [
+            2211808529,
+            0,
+            "GOTTHARD BASE RESTAURANT AND LOUNGE",
+            "SHOP 1, GROUND FLOOR, SIU MAN COURT, 7 FORT STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919858
+        ]
+      ],
+      "coordinate": [
+        1.993099140280634,
+        0.38902980137610965,
+        48.5
+      ],
+      "halfSize": [
+        10.410010000225157,
+        13.170675000175834,
+        35.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919464,
+        1,
+        [
+          [
+            2211806499,
+            0,
+            "Top Flavor Barbecued Pork Cafe",
+            "SHOP B, G/F., WAH HAI MANSION, 10-16 FORT STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919878
+        ]
+      ],
+      "coordinate": [
+        1.9931046197215876,
+        0.389025312463344,
+        50.39999771118164
+      ],
+      "halfSize": [
+        19.113764999900013,
+        15.46038999967277,
+        37.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919465,
+        2,
+        [
+          [
+            2211805034,
+            0,
+            "HOPERS' BASE",
+            "SHOP A, G/F., 6-8 FORT STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-27"
+          ],
+          [
+            2211806790,
+            0,
+            "HOPERS' BASE",
+            "SHOP B, G/F., WAH HONG MANSION, 6-8 FORT STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919885
+        ]
+      ],
+      "coordinate": [
+        1.993100438609329,
+        0.38902447083055647,
+        49.099998474121094
+      ],
+      "halfSize": [
+        10.769984999671578,
+        13.590444999746978,
+        35.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1163919466,
+        6,
+        [
+          [
+            2211805557,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP B & C, G/F., RIALTO MANSION, NO. 177 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2211806815,
+            0,
+            "YING LOK RESTAURANT",
+            "SHOP F & G, G/F., RIALTO MANSION, NOS. 177-181, 185-191 & 191A KING'S ROAD, NOS. 7 & 9 FUK YUEN STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2211809735,
+            0,
+            "\u9ed4\u71df\u7f8a\u8089\u7c89",
+            "SHOP E, G/F., RIALTO MANSION, NOS. 177-191A KING'S ROAD, NOS. 7-9 FUK YUEN STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2211810562,
+            0,
+            "YOUNG CHICK & RICE",
+            "SHOP D, G/F., RIALTO MANSION, NOS. 177-181, 185-191 & 191A KING'S ROAD, NOS. 7 & 9 FUK YUEN STREET, HONG KONG",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3111157650,
+            1,
+            "\u6b0a\u8a18\u96f2\u541e\u9eb5",
+            "G/F, 9 FUK YUEN STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-25"
+          ],
+          [
+            3111804677,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP H, G/F, RIALTO MANSION, NO. 177-191A KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919908
+        ]
+      ],
+      "coordinate": [
+        1.993061239465564,
+        0.38901894653690466,
+        33.099998474121094
+      ],
+      "halfSize": [
+        21.745440000202507,
+        22.10772999934852,
+        28.0
+      ]
+    },
+    {
+      "attributes": [
+        1163919467,
+        5,
+        [
+          [
+            2211802345,
+            0,
+            "Le 188 Restaurant & Bar",
+            "41/F (MAJOR PORTION), HARBOUR GRAND HONG KONG, 23 OIL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2211802354,
+            0,
+            "Lobby Lounge",
+            "G/F (MINOR PORTION), HARBOUR GRAND HONG KONG, 23 OIL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2211802363,
+            0,
+            "Grand Ballroom",
+            "1/F (MAJOR PORTION) AND 5/F (PORTION), HARBOUR GRAND HONG KONG, 23 OIL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-01"
+          ],
+          [
+            2211802372,
+            0,
+            "Kwan Cheuk Heen",
+            "5/F. (MINOR PORTION), HARBOUR GRAND HONG KONG, 23 OIL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-01"
+          ],
+          [
+            2211802381,
+            0,
+            "Harbour Grand Caf\u00e9",
+            "3/F (MAJOR PORTION), HARBOUR GRAND HONG KONG, 23 OIL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919915
+        ]
+      ],
+      "coordinate": [
+        1.9930222831332383,
+        0.38901624358587256,
+        83.55000305175781
+      ],
+      "halfSize": [
+        26.584550000261515,
+        35.99565999954939,
+        79.75
+      ]
+    },
+    {
+      "attributes": [
+        1163919468,
+        1,
+        [
+          [
+            2211809434,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 23, G/F., GREENWICH CENTRE, 252-264 KING'S ROAD, FORTRESS HILL, HONG KONG",
+            null,
+            "2026-06-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919923
+        ]
+      ],
+      "coordinate": [
+        1.9930699534493244,
+        0.38901660283905215,
+        43.54999923706055
+      ],
+      "halfSize": [
+        19.121625000145286,
+        20.439305000007153,
+        38.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1163919469,
+        2,
+        [
+          [
+            2211810483,
+            0,
+            "Missy Cafe",
+            "SHOP 01 & 10-13, G/F., PRINCESS MANSION, 165A-175 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-29"
+          ],
+          [
+            3911804912,
+            1,
+            "Sheung Ho Kee",
+            "SHOP 5, 6 & 7, G/F, PRINCESS MANSION, 165A-175 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919939
+        ]
+      ],
+      "coordinate": [
+        1.9930563112194288,
+        0.38901370127877455,
+        37.44999694824219
+      ],
+      "halfSize": [
+        16.489659999962896,
+        16.829889999702573,
+        32.25
+      ]
+    },
+    {
+      "attributes": [
+        1163919470,
+        1,
+        [
+          [
+            2211216195,
+            0,
+            "Cafe De Coral",
+            "SHOP NO. 8, G/F, FORTRESS TOWER, 250 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919948
+        ]
+      ],
+      "coordinate": [
+        1.9930672082633236,
+        0.389010249496127,
+        44.75
+      ],
+      "halfSize": [
+        28.446004999801517,
+        27.934224999509752,
+        39.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919471,
+        1,
+        [
+          [
+            2211810447,
+            0,
+            "\u8d85\u4eba\u96de\u7172\u70e4\u9b5a",
+            "SHOP C, G/F, CHUNG NAM MANSION, 163-163B KING'S ROAD, 7-9 BOAT STREET, HONG KONG",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919954
+        ]
+      ],
+      "coordinate": [
+        1.9930540022090193,
+        0.3890111251764804,
+        33.349998474121094
+      ],
+      "halfSize": [
+        13.500874999910593,
+        13.196339999325573,
+        28.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919472,
+        11,
+        [
+          [
+            2211805335,
+            0,
+            "HUALIEN DATING",
+            "SHOP NOS. 14-15, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2211805636,
+            0,
+            "GENKI SUSHI",
+            "MINOR PORTION OF SHOP 8, SHOP 9 & MAJOR PORTION OF SHOP 10, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2211805733,
+            0,
+            "Chaology",
+            "SHOP NOS. 3-4, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-22"
+          ],
+          [
+            2211808662,
+            0,
+            "AKINNA BAR",
+            "SHOP NO. 17, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2211809063,
+            0,
+            "Pause It",
+            "SHOP NO. 18, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2211809407,
+            0,
+            "TAI HING",
+            "SHOP NOS. G10B-13, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2211810094,
+            0,
+            "HIKARI",
+            "SHOP NO. 16, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2211810623,
+            0,
+            "PIZZAEXPRESS",
+            "SHOP NOS. 20-21, G/F, AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3111802574,
+            1,
+            "Starbucks Coffee",
+            "SHOP 7 & MAJOR PORTION OF SHOP 8, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-08"
+          ],
+          [
+            3111803461,
+            1,
+            "PRET A MANGER",
+            "SHOP NO. S1, G/F., AIA TOWER, 183 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-07"
+          ],
+          [
+            3111803735,
+            1,
+            "YAKITORI TIGER",
+            "SHOP 19, G/F., 183 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919969
+        ]
+      ],
+      "coordinate": [
+        1.9930347319927852,
+        0.3890056455945001,
+        90.1500015258789
+      ],
+      "halfSize": [
+        24.251499999780208,
+        24.998500000685453,
+        85.54999542236328
+      ]
+    },
+    {
+      "attributes": [
+        1163919473,
+        2,
+        [
+          [
+            2211809212,
+            0,
+            "Sushi Express",
+            "SHOP 3A, G/F., NOS. 147-151 KING'S ROAD, FORTRESS HILL, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2211809586,
+            0,
+            "GOZIP",
+            "SHOP 1, GROUND FLOOR, 147-151 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163919981
+        ]
+      ],
+      "coordinate": [
+        1.9930481342252535,
+        0.38900454260805506,
+        33.099998474121094
+      ],
+      "halfSize": [
+        14.116069999989122,
+        13.840784999541938,
+        27.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919474,
+        1,
+        [
+          [
+            2211811103,
+            0,
+            "Antidote",
+            "SHOP 4A AND 4A1, G/F, NAM FUNG COURT, HARBOUR HEIGHTS, 1 FOOK YUM ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920015
+        ]
+      ],
+      "coordinate": [
+        1.9930201704783694,
+        0.38899695955590485,
+        62.150001525878906
+      ],
+      "halfSize": [
+        17.627110000234097,
+        16.754224999807775,
+        57.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1163919475,
+        1,
+        [
+          [
+            2211811431,
+            0,
+            "NOURISH YUE CUISINE",
+            "SHOPS 4C & 4D, G/F, LEE & MAN COMMERCIAL CENTER, 169 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920045
+        ]
+      ],
+      "coordinate": [
+        1.99301911250716,
+        0.38899004488526046,
+        85.5
+      ],
+      "halfSize": [
+        19.301969999913126,
+        18.607475000433624,
+        65.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919476,
+        1,
+        [
+          [
+            2211802318,
+            0,
+            "\u65b0\u798f\u8a18\u9152\u5bb6",
+            "THE ENTRANCE ON G/F, 1/F & 2/F., MERLIN GARDEN, 160 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920076
+        ]
+      ],
+      "coordinate": [
+        1.9930264608144586,
+        0.3889849311675818,
+        44.150001525878906
+      ],
+      "halfSize": [
+        16.918435000348836,
+        10.454044999554753,
+        39.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1163919477,
+        1,
+        [
+          [
+            3112806643,
+            1,
+            "\u5a01\u98db\u98df\u5e97",
+            "G/F., KAM TAO BUILDING, NGAN TAO BUILDING AND HOI TAO BUILDING, 2 WHITFIELD ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920118
+        ]
+      ],
+      "coordinate": [
+        1.9930087943949588,
+        0.3889767715321632,
+        52.04999923706055
+      ],
+      "halfSize": [
+        12.200894999783486,
+        15.635165000334382,
+        48.04999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1163919478,
+        2,
+        [
+          [
+            2211804174,
+            0,
+            "\u65b0\u91d7\u8a18",
+            "SHOP 3, G/F., FOOK LEE BUILDING, NO. 1-7 SHELL STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2211805070,
+            0,
+            "PO WOO RESTAURANT",
+            "SHOP D, G/F., FUK LEE BUILDING, 1-7 SHELL STREET, FORTRESS HILL, HONG KONG",
+            null,
+            "2026-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920125
+        ]
+      ],
+      "coordinate": [
+        1.9930339554395222,
+        0.3889772500118208,
+        38.70000076293945
+      ],
+      "halfSize": [
+        11.179525000043213,
+        9.231394999660552,
+        33.20000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919479,
+        1,
+        [
+          [
+            2212815698,
+            0,
+            "OMU Cafe",
+            "SHOP A, G/F., KWAI HUNG HOLDINGS CENTRE, 89 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920143
+        ]
+      ],
+      "coordinate": [
+        1.9930387271050907,
+        0.38897360606387543,
+        54.45000076293945
+      ],
+      "halfSize": [
+        7.162889999803156,
+        9.332079999148846,
+        47.95000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919480,
+        1,
+        [
+          [
+            2212817205,
+            0,
+            "\u6771\u5761\u8c6c\u624b\u9eb5",
+            "SHOP B, G/F., HOI SHING BUILDING, NO. 141-155 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920151
+        ]
+      ],
+      "coordinate": [
+        1.9930131773385367,
+        0.3889707211482492,
+        34.400001525878906
+      ],
+      "halfSize": [
+        11.31343000009656,
+        14.823689999990165,
+        30.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919481,
+        1,
+        [
+          [
+            3112806111,
+            1,
+            "\u9999\u6e2f\u4ed4\u4e00\u54c1\u9b5a\u86cb\u738b",
+            "SHOP A, G/F., KUNG ON MANSION, NO. 85 KING'S ROAD, NO. 1A JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920163
+        ]
+      ],
+      "coordinate": [
+        1.9930384243082366,
+        0.38896979527972725,
+        25.299999237060547
+      ],
+      "halfSize": [
+        10.63763999985531,
+        3.413080000318587,
+        18.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1163919482,
+        5,
+        [
+          [
+            2212814561,
+            0,
+            "Sushi Ching",
+            "UNITS 1 AND 2, 12/F., JUPITER TOWER, 9 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2212815476,
+            0,
+            "YUKI JAPANESE RESTAURANT",
+            "FLAT 1 & 2, 28/F., JUPITER TOWER, NO. 9 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2212817825,
+            0,
+            "\u6f6e\u5473\u5c45",
+            "UNITS 05-06, 16/F., JUPITER TOWER, 9 JUPITER STREET, HONG KONG",
+            null,
+            "2026-03-22"
+          ],
+          [
+            3112808001,
+            1,
+            "SIO KAN",
+            "UNIT 6, 13/F., JUPITER TOWER, 9 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-20"
+          ],
+          [
+            3112809943,
+            1,
+            "SCORPIO",
+            "UNIT 05-06, 11/F., JUPITER TOWER, NO. 9 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920168
+        ]
+      ],
+      "coordinate": [
+        1.9930321769296888,
+        0.3889686802502134,
+        51.0
+      ],
+      "halfSize": [
+        8.653180000372231,
+        8.441060000099242,
+        45.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1163919483,
+        1,
+        [
+          [
+            2211804651,
+            0,
+            "First Taste Soup",
+            "SHOP A, G/F., WHITFIELD MANSION, 15-19 WHITFIELD ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920177
+        ]
+      ],
+      "coordinate": [
+        1.9930061271659096,
+        0.38896589509241913,
+        24.850000381469727
+      ],
+      "halfSize": [
+        11.295599999837577,
+        12.039150000549853,
+        20.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919484,
+        2,
+        [
+          [
+            2212819618,
+            0,
+            "The Second Phase",
+            "SHOP NO. 9, G/F, BELLE HOUSE, NOS. 23-35 WHITFIELD ROAD AND NOS. 98-104 HING FAT STREET, TIN HAU, HONG KONG",
+            null,
+            "2027-01-16"
+          ],
+          [
+            3112809420,
+            1,
+            "ELLIE'S",
+            "SHOP 7, G/F., BELLE HOUSE, NO. 23-31, WHITFIELD ROAD, & NO. 104, HING FAT STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920190
+        ]
+      ],
+      "coordinate": [
+        1.993001835762651,
+        0.3889622633700804,
+        42.5
+      ],
+      "halfSize": [
+        16.762000000104308,
+        20.17803500033915,
+        38.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919485,
+        1,
+        [
+          [
+            3112810682,
+            1,
+            "\u6f6e\u767c\u725b\u4ec0\u7c89\u9eb5",
+            "G/F, 127 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920209
+        ]
+      ],
+      "coordinate": [
+        1.993017089320424,
+        0.3889600904137065,
+        14.100000381469727
+      ],
+      "halfSize": [
+        6.012509999796748,
+        6.9366800002753735,
+        9.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919486,
+        1,
+        [
+          [
+            2212823550,
+            0,
+            "\u4e5d\u753a\u5c4b",
+            "SHOP A, G/F, SAN HO BUILDING, 17-19 MERCURY STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-05-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920221
+        ]
+      ],
+      "coordinate": [
+        1.9930285623494177,
+        0.3889586575294069,
+        41.14999771118164
+      ],
+      "halfSize": [
+        6.154620000161231,
+        11.250605000182986,
+        35.95000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1163919487,
+        1,
+        [
+          [
+            2212812653,
+            0,
+            "ASAP",
+            "SHOP NO. 1, G/F., THE HEMISPHERES, NOS. 1-7A GORDON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920225
+        ]
+      ],
+      "coordinate": [
+        1.9930144674507733,
+        0.38895834121741346,
+        15.5
+      ],
+      "halfSize": [
+        4.446509999688715,
+        7.120519999414682,
+        11.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919488,
+        1,
+        [
+          [
+            3112807026,
+            1,
+            "Off Dry",
+            "G/F., BLOCK E, VICTORIA MANSION, 14A GORDON ROAD, HONG KONG",
+            null,
+            "2026-07-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920227
+        ]
+      ],
+      "coordinate": [
+        1.9930127978480694,
+        0.38895656792221617,
+        26.049999237060547
+      ],
+      "halfSize": [
+        14.207750000059605,
+        10.521119999699295,
+        22.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1163919489,
+        1,
+        [
+          [
+            2212816202,
+            0,
+            "Sixes Hotpot",
+            "G/F. & M/F., HING YUE MANSION, 21 WING HING STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-12-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920233
+        ]
+      ],
+      "coordinate": [
+        1.9930309564931346,
+        0.38895483584583157,
+        24.200000762939453
+      ],
+      "halfSize": [
+        5.690660000313073,
+        10.106095000170171,
+        17.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919490,
+        1,
+        [
+          [
+            2212822098,
+            0,
+            "YAYOI",
+            "G/F, WING HING BUILDING, NO. 27 WING HING STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-09-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920237
+        ]
+      ],
+      "coordinate": [
+        1.9930336755609301,
+        0.38895474497536764,
+        24.600000381469727
+      ],
+      "halfSize": [
+        11.178499999921769,
+        8.195194999687374,
+        17.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1163919491,
+        1,
+        [
+          [
+            3112810390,
+            1,
+            "\u4e94\u8c37\u6f01\u7c89",
+            "SHOP C, G/F, WING HING HOUSE, 107-109 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920248
+        ]
+      ],
+      "coordinate": [
+        1.993017398672259,
+        0.3889528503042024,
+        19.05000114440918
+      ],
+      "halfSize": [
+        6.76537000015378,
+        4.870795000344515,
+        14.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919492,
+        1,
+        [
+          [
+            2211805496,
+            0,
+            "SO, OYSTER & WINE RESTAURANT",
+            "PORTION OF G/F., TWENTY ONE WHITFIELD, 21 WHITFIELD ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920263
+        ]
+      ],
+      "coordinate": [
+        1.9930046452465267,
+        0.3889647771747377,
+        11.5
+      ],
+      "halfSize": [
+        9.4200549996458,
+        10.577624999918044,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919493,
+        1,
+        [
+          [
+            3111171256,
+            1,
+            "\u53c1\u5bf6\u7687\u8d85\u7d1a\u5feb\u9910\u5c0f\u98df",
+            "SHOP 1A & 1B, KIN BONG BLDG, 112-114 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920265
+        ]
+      ],
+      "coordinate": [
+        1.9931655269926536,
+        0.3890703520867576,
+        8.399999618530273
+      ],
+      "halfSize": [
+        7.120585000142455,
+        11.58798999991268,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1163919494,
+        1,
+        [
+          [
+            3111215598,
+            1,
+            "\u6b0a\u8a18\u96f2\u541e\u9eb5",
+            "SHOP 2, G/F, JAVA ROAD 108 COMMERCIAL CENTRE, 108 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920266
+        ]
+      ],
+      "coordinate": [
+        1.9931639005083452,
+        0.3890700645269167,
+        9.0
+      ],
+      "halfSize": [
+        6.990685000084341,
+        11.936384999193251,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919495,
+        1,
+        [
+          [
+            2211804484,
+            0,
+            "\u529f\u592b\u9ede\u5fc3",
+            "SHOP 1-2, G/F., THE JAVA, 98 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920267
+        ]
+      ],
+      "coordinate": [
+        1.9931607801394935,
+        0.38906932724451504,
+        11.050000190734863
+      ],
+      "halfSize": [
+        16.258799999952316,
+        14.003240000456572,
+        6.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1163919496,
+        3,
+        [
+          [
+            2211133135,
+            0,
+            "Sapporo Ramen House",
+            "SHOP C2, G/F, JAVA COMMERCIAL CENTRE, 124-134 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-10"
+          ],
+          [
+            2211810216,
+            0,
+            "\u5bcc\u666f\u6e05\u9999\u9eb5\u5bb6",
+            "SHOP A, G/F, JAVA COMMERCIAL CENTRE, 132 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2211811158,
+            0,
+            "BROTHER GROUP COMPANY LIMITED",
+            "SHOP D, G/F, JAVA COMMERCIAL CENTRE, 124-132 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920268
+        ]
+      ],
+      "coordinate": [
+        1.9931741205354785,
+        0.38907231268638026,
+        11.25
+      ],
+      "halfSize": [
+        16.384499999694526,
+        12.11108999978751,
+        6.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919497,
+        1,
+        [
+          [
+            3111802732,
+            1,
+            "SAIGON ETOILE",
+            "G/F., 118 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920274
+        ]
+      ],
+      "coordinate": [
+        1.993022732686581,
+        0.3889530309481818,
+        11.799999237060547
+      ],
+      "halfSize": [
+        10.83902999991551,
+        5.10035500023514,
+        7.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1163919498,
+        4,
+        [
+          [
+            2211151122,
+            0,
+            "\u541b\u5fa1\u7f8e\u98df",
+            "G/F, 122 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2212812714,
+            0,
+            "\u751f\u8a18\u7ca5\u5e97",
+            "G/F., WING WAH BUILDING, 126 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3112807275,
+            1,
+            "\u516b\u5bf6\u6e05\u6e6f\u8169",
+            "FLAT B, G/F., WING WAH BUILDING, 124 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-13"
+          ],
+          [
+            3114127074,
+            1,
+            "\u5927\u6e90\u5473",
+            "G/F, REAR PORTION, WING WAH BUILDING, 425J QUEEN'S ROAD WEST, WESTERN, HONG KONG",
+            null,
+            "2027-02-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920275
+        ]
+      ],
+      "coordinate": [
+        1.9930221018234562,
+        0.3889552007622327,
+        7.050000190734863
+      ],
+      "halfSize": [
+        8.255594999995083,
+        9.748494999483228,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1163919499,
+        1,
+        [
+          [
+            3112808223,
+            1,
+            "BAKA BURGER",
+            "G/F., 27C MERCURY STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920276
+        ]
+      ],
+      "coordinate": [
+        1.9930223258928303,
+        0.38895890566447944,
+        6.949999809265137
+      ],
+      "halfSize": [
+        11.232500000391155,
+        14.027999999932945,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1163919500,
+        1,
+        [
+          [
+            3111804181,
+            1,
+            "MOTD CONCEPTS",
+            "PORTION A OF 1/F., UNION PARK TOWER, NO. 168 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920292
+        ]
+      ],
+      "coordinate": [
+        1.9930287093924426,
+        0.38898949044294245,
+        11.799999237060547
+      ],
+      "halfSize": [
+        8.880429999902844,
+        10.648214999586344,
+        7.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1163919501,
+        1,
+        [
+          [
+            2211806736,
+            0,
+            "\u4e5d\u4efd\u98fd",
+            "G/F., KP TOWER, 93 KING'S ROAD, FORTRESS HILL, HONG KONG",
+            null,
+            "2026-07-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920294
+        ]
+      ],
+      "coordinate": [
+        1.993038059818729,
+        0.3889759094399926,
+        11.350000381469727
+      ],
+      "halfSize": [
+        10.206675000023097,
+        6.5609800005331635,
+        5.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1163919502,
+        2,
+        [
+          [
+            2212818420,
+            0,
+            "\u9678\u7530\u5712\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP 2, G/F., DIVA, NO. 133 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2212823268,
+            0,
+            "WALNUT CAFE",
+            "SHOP NOS. 3-4, G/F., DIVA, NO. 137-139 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920300
+        ]
+      ],
+      "coordinate": [
+        1.9930130956208292,
+        0.3889660245525833,
+        7.649999618530273
+      ],
+      "halfSize": [
+        13.520320000126958,
+        18.388735000044107,
+        3.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1163919503,
+        1,
+        [
+          [
+            3812824497,
+            0,
+            "SUN FOOK KEE RESTAURANT",
+            "SHOP NO. 2, G/F, THE HEMISPHERES, NOS.1-5 GORDON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920301
+        ]
+      ],
+      "coordinate": [
+        1.993010105076284,
+        0.38896334350919526,
+        8.699999809265137
+      ],
+      "halfSize": [
+        18.219229999929667,
+        18.29681499954313,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1163919504,
+        2,
+        [
+          [
+            2211808176,
+            0,
+            "CRUISE",
+            "23/F. (PORTION A) AT TOWER 1, HYATT CENTRIC VICTORIA HARBOUR HONG KONG, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2211808404,
+            0,
+            "Victoria Pearl and Kichiji",
+            "SHOP NOS. 501-503, 5/F., HOTEL VIC, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920325
+        ]
+      ],
+      "coordinate": [
+        1.9931487457419275,
+        0.3890811546070455,
+        50.04999923706055
+      ],
+      "halfSize": [
+        19.571149999741465,
+        22.607629999518394,
+        35.85000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1163919505,
+        6,
+        [
+          [
+            2211808501,
+            0,
+            "THE MANDARIN HOUSE",
+            "SHOP NOS. 202 & 203, 2/F., EAST TOWER, HARBOUR NORTH @ VIC, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2211808680,
+            0,
+            "SKY BLUE",
+            "SHOP NO. 301, 3/F., EAST TOWER, HARBOUR NORTH @ VIC, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2211809957,
+            0,
+            "LITM",
+            "SHOP G01 & G32, G/F., HARBOUR NORTH PHASE 1, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2211811510,
+            0,
+            "RIVA",
+            "SHOP 111, 1/F, HARBOUR NORTH PHASE 1, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-24"
+          ],
+          [
+            3811811746,
+            0,
+            "One Duck Land / Sichuan Verandah / The Farmhouse Deli",
+            "2/F (PORTION A AND PORTION B), HYATT CENTRIC VICTORIA HARBOUR HONG KONG, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3111803771,
+            1,
+            "Starbucks Coffee",
+            "SHOP G20, G/F., HARBOUR NORTH, 1 NORTH POINT ESTATE LANE, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920327
+        ]
+      ],
+      "coordinate": [
+        1.9931539716417752,
+        0.38908269611983753,
+        9.25
+      ],
+      "halfSize": [
+        49.49344499967992,
+        30.91389000043273,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919506,
+        4,
+        [
+          [
+            2211810845,
+            0,
+            "THAILAND WOK",
+            "SHOP NOS. G7 & G8, G/F, HARBOUR NORTH, PHASE 3, NO. 133 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-07"
+          ],
+          [
+            3811811737,
+            0,
+            "MILK CAFE",
+            "SHOP G3 & G4, G/F, HARBOUR NORTH PHASE 3, NO. 133 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3111804349,
+            1,
+            "HAP COFFEE",
+            "SHOP NO. G2B, G/F, PHASE 3, HARBOUR NORTH, NO. 133 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-27"
+          ],
+          [
+            3111804668,
+            1,
+            "Thailand Sweet",
+            "SHOP G09, G/F, HARBOUR NORTH, PHASE 3, NO. 133 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920335
+        ]
+      ],
+      "coordinate": [
+        1.9932008861778643,
+        0.3890888668810607,
+        9.949999809265137
+      ],
+      "halfSize": [
+        69.91542499978095,
+        48.34917000029236,
+        5.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919507,
+        1,
+        [
+          [
+            2211809106,
+            0,
+            "CAFE A",
+            "PORTION OF G/F. AND PORTION A OF B1/F., HOTEL ALEXANDRA, 32 CITY GARDEN ROAD, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920352
+        ]
+      ],
+      "coordinate": [
+        1.9930336487303897,
+        0.3890207643900174,
+        15.800000190734863
+      ],
+      "halfSize": [
+        37.006950000301,
+        31.930734999477863,
+        11.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1163919508,
+        2,
+        [
+          [
+            2211808981,
+            0,
+            "FRITES BELGIUM ON TAP",
+            "SHOPS 4-5, G/F., HONG KONG LI-NING BUILDING, 218 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3111803957,
+            1,
+            "SUBWAY",
+            "SHOP 6, G/F., 218 ELECTRIC ROAD, FORTRESS HILL, HONG KONG",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920361
+        ]
+      ],
+      "coordinate": [
+        1.993046802259693,
+        0.3890087433585897,
+        12.399999618530273
+      ],
+      "halfSize": [
+        22.67599999997765,
+        24.556499999947846,
+        7.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1163919509,
+        3,
+        [
+          [
+            2212823231,
+            0,
+            "YUET TUNG HIN",
+            "SHOP NOS. 3, 8-11, G/F, THE CONSONANCE, NO. 23 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2212823408,
+            0,
+            "CHO KUU",
+            "SHOP 5, G/F, THE CONSONANCE, 23 JUPITER STREET, HONG KONG",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3112809271,
+            1,
+            "STICKS & FIRE",
+            "SHOP 6 & 7, G/F, THE CONSONANCE, 23 JUPITER STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920362
+        ]
+      ],
+      "coordinate": [
+        1.9930281420309948,
+        0.3889679177765595,
+        13.700000762939453
+      ],
+      "halfSize": [
+        16.112474999856204,
+        11.7424649996683,
+        8.5
+      ]
+    },
+    {
+      "attributes": [
+        1163919510,
+        20,
+        [
+          [
+            2211808796,
+            0,
+            "MOS Burger Express",
+            "SHOP NO. 105, 1/F., WESTERN SITE, HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-13"
+          ],
+          [
+            2211808884,
+            0,
+            "UCC Coffee Shop",
+            "SHOP NP-13-001, B1/F., THE WESTERN SITE, HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2211808893,
+            0,
+            "OYSTA+ & Ya Rou Mushi",
+            "SHOP NP-13-105, B1/F., THE WESTERN SITE, HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2211808954,
+            0,
+            "JEJU BULGOGI SIKTTANG",
+            "SHOP NO. 210, 2/F., HARBOUR NORTH PHASE 2, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2211808972,
+            0,
+            "TONTONSHOKUDO",
+            "SHOP 120, 1/F., HARBOUR NORTH PHASE 2, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2211809009,
+            0,
+            "BRIKETENIA",
+            "SHOP 206, 2/F., HARBOUR NORTH PHASE 2, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2211809133,
+            0,
+            "Menya Musashi Kodou",
+            "SHOP NO. 118-119, 1/F., HARBOUR NORTH PHASE 2, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2211809151,
+            0,
+            "KAYA",
+            "SHOP G09, G/F., HARBOUR NORTH PHASE 2, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2211809160,
+            0,
+            "Pizza Express",
+            "SHOP 218-219, 2/F., PHASE 2, HARBOUR NORTH, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2211809294,
+            0,
+            "Nha Trang (NP) Vietnamese Canteen",
+            "SHOP NO. G39, G/F., PHASE 2, HARBOUR NORTH, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2211809391,
+            0,
+            "Mom's Dry Noodle Shop (Harbour North)",
+            "PORTION A & B, SHOP NO. 109, 1/F., PHASE 2, HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2211809601,
+            0,
+            "SIAO SIANG NONG NIU ROU MIAN",
+            "SHOP NO. G01, GROUND FLOOR OF PHASE 2, HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2211809674,
+            0,
+            "STEAK ART",
+            "SHOP NO. G17, GROUND FLOOR, HARBOUR NORTH PHASE 2, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2211809744,
+            0,
+            "Harbourview Grill",
+            "SHOP 108, 1/F., HARBOUR NORTH PHASE 2, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2211810261,
+            0,
+            "UMIMACHIDON",
+            "SHOP NO. G38, G/F., PHASE 2, HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2211811006,
+            0,
+            "Yakiniku Like",
+            "SHOP 216-217, 2/F., PHASE 2, HARBOUR NORTH, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2211811653,
+            0,
+            "SUSHIRO HARBOUR NORTH 2",
+            "SHOP 110-112, 1/F., HARBOUR NORTH, PHASE 2, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-01"
+          ],
+          [
+            3811811764,
+            0,
+            "OLIVER'S SUPER SANDWICHES",
+            "SHOP NO. G10, G/F, HARBOUR NORTH PHASE 2, 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-13"
+          ],
+          [
+            3111803911,
+            1,
+            "\u5169\u59ca\u59b9\u6dbc\u76aeX\u682a\u5f0f\u6703\u793e",
+            "SHOP NP-13-004, B1/F., THE WESTERN SITE, HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            3111804066,
+            1,
+            "18 GRAMS",
+            "SHOP NO. G16, G/F., WESTERN SITE OF HARBOUR NORTH, NO. 123 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-08-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920364
+        ]
+      ],
+      "coordinate": [
+        1.9931770108839837,
+        0.3890826374155213,
+        12.299999237060547
+      ],
+      "halfSize": [
+        60.89809733215952,
+        33.74196664895862,
+        7.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1163919511,
+        4,
+        [
+          [
+            2211810526,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP 16 OF G/F. & 1/F., NOVUM POINT, NO. 3 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2211810641,
+            0,
+            "\u9b5a\u773e\u4e0d\u540c",
+            "SHOP NO. 17 & 18, G/F, COMMERCIAL DEVELOPMENT, NOVUM POINT, NO. 3 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2211811316,
+            0,
+            "\u805a\u9686\u624b\u5de5\u9eb5\u98df\u9928",
+            "SHOP 15 OF G/F, NOVUM POINT, NO. 3 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-06"
+          ],
+          [
+            3911804949,
+            1,
+            "TOKO INDONESIA AL KAUTSTAR",
+            "SHOP NO. 4, G/F, NOVUM POINT, 3 MARBLE ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920372
+        ]
+      ],
+      "coordinate": [
+        1.993160186298963,
+        0.38906595090638274,
+        12.149999618530273
+      ],
+      "halfSize": [
+        41.86035000020638,
+        14.783679999411106,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1163919512,
+        1,
+        [
+          [
+            3111804534,
+            1,
+            "Coffeelin",
+            "SHOP 2 AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, G/F, 228 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1163920382
+        ]
+      ],
+      "coordinate": [
+        1.9930525879221852,
+        0.3890155765859672,
+        57.25
+      ],
+      "halfSize": [
+        17.074478790163994,
+        17.84767608344555,
+        52.75
+      ]
+    }
+  ]
+}

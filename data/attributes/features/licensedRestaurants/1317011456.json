@@ -1,0 +1,177 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1317011456,
+        1,
+        [
+          [
+            2297807568,
+            0,
+            "LAI YUEN RESTAURANT",
+            "SHOP NO. G103A, G/F, MULTI-PURPOSE COMPLEX (ALSO KNOWN AS YIU ON SHOPPING CENTRE), YIU ON ESTATE, NO. 2 HANG HONG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1317011457
+        ]
+      ],
+      "coordinate": [
+        1.9936953328930338,
+        0.39129987715846065,
+        9.5
+      ],
+      "halfSize": [
+        56.38299999991432,
+        56.949660000391304,
+        2.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1317011457,
+        10,
+        [
+          [
+            2297001018,
+            0,
+            "\u6f01\u7c73\u4e4b\u9109",
+            "SHOP 305 & 306 AND THE OPEN SPACE AT SHOP FRONT, HENG ON ESTATE COMMERCIAL CENTRE, HENG ON ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297002190,
+            0,
+            "McDonald's",
+            "SHOP NOS 201A & 202A, 2/F, HENG ON SHOPPING CENTRE, HENG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2297806477,
+            0,
+            "\u76db\u6cf0\u5c0f\u5eda",
+            "STALL NO.28, G/F, HENG ON MARKET, HENG ON ESTATE, NO.1 HANG KAM STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ],
+          [
+            2297809087,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 313, 3/F, HENG ON SHOPPING CENTRE, 1 HANG KAM STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2297809379,
+            0,
+            "\u5c0f\u934b\u7c73\u7dda",
+            "STALL NO. 20, G/F, HENG ON MARKET, HENG ON ESTATE, NO. 1 HANG KAM STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2297809403,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 312, 3/F, HENG ON SHOPPING CENTRE, HENG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2297810090,
+            0,
+            "\u5343\u559c\u7ca5\u5e97",
+            "STALL NO. 21, G/F, HENG ON MARKET, HENG ON ESTATE, NO. 1 HANG KAM STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2297810434,
+            0,
+            "\u805a\u559c\u71d2\u9d5d",
+            "SHOP NO. 310, 3/F, HENG ON SHOPPING CENTRE, HENG ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3197801665,
+            1,
+            "\u6a02\u5712\u62db\u724c\u9b5a\u86cb",
+            "STALL NO.26-27, G/F, HENG ON MARKET, HENG ON ESTATE, NO.1 HANG KAM STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            3197802774,
+            1,
+            "\u9280\u6cb3\u725b\u8169\u725b\u96dc\u7c89\u9eb5",
+            "SHOP NO. 218B, SECOND FLOOR, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS HENG ON SHOPPING CENTRE), HENG ON ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1317011538
+        ]
+      ],
+      "coordinate": [
+        1.9936540187235547,
+        0.3912460548268792,
+        14.449999809265137
+      ],
+      "halfSize": [
+        88.90500000026077,
+        85.84499999973923,
+        9.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1317011458,
+        2,
+        [
+          [
+            2297810391,
+            0,
+            "\u8377\u8449\u51b0\u5ba4",
+            "SHOP G03, G/F, YAN ON SHOPPING CENTRE (PHASE 2), YAN ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2297810762,
+            0,
+            "\u4e09\u6085\u51b0\u5ba4",
+            "SHOP NO. 1, G/F, YAN ON SHOPPING CENTRE, YAN ON ESTATE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1317011693
+        ]
+      ],
+      "coordinate": [
+        1.9936153102301044,
+        0.3912078330226613,
+        8.75
+      ],
+      "halfSize": [
+        28.484089999925345,
+        30.6194949997589,
+        2.4499998092651367
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "bsd26A",
+  "label": "Investigation Order(s) Issued under Section 26A of the Buildings Ordinance",
+  "groupDisplay": 1,
+  "attributes": [
+    {
+      "name": "bsd26AIID",
+      "label": "Buildings with Investigation Order(s) Issued under Section 26A of the Buildings Ordinance",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "noData": 4294967295,
+      "show": 0,
+      "representations": [
+        {
+          "type": "boolean",
+          "color": [
+            255,
+            0,
+            127
+          ],
+          "label": "Buildings with Investigation Order(s) Issued under Section 26A of the Buildings Ordinance"
+        }
+      ]
+    },
+    {
+      "name": "address",
+      "label": "Address",
+      "type": "STRING",
+      "addToLabel": 1
+    },
+    {
+      "name": "bds26A",
+      "label": "Number Investigation Order(s) Issued After 1 May 2023 under Section 26A of the Buildings Ordinance",
+      "type": "SCALAR",
+      "componentType": "UINT16",
+      "noData": 0,
+      "show": 3,
+      "selectionLabel": "Investigation Order(s) Issued under Section 26A of the Buildings Ordinance"
+    },
+    {
+      "name": "bds26ACWS",
+      "label": "Number Number Investigation Order(s) Complied With / Withdrawn / Superseded under Section 26A of the Buildings Ordinance",
+      "type": "SCALAR",
+      "componentType": "UINT16",
+      "noData": 0
+    }
+  ],
+  "links": [
+    {
+      "layer": "building",
+      "attribute": "buildingIID"
+    }
+  ],
+  "selection": "bsd26AIID",
+  "featuresDir": "bsd26A",
+  "featuresTileDepth": 4
+}

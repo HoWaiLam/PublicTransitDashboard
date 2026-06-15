@@ -1,0 +1,128 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1337982976,
+        1,
+        [
+          [
+            2296000665,
+            0,
+            "\u660e\u5712",
+            "SHOP NO 4 & 5A, G/F, BLOCK 23, SHA TAU KOK CHUEN, SHA TAU KOK, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1337983096
+        ]
+      ],
+      "coordinate": [
+        1.993592385659102,
+        0.39350331823261797,
+        12.899999618530273
+      ],
+      "halfSize": [
+        31.530524999834597,
+        25.86305500008166,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1337982977,
+        1,
+        [
+          [
+            2296800287,
+            0,
+            "\u6d77\u5c71\u6a13",
+            "G/F & 1/F, 4 CHUNG YING STREET, 9 CHE PING STREET, SHA TAU KOK, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1337983107
+        ]
+      ],
+      "coordinate": [
+        1.9936129929349464,
+        0.3934990048116032,
+        5.5
+      ],
+      "halfSize": [
+        3.8138449997641146,
+        8.948619999922812,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1337982978,
+        1,
+        [
+          [
+            2296000498,
+            0,
+            "\u8857\u89d2\u51b0\u5ba4",
+            "G/F, 1 SAN LAU STREET, SHA TAU KOK, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1337983140
+        ]
+      ],
+      "coordinate": [
+        1.9936042162124545,
+        0.3934885227670884,
+        8.0
+      ],
+      "halfSize": [
+        9.493629999924451,
+        7.32765999995172,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1337982979,
+        1,
+        [
+          [
+            2296803073,
+            0,
+            "\u6c99\u982d\u89d2\u9910\u5ef3",
+            "SHOP NO. 2 AND SHOP NO. 3 (PORTION), G/F, GREENSIDE PARADISE, 33 SHUN LUNG STREET, SHA TAU KOK, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1337983170
+        ]
+      ],
+      "coordinate": [
+        1.9936160404218128,
+        0.39347106392779096,
+        13.199999809265137
+      ],
+      "halfSize": [
+        23.22000000020489,
+        27.85677499976009,
+        9.800000190734863
+      ]
+    }
+  ]
+}

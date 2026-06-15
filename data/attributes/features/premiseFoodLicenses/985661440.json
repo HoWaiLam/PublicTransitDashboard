@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        985661440,
+        1,
+        [
+          [
+            2995801341,
+            4,
+            "No Record",
+            "KIOSK, KADOORIE FARM & BOTANIC GARDEN, D.D. 10, LOT 1822 R.P., LAM KAM ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          985662579
+        ]
+      ],
+      "coordinate": [
+        1.991746386408367,
+        0.3915425455012704,
+        178.95001220703125
+      ],
+      "halfSize": [
+        22.62565500009805,
+        24.47421499993652,
+        7.150001525878906
+      ]
+    }
+  ]
+}

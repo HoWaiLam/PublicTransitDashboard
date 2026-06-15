@@ -1,0 +1,591 @@
+{
+  "features": [
+    {
+      "attributes": [
+        652214272,
+        1,
+        [
+          [
+            2294803811,
+            0,
+            "Pier 88",
+            "UNIT 301, 3/F, COMMERCIAL CENTRE, LONG PING ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215522
+        ]
+      ],
+      "coordinate": [
+        1.9900811008322976,
+        0.3918318082569608,
+        14.0
+      ],
+      "halfSize": [
+        68.16000000014901,
+        47.3254999993369,
+        8.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        652214273,
+        1,
+        [
+          [
+            2294807035,
+            0,
+            "\u7fe0\u6cb3\u9910\u5ef3",
+            "SHOP NOS. M001-M003, MEZZANINE FLOOR, SHEK PING HOUSE, LONG PING ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215530
+        ]
+      ],
+      "coordinate": [
+        1.9900919030323871,
+        0.3918352558039724,
+        36.0
+      ],
+      "halfSize": [
+        35.90675500035286,
+        21.09250000026077,
+        30.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        652214274,
+        8,
+        [
+          [
+            2294804188,
+            0,
+            "\u96f2\u8cb4\u8ed2",
+            "SHOP M001, MEZZANINE FLOOR, LONG PING SHOPPING CENTRE, LONG PING ESTATE, 1 LONG PING ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2294805507,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. L116, FIRST FLOOR , LONG PING SHOPPING CENTRE, LONG PING ESTATE, 1 LONG PING ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2294805631,
+            0,
+            "Pizza Hut",
+            "SHOP NO. L115, FIRST FLOOR, LONG PING SHOPPING CENTRE, LONG PING ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2294805710,
+            0,
+            "TAO YUEN RESTAURANT",
+            "SHOP L114, 1/F, LONG PING SHOPPING CENTRE, LONG PING ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2294805899,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. L207, 2/F, LONG PING SHOPPING CENTRE, LONG PING ESTATE, 1 LONG PING ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2294810512,
+            0,
+            "\u5bcc\u8a18\u7c89\u9eb5",
+            "MARKET STALL NOS. 2 & 3, M/F, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS LONG PING COMMERCIAL CENTRE), LONG PING ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-01"
+          ],
+          [
+            2294811834,
+            0,
+            "\u6b63\u77f3\u7ca5\u5e97",
+            "MARKET STALL NOS. 30 & 31, M/F, COMMERCIAL /CAR PARK BLOCK (ALSO KNOWN AS LONG PING COMMERCIAL CENTRE), LONG PING ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ],
+          [
+            3194802357,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP M002D, M/F, LONG PING SHOPPING CENTRE, LONG PING ESTATE, 1 LONG PING ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215902
+        ]
+      ],
+      "coordinate": [
+        1.990085745790874,
+        0.3918025140189436,
+        7.199999809265137
+      ],
+      "halfSize": [
+        36.14949999982491,
+        43.402999999932945,
+        3.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        652214275,
+        4,
+        [
+          [
+            2294808524,
+            0,
+            "My Home",
+            "SHOP 5, G/F, THE RAINBOW, NO. 22 WANG YIP STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2294808533,
+            0,
+            "Rainbow Bistro",
+            "SHOP 1, G/F, NO. 22 WANG YIP STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2294809165,
+            0,
+            "Marshal Noodles",
+            "SHOP 3B, G/F, THE RAINBOW, NO. 22 WANG YIP STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2294811357,
+            0,
+            "\u805a\u6c23",
+            "SHOP 3A, G/F, THE RAINBOW, 22 WANG YIP STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215903
+        ]
+      ],
+      "coordinate": [
+        1.9901538279905298,
+        0.3918033401440282,
+        6.649999618530273
+      ],
+      "halfSize": [
+        24.294942830281798,
+        30.459040000103414,
+        2.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        652214276,
+        5,
+        [
+          [
+            2294805695,
+            0,
+            "\u65b0\u6a4b\u5e95\u51fa\u4f4d\u96de\u7172",
+            "SHOP NO. 13 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, GROUND FLOOR, FU LOY GARDEN, YLTL 427, MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2294806555,
+            0,
+            "O Woodies",
+            "UNIT 15, G/F, FU LOY GARDEN, MA WANG ROAD, YLTL 427, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2294810169,
+            0,
+            "The Central",
+            "SHOP 12, G/F, FU LOY GARDEN, 7 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2294812110,
+            0,
+            "TOKACHI GYUU JAPANESE RESTAURANT",
+            "SHOP NO. 16, 17, 18 & 43, G/F, FU LOY SHOPPING ARCADE, FU LOY GARDEN, 7 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ],
+          [
+            3194802153,
+            1,
+            "Next Station",
+            "SHOP NO. 10, G/F, FU LOY GARDEN, 7 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215906
+        ]
+      ],
+      "coordinate": [
+        1.990090344803283,
+        0.39177904454683715,
+        6.25
+      ],
+      "halfSize": [
+        32.17264499980956,
+        17.92549499962479,
+        1.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        652214277,
+        6,
+        [
+          [
+            2294805279,
+            0,
+            "\u806f\u767c\u7f8e\u98df",
+            "SHOP 12, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, LUEN FAT HOUSE, 14-48 PING CHEONG PATH, 11-13 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-15"
+          ],
+          [
+            2294807646,
+            0,
+            "\u597d\u8a00\u7f8e\u98df",
+            "SHOP 14E, G/F, LUEN FAT HOUSE, 14-48 PING CHEONG PATH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2294809882,
+            0,
+            "\u6488\u5f97\u559c\u51b0\u5ba4",
+            "SHOP 9-10 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, GROUND FLOOR, LUEN FAT HOUSE, 14-48 PING CHEONG PATH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            3194800935,
+            1,
+            "Awesome",
+            "SHOP 4, G/F, LUEN FAT HOUSE, 14-48 PING CHEONG PATH / 11-13 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            3194802603,
+            1,
+            "Future Darts & Pub",
+            "SHOP 11, G/F, LUEN FAT HOUSE, 14-48 PING CHEONG PATH, 11-13 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3194802898,
+            1,
+            "\u6210\u90fd\u5192\u83dc",
+            "SHOP NO. 6, G/F, LUEN FAT HOUSE, 14-48 PING CHEONG PATH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215908
+        ]
+      ],
+      "coordinate": [
+        1.9900762773552587,
+        0.39177442937586154,
+        6.400000095367432
+      ],
+      "halfSize": [
+        7.171044999733567,
+        43.693204999901354,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        652214278,
+        1,
+        [
+          [
+            3194803493,
+            1,
+            "Ada' s Not Here",
+            "SHOP 4, G/F, LEUNG CHOY BUILDING PHASE 2, 15-19 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215909
+        ]
+      ],
+      "coordinate": [
+        1.990072362927979,
+        0.39178010033854255,
+        6.800000190734863
+      ],
+      "halfSize": [
+        6.1731549999676645,
+        7.422739999368787,
+        2.3999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        652214279,
+        2,
+        [
+          [
+            2294802872,
+            0,
+            "Prideway Hinge Kitchen",
+            "SHOP G, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, LUCKY MANSION, 2 CHUN YIN SQUARE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ],
+          [
+            2294809013,
+            0,
+            "CANADIAN PIZZA",
+            "SHOP F, G/F, LUCKY MANSION, 2 CHUN YIN SQUARE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215910
+        ]
+      ],
+      "coordinate": [
+        1.990079598158647,
+        0.39177813291749297,
+        6.400000095367432
+      ],
+      "halfSize": [
+        7.841434999834746,
+        19.133630000054836,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        652214280,
+        1,
+        [
+          [
+            3194804229,
+            1,
+            "\u4eba\u9593\u7159\u706b",
+            "SHOP NO.19, G/F, LEUNG CHOY BUILDING, 2-44 PING FAI PATH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215911
+        ]
+      ],
+      "coordinate": [
+        1.9900678606813278,
+        0.3917771443942966,
+        6.949999809265137
+      ],
+      "halfSize": [
+        32.143999999854714,
+        7.806000000797212,
+        2.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        652214281,
+        1,
+        [
+          [
+            3194803721,
+            1,
+            "XL SNACKS",
+            "SHOP 9, G/F, FOOK SHUN BUILDING, NOS. 45-67 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652215912
+        ]
+      ],
+      "coordinate": [
+        1.9900515768288611,
+        0.3917751379656445,
+        6.050000190734863
+      ],
+      "halfSize": [
+        28.6017100000754,
+        18.946484999731183,
+        1.75
+      ]
+    },
+    {
+      "attributes": [
+        652214282,
+        1,
+        [
+          [
+            2294808603,
+            0,
+            "\u83ef\u5ac2\u51b0\u5ba4",
+            "G/F, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 121 HA MEI SAN TSUEN, YUNG YUEN ROAD, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652216022
+        ]
+      ],
+      "coordinate": [
+        1.989880789419615,
+        0.39185389515891444,
+        14.050000190734863
+      ],
+      "halfSize": [
+        5.236500000115484,
+        5.854499999433756,
+        4.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        652214283,
+        1,
+        [
+          [
+            3194804344,
+            1,
+            "AKKI Caf\u00e9",
+            "G/F, NO. 128 HA MEI SAN TSUEN, YUNG YUEN ROAD, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652216301
+        ]
+      ],
+      "coordinate": [
+        1.9898829098294732,
+        0.3918668322526992,
+        16.100000381469727
+      ],
+      "halfSize": [
+        4.295675000175834,
+        3.7738049998879433,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        652214284,
+        4,
+        [
+          [
+            2294810840,
+            0,
+            "THAILAND WOK",
+            "SHOP NOS. G17-18 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, FLOOR G, ONE NORTH, 8 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2294811205,
+            0,
+            "\u5927\u98ef\u9928",
+            "SHOP NO. G01, G/F, ONE NORTH, NO. 8 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2294811889,
+            0,
+            "HOI TIN GARDEN RESTAURANT",
+            "SHOP NOS. G29-G32, G/F, ONE NORTH, 8 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            3194804238,
+            1,
+            "hive",
+            "SHOP NO. 108, 1/F, ONE NORTH, 8 HONG YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          652216315
+        ]
+      ],
+      "coordinate": [
+        1.9901895265574236,
+        0.3918401506866195,
+        10.850000381469727
+      ],
+      "halfSize": [
+        64.88919499982148,
+        59.99438999965787,
+        6.350000381469727
+      ]
+    }
+  ]
+}

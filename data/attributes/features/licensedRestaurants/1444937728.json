@@ -1,0 +1,694 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1444937728,
+        1,
+        [
+          [
+            3198801307,
+            1,
+            "ARM COFFEE",
+            "G/F, 17 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937735
+        ]
+      ],
+      "coordinate": [
+        1.9944120518218262,
+        0.3905975358902216,
+        8.100000381469727
+      ],
+      "halfSize": [
+        4.257249999791384,
+        7.455820000730455,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1444937729,
+        1,
+        [
+          [
+            3198000126,
+            1,
+            "Pan da Cafe",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, NO. 23 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937736
+        ]
+      ],
+      "coordinate": [
+        1.994414711325113,
+        0.3905975640057188,
+        8.449999809265137
+      ],
+      "halfSize": [
+        3.8939999998547137,
+        6.337085000239313,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1444937730,
+        1,
+        [
+          [
+            2298800953,
+            0,
+            "Deer Coffee",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 25 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937738
+        ]
+      ],
+      "coordinate": [
+        1.9944155583661256,
+        0.3905975150050213,
+        8.399999618530273
+      ],
+      "halfSize": [
+        3.9484999999403954,
+        5.935999999754131,
+        4.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1444937731,
+        1,
+        [
+          [
+            2298801965,
+            0,
+            "Sai Kung Wife Cake",
+            "G/F, 42 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937740
+        ]
+      ],
+      "coordinate": [
+        1.9944234083480046,
+        0.39059755588637673,
+        8.800000190734863
+      ],
+      "halfSize": [
+        4.364494999870658,
+        4.6408750005066395,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1444937732,
+        1,
+        [
+          [
+            3198802045,
+            1,
+            "BIG PINK BURGERS",
+            "G/F, 43 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937742
+        ]
+      ],
+      "coordinate": [
+        1.9944256999525227,
+        0.3905973537552414,
+        9.200000762939453
+      ],
+      "halfSize": [
+        4.804004999808967,
+        4.728224999271333,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1444937733,
+        1,
+        [
+          [
+            3198801431,
+            1,
+            "TALES",
+            "G/F, 36 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937747
+        ]
+      ],
+      "coordinate": [
+        1.9944209807665598,
+        0.39059628234006,
+        8.899999618530273
+      ],
+      "halfSize": [
+        3.6688450002111495,
+        4.942689999938011,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937734,
+        1,
+        [
+          [
+            2298000067,
+            0,
+            "Kam Fai Seafood Restaurant",
+            "G/F, AND THE OUTSIDE SEATING ACCOMMODATIONAT SHOP FRONT, 35-39 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937748
+        ]
+      ],
+      "coordinate": [
+        1.9944232573425982,
+        0.3905960692526741,
+        8.899999618530273
+      ],
+      "halfSize": [
+        4.5380049999803305,
+        4.723899999633431,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937735,
+        1,
+        [
+          [
+            3198800094,
+            1,
+            "RIAS",
+            "G/F, NO. 34 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937752
+        ]
+      ],
+      "coordinate": [
+        1.9944204183982284,
+        0.3905960196755184,
+        8.899999618530273
+      ],
+      "halfSize": [
+        3.3357699997723103,
+        4.879935000091791,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937736,
+        1,
+        [
+          [
+            3198801103,
+            1,
+            "CHILLHOUSE",
+            "G/F , 30 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937757
+        ]
+      ],
+      "coordinate": [
+        1.9944193287232168,
+        0.39059551009667615,
+        8.899999618530273
+      ],
+      "halfSize": [
+        3.5017249998636544,
+        5.165749999694526,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937737,
+        1,
+        [
+          [
+            3198800030,
+            1,
+            "Fu Ah",
+            "G/F, NO. 31 & NO. 33 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937764
+        ]
+      ],
+      "coordinate": [
+        1.994421620203123,
+        0.39059498973274404,
+        8.899999618530273
+      ],
+      "halfSize": [
+        3.767485000193119,
+        5.1428749999031425,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937738,
+        1,
+        [
+          [
+            2298802506,
+            0,
+            "BAN THAI RESTAURANT",
+            "G/F, 5 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937765
+        ]
+      ],
+      "coordinate": [
+        1.9944062119628945,
+        0.39059461741546186,
+        8.600000381469727
+      ],
+      "halfSize": [
+        3.265544999856502,
+        7.269255000166595,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1444937739,
+        1,
+        [
+          [
+            3998802511,
+            1,
+            "No Record",
+            "G/F, NO.7 SAI KUNG HOI PONG STREET, (FORMERLY KNOWN AS NO.13 HOI PONG STREET) , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937767
+        ]
+      ],
+      "coordinate": [
+        1.9944069593900429,
+        0.39059449134366725,
+        8.449999809265137
+      ],
+      "halfSize": [
+        3.3755649998784065,
+        7.425964999943972,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1444937740,
+        1,
+        [
+          [
+            3198800793,
+            1,
+            "Neoart 3 Coffee Lover",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 26 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937772
+        ]
+      ],
+      "coordinate": [
+        1.9944176669914364,
+        0.3905947607790389,
+        8.899999618530273
+      ],
+      "halfSize": [
+        3.796794999856502,
+        4.964250000193715,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937741,
+        1,
+        [
+          [
+            2298802560,
+            0,
+            "\u5ae6\u9910",
+            "G/F, 24 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937775
+        ]
+      ],
+      "coordinate": [
+        1.9944169733552863,
+        0.39059448696774524,
+        8.899999618530273
+      ],
+      "halfSize": [
+        3.654325000010431,
+        4.981035000644624,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937742,
+        1,
+        [
+          [
+            3198801848,
+            1,
+            "\u5bc6\u63a2\u5e9c",
+            "GROUND FLOOR AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 22 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937779
+        ]
+      ],
+      "coordinate": [
+        1.9944162500211042,
+        0.3905942041447839,
+        8.700000762939453
+      ],
+      "halfSize": [
+        4.004780000075698,
+        5.169040000066161,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1444937743,
+        1,
+        [
+          [
+            2298001909,
+            0,
+            "\u9ad8\u8a18\u9910\u5ef3",
+            "G/F, THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 28 SAI KUNG TAI STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937780
+        ]
+      ],
+      "coordinate": [
+        1.9944029336609626,
+        0.39059449574773636,
+        7.849999904632568
+      ],
+      "halfSize": [
+        6.224314999766648,
+        3.4817150002345443,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1444937744,
+        1,
+        [
+          [
+            2298001750,
+            0,
+            "Fu Ah Seafood Restaurant",
+            "G/F, AND OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 27 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937781
+        ]
+      ],
+      "coordinate": [
+        1.9944199271765108,
+        0.3905941556052503,
+        8.899999618530273
+      ],
+      "halfSize": [
+        3.585475000087172,
+        5.260139999911189,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1444937745,
+        2,
+        [
+          [
+            2298801141,
+            0,
+            "SING KEE SEAFOOD RESTAURANT",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT & SHOP SIDE, DD 215, LOT 1117, 39 SAI KUNG TAI STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2298801150,
+            0,
+            "SING KEE SEAFOOD RESTAURANT",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, DD 215, LOT 1117, 37 SAI KUNG TAI STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937789
+        ]
+      ],
+      "coordinate": [
+        1.9943971529254159,
+        0.3905929057219475,
+        7.75
+      ],
+      "halfSize": [
+        3.6096999999135733,
+        7.213469999842346,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1444937746,
+        1,
+        [
+          [
+            3198802036,
+            1,
+            "\u91cd\u65b0\u4e0b\u8f09",
+            "G/F, 21 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937790
+        ]
+      ],
+      "coordinate": [
+        1.994417528577097,
+        0.3905932170414555,
+        8.5
+      ],
+      "halfSize": [
+        3.5847749998793006,
+        4.77434999961406,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1444937747,
+        1,
+        [
+          [
+            3198801167,
+            1,
+            "SING KEE",
+            "G/F, 33 SAI KUNG TAI STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937794
+        ]
+      ],
+      "coordinate": [
+        1.9943994569784251,
+        0.39059247919268114,
+        7.900000095367432
+      ],
+      "halfSize": [
+        3.563649999909103,
+        7.109984999522567,
+        4.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1444937748,
+        1,
+        [
+          [
+            3198801918,
+            1,
+            "Neko",
+            "SHOP 1B, G/F, 2 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937796
+        ]
+      ],
+      "coordinate": [
+        1.994403333173546,
+        0.3905919435861984,
+        13.700000762939453
+      ],
+      "halfSize": [
+        6.138044999912381,
+        6.354980000294745,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        1444937749,
+        1,
+        [
+          [
+            3198800890,
+            1,
+            "Sweetheart Dessert",
+            "G/F, 16 SAI KUNG HOI PONG STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1444937805
+        ]
+      ],
+      "coordinate": [
+        1.9944102047671042,
+        0.3905905469027296,
+        7.299999713897705
+      ],
+      "halfSize": [
+        3.5185150001198053,
+        6.537484999746084,
+        3.5999999046325684
+      ]
+    }
+  ]
+}

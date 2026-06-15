@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        952107008,
+        1,
+        [
+          [
+            3117000745,
+            1,
+            "Concerto Inn",
+            "FLAT B, G/F., CONCERTO INN, 28 HUNG SHING YEH BEACH, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          952107068
+        ]
+      ],
+      "coordinate": [
+        1.9917569045901644,
+        0.3877996154038897,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.71188999991864,
+        4.519600000232458,
+        4.5
+      ]
+    }
+  ]
+}

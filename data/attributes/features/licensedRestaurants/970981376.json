@@ -1,0 +1,301 @@
+{
+  "features": [
+    {
+      "attributes": [
+        970981376,
+        1,
+        [
+          [
+            2291802543,
+            0,
+            "Hundred Percent Restaurant",
+            "SHOP 20 (PORTION A), G/F, WONDERLAND VILLAS COMMERCIAL COMPLEX, 9 WAH KING HILL ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          970981400
+        ]
+      ],
+      "coordinate": [
+        1.9920647428940061,
+        0.39011153151875483,
+        219.4499969482422
+      ],
+      "halfSize": [
+        31.114939999766648,
+        30.79598500020802,
+        3.9499969482421875
+      ]
+    },
+    {
+      "attributes": [
+        970981377,
+        1,
+        [
+          [
+            3191800846,
+            1,
+            "LOK KING RSTAURANT",
+            "SHOP 1 (MAJOR PORTION), G/F, LOK KING HOUSE, LAI KING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          970981553
+        ]
+      ],
+      "coordinate": [
+        1.991880922317245,
+        0.39001435558015174,
+        65.4000015258789
+      ],
+      "halfSize": [
+        29.14676500018686,
+        73.13615000061691,
+        34.0
+      ]
+    },
+    {
+      "attributes": [
+        970981378,
+        2,
+        [
+          [
+            2291800705,
+            0,
+            "Asia Pacific",
+            "STAFF CANTEEN, 4TH FLOOR, BLOCK G, PRINCESS MARGARET HOSPITAL, PRINCESS MARGARET HOSPITAL ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            3191800800,
+            1,
+            "Pacific Coffee Company",
+            "G/F, MAIN BLOCK, PRINCESS MARGARET HOSPITAL, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          970982067
+        ]
+      ],
+      "coordinate": [
+        1.9920261980042426,
+        0.3899091296934759,
+        66.25
+      ],
+      "halfSize": [
+        29.280010000336915,
+        30.456294999457896,
+        17.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        970981379,
+        1,
+        [
+          [
+            2291802905,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 2, GROUND FLOOR, YIN LAI SHOPPING CENTRE, YIN LAI COURT, 180 LAI KING HILL ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          970982102
+        ]
+      ],
+      "coordinate": [
+        1.991884511237667,
+        0.39006452437168243,
+        30.600000381469727
+      ],
+      "halfSize": [
+        26.793664999771863,
+        40.036465000361204,
+        4.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        970981380,
+        5,
+        [
+          [
+            2291002587,
+            0,
+            "Wendy's Kitchen",
+            "SHOP NO. 11-12, G/F, BLOCK E, CHO YIU CHUEN, 6 KING CHO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2291801133,
+            0,
+            "LUCKY DRAGON BOAT DELICIOUS FOOD",
+            "SHOP NO. 201, 2/F, BLOCK E, CHO YIU CENTRE, 6 KING CHO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2291801869,
+            0,
+            "\u9f8d\u5ef7\u7cb5\u83dc\u5ef3",
+            "SHOP F16 AND 116, BLOCK F, CHO YIU CENTRE, CHO YIU CHUEN, LAI KING, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2291803236,
+            0,
+            "Hong Kong Culinary Academy",
+            "SHOP 106-108, 1/F, BLOCK C, CHO YIU CENTRE, CHO YIU CHUEN, 6 KING CHO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-08"
+          ],
+          [
+            3191801636,
+            1,
+            "SAFRANBOLU RESTAURANT",
+            "SHOP NO. 107, 1/F, BLOCK E, CHO YIU CHUEN, NO. 6 KING CHO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          970982106
+        ]
+      ],
+      "coordinate": [
+        1.9919190069623602,
+        0.3900166690253026,
+        61.349998474121094
+      ],
+      "halfSize": [
+        10.411165000405163,
+        20.395290000364184,
+        5.75
+      ]
+    },
+    {
+      "attributes": [
+        970981381,
+        4,
+        [
+          [
+            2291802127,
+            0,
+            "\u5357\u8c50\u9910\u5ef3",
+            "SHOP 120, 1/F, THE HOUSEHOLD CENTRE, NOB HILL, 8 KING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2291803494,
+            0,
+            "MARBLE BOBO",
+            "SHOP NOS. 116A, 136 & 137, 1/F NOB HILL SQUARE, 8 KING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-06"
+          ],
+          [
+            2291805223,
+            0,
+            "Galaxy Banquet Hall",
+            "SHOP NO. 126, 1/F, NOB HILL SQUARE, 8 KING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3191800402,
+            1,
+            "\u4e09\u5144\u59b9",
+            "SHOP 104, 1/F, THE HOUSEHOLD CENTRE, 8 KING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          970982121
+        ]
+      ],
+      "coordinate": [
+        1.9920701313597864,
+        0.3899355755459456,
+        15.850000381469727
+      ],
+      "halfSize": [
+        94.66551000019535,
+        44.98367500025779,
+        11.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        970981382,
+        3,
+        [
+          [
+            2291000110,
+            0,
+            "\u5fa9\u8208\u7ca5\u9eb5\u5bb6",
+            "NO. S9, G/F., YAT KING HOUSE, LAI KING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291000147,
+            0,
+            "Carnival Restaurant",
+            "G/F-3/F, LAI KING RESTAURANT, LAI KING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3191000020,
+            1,
+            "\u6d77\u666f\u9910\u5ef3",
+            "NO. 10, YAT KING HOUSE, LAI KING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          970982159
+        ]
+      ],
+      "coordinate": [
+        1.9918728759945408,
+        0.39000961447119536,
+        37.400001525878906
+      ],
+      "halfSize": [
+        23.00540000014007,
+        39.28407000005245,
+        6.69999885559082
+      ]
+    }
+  ]
+}

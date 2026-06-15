@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1642070016,
+        1,
+        [
+          [
+            2298002142,
+            0,
+            "Highisland (Yau Ley) Seafood Restaurant",
+            "G/F, DD 363, LOT 359, SHA KIU VILLAGE, LEUNG SHUEN WAN, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1642070025
+        ]
+      ],
+      "coordinate": [
+        1.9958249159190047,
+        0.3900396270551907,
+        6.599999904632568
+      ],
+      "halfSize": [
+        5.497465000022203,
+        3.5444049993529916,
+        2.799999713897705
+      ]
+    }
+  ]
+}

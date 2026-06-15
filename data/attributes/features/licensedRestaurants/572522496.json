@@ -1,0 +1,287 @@
+{
+  "features": [
+    {
+      "attributes": [
+        572522496,
+        4,
+        [
+          [
+            2293001180,
+            0,
+            "\u8046\u6e22\u5496\u5561\u5ba4",
+            "LG/F, COFFEE SHOP, GOLD COAST HOTEL, CASTLE PEAK BAY, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293001214,
+            0,
+            "Yue",
+            "LOWER G/F & LOBBY FLOOR, GOLD COAST HOTEL, CASTLE PEAK BAY, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293801216,
+            0,
+            "SATAY INN",
+            "LOBBY FLOOR, GOLD COAST HOTEL, 1 CASTLE PEAK ROAD, CASTLE PEAK BAY , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2293803869,
+            0,
+            "(no record found)",
+            "LOBBY, LOUNGE ATRIUM BAR, GOLD COAST HOTEL, 1 CASTLE PEAK ROAD, CASTLE PEAK BAY, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572522868
+        ]
+      ],
+      "coordinate": [
+        1.9894934296922697,
+        0.3904622615227003,
+        15.75
+      ],
+      "halfSize": [
+        75.16837999969721,
+        63.08712000027299,
+        10.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        572522497,
+        13,
+        [
+          [
+            2293001126,
+            0,
+            "McDonald's",
+            "SHOP R6 + F9, OUTSIDE SEATING AREA AT SIDE, CASTLE PEAK BAY, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293001144,
+            0,
+            "Le Bristol / Le Cafe",
+            "G/F, SHOP NOS. R5, F7 & F8, AND THE OUTSIDE SEATING AREAS AT SHOP FRONT AND AT REAR, GOLD COAST PIAZZA, HONG KONG GOLD COAST, CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293801322,
+            0,
+            "Kung Fu Deluxe Dim Sum Kitchen",
+            "SHOP F5-F6 & R3, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT AND AT REAR, G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2293804075,
+            0,
+            "Singa Garden Singapore Hainanese Chicken Rice",
+            "SHOP F3, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2293805430,
+            0,
+            "RESTO",
+            "SHOP 3, 5, 6 & 7, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2293805519,
+            0,
+            "Grand Bistro GOOD taste",
+            "SHOP NOS. R1 & 26, G/F, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, GOLD COAST PIAZZA, HONG KONG GOLD COAST, NO.1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2293805829,
+            0,
+            "MOMIJI-CHAYA",
+            "SHOP 33, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2293806114,
+            0,
+            "GREEN BASIL",
+            "SHOP 30 & 31, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2293806211,
+            0,
+            "Chef's Cuts",
+            "PORTION A, SHOP NO. 11&12 AND THE OUTSIDE SEATING AREAS AT SHOP FRONT AND REAR, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2293806938,
+            0,
+            "BISTRO HOI AN",
+            "SHOP NO. 1A, 1C & 2 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT AND BOTH OF SHOP SIDES, GROUND FLOOR, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2293807083,
+            0,
+            "HAKATA CONCEPTS",
+            "SHOP NOS. 25A-25C AND THE OUTSIDE SEATING ACCOMMODATION, 1/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2293808192,
+            0,
+            "NONNA",
+            "SHOP NO. R2 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, GROUND FLOOR, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3193800123,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP NO. 8 ON G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523358
+        ]
+      ],
+      "coordinate": [
+        1.9895516741796984,
+        0.3903760418625333,
+        6.75
+      ],
+      "halfSize": [
+        46.87469500023872,
+        44.65990999992937,
+        3.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        572522498,
+        2,
+        [
+          [
+            2293802538,
+            0,
+            "\u5eda\u623f\u4f6c",
+            "SHOP NO. 3A, G/F, AEGEAN COAST, 2 KWUN TSING ROAD, TMTL 374, SO KWUN WAT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-10"
+          ],
+          [
+            3193001373,
+            1,
+            "\u611b\u7434\u6703",
+            "G/F, MINOR PORTION OF CLUB HOUSE, AEGEAN COAST, 2 KWUN TSING ROAD, SO KWUN WAT, CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523462
+        ]
+      ],
+      "coordinate": [
+        1.9895779125142172,
+        0.3904770912735814,
+        9.850000381469727
+      ],
+      "halfSize": [
+        12.4607899999246,
+        11.896164999343455,
+        3.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        572522499,
+        1,
+        [
+          [
+            2293802398,
+            0,
+            "No Record",
+            "SHOP 1, G/F, AVIGNON, 1 KWUN CHUI ROAD, SO KWUN WAT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523760
+        ]
+      ],
+      "coordinate": [
+        1.989688170744253,
+        0.3905029144349447,
+        14.649999618530273
+      ],
+      "halfSize": [
+        122.7539800000377,
+        80.1438049999997,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        572522500,
+        1,
+        [
+          [
+            2293806813,
+            0,
+            "LOK SIN RESTAURANT",
+            "G/F, NO. 363 SO KWUN WAT TSUEN AREA 1, LOT NO. 641 S.A. IN D.D. 375, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523919
+        ]
+      ],
+      "coordinate": [
+        1.989724464961585,
+        0.39054125654781824,
+        10.899999618530273
+      ],
+      "halfSize": [
+        5.566999999806285,
+        3.5165000008419156,
+        3.999999761581421
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1220542464,
+        1,
+        [
+          [
+            2915805835,
+            4,
+            "Bakehouse",
+            "G/F., 116 STANLEY MAIN STREET, STANLEY, HONG KONG",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220542648
+        ]
+      ],
+      "coordinate": [
+        1.9933865134937492,
+        0.387784309721935,
+        14.0
+      ],
+      "halfSize": [
+        4.849999999627471,
+        5.065000000409782,
+        5.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1220542465,
+        1,
+        [
+          [
+            3615800562,
+            5,
+            "Wellcome",
+            "G/F. (PORTION A), 39 CHUNG HOM KOK ROAD, CHUNG HOM KOK, HONG KONG",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220542997
+        ]
+      ],
+      "coordinate": [
+        1.9932304920509558,
+        0.3878092289151555,
+        93.55000305175781
+      ],
+      "halfSize": [
+        11.17767499992624,
+        11.259400000795722,
+        3.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1220542466,
+        6,
+        [
+          [
+            2915802562,
+            4,
+            "WAFFLEMAN",
+            "SHOP NO. 407, 4/F., STANLEY PLAZA, STANLEY, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2915803918,
+            4,
+            "3hreesixty",
+            "SHOP NO. 203 (PORTION D1 & D2), 2/F., STANLEY PLAZA, MA HANG ESTATE, 23-33 CARMEL ROAD, STANLEY, HONG KONG",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2915803927,
+            4,
+            "3hreesixty",
+            "SHOP NO. 203 (PORTION C2), 2/F., STANLEY PLAZA, MA HANG ESTATE, 23-33 CARMEL ROAD, STANLEY, HONG KONG",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2915803945,
+            4,
+            "3hreesixty",
+            "SHOP NO. 203 (PORTION E1 & E2), 2/F., STANLEY PLAZA, MA HANG ESTATE, 23-33 CARMEL ROAD, STANLEY, HONG KONG",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2915805792,
+            4,
+            "DOUGH BROS",
+            "SHOP G08B, G/F., STANLEY PLAZA, MA HANG ESTATE, 23 & 33 CARMEL ROAD, STANLEY, HONG KONG",
+            null,
+            "2027-03-01"
+          ],
+          [
+            3615800942,
+            5,
+            "3hreesixty",
+            "SHOP NO. 203 (PORTION A1, A2 & PORTIONS), 2/F., STANLEY PLAZA, MA HANG ESTATE, 23-33 CARMEL ROAD, STANLEY, HONG KONG",
+            null,
+            "2027-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220543127
+        ]
+      ],
+      "coordinate": [
+        1.99333158823977,
+        0.3878081545820866,
+        23.150001525878906
+      ],
+      "halfSize": [
+        42.10323499981314,
+        55.82648999989033,
+        17.75
+      ]
+    },
+    {
+      "attributes": [
+        1220542467,
+        1,
+        [
+          [
+            2915806175,
+            4,
+            "beach club",
+            "FAST FOOD KIOSK, UPPER GROUND FLOOR, STANLEY MAIN BEACH, STANLEY BEACH ROAD, STANLEY, SOUTHERN, HONG KONG",
+            null,
+            "2026-11-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220543218
+        ]
+      ],
+      "coordinate": [
+        1.993413005886007,
+        0.3878135828654112,
+        5.600000381469727
+      ],
+      "halfSize": [
+        4.180000000167638,
+        17.47649999987334,
+        3.000000238418579
+      ]
+    },
+    {
+      "attributes": [
+        1220542468,
+        1,
+        [
+          [
+            2115800197,
+            1,
+            "PANE E LATTE - STANLEY",
+            "MINOR PORTION OF B/F., U-C COURT, 25 STANLEY MARKET ROAD, STANLEY, HONG KONG",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220543223
+        ]
+      ],
+      "coordinate": [
+        1.993371015727289,
+        0.3877880724014096,
+        9.850000381469727
+      ],
+      "halfSize": [
+        7.505499999970198,
+        13.144500000402331,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1220542469,
+        1,
+        [
+          [
+            3615801404,
+            5,
+            "Stanley market",
+            "PORTIONS OF G/F, 70 STANLEY MAIN STREET, STANLEY, HONG KONG",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220543232
+        ]
+      ],
+      "coordinate": [
+        1.993382066295964,
+        0.3877840616677422,
+        9.050000190734863
+      ],
+      "halfSize": [
+        7.96921500004828,
+        6.995684999972582,
+        2.950000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1220542470,
+        1,
+        [
+          [
+            3615800933,
+            5,
+            "fusion",
+            "STALL NO.1 & PORTIONS OF SHOP A1,A2 & B ON GROUND FLOOR, NO. 80 STANLEY MAIN STREET, HONG KONG",
+            null,
+            "2027-02-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220543241
+        ]
+      ],
+      "coordinate": [
+        1.993374330871296,
+        0.38778923320938474,
+        8.5
+      ],
+      "halfSize": [
+        9.59383499994874,
+        14.532569999806583,
+        3.0
+      ]
+    },
+    {
+      "attributes": [
+        1220542471,
+        4,
+        [
+          [
+            2915075487,
+            4,
+            "Neighbourhood Cooker",
+            "SHOP E, UG/F, 11 STANLEY NEW STREET, STANLEY, SOUTHERN, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2915105364,
+            4,
+            "\u6a02\u8ed2\u53a8\u574a",
+            "SHOP U3, UG/F, CHIK TAK MANSION, SHOPPING ARCADE, 11 STANLEY NEW STREET, STANLEY, SOUTHERN, HONG KONG",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2915800876,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP D, LG/F, CHIK TAK MANSION, 11 STANLEY NEW STREET, STANLEY, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3215800106,
+            6,
+            "7-Eleven",
+            "PORTION A OF SHOP D, LG/F., CHIK TAK MANSION, 11 STANLEY NEW STREET, STANLEY, HONG KONG",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1220543259
+        ]
+      ],
+      "coordinate": [
+        1.9933863200743014,
+        0.3877888273358673,
+        10.300000190734863
+      ],
+      "halfSize": [
+        10.955415000207722,
+        10.879124999977648,
+        3.8000001907348633
+      ]
+    }
+  ]
+}

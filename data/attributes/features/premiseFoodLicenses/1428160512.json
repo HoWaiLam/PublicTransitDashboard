@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1428160512,
+        1,
+        [
+          [
+            2598000060,
+            3,
+            "Asia Pacific",
+            "G/F (PORTION), ADMINISTRATION BUILDING, AIRCRAFT OVERHAUL FACILITIES (PHASE II), HONG KONG AERO ENGINE SERVICES LIMITED (HAESL), 70 CHUN CHOI STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, SECTION G, TOWN LOT NO.39, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1428160527
+        ]
+      ],
+      "coordinate": [
+        1.9945156859720081,
+        0.3886047660380082,
+        12.550000190734863
+      ],
+      "halfSize": [
+        18.175945000257343,
+        22.81389500014484,
+        6.15000057220459
+      ]
+    }
+  ]
+}

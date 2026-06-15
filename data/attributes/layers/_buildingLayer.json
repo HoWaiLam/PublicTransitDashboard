@@ -1,0 +1,107 @@
+{
+  "name": "building",
+  "label": "Buildings",
+  "attributes": [
+    {
+      "name": "buildingIID",
+      "label": "Building Feature ID",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "show": 0
+    },
+    {
+      "name": "buildingId",
+      "label": "Building ID",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "show": 0
+    },
+    {
+      "name": "buildingName",
+      "label": "Building Name",
+      "type": "STRING",
+      "show": 3,
+      "required": 1,
+      "addToLabel": 1,
+      "noData": "N/A"
+    },
+    {
+      "name": "buildingAddress",
+      "label": "Building Address",
+      "type": "STRING",
+      "show": 3,
+      "required": 1,
+      "addToLabel": 1,
+      "noData": "N/A"
+    },
+    {
+      "name": "buildingLots",
+      "label": "Lots",
+      "type": "ARRAY",
+      "componentType": "OBJECT",
+      "componentSchema": {
+        "attributes": [
+          {
+            "name": "lotDescription",
+            "label": "Lot Description",
+            "type": "STRING",
+            "show": 3
+          },
+          {
+            "name": "granttype",
+            "label": "Grant Type",
+            "type": "STRING",
+            "show": 3
+          },
+          {
+            "name": "prn",
+            "label": "Property Reference Number",
+            "type": "STRING",
+            "required": 0,
+            "show": 3
+          },
+          {
+            "name": "memorial",
+            "label": "Memorial",
+            "type": "ARRAY",
+            "componentType": "OBJECT",
+            "componentSchema": {
+              "name": "memorial",
+              "label": "Memorial",
+              "attributes": [
+                {
+                  "name": "memorialNumber",
+                  "label": "Memorial Number",
+                  "type": "STRING"
+                },
+                {
+                  "componentHeader": 1,
+                  "name": "instruementDate",
+                  "label": "Instruement Date",
+                  "type": "STRING"
+                },
+                {
+                  "name": "description",
+                  "label": "Description",
+                  "type": "STRING"
+                },
+                {
+                  "name": "consideration",
+                  "label": "Consideration",
+                  "type": "STRING",
+                  "required": 0
+                }
+              ]
+            },
+            "show": 1
+          }
+        ]
+      },
+      "required": 0,
+      "show": 1
+    }
+  ],
+  "selection": "buildingIID",
+  "featuresDir": "building",
+  "featuresTileDepth": 5
+}

@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        715128832,
+        1,
+        [
+          [
+            2994001847,
+            4,
+            "I-HO-YUAN Food Products Ltd.",
+            "TONG TAO PO, CHEUNG NGAU SHAN, DD 118, LOT 1700, SUNG SHAN SAN TSUEN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          715130499
+        ]
+      ],
+      "coordinate": [
+        1.9903866496493867,
+        0.3913673585961623,
+        17.899999618530273
+      ],
+      "halfSize": [
+        4.966000000014901,
+        14.169999999925494,
+        3.0
+      ]
+    }
+  ]
+}

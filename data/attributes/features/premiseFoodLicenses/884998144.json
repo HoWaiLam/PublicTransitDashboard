@@ -1,0 +1,291 @@
+{
+  "features": [
+    {
+      "attributes": [
+        884998144,
+        1,
+        [
+          [
+            2917000771,
+            4,
+            "Golden Blue",
+            "SHOP A, G/F., 32 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998373
+        ]
+      ],
+      "coordinate": [
+        1.9916231428028015,
+        0.38791939250423524,
+        8.399999618530273
+      ],
+      "halfSize": [
+        7.569080000277609,
+        2.3240049993619323,
+        4.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        884998145,
+        1,
+        [
+          [
+            2917000443,
+            4,
+            "\u8521\u8a18\u5c0f\u98df",
+            "G/F., 9 SHA PO NEW VILLAGE, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998648
+        ]
+      ],
+      "coordinate": [
+        1.9916438769952685,
+        0.3879004534801548,
+        9.450000762939453
+      ],
+      "halfSize": [
+        6.525499999988824,
+        5.6039999993517995,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        884998146,
+        1,
+        [
+          [
+            2917802043,
+            4,
+            "CORNER 84",
+            "G/F., NO. 84 YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998762
+        ]
+      ],
+      "coordinate": [
+        1.9916222575744327,
+        0.3878993943043418,
+        7.800000190734863
+      ],
+      "halfSize": [
+        6.6243500001728535,
+        3.770299999974668,
+        3.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        884998147,
+        1,
+        [
+          [
+            2917802229,
+            4,
+            "\u5fb7\u798f\u7f8e\u98df\u9905\u5e97",
+            "G/F., 3 YUNG SHUE WAN BACK STREET, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998788
+        ]
+      ],
+      "coordinate": [
+        1.9916328512899526,
+        0.3879040310712411,
+        9.149999618530273
+      ],
+      "halfSize": [
+        3.9093750002793968,
+        6.4844550006091595,
+        3.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        884998148,
+        1,
+        [
+          [
+            2917802894,
+            4,
+            "OZEN CORNER",
+            "FLAT A, G/F., 35 SHA PO OLD VILLAGE, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998803
+        ]
+      ],
+      "coordinate": [
+        1.9916369174732407,
+        0.38789834263780776,
+        9.949999809265137
+      ],
+      "halfSize": [
+        4.3992999996989965,
+        5.965474999509752,
+        4.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        884998149,
+        1,
+        [
+          [
+            3617000032,
+            5,
+            "\u6642\u65b0\u51cd\u8089\u516c\u53f8",
+            "G/F., 69 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998908
+        ]
+      ],
+      "coordinate": [
+        1.9916226341520034,
+        0.3879024773068444,
+        7.149999618530273
+      ],
+      "halfSize": [
+        4.267574999947101,
+        3.2935449993237853,
+        3.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        884998150,
+        1,
+        [
+          [
+            2917801864,
+            4,
+            "LAMMA EXPRESS",
+            "G/F., 44 YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999169
+        ]
+      ],
+      "coordinate": [
+        1.9916261975452825,
+        0.38791215210369406,
+        9.350000381469727
+      ],
+      "halfSize": [
+        2.2779199997894466,
+        5.0148050002753735,
+        4.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        884998151,
+        2,
+        [
+          [
+            2917000920,
+            4,
+            "\u5c55\u8c50\u51cd\u8089\u8216",
+            "G/F, PORTION B, 35 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3617000476,
+            5,
+            "\u5c55\u8c50\u51cd\u8089\u8216",
+            "G/F. (PORTION A), 35 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999224
+        ]
+      ],
+      "coordinate": [
+        1.9916267828717638,
+        0.38791806919651844,
+        8.300000190734863
+      ],
+      "halfSize": [
+        7.666129999794066,
+        2.374019999988377,
+        3.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        884998152,
+        1,
+        [
+          [
+            2917804003,
+            4,
+            "HER's kitchen",
+            "FRONT BLOCK, G/F, 31A YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-10-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999239
+        ]
+      ],
+      "coordinate": [
+        1.9916297328784092,
+        0.3879200795680565,
+        8.600000381469727
+      ],
+      "halfSize": [
+        5.447145000100136,
+        3.185495000332594,
+        4.099999904632568
+      ]
+    }
+  ]
+}

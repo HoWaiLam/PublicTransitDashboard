@@ -1,0 +1,138 @@
+{
+  "features": [
+    {
+      "attributes": [
+        696254464,
+        8,
+        [
+          [
+            2992001667,
+            4,
+            "Outdoor Vending",
+            "OUTDOOR VENDING AT BOH-613 (PORTION), BACK OF HOUSE, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2992800213,
+            4,
+            "7-Eleven",
+            "PORTION B OF BOAT HOUSE (PORTION), INSPIRATION LAKE RECREATION CENTER, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            2992811758,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F, BOH AT TEAM DISNEY TWO, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ],
+          [
+            4992812874,
+            4,
+            "HALAL KITCHEN",
+            "OUTDOOR VENDING OF BUILDING 613 (PORTION B), HALAL KITCHEN, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            3217800191,
+            6,
+            "FOOD KIOSK A10",
+            "PORTION OF FOOD KIOSK A10, TOY STORY LAND, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-17"
+          ],
+          [
+            3292800251,
+            6,
+            "No Record",
+            "MINOR PORTION OF FOOD KIOSK T4, TOMORROWLAND, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            3292800507,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF BOAT HOUSE (PORTION), INSPIRATION LAKE RECREATION CENTER, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-10"
+          ],
+          [
+            3292800552,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF G/F, BOH AT TEAM DISNEY TWO, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          696254465
+        ]
+      ],
+      "coordinate": [
+        1.9904438544892173,
+        0.38934386116834213,
+        10.0
+      ],
+      "halfSize": [
+        5.302670000120997,
+        4.197645000182092,
+        3.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        696254465,
+        3,
+        [
+          [
+            2917801642,
+            4,
+            "LUCKY NUGGET SALOON",
+            "MAJOR PORTION OF AL-522(PORTION), GRIZZLY GULCH, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-12-13"
+          ],
+          [
+            2992800037,
+            4,
+            "Comet Cafe",
+            "TL-301 (PORTION), TOMORROWLAND, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            3217800438,
+            6,
+            "Lucky Nugget Saloon",
+            "MINOR PORTION OF AL-522 (PORTION), GRIZZLY GULCH, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          696254485
+        ]
+      ],
+      "coordinate": [
+        1.990438914901077,
+        0.38934561607374657,
+        18.700000762939453
+      ],
+      "halfSize": [
+        141.73062000004575,
+        75.84351500030607,
+        11.800000190734863
+      ]
+    }
+  ]
+}

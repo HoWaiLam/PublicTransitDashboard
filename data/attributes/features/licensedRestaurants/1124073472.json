@@ -1,0 +1,97 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1124073472,
+        1,
+        [
+          [
+            2295804255,
+            0,
+            "Milk Cafe",
+            "SHOP NO. 4, G/F, FAN TIP HOUSE, FU TIP ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1124073859
+        ]
+      ],
+      "coordinate": [
+        1.992770703848655,
+        0.39205856181782806,
+        92.60000610351562
+      ],
+      "halfSize": [
+        43.94940500007942,
+        28.404655000194907,
+        44.500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1124073473,
+        1,
+        [
+          [
+            2295804264,
+            0,
+            "ITAMOMO",
+            "SHOP NO.2, G/F, CHUN TIP HOUSE, FU TIP ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1124073860
+        ]
+      ],
+      "coordinate": [
+        1.992756222087877,
+        0.39205088300061114,
+        89.5
+      ],
+      "halfSize": [
+        25.985000000335276,
+        30.943480000831187,
+        47.60000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1124073474,
+        1,
+        [
+          [
+            2295804282,
+            0,
+            "Fairwood Fast Food",
+            "SHOP 1, G/F, FU TIP SHOPPING CENTRE, FU TIP ESTATE (PHASE 2), TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1124073877
+        ]
+      ],
+      "coordinate": [
+        1.9927560287752963,
+        0.39206085681211367,
+        45.75
+      ],
+      "halfSize": [
+        150.33866999996826,
+        89.22406000085175,
+        11.75
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1512046592,
+        1,
+        [
+          [
+            2998807340,
+            4,
+            "LEISURE KIOSK",
+            "G/F, MAJOR PORTION, LOT 285 IN DD246, YIM TIN TSAI VILLAGE, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1512046605
+        ]
+      ],
+      "coordinate": [
+        1.9949627570599415,
+        0.3905607935891522,
+        14.049999237060547
+      ],
+      "halfSize": [
+        4.391505000181496,
+        4.954404999502003,
+        3.249999523162842
+      ]
+    }
+  ]
+}

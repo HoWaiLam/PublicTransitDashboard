@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "attributes": [
+        371195904,
+        1,
+        [
+          [
+            2593000108,
+            3,
+            "Green Island Cement Company Limited",
+            "7 LUNG YIU STREET,TAP SHEK KOK, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          371195910
+        ]
+      ],
+      "coordinate": [
+        1.988366283974293,
+        0.39047848619297654,
+        12.550000190734863
+      ],
+      "halfSize": [
+        40.696999999694526,
+        39.77049999963492,
+        5.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        371195905,
+        2,
+        [
+          [
+            2593800030,
+            3,
+            "\u9752\u5c71\u767c\u96fb\u5ee0",
+            "1/F(PORTION) & 2/F (PORTION), CASTLE PEAK 'B' POWER STATION, ADMINISTRATION BUILDING, TAP SHEK KOK, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2593800049,
+            3,
+            "\u9f8d\u9f13\u7058\u767c\u96fb\u5ee0",
+            "2/F (PORTION), ADMINISTRATION BUILDING,BLACK POINT POWER STATION, TMTL 378, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          371195989
+        ]
+      ],
+      "coordinate": [
+        1.9887026534695682,
+        0.39036027048719346,
+        9.5
+      ],
+      "halfSize": [
+        6.350000000093132,
+        20.125,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        371195906,
+        1,
+        [
+          [
+            2593800243,
+            3,
+            "No Record",
+            "UNIT 3 ON 1/F, GOODMAN WESTLINK, 8 SIU LANG SHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          371196007
+        ]
+      ],
+      "coordinate": [
+        1.9884943618165336,
+        0.3904393478749971,
+        17.75
+      ],
+      "halfSize": [
+        177.2174999997951,
+        52.1294849999249,
+        12.75
+      ]
+    }
+  ]
+}

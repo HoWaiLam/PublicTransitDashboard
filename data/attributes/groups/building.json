@@ -1,0 +1,8 @@
+{
+  "name": "building",
+  "label": "Buildings",
+  "groupSelections": 0,
+  "layers": [
+    "buildingLayer.json"
+  ]
+}

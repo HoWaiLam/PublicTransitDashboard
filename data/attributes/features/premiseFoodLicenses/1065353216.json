@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1065353216,
+        1,
+        [
+          [
+            2996804259,
+            4,
+            "THE FARM KITCHEN",
+            "PORTION A OF GREENHOUSE B24-B26, DD77 LOT 727, YUEN CHA WOO, HA SHAN KAI WAT, TA KWU LING, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1065353478
+        ]
+      ],
+      "coordinate": [
+        1.99234638003978,
+        0.39308729118540303,
+        20.600000381469727
+      ],
+      "halfSize": [
+        6.766000000294298,
+        4.75832000002265,
+        3.0
+      ]
+    }
+  ]
+}

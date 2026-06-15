@@ -1,0 +1,198 @@
+{
+  "features": [
+    {
+      "attributes": [
+        784334848,
+        1,
+        [
+          [
+            2994808132,
+            4,
+            "CoHee Roastery",
+            "G/F, 155 KAM TIN SHI, KAM TIN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          784336234
+        ]
+      ],
+      "coordinate": [
+        1.9907445224035223,
+        0.391658401710159,
+        7.299999713897705
+      ],
+      "halfSize": [
+        5.022499999962747,
+        3.231099999509752,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        784334849,
+        1,
+        [
+          [
+            3694001357,
+            5,
+            "Wellcome",
+            "G/F (PORTION), KAM TIN THEATRE BUILDING, DD 109, LOT 1684, KAM TIN ROAD, KAM TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          784336245
+        ]
+      ],
+      "coordinate": [
+        1.9908016185264272,
+        0.391656464057118,
+        10.5
+      ],
+      "halfSize": [
+        23.990499999839813,
+        12.981000000610948,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        784334850,
+        2,
+        [
+          [
+            2994808327,
+            4,
+            "CHAMP LEADER INTERNATIONAL LIMITED",
+            "G/F, (MAJOR PORTION),106 YING TAI ROAD, DD103, LOT 1053, KO PO TSUEN, KAM TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3694803081,
+            5,
+            "CHAMP LEADER INTERNATIONAL LIMITED",
+            "G/F (MINOR PORTION),106 YING TAI ROAD, DD103, LOT 1053, KO PO TSUEN, KAM TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          784337446
+        ]
+      ],
+      "coordinate": [
+        1.9906410837630943,
+        0.39169234577999074,
+        10.299999237060547
+      ],
+      "halfSize": [
+        5.506000000052154,
+        5.6460000006482005,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        784334851,
+        1,
+        [
+          [
+            3694801508,
+            5,
+            "Market Place",
+            "SHOP 2(PORTION A), BASEMENT, RIVA SHOPPING ARCADE, 1 YING HO ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          784337643
+        ]
+      ],
+      "coordinate": [
+        1.9906172737582375,
+        0.3916950343241261,
+        8.5
+      ],
+      "halfSize": [
+        110.77325499989092,
+        119.15584500040859,
+        2.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        784334852,
+        1,
+        [
+          [
+            3694804507,
+            5,
+            "LOCAL FOOD",
+            "STALL A, SHOP 1, 1/F, AMENITY BLOCK, THE NASCENT, 18 KAM WUI ROAD, KAM TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          784337824
+        ]
+      ],
+      "coordinate": [
+        1.9908270438610645,
+        0.39157334683330164,
+        12.84999942779541
+      ],
+      "halfSize": [
+        49.14645499968901,
+        39.38991999998689,
+        6.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        784334853,
+        1,
+        [
+          [
+            2994810795,
+            4,
+            "Good day coffee",
+            "G/F, 23A SHING MUN SAN TSUEN, KAM TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          784337829
+        ]
+      ],
+      "coordinate": [
+        1.990828494455213,
+        0.39165202812094374,
+        12.299999237060547
+      ],
+      "halfSize": [
+        3.5564199998043478,
+        2.7624000003561378,
+        4.999999523162842
+      ]
+    }
+  ]
+}

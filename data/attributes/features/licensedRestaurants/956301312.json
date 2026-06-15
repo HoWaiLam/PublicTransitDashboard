@@ -1,0 +1,137 @@
+{
+  "features": [
+    {
+      "attributes": [
+        956301312,
+        4,
+        [
+          [
+            2215229458,
+            0,
+            "\u83ef\u806f",
+            "SHOP NO. 36 AND PORTIONS AT SHOP FRONT CORRIDOR, 5/F, WAH FU (II) COMMERCIAL COMPLEX, WAH FU (II) ESTATE, POKFULAM, SOUTHERN, HONG KONG",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2215229555,
+            0,
+            "\u5104\u69ae",
+            "SHOP 33 & PORTIONS AT SHOP FRONT CORRIDOR, 5/F,WAH FU (II) COMMERCIAL COMPLEX, WAH FU (II) ESTATE, POKFULAM, SOUTHERN, HONG KONG",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2215229810,
+            0,
+            "\u93d7\u8a18",
+            "SHOP NO.34 AND PORTIONS AT SHOP FRONT CORRIDOR,5/F, WAH FU (II) COMMERCIAL COMPLEX, WAH FU (II) ESTATE, POK FU LAM, HONG KONG",
+            null,
+            "2026-11-22"
+          ],
+          [
+            3115801135,
+            1,
+            "\u5927\u751f\u71d2\u81d8\u98ef\u5e97",
+            "SHOP 10 & 17, 5/F., MARKET, WAH FU (II) COMMERCIAL COMPLEX, WAH FU (II) ESTATE, POK FU LAM, HONG KONG",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          956301332
+        ]
+      ],
+      "coordinate": [
+        1.9920532437297835,
+        0.3883903608189598,
+        57.79999923706055
+      ],
+      "halfSize": [
+        23.59750000014901,
+        40.96949999965727,
+        11.39999771118164
+      ]
+    },
+    {
+      "attributes": [
+        956301313,
+        3,
+        [
+          [
+            2215163136,
+            0,
+            "McDonald's",
+            "SHOP NO.1A, WAH FU (1) SHOPPING CENTRE, WAH FU (1) ESTATE, WAH FU, SOUTHERN, HONG KONG",
+            null,
+            "2026-09-20"
+          ],
+          [
+            2215801410,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 2C, PODIUM FLOOR, WAH FU SHOPPING CENTRE, WAH FU (I) ESTATE, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2215801438,
+            0,
+            "Itamomo Caf\u00e9",
+            "SHOP NO. 2D, WAH FU SHOPPING CENTRE, WAH FU (I) ESTATE, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          956301338
+        ]
+      ],
+      "coordinate": [
+        1.9920679045943745,
+        0.3883407669405533,
+        35.349998474121094
+      ],
+      "halfSize": [
+        35.096000000368804,
+        64.5625,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        956301314,
+        1,
+        [
+          [
+            3115800390,
+            1,
+            "\u9451\u8a18\u8eca\u4ed4\u9eb5",
+            "SHOP NO. 112, G/F., WAH ON HOUSE, WAH FU ESTATE, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          956301490
+        ]
+      ],
+      "coordinate": [
+        1.9920881254887766,
+        0.3883682418033074,
+        59.29999923706055
+      ],
+      "halfSize": [
+        74.06949500041083,
+        27.018000000156462,
+        23.700000762939453
+      ]
+    }
+  ]
+}

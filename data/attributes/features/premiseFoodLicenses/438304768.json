@@ -1,0 +1,684 @@
+{
+  "features": [
+    {
+      "attributes": [
+        438304768,
+        1,
+        [
+          [
+            2993811481,
+            4,
+            "i-Butterfly Food Packaging Room",
+            "UNIT NOS. 120B-121B, G/F, TIP YEE HOUSE, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304801
+        ]
+      ],
+      "coordinate": [
+        1.989044606652729,
+        0.39053053211962124,
+        31.0
+      ],
+      "halfSize": [
+        46.99692999990657,
+        42.080999999307096,
+        24.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        438304769,
+        1,
+        [
+          [
+            2993000306,
+            4,
+            "\u6eff\u8a18",
+            "SHOPSTALL NO.1, MARKET, MELODY GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304813
+        ]
+      ],
+      "coordinate": [
+        1.9889905059758084,
+        0.390521638988429,
+        8.25
+      ],
+      "halfSize": [
+        26.350499999709427,
+        24.794499999843538,
+        2.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        438304770,
+        35,
+        [
+          [
+            2993804540,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO. R153 (PORTION), G/F, TIP LING HOUSE, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-12"
+          ],
+          [
+            2993805127,
+            4,
+            "Maxim's Cakes",
+            "SHOP R240 & R241, LEVEL 2, TIP LING HOUSE (BLOCK 5)(FORMING PART OF INTEGRATED COMMERCIAL/ CAR PARK ACCOMMODATION), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2993805279,
+            4,
+            "\u5fa9\u8208\u7ca5\u54c1",
+            "STALL NO. M411, G/F, MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2993805570,
+            4,
+            "\u5fc5\u98df\u7ad9",
+            "STALL NO. M422, G/F, MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2993807239,
+            4,
+            "Crafted",
+            "SHOP NO. R129, G/F, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-08"
+          ],
+          [
+            2993808755,
+            4,
+            "Chateraise",
+            "SHOP NO. R150, G/F, BUTTERFLY PLAZA, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2993810266,
+            4,
+            "\u963f\u4e00\u71d2\u5473",
+            "REAR PORTION OF STALL NO. M103, THE MARKET PLACE, G/F, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2993810576,
+            4,
+            "UO-SHOW",
+            "SHOP R102, G/F, TIP SUM HOUSE (BLOCK 4), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2993810877,
+            4,
+            "\u5b63\u559c\u71d2\u81d8",
+            "PORTION B OF STALL NOS. M318 & M319 IN THE MARKET PLACE, G/F, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2993810992,
+            4,
+            "\u9f4a\u8a18\u7f8e\u98df",
+            "STALL NO. M421, GROUND FLOOR (ALSO KNOWN AS LEVEL 1), TIP LING HOUSE (BLOCK 5) (FORMING PART OF INTEGRATED COMMERCIAL/CAR PARK ACCOMMODATION), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2993811232,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "STALL NO. M402, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE,1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ],
+          [
+            4993812206,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "STALL NO. M412 & M413 IN THE MARKET PLACE, G/F (ALSO KNOWN AS LEVEL 1), COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            3693801769,
+            5,
+            "Lok Kee Chicken and Duck",
+            "STALL NO. M212, BUTTERFLY MARKET, BUTTERFLY PLAZA, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            3693801820,
+            5,
+            "\u5354\u5b89\u8089\u98df",
+            "STALL NO. M141 IN THE MARKET PLACE ON THE G/F (ALSO KNOWN AS LEVEL 1) OF COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3693801839,
+            5,
+            "\u4e00\u8c5a\u548c\u5473\u5c08\u9580\u5e97",
+            "STALL NO. M140, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3693801848,
+            5,
+            "\u826f\u610f\u9bae\u8089",
+            "STALL NO. M211, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3693801857,
+            5,
+            "\u65b0\u9bae\u8089\u98df\u5e97",
+            "STALL NO. M117, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3693801866,
+            5,
+            "\u548c\u8c50\u9bae\u9b5a",
+            "STALL NO. M133 & M135, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            3693801875,
+            5,
+            "\u65b0\u8ca1\u8089\u98df\u516c\u53f8",
+            "STALL NO. M120-M121, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            3693801884,
+            5,
+            "\u5ee3\u6771\u8c6c\u8089",
+            "STALL NO. M116, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            3693801893,
+            5,
+            "\u5fb7\u806f\u8089\u98df\u516c\u53f8",
+            "STALL NO. M210, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-10"
+          ],
+          [
+            3693801972,
+            5,
+            "\u4e09\u8208\u51cd\u8089",
+            "STALL NOS. M136 AND M137 IN THE MARKET PLACE, G/F (ALSO KNOWN AS LEVEL 1), COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3693802045,
+            5,
+            "\u8774\u8776\u51cd\u8089",
+            "STALL NOS. M219, M220 & M221, MARKET PLACE, G/F, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ],
+          [
+            3693802151,
+            5,
+            "\u65b0\u8ca1\u8089\u98df\u516c\u53f8",
+            "STALL NO. M118 & M119, G/F, (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-04"
+          ],
+          [
+            3693802577,
+            5,
+            "\u91d1\u6210\u6d77\u9bae",
+            "STALL NOS. M127 & M128, G/F(ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            3693802595,
+            5,
+            "FISH CAMP",
+            "STALL NO. M305, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            3693802601,
+            5,
+            "\u9054\u6c5f\u6f01\u5834(\u8774\u8776\u90a8)",
+            "STALL NO. M139 IN THE MARKET PLACE, GROUND FLOOR(ALSO KNOWN AS LEVEL 1)COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), , BUTTERFLY ESTATE, NO.1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-13"
+          ],
+          [
+            3693802629,
+            5,
+            "\u65b0\u8ca1\u8089\u98df\u516c\u53f8",
+            "STALL NO. M130, G/F, (ALSO KNOWN AS LEVEL 1) MARKET,COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            3693803756,
+            5,
+            "\u9806\u666f\u6f01\u696d",
+            "STALL NO. M138 IN THE MARKET PLACE, G/F, (ALSO KNOWN AS LEVEL 1), COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-24"
+          ],
+          [
+            3693803808,
+            5,
+            "\u9999\u6e2f\u5730\u98df\u54c1",
+            "STALL NOS. M407 & M408, G/F (ALSO KNOWN AS LEVEL 1), MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3693803835,
+            5,
+            "Kai Bo Food Supermarket",
+            "STALL NO. M107 (PORTION) IN THE MARKET PLACE ON THE GROUND FLOOR, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ],
+          [
+            3693803941,
+            5,
+            "\u5049\u92d2\u96de\u9d28",
+            "STALL M126, G/F (ALSO KNOWN AS LEVEL 1), MARKET, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            4693803834,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF STALL NOS. M113 & M115 IN THE MARKET PLACE ON THE GROUND FLOOR, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3593800613,
+            8,
+            "\u963f\u4e00\u71d2\u5473",
+            "FRONT PORTION OF STALL NO. M103, THE MARKET PLACE, G/F, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ],
+          [
+            3593800659,
+            8,
+            "\u5b63\u559c\u71d2\u81d8",
+            "PORTION A OF STALL NOS. M318 & M319 IN THE MARKET PLACE, G/F, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304828
+        ]
+      ],
+      "coordinate": [
+        1.9890134516153033,
+        0.39051380236942673,
+        18.25
+      ],
+      "halfSize": [
+        25.01150000002235,
+        26.228499999269843,
+        11.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        438304771,
+        2,
+        [
+          [
+            2993807646,
+            4,
+            "\u5cb1\u6c11\u5146\u79a7\u5e97",
+            "SHOP NO. G06, GROUND FLOOR, SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ],
+          [
+            3693802638,
+            5,
+            "\u672c\u7063\u6c34\u7522",
+            "PORTION A OF SHOP NO. 11, FIRST FLOOR, SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304858
+        ]
+      ],
+      "coordinate": [
+        1.9890823794796755,
+        0.3904957027249196,
+        9.949999809265137
+      ],
+      "halfSize": [
+        27.064499999862164,
+        49.948499999940395,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        438304772,
+        7,
+        [
+          [
+            2993806810,
+            4,
+            "( NO RECORD FOUND)",
+            "SHOP STALL NO. 58, G/F, MELODY GARDEN MARKET, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2993807549,
+            4,
+            "\u7737\u6200\u4e32",
+            "PORTION A OF SHOP 87, G/F, MELODY GARDEN, NO. 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-07"
+          ],
+          [
+            2993808074,
+            4,
+            "\u6eff\u5229\u7c89\u9eb5\u5e97",
+            "SHOP NO. 75, G/F, MELODY GARDEN COMMERCIAL COMPLEX, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2993808339,
+            4,
+            "\u5bb6\u4e4b\u6a02",
+            "SHOP NO. 41, G/F, COMMERCIAL COMPLEX, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2993810673,
+            4,
+            "CANADIAN PIZZA",
+            "SHOP NOS. 44 & 59, G/F., MELODY GARDEN, NO. 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            3693801006,
+            5,
+            "B\u8a18\u51cd\u8089",
+            "SHOP STALL NO. 63, G/F, MELODY GARDEN MARKET, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            3293000371,
+            6,
+            "7-Eleven",
+            "G/F, SHOP NO. 71 (PORTION), MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304861
+        ]
+      ],
+      "coordinate": [
+        1.988989673045958,
+        0.39050127930463774,
+        8.149999618530273
+      ],
+      "halfSize": [
+        10.305499999783933,
+        10.618365000002086,
+        2.049999952316284
+      ]
+    },
+    {
+      "attributes": [
+        438304773,
+        8,
+        [
+          [
+            2993807691,
+            4,
+            "\u4e8c\u6a13\u7cd6\u6c34\u8216",
+            "STALL NO. 14, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2993807707,
+            4,
+            "\u65e5\u672c\u99c5\u548c\u98df",
+            "STALL NO. 7, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2993807877,
+            4,
+            "\u8c6a\u5927\u5927\u96de\u6392",
+            "STALL NO. 20, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2993807886,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "STALL NO. 19, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2993807901,
+            4,
+            "\u60c5\u5fc3",
+            "STALL NO. 08, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2993807992,
+            4,
+            "\u5146\u79a7\u5e97",
+            "STALL NO. G13, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2993810707,
+            4,
+            "\u6cf0\u5c4b",
+            "STALL NO. 15, GROUND FLOOR IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            4993812172,
+            4,
+            "\u8fea\u81ea\u7531\u5feb\u9910",
+            "STALL NOS. G11 AND G12, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304876
+        ]
+      ],
+      "coordinate": [
+        1.9890923748266125,
+        0.3904902101127596,
+        11.449999809265137
+      ],
+      "halfSize": [
+        38.125500000081956,
+        36.321000000461936,
+        6.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        438304774,
+        7,
+        [
+          [
+            2993802845,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF COOKED FOOD STALL NO. 13-16, G/F, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ],
+          [
+            2993807442,
+            4,
+            "\u5927\u6c60\u8a18",
+            "STALL M123, G/F, BUTTERFLY MARKET, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2993809165,
+            4,
+            "Appolo",
+            "SHOP R101, G/F, BUTTERFLY PLAZA, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            3693800720,
+            5,
+            "Wellcome",
+            "SHOP L316-320 (PORTION A), LEVEL 3, BUTTERFLY SHOPPING CENTRE, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-31"
+          ],
+          [
+            3693801787,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "SHOPSTALL NO. M209, G/F, MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3693802531,
+            5,
+            "\u69ae\u76db\u6d77\u9bae",
+            "STALL M131-M132, G/F, BUTTERFLY MARKET, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3693802540,
+            5,
+            "\u56db\u773c\u4ed4\u9bae\u9b5a",
+            "STALL M129, G/F, BUTTERFLY MARKET, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304938
+        ]
+      ],
+      "coordinate": [
+        1.989036745584034,
+        0.39051385983742587,
+        11.75
+      ],
+      "halfSize": [
+        49.75249999994412,
+        80.87849999964237,
+        5.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        438304775,
+        1,
+        [
+          [
+            2993001372,
+            4,
+            "\u5fc3\u601d\u601d",
+            "SHOP NO. 59, 1/F, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304939
+        ]
+      ],
+      "coordinate": [
+        1.989053534931881,
+        0.39048269993698476,
+        10.25
+      ],
+      "halfSize": [
+        82.52000000001863,
+        34.37100000027567,
+        6.549999713897705
+      ]
+    }
+  ]
+}

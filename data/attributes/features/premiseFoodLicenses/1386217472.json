@@ -1,0 +1,59 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1386217472,
+        4,
+        [
+          [
+            2995804933,
+            4,
+            "TszCha",
+            "SHOP NO. G06 ON THE GROUND LEVEL OF GO PARK, 9 HOI YING ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2995804960,
+            4,
+            "\u6ab8\u5b63",
+            "SHOP G05, G/F, GO PARK, 9 HOI YING ROAD, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2995804979,
+            4,
+            "DeliFans",
+            "PORTION A OF SHOP NO. G07, G/F., GO PARK, 9 HOI YING ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3695802483,
+            5,
+            "DeliFans",
+            "PORTIONS OF SHOP NO. G07, G/F., GO PARK, 9 HOI YING ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1386218410
+        ]
+      ],
+      "coordinate": [
+        1.9943012087644756,
+        0.39142897894068496,
+        21.049999237060547
+      ],
+      "halfSize": [
+        87.10673211509129,
+        63.775173282192554,
+        4.949999809265137
+      ]
+    }
+  ]
+}

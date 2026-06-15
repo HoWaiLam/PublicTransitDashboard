@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1258291200,
+        1,
+        [
+          [
+            2995804270,
+            4,
+            "OAOA PIZZA HOUSE COMPANY",
+            "PORTION A OF G/F, 9 PO SAM PAI VILLAGE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1258291749
+        ]
+      ],
+      "coordinate": [
+        1.9933561738473673,
+        0.39219284868834914,
+        9.350000381469727
+      ],
+      "halfSize": [
+        5.290194999892265,
+        6.247869999147952,
+        3.950000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1258291201,
+        1,
+        [
+          [
+            2995000568,
+            4,
+            "\u6b23\u54c1\u5c0f\u98df\u5e97",
+            "G/F ( PORTION ), 96 SAN TAU KOK VILLAGE,TING KOK ROAD, DD 23, LOT 1098B1, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1258291961
+        ]
+      ],
+      "coordinate": [
+        1.993330529945893,
+        0.3921688681663971,
+        11.75
+      ],
+      "halfSize": [
+        5.665000000037253,
+        5.634999999776483,
+        4.549999713897705
+      ]
+    }
+  ]
+}

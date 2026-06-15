@@ -1,0 +1,1689 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1361051648,
+        1,
+        [
+          [
+            2511800139,
+            3,
+            "ZUNG FU COMPANY LIMITED",
+            "3/F CANTEEN, NO. 60 KA YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051648
+        ]
+      ],
+      "coordinate": [
+        1.9939623500862347,
+        0.38870999606914713,
+        11.34999942779541
+      ],
+      "halfSize": [
+        35.3355000000447,
+        64.93999999947846,
+        7.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1361051649,
+        2,
+        [
+          [
+            2911091920,
+            4,
+            "RICH AIM INTERNATIONAL LIMITED",
+            "FLAT B, 13/F, SUM LUNG IND BLDG, 11 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2911812705,
+            4,
+            "More Good",
+            "UNIT A, 5/F, SUM LUNG INDUSTRIAL BUILDING, 11 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051650
+        ]
+      ],
+      "coordinate": [
+        1.9939704723396297,
+        0.3886467282256539,
+        11.550000190734863
+      ],
+      "halfSize": [
+        25.207499999552965,
+        26.869500000029802,
+        7.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1361051650,
+        1,
+        [
+          [
+            2911810301,
+            4,
+            "DALLA VALLE LIMITED",
+            "PORTION A OF UNIT 2D, 2/F., WAH SHING CENTRE, 5 FUNG YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051651
+        ]
+      ],
+      "coordinate": [
+        1.9939618161294366,
+        0.3886404223712094,
+        11.5
+      ],
+      "halfSize": [
+        31.956500000320375,
+        31.320000000298023,
+        7.700000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1361051651,
+        2,
+        [
+          [
+            2911804764,
+            4,
+            "SENRICH FOOD LIMITED",
+            "4/F., BLOCK A, CHEUNG YICK INDUSTRIAL BUILDING, 12 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2911810772,
+            4,
+            "SUN KEE CHICKEN CONGEE WORKSHOP (CHAI WAN)",
+            "FLAT B, 1/F., CHEUNG YICK INDUSTRIAL BUILDING, NO. 12 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051653
+        ]
+      ],
+      "coordinate": [
+        1.9939668329991649,
+        0.3886341466026576,
+        11.300000190734863
+      ],
+      "halfSize": [
+        22.813999999780208,
+        21.74199999962002,
+        7.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1361051652,
+        4,
+        [
+          [
+            2911805022,
+            4,
+            "Starbucks Coffee",
+            "SHOP 20B, G/F., ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-03-17"
+          ],
+          [
+            3611803253,
+            5,
+            "\u6d77\u9bae\u57ce",
+            "STALL F OF SHOP NO. 1A, 1/F, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3611803262,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL E OF SHOP NO. 1A, 1/F, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-08-23"
+          ],
+          [
+            3611803271,
+            5,
+            "\u8fb2\u592b",
+            "STALL D OF SHOP NO. 1A, 1/F, ISLAND RESORT MALL, 28 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-08-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051654
+        ]
+      ],
+      "coordinate": [
+        1.9940535953229488,
+        0.38862003083815033,
+        20.549999237060547
+      ],
+      "halfSize": [
+        116.210999999661,
+        105.5230000000447,
+        15.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1361051653,
+        20,
+        [
+          [
+            2911804755,
+            4,
+            "\u6ce2\u863f\u5305",
+            "SHOP NOS. 29-30, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2911809653,
+            4,
+            "\u6797\u9999\u6ab8\u624b\u6253\u6ab8\u6aac\u8336",
+            "SHOP 8, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2911810170,
+            4,
+            "SHARETEA",
+            "SHOP 18, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2911810657,
+            4,
+            "\u6642\u65b0\u98df\u54c1",
+            "SHOP 5, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-16"
+          ],
+          [
+            2911811191,
+            4,
+            "\u4e00\u5bb5",
+            "SHOP 1A, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2911811687,
+            4,
+            "\u5690 \u5473\u9928",
+            "SHOP NO. 36, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2911811979,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "SHOP C1-C2, G/F, CHEERFUL GARDEN CARPARK BLOCK, 23 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2911812088,
+            4,
+            "--",
+            "SHOP NO. 10, G/F., CHEERFUL GARDEN, NO. 23 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-03-13"
+          ],
+          [
+            2911812237,
+            4,
+            "\u5fb7\u9f8d\u71d2\u5473\u5e97",
+            "MAJOR PORTION OF SHOP NO. 48, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2911813762,
+            4,
+            "Yoshinoya",
+            "SHOP C3 AND C5, G/F, CHEERFUL GARDEN CARPARK BLOCK, 23 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-10-10"
+          ],
+          [
+            2911814066,
+            4,
+            "\u8d85\u4eba\u71d2\u9d5d",
+            "SHOP NO. 45, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            4911815784,
+            4,
+            "(No Record Found)",
+            "SHOP NO. 34, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3611802010,
+            5,
+            "\u7965\u8208\u98df\u54c1\u6279\u767c\u5e02\u5834",
+            "SHOP NO. C6, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-04-19"
+          ],
+          [
+            3611802278,
+            5,
+            "\u5bb6\u8c6c\u9bae\u8089",
+            "SHOP 14, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-16"
+          ],
+          [
+            3611802384,
+            5,
+            "QDAMA (CHEERFUL GARDEN)",
+            "PORTION A OF SHOP 1,2,3,4, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-08-18"
+          ],
+          [
+            3611803475,
+            5,
+            "U-U Fresh Food",
+            "SHOP NO. 13, G/F., CHEERFUL GARDEN, NO. 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            3611803581,
+            5,
+            "\u4e09\u597d\u6d77\u9bae",
+            "SHOP 50, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-03-18"
+          ],
+          [
+            3611803785,
+            5,
+            "\u4e09\u54e5\u98df\u54c1\u5e02\u5834",
+            "PORTIONS OF SHOP 56-62, G/F., CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-11-23"
+          ],
+          [
+            3511800101,
+            8,
+            "\u9577\u65fa\u6ef7\u5473\u5927\u738b",
+            "SHOP 38, G/F., CHEERFUL GARDEN, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-01-28"
+          ],
+          [
+            3511800554,
+            8,
+            "\u5fb7\u9f8d\u71d2\u5473\u5e97",
+            "MINOR PORTION OF SHOP NO. 48, G/F, CHEERFUL GARDEN, 23 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051661
+        ]
+      ],
+      "coordinate": [
+        1.9940469280414403,
+        0.38856333524160314,
+        7.800000190734863
+      ],
+      "halfSize": [
+        84.88499999977648,
+        67.05499999970198,
+        2.3999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1361051654,
+        1,
+        [
+          [
+            2911804250,
+            4,
+            "No Record",
+            "3/F (MINOR PORTION), SAFETY GODOWN INDUSTRIAL BUILDING, 56-60 KA YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051663
+        ]
+      ],
+      "coordinate": [
+        1.9939664937259702,
+        0.388695601951122,
+        27.399999618530273
+      ],
+      "halfSize": [
+        34.24946499988437,
+        46.269150000065565,
+        23.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1361051655,
+        4,
+        [
+          [
+            2911125614,
+            4,
+            "RICH AIM INTERNATIONAL LIMITED",
+            "FLAT A, 10/F, SUM LUNG IND BLDG, 11 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2911143090,
+            4,
+            "RICH AIM INTERNATIONAL LIMITED",
+            "A & B, 11/F, SUM LUNG INDUSTRIAL BLDG, 11 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2911809389,
+            4,
+            "RICH AIM INTERNATIONAL LIMITED",
+            "UNIT B, 10/F., SUM LUNG IND BLDG, 11 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2911814385,
+            4,
+            "RICH AIM INTERNATIONAL LIMITED",
+            "FLAT A & B, 8/F, SUM LUNG INDUSTRIAL BUILDING, NO. 11 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051687
+        ]
+      ],
+      "coordinate": [
+        1.993970438536885,
+        0.3886467994885052,
+        35.20000076293945
+      ],
+      "halfSize": [
+        22.843660000246018,
+        23.52309999987483,
+        16.0
+      ]
+    },
+    {
+      "attributes": [
+        1361051656,
+        1,
+        [
+          [
+            2511079353,
+            3,
+            "\u51a0\u83ef",
+            "G/F, FLAT A (FRONT PORTION), KOON WAH INDUSTRIAL BLDG, 4 SUN ON STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051688
+        ]
+      ],
+      "coordinate": [
+        1.993966692521399,
+        0.3886439843873966,
+        27.75
+      ],
+      "halfSize": [
+        25.865505000110716,
+        27.252330000512302,
+        23.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1361051657,
+        9,
+        [
+          [
+            2511057683,
+            3,
+            "\u65b0\u696d",
+            "SHOP F, G/F, 9 SUN YIP STREET, HONG KONG",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2911804339,
+            4,
+            "La Baguette Limited",
+            "UNIT A, 8/F., SUMMIT INDUSTRIAL BUILDING, 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2911806405,
+            4,
+            "THE NATURAL TEA COMPANY (H.K.) LIMITED",
+            "UNIT D, 1/F., SUMMIT INDUSTRIAL BUILDING, 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-21"
+          ],
+          [
+            2911807602,
+            4,
+            "PRINCE FOODS MANUFACTORY LIMITED",
+            "UNIT NOS. C & D, 7/F., SUMMIT INDUSTRIAL BUILDING, 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2911811058,
+            4,
+            "GDB BAKEHOUSE",
+            "UNIT A, 2/F., SUMMIT INDUSTRIAL BUILDING, 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2911812097,
+            4,
+            "BONLICIOUS LIMITED",
+            "PORTION A OF WORKSHOP D, 10/F, SUMMIT INDUSTRIAL BUILDING, 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-03-13"
+          ],
+          [
+            2911812671,
+            4,
+            "NEW FOODPROJECT",
+            "PORTION A OF ROOM B, 5/F, SUMMIT INDUSTRIAL BUILDING, 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-06"
+          ],
+          [
+            2911813018,
+            4,
+            "CAI BAKE",
+            "PORTION A OF FLAT B, 14/F, SUMMIT INDUSTRIAL BUILDING, NO. 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2911814950,
+            4,
+            "SKW Pizza Pie",
+            "PORTION A OF ROOM B, 13/F, SUMMIT INDUSTRIAL BUILDING, NO. 9 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051693
+        ]
+      ],
+      "coordinate": [
+        1.9939742062507027,
+        0.38863944268342726,
+        27.799999237060547
+      ],
+      "halfSize": [
+        27.00552500039339,
+        24.528939999639988,
+        23.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1361051658,
+        6,
+        [
+          [
+            2911800920,
+            4,
+            "Food Square Hong Kong Limited",
+            "FLAT B & C, 2/F., UNISON INDUSTRIAL BUILDING, 7 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2911804579,
+            4,
+            "AKITEN LIMITED",
+            "UNIT A1, 3/F., UNISON INDUSTRIAL BUILDING, 7 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2911805873,
+            4,
+            "\u5049\u73ca\u51cd\u8089",
+            "ROOM A, 10/F., UNISON INDUSTRIAL BUILDING, NO. 7 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2911807958,
+            4,
+            "FOOD SQUARE HONG KONG LIMITED",
+            "FLAT C, 6/F., UNISON INDUSTRIAL BUILDING, 7 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-04-12"
+          ],
+          [
+            2911811748,
+            4,
+            "FOOD SQUARE HONG KONG LIMITED",
+            "FLAT C, 7/F., UNISON INDUSTRIAL BUILDING, 7 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2911814145,
+            4,
+            "FOOD SQUARE HONG KONG LIMITED",
+            "UNIT A, 2/F, UNISON INDUSTRIAL BUILDING, 7 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051694
+        ]
+      ],
+      "coordinate": [
+        1.9939772704714573,
+        0.3886358320429269,
+        27.450000762939453
+      ],
+      "halfSize": [
+        26.462875000201166,
+        24.932465000078082,
+        23.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1361051659,
+        1,
+        [
+          [
+            2911814242,
+            4,
+            "GET TOGETHER",
+            "CONCESSION NO. 2, SIU SAI WAN SPORTS GROUND, 8 FU HONG STREET, SIU SAI WAN, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051697
+        ]
+      ],
+      "coordinate": [
+        1.9940103037698624,
+        0.3886337956512279,
+        8.25
+      ],
+      "halfSize": [
+        16.688250000122935,
+        35.79492499958724,
+        3.6499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1361051660,
+        2,
+        [
+          [
+            2911806760,
+            4,
+            "FOOD ANGEL",
+            "UNIT A, 11/F., CHEUNG YICK INDUSTRIAL BUILDING, 12 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2911810499,
+            4,
+            "SENRICH FOOD LIMITED",
+            "SHOP B, 10/F., CHEUNG YICK IND. BLDG., 12 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051698
+        ]
+      ],
+      "coordinate": [
+        1.993966687745066,
+        0.38863367682298383,
+        34.45000076293945
+      ],
+      "halfSize": [
+        20.835570000112057,
+        19.53213999979198,
+        15.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1361051661,
+        7,
+        [
+          [
+            2911801011,
+            4,
+            "MAY LI HERB MIXTURES FOOD CO.",
+            "WORKSHOP A, 2/F., HOP MING FACTORY BUILDING, NO. 8 ON YIP STREET, SIU SAI WAN, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2911803734,
+            4,
+            "MIN HONG FOODS COMPANY LIMITED",
+            "UNIT C, 8/F., HOP MING FACTORY BUILDING, NO.8 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2911804773,
+            4,
+            "Sources F&B Consultant Company Limited",
+            "FLAT A, 1/F., HOP MING FACTORY BUILDING, 6-10 ON YIP STREET, HONG KONG",
+            null,
+            "2026-11-15"
+          ],
+          [
+            2911806618,
+            4,
+            "Lung Fung Food Limited",
+            "FLAT B (MINOR PORTION), 13/F., HOP MING FACTORY BUILDING, 6-10 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-08"
+          ],
+          [
+            2911807329,
+            4,
+            "SAN HIP HING FROZEN MEAT FOOD COMPANY",
+            "ROOM C, 10/F, HOP MING FACTORY BUILDING, 6-8 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2911810666,
+            4,
+            "CHUNG WAN FOODS COMPANY LIMITED",
+            "UNIT B, 3/F., HOP MING FACTORY BUILDING, 6-10 ON YIP STREET, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-08-23"
+          ],
+          [
+            2911811438,
+            4,
+            "Min Hong Foods Company Limited",
+            "FLAT A, 8/F, HOP MING FACTORY BUILDING, NO. 8 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051700
+        ]
+      ],
+      "coordinate": [
+        1.9939699239244273,
+        0.38863103680834243,
+        27.799999237060547
+      ],
+      "halfSize": [
+        22.893364999908954,
+        18.290639999322593,
+        23.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1361051662,
+        49,
+        [
+          [
+            2111179039,
+            1,
+            "ANNA CAKE SHOP",
+            "ROOM 10, 19/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2911171893,
+            4,
+            "Asia Pacific Catering",
+            "ROOM 12, 8/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-03-27"
+          ],
+          [
+            2911209215,
+            4,
+            "NOSH by Secret Ingredient",
+            "FLAT 1914, 19/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2911231898,
+            4,
+            "RIGHT YOUNG LTD",
+            "UNIT 16, 5/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2911800276,
+            4,
+            "BEST TALENT FOODIE LIMITED",
+            "WORKSHOP NO.8, 22/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2911801622,
+            4,
+            "\u81f3\u5c0a\u7f8e\u9ede",
+            "WORKSHOP 18, 14/F, HONOUR INDUSTRIAL CENTRE, NO.6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2911801899,
+            4,
+            "PEER KITCHEN",
+            "WORKSHOP NO. 10, 20/F., HONOUR INDUSTRIAL CTR., 6 SUN YIP ST., CHAI WAN, HONG KONG",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2911804001,
+            4,
+            "1983 Limited",
+            "ROOM 8, 24/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2911804278,
+            4,
+            "No Record",
+            "UNIT 2110, 2111, 2112 AND 2113, 21/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2911806104,
+            4,
+            "New Kondo Trading Co. Ltd.",
+            "UNIT 12, 26/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-25"
+          ],
+          [
+            2911806645,
+            4,
+            "DONQ (HONG KONG) LTD.",
+            "UNIT 16, 8/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2911806654,
+            4,
+            "Luncheon Star",
+            "WORKSHOP NO.14, 8/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2911807028,
+            4,
+            "LADY M",
+            "UNIT 1604, 16/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, EASTERN, HONG KONG",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2911807347,
+            4,
+            "\u5b8f\u5cf0",
+            "PORTION OF ROOM 1104-1108, 11/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2911807444,
+            4,
+            "(No record found)",
+            "WORKSHOP NO. 1, 2/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2911807453,
+            4,
+            "DIM SUM LAU MANAGEMENT CO., LTD",
+            "UNIT 13, 25/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2911807499,
+            4,
+            "Lady M",
+            "WORKSHOP NO. 12 & 13, 16/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, EASTERN, HONG KONG",
+            null,
+            "2026-09-22"
+          ],
+          [
+            2911808207,
+            4,
+            "Oddies",
+            "PORTION A OF WORKSHOP 18, 12/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2911808359,
+            4,
+            "INN TRADE LIMITED",
+            "UNIT 1111, 11/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-11"
+          ],
+          [
+            2911808401,
+            4,
+            "Gaia Group",
+            "WORKSHOP NO. 17 (MAJOR PORTION), 23/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2911808465,
+            4,
+            "GROWN INTERNATIONAL TRADING LIMITED",
+            "ROOM 2308, 23/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2911808599,
+            4,
+            "MM 147 Limited",
+            "WORKSHOP NO. 17, 22/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2911809149,
+            4,
+            "Butter Up Kitchen Limited",
+            "WORKSHOP NO. 712, 7/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2911809282,
+            4,
+            "WANG JIA SHA",
+            "WORKSHOP NO. 5, 14/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2911809857,
+            4,
+            "ONE MASTER",
+            "ROOM 1114, 11/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2911810125,
+            4,
+            "MAN HEUNG FOOD COMPANY LIMITED",
+            "FLAT 1302, 13/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2911810189,
+            4,
+            "Delish ONE Kitchen",
+            "UNIT 1715, 17/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-03-17"
+          ],
+          [
+            2911810213,
+            4,
+            "COVA FACTORY",
+            "PORTION A OF WORKSHOP 15 & PORTION A OF WORKSHOP 18, 2/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-03-26"
+          ],
+          [
+            2911810231,
+            4,
+            "Butter Up Kitchen Limited",
+            "PORTION A OF UNIT 716, 7/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-13"
+          ],
+          [
+            2911810781,
+            4,
+            "KWAN HING FROZEN MEAT COMPANY",
+            "ROOM 610, 6/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2911811863,
+            4,
+            "ON LEE NOODLE SHOP",
+            "ROOM 2302, 23/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-30"
+          ],
+          [
+            2911812422,
+            4,
+            "GOLDEN PIN CATERING GROUP LIMITED",
+            "WORKSHOP NO. 18, 9/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2911812510,
+            4,
+            "TZCJ Company Limited",
+            "FLAT 1911-1913, 19/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-09"
+          ],
+          [
+            2911812556,
+            4,
+            "Lady M",
+            "UNIT 2415, 24/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2911812626,
+            4,
+            "TIN TAT FROZEN MEAT FOOD COMPANY LIMITED",
+            "UNIT 2, 26/F, HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-12"
+          ],
+          [
+            2911812644,
+            4,
+            "AN",
+            "UNIT 14, 7/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2911812909,
+            4,
+            "Delish ONE Kitchen",
+            "ROOM 2412, 24/F, HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2911813072,
+            4,
+            "(No Record Found)",
+            "WORKSHOP NOS. 4, 8 AND 9, 2/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-03-02"
+          ],
+          [
+            2911813188,
+            4,
+            "m.a.x. concepts Satellite Kitchen",
+            "PORTION A OF WORKSHOP 10, 2/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-03-27"
+          ],
+          [
+            2911813230,
+            4,
+            "AA Foods Company",
+            "WORKSHOP NO. 17, 13/F, HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2911813337,
+            4,
+            "JCR KITCHEN",
+            "WORKSHOP 15, 3/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2911813364,
+            4,
+            "\u65e5\u83dc\u5eda\u623f",
+            "PORTION B OF WORKSHOP 2 AND WORKSHOP 3, 2/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2911814048,
+            4,
+            "Luncheon Star",
+            "WORKSHOP NO. 1 ON 8/F OF HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2911814349,
+            4,
+            "LITTLE BAO LIMITED",
+            "UNIT 509, 5/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2911814792,
+            4,
+            "(No Record Found)",
+            "UNIT 14-15, 26/F, HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-21"
+          ],
+          [
+            3211800463,
+            6,
+            "Oddies",
+            "PORTION B OF WORKSHOP 18, 12/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            3211800472,
+            6,
+            "Gaia Group",
+            "WORKSHOP NO. 17 (MINOR PORTION), 23/F., HONOUR INDUSTRIAL CENTRE, NO. 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-08"
+          ],
+          [
+            3211800588,
+            6,
+            "COVA FACTORY",
+            "PORTION B OF WORKSHOP 15, 2/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-03-26"
+          ],
+          [
+            3211800597,
+            6,
+            "Butter Up Kitchen Limited",
+            "PORTION B OF UNIT 716, 7/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051708
+        ]
+      ],
+      "coordinate": [
+        1.9939923578082976,
+        0.3886200546858066,
+        54.54999923706055
+      ],
+      "halfSize": [
+        22.177584999706596,
+        36.67123499978334,
+        49.95000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1361051663,
+        11,
+        [
+          [
+            2911801464,
+            4,
+            "\u6709\u5229\u9eb5\u98fd\u516c\u53f8",
+            "UNIT D, 1/F., SUN VIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2911804630,
+            4,
+            "No Record",
+            "UNIT C, 4/F., SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-05"
+          ],
+          [
+            2911805411,
+            4,
+            "FRESH TO GO",
+            "PORTION OF UNIT B, 9TH FLOOR, SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-22"
+          ],
+          [
+            2911808322,
+            4,
+            "PERFECT FORZEN MEAT CO. LTD.",
+            "RM F, 11/F., SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-10"
+          ],
+          [
+            2911811793,
+            4,
+            "MIHK FROZEN FOOD LIMITED",
+            "PORTION A OF WORKSHOP C, 7/F., SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2911812662,
+            4,
+            "\u5805\u98df\u5ee0",
+            "PORTION B, UNIT D, 2/F, SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2911812680,
+            4,
+            "\u5805\u98df\u5ee0",
+            "PORTION A, UNIT D, 2/F, SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2911812954,
+            4,
+            "\u96c4\u8a18\u98df\u54c1\u516c\u53f8",
+            "UNIT NO. A, 6TH FLOOR, SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2911813391,
+            4,
+            "\u5805\u98df\u5ee0",
+            "PORTION A, UNIT D, 9/F, SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2911814075,
+            4,
+            "KING ASIA MARINE PRODUCTS CO., LTD.",
+            "SHOP B (MINOR PORTION), G/F, SUNVIEW INDUSTRIAL BUILDING, NO. 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2911814288,
+            4,
+            "\u5805\u00b7\u98df\u5ee0",
+            "UNIT H1, 8/F, SUNVIEW INDUSTRIAL BUILDING, 3 ON YIP STREET, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051709
+        ]
+      ],
+      "coordinate": [
+        1.9939678467135897,
+        0.38862002189353456,
+        26.549999237060547
+      ],
+      "halfSize": [
+        28.8973550000228,
+        35.527304999530315,
+        22.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1361051664,
+        5,
+        [
+          [
+            2111194489,
+            1,
+            "Likey Bakery",
+            "SHOP 52, G/F, HARMONY GARDEN CARPARK BLDG, 9 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-11-27"
+          ],
+          [
+            2911810860,
+            4,
+            "\u5e78\u798f\u5c0f\u5eda\u5169\u9938\u98ef",
+            "SHOP 49, G/F, HARMONY GARDEN, 9 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-01-04"
+          ],
+          [
+            3611803615,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP 1 & 3, G/F., HARMONY GARDEN, 9 SIU SAI WAN ROAD, SIU SAI WAN, CHAI WAN, HONG KONG",
+            null,
+            "2026-03-24"
+          ],
+          [
+            3611803660,
+            5,
+            "\u5bcc\u6b23\u6c11\u751f\u9ed1\u6bdb\u8c6c\u5c08\u8ce3\u5e97",
+            "SHOP NOS. 58 & 60, G/F, HARMONY GARDEN, 9 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-05"
+          ],
+          [
+            4611803368,
+            5,
+            "\u9bae\u591a\u591a\u751f\u6d3b\u8d85\u5e02",
+            "(PORTION A) SHOPS NOS. 17, 18, 19, 45 AND 46, G/F, HARMONY GARDEN, NO. 9 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051734
+        ]
+      ],
+      "coordinate": [
+        1.9940060553460721,
+        0.38859883432945896,
+        15.300000190734863
+      ],
+      "halfSize": [
+        23.024809999857098,
+        26.36136000044644,
+        9.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1361051665,
+        21,
+        [
+          [
+            2911807116,
+            4,
+            "\u5bb6\u4e4b\u5473",
+            "STALL NO. 85, G/F., SIU SAI WAN MARKET, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2911807471,
+            4,
+            "Chan Kee",
+            "MAJOR PORTION OF STALL NOS. 26 & 48, G/F., SIU SAI WAN MARKET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2911808182,
+            4,
+            "Wellcome",
+            "SHOP NO. 211A (PORTION A), 2/F., SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2911809291,
+            4,
+            "\u5305\u9ede\u5148\u751f x \u71d2\u8ce3\u738b\u5b50",
+            "STALL NOS. 2 - 3, G/F., SIU SAI WAN MARKET, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, NO. 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-15"
+          ],
+          [
+            2911809325,
+            4,
+            "Hung Fook Tong",
+            "PORTION OF SHOP NO. 310, THIRD FLOOR, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2911809343,
+            4,
+            "Crafted",
+            "SHOP NO. 8, G/F., SIU SAI WAN PLAZA, 10 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2911810587,
+            4,
+            "Appolo (Magic House) Superstore Ltd.",
+            "SHOP 7, G/F, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2911812769,
+            4,
+            "THE VIGOR",
+            "STALL NO. 5, G/F, SIU SAI WAN MARKET, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, NO. 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-14"
+          ],
+          [
+            4911815678,
+            4,
+            "\u6696\u5c4b\u70d8\u7119",
+            "SHOP NO. 311A, 3/F, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-04-01"
+          ],
+          [
+            3611801600,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL NO. 29, G/F., SIU SAI WAN MARKET , CHAI WAN , HONG KONG",
+            null,
+            "2027-03-14"
+          ],
+          [
+            3611801619,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL NO. 30, G/F., SIU SAI WAN MARKET , CHAI WAN , HONG KONG",
+            null,
+            "2027-03-14"
+          ],
+          [
+            3611801628,
+            5,
+            "\u4e00\u756a\u98df\u54c1",
+            "STALL NOS. 33 & 34, G/F., SIU SAI WAN MARKET , CHAI WAN , HONG KONG",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3611801682,
+            5,
+            "\u9818\u9bae",
+            "STALL NO. 40, G/F., SIU SAI WAN MARKET , CHAI WAN , HONG KONG",
+            null,
+            "2027-03-30"
+          ],
+          [
+            3611801725,
+            5,
+            "\u4e2d\u83ef\u9bae\u9b5a",
+            "STALL NOS. 66 & 67, G/F., SIU SAI WAN MARKET , CHAI WAN , HONG KONG",
+            null,
+            "2026-04-11"
+          ],
+          [
+            3611801840,
+            5,
+            "Wellcome",
+            "SHOP NO. 211A (PORTIONS), 2/F., SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3611802658,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL NO. 73-76, G/F, SIU SAI WAN MARKET, SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, NO. 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-23"
+          ],
+          [
+            3611802816,
+            5,
+            "--",
+            "SHOP NO. C-SSW15, G/F, SIU SAI WAN MARKET, SIU SAI WAN PLAZA, NO. 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2027-02-23"
+          ],
+          [
+            3611802931,
+            5,
+            "\u725b\u820d",
+            "SHOP NO. C-SSW41, SIU SAI WAN MARKET, SIU SAI WAN PLAZA, NO. 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-24"
+          ],
+          [
+            3611803466,
+            5,
+            "\u6d0b\u7acb\u6d77\u9bae",
+            "SHOP NO. C-SSW70-71, G/F, SIU SAI WAN MARKET, SIU SAI WAN PLAZA, NO. 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            4611803474,
+            5,
+            "S-MART FOOD",
+            "STALL C-SSW46-47, SIU SAI WAN MARKET, G/F., SIU SAI WAN PLAZA, SIU SAI WAN ESTATE, 10 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-08-03"
+          ],
+          [
+            3511800387,
+            8,
+            "Chan Kee",
+            "MINOR PORTION OF STALL NOS. 26 & 48, G/F., SIU SAI WAN MARKET, CHAI WAN, HONG KONG",
+            null,
+            "2026-09-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051782
+        ]
+      ],
+      "coordinate": [
+        1.9940163405501188,
+        0.38855813629655267,
+        16.350000381469727
+      ],
+      "halfSize": [
+        38.79738000035286,
+        55.970285000279546,
+        10.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1361051666,
+        9,
+        [
+          [
+            2911119305,
+            4,
+            "\u7965\u8a18\u5c0f\u98df",
+            "SHOP 33 & 34, G/F, FULLVIEW COMM'L ARCADE, 18 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2911802810,
+            4,
+            "Fullview Sweet Shop",
+            "SHOP 41, G/F., FULLVIEW GARDEN SHOPPING CENTRE, 18 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-06-18"
+          ],
+          [
+            2911803248,
+            4,
+            "Coffee Bar",
+            "SHOP 42, G/F., FULLVIEW GARDEN SHOPPING CENTRE, 18 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2911803503,
+            4,
+            "\u5bb6\u4e4b\u5473",
+            "SHOP 12, G/F., FULLVIEW GARDEN SHOPPING CENTRE, 18 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2911804427,
+            4,
+            "\u7965\u8a18\u5c0f\u83dc",
+            "SHOP 40, G/F., FULLVIEW SHOPPING CENTRE, 18 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2027-02-23"
+          ],
+          [
+            2911808030,
+            4,
+            "YOU NIN YOU WO",
+            "SHOP 149, 1/F., FULLVIEW SHOPPING CENTRE, 18 SIU SAI WAN ROAD, SIU SAI WAN, HONG KONG",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2911812291,
+            4,
+            "\u6a02\u6e90\u7151\u5834",
+            "SHOP NO. 6 ON GROUND FLOOR, COMMERCIAL CENTRE FULLVIEW GARDEN, 18 SIU SAI WAN ROAD, HONG KONG",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2911812820,
+            4,
+            "POST 90's",
+            "SHOP 42A, G/F., FULLVIEW GARDEN COMMERCIAL CENTRE, 18 SIU SAI WAN ROAD, CHAI WAN, HONG KONG",
+            null,
+            "2026-11-28"
+          ],
+          [
+            3211113840,
+            6,
+            "7-Eleven",
+            "PORTION A, SHOP NOS. 9, 14, 14A, 21& 22, G/F, FULLVIEW GARDEN, SIU SAI WAN, HONG KONG",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1361051798
+        ]
+      ],
+      "coordinate": [
+        1.994061560683547,
+        0.3885542543063081,
+        11.050000190734863
+      ],
+      "halfSize": [
+        25.480470000300556,
+        24.674805000424385,
+        4.649999618530273
+      ]
+    }
+  ]
+}

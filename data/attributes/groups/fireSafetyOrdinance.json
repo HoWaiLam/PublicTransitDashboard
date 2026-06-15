@@ -1,0 +1,8 @@
+{
+  "name": "fireSafetyOrdinance",
+  "label": "Fire Safety Ordinance",
+  "groupLayerSymbologies": 1,
+  "layers": [
+    "fireSafetyDirectionsLayer.json"
+  ]
+}

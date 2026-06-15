@@ -1,0 +1,829 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1197473792,
+        1107633708,
+        null,
+        null,
+        [
+          [
+            "DD76 20",
+            "Old Schedule Lot",
+            "C5978883",
+            [
+              [
+                "N3026",
+                "1906-11-15",
+                "MORTGAGE",
+                "200.0"
+              ],
+              [
+                "N7889",
+                "1909-01-05",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N7918",
+                "1909-01-06",
+                "-",
+                "72.0"
+              ],
+              [
+                "N7975",
+                "1909-01-11",
+                "MORTGAGE",
+                "75.0"
+              ],
+              [
+                "N14377",
+                "1911-01-10",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N18672",
+                "1912-01-23",
+                "MORTGAGE",
+                "80.0"
+              ],
+              [
+                "N34864",
+                "1917-01-04",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N36174",
+                "1917-06-07",
+                "-",
+                "200.0"
+              ],
+              [
+                "N105987",
+                "1939-05-06",
+                "-",
+                null
+              ],
+              [
+                "N105986",
+                "1939-05-06",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9928486872123405,
+        0.39291344993132843,
+        32.95000076293945
+      ],
+      "halfSize": [
+        3.2044999999925494,
+        6.339499999769032,
+        1.25
+      ]
+    },
+    {
+      "attributes": [
+        1197473793,
+        1107633791,
+        null,
+        null,
+        [
+          [
+            "DD76 20",
+            "Old Schedule Lot",
+            "C5978883",
+            [
+              [
+                "N3026",
+                "1906-11-15",
+                "MORTGAGE",
+                "200.0"
+              ],
+              [
+                "N7889",
+                "1909-01-05",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N7918",
+                "1909-01-06",
+                "-",
+                "72.0"
+              ],
+              [
+                "N7975",
+                "1909-01-11",
+                "MORTGAGE",
+                "75.0"
+              ],
+              [
+                "N14377",
+                "1911-01-10",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N18672",
+                "1912-01-23",
+                "MORTGAGE",
+                "80.0"
+              ],
+              [
+                "N34864",
+                "1917-01-04",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N36174",
+                "1917-06-07",
+                "-",
+                "200.0"
+              ],
+              [
+                "N105987",
+                "1939-05-06",
+                "-",
+                null
+              ],
+              [
+                "N105986",
+                "1939-05-06",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9928507505190425,
+        0.3929123207808346,
+        32.849998474121094
+      ],
+      "halfSize": [
+        1.2075000000186265,
+        1.117000000551343,
+        1.1499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1197473794,
+        1107634227,
+        null,
+        null,
+        [
+          [
+            "DD76 132 RP",
+            "Old Schedule Lot",
+            "C3370678",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189649",
+                "1978-03-21",
+                "STATUTORY DECLARATION OF CHAN MAN CHIU ALIAS CHAN MIN CHIU",
+                null
+              ],
+              [
+                "N189650",
+                "1978-03-21",
+                "STATUTORY DECLARATION BY CHAN PAK CHEONG ALIAS CHAN PAK CHEONG",
+                null
+              ],
+              [
+                "N189651",
+                "1978-03-21",
+                "STATUTORY DECLARATION BY CHAN CHE HUNG ALIAS CHAN CHE HUNG",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N445615",
+                "1999-06-19",
+                "DEED POLL WITH PLAN RE: SECTION C, D, E, F & RP",
+                null
+              ],
+              [
+                "N492511",
+                "2000-09-06",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9928406328334842,
+        0.3929026743659208,
+        31.400001525878906
+      ],
+      "halfSize": [
+        4.303499999921769,
+        4.243999999947846,
+        1.5000009536743164
+      ]
+    },
+    {
+      "attributes": [
+        1197473795,
+        1107634477,
+        null,
+        "34 SAN UK TSAI",
+        [
+          [
+            "DD76 132 S.F",
+            "Old Schedule Lot",
+            "C3370704",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N445885",
+                "1999-06-19",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD76 133 S.B SS.3",
+            "Old Schedule Lot",
+            "C6644759",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N189654",
+                "1978-05-02",
+                "-",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N445883",
+                "1999-06-19",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD76 133 S.E",
+            "Old Schedule Lot",
+            "C3370799",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N445884",
+                "1999-06-19",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.992841991549287,
+        0.3928976439903548,
+        32.599998474121094
+      ],
+      "halfSize": [
+        7.4309999998658895,
+        3.345530000515282,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1197473796,
+        1107634511,
+        null,
+        "33 SAN UK TSAI",
+        [
+          [
+            "DD76 132 S.E",
+            "Old Schedule Lot",
+            "C6728985",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N446919",
+                "1999-06-19",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "22111100910037",
+                "2022-09-30",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22112202110035",
+                "2022-10-05",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22120101180055",
+                "2022-10-10",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD76 133 S.B SS.2",
+            "Old Schedule Lot",
+            "C5071607",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N189654",
+                "1978-05-02",
+                "-",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N446921",
+                "1999-06-19",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "22111100910037",
+                "2022-09-30",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22112202110035",
+                "2022-10-05",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22120101180055",
+                "2022-10-10",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD76 133 S.D",
+            "Old Schedule Lot",
+            "C3370783",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N446919",
+                "1999-06-19",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "22111100910037",
+                "2022-09-30",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22112202110035",
+                "2022-10-05",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22120101180055",
+                "2022-10-10",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9928421070749813,
+        0.39289700122381116,
+        32.20000076293945
+      ],
+      "halfSize": [
+        7.3441449999809265,
+        3.035469999536872,
+        3.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1197473797,
+        1107634544,
+        null,
+        "32 SAN UK TSAI",
+        [
+          [
+            "DD76 132 S.D",
+            "Old Schedule Lot",
+            "C3370690",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N445885",
+                "1999-06-19",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "N492510",
+                "2000-09-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "14092501660035",
+                "2012-02-10",
+                "PROBATE WITH AMENDED SCHEDULE OF PROPERTY",
+                null
+              ],
+              [
+                "18032201460044",
+                "2014-08-29",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD76 133 S.B SS.1",
+            "Old Schedule Lot",
+            "C3370776",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189654",
+                "1978-05-02",
+                "-",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N445883",
+                "1999-06-19",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "N492510",
+                "2000-09-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "14092501660035",
+                "2012-02-10",
+                "PROBATE WITH AMENDED SCHEDULE OF PROPERTY",
+                null
+              ],
+              [
+                "18032201460044",
+                "2014-08-29",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD76 133 S.C",
+            "Old Schedule Lot",
+            "C5071613",
+            [
+              [
+                "N144159",
+                "1961-05-23",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N189652",
+                "1978-05-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N386198",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION OF CHAN MUN CHIU",
+                null
+              ],
+              [
+                "N431714",
+                "1998-11-18",
+                "STATUTORY DECLARATION OF CHAN TAK WAH",
+                null
+              ],
+              [
+                "N445884",
+                "1999-06-19",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "N492512",
+                "2000-09-06",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9928422275426243,
+        0.39289639136255045,
+        32.20000076293945
+      ],
+      "halfSize": [
+        7.321399999782443,
+        3.1455399999395013,
+        3.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1197473798,
+        1107636118,
+        null,
+        "95 SAN UK TSAI",
+        [
+          [
+            "DD76 150 S.E",
+            "Old Schedule Lot",
+            "C3371095",
+            [
+              [
+                "N410961",
+                "1998-01-13",
+                "ASSIGNMENT",
+                "544500.0"
+              ],
+              [
+                "N421351",
+                "1998-06-09",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "N544110",
+                "2003-02-26",
+                "BUILDING LICENCE NO.165/2002 WITH PLAN",
+                null
+              ],
+              [
+                "08073000260036",
+                "2006-12-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "08081100690115",
+                "2008-07-11",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "08081100520261",
+                "2008-07-22",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLANS",
+                "1200000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9928394069124784,
+        0.3928725042929483,
+        39.650001525878906
+      ],
+      "halfSize": [
+        3.7850000001490116,
+        5.705000000074506,
+        3.8500003814697266
+      ]
+    }
+  ]
+}

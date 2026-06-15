@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        983564288,
+        1,
+        [
+          [
+            2995800551,
+            4,
+            "Misha's Bungalow",
+            "MINOR PORTION OF G/F MISHA'S BUNGALOW, KADOORIE FARM & BOTANIC GARDEN, LAM KAM ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          983564305
+        ]
+      ],
+      "coordinate": [
+        1.991786177118923,
+        0.39152309022481185,
+        309.5
+      ],
+      "halfSize": [
+        4.510309999808669,
+        3.5633199997246265,
+        1.5
+      ]
+    }
+  ]
+}

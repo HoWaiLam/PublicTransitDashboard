@@ -1,0 +1,872 @@
+{
+  "features": [
+    {
+      "attributes": [
+        884998144,
+        1,
+        [
+          [
+            3117000338,
+            1,
+            "Ora Lamma Island",
+            "79 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998336
+        ]
+      ],
+      "coordinate": [
+        1.991618087256071,
+        0.3878979066149766,
+        7.099999904632568
+      ],
+      "halfSize": [
+        9.788670000154525,
+        4.82204999960959,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        884998145,
+        1,
+        [
+          [
+            3117801625,
+            1,
+            "SPICY ISLAND KEBAB HOUSE",
+            "G/F., 25 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998342
+        ]
+      ],
+      "coordinate": [
+        1.991626365591027,
+        0.38792364840125615,
+        8.199999809265137
+      ],
+      "halfSize": [
+        6.5436149998568,
+        2.6385000003501773,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        884998146,
+        1,
+        [
+          [
+            2217001670,
+            0,
+            "BOMBAY BAR & RESTAURANT",
+            "G/F., 6 YUNG SHUE WAN BACK STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998356
+        ]
+      ],
+      "coordinate": [
+        1.9916306271873307,
+        0.3879046399774282,
+        9.100000381469727
+      ],
+      "halfSize": [
+        3.9076200001873076,
+        6.4763799998909235,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        884998147,
+        1,
+        [
+          [
+            2217000905,
+            0,
+            "LAMMA GRILL",
+            "G/F., 36 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998365
+        ]
+      ],
+      "coordinate": [
+        1.9916231739752381,
+        0.38791737762518735,
+        8.600000381469727
+      ],
+      "halfSize": [
+        7.655904999934137,
+        2.2609999999403954,
+        4.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        884998148,
+        1,
+        [
+          [
+            2217000552,
+            0,
+            "\u58fd\u8a18\u6d77\u9bae\u9152\u5bb6",
+            "43 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998387
+        ]
+      ],
+      "coordinate": [
+        1.9916230912190571,
+        0.3879125743815267,
+        8.299999237060547
+      ],
+      "halfSize": [
+        8.104740000329912,
+        4.494520000182092,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        884998149,
+        1,
+        [
+          [
+            2217000969,
+            0,
+            "TERRACOTTA",
+            "G/F & C/L, 47 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998599
+        ]
+      ],
+      "coordinate": [
+        1.9916227001165339,
+        0.38791169355512106,
+        8.399999618530273
+      ],
+      "halfSize": [
+        8.6144999996759,
+        5.229499999433756,
+        4.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        884998150,
+        1,
+        [
+          [
+            2217803535,
+            0,
+            "HOME FOOD AND DRINK COMPANY LIMITED",
+            "G/F., NO. 5 YUNG SHUE WAN BACK STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998625
+        ]
+      ],
+      "coordinate": [
+        1.9916313684693898,
+        0.3879044371524136,
+        9.100000381469727
+      ],
+      "halfSize": [
+        3.908280000090599,
+        6.478629999794066,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        884998151,
+        1,
+        [
+          [
+            2217803395,
+            0,
+            "Nullah's Edge",
+            "G/F., 8 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998627
+        ]
+      ],
+      "coordinate": [
+        1.9916187214581726,
+        0.38793565974098876,
+        8.0
+      ],
+      "halfSize": [
+        5.222450000233948,
+        4.8835300002247095,
+        4.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        884998152,
+        1,
+        [
+          [
+            3117801184,
+            1,
+            "KURI KURI",
+            "G/F., 83 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2027-01-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998653
+        ]
+      ],
+      "coordinate": [
+        1.9916224597347802,
+        0.38789999954454907,
+        8.300000190734863
+      ],
+      "halfSize": [
+        6.441804999951273,
+        3.2295399997383356,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        884998153,
+        1,
+        [
+          [
+            2217001795,
+            0,
+            "B & B",
+            "G/F., 22 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998667
+        ]
+      ],
+      "coordinate": [
+        1.9916231323009401,
+        0.3879241278211055,
+        8.0
+      ],
+      "halfSize": [
+        6.507999999914318,
+        2.6395049998536706,
+        3.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        884998154,
+        1,
+        [
+          [
+            3117800765,
+            1,
+            "No Record",
+            "G/F., 45 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998684
+        ]
+      ],
+      "coordinate": [
+        1.9916268843493172,
+        0.3879121616773517,
+        9.5
+      ],
+      "halfSize": [
+        2.266520000062883,
+        4.962904999963939,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        884998155,
+        1,
+        [
+          [
+            2217001458,
+            0,
+            "\u8222\u8228\u6d77\u9bae\u9152\u5bb6",
+            "G/F & 1/F., 16 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998688
+        ]
+      ],
+      "coordinate": [
+        1.9916218912425205,
+        0.3879300395047812,
+        8.300000190734863
+      ],
+      "halfSize": [
+        7.199169999919832,
+        6.407189999707043,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        884998156,
+        1,
+        [
+          [
+            2217000686,
+            0,
+            "\u9f8d\u83ef",
+            "G/F. TO 2/F., 20 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998754
+        ]
+      ],
+      "coordinate": [
+        1.991624787864377,
+        0.3879267514933062,
+        8.5
+      ],
+      "halfSize": [
+        5.489915000274777,
+        5.467579999938607,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        884998157,
+        1,
+        [
+          [
+            2217001661,
+            0,
+            "Blue Bird",
+            "G/F., 24 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998802
+        ]
+      ],
+      "coordinate": [
+        1.9916231554870478,
+        0.38792337871150695,
+        8.149999618530273
+      ],
+      "halfSize": [
+        6.487135000061244,
+        2.5779999997466803,
+        3.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        884998158,
+        1,
+        [
+          [
+            3117801634,
+            1,
+            "Bubble Up",
+            "FLAT A, G/F., 22 YUNG SHUE WAN BACK STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998835
+        ]
+      ],
+      "coordinate": [
+        1.9916291443671308,
+        0.38790190844422157,
+        8.949999809265137
+      ],
+      "halfSize": [
+        6.944999999832362,
+        3.6349999997764826,
+        3.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        884998159,
+        1,
+        [
+          [
+            3117801281,
+            1,
+            "THE BEER SHACK",
+            "G/F., D.D.3, LOT 1904, NO. 10 SHA PO NEW VILLAGE, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-06-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998897
+        ]
+      ],
+      "coordinate": [
+        1.991644547490631,
+        0.3878995056747457,
+        9.850000381469727
+      ],
+      "halfSize": [
+        6.388615000061691,
+        5.427219999954104,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        884998160,
+        1,
+        [
+          [
+            2217000640,
+            0,
+            "Lamma Seaview Man Fung Seafood Restaurant",
+            "G/F., 5 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884998941
+        ]
+      ],
+      "coordinate": [
+        1.9916126650551678,
+        0.3879340723238663,
+        10.450000762939453
+      ],
+      "halfSize": [
+        4.948789999820292,
+        4.567505000159144,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        884998161,
+        1,
+        [
+          [
+            2217000826,
+            0,
+            "\u6587\u8a18",
+            "G/F & 1/F (REAR PORTION), 30 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999021
+        ]
+      ],
+      "coordinate": [
+        1.9916231275272316,
+        0.387920043590701,
+        8.149999618530273
+      ],
+      "halfSize": [
+        7.563690000213683,
+        2.344500000588596,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        884998162,
+        1,
+        [
+          [
+            2217001421,
+            0,
+            "\u725b\u8a18",
+            "G/F., 39 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999103
+        ]
+      ],
+      "coordinate": [
+        1.991630192660005,
+        0.3879143993949764,
+        9.800000190734863
+      ],
+      "halfSize": [
+        5.659500000067055,
+        5.804500000551343,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        884998163,
+        1,
+        [
+          [
+            3117801449,
+            1,
+            "Gangstas",
+            "G/F, 91 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-03-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999145
+        ]
+      ],
+      "coordinate": [
+        1.9916210881185628,
+        0.3878964545342876,
+        7.25
+      ],
+      "halfSize": [
+        6.017999999690801,
+        3.4294999996200204,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        884998164,
+        1,
+        [
+          [
+            3117000143,
+            1,
+            "Fountain Head",
+            "G/F, 18 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999181
+        ]
+      ],
+      "coordinate": [
+        1.9916228716569246,
+        0.38792836807955067,
+        8.699999809265137
+      ],
+      "halfSize": [
+        5.796200000215322,
+        5.719380000606179,
+        4.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        884998165,
+        1,
+        [
+          [
+            2217800776,
+            0,
+            "BEER GARDEN",
+            "FLAT B, G/F., 23B YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, HONG KONG",
+            null,
+            "2027-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999214
+        ]
+      ],
+      "coordinate": [
+        1.991632863191145,
+        0.3879266104055948,
+        8.149999618530273
+      ],
+      "halfSize": [
+        5.36360999988392,
+        5.0940000005066395,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        884998166,
+        1,
+        [
+          [
+            2217803960,
+            0,
+            "Cafe 28",
+            "MAJOR PORTION OF G/F., 28 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999267
+        ]
+      ],
+      "coordinate": [
+        1.9916230323543767,
+        0.3879214345494404,
+        8.299999237060547
+      ],
+      "halfSize": [
+        7.505485000088811,
+        2.370999999344349,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        884998167,
+        1,
+        [
+          [
+            3117801412,
+            1,
+            "JAYBIRD",
+            "G/F., 15A YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-10-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999276
+        ]
+      ],
+      "coordinate": [
+        1.991621234597495,
+        0.38793146334199136,
+        8.199999809265137
+      ],
+      "halfSize": [
+        6.096055000089109,
+        4.789545000530779,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        884998168,
+        1,
+        [
+          [
+            2217000464,
+            0,
+            "Tai Hing Restaurant",
+            "G/F., 53 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999373
+        ]
+      ],
+      "coordinate": [
+        1.99162191708402,
+        0.3879098623799927,
+        8.100000381469727
+      ],
+      "halfSize": [
+        8.824729999992996,
+        4.734400000423193,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        884998169,
+        1,
+        [
+          [
+            2217001917,
+            0,
+            "Waterfront Restaurant & Bar",
+            "G/F., AND THE OUTSIDE SEATING ACCOMMODATION ON PLATFORM AT SIDE, 58 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999378
+        ]
+      ],
+      "coordinate": [
+        1.991619403608932,
+        0.3879069730901056,
+        7.900000095367432
+      ],
+      "halfSize": [
+        4.742750000208616,
+        3.6197499996051192,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        884998170,
+        1,
+        [
+          [
+            3117800525,
+            1,
+            "JING JING",
+            "G/F., 54 YUNG SHUE WAN MAIN STREET, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999379
+        ]
+      ],
+      "coordinate": [
+        1.9916218132766255,
+        0.38790917497257194,
+        8.300000190734863
+      ],
+      "halfSize": [
+        7.904999999795109,
+        4.457109999842942,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        884998171,
+        1,
+        [
+          [
+            2217802082,
+            0,
+            "DALE CANDELA TAPAS",
+            "G/F., 23 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          884999423
+        ]
+      ],
+      "coordinate": [
+        1.9916263439352677,
+        0.38792440031292735,
+        8.199999809265137
+      ],
+      "halfSize": [
+        6.6987499999813735,
+        2.673130000010133,
+        4.0
+      ]
+    }
+  ]
+}

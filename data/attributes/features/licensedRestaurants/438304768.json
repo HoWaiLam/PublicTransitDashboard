@@ -1,0 +1,628 @@
+{
+  "features": [
+    {
+      "attributes": [
+        438304768,
+        1,
+        [
+          [
+            3193802828,
+            1,
+            "i-Can Caf\u00e9",
+            "UNIT NOS. 113B-114B, G/F, TIP YEE HOUSE, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304801
+        ]
+      ],
+      "coordinate": [
+        1.989044606652729,
+        0.39053053211962124,
+        31.0
+      ],
+      "halfSize": [
+        46.99692999990657,
+        42.080999999307096,
+        24.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        438304769,
+        18,
+        [
+          [
+            2293001074,
+            0,
+            "McDonald's",
+            "SHOP NOS. R131-R136, GROUND FLOOR, TIP SUM HOUSE, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293801252,
+            0,
+            "Star Seafood and Roasted Goose Restaurant",
+            "SHOP NO. R301, LEVEL 3, COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2293803726,
+            0,
+            "\u96f2\u8cb4\u8ed2\u9b5a\u5320\u5c4b SAKANAYA",
+            "SHOP NOS. R242-R245, LEVEL 2, TIP LING HOUSE, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2293803823,
+            0,
+            "Tai Hing",
+            "SHOP NOS. R124-R126+R128, LEVEL 1, BUTTERFLY PLAZA, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2293803902,
+            0,
+            "Sushi Express",
+            "SHOP NO. R208, LEVEL 2, BUTTERFLY PLAZA, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2293804224,
+            0,
+            "\u65b0\u8f1d\u6f6e\u5dde\u7c89\u9eb5",
+            "COOKED FOOD STALL NO. C3, COMMERCIAL AREA NEAR BLOCK 6, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2293804701,
+            0,
+            "\u725b\u7687\u83ab\u706b\u934b\u9910\u5ef3",
+            "COOKED FOOD STALL NO. C2, COMMERCIAL AREA NEAR BLOCK 6, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2293804808,
+            0,
+            "KFC",
+            "SHOP NOS. R234 & R235, LEVEL 2, BUTTERFLY PLAZA, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2293805403,
+            0,
+            "Saizeriya ltalian Restaurant",
+            "SEATING AREA NO. 9 & SHOP NOS. R263-R266, LEVEL 2, BUTTERFLY PLAZA, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2293807445,
+            0,
+            "WING FUNG CAFE",
+            "SHOP NOS. R137 TO R139, G/F, BLOCK 4, TIP SUM HOUSE, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2293807870,
+            0,
+            "\u8336\u58f9",
+            "STALL NO. M406, G/F , MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-02-25"
+          ],
+          [
+            2293808165,
+            0,
+            "SICHUN CANTONESE RESTAURANT",
+            "SHOP R307 & R310, LEVEL 3, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ],
+          [
+            3193801436,
+            1,
+            "\u5fa9\u8208\u9999\u6e2f\u4ed4\u9b5a\u86cb\u738b",
+            "STALL NO. M425, G/F, MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            3193801904,
+            1,
+            "Yee Tak Loong Vegetarian",
+            "STALL NO. M420, G/F, MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            3193802527,
+            1,
+            "\u4e00\u5c6f",
+            "STALL NO. M423, G/F., MARKET, BUTTERFLY PLAZA, BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            3193802651,
+            1,
+            "CHITCHAT NOODLE SHOP",
+            "STALL NO. M401 IN THE MARKET PLACE, G/F, COMMERCIAL COMPLEX, BUTTERFLY ESTATE, NO. 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3193802679,
+            1,
+            "\u8774\u8776\u7f8e\u98df",
+            "STALL NO. M403 IN THE MARKET PLACE, G/F(ALSO KNOWN AS LEVEL 1), COMMERCIAL COMPLEX (ALSO KNOWN AS BUTTERFLY PLAZA), BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            3193802785,
+            1,
+            "\u4ec1\u548c\u5802",
+            "SHOP R130, G/F, BLOCK 4, TIP SUM HOUSE, BUTTERFLY ESTATE, 1 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304828
+        ]
+      ],
+      "coordinate": [
+        1.9890134516153033,
+        0.39051380236942673,
+        18.25
+      ],
+      "halfSize": [
+        25.01150000002235,
+        26.228499999269843,
+        11.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        438304770,
+        2,
+        [
+          [
+            2293805500,
+            0,
+            "\u91d1\u591a\u5ba2",
+            "SHOP NO. 50, G/F, MELODY GARDEN, 2 WU TSUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ],
+          [
+            3193800150,
+            1,
+            "funny food studio \u5ddd\u81a0\u7dda",
+            "SHOP NO. 64, G/F, MELODY GARDEN, WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304848
+        ]
+      ],
+      "coordinate": [
+        1.9889947548030489,
+        0.3905025820455346,
+        11.300000190734863
+      ],
+      "halfSize": [
+        32.24545000027865,
+        32.44230499956757,
+        5.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        438304771,
+        1,
+        [
+          [
+            2293805555,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NO. G04, G/F, SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304858
+        ]
+      ],
+      "coordinate": [
+        1.9890823794796755,
+        0.3904957027249196,
+        9.949999809265137
+      ],
+      "halfSize": [
+        27.064499999862164,
+        49.948499999940395,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        438304772,
+        11,
+        [
+          [
+            2293001658,
+            0,
+            "\u91d1\u6c34\u7a3b",
+            "SHOP NO. 67, G/F, MELODY GARDEN, NO.2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2293002101,
+            0,
+            "\u8336\u8a18",
+            "SHOP NOS. 74 & 83, G/F, SHOPPING CENTRE, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-11"
+          ],
+          [
+            2293800736,
+            0,
+            "\u5c07\u592a\u65e5\u672c\u6599\u7406",
+            "SHOP NO. 79, G/F, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2293802033,
+            0,
+            "\u99ac\u54e5\u5947\u51b0",
+            "SHOP NO. 86, G/F, COMMERCIAL COMPLEX, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-29"
+          ],
+          [
+            2293803203,
+            0,
+            "\u7f8e\u6a02\u9910\u5ef3",
+            "SHOP 78 (MAJOR PORTION) & 88, G/F, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2293803610,
+            0,
+            "LOU CYU FONG",
+            "SHOP 77, G/F, MELODY GARDEN COMMERCIAL COMPLEX, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ],
+          [
+            2293803762,
+            0,
+            "\u624b\u5f97\u4f4f",
+            "SHOP 68, G/F, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2293805032,
+            0,
+            "\u6f6e\u6210\u5712\u6b63\u5b97\u624b\u6253\u725b\u4e38\u5927\u738b",
+            "SHOP 54, 55, 69 & 70, G/F, MELODY GARDEN, NO. 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2293805810,
+            0,
+            "Wan Chuen",
+            "SHOP NOS. 46 & 61, G/F, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ],
+          [
+            3193802402,
+            1,
+            "BAR PACIFIC",
+            "SHOP 42 & 56, G/F, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ],
+          [
+            3193802846,
+            1,
+            "\u98df\u5de6\u5473",
+            "SHOP NO. 84, G/F, MELODY GARDEN, NO. 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304861
+        ]
+      ],
+      "coordinate": [
+        1.988989673045958,
+        0.39050127930463774,
+        8.149999618530273
+      ],
+      "halfSize": [
+        10.305499999783933,
+        10.618365000002086,
+        2.049999952316284
+      ]
+    },
+    {
+      "attributes": [
+        438304773,
+        1,
+        [
+          [
+            3193801922,
+            1,
+            "\u91d1\u9298\u6f6e\u5dde\u7c89\u9eb5",
+            "STALL NO. 10, GROUND FLOOR, IN THE MARKET PLACE OF SIU HEI SHOPPING CENTRE, SIU HEI COURT, 201 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304876
+        ]
+      ],
+      "coordinate": [
+        1.9890923748266125,
+        0.3904902101127596,
+        11.449999809265137
+      ],
+      "halfSize": [
+        38.125500000081956,
+        36.321000000461936,
+        6.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        438304774,
+        2,
+        [
+          [
+            2293801030,
+            0,
+            "CAFE' DE CORAL",
+            "SHOP NO. R228B, LEVEL 2, BUTTERFLY PLAZA, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2293803717,
+            0,
+            "Pizza Hut",
+            "SHOP NOS. R256, R257 AND R258, LEVEL 2, BUTTERFLY PLAZA, BUTTERFLY ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304938
+        ]
+      ],
+      "coordinate": [
+        1.989036745584034,
+        0.39051385983742587,
+        11.75
+      ],
+      "halfSize": [
+        49.75249999994412,
+        80.87849999964237,
+        5.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        438304775,
+        19,
+        [
+          [
+            2293001162,
+            0,
+            "JASMINE HARBOUR",
+            "SHOP NO. 87, 1/F, RICHLAND GARDEN SHOPPING ARCADE, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293001700,
+            0,
+            "\u6e58\u559c",
+            "SHOP 1C8, G/F, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ],
+          [
+            2293002068,
+            0,
+            "\u9999\u6e2f\u51b0\u5ba4",
+            "SHOP 56B-E, G/F, OSA AT SHOP FRONT AND SHOP SIDE, RICHLAND GARDEN SHOPPING ARCADE, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2293805883,
+            0,
+            "FANTASY COFFEE",
+            "SHOP 1A7 & 1A9, G/F, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            3193000671,
+            1,
+            "\u7f8e\u5473\u5c4b",
+            "SHOP NO. 9, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, GROUND FLOOR, SHOPPING ARCADE, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            3193000705,
+            1,
+            "\u5bf6\u5cf6",
+            "SHOP NO. SA/G/25 AND THE OUTSIDE SEATINGACCOMODATION AT REAR, GROUND FLOOR, TMTL NO. 333, RICHLAND GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ],
+          [
+            3193000769,
+            1,
+            "HOKKAIDO KITCHEN",
+            "SHOP 1B6-1B7, G/F, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            3193000981,
+            1,
+            "\u4e00\u8d8a\u8d8a\u5357\u9910\u5ef3",
+            "SHOP NOS. 27-28, G/F, THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3193001018,
+            1,
+            "\u5679\u5679\u51b0\u5ba4",
+            "SHOP NOS. 3-4, G/F, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3193001036,
+            1,
+            "\u69ae\u8a18\u5976\u8336",
+            "SHOP 1A5, G/F, RICHLAND GARDEN SHOPPING CENTRE, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            3193001197,
+            1,
+            "\u98ef\u4eba\u98df\u5802",
+            "SHOP 26, G/F, AND OUTSIDE SEATING ACCOMMODATION AT REAR, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            3193001221,
+            1,
+            "\u5c0f\u6843\u5712",
+            "SHOP NO. 43, G/F, OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, SHOPPING ARCADE, RICHLAND GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-23"
+          ],
+          [
+            3193800026,
+            1,
+            "SAWASDEE THAI",
+            "SHOP NO. 70, 1/F., RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            3193800275,
+            1,
+            "Chuan Wei Ge",
+            "SHOP NO. 6 AND THE OUTSIDE SEATING ACCOMMODATION AT REAR, G/F, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-10"
+          ],
+          [
+            3193800521,
+            1,
+            "\u98df\u5497\u5148\u8b1b",
+            "SHOP NO. 8, G/F, SHOPPING ARCADE, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3193800673,
+            1,
+            "\u8d8a\u5f0f\u7f8e\u98df",
+            "SHOP NO. 7, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT,G/F, SHOPPING ARCADE, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            3193800992,
+            1,
+            "Jason Pastries",
+            "SHOP NO. 24, GROUND FLOOR AND THE OUTSIDE SEATING AREA AT SHOP FRONT, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            3193802794,
+            1,
+            "Sweet House",
+            "SHOP 1A4, G/F, RICHLAND GARDEN, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3993802862,
+            1,
+            "No Record",
+            "SHOP NO. 23, G/F, RICHLAND GARDEN SHOPPING ARCADE, 138 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          438304939
+        ]
+      ],
+      "coordinate": [
+        1.989053534931881,
+        0.39048269993698476,
+        10.25
+      ],
+      "halfSize": [
+        82.52000000001863,
+        34.37100000027567,
+        6.549999713897705
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "features": [
+    {
+      "attributes": [
+        580911104,
+        1,
+        [
+          [
+            2994001838,
+            4,
+            "\u51a0\u83ef\u5712",
+            "DD 124, LOT 2109, TIN SUM SUN CHUEN, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911123
+        ]
+      ],
+      "coordinate": [
+        1.9895223953068397,
+        0.39153487908882934,
+        12.399999618530273
+      ],
+      "halfSize": [
+        6.146499999798834,
+        4.856000000610948,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        580911105,
+        1,
+        [
+          [
+            2993811773,
+            4,
+            "KEBAB TOWN",
+            "SHOP 30, G/F, HANG FUK BUILDING, 45-47, 51-55, 59-63 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911191
+        ]
+      ],
+      "coordinate": [
+        1.9896338808312188,
+        0.39152544309882836,
+        22.799999237060547
+      ],
+      "halfSize": [
+        9.117899999953806,
+        8.4698949996382,
+        11.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        580911106,
+        1,
+        [
+          [
+            2994805063,
+            4,
+            "\u54c1\u73cd\u91ac\u5712",
+            "DD 124, LOT 3927A, 362 TAN KWAI TSUEN, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911505
+        ]
+      ],
+      "coordinate": [
+        1.9896728792621858,
+        0.39147729894969496,
+        27.599998474121094
+      ],
+      "halfSize": [
+        26.306405000388622,
+        36.49745000060648,
+        3.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        580911107,
+        2,
+        [
+          [
+            2994803979,
+            4,
+            "\u76c8\u798f\u7f8e\u98df",
+            "PORTION C OF SHOP 8, G/F, BLOCK 1-9, TREASURE COURT, 8 YING FUK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            3694001320,
+            5,
+            "Wellcome Supermarket",
+            "SHOP B (PORTION), G/F, TREASURE COURT, DD 124, LOT 4212 & 4213, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911900
+        ]
+      ],
+      "coordinate": [
+        1.989637852914327,
+        0.391532503405565,
+        13.399999618530273
+      ],
+      "halfSize": [
+        29.352995000313967,
+        27.925499999895692,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        580911108,
+        1,
+        [
+          [
+            2994809667,
+            4,
+            "Light Rail Pizza",
+            "SHOP 10, G/F, TAK CHEUNG BUILDING, NO. 1 HUNG SHUI KIU MAIN STREET, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911902
+        ]
+      ],
+      "coordinate": [
+        1.989602028179412,
+        0.39152485331818093,
+        13.149999618530273
+      ],
+      "halfSize": [
+        29.655999999959022,
+        25.480999999679625,
+        2.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        580911109,
+        1,
+        [
+          [
+            2993810406,
+            4,
+            "TAK TUCK SHOP",
+            "G/F, 16 CHUNG UK TSUEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580913105
+        ]
+      ],
+      "coordinate": [
+        1.9895378818958547,
+        0.39145722927618,
+        16.349998474121094
+      ],
+      "halfSize": [
+        3.204385000281036,
+        4.532765000127256,
+        3.9499998092651367
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        725614592,
+        1,
+        [
+          [
+            2294811649,
+            0,
+            "Kingfisher Cafe",
+            "G/F (PORTION A), JOCKEY CLUB WWF PETER SCOTT VISITOR CENTRE, 51 TAM KON CHAU ROAD, MAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          725614818
+        ]
+      ],
+      "coordinate": [
+        1.9905326030332213,
+        0.3926170749643157,
+        12.5
+      ],
+      "halfSize": [
+        21.565632078738417,
+        15.160655000247061,
+        7.0
+      ]
+    }
+  ]
+}

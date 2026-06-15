@@ -1,0 +1,2253 @@
+{
+  "name": "statutoryPlan",
+  "label": "Statutory Plans",
+  "attributes": [
+    {
+      "name": "statutoryPlanIID",
+      "label": "Plan Number",
+      "type": "ENUM",
+      "enumType": "statutoryPlanIIDEnumTypes",
+      "noData": 4294967295,
+      "show": 0,
+      "representations": [
+        {
+          "label": "Statutory Plans",
+          "type": "discrete",
+          "legend": 0,
+          "classes": [
+            {
+              "value": 108,
+              "label": "S/FLN/4",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 121,
+              "label": "S/FSS/28",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 117,
+              "label": "S/FSSE/2",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 111,
+              "label": "S/H1/24",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 139,
+              "label": "S/H10/23",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 29,
+              "label": "S/H11/15",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 132,
+              "label": "S/H12/14",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 40,
+              "label": "S/H13/12",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 30,
+              "label": "S/H14/13",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 31,
+              "label": "S/H15/33",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 32,
+              "label": "S/H17/13",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 33,
+              "label": "S/H18/10",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 96,
+              "label": "S/H19/16",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 122,
+              "label": "S/H20/27",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 41,
+              "label": "S/H21/28",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 42,
+              "label": "S/H24/9",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 113,
+              "label": "S/H25/6",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 81,
+              "label": "S/H3/34",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 34,
+              "label": "S/H3/LDC4/2",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 35,
+              "label": "S/H3/URA2/2",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 38,
+              "label": "S/H3/URA3/2",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 119,
+              "label": "S/H4/17",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 142,
+              "label": "S/H5/32",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 39,
+              "label": "S/H6/17",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 82,
+              "label": "S/H7/21",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 123,
+              "label": "S/H8/28",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 162,
+              "label": "S/H9/22",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 14,
+              "label": "S/HSK/2",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 159,
+              "label": "S/I-CC/11",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 101,
+              "label": "S/I-CLK/16",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 135,
+              "label": "S/I-DB/6",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 65,
+              "label": "S/I-LI/11",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 5,
+              "label": "S/I-LWKS/2",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 66,
+              "label": "S/I-MWF/10",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 45,
+              "label": "S/I-MWI/14",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 92,
+              "label": "S/I-MWN/2",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 67,
+              "label": "S/I-NEL/12",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 68,
+              "label": "S/I-NP/6",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 143,
+              "label": "S/I-PC/13",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 93,
+              "label": "S/I-POA/2",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 8,
+              "label": "S/I-PTI/2",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 17,
+              "label": "S/I-SHW/2",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 6,
+              "label": "S/I-SKC/2",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 98,
+              "label": "S/I-SLW/2",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 97,
+              "label": "S/I-SW/2",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 69,
+              "label": "S/I-TCE/2",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 85,
+              "label": "S/I-TCTC/24",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 157,
+              "label": "S/I-TCV/3",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 11,
+              "label": "S/I-TH/1",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 2,
+              "label": "S/I-TOF/2",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 70,
+              "label": "S/I-TOTC/2",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 10,
+              "label": "S/I-YO/2",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 154,
+              "label": "S/K1/30",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 163,
+              "label": "S/K10/31",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 80,
+              "label": "S/K10/URA1/2",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 118,
+              "label": "S/K10/URA2/2",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 107,
+              "label": "S/K10/URA3/2",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 104,
+              "label": "S/K11/31",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 105,
+              "label": "S/K12/18",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 158,
+              "label": "S/K13/34",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 145,
+              "label": "S/K14N/16",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 146,
+              "label": "S/K14S/27",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 131,
+              "label": "S/K14S/URA1/4",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 156,
+              "label": "S/K15/28",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 43,
+              "label": "S/K16/16",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 58,
+              "label": "S/K18/21",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 128,
+              "label": "S/K2/26",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 71,
+              "label": "S/K20/30",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 72,
+              "label": "S/K20/WKCD/2",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 95,
+              "label": "S/K22/8",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 126,
+              "label": "S/K22/URA1/2",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 127,
+              "label": "S/K22/URA2/2",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 133,
+              "label": "S/K3/38",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 88,
+              "label": "S/K3/URA4/2",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 137,
+              "label": "S/K3/URA5/2",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 91,
+              "label": "S/K4/31",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 138,
+              "label": "S/K5/40",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 102,
+              "label": "S/K5/URA3/2",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 161,
+              "label": "S/K7/25",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 106,
+              "label": "S/K8/25",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 147,
+              "label": "S/K9/29",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 36,
+              "label": "S/K9/URA1/2",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 37,
+              "label": "S/K9/URA2/2",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 90,
+              "label": "S/K9/URA3/2",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 112,
+              "label": "S/KC/32",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 109,
+              "label": "S/KTN/4",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 21,
+              "label": "S/LMCL/2",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 125,
+              "label": "S/MOS/28",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 47,
+              "label": "S/NE-CK/2",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 12,
+              "label": "S/NE-CS/2",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 120,
+              "label": "S/NE-FTA/18",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 83,
+              "label": "S/NE-HH/4",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 18,
+              "label": "S/NE-HLH/11",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 99,
+              "label": "S/NE-HT/7",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 55,
+              "label": "S/NE-KLH/11",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 48,
+              "label": "S/NE-KLW/2",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 9,
+              "label": "S/NE-KP/2",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 136,
+              "label": "S/NE-KTS/22",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 49,
+              "label": "S/NE-LCW/2",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 24,
+              "label": "S/NE-LK/11",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 25,
+              "label": "S/NE-LMH/2",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 56,
+              "label": "S/NE-LT/11",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 100,
+              "label": "S/NE-LYT/19",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 160,
+              "label": "S/NE-MKT/7",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 27,
+              "label": "S/NE-MTL/3",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 74,
+              "label": "S/NE-MUP/11",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 50,
+              "label": "S/NE-PC/1",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 1,
+              "label": "S/NE-PK/11",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 51,
+              "label": "S/NE-PSO/2",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 78,
+              "label": "S/NE-SC/3",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 84,
+              "label": "S/NE-SLP/4",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 19,
+              "label": "S/NE-SLT/4",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 73,
+              "label": "S/NE-SSH/11",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 53,
+              "label": "S/NE-STK/2",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 79,
+              "label": "S/NE-TK/19",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 23,
+              "label": "S/NE-TKL/14",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 54,
+              "label": "S/NE-TKLN/2",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 4,
+              "label": "S/NE-TKP/2",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 13,
+              "label": "S/NE-TPK/2",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 26,
+              "label": "S/NE-TT/2",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 59,
+              "label": "S/NE-WKS/10",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 75,
+              "label": "S/NE-WKT/6",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 7,
+              "label": "S/NE-YSO/2",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 57,
+              "label": "S/NE-YTT/2",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 20,
+              "label": "S/PSK/13",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 44,
+              "label": "S/SC/10",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 150,
+              "label": "S/SK-CWBN/7",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 62,
+              "label": "S/SK-CWBS/2",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 149,
+              "label": "S/SK-HC/13",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 77,
+              "label": "S/SK-HH/8",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 60,
+              "label": "S/SK-PK/11",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 87,
+              "label": "S/SK-PL/4",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 63,
+              "label": "S/SK-SKT/6",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 61,
+              "label": "S/SK-TA/2",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 103,
+              "label": "S/SK-TLS/10",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 0,
+              "label": "S/SK-TLW/5",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 64,
+              "label": "S/SK-TMT/4",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 124,
+              "label": "S/SLC/23",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 22,
+              "label": "S/ST-KYS/11",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 52,
+              "label": "S/ST-MP/2",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 164,
+              "label": "S/ST/39",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 129,
+              "label": "S/STT/2",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 152,
+              "label": "S/TKO/32",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 140,
+              "label": "S/TM-LTYY/13",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 110,
+              "label": "S/TM-SKW/15",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 3,
+              "label": "S/TM-TFT/2",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 141,
+              "label": "S/TM/41",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 165,
+              "label": "S/TP/32",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 134,
+              "label": "S/TSW/18",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 46,
+              "label": "S/TW-CLHFS/1",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 166,
+              "label": "S/TW/40",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 114,
+              "label": "S/TWW/21",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 94,
+              "label": "S/TY/32",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 15,
+              "label": "S/YL-HTF/12",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 116,
+              "label": "S/YL-KTN/11",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 16,
+              "label": "S/YL-KTS/15",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 89,
+              "label": "S/YL-LFS/11",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            },
+            {
+              "value": 130,
+              "label": "S/YL-MP/8",
+              "color": [
+                182,
+                198,
+                219
+              ]
+            },
+            {
+              "value": 148,
+              "label": "S/YL-NSW/11",
+              "color": [
+                130,
+                70,
+                92
+              ]
+            },
+            {
+              "value": 155,
+              "label": "S/YL-NTM/15",
+              "color": [
+                197,
+                100,
+                119
+              ]
+            },
+            {
+              "value": 28,
+              "label": "S/YL-PH/11",
+              "color": [
+                104,
+                134,
+                175
+              ]
+            },
+            {
+              "value": 76,
+              "label": "S/YL-PN/9",
+              "color": [
+                215,
+                173,
+                190
+              ]
+            },
+            {
+              "value": 151,
+              "label": "S/YL-PS/21",
+              "color": [
+                171,
+                148,
+                176
+              ]
+            },
+            {
+              "value": 153,
+              "label": "S/YL-SK/10",
+              "color": [
+                17,
+                101,
+                148
+              ]
+            },
+            {
+              "value": 115,
+              "label": "S/YL-TT/20",
+              "color": [
+                36,
+                45,
+                98
+              ]
+            },
+            {
+              "value": 86,
+              "label": "S/YL-TYST/14",
+              "color": [
+                88,
+                83,
+                135
+              ]
+            },
+            {
+              "value": 144,
+              "label": "S/YL/28",
+              "color": [
+                173,
+                183,
+                220
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "planNo",
+      "label": "Plan Number",
+      "type": "STRING",
+      "addToLabel": 1
+    },
+    {
+      "name": "nameEn",
+      "label": "Name",
+      "type": "STRING",
+      "show": 3,
+      "addToLabel": 1
+    },
+    {
+      "name": "sectionNo",
+      "label": "Section Number",
+      "type": "STRING",
+      "show": 1
+    },
+    {
+      "name": "approvedDate",
+      "label": "Approved Date",
+      "type": "STRING",
+      "show": 1
+    },
+    {
+      "name": "publishedDate",
+      "label": "Published Date",
+      "type": "STRING",
+      "show": 1
+    },
+    {
+      "name": "area",
+      "label": "Area",
+      "type": "SCALAR",
+      "componentType": "FLOAT32",
+      "unit": "m2",
+      "show": 1
+    }
+  ],
+  "enums": {
+    "statutoryPlanIIDEnumTypes": {
+      "valueType": "UINT32",
+      "values": [
+        {
+          "value": 0,
+          "name": "S/SK-TLW/5"
+        },
+        {
+          "value": 1,
+          "name": "S/NE-PK/11"
+        },
+        {
+          "value": 2,
+          "name": "S/I-TOF/2"
+        },
+        {
+          "value": 3,
+          "name": "S/TM-TFT/2"
+        },
+        {
+          "value": 4,
+          "name": "S/NE-TKP/2"
+        },
+        {
+          "value": 5,
+          "name": "S/I-LWKS/2"
+        },
+        {
+          "value": 6,
+          "name": "S/I-SKC/2"
+        },
+        {
+          "value": 7,
+          "name": "S/NE-YSO/2"
+        },
+        {
+          "value": 8,
+          "name": "S/I-PTI/2"
+        },
+        {
+          "value": 9,
+          "name": "S/NE-KP/2"
+        },
+        {
+          "value": 10,
+          "name": "S/I-YO/2"
+        },
+        {
+          "value": 11,
+          "name": "S/I-TH/1"
+        },
+        {
+          "value": 12,
+          "name": "S/NE-CS/2"
+        },
+        {
+          "value": 13,
+          "name": "S/NE-TPK/2"
+        },
+        {
+          "value": 14,
+          "name": "S/HSK/2"
+        },
+        {
+          "value": 15,
+          "name": "S/YL-HTF/12"
+        },
+        {
+          "value": 16,
+          "name": "S/YL-KTS/15"
+        },
+        {
+          "value": 17,
+          "name": "S/I-SHW/2"
+        },
+        {
+          "value": 18,
+          "name": "S/NE-HLH/11"
+        },
+        {
+          "value": 19,
+          "name": "S/NE-SLT/4"
+        },
+        {
+          "value": 20,
+          "name": "S/PSK/13"
+        },
+        {
+          "value": 21,
+          "name": "S/LMCL/2"
+        },
+        {
+          "value": 22,
+          "name": "S/ST-KYS/11"
+        },
+        {
+          "value": 23,
+          "name": "S/NE-TKL/14"
+        },
+        {
+          "value": 24,
+          "name": "S/NE-LK/11"
+        },
+        {
+          "value": 25,
+          "name": "S/NE-LMH/2"
+        },
+        {
+          "value": 26,
+          "name": "S/NE-TT/2"
+        },
+        {
+          "value": 27,
+          "name": "S/NE-MTL/3"
+        },
+        {
+          "value": 28,
+          "name": "S/YL-PH/11"
+        },
+        {
+          "value": 29,
+          "name": "S/H11/15"
+        },
+        {
+          "value": 30,
+          "name": "S/H14/13"
+        },
+        {
+          "value": 31,
+          "name": "S/H15/33"
+        },
+        {
+          "value": 32,
+          "name": "S/H17/13"
+        },
+        {
+          "value": 33,
+          "name": "S/H18/10"
+        },
+        {
+          "value": 34,
+          "name": "S/H3/LDC4/2"
+        },
+        {
+          "value": 35,
+          "name": "S/H3/URA2/2"
+        },
+        {
+          "value": 36,
+          "name": "S/K9/URA1/2"
+        },
+        {
+          "value": 37,
+          "name": "S/K9/URA2/2"
+        },
+        {
+          "value": 38,
+          "name": "S/H3/URA3/2"
+        },
+        {
+          "value": 39,
+          "name": "S/H6/17"
+        },
+        {
+          "value": 40,
+          "name": "S/H13/12"
+        },
+        {
+          "value": 41,
+          "name": "S/H21/28"
+        },
+        {
+          "value": 42,
+          "name": "S/H24/9"
+        },
+        {
+          "value": 43,
+          "name": "S/K16/16"
+        },
+        {
+          "value": 44,
+          "name": "S/SC/10"
+        },
+        {
+          "value": 45,
+          "name": "S/I-MWI/14"
+        },
+        {
+          "value": 46,
+          "name": "S/TW-CLHFS/1"
+        },
+        {
+          "value": 47,
+          "name": "S/NE-CK/2"
+        },
+        {
+          "value": 48,
+          "name": "S/NE-KLW/2"
+        },
+        {
+          "value": 49,
+          "name": "S/NE-LCW/2"
+        },
+        {
+          "value": 50,
+          "name": "S/NE-PC/1"
+        },
+        {
+          "value": 51,
+          "name": "S/NE-PSO/2"
+        },
+        {
+          "value": 52,
+          "name": "S/ST-MP/2"
+        },
+        {
+          "value": 53,
+          "name": "S/NE-STK/2"
+        },
+        {
+          "value": 54,
+          "name": "S/NE-TKLN/2"
+        },
+        {
+          "value": 55,
+          "name": "S/NE-KLH/11"
+        },
+        {
+          "value": 56,
+          "name": "S/NE-LT/11"
+        },
+        {
+          "value": 57,
+          "name": "S/NE-YTT/2"
+        },
+        {
+          "value": 58,
+          "name": "S/K18/21"
+        },
+        {
+          "value": 59,
+          "name": "S/NE-WKS/10"
+        },
+        {
+          "value": 60,
+          "name": "S/SK-PK/11"
+        },
+        {
+          "value": 61,
+          "name": "S/SK-TA/2"
+        },
+        {
+          "value": 62,
+          "name": "S/SK-CWBS/2"
+        },
+        {
+          "value": 63,
+          "name": "S/SK-SKT/6"
+        },
+        {
+          "value": 64,
+          "name": "S/SK-TMT/4"
+        },
+        {
+          "value": 65,
+          "name": "S/I-LI/11"
+        },
+        {
+          "value": 66,
+          "name": "S/I-MWF/10"
+        },
+        {
+          "value": 67,
+          "name": "S/I-NEL/12"
+        },
+        {
+          "value": 68,
+          "name": "S/I-NP/6"
+        },
+        {
+          "value": 69,
+          "name": "S/I-TCE/2"
+        },
+        {
+          "value": 70,
+          "name": "S/I-TOTC/2"
+        },
+        {
+          "value": 71,
+          "name": "S/K20/30"
+        },
+        {
+          "value": 72,
+          "name": "S/K20/WKCD/2"
+        },
+        {
+          "value": 73,
+          "name": "S/NE-SSH/11"
+        },
+        {
+          "value": 74,
+          "name": "S/NE-MUP/11"
+        },
+        {
+          "value": 75,
+          "name": "S/NE-WKT/6"
+        },
+        {
+          "value": 76,
+          "name": "S/YL-PN/9"
+        },
+        {
+          "value": 77,
+          "name": "S/SK-HH/8"
+        },
+        {
+          "value": 78,
+          "name": "S/NE-SC/3"
+        },
+        {
+          "value": 79,
+          "name": "S/NE-TK/19"
+        },
+        {
+          "value": 80,
+          "name": "S/K10/URA1/2"
+        },
+        {
+          "value": 81,
+          "name": "S/H3/34"
+        },
+        {
+          "value": 82,
+          "name": "S/H7/21"
+        },
+        {
+          "value": 83,
+          "name": "S/NE-HH/4"
+        },
+        {
+          "value": 84,
+          "name": "S/NE-SLP/4"
+        },
+        {
+          "value": 85,
+          "name": "S/I-TCTC/24"
+        },
+        {
+          "value": 86,
+          "name": "S/YL-TYST/14"
+        },
+        {
+          "value": 87,
+          "name": "S/SK-PL/4"
+        },
+        {
+          "value": 88,
+          "name": "S/K3/URA4/2"
+        },
+        {
+          "value": 89,
+          "name": "S/YL-LFS/11"
+        },
+        {
+          "value": 90,
+          "name": "S/K9/URA3/2"
+        },
+        {
+          "value": 91,
+          "name": "S/K4/31"
+        },
+        {
+          "value": 92,
+          "name": "S/I-MWN/2"
+        },
+        {
+          "value": 93,
+          "name": "S/I-POA/2"
+        },
+        {
+          "value": 94,
+          "name": "S/TY/32"
+        },
+        {
+          "value": 95,
+          "name": "S/K22/8"
+        },
+        {
+          "value": 96,
+          "name": "S/H19/16"
+        },
+        {
+          "value": 97,
+          "name": "S/I-SW/2"
+        },
+        {
+          "value": 98,
+          "name": "S/I-SLW/2"
+        },
+        {
+          "value": 99,
+          "name": "S/NE-HT/7"
+        },
+        {
+          "value": 100,
+          "name": "S/NE-LYT/19"
+        },
+        {
+          "value": 101,
+          "name": "S/I-CLK/16"
+        },
+        {
+          "value": 102,
+          "name": "S/K5/URA3/2"
+        },
+        {
+          "value": 103,
+          "name": "S/SK-TLS/10"
+        },
+        {
+          "value": 104,
+          "name": "S/K11/31"
+        },
+        {
+          "value": 105,
+          "name": "S/K12/18"
+        },
+        {
+          "value": 106,
+          "name": "S/K8/25"
+        },
+        {
+          "value": 107,
+          "name": "S/K10/URA3/2"
+        },
+        {
+          "value": 108,
+          "name": "S/FLN/4"
+        },
+        {
+          "value": 109,
+          "name": "S/KTN/4"
+        },
+        {
+          "value": 110,
+          "name": "S/TM-SKW/15"
+        },
+        {
+          "value": 111,
+          "name": "S/H1/24"
+        },
+        {
+          "value": 112,
+          "name": "S/KC/32"
+        },
+        {
+          "value": 113,
+          "name": "S/H25/6"
+        },
+        {
+          "value": 114,
+          "name": "S/TWW/21"
+        },
+        {
+          "value": 115,
+          "name": "S/YL-TT/20"
+        },
+        {
+          "value": 116,
+          "name": "S/YL-KTN/11"
+        },
+        {
+          "value": 117,
+          "name": "S/FSSE/2"
+        },
+        {
+          "value": 118,
+          "name": "S/K10/URA2/2"
+        },
+        {
+          "value": 119,
+          "name": "S/H4/17"
+        },
+        {
+          "value": 120,
+          "name": "S/NE-FTA/18"
+        },
+        {
+          "value": 121,
+          "name": "S/FSS/28"
+        },
+        {
+          "value": 122,
+          "name": "S/H20/27"
+        },
+        {
+          "value": 123,
+          "name": "S/H8/28"
+        },
+        {
+          "value": 124,
+          "name": "S/SLC/23"
+        },
+        {
+          "value": 125,
+          "name": "S/MOS/28"
+        },
+        {
+          "value": 126,
+          "name": "S/K22/URA1/2"
+        },
+        {
+          "value": 127,
+          "name": "S/K22/URA2/2"
+        },
+        {
+          "value": 128,
+          "name": "S/K2/26"
+        },
+        {
+          "value": 129,
+          "name": "S/STT/2"
+        },
+        {
+          "value": 130,
+          "name": "S/YL-MP/8"
+        },
+        {
+          "value": 131,
+          "name": "S/K14S/URA1/4"
+        },
+        {
+          "value": 132,
+          "name": "S/H12/14"
+        },
+        {
+          "value": 133,
+          "name": "S/K3/38"
+        },
+        {
+          "value": 134,
+          "name": "S/TSW/18"
+        },
+        {
+          "value": 135,
+          "name": "S/I-DB/6"
+        },
+        {
+          "value": 136,
+          "name": "S/NE-KTS/22"
+        },
+        {
+          "value": 137,
+          "name": "S/K3/URA5/2"
+        },
+        {
+          "value": 138,
+          "name": "S/K5/40"
+        },
+        {
+          "value": 139,
+          "name": "S/H10/23"
+        },
+        {
+          "value": 140,
+          "name": "S/TM-LTYY/13"
+        },
+        {
+          "value": 141,
+          "name": "S/TM/41"
+        },
+        {
+          "value": 142,
+          "name": "S/H5/32"
+        },
+        {
+          "value": 143,
+          "name": "S/I-PC/13"
+        },
+        {
+          "value": 144,
+          "name": "S/YL/28"
+        },
+        {
+          "value": 145,
+          "name": "S/K14N/16"
+        },
+        {
+          "value": 146,
+          "name": "S/K14S/27"
+        },
+        {
+          "value": 147,
+          "name": "S/K9/29"
+        },
+        {
+          "value": 148,
+          "name": "S/YL-NSW/11"
+        },
+        {
+          "value": 149,
+          "name": "S/SK-HC/13"
+        },
+        {
+          "value": 150,
+          "name": "S/SK-CWBN/7"
+        },
+        {
+          "value": 151,
+          "name": "S/YL-PS/21"
+        },
+        {
+          "value": 152,
+          "name": "S/TKO/32"
+        },
+        {
+          "value": 153,
+          "name": "S/YL-SK/10"
+        },
+        {
+          "value": 154,
+          "name": "S/K1/30"
+        },
+        {
+          "value": 155,
+          "name": "S/YL-NTM/15"
+        },
+        {
+          "value": 156,
+          "name": "S/K15/28"
+        },
+        {
+          "value": 157,
+          "name": "S/I-TCV/3"
+        },
+        {
+          "value": 158,
+          "name": "S/K13/34"
+        },
+        {
+          "value": 159,
+          "name": "S/I-CC/11"
+        },
+        {
+          "value": 160,
+          "name": "S/NE-MKT/7"
+        },
+        {
+          "value": 161,
+          "name": "S/K7/25"
+        },
+        {
+          "value": 162,
+          "name": "S/H9/22"
+        },
+        {
+          "value": 163,
+          "name": "S/K10/31"
+        },
+        {
+          "value": 164,
+          "name": "S/ST/39"
+        },
+        {
+          "value": 165,
+          "name": "S/TP/32"
+        },
+        {
+          "value": 166,
+          "name": "S/TW/40"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "layer": "zone",
+      "attribute": "zoneIID"
+    },
+    {
+      "layer": "building",
+      "attribute": "buildingIID"
+    }
+  ],
+  "selection": "statutoryPlanIID",
+  "featuresDir": "statutoryPlan",
+  "featuresTileDepth": 0
+}

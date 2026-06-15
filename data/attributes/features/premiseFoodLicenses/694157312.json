@@ -1,0 +1,136 @@
+{
+  "features": [
+    {
+      "attributes": [
+        694157312,
+        2,
+        [
+          [
+            2917803958,
+            4,
+            "SECOND SERVE COFFEE",
+            "PORTION A OF SHOP G10, G/F, MONTEREY VILLAS, 12 PO PENG STREET, PENG CHAU, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            3617800089,
+            5,
+            "Wellcome",
+            "SHOP NOS. 11-13, 15-21, 22-23, 25-29, 30-33,35-36 AND PORTION OF THE ARCADE, G/F (PORTION), MONTEREY VILLAS, 12 PO PENG STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157312
+        ]
+      ],
+      "coordinate": [
+        1.9903309455094043,
+        0.3889528630667142,
+        5.5
+      ],
+      "halfSize": [
+        29.457180000375956,
+        29.411000000312924,
+        1.8000000715255737
+      ]
+    },
+    {
+      "attributes": [
+        694157313,
+        1,
+        [
+          [
+            2917000151,
+            4,
+            "\u937e\u8a18\u7f8e\u98df",
+            "G/F (REAR PORTION) - R/F, 44 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157713
+        ]
+      ],
+      "coordinate": [
+        1.9903453678198306,
+        0.388952263375141,
+        7.0
+      ],
+      "halfSize": [
+        5.986405000090599,
+        5.123595000244677,
+        3.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        694157314,
+        1,
+        [
+          [
+            3517000022,
+            8,
+            "\u7c21\u8a18\u71d2\u814a",
+            "G/F. (PORTION), 51 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157728
+        ]
+      ],
+      "coordinate": [
+        1.990349833559302,
+        0.3889508672993328,
+        7.050000190734863
+      ],
+      "halfSize": [
+        6.29702499974519,
+        6.00986999925226,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        694157315,
+        1,
+        [
+          [
+            2917803790,
+            4,
+            "CHUN HING",
+            "PORTION A OF G/F, 38 PENG CHAU WING ON STREET, PENG CHAU, HONG KONG",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157735
+        ]
+      ],
+      "coordinate": [
+        1.9903468979855432,
+        0.38895033306512455,
+        8.050000190734863
+      ],
+      "halfSize": [
+        5.260790000203997,
+        4.923630000092089,
+        4.849999904632568
+      ]
+    }
+  ]
+}

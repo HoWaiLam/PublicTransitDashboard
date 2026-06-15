@@ -1,0 +1,144 @@
+{
+  "features": [
+    {
+      "attributes": [
+        694157312,
+        1,
+        [
+          [
+            3117800950,
+            1,
+            "The Old China Hand",
+            "G/F., 75 PENG CHAU WING ON STREET, PENG CHAU, HONG KONG",
+            null,
+            "2026-09-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157600
+        ]
+      ],
+      "coordinate": [
+        1.9903421045412004,
+        0.3889590622234934,
+        7.400000095367432
+      ],
+      "halfSize": [
+        7.880000000353903,
+        7.976789999753237,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        694157313,
+        3,
+        [
+          [
+            2217001218,
+            0,
+            "\u884c\u4f86\u767c\u9910\u5ef3",
+            "G/F., 54 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2217802064,
+            0,
+            "FOODERFUL",
+            "G/F., 52 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-03-25"
+          ],
+          [
+            3117001085,
+            1,
+            "\u7cb5\u8700\u6a02",
+            "G/F. REAR BLOCK, 50 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157637
+        ]
+      ],
+      "coordinate": [
+        1.9903398634309901,
+        0.3889562892427907,
+        8.800000190734863
+      ],
+      "halfSize": [
+        13.672499999869615,
+        12.600000000558794,
+        5.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        694157314,
+        1,
+        [
+          [
+            3117000949,
+            1,
+            "\u5feb\u8eca",
+            "G/F., 53 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157720
+        ]
+      ],
+      "coordinate": [
+        1.9903496092620492,
+        0.3889515455472038,
+        6.550000190734863
+      ],
+      "halfSize": [
+        7.977590000256896,
+        7.276839999482036,
+        3.25
+      ]
+    },
+    {
+      "attributes": [
+        694157315,
+        1,
+        [
+          [
+            2217800952,
+            0,
+            "\u5357\u660c\u7f8e\u98df",
+            "G/F., (REAR), 40 PENG CHAU WING ON STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          694157726
+        ]
+      ],
+      "coordinate": [
+        1.9903463732701379,
+        0.38895125506536077,
+        8.34999942779541
+      ],
+      "halfSize": [
+        5.94980000006035,
+        5.602545000612736,
+        5.049999713897705
+      ]
+    }
+  ]
+}

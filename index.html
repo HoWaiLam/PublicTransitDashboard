@@ -1,0 +1,148 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="js/cesium1.138/Widgets/widgets.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/style.css">
+		<script src="js/cesium1.138/Cesium.js"></script>
+		<script src="js/chart.umd.min.js"></script>
+		<script src="js/bundle.js"></script>
+		
+		<template id="dashboard-panel-template">
+			<div class="dashboard-panel">
+				<div class="dashboar-panel-content">
+				</div>
+			</div>
+		</template>
+		<template id="dashboard-clock-panel-template">
+			<div class="dashboard-panel" id="dashboard-clock-panel">
+				<div class="dashboard-panel-content dashboard-clock">
+					<div class="dashboard-clock-column left">
+						<div class="dashboard-clock-date secondary-label"></div>
+						<div class="dashboard-clock-day"></div>
+					</div>
+					<div class="dashboard-clock-column right">
+						<div class="dashboard-clock-time"></div>
+					</div>
+				</div>
+			</div>
+		</template>
+		<template id="dashboard-charts-panel-template">
+			<div class="dashboard-panel" id="dashboard-charts-panel">
+				<div class="dashboard-panel-header">
+					<div class="dashboard-panel-header-label"></div>
+				</div>
+				<div class="dashboard-panel-content dashboard-charts-content">
+				</div>
+			</div>
+		</template>
+		<template id="dashboard-chart-template">
+			<div class="dashboard-content-container">
+				<div class="dashboard-content-title"></div>
+				<div class="dashboard-content-items"></div>
+			</div>
+		</template>
+		<template id="dashboard-details-panel-template">
+			<div class="dashboard-panel hide-panel" id="dashboard-details-panel">
+				<div class="dashboard-panel-header">
+					<div class="dashboard-panel-header-label"></div>
+				</div>
+				<div class="dashboard-panel-content">
+					<div class="dashboard-details-header">
+						<div class="dashboard-details-mode-icon">
+							<img></img>
+						</div>
+						<div class="dashboard-details-labels">
+							<div class="dashboard-details-primary-label"></div>
+							<div class="dashboard-details-secondary-label"></div>
+						</div>
+						<div class="dashboard-details-icons">
+						</div>
+					</div>
+					<div class="dashboard-details-contents">
+						<div class="dashboard-details-content-list">
+						</div>
+					</div>
+				</div>
+			</div>
+		</template>
+		<template id="dashboard-header-template">
+			<div class="dashboard-header">
+				<div class="dashboard-header-container">
+					<div class="dashboard-header-icon"></div>
+					<div class="dashboard-header-label"></div>
+				</div>
+			</div>
+		</template>
+		<template id="dashboard-content-template">
+			<div class="dashboard-content-container">
+				<div class="dashboard-content-title"></div>
+				<div class="dashboard-content-items"></div>
+			</div>
+		</template>
+		<template id="dashboard-content-item-template">
+			<div class="dashboard-content-item">
+			</div>
+		</template>
+		<template id="panel-header-template">
+			<div class="panel-header">
+				<div class="panel-header-labels">
+					<div class="primary-label"></div>
+					<div class="secondary-label"></div>
+				</div>
+			</div>
+		</template>
+		<template id="panel-content-template">
+			<div class="panel-content">
+				<div class="info">
+					<div class="info-label secondary-label"></div>
+				</div>
+				<div class="icon">
+					<i class="fa fa-fw"></i>
+				</div>
+			</div>
+		</template>
+		<template id="route-content-template">
+			<div class="route-content">
+				<div class="route-content-icon">
+					<img></img>
+				</div>
+				<div class="route-content-route secondary-label"></div>
+				<div class="route-content-dest secondary-label"></div>
+				<div class="route-content-eta secondary-label"></div>
+				<div class="route-content-eta-unit secondary-label">MIN</div>
+				<div class="route-content-arriving-icon"></div>
+			</div>
+		</template>
+		<template id="popup-template">
+			<div class="popup active-border">
+				<div class="popup-contents">
+				</div>
+			</div>
+		</template>
+		<template id="popup-content-template">
+			<div class="popup-content">
+				<div class="popup-icon">
+					<img></img>
+				</div>
+				<div class="popup-labels">
+					<div class="secondary-label"></div>
+					<div class="teritary-label"></div>
+				</div>
+			</div>
+		</template>
+		<template id="building-popup-content-template">
+			<div class="popup-content">
+				<div class="popup-labels">
+					<div class="teritary-label"></div>
+					<div class="secondary-label"></div>
+				</div>
+			</div>
+		</template>
+		<title>Public Transit Dashboard</title>
+	</head>
+	<body>
+		<div id="dashboard">
+			<div class="dashboard-panels"></div>
+		</div>
+	</body>
+</html>

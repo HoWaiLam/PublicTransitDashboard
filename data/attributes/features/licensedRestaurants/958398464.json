@@ -1,0 +1,239 @@
+{
+  "features": [
+    {
+      "attributes": [
+        958398464,
+        2,
+        [
+          [
+            3815803642,
+            0,
+            "ASIA PACIFIC CATERING",
+            "CLINICAL BLOCK 1 CANTEEN, 3/F., CLINICAL BLOCK 1, QUEEN MARY HOSPITAL, 102 POKFULAM ROAD, HONG KONG",
+            null,
+            "2026-04-09"
+          ],
+          [
+            3915801221,
+            1,
+            "PACIFIC COFFEE",
+            "SHOP G05, G/F, CLINICAL BLOCK 1, QUEEN MARY HOSPITAL, NO. 102 POK FU LAM ROAD, POK FU LAM , HONG KONG",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398464
+        ]
+      ],
+      "coordinate": [
+        1.9919569160391926,
+        0.3887031731744489,
+        148.89999389648438
+      ],
+      "halfSize": [
+        21.6355000003241,
+        45.354499999433756,
+        11.0
+      ]
+    },
+    {
+      "attributes": [
+        958398465,
+        1,
+        [
+          [
+            3115800257,
+            1,
+            "MCL Cyberport Cinema",
+            "PORTION A & PORTION B OF CINEMA AT PORTION OF L1, CYBER CENTRE, I.L. 8969, CYBERPORT, SOUTHERN, HONG KONG",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398507
+        ]
+      ],
+      "coordinate": [
+        1.99194484424111,
+        0.3885455511609525,
+        15.59999942779541
+      ],
+      "halfSize": [
+        71.09849999984726,
+        60.04800000041723,
+        9.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        958398466,
+        10,
+        [
+          [
+            2215227595,
+            0,
+            "Southside Bistro",
+            "L4 (PORTION), LE MERIDIEN HONG KONG CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-09-12"
+          ],
+          [
+            2215227610,
+            0,
+            "Nam Fong",
+            "L3 (PORTION), LE MERIDIEN HONG KONG CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-09-12"
+          ],
+          [
+            2215235536,
+            0,
+            "The Lotus Viet & Thai Cuisine\u84ee.\u8d8a\u6cf0\u574a",
+            "SHOP L3-4, LEVEL 3, THE ARCADE, CYBERPORT, 100 CYBERPORT ROAD, HONG KONG",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2215800125,
+            0,
+            "Shibuya Treat by Oh Sushi",
+            "SHOP 307, LEVEL 3, THE ARCADE, 100 CYBERPORT ROAD, HONG KONG",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2215800541,
+            0,
+            "EL CHARRO MEXICAN CANTINA",
+            "SHOP 208, THE ARCADE, 100 CYBERPORT ROAD, CYBERPORT, HONG KONG",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2215801234,
+            0,
+            "McDonald's Restaurant",
+            "SHOP 1-2, LEVEL 1, THE ANNEX, 100 CYBERPORT ROAD, CYBERPORT, HONG KONG",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2215801261,
+            0,
+            "Delaney's",
+            "SHOP 314, 411, 501, 601, THE ARCADE CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2215802635,
+            0,
+            "CHUNG'S HOUSE",
+            "SEATING ACCOMMODATION IN FRONT OF SHOP NO. 102 AND SHOP NO. 102, LEVEL 1, THE ARCADE, 100 CYBERPORT ROAD, CYBERPORT, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2215802990,
+            0,
+            "Umami, Latitude 22",
+            "PORTION A OF L1, LE MERIDIEN HONG KONG CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-08-29"
+          ],
+          [
+            3115227627,
+            1,
+            "Sunset",
+            "L4 (PORTION ONE), LE MERIDIEN HONG KONG CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-09-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398832
+        ]
+      ],
+      "coordinate": [
+        1.9919564684461895,
+        0.388548425135766,
+        44.14999771118164
+      ],
+      "halfSize": [
+        30.427875000052154,
+        33.98147999960929,
+        36.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        958398467,
+        1,
+        [
+          [
+            2215803188,
+            0,
+            "PIZZAEXPRESS",
+            "PORTION A OF G/F., NEW ANNEX BUILDING, THE POKFULAM FARM, NO. 141A, POKFULAM ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-08-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398923
+        ]
+      ],
+      "coordinate": [
+        1.9920344491770956,
+        0.3885243661219444,
+        151.4499969482422
+      ],
+      "halfSize": [
+        9.007414999883622,
+        8.413205000571907,
+        2.9499969482421875
+      ]
+    },
+    {
+      "attributes": [
+        958398468,
+        1,
+        [
+          [
+            2215802440,
+            0,
+            "Cafe Manson",
+            "PORTION A OF 1/F., INTERNATIONAL CULINARY INSTITUTE, POKFULAM ROAD, A.I.L. 463, HONG KONG",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958399239
+        ]
+      ],
+      "coordinate": [
+        1.992044891767703,
+        0.3885284292219136,
+        158.4499969482422
+      ],
+      "halfSize": [
+        16.46540499990806,
+        23.53743000049144,
+        11.449996948242188
+      ]
+    }
+  ]
+}

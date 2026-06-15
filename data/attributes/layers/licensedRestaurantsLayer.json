@@ -1,0 +1,190 @@
+{
+  "name": "licensedRestaurants",
+  "label": "Restaurant Licenses",
+  "groupDisplay": 1,
+  "attributes": [
+    {
+      "name": "licensedRestaurantIID",
+      "label": "Restaurant License",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "noData": 4294967295,
+      "show": 0
+    },
+    {
+      "linkHeader": 1,
+      "name": "licensedRestaurantCount",
+      "label": "Number of Restaurant Licenses",
+      "type": "SCALAR",
+      "componentType": "UINT8",
+      "noData": 0,
+      "required": 1,
+      "show": 2,
+      "representations": [
+        {
+          "type": "continuous",
+          "label": "Restaurant Licenses",
+          "legendLabel": "Number of Restaurant Licenses",
+          "ranges": [
+            0,
+            1,
+            5.0,
+            10.0,
+            15.0,
+            20.0,
+            25.0,
+            30.0,
+            35.0,
+            40.0,
+            45.0,
+            50.0,
+            55.0
+          ],
+          "colors": [
+            [
+              255,
+              255,
+              255
+            ],
+            [
+              255,
+              179,
+              179
+            ],
+            [
+              255,
+              161,
+              161
+            ],
+            [
+              255,
+              143,
+              143
+            ],
+            [
+              255,
+              125,
+              125
+            ],
+            [
+              255,
+              107,
+              107
+            ],
+            [
+              255,
+              89,
+              89
+            ],
+            [
+              255,
+              71,
+              71
+            ],
+            [
+              255,
+              53,
+              53
+            ],
+            [
+              255,
+              35,
+              35
+            ],
+            [
+              255,
+              17,
+              17
+            ],
+            [
+              255,
+              0,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "restaurantLicenses",
+      "label": "Restaurant License",
+      "type": "ARRAY",
+      "componentType": "OBJECT",
+      "componentSchema": {
+        "attributes": [
+          {
+            "name": "licenseNo",
+            "label": "License Number",
+            "type": "SCALAR",
+            "componentType": "UINT32",
+            "show": 1
+          },
+          {
+            "componentHeader": 1,
+            "name": "licenseType",
+            "label": "License Type",
+            "type": "ENUM",
+            "enumType": "licenseEnumTypes",
+            "show": 1
+          },
+          {
+            "name": "restaurantName",
+            "label": "Restaurant Name",
+            "type": "STRING",
+            "show": 1
+          },
+          {
+            "name": "address",
+            "label": "Address",
+            "type": "STRING",
+            "show": 1
+          },
+          {
+            "name": "additionalInfo",
+            "label": "Additional License Info",
+            "type": "BITFLAG_ENUM",
+            "show": 1,
+            "required": 0
+          },
+          {
+            "name": "expiryDate",
+            "label": "Expiry Date",
+            "type": "STRING",
+            "show": 1
+          }
+        ]
+      },
+      "required": 1,
+      "show": 1
+    }
+  ],
+  "enums": {
+    "licenseEnumTypes": {
+      "name": "License Type",
+      "valueType": "UINT32",
+      "values": [
+        {
+          "value": 0,
+          "name": "General Restaurant Licence"
+        },
+        {
+          "value": 1,
+          "name": "Light Refreshment Restaurant Licence"
+        },
+        {
+          "value": 2,
+          "name": "Marine Restaurant Licence"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "layer": "building",
+      "attribute": "buildingIID"
+    }
+  ],
+  "selection": "licensedRestaurantIID",
+  "featuresDir": "licensedRestaurants",
+  "featuresTileDepth": 5
+}

@@ -1,0 +1,59 @@
+{
+  "features": [
+    {
+      "attributes": [
+        291504128,
+        4,
+        [
+          [
+            2817000026,
+            2,
+            "AAT",
+            "G/F (PORTIONS), H.K. INT'L AIRPORT, 10 CHUN PING ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2817800028,
+            2,
+            "No Record",
+            "PORTION OF 1/F & PORTION OF 3/F, ASIA AIRFREIGHT TERMINAL II, 10 CHUN PING ROAD, HONG KONG INTERNATIONAL AIRPORT, LANTAU, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            2917800807,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION OF SHOP AT 3/F., MULTI LEVEL TRUCK PARK, TOWER 2, ASIA AIRFREIGHT TERMINAL, NO. 10 CHUN PING ROAD, CHEK LAP KOK, LANTAU, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2917802317,
+            4,
+            "HUNG FOOK TONG",
+            "SHOP NO. 7T087, DEPARTURES CHECK-IN HALL, LEVEL 7 (NON-RESTRICTED AREA) TERMINAL 1, HONG KONG INTERNATIONAL AIRPORT, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          291504128
+        ]
+      ],
+      "coordinate": [
+        1.9883181184156493,
+        0.38914514209764756,
+        27.600000381469727
+      ],
+      "halfSize": [
+        165.8983499999158,
+        105.61064499989152,
+        21.899999618530273
+      ]
+    }
+  ]
+}

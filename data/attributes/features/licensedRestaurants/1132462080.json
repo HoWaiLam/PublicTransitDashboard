@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1132462080,
+        1,
+        [
+          [
+            2296803639,
+            0,
+            "\u53cb\u751f\u5712\u8336\u5ea7",
+            "G/F, 12 PING CHE NEW VILLAGE, PING CHE ROAD, TA KWU LING, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1132462171
+        ]
+      ],
+      "coordinate": [
+        1.9924833256985974,
+        0.3931252804405819,
+        20.549999237060547
+      ],
+      "halfSize": [
+        5.91416999977082,
+        5.934325000271201,
+        3.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1132462081,
+        1,
+        [
+          [
+            2296001215,
+            0,
+            "Tung Nam Restaurant",
+            "NO 38, G/F, PING CHE NEW VILLAGE, PING CHE ROAD, TA KWU LING, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1132462184
+        ]
+      ],
+      "coordinate": [
+        1.992484180022034,
+        0.3931205489073425,
+        20.350000381469727
+      ],
+      "halfSize": [
+        5.945999999996275,
+        5.901999999769032,
+        3.75
+      ]
+    }
+  ]
+}

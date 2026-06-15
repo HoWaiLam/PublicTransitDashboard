@@ -1,0 +1,262 @@
+{
+  "features": [
+    {
+      "attributes": [
+        580911104,
+        1,
+        [
+          [
+            2294801277,
+            0,
+            "\u8208\u8a18\u7c89\u9eb5\u9910\u5ef3",
+            "SHOP C & D, G/F, HUNG FOOK BUILDING, 11 YING FUK STREET, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911161
+        ]
+      ],
+      "coordinate": [
+        1.9896300379828982,
+        0.3915297164116402,
+        22.650001525878906
+      ],
+      "halfSize": [
+        10.549420000053942,
+        8.711475000716746,
+        11.250000953674316
+      ]
+    },
+    {
+      "attributes": [
+        580911105,
+        1,
+        [
+          [
+            2293803683,
+            0,
+            "\u59b9\u59d0\u6253\u51b7\u5c0f\u7092",
+            "SHOP NOS. 21-23, G/F, HANG FUK BUILDING, YAN OI TONG CIRCUIT, 11-15 KEI LUN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911191
+        ]
+      ],
+      "coordinate": [
+        1.9896338808312188,
+        0.39152544309882836,
+        22.799999237060547
+      ],
+      "halfSize": [
+        9.117899999953806,
+        8.4698949996382,
+        11.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        580911106,
+        2,
+        [
+          [
+            2294000333,
+            0,
+            "\u6d2a\u5ddd\u5eda\u623f",
+            "SHOP NO. 2, G/F, TAK HING BUILDING, DD 124, LOT 4178, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2294804692,
+            0,
+            "\u65b0\u91d1\u9f8d\u9910\u5ef3",
+            "SHOP NO. 3, G/F, TAK HING BUILDING, DD 124, LOT 4178, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911207
+        ]
+      ],
+      "coordinate": [
+        1.989595125332394,
+        0.3915205947674529,
+        21.150001525878906
+      ],
+      "halfSize": [
+        13.350000000093132,
+        14.149999999441206,
+        10.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        580911107,
+        5,
+        [
+          [
+            2294001336,
+            0,
+            "\u7687\u90fd\u9910\u5ef3",
+            "SHOP NO. 1, G/F, TREASURE COURT AND THE OUTSIDE SEATING AREA AT SHOP FRONT, DD 124, LOT 4212-4213, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2294802395,
+            0,
+            "TAI FAT RESTAURANT",
+            "SHOP NO. 4-5, G/F AND OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, TREASURE COURT, DD 124, LOT 4212, CASTLE PEAK ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2294806120,
+            0,
+            "\u6f01\u5321\u58fd\u53f8",
+            "PORTION A OF SHOP NO. 8, G/F, BLOCK 1-9, TREASURE COURT, 8 YING FUK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-02-23"
+          ],
+          [
+            3894811820,
+            0,
+            "GOOD RESTAURANT",
+            "SHOP 9, 10 & 11, G/F, BLOCK 1-9, TREASURE COURT, 8 YING FUK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-11"
+          ],
+          [
+            3194000261,
+            1,
+            "\u96f2\u8cb4\u68e7",
+            "SHOP NO. 7, TREASURE COURT, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911900
+        ]
+      ],
+      "coordinate": [
+        1.989637852914327,
+        0.391532503405565,
+        13.399999618530273
+      ],
+      "halfSize": [
+        29.352995000313967,
+        27.925499999895692,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        580911108,
+        4,
+        [
+          [
+            3194001264,
+            1,
+            "\u5927\u767c",
+            "SHOP NO.28, G/F, TAK CHEUNG BUILDING, DD 124, LOT 4177, CASTLE PEAK ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3194802621,
+            1,
+            "SEN MEI XIAO CHU",
+            "SHOP 23, G/F, TAK CHEUNG BUILDING, HUNG SHUI KIU MAIN STREET, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3194804043,
+            1,
+            "\u91d1\u798f\u5eda\u623f",
+            "SHOP 22, G/F, TAK CHEUNG BUILDING, NO.1 HUNG SHUI KIU MAIN STREET, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3194804195,
+            1,
+            "\u9686\u6284\u624b \u64d4\u64d4\u9eb5",
+            "SHOP 33, G/F, TAK CHEUNG BUILDING, NO. 1 HUNG SHUI KIU MAIN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911902
+        ]
+      ],
+      "coordinate": [
+        1.989602028179412,
+        0.39152485331818093,
+        13.149999618530273
+      ],
+      "halfSize": [
+        29.655999999959022,
+        25.480999999679625,
+        2.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        580911109,
+        2,
+        [
+          [
+            2294803741,
+            0,
+            "\u8000\u83ef\u9910\u5ef3",
+            "SHOP NO. 7, G/F, LAI HUNG GARDEN, 1 TAN KWAI TSUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2294812031,
+            0,
+            "Ding Tao Hub",
+            "SHOP NO. 9, G/F, LAI HUNG GARDEN, 1 TAN KWAI TSUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          580911903
+        ]
+      ],
+      "coordinate": [
+        1.989628895283568,
+        0.39152505097678214,
+        14.0
+      ],
+      "halfSize": [
+        23.316190000157803,
+        24.080000000074506,
+        2.6000003814697266
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "attributes": [
+        629145600,
+        2,
+        [
+          [
+            2917801712,
+            4,
+            "No Record",
+            "G/F (PORTION B), AUBERGE DISCOVERY BAY, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2917804696,
+            4,
+            "Dough Room",
+            "DOUGH ROOM, B/F, AUBERGE DISCOVERY BAY HONG KONG, 88 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-10-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          629146083
+        ]
+      ],
+      "coordinate": [
+        1.989972768595258,
+        0.389336643484777,
+        14.0
+      ],
+      "halfSize": [
+        32.819450000301,
+        51.90211999975145,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        629145601,
+        3,
+        [
+          [
+            2917803754,
+            4,
+            "Osman Bey Turkish Food",
+            "SHOP UNIT NO. G13A, GROUND FLOOR, 92 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2917804234,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. LG21A & LG21B, LG/F., 92 SIENA AVENUE, DB NORTH PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-10-30"
+          ],
+          [
+            3217800401,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. LG21A & LG21B, LG/F, 92 SIENA AVENUE, DB NORTH PLAZA, DISCOVERY BAY, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          629146084
+        ]
+      ],
+      "coordinate": [
+        1.9899647769331377,
+        0.389350216132946,
+        11.899999618530273
+      ],
+      "halfSize": [
+        31.406260000076145,
+        34.50410000048578,
+        2.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        629145602,
+        1,
+        [
+          [
+            2917802052,
+            4,
+            "QUALITY CUTS",
+            "SHOP G26A, G/F., 96 SIENA AVENUE, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          629146091
+        ]
+      ],
+      "coordinate": [
+        1.9899689725528686,
+        0.3893649497578236,
+        14.25
+      ],
+      "halfSize": [
+        44.90923999994993,
+        45.04635000042617,
+        6.049999713897705
+      ]
+    }
+  ]
+}

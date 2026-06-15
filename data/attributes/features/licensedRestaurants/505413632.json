@@ -1,0 +1,154 @@
+{
+  "features": [
+    {
+      "attributes": [
+        505413632,
+        12,
+        [
+          [
+            2293800222,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 65, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2293801696,
+            0,
+            "Tao Heung",
+            "SHOPS 40-44, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            2293803364,
+            0,
+            "Cafe Itamomo",
+            "SHOP NOS. 51-52, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2293803382,
+            0,
+            "---",
+            "SHOP NOS. 17 & 96, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-22"
+          ],
+          [
+            2293803993,
+            0,
+            "Men Wah Bing Teng",
+            "SHOP 64, 1/F, OCEAN WALK, PIERHEAD GARDEN, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-07"
+          ],
+          [
+            2293804394,
+            0,
+            "\u6728\u5146\u5c0f\u54c1&Chicken Factory",
+            "SHOP 46-48, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-11"
+          ],
+          [
+            2293807180,
+            0,
+            "McDonald's Restaurant",
+            "SHOP 55-60 & OPEN SEATING AREA, 1/F, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2293807205,
+            0,
+            "\u8377\u91cc\u6d3b\u9910\u5ef3",
+            "SHOP UNIT 75, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2293807357,
+            0,
+            "Genki Sushi",
+            "SHOP NOS. 66-68 & 73-74, OCEAN WALK, NO. 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3193800798,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP 79-80, 1/F, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ],
+          [
+            3193802767,
+            1,
+            "Gaolay",
+            "SHOP NOS. 53-54, OCEAN WALK, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ],
+          [
+            3193802855,
+            1,
+            "\u539a\u8208\u745c\u8a18",
+            "SHOP NOS. 81-82, OCEAN WALK, PIERHEAD GARDEN, 168-236 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          505413828
+        ]
+      ],
+      "coordinate": [
+        1.9890967158780304,
+        0.3904744260871166,
+        13.049999237060547
+      ],
+      "halfSize": [
+        139.66800000006333,
+        63.83861499931663,
+        8.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        505413633,
+        1,
+        [
+          [
+            2293804765,
+            0,
+            "\u7f8e\u5fc3MX",
+            "SHOP NOS. 104-106, 1/F, 2GETHER, 8 WU ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          505413917
+        ]
+      ],
+      "coordinate": [
+        1.9891102542768102,
+        0.39053550561841804,
+        12.299999237060547
+      ],
+      "halfSize": [
+        28.203625000081956,
+        28.78584999963641,
+        6.999999523162842
+      ]
+    }
+  ]
+}

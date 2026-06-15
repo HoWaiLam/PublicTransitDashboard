@@ -1,0 +1,602 @@
+{
+  "features": [
+    {
+      "attributes": [
+        356515840,
+        1,
+        [
+          [
+            2217801229,
+            0,
+            "KFC",
+            "SHOP NO. 17, GROUND FLOOR, COMMERCIAL CENTRE 1, YAT TUNG ESTATE, 8 YAT TUNG STREET, NEW TERRITORIES, HONG KONG",
+            null,
+            "2026-10-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515861
+        ]
+      ],
+      "coordinate": [
+        1.988594298418267,
+        0.38887798346412916,
+        11.899999618530273
+      ],
+      "halfSize": [
+        6.348499999847263,
+        9.87749999947846,
+        3.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        356515841,
+        1,
+        [
+          [
+            2217000473,
+            0,
+            "\u65b0\u83ef\u9152\u5bb6",
+            "57 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515870
+        ]
+      ],
+      "coordinate": [
+        1.9885546872095672,
+        0.3889456221466793,
+        6.800000190734863
+      ],
+      "halfSize": [
+        9.493920000270009,
+        8.06499999947846,
+        3.200000047683716
+      ]
+    },
+    {
+      "attributes": [
+        356515842,
+        1,
+        [
+          [
+            2217802842,
+            0,
+            "\u6771\u6607\u6a13",
+            "G/F., TUNG SING LAU, MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515882
+        ]
+      ],
+      "coordinate": [
+        1.9885580181979514,
+        0.3889429420516898,
+        7.25
+      ],
+      "halfSize": [
+        8.689964999910444,
+        10.926690000109375,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        356515843,
+        1,
+        [
+          [
+            3117001146,
+            1,
+            "911\u9910\u5ef3",
+            "G/F., 101 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515942
+        ]
+      ],
+      "coordinate": [
+        1.9885509567072792,
+        0.38893101844188455,
+        8.25
+      ],
+      "halfSize": [
+        6.014979999978095,
+        3.0860299998894334,
+        4.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        356515844,
+        1,
+        [
+          [
+            2217802301,
+            0,
+            "CHUNG HAU RESTAURANT",
+            "G/F., NO. 104 MA WAN CHUNG VILLAGE (LOT NO. 2400 IN DD3), TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515947
+        ]
+      ],
+      "coordinate": [
+        1.9885506620191504,
+        0.3889276792660735,
+        8.600000381469727
+      ],
+      "halfSize": [
+        6.116270000115037,
+        4.518184999935329,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        356515845,
+        1,
+        [
+          [
+            2217802693,
+            0,
+            "AROMA",
+            "G/F., NO. 97 MA WAN CHUNG VILLAGE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515952
+        ]
+      ],
+      "coordinate": [
+        1.9885527309536473,
+        0.3889258659714423,
+        8.199999809265137
+      ],
+      "halfSize": [
+        5.275499999988824,
+        4.9084999999031425,
+        3.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        356515846,
+        1,
+        [
+          [
+            2217801201,
+            0,
+            "\u6b63\u8a18\u5ddd\u7cb5\u83dc\u9928",
+            "G/F., 106 MA WAN CHUNG, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515953
+        ]
+      ],
+      "coordinate": [
+        1.9885500189845635,
+        0.3889255360990099,
+        7.400000095367432
+      ],
+      "halfSize": [
+        5.072879999876022,
+        4.05350000038743,
+        2.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        356515847,
+        1,
+        [
+          [
+            2217800271,
+            0,
+            "\u91d1\u6cf0\u5c4b\u6cf0\u570b\u83dc\u9928",
+            "NO. 1, G/F., WONG NAI UK VILLAGE, TUNG CHUNG, D.D. 3, LOT NO. 2420, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-05-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515972
+        ]
+      ],
+      "coordinate": [
+        1.9886031768416537,
+        0.38891303034735325,
+        14.199999809265137
+      ],
+      "halfSize": [
+        4.929574999958277,
+        5.200934999622405,
+        3.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        356515848,
+        6,
+        [
+          [
+            2217000312,
+            0,
+            "McDonald's",
+            "SHOP 104, 1/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2217000358,
+            0,
+            "Caf\u00e9 de Coral",
+            "SHOP 221, YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2217001926,
+            0,
+            "Ga Gee Lounge",
+            "SHOP 114, YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            2217801061,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 9, G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ],
+          [
+            2217801399,
+            0,
+            "HONORARY FAMILY",
+            "SHOP NO. 217, 2/F., COMMERCIAL CENTRE 1 (YAT TUNG SHOPPING CENTRE), YAT TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2217803614,
+            0,
+            "Milk Caf\u00e9",
+            "SHOP NO. 18-19, G/F, YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, NO. 8 YAT TUNG STREET, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515987
+        ]
+      ],
+      "coordinate": [
+        1.9885390353422379,
+        0.3888852513205191,
+        15.649999618530273
+      ],
+      "halfSize": [
+        35.39446000009775,
+        63.653440000489354,
+        8.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        356515849,
+        1,
+        [
+          [
+            2217802417,
+            0,
+            "COCO CAFE",
+            "G/F., 2 MA WAN NEW VILLAGE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516037
+        ]
+      ],
+      "coordinate": [
+        1.9886494648498734,
+        0.38885737221453953,
+        20.799999237060547
+      ],
+      "halfSize": [
+        5.433619999792427,
+        5.61663500033319,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        356515850,
+        1,
+        [
+          [
+            2217803410,
+            0,
+            "Coco Cafe",
+            "G/F, 3 MA WAN NEW VILLAGE, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-10-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516038
+        ]
+      ],
+      "coordinate": [
+        1.9886483854944832,
+        0.3888567267631863,
+        20.799999237060547
+      ],
+      "halfSize": [
+        5.480465000029653,
+        5.6438850006088614,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        356515851,
+        1,
+        [
+          [
+            2217803234,
+            0,
+            "Smile Cafe",
+            "G/F., NO. 5 MA WAN NEW VILLAGE, LOT NO. 2470 IN D.D.3, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516041
+        ]
+      ],
+      "coordinate": [
+        1.9886469021020394,
+        0.3888558342170628,
+        20.899999618530273
+      ],
+      "halfSize": [
+        5.448104999959469,
+        5.541954999789596,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        356515852,
+        1,
+        [
+          [
+            2217802046,
+            0,
+            "OWEN LOUNGE",
+            "G/F., NO. 10 MA WAN NEW VILLAGE, LOT NO. 2475 IN D.D. 3, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516054
+        ]
+      ],
+      "coordinate": [
+        1.988645336891395,
+        0.3888528393439816,
+        20.849998474121094
+      ],
+      "halfSize": [
+        5.348019999917597,
+        5.551060000434518,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        356515853,
+        1,
+        [
+          [
+            2217000242,
+            0,
+            "Tung Chung Pizza",
+            "G/F., DD 3, LOT 2455, 9B SHEUNG LING PEI, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516099
+        ]
+      ],
+      "coordinate": [
+        1.9886238267940428,
+        0.3888386923639273,
+        22.25
+      ],
+      "halfSize": [
+        14.101049999706447,
+        6.361704999580979,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        356515854,
+        1,
+        [
+          [
+            2217802222,
+            0,
+            "TUNG CHUNG FORT KITCHEN",
+            "G/F., NO. 18 HA LING PEI VILLAGE, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2027-02-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516202
+        ]
+      ],
+      "coordinate": [
+        1.9885538526783604,
+        0.38882898972688473,
+        15.100000381469727
+      ],
+      "halfSize": [
+        4.992219999898225,
+        6.878975000232458,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        356515855,
+        1,
+        [
+          [
+            2217001519,
+            0,
+            "Khao Tip Thai",
+            "G/F., 10 HA LING PEI VILLAGE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516294
+        ]
+      ],
+      "coordinate": [
+        1.9885405777629157,
+        0.3888237875476816,
+        12.949999809265137
+      ],
+      "halfSize": [
+        5.6049999999813735,
+        5.669999999925494,
+        3.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        356515856,
+        1,
+        [
+          [
+            2217800280,
+            0,
+            "HANDI INDIAN RESTAURANT",
+            "G/F., NO. 8 HA LING PEI TSUEN, TUNG CHUNG, LANTAU, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516320
+        ]
+      ],
+      "coordinate": [
+        1.9885381389077506,
+        0.38882157817918905,
+        13.199999809265137
+      ],
+      "halfSize": [
+        5.69080499978736,
+        5.685159999877214,
+        4.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        356515857,
+        1,
+        [
+          [
+            2217802684,
+            0,
+            "MUN TUNG CAFE",
+            "SHOP G11, G/F., JOYSMARK, MUN TUNG ESTATE, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516681
+        ]
+      ],
+      "coordinate": [
+        1.9885161932063968,
+        0.38881302489799324,
+        12.149999618530273
+      ],
+      "halfSize": [
+        52.15641500009224,
+        44.02399000059813,
+        4.349999904632568
+      ]
+    }
+  ]
+}

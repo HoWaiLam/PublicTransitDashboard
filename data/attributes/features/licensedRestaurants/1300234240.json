@@ -1,0 +1,1875 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1300234240,
+        4,
+        [
+          [
+            2251802231,
+            0,
+            "FORTUNE GARDEN",
+            "THE WHOLE OF 7TH FLOOR, CROCODILE CENTRE, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-24"
+          ],
+          [
+            2251802329,
+            0,
+            "The Graces Restaurant",
+            "6/F., CROCODILE CENTRE, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2251802338,
+            0,
+            "Heyday Cuisine",
+            "8/F, CROCODILE CENTRE, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2251809296,
+            0,
+            "Tao Heung Tea House",
+            "9/F, CROCODILE CENTER, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234300
+        ]
+      ],
+      "coordinate": [
+        1.9936136073721582,
+        0.3894116536108403,
+        64.75
+      ],
+      "halfSize": [
+        24.06514499988407,
+        26.78459499962628,
+        47.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1300234241,
+        1,
+        [
+          [
+            2251805443,
+            0,
+            "THAI FIRE",
+            "UNIT A, 9/F, WONG TZE BUILDING, 71 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234316
+        ]
+      ],
+      "coordinate": [
+        1.9936034079961067,
+        0.3894012441859391,
+        27.30000114440918
+      ],
+      "halfSize": [
+        21.241399999707937,
+        21.346940000541508,
+        23.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1300234242,
+        3,
+        [
+          [
+            2251809199,
+            0,
+            "ICHIJUISSAI",
+            "PORTION OF G/F, YEN SHENG CENTRE, 64 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2251810193,
+            0,
+            "Sushiro Kwun Tong",
+            "1/F, YEN SHENG CENTRE, 64 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2251810306,
+            0,
+            "D.H.K. Seafood Restaurant",
+            "2/F, YEN SHENG CENTRE, 64 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234323
+        ]
+      ],
+      "coordinate": [
+        1.9936103730455386,
+        0.3893965288837207,
+        25.600000381469727
+      ],
+      "halfSize": [
+        31.088800000026822,
+        29.44313000049442,
+        21.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1300234243,
+        7,
+        [
+          [
+            2251803146,
+            0,
+            "Super Super",
+            "SHOP NO. 303, THIRD FLOOR, TAK TIN SHOPPING CENTRE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2251809144,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO.206, 2/F, TAK TIN PLAZA, TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-08-16"
+          ],
+          [
+            2251809357,
+            0,
+            "\u5bcc\u570b\u5cf6",
+            "STALL NO. M70, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2251809393,
+            0,
+            "\u5275\u69ae\u9910\u5ef3",
+            "STALL NO. M90, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-02-23"
+          ],
+          [
+            2251809746,
+            0,
+            "CHEUNG HONG YUEN RESTAURANT",
+            "SHOP NO.219, 2/F, TAK TIN PLAZA , TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3151803232,
+            1,
+            "\u6a02\u5712\u9b5a\u65e6\u5c08\u5bb6",
+            "STALL NO. M50 & 65, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3951803902,
+            1,
+            "\u9903\u91cc",
+            "SHOP G1 & G1A, G/F, TAK TIN PLAZA, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234344
+        ]
+      ],
+      "coordinate": [
+        1.993835620945856,
+        0.38938690882420723,
+        127.0
+      ],
+      "halfSize": [
+        20.595704999752343,
+        36.40715999994427,
+        29.39999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1300234244,
+        4,
+        [
+          [
+            2251806279,
+            0,
+            "\u7c73\u8d70\u96de",
+            "3/F, THE WAVE, NO. 4 HING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2251807139,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 102 ON FIRST FLOOR, NO. 4 HING YIP STREET, KOWLOON",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2251807193,
+            0,
+            "Thai Deer Factory",
+            "SHOP NO. 601 ON 6TH FLOOR, NO. 4 HING YIP STREET, KOWLOON, HONG KONG",
+            null,
+            "2026-07-15"
+          ],
+          [
+            2251810041,
+            0,
+            "MACHI DONBURI",
+            "SHOP 103, 1/F, NO. 4 HING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234373
+        ]
+      ],
+      "coordinate": [
+        1.9935938287385941,
+        0.3893775525097372,
+        25.200000762939453
+      ],
+      "halfSize": [
+        20.737989999819547,
+        21.42873000074178,
+        21.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1300234245,
+        1,
+        [
+          [
+            2251803049,
+            0,
+            "ITAMOMO & R.U.D",
+            "SHOP 235, LEVEL 2, KAI TIN SHOPPING CENTRE EXTENSION, KAI TIN ESTATE, LAM TIN, KOWLOON",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234408
+        ]
+      ],
+      "coordinate": [
+        1.9937657774909308,
+        0.3893669394533691,
+        75.69999694824219
+      ],
+      "halfSize": [
+        27.23037000000477,
+        27.450879999436438,
+        9.39999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1300234246,
+        1,
+        [
+          [
+            2251805586,
+            0,
+            "The Hunt Coffee & Roastery",
+            "SHOP A & B, G/F, KOHO, 73-75 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234413
+        ]
+      ],
+      "coordinate": [
+        1.9935874883457725,
+        0.38936409765317004,
+        27.75
+      ],
+      "halfSize": [
+        30.314549999777228,
+        30.92373500019312,
+        23.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1300234247,
+        5,
+        [
+          [
+            2251266095,
+            0,
+            "Deluxe Restaurant",
+            "SHOP NOS 13-14, G/F & LG/F, KAI TIN TOWERS, 51-67C KAI TIN RD, LAM TIN, KOWLOON",
+            null,
+            "2026-09-11"
+          ],
+          [
+            2251801797,
+            0,
+            "\u65b0\u6a02\u5712\u9b5a\u86cb\u7c89",
+            "SHOP NO. 28, G/F, KAI TIN TOWER, 57-63 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2251803340,
+            0,
+            "\u660e\u5fb7\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP 10, G/F, KAI TIN TOWER, 51-67C KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2251804291,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "PORTION A, SHOP 15, G/F, KAI TIN TOWER, 55-63 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2251807777,
+            0,
+            "KITCHEN ONE ROAST GOOSE (LAM TIN SHOP)",
+            "SHOP NO. 1A, 2, 3, 4 & 6A, G/F, KAI TIN TOWERS, 51-67C KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234443
+        ]
+      ],
+      "coordinate": [
+        1.9937591021196417,
+        0.38935332627856106,
+        71.8499984741211
+      ],
+      "halfSize": [
+        20.958169999998063,
+        20.88228000048548,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1300234248,
+        3,
+        [
+          [
+            2251801803,
+            0,
+            "\u65b0\u6a02\u5712\u9b5a\u86cb\u7c89",
+            "SHOP NO. 15A(REAR PORTION) & 15B, G/F, KAI TIN TOWER, 49 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2251806297,
+            0,
+            "Cotton Candy",
+            "SHOP NO. 1, G/F, 49 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-02-11"
+          ],
+          [
+            2251809445,
+            0,
+            "\u4e5d\u982d\u9ce5\u7c73\u7dda",
+            "SHOP 2, G/F, NO. 49 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-04-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234453
+        ]
+      ],
+      "coordinate": [
+        1.993766707267315,
+        0.38935072853183583,
+        72.05000305175781
+      ],
+      "halfSize": [
+        19.887415000237525,
+        14.815105000510812,
+        5.149997711181641
+      ]
+    },
+    {
+      "attributes": [
+        1300234249,
+        1,
+        [
+          [
+            2251809676,
+            0,
+            "SEASON CAMPING",
+            "SHOP A, G/F, 86 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234474
+        ]
+      ],
+      "coordinate": [
+        1.9935927017637665,
+        0.38934653041242806,
+        22.649999618530273
+      ],
+      "halfSize": [
+        13.850614999886602,
+        14.056115000508726,
+        18.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1300234250,
+        4,
+        [
+          [
+            2251077718,
+            0,
+            "Meokbang BBQ Kidzone",
+            "1/F AND 2/F, 90 HUNG TO RD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2251802347,
+            0,
+            "Corner 90",
+            "G/F, 90 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2251804200,
+            0,
+            "\u96f2\u5357\u554a\u8001\u8868\u9ed1\u5c71\u7f8a\u6e6f\u934b\u7c73\u7dda",
+            "FLAT A, M/F, 90 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2251807917,
+            0,
+            "Hibiki Japanese Restaurant",
+            "5/F, 90 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234492
+        ]
+      ],
+      "coordinate": [
+        1.9935972961150104,
+        0.3893412190562445,
+        19.950000762939453
+      ],
+      "halfSize": [
+        11.696444999892265,
+        14.917355000041425,
+        15.75
+      ]
+    },
+    {
+      "attributes": [
+        1300234251,
+        12,
+        [
+          [
+            2251198457,
+            0,
+            "McDonald's",
+            "SHOP NOS G6-9 & SA01, G/F, LAGUNA PLAZA, LAGUNA CITY, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2251802657,
+            0,
+            "Super Super",
+            "SHOP NOS. 85-88, FIRST FLOOR, LAGUNA PLAZA, 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-02"
+          ],
+          [
+            2251803447,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. S2, 2/F, LAGUNA PLAZA, 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2251804574,
+            0,
+            "Yu Mai",
+            "SHOPS 24-27, G/F, LAGUNA PLAZA, 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-02-23"
+          ],
+          [
+            2251804857,
+            0,
+            "Ho Yin Seafood Restaurant",
+            "SHOP S5, 2/F, LAGUNA PLAZA, NO. 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2251808442,
+            0,
+            "Itamomo Plus & Cafe 100 % & Chicken Factory",
+            "SHOP NO. 72-75A & 81-84(PORTION A), 1/F, LAGUNA PLAZA, NO. 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-31"
+          ],
+          [
+            2251808558,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. S3D, 2/F, LAGUNA PLAZA, NO. 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-14"
+          ],
+          [
+            2251808798,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NOS. 64-66, 1/F, LAGUNA PLAZA, 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2251810634,
+            0,
+            "Soup Plus",
+            "SHOP 28A, 28B & 29A, G/F, LAGUNA PLAZA, 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-01"
+          ],
+          [
+            3851811021,
+            0,
+            "NABEGO",
+            "SHOP NO. B8, B1/F, LAGUNA PLAZA, NO. 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3151801315,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP 16, G/F, LAGUNA PLAZA, 88 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-11"
+          ],
+          [
+            3151801333,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOPS 20, 20A AND 21, G/F, LAGUNA PLAZA, 88 CHA KWO LING ROAD, KOWLOON, HONG KONG",
+            null,
+            "2026-06-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234513
+        ]
+      ],
+      "coordinate": [
+        1.9936555316699744,
+        0.38932910052388026,
+        15.899999618530273
+      ],
+      "halfSize": [
+        39.089844999834895,
+        49.17968500033021,
+        10.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1300234252,
+        2,
+        [
+          [
+            2251802958,
+            0,
+            "Cafe'de Coral",
+            "PORTION OF UNIT 2 (ALSO KNOWN AS SHOP 2M), LEVEL (SITE 1) 31 (L4), COMMERCIAL DEVELOPMENT, SCENEWAY GARDEN, LAM TIN, KOWLOON",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2251810087,
+            0,
+            "Hong Kong Nam Kee Noodle",
+            "SHOP 2N OF UNIT 2, LEVEL (SITE 1) 31(L4), COMMERCIAL DEVELOPMENT, SCENEWAY GARDEN, LAM TIN, KOWLOON",
+            null,
+            "2026-10-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234518
+        ]
+      ],
+      "coordinate": [
+        1.9937277655913963,
+        0.38932996551675886,
+        46.29999923706055
+      ],
+      "halfSize": [
+        21.041015000082552,
+        25.885740000754595,
+        6.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1300234253,
+        4,
+        [
+          [
+            2251804015,
+            0,
+            "Hundred Percent Restaurant",
+            "SHOP NOS. 203 & 205-208 (PORTION A), 2/F, PING TIN SHOPPING CENTRE, PING TIN ESTATE, LAM TIN, KOWLOON",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2251807184,
+            0,
+            "KISON ROASTED GOOSE (PING TIN)",
+            "SHOP NO. 202, 2/F, PING TIN SHOPPING CENTRE, PING TIN ESTATE, 18 & 23 ON TIN STREET, LAM TIN, KOWLOON",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2251810096,
+            0,
+            "\u6771\u6210\u5c0f\u9928",
+            "SHOP NO. G4, G/F., PING TIN SHOPPING CENTRE, PING TIN ESTATE, NOS. 18 & 23 ON TIN STREET, LAM TIN, KOWLOON",
+            null,
+            "2026-10-24"
+          ],
+          [
+            3151802026,
+            1,
+            "\u6f6e\u725b\u9928",
+            "SHOP NO. G3, G/F, PING TIN SHOPPING CENTRE, PING TIN ESTATE, NOS. 18 & 23 ON TIN STREET, LAM TIN, KOWLOON",
+            null,
+            "2026-03-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234566
+        ]
+      ],
+      "coordinate": [
+        1.9938170426732253,
+        0.389311039811758,
+        95.80000305175781
+      ],
+      "halfSize": [
+        30.69531500013545,
+        34.43457000050694,
+        9.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1300234254,
+        1,
+        [
+          [
+            2251238964,
+            0,
+            "\u5049\u8c6a\u8336\u9910\u5ef3",
+            "G/F, BLOCK C, YAU FOOK BUILDING, 167-175 CHA KWO LING ROAD, KOWLOON",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234646
+        ]
+      ],
+      "coordinate": [
+        1.9936414580428,
+        0.3892626236425839,
+        21.150001525878906
+      ],
+      "halfSize": [
+        7.882180000189692,
+        12.538244999945164,
+        17.25
+      ]
+    },
+    {
+      "attributes": [
+        1300234255,
+        3,
+        [
+          [
+            2251182607,
+            0,
+            "Grand Pleasure Seafood Restaurant",
+            "SHOP NO.10, KWONG TIN SHOPPING CENTRE, KWONG TIN ESTATE, LAM TIN, KOWLOON",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2251801919,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 101A, 1/F, KWONG TIN SHOPPING CENTRE, LAM TIN, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            2251805027,
+            0,
+            "Milk Cafe",
+            "SHOP NO. 2, G/F, KWONG TIN SHOPPING CENTRE, KWONG TIN ESTATE, PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-12-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234647
+        ]
+      ],
+      "coordinate": [
+        1.9938572041714473,
+        0.38925851612282464,
+        98.89999389648438
+      ],
+      "halfSize": [
+        66.51611999981105,
+        38.49751999974251,
+        9.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1300234256,
+        2,
+        [
+          [
+            2251807643,
+            0,
+            "Chiu Wui Hin",
+            "3/F, 107 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2251807935,
+            0,
+            "Nata",
+            "UNIT 01 ON 4/F, KWOK KEE GROUP CENTRE, NO. 107 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234919
+        ]
+      ],
+      "coordinate": [
+        1.9935884340707504,
+        0.38942005971236837,
+        12.0
+      ],
+      "halfSize": [
+        23.774999999906868,
+        21.913499999791384,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1300234257,
+        7,
+        [
+          [
+            2251802222,
+            0,
+            "The Starview",
+            "2/F, CROCODILE CENTRE, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2251806206,
+            0,
+            "Mixian Sense",
+            "SHOP 8 ON THE 1ST FLOOR, CROCODILE CENTER, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2251806260,
+            0,
+            "McDonald's Restaurant",
+            "SHOP 2, 3A & 3B, 1/F, CROCODILE CENTER, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON, HONG KONG",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2251806437,
+            0,
+            "TAI HING",
+            "SHOP B, G/F, CROCODILE CENTRE, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2251808451,
+            0,
+            "DELUXE DAIKIYA JAPANESE RESTAURANT",
+            "3/F, CROCODILE CENTRE, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-09"
+          ],
+          [
+            2251808479,
+            0,
+            "Master Beef (Kwun Tong)",
+            "5TH FLOOR, CROCODILE CENTRE, 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-04"
+          ],
+          [
+            2251810555,
+            0,
+            "AKITA CAFE",
+            "SHOP NO. 7, 1ST FLOOR, CROCODILE CENTRE, NO. 79 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234922
+        ]
+      ],
+      "coordinate": [
+        1.9936135068849654,
+        0.3894124880061396,
+        12.199999809265137
+      ],
+      "halfSize": [
+        30.436220000032336,
+        32.16996499989182,
+        7.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1300234258,
+        8,
+        [
+          [
+            2251140607,
+            0,
+            "\u89c0\u5858\u5ee3\u5834\u9f8d\u5bf6\u9152\u5bb6",
+            "15/F(MINOR PORTION) & 16/F(MAJOR PORTION), KWUN TONG PLAZA, 68 HOI YUEN ROAD, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2251806288,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "MAJOR PORTIONS OF SHOP 213, 2/F, KWUN TONG PLAZA, 68 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2251807263,
+            0,
+            "FRESH TASTE STEAM HOTPOT",
+            "PORTION B, 15/F, KWUN TONG PLAZA, 68 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2251809311,
+            0,
+            "Turfland by sensory ZERO",
+            "PORTION A OF SHOP 116, 1/F, KWUN TONG PLAZA, 68 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-03"
+          ],
+          [
+            3151800668,
+            1,
+            "Kwun Tong Friends",
+            "SHOP G26-G27, G/F, KWUN TONG PLAZA, 68 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-02"
+          ],
+          [
+            3151800899,
+            1,
+            "\u963f\u9f8d\u5bb6\u5eda\u9903\u5b50\u5e97",
+            "SHOP 29, G/F, KWUN TONG PLAZA, 68 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-22"
+          ],
+          [
+            3151803241,
+            1,
+            "\u9762\u9762\u5de5\u793e",
+            "SHOP G20-23, G/F, KWUN TONG PLAZA, 68 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-19"
+          ],
+          [
+            3151803287,
+            1,
+            "\u5ddd\u5a46\u5a46",
+            "SHOP G24-25, G/F, KWUN TONG PLAZA, 68 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234926
+        ]
+      ],
+      "coordinate": [
+        1.9936204872047638,
+        0.3894039572775918,
+        11.850000381469727
+      ],
+      "halfSize": [
+        37.09715000027791,
+        35.129669999703765,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1300234259,
+        2,
+        [
+          [
+            3151801801,
+            1,
+            "T Club",
+            "UNIT 6-9, 23/F, PROSPERITY PLACE, NO. 6 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-19"
+          ],
+          [
+            3151803490,
+            1,
+            "WING NIN NOODLE",
+            "UNIT 1, G/F, PROSPERITY PLACE, 6 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234931
+        ]
+      ],
+      "coordinate": [
+        1.9936138483034909,
+        0.38939279764130463,
+        12.0
+      ],
+      "halfSize": [
+        32.3087349999696,
+        30.777765000239015,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1300234260,
+        17,
+        [
+          [
+            2251285757,
+            0,
+            "\u6728\u5146\u5c0f\u54c1&\u97d3\u6a02",
+            "SHOP NO.303, KAI TIN SHOPPING CENTRE, KAI TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2251800961,
+            0,
+            "Pizza Hut",
+            "SHOP 230, 2/F, KAI TIN SHOPPING CENTRE, LAM TIN, KOWLOON",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2251803960,
+            0,
+            "Victoria Harbour Restaurant",
+            "SHOP NO. 301, 3/F, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2251805285,
+            0,
+            "KFC",
+            "SHOP NOS. 219A, 219B, 220 & 221, 2/F, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2251807281,
+            0,
+            "\u548c\u5473\u9910\u5ba4",
+            "STALL L-KT 1077, G/F, KAI TIN MARKET, KAI TIN SHOPPING CENTRE, KAI TIN ESTATE, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2251807494,
+            0,
+            "Fairwood Fast Food & ASAP",
+            "SHOP NO. 206, SECOND FLOOR, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, LAM TIN, KOWLOON, HONG KONG",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2251807786,
+            0,
+            "MY Cafe",
+            "SHOP NO. 207, 2/F, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2251808099,
+            0,
+            "Cha Thai",
+            "SHOP NO. 209, 2/F, KAI TIN SHOPPING CENTRE, KAI TIN EST & ON TIN EST, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2251808327,
+            0,
+            "Sushiro Lam Tin",
+            "SHOP NO. 208, 2/F, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2251809454,
+            0,
+            "DRAGON VILLE",
+            "SHOP NO. 407, 4/F., KAI TIN SHOPPING CENTRE, LAM TIN, KOWLOON",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2251809490,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 227, SECOND FLOOR, MULTI-STOREY COMMERCIAL/CAR PARK ACCOMMODATION (ALSO KNOWN AS KAI TIN SHOPPING CENTRE), KAI TIN ESTATE AND ON TIN ESTATE, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2251809986,
+            0,
+            "Milk Cafe",
+            "SHOP NO. 331, 3/F, KAI TIN SHOPPING CENTRE, KAI TIN ESTATE, LAM TIN, KOWLOON",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2251810050,
+            0,
+            "KING PRAWN RESTAURANT",
+            "SHOP NO. L332, 3/F, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2251810139,
+            0,
+            "MASTER CONGEE",
+            "SHOP NO. 105, 1/F, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2251810500,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 1A, G/F, KAI TIN SHOPPING CENTRE, 50 KAI TIN ROAD, LAM TIN, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3151802530,
+            1,
+            "\u6f6e\u9f8d\u5712",
+            "STALL L-KT 1081, G/F, KAI TIN MARKET, KAI TIN SHOPPING CENTRE, KAI TIN ESTATE, 50 KAI TIN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-07-16"
+          ],
+          [
+            3151803393,
+            1,
+            "PACIFIC COFFEE",
+            "SHOP NO. L336 AND UNIT NO. L336, 3/F, NEW WING, KAI TIN SHOPPING CENTRE, LAM TIN, KOWLOON",
+            null,
+            "2026-05-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234943
+        ]
+      ],
+      "coordinate": [
+        1.9937804442697598,
+        0.3893531162196027,
+        81.05000305175781
+      ],
+      "halfSize": [
+        71.17199999978766,
+        90.59350000042468,
+        16.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1300234261,
+        11,
+        [
+          [
+            2251172952,
+            0,
+            "McDonald's",
+            "SHOP NO. 1, LEVEL (SITE 1) 26, SCENEWAY GARDEN, NKIL 6046, 8 SCENEWAY ROAD, CHA KWO LING EAST, KOWLOON",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2251224183,
+            0,
+            "\u73cd\u59d0\u6cf0\u570b\u83dc\u9928",
+            "SHOP 34-35 OF UNIT 1, LEVEL 5, SCENEWAY PLAZA, 8 SCENEWAY ROAD, KOWLOON",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2251800800,
+            0,
+            "YOSHINOYA",
+            "UNIT 2, LEVEL 4, PORTION A, SCENEWAY PLAZA, 1-17 SCENEWAY ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2251800907,
+            0,
+            "FAIRWOOD FAST FOOD",
+            "SHOP 32 & 33, UNIT 1 ON LEVEL (SITE 1) 36 OF COMMERCIAL DEVELOPMENT, SCENEWAY GARDEN, 8 SCENEWAY ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2251801690,
+            0,
+            "\u5690\u701b\u53f0\u65e5\u6599\u7406",
+            "SHOP 822, LEVEL 5, SCENEWAY PLAZA, 8 SCENEWAY RD., LAM TIN, KOWLOON",
+            null,
+            "2026-03-02"
+          ],
+          [
+            2251804194,
+            0,
+            "Super Super",
+            "PORTION C, SHOP 301, LEVEL 3, SCENEWAY PLAZA, LAM TIN, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2251808026,
+            0,
+            "\u9f8d\u57ce\u51b0\u5ba4",
+            "SHOP NO. 59 OF UNIT 3A ON LEVEL 3 (SITE 1) 26 OF COMMERCIAL DEVELOPMENT, SCENEWAY GARDEN, 8 SCENEWAY ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-07-16"
+          ],
+          [
+            2251810430,
+            0,
+            "\u932b\u862d",
+            "UNIT 2B, LEVEL 4, SCENEWAY PLAZA, 1-17 SCENEWAY ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-08-14"
+          ],
+          [
+            3151261177,
+            1,
+            "\u805a\u5bf6\u5802",
+            "SHOP 162 OF UNIT 1 ON LEVEL 1 (SITE 1), 36 OF THE COMMERCIAL DEVELOPMENT OF SCENEWAY GARDEN, 8 SCENEWAY ROAD, KOWLOON",
+            null,
+            "2026-04-17"
+          ],
+          [
+            3151801102,
+            1,
+            "\u516b\u65b9\u96f2\u96c6\u934b\u8cbc\u6c34\u9903\u5c08\u9580\u5e97",
+            "SHOP 2J OF UNIT 2 ON LEVEL (SITE 1) 31 OF COMMERCIAL DEVELOPMENT, SCENEWAY GARDEN, NO. 8 SCENEWAY ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            3151803560,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP 2P OF UNIT 2, LEVEL (SITE 1), 31 (L4) COMMERCIAL DEVELOPMENT, SCENEWAY GARDEN, 8 SCENEWAY ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234947
+        ]
+      ],
+      "coordinate": [
+        1.9937470321059128,
+        0.38932996479750487,
+        38.0
+      ],
+      "halfSize": [
+        176.80450000008568,
+        167.55900000035763,
+        11.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1300234262,
+        3,
+        [
+          [
+            2251171083,
+            0,
+            "Cafe de Coral",
+            "SHOP 209, TAK TIN SHOPPING CENTRE, TAK TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-09"
+          ],
+          [
+            2251802301,
+            0,
+            "DELUXE CUISINE",
+            "SHOP 305, 3/F, TAK TIN SHOPPING CENTRE, TAK TIN ESTATE, LAM TIN, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2251803128,
+            0,
+            "CHARMING CAFE RESTAURANT",
+            "SHOP G2B, G/F, TAK TIN SHOPPING CENTRE, TAK TIN ESTATE, LAM TIN, KOWLOON",
+            null,
+            "2026-03-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234949
+        ]
+      ],
+      "coordinate": [
+        1.9938459302760183,
+        0.3893506414730312,
+        115.30000305175781
+      ],
+      "halfSize": [
+        34.70849999971688,
+        37.44799999985844,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1300234263,
+        1,
+        [
+          [
+            2251809278,
+            0,
+            "Caterking Dim Sum Workshop",
+            "SHOP B, G/F., EGL TOWER, NO. 83 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234950
+        ]
+      ],
+      "coordinate": [
+        1.9936012152052196,
+        0.38935142975590964,
+        10.950000762939453
+      ],
+      "halfSize": [
+        30.951710000168532,
+        29.54710500035435,
+        6.750000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1300234264,
+        1,
+        [
+          [
+            3151802619,
+            1,
+            "\u5927\u9580\u70b8\u96de\u9738",
+            "SHOP 10A, G/F, LAGUNA ARCADE PHASE 3 , LAGUNA CITY, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234954
+        ]
+      ],
+      "coordinate": [
+        1.993679281840125,
+        0.38931729095344636,
+        11.149999618530273
+      ],
+      "halfSize": [
+        84.08600000012666,
+        107.66981500014663,
+        3.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1300234265,
+        1,
+        [
+          [
+            2251078304,
+            0,
+            "\u6a02\u5bcc",
+            "G/F, 165 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234959
+        ]
+      ],
+      "coordinate": [
+        1.993641348130268,
+        0.38926573124861136,
+        5.849999904632568
+      ],
+      "halfSize": [
+        7.318055000156164,
+        2.6934999991208315,
+        1.75
+      ]
+    },
+    {
+      "attributes": [
+        1300234266,
+        3,
+        [
+          [
+            2251803429,
+            0,
+            "YOSHINOYA",
+            "SHOP FRONT PORTION & SHOP NO. 36, G/F, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-03"
+          ],
+          [
+            3151801795,
+            1,
+            "My Burger",
+            "SHOP 12 & 13, G/F, LEGEND TOWER, E-PLAZA, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-13"
+          ],
+          [
+            3151803630,
+            1,
+            "Jia Season",
+            "SHOP 11, G/F, LEGEND TOWER, E-PLAZA, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234973
+        ]
+      ],
+      "coordinate": [
+        1.993623770389562,
+        0.3893979564036251,
+        84.5
+      ],
+      "halfSize": [
+        26.177625000011176,
+        26.45215000025928,
+        45.60000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1300234267,
+        17,
+        [
+          [
+            2251804185,
+            0,
+            "Mos Burger",
+            "SHOPS 1-6, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2251807883,
+            0,
+            "KFC",
+            "SHOP 6A & 7, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2251808789,
+            0,
+            "COMFY",
+            "SHOP 25-31 & 59 - 60, G/F, E PLAZA, NO. 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-17"
+          ],
+          [
+            2251810218,
+            0,
+            "\u5ddd\u5a46\u5a46",
+            "SHOP 109, 1/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2251810254,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. 101-103 AND SHOP NOS. 105-107, LEVEL 1, E PLAZA, NO. 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-19"
+          ],
+          [
+            2251810360,
+            0,
+            "YUGU NOODLE",
+            "SHOP NOS. 110, 111 & 112, 1/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            3851811030,
+            0,
+            "HO YIN BANQUET",
+            "ALL THAT SECOND FLOOR, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-14"
+          ],
+          [
+            3151801607,
+            1,
+            "Coffee Art",
+            "SHOP 46-48, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-10"
+          ],
+          [
+            3151801838,
+            1,
+            "Starbucks Coffee",
+            "SHOP G62, G/F, E PLAZA, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-03"
+          ],
+          [
+            3151801883,
+            1,
+            "Special",
+            "SHOP G16 & G17, G/F, E PLAZA, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-14"
+          ],
+          [
+            3151801892,
+            1,
+            "\u660e\u8a18",
+            "SHOP G13A & 15, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-28"
+          ],
+          [
+            3151801917,
+            1,
+            "/",
+            "SHOP NOS. 23 & 23A, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-01"
+          ],
+          [
+            3151803056,
+            1,
+            "THE VALLEY",
+            "SHOP NO.20, G/F, E PLAZA, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-27"
+          ],
+          [
+            3151803144,
+            1,
+            "\u5357\u570b\u5c0f\u5df7",
+            "SHOP 8 & 9, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3151803269,
+            1,
+            "\u5ddd\u5473\u574a",
+            "SHOP 49-50, G/F, E PLAZA, LEGEND TOWER, NO.7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-19"
+          ],
+          [
+            3951803878,
+            1,
+            "No Record",
+            "SHOP NOS. G56, G57 & G58, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-09"
+          ],
+          [
+            3951803887,
+            1,
+            "\u934b\u7238\u7238",
+            "SHOP G52 & G53, G/F, E PLAZA, LEGEND TOWER, 7 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234975
+        ]
+      ],
+      "coordinate": [
+        1.993625603379576,
+        0.3893993629268284,
+        21.700000762939453
+      ],
+      "halfSize": [
+        37.13606500020251,
+        35.509499999694526,
+        17.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1300234268,
+        2,
+        [
+          [
+            2251810582,
+            0,
+            "\u83ef\u5ac2\u51b0\u5ba4",
+            "SHOP 2, G/F, KING PALACE PLAZA, 55 KING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-01"
+          ],
+          [
+            3151802239,
+            1,
+            "\u81fb\u5473\u51b0\u5ba4",
+            "SHOP 3, G/F, KING PALACE PLAZA, 55 KING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234982
+        ]
+      ],
+      "coordinate": [
+        1.9936121138865268,
+        0.38935334299604885,
+        11.5
+      ],
+      "halfSize": [
+        31.030499999877065,
+        29.4300000006333,
+        7.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1300234269,
+        1,
+        [
+          [
+            2251803313,
+            0,
+            "La Maison De L'orient (Kwun Tong)",
+            "1/F (PORTION), 84 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234984
+        ]
+      ],
+      "coordinate": [
+        1.9935879593168957,
+        0.38934742152966945,
+        12.0
+      ],
+      "halfSize": [
+        25.425214999821037,
+        22.45460500009358,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1300234270,
+        1,
+        [
+          [
+            3851810921,
+            0,
+            "Lo Fung Culture Coffee Shop",
+            "G/F, KWUN TONG SWIMMING POOL RESTAURANT, 2 TSUI PING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234989
+        ]
+      ],
+      "coordinate": [
+        1.9936893853840536,
+        0.38939543778229224,
+        12.0
+      ],
+      "halfSize": [
+        95.49460999993607,
+        66.0267549995333,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1300234271,
+        1,
+        [
+          [
+            2251810591,
+            0,
+            "JJ BAR AND RESTAURANT LIMITED",
+            "PORTION B ON 11TH FLOOR OF TG PLACE, NO. 10 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234996
+        ]
+      ],
+      "coordinate": [
+        1.9936168468595712,
+        0.389389015201144,
+        74.9000015258789
+      ],
+      "halfSize": [
+        27.4603650001809,
+        26.03097500000149,
+        55.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1300234272,
+        5,
+        [
+          [
+            2251805036,
+            0,
+            "Jeon Po Meat Shop",
+            "FLAT B2, 1/F, NO. 10 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2251805665,
+            0,
+            "Cafe de Coral",
+            "SHOP 1 ON GROUND FLOOR, TG PLACE, NO. 10 SHING YIP STREET, KWUN TONG, KOWLOON, HONG KONG",
+            null,
+            "2026-03-23"
+          ],
+          [
+            2251808080,
+            0,
+            "THREE MINNOWS",
+            "SHOP B1, 1/F, TG PLACE, 10 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2251808266,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP C, 1/F, TG PLACE, 10 SHING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-08"
+          ],
+          [
+            3151802309,
+            1,
+            "\u65b0\u54e5\u5eda\u574a",
+            "SHOP A, 1/F, TG PLACE, NO. 10 SHING YIP STREET, KOWLOON",
+            null,
+            "2027-02-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234997
+        ]
+      ],
+      "coordinate": [
+        1.9936171528619562,
+        0.3893886424396357,
+        11.949999809265137
+      ],
+      "halfSize": [
+        30.916239999700338,
+        29.476365000009537,
+        7.550000190734863
+      ]
+    }
+  ]
+}

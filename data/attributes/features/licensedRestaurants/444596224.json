@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        444596224,
+        2,
+        [
+          [
+            2293800921,
+            0,
+            "FAIRWOOD FAST  FOOD",
+            "SHOP NO. 108, FIRST FLOOR, PO TIN SHOPPING CENTRE, PO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-13"
+          ],
+          [
+            2293807241,
+            0,
+            "\u7b11\u53e3\u5e38\u958b",
+            "SHOP STALL NO.8,9,49,50, G/F, PO TIN MARKET, PO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          444596230
+        ]
+      ],
+      "coordinate": [
+        1.98909335585551,
+        0.39111908320835537,
+        23.44999885559082
+      ],
+      "halfSize": [
+        30.21875,
+        39.125,
+        9.649999618530273
+      ]
+    }
+  ]
+}

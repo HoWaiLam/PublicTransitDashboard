@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1033895936,
+        2,
+        [
+          [
+            2962800278,
+            4,
+            "7-ELEVEN",
+            "UG/F, SHOP NO. UG/02 (PORTION B), OLYMPIAN CITY 1, MONG KOK, KOWLOON",
+            null,
+            "2026-08-03"
+          ],
+          [
+            3662800751,
+            5,
+            "Market Place",
+            "SHOP NO. G02-03 (PORTION A), G/F, OLYMPIAN CITY ONE, NO. 11 HOI FAI ROAD, KOWLOON",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1033896267
+        ]
+      ],
+      "coordinate": [
+        1.9924402612331853,
+        0.38954270454456946,
+        25.899999618530273
+      ],
+      "halfSize": [
+        89.75104000000283,
+        168.4642850002274,
+        22.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1033895937,
+        1,
+        [
+          [
+            3662801091,
+            5,
+            "fusion by PARKnSHOP",
+            "PORTIONS OF UNIT 2, LEVEL 2, THE LONG BEACH, 8 HOI FAI ROAD, TAI KOK TSUI, KOWLOON",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1033896268
+        ]
+      ],
+      "coordinate": [
+        1.9923932525370551,
+        0.38954975595957764,
+        18.05000114440918
+      ],
+      "halfSize": [
+        61.084000000264496,
+        87.74399999994785,
+        11.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1033895938,
+        1,
+        [
+          [
+            2962804720,
+            4,
+            "No Record",
+            "UG/F (PORTION), ONE SILVERSEA, 18 HOI FAI ROAD, TAI KOK TSUI, MONG KOK, KOWLOON",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1033896270
+        ]
+      ],
+      "coordinate": [
+        1.9923963622312932,
+        0.3895173270278892,
+        28.5
+      ],
+      "halfSize": [
+        72.25890500005335,
+        36.79825999960303,
+        23.299999237060547
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1157627904,
+        3,
+        [
+          [
+            2915801541,
+            4,
+            "Fusion",
+            "STALL NO. 8, L2, RBL 1051, HONG KONG PARKVIEW, TAI TAM RESERVOIR ROAD, TAI TAM, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2915801611,
+            4,
+            "FUSION",
+            "STALL NO. 5 , L2, RBL 1051, HONG KONG PARKVIEW, TAI TAM RESERVOIR ROAD, TAI TAM, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-19"
+          ],
+          [
+            3615800386,
+            5,
+            "Fusion",
+            "STALL NO. 6, 7 & PORTIONS OF L2, RBL 1051, HONG KONG PARKVIEW, TAI TAM RESERVOIR ROAD, TAI TAM, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1157627904
+        ]
+      ],
+      "coordinate": [
+        1.993158783443878,
+        0.38846783308429883,
+        288.45001220703125
+      ],
+      "halfSize": [
+        136.91149999992922,
+        106.22099999990314,
+        18.449996948242188
+      ]
+    },
+    {
+      "attributes": [
+        1157627905,
+        1,
+        [
+          [
+            2915804753,
+            4,
+            "COCONUTS",
+            "G/F., WEST KIOSK, DEEP WATER BAY BEACH, ISLAND ROAD, SOUTHERN, HONG KONG",
+            null,
+            "2026-09-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1157627937
+        ]
+      ],
+      "coordinate": [
+        1.992941639211315,
+        0.38825115420647416,
+        4.599999904632568
+      ],
+      "halfSize": [
+        10.63799999980256,
+        9.901499999687076,
+        1.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1157627906,
+        1,
+        [
+          [
+            2915805376,
+            4,
+            "Kitty Kitchen",
+            "KIOSK, WONG NAI CHUNG RESERVOIR PARK, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1157627984
+        ]
+      ],
+      "coordinate": [
+        1.9930833457101047,
+        0.38846127327783847,
+        228.04998779296875
+      ],
+      "halfSize": [
+        9.465884999837726,
+        8.614535000175238,
+        5.349998474121094
+      ]
+    }
+  ]
+}

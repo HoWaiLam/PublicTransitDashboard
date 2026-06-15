@@ -1,0 +1,152 @@
+{
+  "features": [
+    {
+      "attributes": [
+        360710144,
+        3,
+        [
+          [
+            2517000023,
+            3,
+            "Cathay Pacific Catering Services (H.K.) Ltd.",
+            "NORTH EAST CORNER, 2/F., H. K. INT'L AIRPORT, 11 CATERING ROAD EAST, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2917000249,
+            4,
+            "Cathay Pacific Catering  Services (H.K.) Ltd.",
+            "G/F, 1/F & 2/F, H.K. INT'L AIRPORT, 11 CATERING ROAD EAST, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2917802627,
+            4,
+            "Cathay Pacific Catering Services (H.K.) Limited",
+            "PORTION OF UG FLOOR AND PORTION OF 1ST FLOOR OF PHASE 2 FACILITY, HONG KONG INTERNATIONAL AIRPORT, 11 CATERING ROAD EAST, LANTAU, HONG KONG",
+            null,
+            "2026-09-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          360710175
+        ]
+      ],
+      "coordinate": [
+        1.988521054959179,
+        0.38926927555194796,
+        14.700000762939453
+      ],
+      "halfSize": [
+        89.84599999990314,
+        86.24400000087917,
+        8.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        360710145,
+        1,
+        [
+          [
+            2917000300,
+            4,
+            "Gate Gourmet Hong Kong Limited",
+            "PORTION OF BASEMENT AND G/F, 10 CATERING ROAD WEST, H.K. INT'L AIRPORT, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          360710180
+        ]
+      ],
+      "coordinate": [
+        1.988481282637355,
+        0.3892719406353202,
+        11.5
+      ],
+      "halfSize": [
+        44.83499999996275,
+        38.9320000000298,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        360710146,
+        2,
+        [
+          [
+            2517000050,
+            3,
+            "LSG Sky Chefs Hong Kong Limited",
+            "2/F. (PORTION), 6 CATERING ROAD WEST, H.K. INT'L AIRPORT, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2917000294,
+            4,
+            "LSG Sky Chefs Hong Kong Limited",
+            "G/F (PORTION) & 1/F (PORTION), 6 CATERING ROAD WEST, HONG KONG INT'L AIRPORT, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          360710211
+        ]
+      ],
+      "coordinate": [
+        1.9884953201437099,
+        0.38923662597300596,
+        11.399999618530273
+      ],
+      "halfSize": [
+        60.8874999997206,
+        60.90099999960512,
+        5.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        360710147,
+        1,
+        [
+          [
+            2817000017,
+            2,
+            "Super Terminal 1",
+            "PORTION OF G/F & 2/F, HACTL SUPER TERMINAL 1, H.K. INT'L AIRPORT, 9 CHUN WAN ROAD, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          360710219
+        ]
+      ],
+      "coordinate": [
+        1.9884351473436555,
+        0.3891896906090123,
+        22.899999618530273
+      ],
+      "halfSize": [
+        139.285000000149,
+        167.81450000032783,
+        16.100000381469727
+      ]
+    }
+  ]
+}

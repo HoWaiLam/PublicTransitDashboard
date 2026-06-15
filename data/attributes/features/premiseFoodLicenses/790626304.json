@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        790626304,
+        2,
+        [
+          [
+            2994805346,
+            4,
+            "\u6851\u540d\u98df\u5802",
+            "SHOP NO. G12, G/F, PALM SPRINGS PLAZA, PALM SPRINGS, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3694802060,
+            5,
+            "fusion",
+            "PORTIONS OF SHOP NO. G20, GROUND FLOOR, PALM SPRINGS COMMERCIAL CENTRE, WO SHANG WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          790626524
+        ]
+      ],
+      "coordinate": [
+        1.9906195890228202,
+        0.3924623350399384,
+        9.550000190734863
+      ],
+      "halfSize": [
+        64.27621500007808,
+        26.984749999828637,
+        4.050000190734863
+      ]
+    }
+  ]
+}

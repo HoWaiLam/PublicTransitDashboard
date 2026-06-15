@@ -1,0 +1,11 @@
+{
+  "name": "buildingOrdinance",
+  "label": "Buildings Ordinance",
+  "groupLayerSymbologies": 1,
+  "layers": [
+    "bsd24Layer.json",
+    "bsd26Layer.json",
+    "bsd26ALayer.json",
+    "bsd28Layer.json"
+  ]
+}

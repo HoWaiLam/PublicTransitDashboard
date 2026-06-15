@@ -1,0 +1,2887 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1233125376,
+        1,
+        [
+          [
+            2951815210,
+            4,
+            "Bento Catering",
+            "MAJOR PORTION OF WORKSHOP 09, 17/F, KWONG SANG HONG CENTRE, 151-153 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125376
+        ]
+      ],
+      "coordinate": [
+        1.9934885824951787,
+        0.3894193809596833,
+        43.75
+      ],
+      "halfSize": [
+        32.51670500030741,
+        32.46218499913812,
+        26.25
+      ]
+    },
+    {
+      "attributes": [
+        1233125377,
+        2,
+        [
+          [
+            2951803967,
+            4,
+            "No Record",
+            "PORTION OF FLAT B, 12/F., GEE LOK IND. BLDG., 34 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2951809734,
+            4,
+            "FEVER FOOD",
+            "PORTION OF UNIT C, 8/F, GEE LOK INDUSTRIAL BUILDING, NO. 34 HUNG TO ROAD, KOWLOON",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125377
+        ]
+      ],
+      "coordinate": [
+        1.9935191838946502,
+        0.3894210559096896,
+        34.79999923706055
+      ],
+      "halfSize": [
+        20.24551000026986,
+        19.009304999373853,
+        15.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1233125378,
+        1,
+        [
+          [
+            2951812318,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION OF ROOM 02, 11/F, HUNG TAT INDUSTRIAL BUILDING, 43 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125382
+        ]
+      ],
+      "coordinate": [
+        1.9935369892719457,
+        0.38941806859238465,
+        34.70000076293945
+      ],
+      "halfSize": [
+        19.18432499980554,
+        19.178085000254214,
+        16.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1233125379,
+        10,
+        [
+          [
+            2951815663,
+            4,
+            "JF Kitchen",
+            "PORTION A OF UNIT C, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2951815672,
+            4,
+            "\u751c\u8c6c\u8c6c",
+            "PORTION C OF UNIT C, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2951815681,
+            4,
+            "alittlegift_bakery",
+            "PORTION D OF UNIT C, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2951815690,
+            4,
+            "\u82b1\u592a\u72fc",
+            "PORTION B OF UNIT C, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2951816611,
+            4,
+            "\u9824\u548c\u5bb6\u9eb5\u9928",
+            "PORTION A5 OF UNIT A, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2951816949,
+            4,
+            "\u73cd\u610f",
+            "PORTION A1 OF UNIT A, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2951816958,
+            4,
+            "\u4f55\u8ecaGo",
+            "PORTION A2 OF UNIT A, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2951816976,
+            4,
+            "Sublime",
+            "PORTION A3 OF UNIT A, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2951816994,
+            4,
+            "Baking Ratios",
+            "PORTION A6 OF UNIT A, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2951817003,
+            4,
+            "\u5169\u56bf\u98ef",
+            "PORTION A8 OF UNIT A, 11/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125384
+        ]
+      ],
+      "coordinate": [
+        1.9935783316924813,
+        0.3894162200360997,
+        36.849998474121094
+      ],
+      "halfSize": [
+        20.403619999997318,
+        18.803384999744594,
+        14.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125380,
+        2,
+        [
+          [
+            2951806258,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F, SOUTH ASIA COMMERCIAL CENTRE, 64 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-26"
+          ],
+          [
+            4951821828,
+            4,
+            "\u7db2\u9b5a\u96fb\u7af6(\u89c0\u5858)",
+            "PORTION A OF UNIT B, 2/F, SOUTH ASIA COMMERCIAL CENTRE, 64 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125396
+        ]
+      ],
+      "coordinate": [
+        1.9935752094531827,
+        0.3894103172076826,
+        27.600000381469727
+      ],
+      "halfSize": [
+        23.50900000007823,
+        25.848500000312924,
+        23.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1233125381,
+        1,
+        [
+          [
+            2951808892,
+            4,
+            "ADET PACIFIC INDUSTRIAL LIMITED",
+            "FLAT 2, 23/F, TREASURE CENTRE, 42 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125399
+        ]
+      ],
+      "coordinate": [
+        1.9935318758075113,
+        0.3894108180349277,
+        59.04999923706055
+      ],
+      "halfSize": [
+        17.427709999959916,
+        16.563764999620616,
+        50.14999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1233125382,
+        4,
+        [
+          [
+            2951805848,
+            4,
+            "COILS ELECTRONIC CO LIMITED",
+            "WORKSHOP A & B, 11/F, HING WIN FACTORY BUILDING, 110 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2951815362,
+            4,
+            "COILS ELECTRONIC CO LIMITED",
+            "3/F, HING WIN FACTORY BUILDING, 110 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2951815706,
+            4,
+            "DS Studio",
+            "UNIT E, 12/F, HING WIN FACTORY BUILDING, 110 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2951817836,
+            4,
+            "COILS ELECTRONIC CO LIMITED",
+            "WORKSHOP G-J, 9/F, HING WIN FACTORY BUILDING, 110 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125400
+        ]
+      ],
+      "coordinate": [
+        1.9935842252117915,
+        0.3894094263348648,
+        28.049999237060547
+      ],
+      "halfSize": [
+        25.08551000012085,
+        22.951004999689758,
+        23.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1233125383,
+        7,
+        [
+          [
+            2151018644,
+            1,
+            "\u98ef\u5802",
+            "SHOP NO.1E, G/F(PORT.), CENTURY CENTRE, 44-46 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2551057922,
+            3,
+            "\u98ef\u5802",
+            "SHOP NO.1E, G/F, CENTURY CENTRE, 44-46 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2551800256,
+            3,
+            "\u5143\u6717\u51b0\u5ba4",
+            "WORKSHOP 3 OF UNIT 3 ON GROUND FLOOR, CENTURY CENTRE, NOS. 44-46 HUNG TO ROAD, KOWLOON",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2951800755,
+            4,
+            "7-ELEVEN",
+            "SHOP NO. 1D (PORTION B), G/F, CENTURY CENTRE, 44-46 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2951815025,
+            4,
+            "Sun Shop",
+            "SHOP 3A (PORTION), G/F, CENTURY CENTRE, 44-46 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2951819887,
+            4,
+            "TEA & COFFEE",
+            "UNIT 1A3, G/F, CENTURY CENTRE, 44 & 46 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-29"
+          ],
+          [
+            4951821934,
+            4,
+            "SAI GON. 79",
+            "SHOP 1A4, G/F, CENTURY CENTRE, NOS. 44-46 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125404
+        ]
+      ],
+      "coordinate": [
+        1.9935380582813458,
+        0.38940342037933406,
+        27.649999618530273
+      ],
+      "halfSize": [
+        51.92335500009358,
+        44.7900649998337,
+        23.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125384,
+        4,
+        [
+          [
+            2951808227,
+            4,
+            "Sweet Factory",
+            "ROOM B, 9/F., TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2951813074,
+            4,
+            "Yingdong Tempeh Limited",
+            "UNIT G, 8/F., TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2951813807,
+            4,
+            "\u5b8f\u5149\u98df\u7269\u88fd\u9020\u5ee0",
+            "FLAT E, 7/F, TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2951817553,
+            4,
+            "LENZYCAKE",
+            "ROOM F, 12/F, TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125406
+        ]
+      ],
+      "coordinate": [
+        1.9935708133325427,
+        0.3894064896753672,
+        35.599998474121094
+      ],
+      "halfSize": [
+        21.514750000089407,
+        24.376744999550283,
+        15.999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1233125385,
+        1,
+        [
+          [
+            2951282418,
+            4,
+            "KOWLOON FLOUR MILLS ENTERPRISES LIMITED",
+            "G/F-8/F, 161 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125407
+        ]
+      ],
+      "coordinate": [
+        1.9934979726935245,
+        0.38940454462144414,
+        18.399999618530273
+      ],
+      "halfSize": [
+        29.710734999738634,
+        32.861310000531375,
+        14.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125386,
+        45,
+        [
+          [
+            2551140804,
+            3,
+            "FAMOUS CANTEEN",
+            "SHOP NO.5, G/F, BLOCK A, HOI LUEN IND. CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2551800539,
+            3,
+            "No Record",
+            "UNIT 11, 2/F., BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2551800645,
+            3,
+            "No Record",
+            "UNIT 6C & 6D, G/F, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2951126080,
+            4,
+            "\u5e73\u8a18",
+            "UNIT 1, 12/F, BLOCK A, HOI LUEN IND'L CENTRE, 55 HOI YUEN RD., KWUN TONG, KOWLOON",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2951239070,
+            4,
+            "Mega Space",
+            "WORKSHOP UNIT 27, 4/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2951300857,
+            4,
+            "\u56db\u5ddd\u98a8\u5473",
+            "ROOM 18, 8/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2951802797,
+            4,
+            "Luna Holdings Limited",
+            "UNIT 22, 14/F., BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2951804137,
+            4,
+            "I SEE I SEE LIMITED",
+            "UNIT 5 (MAJOR PORTION), 10/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, NO.55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2951804720,
+            4,
+            "KING & QUEENS SWEET FACTORY LIMITED",
+            "ROOM 18, 12/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2951806498,
+            4,
+            "CareEZ Senior Deli",
+            "MAJOR PORTION OF FLAT 25, 7/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2951806762,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 29, 3/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-01"
+          ],
+          [
+            2951807376,
+            4,
+            "\u91d1\u6643\u98df\u54c1\u88fd\u9020\u5ee0",
+            "ROOM 21, 9/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-12"
+          ],
+          [
+            2951807710,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 319-320, 3/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2951808087,
+            4,
+            "Point 5 The Salty LAB",
+            "UNIT 19, 8/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2951808157,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 12, 2/F., BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2951808537,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 326-327, 3/F., BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2951808795,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 108, 1/F., BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2951809521,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 304, 3/F., BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2951809895,
+            4,
+            "/",
+            "WORKSHOP UNIT 8, 8/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-10"
+          ],
+          [
+            2951810978,
+            4,
+            "NARROW ALLEY HK",
+            "WORKSHOP 18, 5/F., BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2951811102,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 3A, 3/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-24"
+          ],
+          [
+            2951811421,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 510-511, 5/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2951811810,
+            4,
+            "OHLALAGOUT LIMITED",
+            "UNIT 06, 12/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2951811962,
+            4,
+            "S TWINKLE BAKERY",
+            "FLAT 21, 8/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2951812220,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 29, 2/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2951812974,
+            4,
+            "No Record",
+            "WORKSHOP UNIT 29 ON 4TH FLOOR, HOI LUEN INDUSTRIAL CENTRE, NO. 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2951813409,
+            4,
+            "Trademart Ltd.",
+            "PORTION OF FLAT 3, 12/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2951813524,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 202 & 203, 2/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2951814642,
+            4,
+            "BAZI FOOD",
+            "PORTION OF FLAT 11, 5/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2951815627,
+            4,
+            "Break a Knife",
+            "WORKSHOP UNIT NO. 4 ON 9/F OF BLOCK A, HOI LUEN INDUSTRIAL CENTRE, NO. 55 HOI YUEN ROAD, KOWLOON",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2951816231,
+            4,
+            "SICHUAN STYLE SNACK",
+            "ROOM 8, 5/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2951816985,
+            4,
+            "Horizon",
+            "WORKSHOP A7, 7/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2951817146,
+            4,
+            "SKY DELIGHT GROUP",
+            "MAJOR PORTION OF WORKSHOP 33 & WORKSHOP 34, 4/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2951817216,
+            4,
+            "Twenty Nine Cake Studio",
+            "PORTION OF WORKSHOP UNIT 6, 7/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2951817474,
+            4,
+            "\u521d\u7de3",
+            "UNIT 602A, 6/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2951817809,
+            4,
+            "37.cake",
+            "WORKSHOP UNIT NO. 12B, 5/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, NO. 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2951818006,
+            4,
+            "DAY DAY CHEF",
+            "PORTION OF ROOM 403, 4/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2951818389,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 321 TO 325, 3/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2951818413,
+            4,
+            "(NO RECORD FOUND)",
+            "WORKSHOP 16, 4/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, NO. 55 HOI YUEN ROAD , KWUN TONG, KOWLOON",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2951819106,
+            4,
+            "(NO RECORD FOUND)",
+            "WORKSHOP 3A & WORKSHOP 10, 4/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-15"
+          ],
+          [
+            2951819294,
+            4,
+            "LEGUME PATISSERIE",
+            "UNIT 15, 14/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-27"
+          ],
+          [
+            2951819337,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 30, 3/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2951819373,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 30, 2/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-03"
+          ],
+          [
+            2951819753,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT 213, 2/F, BLOCK A, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3251800669,
+            6,
+            "I See I See Limited",
+            "UNIT NO.5 (MINOR PORTION), 10/F, BLOCK B, HOI LUEN INDUSTRIAL CENTRE, 55 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125409
+        ]
+      ],
+      "coordinate": [
+        1.9935829185259546,
+        0.3893963148053651,
+        27.200000762939453
+      ],
+      "halfSize": [
+        68.70431500021368,
+        73.47056999988854,
+        23.5
+      ]
+    },
+    {
+      "attributes": [
+        1233125387,
+        1,
+        [
+          [
+            2951805538,
+            4,
+            "NATURAL SPRINGS AUSTRALIA (HK) LIMITED",
+            "PORTION OF G/F, MAI HONG INDUSTRIAL BUILDING, 160 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125415
+        ]
+      ],
+      "coordinate": [
+        1.9935151560289992,
+        0.38939993606247525,
+        27.399999618530273
+      ],
+      "halfSize": [
+        18.185905000194907,
+        16.88384999986738,
+        23.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125388,
+        2,
+        [
+          [
+            2951809503,
+            4,
+            "\u516b\u6708\u8336\u6a94",
+            "WORKSHOP NO. 2, G/F, FREE TRADE CENTRE, 49 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2951817997,
+            4,
+            "TSUI FUNG",
+            "WORKSHOP 1, G/F, FREE TRADE CENTRE, 49 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125423
+        ]
+      ],
+      "coordinate": [
+        1.9935412349893142,
+        0.38939614087199215,
+        11.5
+      ],
+      "halfSize": [
+        14.536579999607056,
+        15.057254999876022,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125389,
+        1,
+        [
+          [
+            2951815788,
+            4,
+            "LEGEND INTERNATIONAL FOOD LIMITED",
+            "G/F, WANG CHEUNG INDUSTRIAL BUILDING, 168 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125426
+        ]
+      ],
+      "coordinate": [
+        1.9935216660496229,
+        0.38939246332910726,
+        25.94999885559082
+      ],
+      "halfSize": [
+        18.763220000080764,
+        17.491850000806153,
+        22.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125390,
+        1,
+        [
+          [
+            2551022687,
+            3,
+            "\u8c50\u696d",
+            "1/F, BLOCK A, FUNG YIP IND. BUILDING, 170 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125429
+        ]
+      ],
+      "coordinate": [
+        1.9935232716013316,
+        0.3893906053628985,
+        27.600000381469727
+      ],
+      "halfSize": [
+        18.91681500012055,
+        17.557740000076592,
+        23.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1233125391,
+        6,
+        [
+          [
+            2551022438,
+            3,
+            "\u958b\u9910\u9054\u4eba (Bagot Restaurant)",
+            "FLAT B, 1/F., 47 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2551801152,
+            3,
+            "\u8336\u8a18",
+            "WORKSHOP A ON GROUND FLOOR, HIGH WIN FACTORY BUILDING, NO. 47 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2951805556,
+            4,
+            "\u7cbe\u9032\u8373\u5236\u54c1\u516c\u53f8",
+            "UNIT J, 6/F, HIGH WIN FACTORY BUILDING, NO.47 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2951806850,
+            4,
+            "EIGHT JOY",
+            "SHOP D, 6/F, HIGH WIN FACTORY BUILDING, NO.47, HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2951809804,
+            4,
+            "LITTLE SWEET",
+            "UNIT B, 13/F, HIGH WIN FACTORY BUILDING, NO. 47 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2951810419,
+            4,
+            "Gerine Workshop",
+            "WORKSHOP I, 14/F., HIGH WIN FACTORY BUILDING, 47 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125430
+        ]
+      ],
+      "coordinate": [
+        1.993576460022299,
+        0.3893863114390511,
+        11.84999942779541
+      ],
+      "halfSize": [
+        35.9507999997586,
+        40.115015000104904,
+        7.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125392,
+        5,
+        [
+          [
+            2951807039,
+            4,
+            "SKY FOOD",
+            "UNIT C, 8/F, CANTAKE FACTORY BUILDING, NO. 172 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2951808999,
+            4,
+            "SAVOUR LIFE",
+            "UNIT B, 10/F, CANTAKE FACTORY BUILDING, 172 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2951810598,
+            4,
+            "Dream Cake Limited",
+            "FLAT C, 4/F., CANTAKE FACTORY BUILDING, NO. 172 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2951815964,
+            4,
+            "GoodLife Chicken",
+            "PORTION A OF UNIT B, 12/F, CANTAKE FACTORY BUILDING, 172 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2951815973,
+            4,
+            "BARBECUE FOR FRIENDS",
+            "PORTION B OF UNIT B, 12/F, CANTAKE FACTORY BUILDING, 172 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125431
+        ]
+      ],
+      "coordinate": [
+        1.99352488090855,
+        0.38938873606652963,
+        26.399999618530273
+      ],
+      "halfSize": [
+        19.185710000339895,
+        17.89507499989122,
+        22.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125393,
+        1,
+        [
+          [
+            2951809770,
+            4,
+            "PANTRY",
+            "PORTION OF FLAT A, 11/F, PANG KWONG BUILDING, 59 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125440
+        ]
+      ],
+      "coordinate": [
+        1.993566545224144,
+        0.3893859032239633,
+        35.349998474121094
+      ],
+      "halfSize": [
+        12.990470000077039,
+        14.0882449997589,
+        16.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1233125394,
+        4,
+        [
+          [
+            2951800630,
+            4,
+            "No Record",
+            "UNIT A, 9/F, SEAPOWER INDUSTRIAL CENTRE, NO. 177 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-01"
+          ],
+          [
+            2951816356,
+            4,
+            "(NO RECORD FOUND)",
+            "UNIT B2-2, 8/F., SEAPOWER INDUSTRIAL CENTRE, NO. 177 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2951817410,
+            4,
+            "NANOTCM LIMITED",
+            "ROOM B1, 6/F, SEAPOWER INDUSTRIAL CENTRE, 177 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-17"
+          ],
+          [
+            4951821697,
+            4,
+            "(NO RECORD FOUND)",
+            "UNIT B, 9/F., SEAPOWER INDUSTRIAL CENTRE, 177 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125444
+        ]
+      ],
+      "coordinate": [
+        1.9935198204332798,
+        0.38938089526494163,
+        32.349998474121094
+      ],
+      "halfSize": [
+        32.20608500018716,
+        31.698645000346005,
+        13.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125395,
+        6,
+        [
+          [
+            2551801107,
+            3,
+            "\u5883",
+            "WORKSHOP 509, HEWLETT CENTRE, 54 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2551801329,
+            3,
+            "NY KITCHEN HUT",
+            "WORKSHOP NO. 3, G/F, HEWLETT CENTRE, 54 HOI YUEN ROAD, KOWLOON",
+            null,
+            "2026-12-13"
+          ],
+          [
+            2951814208,
+            4,
+            "\u91d1\u5510\u98df\u54c1",
+            "UNIT 601, 6/F, HEWLETT CENTRE, 52-54 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2951815539,
+            4,
+            "R&T Life Concept Ltd.",
+            "PORTION OF UNIT 10, 16/F, HEWLETT CENTRE, NO. 54 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2951815779,
+            4,
+            "HIMAKASHI",
+            "WORKSHOP NO. 9, 6/F, HEWLETT CENTRE, NOS. 52- 54 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-22"
+          ],
+          [
+            2951819276,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP 06-07, G/F, HEWLETT CENTRE, 52-54 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125450
+        ]
+      ],
+      "coordinate": [
+        1.9935863875636364,
+        0.3893749038100198,
+        27.649999618530273
+      ],
+      "halfSize": [
+        41.92858499987051,
+        42.20683499984443,
+        23.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125396,
+        1,
+        [
+          [
+            2951812655,
+            4,
+            "(NO RECORD FOUND)",
+            "ROOM B, 2/F, HUNG FUK FACTORY BUILDING, 60 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125451
+        ]
+      ],
+      "coordinate": [
+        1.9935619842932322,
+        0.38937674786146076,
+        30.899999618530273
+      ],
+      "halfSize": [
+        25.265290000010282,
+        22.835994999855757,
+        22.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1233125397,
+        2,
+        [
+          [
+            2951805228,
+            4,
+            "\u975a\u6e6f\u5de5\u623f\u98f2\u98df\u6709\u9650\u516c\u53f8",
+            "FLAT C, 12/F, FU HOP FACTORY BUILDING, 209-211 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2951806683,
+            4,
+            "WORLD NICE",
+            "MAJOR PORTION OF FLAT B, 12/F, FU HOP FACTORY BUILDING, 209-211 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125453
+        ]
+      ],
+      "coordinate": [
+        1.9935520187396056,
+        0.3893744405649891,
+        28.200000762939453
+      ],
+      "halfSize": [
+        25.697825000155717,
+        24.4536799993366,
+        24.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1233125398,
+        1,
+        [
+          [
+            2551022775,
+            3,
+            "\u65b0\u661f",
+            "TOP FLOOR (PORTION), 64 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125456
+        ]
+      ],
+      "coordinate": [
+        1.9935662187854934,
+        0.38937183540816545,
+        13.850000381469727
+      ],
+      "halfSize": [
+        24.688075000420213,
+        25.313574999570847,
+        9.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125399,
+        1,
+        [
+          [
+            2551801383,
+            3,
+            "Fatty Hainanese Chicken (Hoi Yuen) Limited",
+            "WORKSHOP 02, G/F, LEMMI CENTRE, 50 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125457
+        ]
+      ],
+      "coordinate": [
+        1.9935790267594788,
+        0.38937239243033744,
+        40.75
+      ],
+      "halfSize": [
+        19.615289999637753,
+        21.028129999525845,
+        36.75
+      ]
+    },
+    {
+      "attributes": [
+        1233125400,
+        4,
+        [
+          [
+            2551238754,
+            3,
+            "\u86cb\u64bb\u738b",
+            "UNIT NO.1, G/F, WESTLEY SQUARE, 48 HOI YUEN RD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2551800575,
+            3,
+            "\u73e0\u8a18\u51b0\u5ba4\u6709\u9650\u516c\u53f8\u98df\u5802",
+            "SHOP 2, G/F, WESTLEY SQUARE, 46-48 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2551801046,
+            3,
+            "\u4e00\u8d77\u98df\u5802",
+            "UNIT 5, G/F, WESTLEY SQUARE, NO. 48 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2551801356,
+            3,
+            "RELAX CAFE",
+            "SHOP 6, G/F, WESTLEY SQUARE, 46-48 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125462
+        ]
+      ],
+      "coordinate": [
+        1.9935714405336458,
+        0.3893659061366656,
+        42.650001525878906
+      ],
+      "halfSize": [
+        32.61873500002548,
+        28.387104999274015,
+        38.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1233125401,
+        27,
+        [
+          [
+            2551021879,
+            3,
+            "\u7f8e\u5fb7",
+            "M/F, 221 WAI YIP ST, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2951805112,
+            4,
+            "Sushi True Express",
+            "FLAT B, 8/F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2951813968,
+            4,
+            "\u9999\u6e2f\u6881\u57f9\u57fa\u85e5\u5ee0\u516c\u53f8",
+            "PORTION 1, UNIT E, 2/F, MAI TAK INDUSTRIAL BUILDING, NO. 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2951815016,
+            4,
+            "TASTE OF JAPAN GROUP",
+            "PORTION OF WORKSHOP C, 4/F., MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2951817687,
+            4,
+            "Nice Food Factory Limited",
+            "WORKSHOP C, 2/F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2951818042,
+            4,
+            "Creo By Brentwood",
+            "PORTION A OF FLAT B, 4/F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2951818200,
+            4,
+            "(NO RECORD FOUND)",
+            "UNIT B, 9/F., MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2951818468,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION R5, R6 OF FLAT E, 7/F., MAI TAK INDUSTRIAL BUILDING, NO. 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2951818477,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION R10, R11, R12, R13 OF FLAT E, 7/F., MAI TAK INDUSTRIAL BUILDING, NO. 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2951818486,
+            4,
+            "(NO REOORD FOUND)",
+            "PORTION R1, R2, R3 OF FLAT E, 7/F., MAI TAK INDUSTRIAL BUILDING, NO. 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2951818495,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION R7, R8, R9 OF FLAT E, 7/F., MAI TAK INDUSTRIAL BUILDING, NO. 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2951818547,
+            4,
+            "\u56db\u5b63\u679c\u8cbf\u6613\u6709\u9650\u516c\u53f8",
+            "FACTORY UNIT A ON 4TH FLOOR, MAI TAK INDUSTRIAL BUILDING, NO. 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2951819911,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT P, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-03"
+          ],
+          [
+            2951819920,
+            4,
+            "KANGBAINIAN INTERNATIONAL COMPANY LIMITED",
+            "FLAT F, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-03"
+          ],
+          [
+            2951819948,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT L, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2951819975,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT V, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2951819993,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT D, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2951820049,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT B, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-08"
+          ],
+          [
+            4951821341,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT N, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-01"
+          ],
+          [
+            4951821369,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT H, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-08"
+          ],
+          [
+            4951821615,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT J, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-12"
+          ],
+          [
+            4951821642,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT W, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-20"
+          ],
+          [
+            4951821651,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT T, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-20"
+          ],
+          [
+            4951821703,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT Y, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-31"
+          ],
+          [
+            4951821712,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT I, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-31"
+          ],
+          [
+            4951821721,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT X, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-31"
+          ],
+          [
+            4951821749,
+            4,
+            "(NO RECORD FOUND)",
+            "FLAT R, 10/F, BLOCK F, MAI TAK INDUSTRIAL BUILDING, 221 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125463
+        ]
+      ],
+      "coordinate": [
+        1.9935687248414884,
+        0.38935645974756145,
+        27.450000762939453
+      ],
+      "halfSize": [
+        35.11091999989003,
+        50.54700000025332,
+        23.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1233125402,
+        5,
+        [
+          [
+            2951802937,
+            4,
+            "\u6eff\u6ed4\u98f2\u98df",
+            "RM. C, 7/F., JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2951816772,
+            4,
+            "\u5357\u9999\u6d77\u5357\u96de",
+            "PORTION A OF UNIT B, 6/F, JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2951816781,
+            4,
+            "\u5065\u71df\u6599\u7406",
+            "PORTION B OF UNIT B, 6/F, JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2951816842,
+            4,
+            "\u9999\u6e2f\u6fb3\u767b\u6709\u9650\u516c\u53f8",
+            "PORTION D OF UNIT B, 6/F, JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2951816851,
+            4,
+            "Friends mochi bread",
+            "PORTION C OF UNIT B, 6/F, JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125469
+        ]
+      ],
+      "coordinate": [
+        1.9935799589240137,
+        0.38935550127106955,
+        36.349998474121094
+      ],
+      "halfSize": [
+        23.185120000038296,
+        20.471929999999702,
+        16.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125403,
+        1,
+        [
+          [
+            2951808041,
+            4,
+            "MUN SHAN TONG HEALTH COMPANY LIMITED",
+            "MINOR PORTION, FLAT 1, 9/F, HUNG TO INDUSTRIAL BUILDING, 80 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125472
+        ]
+      ],
+      "coordinate": [
+        1.9935836564502394,
+        0.38935127349636794,
+        35.05000305175781
+      ],
+      "halfSize": [
+        22.36651000007987,
+        20.66079999972135,
+        16.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125404,
+        8,
+        [
+          [
+            2951802803,
+            4,
+            "CHAODA VEGETABLE & FRUITS (WHOLESALE & LOGISTICS) LIMITED",
+            "UNIT A2-A4, G/F., HOI BUN INDUSTRIAL BUILDING, 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-30"
+          ],
+          [
+            2951806948,
+            4,
+            "ELITE SHINE LIMITED",
+            "FLAT D1, 5/F, HOI BUN INDUSTRIAL BUILDING, 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-13"
+          ],
+          [
+            2951810853,
+            4,
+            "\u6e90\u6cf0\u98df\u54c1\u516c\u53f8",
+            "PORTION A OF UNIT E2, 4/F, HOI BUN INDUSTRIAL BUILDING, 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2951811388,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION OF BLOCK B, 12/F, HOI BUN INDUSTRIAL BUILDING, 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2951811573,
+            4,
+            "ROYAL CATERING LIMITED",
+            "UNIT C2-2 (REAR PORTION), 13/F, HOI BUN INDUSTRIAL BUILDING, 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2951815548,
+            4,
+            "REPUTED INTERNATIONAL LIMITED",
+            "UNIT C2B, 9/F, HOI BUN INDUSTRIAL BUILDING, 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-28"
+          ],
+          [
+            2951818255,
+            4,
+            "PEKO PEKO EATERY",
+            "UNIT NO. E2, 9/F, HOI BUN INDUSTRIAL BUILDING, NO. 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-23"
+          ],
+          [
+            3251800881,
+            6,
+            "REPUTED INTERNATIONAL LIMITED",
+            "PORTION A OF UNIT B2, 9/F, HOI BUN INDUSTRIAL BUILDING, 6 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125481
+        ]
+      ],
+      "coordinate": [
+        1.9935614852575125,
+        0.38932722108321294,
+        26.399999618530273
+      ],
+      "halfSize": [
+        38.76996499998495,
+        40.09573999978602,
+        22.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125405,
+        2,
+        [
+          [
+            2551181670,
+            3,
+            "Hung To 34 Ltd",
+            "ROOM C, G/F, 34 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2551235719,
+            3,
+            "\u65b0\u6c38\u6210\u8336\u6a94",
+            "FLAT A, G/F, GEE LOK INDUSTRIAL BLDG, 34 HUNG TO RD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125494
+        ]
+      ],
+      "coordinate": [
+        1.993519271007504,
+        0.3894210973289009,
+        11.5
+      ],
+      "halfSize": [
+        22.22550000017509,
+        20.200999999418855,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125406,
+        1,
+        [
+          [
+            2551800876,
+            3,
+            "COFFEE SLAVE",
+            "WORKSHOP 2A, G/F, HUNG TAT INDUSTRIAL BUILDING, 43 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125497
+        ]
+      ],
+      "coordinate": [
+        1.9935370256913958,
+        0.3894181029787849,
+        11.199999809265137
+      ],
+      "halfSize": [
+        23.30599999986589,
+        23.303499999456108,
+        6.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1233125407,
+        3,
+        [
+          [
+            2951176173,
+            4,
+            "\u4eac\u90fd",
+            "13/F, BLOCK H, WAN KONG INDUSTRIAL BUILDING, 45 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2951800968,
+            4,
+            "SEASONS CATERING SERVICE COMPANY",
+            "FLAT C, 4/F, WANG KWONG INDUSTRIAL BUILDING, 45 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2951818848,
+            4,
+            "HONG KONG BEER COMPANY",
+            "PORTION A & PORTION B OF UNIT A, G/F., WANG KWONG INDUSTRIAL BUILDING, 45 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125499
+        ]
+      ],
+      "coordinate": [
+        1.9935404082189723,
+        0.38941499258251294,
+        12.199999809265137
+      ],
+      "halfSize": [
+        29.921500000171363,
+        29.87000000011176,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1233125408,
+        6,
+        [
+          [
+            2551122622,
+            3,
+            "I DON'T CARE NOODLES KWUN TONG",
+            "FACTORY A4, G/F, HOWARD FACTORY BUILDING, 104 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2551125171,
+            3,
+            "\u634c\u634c\u9678",
+            "SHOP NO.1A, G/F, HOW WUN IND'L BLDG, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2551800487,
+            3,
+            "Satini",
+            "UNIT C, 1/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2951800603,
+            4,
+            "Circle K Convenience Store",
+            "PORTION A OF FACTORY A3,G/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KOWLOON",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2951813454,
+            4,
+            "HESTIA KITCHEN",
+            "FACTORY A ON 1ST FLOOR, HOWARD FACTORY BUILDING, NO. 66 TSUN YIP STREET, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2951814457,
+            4,
+            "CAKEYMOOD",
+            "PORTION A OF FLAT B, 1/F, HOWARD FACTORY BUILDING, 66 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125500
+        ]
+      ],
+      "coordinate": [
+        1.993578180603862,
+        0.38941623250197926,
+        13.199999809265137
+      ],
+      "halfSize": [
+        25.116500000003725,
+        22.02449999935925,
+        8.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1233125409,
+        5,
+        [
+          [
+            2551800946,
+            3,
+            "I KITCHEN",
+            "UNIT 1, 2/F, CROWN INDUSTRIAL BUILDING, NO. 106 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2551801213,
+            3,
+            "\u96cd\u96c5\u98df\u5802",
+            "WORKSHOP NO. 6, ON 13TH FLOOR, CROWN INDUSTRIAL BUILDING, NO. 106 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2951808704,
+            4,
+            "Hamsta Crown International (HK) Limited",
+            "FLAT 1501, 15/F, CROWN INDUSTRIAL BUILDING, 106 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2951813135,
+            4,
+            "Another World Protein Limited",
+            "ROOM 4, 5/F., CROWN INDUSTRIAL BUILDING, 106 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-06"
+          ],
+          [
+            4951821864,
+            4,
+            "\u6cf0\u98a8\u60c5",
+            "UNIT 2, G/F, CROWN INDUSTRIAL BUILDING, 106 HOW MING STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125503
+        ]
+      ],
+      "coordinate": [
+        1.9935801723547468,
+        0.38941397319810445,
+        12.699999809265137
+      ],
+      "halfSize": [
+        25.157999999821186,
+        23.29399999976158,
+        8.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1233125410,
+        1,
+        [
+          [
+            4951821961,
+            4,
+            "(NO RECORD FOUND)",
+            "WORKSHOP B, G/F, GOODWAY CENTRE, 47 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125505
+        ]
+      ],
+      "coordinate": [
+        1.9935437939242775,
+        0.3894119078732115,
+        10.899999618530273
+      ],
+      "halfSize": [
+        23.129500000271946,
+        23.33299999963492,
+        6.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125411,
+        1,
+        [
+          [
+            2951817632,
+            4,
+            "On the hill Coffee Bar",
+            "THE KIOSK ON G/F LOBBY OF TWO SKY PARC, NO. 51 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125506
+        ]
+      ],
+      "coordinate": [
+        1.9935482502590829,
+        0.38940784026537967,
+        11.800000190734863
+      ],
+      "halfSize": [
+        36.2375000002794,
+        36.05049999989569,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1233125412,
+        5,
+        [
+          [
+            2551022386,
+            3,
+            "6\u865f\u51b0\u5ba4",
+            "SHOP A, G/F, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2951809743,
+            4,
+            "/",
+            "UNIT B1, 1/F., TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2951810765,
+            4,
+            "\u7cd6\u9905\u5c4b",
+            "UNIT C, 13/F, TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2951811315,
+            4,
+            "UNION COFFEE F&B LIMITED",
+            "UNIT G, 5/F, TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2951811722,
+            4,
+            "(NO RECORD FOUND)",
+            "UNIT E, 14/F, TSUN WIN FACTORY BUILDING, 60 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125509
+        ]
+      ],
+      "coordinate": [
+        1.9935705827838104,
+        0.3894067319438764,
+        11.950000762939453
+      ],
+      "halfSize": [
+        23.553000000305474,
+        25.810499999672174,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1233125413,
+        2,
+        [
+          [
+            2551057630,
+            3,
+            "\u5bb6\u6a02",
+            "FLAT A, 1/F, 55 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2551800034,
+            3,
+            "Lok Tin Cafe",
+            "UNIT C, G/F, WINNER FACTORY BUILDING, 55 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125513
+        ]
+      ],
+      "coordinate": [
+        1.9935578170483483,
+        0.3893968923268808,
+        12.25
+      ],
+      "halfSize": [
+        30.380499999970198,
+        31.438500000163913,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125414,
+        1,
+        [
+          [
+            2951805820,
+            4,
+            "Grove Sandwiches",
+            "WORKSHOP NO.01 ON THE GROUND FLOOR OF APEC PLAZA, 49 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125516
+        ]
+      ],
+      "coordinate": [
+        1.9935791940146916,
+        0.389388484783455,
+        6.850000381469727
+      ],
+      "halfSize": [
+        35.548499999567866,
+        39.77350000012666,
+        2.950000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1233125415,
+        1,
+        [
+          [
+            2951815256,
+            4,
+            "\u9bae\u6975\u9053",
+            "FLAT D, G/F, KING WAN INDUSTRIAL BUILDING, 54 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125517
+        ]
+      ],
+      "coordinate": [
+        1.9935546449664754,
+        0.38938533770506667,
+        7.25
+      ],
+      "halfSize": [
+        25.58892000000924,
+        23.472534999251366,
+        3.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1233125416,
+        1,
+        [
+          [
+            2951817155,
+            4,
+            "CAFFEINATION INTERNATIONAL LIMITED",
+            "PORTION A OF UNIT B, 3/F., SEAPOWER INDUSTRIAL CENTRE, 177 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125520
+        ]
+      ],
+      "coordinate": [
+        1.9935196101215635,
+        0.3893807661317705,
+        11.09999942779541
+      ],
+      "halfSize": [
+        35.17450000019744,
+        31.807000000029802,
+        7.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1233125417,
+        2,
+        [
+          [
+            2551165148,
+            3,
+            "\u65e5\u4f5c\u98df\u5802",
+            "G/F., BLOCK A, LUCKY FACTORY BUILDING, 63-65 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2551801426,
+            3,
+            "Relish \u98df\u5802",
+            "FLAT B AND PORTION OF THE FLAT ROOF, 5/F., LUCKY FACTORY BUILDING, 63-65 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125523
+        ]
+      ],
+      "coordinate": [
+        1.9935723971519994,
+        0.3893797635611006,
+        11.899999618530273
+      ],
+      "halfSize": [
+        26.345850000157952,
+        24.889439999125898,
+        7.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125418,
+        1,
+        [
+          [
+            2951808865,
+            4,
+            "TAK KEE",
+            "PORTION OF UNIT B, GROUND FLOOR, LEE ON INDUSTRIAL BUILDING, NO. 70 HUNG TO ROAD, KOWLOON",
+            null,
+            "2026-12-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125530
+        ]
+      ],
+      "coordinate": [
+        1.9935744633912427,
+        0.3893626762643247,
+        11.800000190734863
+      ],
+      "halfSize": [
+        26.312000000383705,
+        23.833499999716878,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125419,
+        5,
+        [
+          [
+            2551800681,
+            3,
+            "AloyAloy",
+            "UNIT C, G/F, JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2551800894,
+            3,
+            "\u7da0\u539f\u8ed2",
+            "UNIT G, G/F, JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-07"
+          ],
+          [
+            2551801134,
+            3,
+            "\u671d\u967d\u51b0\u5ba4",
+            "FLAT B, G/F, JOINT VENTURE FACTORY BUILDING, NO. 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2951811519,
+            4,
+            "Midnight Bread Club",
+            "FLAT F, 14/F, JOINT VENTURE FACTORY BUILDING, 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2951814323,
+            4,
+            "OHPO",
+            "UNIT C ON 4/F, JOINT VENTURE FACTORY BUILDING, NO. 76 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125532
+        ]
+      ],
+      "coordinate": [
+        1.9935804911274795,
+        0.3893559341742621,
+        11.90000057220459
+      ],
+      "halfSize": [
+        25.976999999955297,
+        23.566000000573695,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1233125420,
+        3,
+        [
+          [
+            2951811379,
+            4,
+            "POKEWORLD EXPRESS",
+            "SHOP NO. 5, 1/F OF 78 HUNG TO ROAD, KWUN TONG, KTIL NO. 159, KOWLOON",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2951818820,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP NO.1, 1/F, NO.78 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2951819577,
+            4,
+            "\u6dfb\u98ef\u9938",
+            "SHOP NO. 3A, 1/F, NO. 78 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125533
+        ]
+      ],
+      "coordinate": [
+        1.9935823489813178,
+        0.3893538332892217,
+        11.550000190734863
+      ],
+      "halfSize": [
+        26.07700000004843,
+        23.652999999932945,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125421,
+        5,
+        [
+          [
+            2951802432,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 14, 1/F., KWUN TONG 223 (MANULIFE FINANCIAL CENTRE), 223-231 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2951805015,
+            4,
+            "HANA-MUSUBI",
+            "SHOP 11, 1/F, MANULIFE FINANCE CENTRE, 223-231 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2951809415,
+            4,
+            "ORIGINAL TASTE WORKSHOP",
+            "SHOP NO. 12, 1/F, MANULIFE FINANCIAL CENTRE, 223 - 231 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2951818635,
+            4,
+            "COTTI COFFEE",
+            "SHOP 17, 1/F, MANULIFE FINANCIAL CENTRE, 223-231 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2951819188,
+            4,
+            "Santo Coffee",
+            "SHOP 9, 1/F, BLOCK B, MANULIFE FINANCIAL CENTRE, 223 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125535
+        ]
+      ],
+      "coordinate": [
+        1.9935807685395601,
+        0.3893420609143584,
+        11.59999942779541
+      ],
+      "halfSize": [
+        68.48778000008315,
+        73.9124449994415,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125422,
+        1,
+        [
+          [
+            3651803839,
+            5,
+            "Foodpanda",
+            "PORTIONS OF SHOP C, G/F., LU PLAZA, NO. 2 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125536
+        ]
+      ],
+      "coordinate": [
+        1.993569866026738,
+        0.3893343430046251,
+        11.5
+      ],
+      "halfSize": [
+        41.82800000021234,
+        38.05049999989569,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125423,
+        1,
+        [
+          [
+            2951809983,
+            4,
+            "S.Girl \u8d8a\u5f0f\u6599\u7406",
+            "WORKSHOP ON GROUND FLOOR, ASSUN PACIFIC CENTRE, NO. 41 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125541
+        ]
+      ],
+      "coordinate": [
+        1.9935345301136211,
+        0.3893910741668319,
+        8.75
+      ],
+      "halfSize": [
+        16.094054999761283,
+        14.348214999772608,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125424,
+        1,
+        [
+          [
+            2951813852,
+            4,
+            "Saturn Coffee Roaster",
+            "SHOP NO. 1, G/F, ONE HARBOUR SQUARE, 181 HOI BUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125557
+        ]
+      ],
+      "coordinate": [
+        1.9935257950397725,
+        0.3893727859483044,
+        11.299999237060547
+      ],
+      "halfSize": [
+        30.622790000401437,
+        31.603714999742806,
+        7.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1233125425,
+        1,
+        [
+          [
+            2951807428,
+            4,
+            "COS Gourmet",
+            "SHOP C, 1/F, COS CENTRE, 52-56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125573
+        ]
+      ],
+      "coordinate": [
+        1.9935638476965043,
+        0.3894011120200378,
+        11.799999237060547
+      ],
+      "halfSize": [
+        35.86041500000283,
+        35.554339999333024,
+        7.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1233125426,
+        1,
+        [
+          [
+            2951811333,
+            4,
+            "YIFANG TAIWAN FRUIT TEA",
+            "SHOP 3, G/F, TWO HARBOUR SQUARE, 180 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125577
+        ]
+      ],
+      "coordinate": [
+        1.9935339808171038,
+        0.3893764479493963,
+        6.25
+      ],
+      "halfSize": [
+        36.939690000377595,
+        39.696360000409186,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1233125427,
+        1,
+        [
+          [
+            2551801268,
+            3,
+            "\u677f\u795e",
+            "WORKSHOP 1, G/F, 43 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125585
+        ]
+      ],
+      "coordinate": [
+        1.9935376033883294,
+        0.389393560650698,
+        16.700000762939453
+      ],
+      "halfSize": [
+        19.789177984406706,
+        18.46641554875532,
+        12.5
+      ]
+    },
+    {
+      "attributes": [
+        1233125428,
+        2,
+        [
+          [
+            2951815566,
+            4,
+            "ChiMac (3)",
+            "PORTION B OF WORKSHOP 1, G/F., NO. 46 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-02"
+          ],
+          [
+            4251800765,
+            6,
+            "DrooL Froyo (Kwun Tong)",
+            "PORTION C OF WORKSHOP 1, G/F, GR8 INNO TECH CENTRE, NO. 46 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125588
+        ]
+      ],
+      "coordinate": [
+        1.9935461476977236,
+        0.38939093341789377,
+        26.950000762939453
+      ],
+      "halfSize": [
+        15.015023634361569,
+        14.298845177458134,
+        23.049999237060547
+      ]
+    }
+  ]
+}

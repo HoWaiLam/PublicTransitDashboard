@@ -1,0 +1,4069 @@
+{
+  "name": "historicalBuilding",
+  "label": "Graded Historic Buildings",
+  "groupDisplay": 1,
+  "attributes": [
+    {
+      "name": "historicalIID",
+      "label": null,
+      "type": "ENUM",
+      "enumType": "historicalIIDEnumTypes",
+      "noData": 4294967295,
+      "show": 0
+    },
+    {
+      "linkHeader": 1,
+      "name": "fileRef",
+      "label": "File Reference",
+      "type": "STRING",
+      "addToLabel": 1
+    },
+    {
+      "name": "name",
+      "label": "Site Name",
+      "type": "STRING",
+      "addToLabel": 1
+    },
+    {
+      "name": "historicalGrading",
+      "label": "Historical Grading",
+      "type": "ENUM",
+      "enumType": "gradingEnumTypes",
+      "required": 1,
+      "noData": 0,
+      "representations": [
+        {
+          "label": "Graded Historic Buildings",
+          "legend": "Historcial Grade",
+          "type": "discrete",
+          "classes": [
+            {
+              "value": 0,
+              "label": "Not Graded",
+              "color": [
+                255,
+                255,
+                255
+              ]
+            },
+            {
+              "value": 1,
+              "label": "Grade 3",
+              "color": [
+                255,
+                102,
+                102
+              ]
+            },
+            {
+              "value": 2,
+              "label": "Grade 2",
+              "color": [
+                255,
+                51,
+                51
+              ]
+            },
+            {
+              "value": 3,
+              "label": "Grade 1",
+              "color": [
+                255,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gradingYear",
+      "label": "Grading Year",
+      "type": "SCALAR",
+      "componentType": "UINT16"
+    },
+    {
+      "name": "imageURL",
+      "label": "Image(s)",
+      "type": "LINK",
+      "required": 0,
+      "show": 1
+    }
+  ],
+  "enums": {
+    "historicalIIDEnumTypes": {
+      "name": "Historical Grading",
+      "valueType": "UINT32",
+      "values": [
+        {
+          "value": 33554432,
+          "name": "Grade 3"
+        },
+        {
+          "value": 33554433,
+          "name": "Grade 3"
+        },
+        {
+          "value": 33554434,
+          "name": "Grade 3"
+        },
+        {
+          "value": 301989888,
+          "name": "Grade 3"
+        },
+        {
+          "value": 301989889,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425344,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425345,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425346,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425347,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425348,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425349,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425350,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425351,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425352,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425353,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425354,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425355,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425356,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425357,
+          "name": "Grade 1"
+        },
+        {
+          "value": 570425358,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425359,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425360,
+          "name": "Grade 3"
+        },
+        {
+          "value": 570425361,
+          "name": "Grade 2"
+        },
+        {
+          "value": 570425362,
+          "name": "Grade 2"
+        },
+        {
+          "value": 838860800,
+          "name": "Grade 3"
+        },
+        {
+          "value": 838860801,
+          "name": "Grade 3"
+        },
+        {
+          "value": 838860802,
+          "name": "Grade 3"
+        },
+        {
+          "value": 838860803,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296256,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1107296257,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296258,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296259,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296260,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296261,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296262,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296263,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296264,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296265,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296266,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1107296267,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296268,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296269,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296270,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296271,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296272,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296273,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296274,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296275,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296276,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296277,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296278,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296279,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296280,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296281,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296282,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296283,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296284,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296285,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296286,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296287,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1107296288,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1107296289,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1107296290,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1375731712,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1375731713,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1375731714,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1375731715,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1375731716,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1375731717,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1375731718,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1375731719,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1375731720,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108864,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108865,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108866,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108867,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108868,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108869,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108870,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108871,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108872,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108873,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108874,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108875,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108876,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108877,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108878,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108879,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108880,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108881,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108882,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108883,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108884,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108885,
+          "name": "Grade 3"
+        },
+        {
+          "value": 67108886,
+          "name": "Grade 2"
+        },
+        {
+          "value": 67108887,
+          "name": "Grade 2"
+        },
+        {
+          "value": 335544320,
+          "name": "Grade 3"
+        },
+        {
+          "value": 335544321,
+          "name": "Grade 2"
+        },
+        {
+          "value": 335544322,
+          "name": "Grade 2"
+        },
+        {
+          "value": 335544323,
+          "name": "Grade 3"
+        },
+        {
+          "value": 335544324,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979776,
+          "name": "Grade 3"
+        },
+        {
+          "value": 603979777,
+          "name": "Grade 3"
+        },
+        {
+          "value": 603979778,
+          "name": "Grade 3"
+        },
+        {
+          "value": 603979779,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979780,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979781,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979782,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979783,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979784,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979785,
+          "name": "Grade 2"
+        },
+        {
+          "value": 603979786,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415232,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415233,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415234,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415235,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415236,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415237,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415238,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415239,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415240,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415241,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415242,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415243,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415244,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415245,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415246,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415247,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415248,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415249,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415250,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415251,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415252,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415253,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415254,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415255,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415256,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415257,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415258,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415259,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415260,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415261,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415262,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415263,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415264,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415265,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415266,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415267,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415268,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415269,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415270,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415271,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415272,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415273,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415274,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415275,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415276,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415277,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415278,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415279,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415280,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415281,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415282,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415283,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415284,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415285,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415286,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415287,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415288,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415289,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415290,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415291,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415292,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415293,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415294,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415295,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415296,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415297,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415298,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415299,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415300,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415301,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415302,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415303,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415304,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415305,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415306,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415307,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415308,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415309,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415310,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415311,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415312,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415313,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415314,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415315,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415316,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415317,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415318,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415319,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415320,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415321,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415322,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415323,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415324,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415325,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415326,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415327,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415328,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415329,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415330,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415331,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415332,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415333,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415334,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415335,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415336,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415337,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415338,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415339,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415340,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415341,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415342,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415343,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415344,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415345,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415346,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415347,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415348,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415349,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415350,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415351,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415352,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415353,
+          "name": "Grade 1"
+        },
+        {
+          "value": 872415354,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415355,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415356,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415357,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415358,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415359,
+          "name": "Grade 3"
+        },
+        {
+          "value": 872415360,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415361,
+          "name": "Grade 2"
+        },
+        {
+          "value": 872415362,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850688,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850689,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850690,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850691,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850692,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850693,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850694,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850695,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850696,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850697,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850698,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850699,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850700,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850701,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850702,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850703,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850704,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850705,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850706,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850707,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850708,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850709,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850710,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850711,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850712,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850713,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850714,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850715,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850716,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850717,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850718,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850719,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850720,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850721,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850722,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850723,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850724,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850725,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850726,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850727,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850728,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850729,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850730,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850731,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850732,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850733,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850734,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850735,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850736,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850737,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850738,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850739,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850740,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850741,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850742,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850743,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850744,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850745,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850746,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850747,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850748,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850749,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850750,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850751,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850752,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850753,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850754,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850755,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850756,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850757,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850758,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850759,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850760,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850761,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850762,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850763,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850764,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850765,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850766,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850767,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850768,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850769,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850770,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850771,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850772,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850773,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850774,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850775,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850776,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850777,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850778,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850779,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850780,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850781,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850782,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850783,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850784,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850785,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850786,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850787,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850788,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850789,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850790,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850791,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850792,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850793,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850794,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850795,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850796,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850797,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850798,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850799,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850800,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850801,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850802,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850803,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850804,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850805,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850806,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850807,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850808,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850809,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850810,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1140850811,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1140850812,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850813,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850814,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1140850815,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1409286144,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1409286145,
+          "name": "Grade 3"
+        },
+        {
+          "value": 637534208,
+          "name": "Grade 3"
+        },
+        {
+          "value": 637534209,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969664,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969665,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969666,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969667,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969668,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969669,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969670,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969671,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969672,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969673,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969674,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969675,
+          "name": "Grade 2"
+        },
+        {
+          "value": 905969676,
+          "name": "Grade 1"
+        },
+        {
+          "value": 905969677,
+          "name": "Grade 2"
+        },
+        {
+          "value": 905969678,
+          "name": "Grade 2"
+        },
+        {
+          "value": 905969679,
+          "name": "Grade 2"
+        },
+        {
+          "value": 905969680,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969681,
+          "name": "Grade 2"
+        },
+        {
+          "value": 905969682,
+          "name": "Grade 3"
+        },
+        {
+          "value": 905969683,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405120,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405121,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405122,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405123,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405124,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405125,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405126,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405127,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405128,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405129,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405130,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405131,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405132,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405133,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405134,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405135,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405136,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405137,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405138,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405139,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405140,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405141,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405142,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405143,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405144,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405145,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405146,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405147,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405148,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405149,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405150,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405151,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405152,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405153,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405154,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405155,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405156,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405157,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405158,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405159,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405160,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405161,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405162,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405163,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405164,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405165,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405166,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405167,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405168,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405169,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405170,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405171,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405172,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405173,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405174,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405175,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405176,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405177,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405178,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405179,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405180,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405181,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405182,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405183,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405184,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405185,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405186,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405187,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405188,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405189,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405190,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405191,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405192,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405193,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405194,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405195,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405196,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405197,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405198,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405199,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405200,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405201,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405202,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405203,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405204,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405205,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405206,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405207,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405208,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405209,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405210,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405211,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405212,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405213,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405214,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405215,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405216,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405217,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405218,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405219,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405220,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405221,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405222,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405223,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405224,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1174405225,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405226,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405227,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405228,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405229,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405230,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405231,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405232,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405233,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405234,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1174405235,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1174405236,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1442840576,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1442840577,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1442840578,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1442840579,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840580,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840581,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840582,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840583,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1442840584,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840585,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1442840586,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840587,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840588,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840589,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840590,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840591,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1442840592,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1442840593,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1442840594,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1442840595,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1711276032,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653184,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653185,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653186,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653187,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653188,
+          "name": "Grade 2"
+        },
+        {
+          "value": 402653189,
+          "name": "Grade 2"
+        },
+        {
+          "value": 402653190,
+          "name": "Grade 2"
+        },
+        {
+          "value": 402653191,
+          "name": "Grade 1"
+        },
+        {
+          "value": 402653192,
+          "name": "Grade 1"
+        },
+        {
+          "value": 402653193,
+          "name": "Grade 2"
+        },
+        {
+          "value": 402653194,
+          "name": "Grade 2"
+        },
+        {
+          "value": 402653195,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653196,
+          "name": "Grade 1"
+        },
+        {
+          "value": 402653197,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653198,
+          "name": "Grade 1"
+        },
+        {
+          "value": 402653199,
+          "name": "Grade 3"
+        },
+        {
+          "value": 402653200,
+          "name": "Grade 2"
+        },
+        {
+          "value": 402653201,
+          "name": "Grade 2"
+        },
+        {
+          "value": 402653202,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088640,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088641,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088642,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088643,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088644,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088645,
+          "name": "Grade 2"
+        },
+        {
+          "value": 671088646,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088647,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088648,
+          "name": "Grade 3"
+        },
+        {
+          "value": 671088649,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524096,
+          "name": "Grade 2"
+        },
+        {
+          "value": 939524097,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524098,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524099,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524100,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524101,
+          "name": "Grade 2"
+        },
+        {
+          "value": 939524102,
+          "name": "Grade 1"
+        },
+        {
+          "value": 939524103,
+          "name": "Grade 1"
+        },
+        {
+          "value": 939524104,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524105,
+          "name": "Grade 2"
+        },
+        {
+          "value": 939524106,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524107,
+          "name": "Grade 3"
+        },
+        {
+          "value": 939524108,
+          "name": "Grade 2"
+        },
+        {
+          "value": 939524109,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1207959552,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1207959553,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959554,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959555,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959556,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959557,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959558,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959559,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959560,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959561,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959562,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1207959563,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959564,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959565,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959566,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959567,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959568,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959569,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1207959570,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959571,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1207959572,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959573,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959574,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1207959575,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959576,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1207959577,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1207959578,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1207959579,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1207959580,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1476395008,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1476395009,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1476395010,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1476395011,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1476395012,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1476395013,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1476395014,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1476395015,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1744830464,
+          "name": "Grade 3"
+        },
+        {
+          "value": 436207616,
+          "name": "Grade 3"
+        },
+        {
+          "value": 436207617,
+          "name": "Grade 3"
+        },
+        {
+          "value": 436207618,
+          "name": "Grade 1"
+        },
+        {
+          "value": 436207619,
+          "name": "Grade 3"
+        },
+        {
+          "value": 436207620,
+          "name": "Grade 3"
+        },
+        {
+          "value": 436207621,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643072,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643073,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643074,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643075,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643076,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643077,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643078,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643079,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643080,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643081,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643082,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643083,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643084,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643085,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643086,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643087,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643088,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643089,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643090,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643091,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643092,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643093,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643094,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643095,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643096,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643097,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643098,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643099,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643100,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643101,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643102,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643103,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643104,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643105,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643106,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643107,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643108,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643109,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643110,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643111,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643112,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643113,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643114,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643115,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643116,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643117,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643118,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643119,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643120,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643121,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643122,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643123,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643124,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643125,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643126,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643127,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643128,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643129,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643130,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643131,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643132,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643133,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643134,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643135,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643136,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643137,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643138,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643139,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643140,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643141,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643142,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643143,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643144,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643145,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643146,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643147,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643148,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643149,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643150,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643151,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643152,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643153,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643154,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643155,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643156,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643157,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643158,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643159,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643160,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643161,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643162,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643163,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643164,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643165,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643166,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643167,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643168,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643169,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643170,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643171,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643172,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643173,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643174,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643175,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643176,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643177,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643178,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643179,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643180,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643181,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643182,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643183,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643184,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643185,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643186,
+          "name": "Grade 1"
+        },
+        {
+          "value": 704643187,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643188,
+          "name": "Grade 3"
+        },
+        {
+          "value": 704643189,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643190,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643191,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643192,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643193,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643194,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643195,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643196,
+          "name": "Grade 2"
+        },
+        {
+          "value": 704643197,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078528,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078529,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078530,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078531,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078532,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078533,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078534,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078535,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078536,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078537,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078538,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078539,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078540,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078541,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078542,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078543,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078544,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078545,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078546,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078547,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078548,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078549,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078550,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078551,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078552,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078553,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078554,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078555,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078556,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078557,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078558,
+          "name": "Grade 2"
+        },
+        {
+          "value": 973078559,
+          "name": "Grade 3"
+        },
+        {
+          "value": 973078560,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513984,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513985,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513986,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513987,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513988,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1241513989,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1241513990,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513991,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513992,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513993,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1241513994,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1241513995,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1241513996,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1241513997,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1241513998,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1509949440,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1509949441,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1509949442,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1509949443,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1509949444,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1778384896,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384897,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384898,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384899,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384900,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384901,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384902,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384903,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384904,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384905,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384906,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384907,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384908,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384909,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384910,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384911,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384912,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384913,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384914,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384915,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1778384916,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1778384917,
+          "name": "Grade 3"
+        },
+        {
+          "value": 469762048,
+          "name": "Grade 3"
+        },
+        {
+          "value": 469762049,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197504,
+          "name": "Grade 2"
+        },
+        {
+          "value": 738197505,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197506,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197507,
+          "name": "Grade 2"
+        },
+        {
+          "value": 738197508,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197509,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197510,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197511,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197512,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197513,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197514,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197515,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197516,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197517,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197518,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197519,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197520,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197521,
+          "name": "Grade 2"
+        },
+        {
+          "value": 738197522,
+          "name": "Grade 3"
+        },
+        {
+          "value": 738197523,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632960,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632961,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632962,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632963,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632964,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632965,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632966,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632967,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632968,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632969,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632970,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632971,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632972,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632973,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632974,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632975,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632976,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632977,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632978,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632979,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632980,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632981,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632982,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632983,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632984,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632985,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632986,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632987,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632988,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632989,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632990,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632991,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632992,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632993,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632994,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632995,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632996,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006632997,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006632998,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006632999,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006633000,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006633001,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006633002,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006633003,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1006633004,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006633005,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006633006,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006633007,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006633008,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006633009,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006633010,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006633011,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1006633012,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1006633013,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068416,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068417,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068418,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068419,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068420,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068421,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068422,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068423,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068424,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068425,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1275068426,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068427,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1275068428,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068429,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068430,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068431,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068432,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1275068433,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1275068434,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1811939328,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1811939329,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1811939330,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187392,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187393,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1040187394,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1040187395,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1040187396,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187397,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187398,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187399,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187400,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187401,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187402,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187403,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187404,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1040187405,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622848,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622849,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622850,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1308622851,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622852,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622853,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622854,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622855,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622856,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622857,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622858,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622859,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622860,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622861,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622862,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622863,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622864,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1308622865,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622866,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622867,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622868,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622869,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622870,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622871,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622872,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622873,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622874,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622875,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622876,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622877,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622878,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622879,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622880,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622881,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622882,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622883,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622884,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622885,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622886,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622887,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622888,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622889,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622890,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1308622891,
+          "name": "Grade 1"
+        },
+        {
+          "value": 1308622892,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622893,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1308622894,
+          "name": "Grade 2"
+        },
+        {
+          "value": 1577058304,
+          "name": "Grade 3"
+        },
+        {
+          "value": 1577058305,
+          "name": "Grade 3"
+        },
+        {
+          "value": 2113929216,
+          "name": "Grade 3"
+        },
+        {
+          "value": 2113929217,
+          "name": "Grade 3"
+        }
+      ]
+    },
+    "gradingEnumTypes": {
+      "name": "Historical Grading",
+      "valueType": "UINT8",
+      "values": [
+        {
+          "value": 0,
+          "name": "Not Graded"
+        },
+        {
+          "value": 1,
+          "name": "Grade 3"
+        },
+        {
+          "value": 2,
+          "name": "Grade 2"
+        },
+        {
+          "value": 3,
+          "name": "Grade 1"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "layer": "building",
+      "attribute": "buildingIID"
+    }
+  ],
+  "selection": "historicalIID",
+  "featuresDir": "historicalBuilding",
+  "featuresTileDepth": 3
+}

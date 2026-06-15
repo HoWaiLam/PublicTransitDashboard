@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "attributes": [
+        362807296,
+        1,
+        [
+          [
+            2917803152,
+            4,
+            "Moon Thai Express",
+            "UNIT 7E180, LEVEL 7, PASSENGER TERMINAL BUILDING, 1 CHEONG HONG ROAD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807344
+        ]
+      ],
+      "coordinate": [
+        1.988536906402736,
+        0.3894762385560812,
+        22.75
+      ],
+      "halfSize": [
+        184.9738749996759,
+        180.14760500006378,
+        17.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        362807297,
+        1,
+        [
+          [
+            2917804438,
+            4,
+            "IDEAOLOGY",
+            "SHOP A118, LEVEL 1, 11 SKIES, 6 & 8 SKY CITY ROAD E, CHEK LAP KOK, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807374
+        ]
+      ],
+      "coordinate": [
+        1.9886535485002321,
+        0.3895229687781714,
+        17.149999618530273
+      ],
+      "halfSize": [
+        144.76958500035107,
+        86.62996000051498,
+        10.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        362807298,
+        2,
+        [
+          [
+            2517800043,
+            3,
+            "Ocean Blue Haeco (Chek Lap Kok) Staff Canteen",
+            "STAFF CANTEEN AT 2/F (MAJOR PORTION), AIRCRAFT HANGAR NO. 3A AT 80 SOUTH PERIMETER ROAD, HONG KONG INTERNATIONAL AIRPORT, CHEK LAP KOK, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            2917800153,
+            4,
+            "AWE Gourmet",
+            "F&B 05, G/F., ASIA WORLD-EXPO, HONG KONG INTERNATIONAL AIRPORT, LANTAU, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          362807403
+        ]
+      ],
+      "coordinate": [
+        1.9886023972252338,
+        0.3894973432726533,
+        14.850000381469727
+      ],
+      "halfSize": [
+        151.12470000004396,
+        190.80008499976248,
+        7.650000095367432
+      ]
+    }
+  ]
+}

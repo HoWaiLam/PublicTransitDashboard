@@ -1,0 +1,544 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1503657984,
+        1101778689,
+        null,
+        null,
+        [
+          [
+            "DD238 630",
+            "New Grant Lot",
+            "C3763161",
+            [
+              [
+                "15111100950015",
+                "2015-11-02",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "17032101800073",
+                "2017-03-08",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17092601920054",
+                "2017-09-18",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18013000610021",
+                "2018-01-29",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18013000610014",
+                "2018-01-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "18022600630045",
+                "2018-02-01",
+                "THIRD MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18062800200118",
+                "2018-06-04",
+                "FOUR LEGAL CHARGE",
+                "SEE REMARKS"
+              ],
+              [
+                "18080702000010",
+                "2018-07-13",
+                "FIFTH MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20030501090039",
+                "2019-02-19",
+                "TRANSFER OF MORTGAGE",
+                null
+              ],
+              [
+                "19030801080031",
+                "2019-02-19",
+                "DEED OF TRANSFER OF MORTGAGE",
+                null
+              ],
+              [
+                "19080700050016",
+                "2019-07-31",
+                "A SEALED COPY OF THE CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "19092300060015",
+                "2019-08-22",
+                "A SEALED COPY OF THE CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "20110201800013",
+                "2020-11-02",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "21012800980019",
+                "2021-01-27",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "23071901750032",
+                "2023-07-07",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "94000000.0"
+              ],
+              [
+                "23080401710012",
+                "2023-07-21",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "23072801090015",
+                "2023-07-21",
+                "ASSIGNMENT",
+                "94000000.0"
+              ],
+              [
+                "24070301600046",
+                "2024-06-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "24070301600076",
+                "2024-06-13",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "24070301600061",
+                "2024-06-13",
+                "ASSIGNMENT",
+                "50000000.0"
+              ],
+              [
+                "24070301600055",
+                "2024-06-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "50000000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947188840902166,
+        0.38957280580247294,
+        25.600000381469727
+      ],
+      "halfSize": [
+        5.53929500002414,
+        5.733075000345707,
+        5.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1503657985,
+        1101778723,
+        null,
+        null,
+        [
+          [
+            "DD238 586 &EXT",
+            "New Grant Lot",
+            "C6468741",
+            [
+              [
+                "SK128797",
+                "1982-08-18",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK109948",
+                "1985-03-04",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "SK128798",
+                "1988-06-28",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "1800000.0"
+              ],
+              [
+                "SK132204",
+                "1988-08-31",
+                "ASSIGNMENT",
+                "1800000.0"
+              ],
+              [
+                "SK191155",
+                "1992-04-08",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK327672",
+                "1998-05-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK336097",
+                "1998-08-26",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "19080900440023",
+                "2019-07-30",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "20062400470026",
+                "2020-06-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "30000000.0"
+              ],
+              [
+                "21012200270079",
+                "2020-12-28",
+                "ASSIGNMENT",
+                "30000000.0"
+              ],
+              [
+                "22010500540207",
+                "2021-12-15",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947155878549296,
+        0.3895696028251224,
+        15.5
+      ],
+      "halfSize": [
+        3.6742099998518825,
+        3.560580000281334,
+        3.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1503657986,
+        1101778779,
+        null,
+        null,
+        [
+          [
+            "DD238 5 &EXT",
+            "Old Schedule Lot",
+            "C3756790",
+            [
+              [
+                "SK72715",
+                "1961-07-17",
+                "-",
+                "4800.0"
+              ],
+              [
+                "SK75951",
+                "1963-07-24",
+                "-",
+                "13000.0"
+              ],
+              [
+                "SK84875",
+                "1971-11-11",
+                "TENANCY AGREEMENT FOR FIVE YEATS FROM 1.1.1971",
+                null
+              ],
+              [
+                "SK191632",
+                "1979-03-22",
+                "CERTIFIED COPY LETTER",
+                null
+              ],
+              [
+                "SK109947",
+                "1985-02-14",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "SK111151",
+                "1985-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1650000.0"
+              ],
+              [
+                "SK111527",
+                "1985-08-28",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK111526",
+                "1985-08-28",
+                "-",
+                "1650000.0"
+              ],
+              [
+                "SK128082",
+                "1988-06-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2700000.0"
+              ],
+              [
+                "SK129346",
+                "1988-07-11",
+                "-",
+                "2700000.0"
+              ],
+              [
+                "SK192020",
+                "1988-07-11",
+                "-",
+                "2700000.0"
+              ],
+              [
+                "SK129345",
+                "1988-07-11",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK191155",
+                "1992-04-08",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK327672",
+                "1998-05-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK336096",
+                "1998-08-26",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "19080900440016",
+                "2019-07-30",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "20062400470019",
+                "2020-06-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "120000000.0"
+              ],
+              [
+                "21012200270063",
+                "2020-12-28",
+                "ASSIGNMENT",
+                "120000000.0"
+              ],
+              [
+                "22010500540216",
+                "2021-12-15",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "22010500540225",
+                "2021-12-15",
+                "RENTAL ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.994715140511949,
+        0.3895661689846178,
+        12.799999237060547
+      ],
+      "halfSize": [
+        3.6280399998649955,
+        8.463709999807179,
+        3.999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1503657987,
+        1910232173,
+        null,
+        null,
+        [
+          [
+            "DD238 5 &EXT",
+            "Old Schedule Lot",
+            "C3756790",
+            [
+              [
+                "SK72715",
+                "1961-07-17",
+                "-",
+                "4800.0"
+              ],
+              [
+                "SK75951",
+                "1963-07-24",
+                "-",
+                "13000.0"
+              ],
+              [
+                "SK84875",
+                "1971-11-11",
+                "TENANCY AGREEMENT FOR FIVE YEATS FROM 1.1.1971",
+                null
+              ],
+              [
+                "SK191632",
+                "1979-03-22",
+                "CERTIFIED COPY LETTER",
+                null
+              ],
+              [
+                "SK109947",
+                "1985-02-14",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "SK111151",
+                "1985-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1650000.0"
+              ],
+              [
+                "SK111527",
+                "1985-08-28",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK111526",
+                "1985-08-28",
+                "-",
+                "1650000.0"
+              ],
+              [
+                "SK128082",
+                "1988-06-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2700000.0"
+              ],
+              [
+                "SK129346",
+                "1988-07-11",
+                "-",
+                "2700000.0"
+              ],
+              [
+                "SK192020",
+                "1988-07-11",
+                "-",
+                "2700000.0"
+              ],
+              [
+                "SK129345",
+                "1988-07-11",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK191155",
+                "1992-04-08",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK327672",
+                "1998-05-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK336096",
+                "1998-08-26",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "19080900440016",
+                "2019-07-30",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "20062400470019",
+                "2020-06-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "120000000.0"
+              ],
+              [
+                "21012200270063",
+                "2020-12-28",
+                "ASSIGNMENT",
+                "120000000.0"
+              ],
+              [
+                "22010500540216",
+                "2021-12-15",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "22010500540225",
+                "2021-12-15",
+                "RENTAL ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9947158155776692,
+        0.38956582441311444,
+        12.0
+      ],
+      "halfSize": [
+        2.2122599999420345,
+        1.9158950001001358,
+        3.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "publicHousing",
+  "label": "Public Housing",
+  "groupLayerSymbologies": 1,
+  "layers": [
+    "publicHousingLayer.json"
+  ]
+}

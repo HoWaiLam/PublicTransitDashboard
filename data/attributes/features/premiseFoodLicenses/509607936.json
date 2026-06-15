@@ -1,0 +1,5936 @@
+{
+  "features": [
+    {
+      "attributes": [
+        509607936,
+        6,
+        [
+          [
+            2993800821,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP G9 & G10, G/F, PRIME VIEW GARDEN, 2 KING FUNG PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2993803820,
+            4,
+            "Nam Yuen Chong Fan",
+            "SHOP 14A, G/F, PRIME VIEW GARDEN SHOPPING ARCADE, 2 KING FUNG PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2993810099,
+            4,
+            "\u805a\u9360\u4ead\u7de3",
+            "SHOP G30, G/F, PRIME VIEW GARDEN, 2 KING FUNG PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2993810284,
+            4,
+            "Siu Mei Queen",
+            "REAR PORTION OF SHOP G2, G/F, PRIME VIEW GARDEN, 2 KING FUNG PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            3293800081,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP G9 & G10, G/F, PRIME VIEW GARDEN, 2 KING FUNG PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3593800622,
+            8,
+            "Siu Mei Queen",
+            "FRONT PORTION OF SHOP G2, G/F, PRIME VIEW GARDEN, 2 KING FUNG PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608103
+        ]
+      ],
+      "coordinate": [
+        1.9893389827942254,
+        0.3910204069782194,
+        17.149999618530273
+      ],
+      "halfSize": [
+        30.361000000033528,
+        24.845499999821186,
+        4.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        509607937,
+        5,
+        [
+          [
+            2993000670,
+            4,
+            "\u6085\u5fc3\u98ef\u5802",
+            "SHOP 30, 1/F, COMMERCIAL COMPLEX, AFFLUENCE GARDEN, 33 TSING CHUNG KOON ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2993000865,
+            4,
+            "\u8afe\u6a02\u96f2\u5ddd\u5c0f\u934b\u7c73\u7dab\u5916\u8ce3\u5c08\u9580\u5e97",
+            "SHOPSTALL NO. 1, LOWER G/F, MARKET, AFFLUENCE GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2993802085,
+            4,
+            "\u6e99\u8c50\u5c0f\u98df\u5e97",
+            "SHOP STALL NO. 36, LG/F, MARKET, AFFLUENCE GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2993808889,
+            4,
+            "\u6e6f\u540e",
+            "SHOP STALL NO. S31A & S31B, LG/F, AFFLUENCE GARDEN, COMMERCIAL COMPLEX, MARKET, 33 TSING CHUNG KOON ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            3693802957,
+            5,
+            "\u751f\u9686",
+            "STALL NO. 24, MARKET, LG/F, AFFLUENCE GARDEN COMMERCIAL COMPLEX, 33 TSING CHUNG KOON ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608122
+        ]
+      ],
+      "coordinate": [
+        1.9892380582181564,
+        0.39101671265352445,
+        13.700000762939453
+      ],
+      "halfSize": [
+        16.42199999978766,
+        20.39850000012666,
+        7.000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        509607938,
+        6,
+        [
+          [
+            2993804911,
+            4,
+            "\u9999\u6e2f\u8857\u982d\u5c0f\u98df",
+            "MARKET STALL NO. 43 & 49, G/F, TAI HING SHOPPING CENTRE, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2993811205,
+            4,
+            "\u5bae\u5d0e\u9eb5\u5305\u88fd\u4f5c\u6240",
+            "SHOP NO. L104, G/F, TAI HING SHOPPING CENTRE, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ],
+          [
+            3693800359,
+            5,
+            "WELLCOME SUPERMARKET",
+            "SHOP 43-53 (PORTION B), 1/F, SHOPPING CENTRE, PHASE 2, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            3693801237,
+            5,
+            "\u5927\u8208\u9bae\u9b5a",
+            "STALL NO. 55, MARKET, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3693801547,
+            5,
+            "\u8208\u767c\u9bae\u8089\u6a94",
+            "MARKET STALL NO. 61, G/F, TAI HING SHOPPING CENTRE, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3693803880,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP NO. L201 ( PORTION ), 1/F, TAI HING SHOPPING CENTRE, TAI HING ESTATE ,1 TAI HING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608145
+        ]
+      ],
+      "coordinate": [
+        1.9891644392969898,
+        0.3910040880560298,
+        12.5
+      ],
+      "halfSize": [
+        47.047499999869615,
+        44.36438999976963,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        509607939,
+        8,
+        [
+          [
+            2993001266,
+            4,
+            "\u6717\u8c6c\u7238\u7238\u5c0f\u5eda",
+            "SHOP NO. 73, LOWER G/F, DOR BOA BUILDING, 9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2993001804,
+            4,
+            "\u6ed9\u666f\u7f8e\u98df",
+            "SHOP NO. 29, G/F, DOR BOA BUILDING, 9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2993802881,
+            4,
+            "\u677e\u4e95\u58fd\u53f8\u523a\u8eab\u751f\u8814\u5c08\u9580\u5e97",
+            "SHOP 36, G/F, DOR BOA BUILDING, 9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-04"
+          ],
+          [
+            2993804595,
+            4,
+            "611\u5c0f\u98df",
+            "SHOP NO. 19 & 24, LG/F, DOR BOA BUILDING, 9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2993809970,
+            4,
+            "\u53c4\u58fd\u53f8",
+            "SHOP 34, G/F, DOR BOA BUILDING, 9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2993811454,
+            4,
+            "\u9ebb\u9ebb\u5730\u9ebb\u8fa3\u71d9",
+            "SHOP NO. 8, LG/F, DOR BOA BUILDING, NO.9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2993811728,
+            4,
+            "Grill Master",
+            "SHOP 31, G/F, DORBOA BUILDING, 9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-26"
+          ],
+          [
+            2993811889,
+            4,
+            "\u5feb\u6a02\u5c0f\u98df",
+            "SHOP 30, G/F, DOR BOA BUILDING, 9 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608155
+        ]
+      ],
+      "coordinate": [
+        1.9893061127131788,
+        0.39100613514206145,
+        39.099998474121094
+      ],
+      "halfSize": [
+        9.388000000268221,
+        10.860500000417233,
+        23.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        509607940,
+        12,
+        [
+          [
+            2893800024,
+            2,
+            "PINEWOOD FARM LIMITED",
+            "G/F (PORTION), CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2893800033,
+            2,
+            "PINEWOOD FARM LIMITED",
+            "1/F (PORTION), CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            2893800060,
+            2,
+            "EXTRANS INTERNATIONAL (HK) LIMITED",
+            "PORTION A OF FLAT B, 1/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            2993800894,
+            4,
+            "No Record",
+            "MINOR PORTION OF FLAT A TO D, 9/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2993807275,
+            4,
+            "( NO RECORD FOUND)",
+            "UNIT A, 7/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ],
+          [
+            2993807600,
+            4,
+            "FLOW WAN CHUEN LIMITED",
+            "UNIT A, 10/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ],
+          [
+            2993809138,
+            4,
+            "SWEET CANTEEN",
+            "FLAT H, 8/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2993810071,
+            4,
+            "\u6b61\u6a02\u9eb5\u5305\u5c4b",
+            "FLAT C, 4/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ],
+          [
+            2993810372,
+            4,
+            "EXTRANS INTERNATIONAL (HK) LIMITED",
+            "PORTION B OF FLAT B, 1/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            2993810424,
+            4,
+            "Rising Star",
+            "UNIT B, 7/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2993811418,
+            4,
+            "\u8c6a\u6c23\u6709\u9650\u516c\u53f8",
+            "UNIT B, 3/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2993811621,
+            4,
+            "No Record",
+            "UNIT C, 13/F, CENTURY INDUSTRIAL BUILDING, 1 TSING YEUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608341
+        ]
+      ],
+      "coordinate": [
+        1.9891533468452975,
+        0.3909653790931964,
+        46.45000076293945
+      ],
+      "halfSize": [
+        25.51150000002235,
+        28.27042999956757,
+        32.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        509607941,
+        1,
+        [
+          [
+            2993810761,
+            4,
+            "\u7f8e\u4e9e\u7279\u91ab\u98df\u54c1\u9999\u6e2f\u6709\u9650\u516c\u53f8",
+            "24/F (PORTION A), TAI HING INDUSTRIAL BUILDING, 3 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608387
+        ]
+      ],
+      "coordinate": [
+        1.9891581708468322,
+        0.3909571500711062,
+        81.1500015258789
+      ],
+      "halfSize": [
+        32.04550000000745,
+        29.85300000011921,
+        59.45000457763672
+      ]
+    },
+    {
+      "attributes": [
+        509607942,
+        6,
+        [
+          [
+            2993805844,
+            4,
+            "\u65b0\u83ef\u71d2\u5473\u9928",
+            "SHOP 3 (REAR PORTION), G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2993807585,
+            4,
+            "\u9999\u9ea5\u7530\u9eb5\u5305\u897f\u9905",
+            "SHOP 1H, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2993809299,
+            4,
+            "\u5bb6\u4e4b\u5473\u7f8e\u98df",
+            "SHOP 04, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2993810725,
+            4,
+            "\u4f73\u574a\u4e4b\u5473",
+            "SHOP 1A, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            3693803853,
+            5,
+            "\u751f\u9bae\u8a18",
+            "REAR PORTION OF SHOP 1E, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-18"
+          ],
+          [
+            3593800437,
+            8,
+            "\u65b0\u83ef\u71d2\u5473\u9928",
+            "SHOP 3 (FRONT PORTION), G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608388
+        ]
+      ],
+      "coordinate": [
+        1.9891866905804674,
+        0.3909605752842869,
+        20.149999618530273
+      ],
+      "halfSize": [
+        8.82949999999255,
+        7.313500000163913,
+        2.6499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        509607943,
+        1,
+        [
+          [
+            2593000366,
+            3,
+            "\u5357\u6d0b\u5144\u5f1f\u7159\u8349\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "12/F (PORTION), 9 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608665
+        ]
+      ],
+      "coordinate": [
+        1.9891355936420974,
+        0.39092829242971117,
+        56.89999771118164
+      ],
+      "halfSize": [
+        44.045639999676496,
+        23.520889999344945,
+        33.79999923706055
+      ]
+    },
+    {
+      "attributes": [
+        509607944,
+        1,
+        [
+          [
+            3693803093,
+            5,
+            "Chi Ching Frozen Food",
+            "SHOP 5, G/F, 7 SAN TSING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608673
+        ]
+      ],
+      "coordinate": [
+        1.9892582609988494,
+        0.39093052074481943,
+        10.5
+      ],
+      "halfSize": [
+        7.736165000125766,
+        5.53785500023514,
+        6.700000286102295
+      ]
+    },
+    {
+      "attributes": [
+        509607945,
+        1,
+        [
+          [
+            2993811940,
+            4,
+            "UNIFIED BAKERY",
+            "SHOP 2, G/F, LEE YUEN MANSION, NOS. 150 & 152 HO PONG STREET, NOS. 113 & 115 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608840
+        ]
+      ],
+      "coordinate": [
+        1.98923624780399,
+        0.3909149224128879,
+        14.850000381469727
+      ],
+      "halfSize": [
+        8.21100000012666,
+        9.278500000014901,
+        9.75
+      ]
+    },
+    {
+      "attributes": [
+        509607946,
+        3,
+        [
+          [
+            2993001983,
+            4,
+            "\u975a\u975a\u5feb\u9910\u5c0f\u98df",
+            "UNIT 2B, G/F, KWONG KIN TRADE CENTRE, 5 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2993809013,
+            4,
+            "MEAT AND WINE",
+            "ROOM 1108, 11/F, KWONG KIN TRADE CENTRE, NO. 5 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2993810752,
+            4,
+            "Wonderful Factory",
+            "PORTION A, ROOM 06, 10/F, KWONG KIN TRADE CENTRE, 5 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608956
+        ]
+      ],
+      "coordinate": [
+        1.9891146191034592,
+        0.390900198962416,
+        54.44999694824219
+      ],
+      "halfSize": [
+        15.53000000026077,
+        21.676199999637902,
+        47.25
+      ]
+    },
+    {
+      "attributes": [
+        509607947,
+        1,
+        [
+          [
+            3693800401,
+            5,
+            "PARKn SHOP",
+            "PORTIONS OF G/F, YAN OI TONG, JOCKEY CLUB & SPORTS CENTRE, 18 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608970
+        ]
+      ],
+      "coordinate": [
+        1.9892554771989928,
+        0.39089229679910303,
+        13.950000762939453
+      ],
+      "halfSize": [
+        27.579909999854863,
+        53.596494999714196,
+        9.25
+      ]
+    },
+    {
+      "attributes": [
+        509607948,
+        1,
+        [
+          [
+            2993803291,
+            4,
+            "\u54aa\u54aa\u7f8e\u98df",
+            "SHOP A, G/F, KIN WING COMMERCIAL BUILDING, 24-30 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608977
+        ]
+      ],
+      "coordinate": [
+        1.9891476729921205,
+        0.39089699399731526,
+        23.850000381469727
+      ],
+      "halfSize": [
+        22.046500000171363,
+        16.673000000417233,
+        18.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        509607949,
+        5,
+        [
+          [
+            2993802623,
+            4,
+            "Doo Dim Lui Lee",
+            "SHOP 3, G/F, MEI HANG BUILDING, 15-45 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-06"
+          ],
+          [
+            3693802443,
+            5,
+            "\u76db\u8c50\u5c08\u9580\u5e97",
+            "(PORTIONS) SHOP NO.12, G/F, MEI HANG BUILDING, 15-45 KAI MAN PATH , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3693802780,
+            5,
+            "Fullness Trading (Hong Kong) Limited",
+            "PORTIONS OF SHOP NO. 8, G/F., MEI HANG BUILDING, NOS.15/17, 21/25, 29/33, 37/41 & 45 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            3693803394,
+            5,
+            "\u7235\u723a\u706b\u934b\u98df\u6750\u5e97",
+            "SHOP 2, G/F, MEI HANG BUILDING BLOCK A, 19 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ],
+          [
+            4693803791,
+            5,
+            "\u597d\u9bae\u751f",
+            "PORTIONS OF SHOP 4, G/F., MEI HANG BUILDING, NO. 15-45 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608990
+        ]
+      ],
+      "coordinate": [
+        1.989238452834648,
+        0.3908901606595676,
+        15.600000381469727
+      ],
+      "halfSize": [
+        9.238090000115335,
+        33.78905500005931,
+        10.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        509607950,
+        4,
+        [
+          [
+            2993800104,
+            4,
+            "Sze Ngan Chai Frozen Meat Limited",
+            "FLAT 3-5, 5/F, KIN WING INDUSTRIAL BUILDING, 33 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2993802775,
+            4,
+            "HOP HING FROZEN MEAT CO",
+            "ROOM 1, 7/F, KIN WING INDUSTRIAL BUILDING, 33 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2993804285,
+            4,
+            "\u660e\u8208\u51cd\u8089\u98df\u54c1",
+            "ROOM 6, 9/F, KIN WING INDUSTRIAL BUILDING, 33 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2993807983,
+            4,
+            "Hang Sheng Food Limited",
+            "ROOM 3, 20/F, KIN WING INDUSTRIAL BUILDING, 33 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609002
+        ]
+      ],
+      "coordinate": [
+        1.9891238902824029,
+        0.3908924520461162,
+        49.70000076293945
+      ],
+      "halfSize": [
+        22.870240000076592,
+        12.543555000796914,
+        38.60000228881836
+      ]
+    },
+    {
+      "attributes": [
+        509607951,
+        1,
+        [
+          [
+            2993800070,
+            4,
+            "Hung Fook Tong Health Express",
+            "SHOP NO. 32 AT UNPAID CONCOURSE, TUEN MUN STATION, WEST RAIL, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609017
+        ]
+      ],
+      "coordinate": [
+        1.9892050542430306,
+        0.3908651437656361,
+        17.850000381469727
+      ],
+      "halfSize": [
+        56.854644999839365,
+        178.35192000027746,
+        13.25
+      ]
+    },
+    {
+      "attributes": [
+        509607952,
+        2,
+        [
+          [
+            2993805604,
+            4,
+            "\u5b78\u5229\u9b5a\u86cb",
+            "SHOP 6 (PORTION A) , G/F, MEI HANG BUILDING, 27 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            3693802090,
+            5,
+            "\u5b78\u5229\u9b5a\u86cb",
+            "SHOP 6 (PORTION B), G/F , MEI HANG BUILDING, 27 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609022
+        ]
+      ],
+      "coordinate": [
+        1.9892394262128579,
+        0.39088949346365126,
+        15.450000762939453
+      ],
+      "halfSize": [
+        7.857679999899119,
+        9.638469999656081,
+        10.75
+      ]
+    },
+    {
+      "attributes": [
+        509607953,
+        7,
+        [
+          [
+            2993805899,
+            4,
+            "LA FACTORY HK",
+            "UNIT 1, 2, 3 & 5, 9/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2993805905,
+            4,
+            "LA FACTORY HK",
+            "UNIT 17, 18 & 19, 9/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2993806209,
+            4,
+            "LEKKER FOOD INTERNATIONAL FUNCTIONAL FOODS CO., LIMITED",
+            "(PORTION) UNIT 6-7, 16/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-19"
+          ],
+          [
+            2993810716,
+            4,
+            "Yun Hong",
+            "UNIT 11, 16/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2993810831,
+            4,
+            "A-1 Bakery",
+            "15/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ],
+          [
+            2993811357,
+            4,
+            "Whitie Kong Liquor Limited",
+            "PORTION OF UNIT 12, 15 & 16, 16/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            3293800489,
+            6,
+            "LA FACTORY HK",
+            "UNIT 912, 9/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609023
+        ]
+      ],
+      "coordinate": [
+        1.9891446829535573,
+        0.39088627737984766,
+        46.30000305175781
+      ],
+      "halfSize": [
+        20.832374999765307,
+        29.684905000030994,
+        25.500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        509607954,
+        2,
+        [
+          [
+            2193800160,
+            1,
+            "\u753a\u6771\u70d8\u7119 MACHIGASHI BAKERY",
+            "SHOP G, G/F, KAM LAI BUILDING, 9 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            2993803866,
+            4,
+            "\u4e0a\u7f8e\u9ede",
+            "SHOP H , G/F, KAM LAI MANSION, 1-5 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609036
+        ]
+      ],
+      "coordinate": [
+        1.9892376097252253,
+        0.390883492004612,
+        14.200000762939453
+      ],
+      "halfSize": [
+        10.62690500030294,
+        15.120699999853969,
+        9.5
+      ]
+    },
+    {
+      "attributes": [
+        509607955,
+        2,
+        [
+          [
+            2993808667,
+            4,
+            "Soup PaPa Limited",
+            "UNIT D, 6/F, TAK WING INDUSTRIAL BUILDING, NO. 3 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2993810169,
+            4,
+            "TIGER CLOUD FOOD COMPANY LIMITED",
+            "ROOM C, 18/F, TAK WING INDUSTRIAL BUILDING, 3 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609037
+        ]
+      ],
+      "coordinate": [
+        1.9891768193081978,
+        0.3908799318796673,
+        48.25
+      ],
+      "halfSize": [
+        14.911559999920428,
+        26.024524999782443,
+        28.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        509607956,
+        2,
+        [
+          [
+            2993800159,
+            4,
+            "\u597d\u904b\u5e97",
+            "NO. 7, 8/F, MING FAT INDUSTRIAL CENTRE, 1 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2993807433,
+            4,
+            "PLANET VISION LIMITED",
+            "ROOM 1305, 13/F, MING FAT INDUSTRIAL CENTRE, 1 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609041
+        ]
+      ],
+      "coordinate": [
+        1.9891154471232642,
+        0.3908790942126237,
+        36.099998474121094
+      ],
+      "halfSize": [
+        10.429939999710768,
+        27.076735000126064,
+        24.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        509607957,
+        1,
+        [
+          [
+            3593800570,
+            8,
+            "\u6dfb\u5473\u6ef7\u6c34\u5de5\u574a",
+            "SHOP A, G/F, PARK COURT, 15-19 KAI FAT PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609078
+        ]
+      ],
+      "coordinate": [
+        1.9892509605001443,
+        0.390871221829681,
+        15.5
+      ],
+      "halfSize": [
+        17.767715000081807,
+        11.27515000011772,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        509607958,
+        29,
+        [
+          [
+            2593000083,
+            3,
+            "\u6ecb\u5473\u9910\u5ef3",
+            "FLAT B4, 5/F, BLOCK B, TMTL 76, TUEN MUN INDUSTRIAL CENTRE, PUI TO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2993000023,
+            4,
+            "\u9999\u6e2f\u706b\u817f\u5ee0",
+            "TMTL 76, FLAT C-1, G/F, FLAT E1 AND C-2(PORTION), 1/F, TUEN MUN IND. CENTRE, PUI TO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2993000245,
+            4,
+            "\u9999\u6e2f\u706b\u817f\u5ee0",
+            "G/F, AND C/L, TMTL 76, BLOCK D2, TUEN MUN IND. CENTRE, PUI TO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2993001062,
+            4,
+            "TAI TUNG BAKERY COMPANY LIMITED",
+            "UNIT C1 & C2, 15/F, BLOCK C, TUEN MUN INDUSTRIAL CENTRE, PUI TO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2993001187,
+            4,
+            "TAI TUNG BAKERY COMPANY LIMITED",
+            "TOP FLOOR, BLOCK C, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2993001859,
+            4,
+            "\u9577\u9806\u570b\u969b\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "COCKLOFT AND PORTION A OF UNIT 1,G/F, BLOCK B, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2993002506,
+            4,
+            "\u559c\u81e8\u9580",
+            "UNIT 1, 7/F, BLOCK C, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ],
+          [
+            2993800867,
+            4,
+            "Flow Wan Chuen Limited",
+            "UNIT E3 & E4, 14/F, BLOCK E, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2993802641,
+            4,
+            "\u751f\u9686\u81d8\u5473",
+            "FLAT 1, 8/F, BLOCK E, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2993803741,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "FLAT 3, 11/F, BLOCK F, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2993803990,
+            4,
+            "Great Taste Aloe Development Company Limited",
+            "UNIT B-1, 12/F, BLOCK B, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2993804036,
+            4,
+            "\u5fa9\u8208\u98f2\u98df\u6709\u9650\u516c\u53f8",
+            "UNIT B1, 9/F, BLOCK B, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2993804896,
+            4,
+            "Noah Food Company Limited",
+            "PORTION OF ROOM 1, 2/F, BLOCK D, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2993808135,
+            4,
+            "YING HING NOODLE FACTORY",
+            "FLAT 3, 8/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2993808515,
+            4,
+            "TSIT ON COFFEE COMPANY LIMITED",
+            "UNIT 2, 15/F, BLOCK F, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ],
+          [
+            2993808649,
+            4,
+            "HO LEE FISHBALL",
+            "ROOM 1, 6/F, BLOCK D, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2993809855,
+            4,
+            "FINE FOOD CONCEPT LIMITED",
+            "UNIT C4, 8/F, BLOCK C, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2993809864,
+            4,
+            "MI GA FOOD LIMITED",
+            "PORTION A OF UNIT E4, 8/F, BLOCK E, TUEN MUN INDUSTRIAL CENTRE, NO. 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2993810080,
+            4,
+            "No Record",
+            "UNIT A1 ON G/F & COCKLOFT, TUEN MUN INDUSTRIAL CENTRE, NO. 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-15"
+          ],
+          [
+            2993810646,
+            4,
+            "COCOA FOOD",
+            "PORTIONS OF UNIT D4, 12/F, TUEN MUN INDUSTRIAL CENTRE, NO. 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2993810965,
+            4,
+            "CHINA PHARMACEUTICAL TECHNOLOGY HONG KONG CO., LIMITED",
+            "PORTION OF FLAT F3, 14/F, BLOCK F, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2993811898,
+            4,
+            "PASTA CAR",
+            "PORTION G OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2993811904,
+            4,
+            "\u5bf6\u5bf6\u9910\u98f2",
+            "PORTION D OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2993811913,
+            4,
+            "A Day Baking",
+            "PORTION C OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2993811922,
+            4,
+            "No Record",
+            "PORTION B OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2993811931,
+            4,
+            "Nashi Pastry Limited",
+            "PORTION F OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2993811959,
+            4,
+            "\u9f0e\u9bae",
+            "PORTION H OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            2993811968,
+            4,
+            "No Record",
+            "PORTION E OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            2993811977,
+            4,
+            "\u6728\u5b50",
+            "PORTION J OF FLAT 4, 7/F, BLOCK A, TUEN MUN INDUSTRIAL CENTRE, 2 SAN PING CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609092
+        ]
+      ],
+      "coordinate": [
+        1.989133801553207,
+        0.39086130200410324,
+        32.29999923706055
+      ],
+      "halfSize": [
+        61.57899999991059,
+        45.44555499963462,
+        26.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        509607959,
+        1,
+        [
+          [
+            2995802265,
+            4,
+            "Taclon Industries Limited",
+            "PORTION C, 1/F AND PORTION B, G/F, T.P.T.L. 13 S.J.S.S. 2,11-13 DAI KING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609094
+        ]
+      ],
+      "coordinate": [
+        1.9892393541411788,
+        0.39086387686524005,
+        10.950000762939453
+      ],
+      "halfSize": [
+        31.112960000056773,
+        26.755495000630617,
+        6.250000476837158
+      ]
+    },
+    {
+      "attributes": [
+        509607960,
+        7,
+        [
+          [
+            2993000713,
+            4,
+            "\u4e8c\u8208\u71d2\u81d8\u91d1\u8c6c\u5ee0",
+            "12/F, FLAT D(MAJOR PORTION), YICK SHIU INDUSTRIAL BLDG., NO.1, SAN ON ST.,CPTL 50, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ],
+          [
+            2993800609,
+            4,
+            "TIP TOP WATER GROUP",
+            "PORTION OF UNIT B, 5/F, YICK SHIU INDUSTRIAL BUILDING, 1 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2993800955,
+            4,
+            "JADE TRADE LIMITED",
+            "FLAT B, 10/F, BLOCK A & B, YICK SHIU INDUSTRIAL BUILDING, 1 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2993802377,
+            4,
+            "Sky Union Limited",
+            "ROOM C & D, 2/F, YICK SHIU INDUSTRIAL BUILDING, 1 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2993802438,
+            4,
+            "Sky Best Enterprises Limited",
+            "ROOM B, 2/F, YICK SHIU INDUSTRIAL BUILDING, 1 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ],
+          [
+            2993805084,
+            4,
+            "(no record found)",
+            "ROOM C, 15/F, YICK SHIU INDUSTRIAL BUILDING, 1 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2993810594,
+            4,
+            "DEESSES STUDIOS",
+            "FLAT D ON 13TH FLOOR OF BLOCKS A & B OF YICK SHIU INDUSTRIAL BUILDING, NO. 1 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609100
+        ]
+      ],
+      "coordinate": [
+        1.9891513106985343,
+        0.3908596849533507,
+        34.64999771118164
+      ],
+      "halfSize": [
+        23.1010700003244,
+        20.68290499970317,
+        25.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        509607961,
+        1,
+        [
+          [
+            2593000144,
+            3,
+            "\uff39\uff2b\uff2b\u98df\u5802",
+            "21/F, YKK BUILDING, PHASE 2, 2 SAN LIK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609119
+        ]
+      ],
+      "coordinate": [
+        1.9891221572521072,
+        0.39083946049585633,
+        51.650001525878906
+      ],
+      "halfSize": [
+        27.326180000323802,
+        30.487584999762475,
+        45.25
+      ]
+    },
+    {
+      "attributes": [
+        509607962,
+        5,
+        [
+          [
+            2593000010,
+            3,
+            "\u7f8e\u8208\u98df\u5802",
+            "G/F, MAI KEI INDUSTRIAL BUILDING, 5 SAN HOP LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2593800207,
+            3,
+            "\u9b0d\u9b1a\u4f6c\u98ef\u5802",
+            "ROOM E, 1/F, MAI KEI INDUSTRIAL BUILDING, 5 SAN HOP LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2593800252,
+            3,
+            "Brainaholic Technology Limited",
+            "UNIT F, 1/F, MAI KEI INDUSTRIAL BUILDING, 5 SAN HOP LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2593800261,
+            3,
+            "\u7f8e\u5473\u98df\u5802",
+            "UNIT A, 1/F, MAI KEI INDUSTRIAL BUILDING, 5 SAN HOP LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2993811579,
+            4,
+            "LITTLE WHALE COFFEE",
+            "PORTION, FLAT F, 19/F, MAI KEI INDUSTRIAL BUILDING, NO. 5 SAN HOP LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609133
+        ]
+      ],
+      "coordinate": [
+        1.9891790665432874,
+        0.3908443921195633,
+        45.400001525878906
+      ],
+      "halfSize": [
+        15.055494999978691,
+        21.701439999975264,
+        40.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        509607963,
+        2,
+        [
+          [
+            2993000388,
+            4,
+            "\u738b\u69ae\u8a18",
+            "FLAT B, 18/F, KIN GA IND. BLDG, NO. 9, SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2993808904,
+            4,
+            "MAY TWELVE",
+            "FLAT B, 26/F, KIN GA INDUSTRIAL BUILDING, 9 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609153
+        ]
+      ],
+      "coordinate": [
+        1.989166168064009,
+        0.39083931637572267,
+        56.5
+      ],
+      "halfSize": [
+        15.65296999970451,
+        11.230710000731051,
+        36.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        509607964,
+        4,
+        [
+          [
+            2993805303,
+            4,
+            "Fi Fi Foodie",
+            "SHOP 19, G/F, VICTORY BUILDING, 3 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2993806731,
+            4,
+            "\u7396\u4f5c",
+            "SHOP 10D, G/F , VICTORY BUILDING, 3 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2993807266,
+            4,
+            "\u8c93\u6bdb",
+            "SHOP 1B, LG/F, VICTORY BUILDING, 3 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ],
+          [
+            2993811171,
+            4,
+            "\u55da\u5566\u4e00\u590f",
+            "SHOP 1A, G/F, VICTORY BUILDING, 3 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609173
+        ]
+      ],
+      "coordinate": [
+        1.9893104252326181,
+        0.3910253436971821,
+        13.25
+      ],
+      "halfSize": [
+        27.080320000182837,
+        19.808320000767708,
+        7.25
+      ]
+    },
+    {
+      "attributes": [
+        509607965,
+        2,
+        [
+          [
+            2993000926,
+            4,
+            "Yanmy Bakery",
+            "SHOP NO. 23, G/F, RICH BUILDING, 6 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-29"
+          ],
+          [
+            3693802009,
+            5,
+            "SHING HING LOONG FOOD LTD",
+            "SHOP 34-37, G/F, RICH BUILDING, 6 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609176
+        ]
+      ],
+      "coordinate": [
+        1.9893014339054076,
+        0.39101904350157807,
+        8.799999237060547
+      ],
+      "halfSize": [
+        12.276225000154227,
+        24.374415000900626,
+        3.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        509607966,
+        3,
+        [
+          [
+            2993800733,
+            4,
+            "Pizza Veg",
+            "SHOP 7D, G/F, KIM BO BUILDING, 5 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2993804762,
+            4,
+            "Cakestory",
+            "SHOP B7, 1/F, KIM BO BUILDING, 5 TSING MIN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            3693800997,
+            5,
+            "Wellcome",
+            "SHOP NO. 9, G/F (PORTION C) , KIM BOA BUILDING, TMTL 124, TSENG CHOY STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609177
+        ]
+      ],
+      "coordinate": [
+        1.989308777198568,
+        0.3910197314101592,
+        11.300000190734863
+      ],
+      "halfSize": [
+        22.018999999854714,
+        18.758499999530613,
+        4.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        509607967,
+        5,
+        [
+          [
+            2993000616,
+            4,
+            "\u798f\u5d17\u65e5\u672c\u5275\u4f5c\u6599\u7406",
+            "SHOP NO. 7, UPPER G/F, TMTL 127, COMMON BOND BLDG, CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2993000847,
+            4,
+            "\u591a\u9686\u5c0f\u98df",
+            "SHOP 2, UPPER G/F, COMMON BOND BLDG., 7 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2993001974,
+            4,
+            "\u91d1\u5bcc",
+            "SHOP NO. 23, G/F, COMMON BOND BUILDING, TMTL 127, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2993803927,
+            4,
+            "\u6cf0\u5973\u795e\u98df\u5e97",
+            "SHOP 1A, UPPER GROUND FLOOR, COMMON BOND BUILDING, 7 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2993810956,
+            4,
+            "SNACKS PARTY",
+            "SHOP 6, UPPER GROUND FLOOR, COMMON BOND BUILDING, 7 TSING CHUI PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609178
+        ]
+      ],
+      "coordinate": [
+        1.9893075042288224,
+        0.39101286014976816,
+        10.0
+      ],
+      "halfSize": [
+        14.416999999899417,
+        21.785500000230968,
+        3.8999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        509607968,
+        1,
+        [
+          [
+            2993809934,
+            4,
+            "Muzdalifah's Catering",
+            "SHOP 26, G/F, KAM FAT BUILDING, 9 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609179
+        ]
+      ],
+      "coordinate": [
+        1.989294933641514,
+        0.3910109916794472,
+        9.5
+      ],
+      "halfSize": [
+        13.824499999638647,
+        22.882000000216067,
+        3.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        509607969,
+        5,
+        [
+          [
+            2993002524,
+            4,
+            "\u5317\u6d77\u9053",
+            "SHOP 24, G/F, KAM MEN MANSION, 15 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2993800441,
+            4,
+            "7-ELEVEN",
+            "PORTION OF SHOP NO. 21, G/F, KAM MEN MANSION, 15 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2993801082,
+            4,
+            "\u86c7\u738b\u5982",
+            "SHOP 16B, G/F, KAM MEN MANSION, 15 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2993805206,
+            4,
+            "\u7d05\u6a4b\u591c\u5e02",
+            "SHOP NO. 10 (REAR PORTION), G/F, KAM MEN MANSION, 15 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ],
+          [
+            3293800124,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP NO. 21, G/F, KAM MEN MANSION, 15 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609185
+        ]
+      ],
+      "coordinate": [
+        1.9892902939700858,
+        0.39099731833520934,
+        10.600000381469727
+      ],
+      "halfSize": [
+        19.18599999975413,
+        23.378464999608696,
+        4.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        509607970,
+        3,
+        [
+          [
+            2993806892,
+            4,
+            "\u5de7\u5de7\u5473",
+            "SHOP G15A, TUNG WAI COURT SHOPPING CENTRE, 3 TSING LING PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2993809527,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336(\u6771\u5a01\u95a3\u5e97)",
+            "SHOP G04, TUNG WAI COURT SHOPPING CENTRE, 3 TSING LING PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2993809828,
+            4,
+            "\u9f4a\u8a18\u7f8e\u98df",
+            "SHOP G03, G/F, TUNG WAI COURT, 3 TSING LING PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609188
+        ]
+      ],
+      "coordinate": [
+        1.9892962117293511,
+        0.3909905673618399,
+        10.800000190734863
+      ],
+      "halfSize": [
+        19.197499999776483,
+        22.771499999798834,
+        4.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        509607971,
+        3,
+        [
+          [
+            2993809651,
+            4,
+            "\u6b63\u8a18",
+            "SHOP 18, G/F, HIP PONT BUILDING, 21 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2993810530,
+            4,
+            "Ming Kee Siu Mei",
+            "REAR PORTION OF SHOP NOS. 13 & 14, G/F, HIP PONT BUILDING, 21 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3593800640,
+            8,
+            "Ming Kee Siu Mei",
+            "FRONT PORTION OF SHOP NOS. 13 & 14, G/F, HIP PONT BUILDING, 21 TSENG CHOI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609193
+        ]
+      ],
+      "coordinate": [
+        1.9892864214732464,
+        0.39097859419388825,
+        10.25
+      ],
+      "halfSize": [
+        18.48849999997765,
+        17.720999999903142,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        509607972,
+        2,
+        [
+          [
+            2993808250,
+            4,
+            "\u5143\u6717\u82b1\u7532\u7c89",
+            "SHOP 14, G/F, LOOK YUEN, 6 TSING PAK PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            2993811287,
+            4,
+            "COOK & COOK grab to go",
+            "SHOP 7, G/F, LOOK YUEN, 6 TSING PAK PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609194
+        ]
+      ],
+      "coordinate": [
+        1.9892931779062197,
+        0.3909775465910442,
+        9.449999809265137
+      ],
+      "halfSize": [
+        17.954000000376254,
+        16.716500000096858,
+        3.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        509607973,
+        1,
+        [
+          [
+            2993806272,
+            4,
+            "\u65b0\u9999\u5feb\u9910\u5e97",
+            "SHOP NO. 29, G/F, ON LAI BUILDING, NO. 3 TSING TO PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609196
+        ]
+      ],
+      "coordinate": [
+        1.9892860710585583,
+        0.3909727145331257,
+        10.5
+      ],
+      "halfSize": [
+        12.580425000283867,
+        14.6717099994421,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        509607974,
+        3,
+        [
+          [
+            2993810682,
+            4,
+            "Sushi Take-Out",
+            "SHOP NO. G6, G/F, CHELSEA HEIGHTS, 1 SHEK PAI TAU PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2993810895,
+            4,
+            "A-1 Bakery",
+            "SHOP 120, 1/F, CHELSEA HEIGHTS, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-27"
+          ],
+          [
+            3693803783,
+            5,
+            "Han Yin Hong",
+            "PORTIONS OF SHOP NOS. 104 ON LEVEL 1 OF THE COMMERCIAL ACCOMMODATION OF CHELSEA HEIGHTS PHASE II, NO. 1 SHEK PAI TAU PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609197
+        ]
+      ],
+      "coordinate": [
+        1.9892211731372595,
+        0.3909642778529658,
+        15.450000762939453
+      ],
+      "halfSize": [
+        69.0339999999851,
+        53.8675000006333,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        509607975,
+        1,
+        [
+          [
+            3693802513,
+            5,
+            "\u7965\u8208\u98df\u54c1\u6279\u767c\u5e02\u5834",
+            "SHOP 2B (PORTION A), G/F, MAN CHEONG BUILDING, 5 TSING TO PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609198
+        ]
+      ],
+      "coordinate": [
+        1.9892894649109933,
+        0.3909722128092366,
+        9.450000762939453
+      ],
+      "halfSize": [
+        13.464350000023842,
+        14.3445999994874,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        509607976,
+        4,
+        [
+          [
+            2993001318,
+            4,
+            "LIKE'S",
+            "SHOP NO. 1(PORTION), G/F, HONG TAK GARDEN, 11 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2993801295,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP NO. 4, G/F, HONG TAK GARDENS, 11 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ],
+          [
+            3693803154,
+            5,
+            "Qdama",
+            "PORTION A OF SHOP 6, G/F , HONG TAK GARDENS, NO.11 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            3293800179,
+            6,
+            "7-ELEVEN",
+            "PORTION A OF SHOP NO. 4, G/F, HONG TAK GARDENS, 11 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609200
+        ]
+      ],
+      "coordinate": [
+        1.989168185879274,
+        0.3909667763821277,
+        18.100000381469727
+      ],
+      "halfSize": [
+        41.175464999862015,
+        30.705000000074506,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        509607977,
+        1,
+        [
+          [
+            3693002113,
+            5,
+            "Wellcome",
+            "G/F, SHOP 1 ( PORTION A), PHASE II, TAI HING GARDENS, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609202
+        ]
+      ],
+      "coordinate": [
+        1.9891676793190962,
+        0.3909530790810973,
+        18.950000762939453
+      ],
+      "halfSize": [
+        76.97434000018984,
+        60.067359999753535,
+        3.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        509607978,
+        19,
+        [
+          [
+            2993806926,
+            4,
+            "\u6cf0 \u96c5",
+            "SHOP NO. 66, 1/F , GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2993806962,
+            4,
+            "\u7117\u4f4f\u98df",
+            "SHOP NO. 75, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2993806971,
+            4,
+            "\u5c0f\u5ddd\u6eec\u62c9\u9eb5\u5c0f\u7c60\u5305",
+            "SHOP NO. 76, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2993806999,
+            4,
+            "\u5df7\u5f04 Alley Chick",
+            "SHOP NO. 65, 1/F , GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2993807035,
+            4,
+            "\u9189\u6ecb\u5473",
+            "SHOP NO. 64, 1/F , GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2993807044,
+            4,
+            "Sweet D Dessert",
+            "SHOP NO. 59, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2993807053,
+            4,
+            "Let's Eat",
+            "SHOP NO. 71, 1/F , GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2993807071,
+            4,
+            "\u5abd\u54aa\u9eb5",
+            "SHOP NO. 77, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2993807080,
+            4,
+            "Hanmi",
+            "SHOP NO. 68, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2993807099,
+            4,
+            "Coconut Mama",
+            "SHOP NO. 78, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2993807105,
+            4,
+            "\u5728\u610f\u6ecb\u5473",
+            "SHOP NO. 70, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            2993807187,
+            4,
+            "The Best Burger",
+            "SHOP NO. 63, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2993807196,
+            4,
+            "\u9752\u68ee",
+            "SHOP NO. 62, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2993807202,
+            4,
+            "\u829d\u58eb\u70d8 Crazy Cheesecake",
+            "SHOP NO. 72, 1/F , GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2993807406,
+            4,
+            "NING DUO C",
+            "SHOP NO. S01, G/F , GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            2993807619,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "SHOP NO. 12A, G/F, ELDO COURT SHOPPING CENTRE, 112 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2993807831,
+            4,
+            "HABIB'S KEBAB BIRYANI CURRY",
+            "SHOP NO. 58, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-09"
+          ],
+          [
+            2993809457,
+            4,
+            "C for Chicken",
+            "SHOP NO. 61, 1/F, GOGO MALL, 112-140 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ],
+          [
+            3693803844,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP NO. G8, G/F, SHOPPING ARCADE, ELDO COURT, 112-140 HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609208
+        ]
+      ],
+      "coordinate": [
+        1.9892496579724726,
+        0.39092542630337124,
+        11.050000190734863
+      ],
+      "halfSize": [
+        38.13400000007823,
+        69.27900000009686,
+        6.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        509607979,
+        4,
+        [
+          [
+            2993808533,
+            4,
+            "Starlight Roast Goose Specialist",
+            "PORTION B, SHOP 16, G/F, HONELEY COURT, 94-110 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            3693802504,
+            5,
+            "\u9818\u9bae",
+            "SHOP NO.5, G/F, HONLEY COURT, 94-110 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ],
+          [
+            3693803923,
+            5,
+            "\u4e09\u9bae\u574a",
+            "SHOP 3, G/F, HONLEY COURT, 94-110 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            3593800543,
+            8,
+            "Starlight Roast Goose Specialist",
+            "PORTION A, SHOP 16, G/F, HONELEY COURT, 94-110 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609214
+        ]
+      ],
+      "coordinate": [
+        1.9892431189082669,
+        0.39091100860498723,
+        8.399999618530273
+      ],
+      "halfSize": [
+        20.83178999973461,
+        22.35071500018239,
+        3.999999761581421
+      ]
+    },
+    {
+      "attributes": [
+        509607980,
+        1,
+        [
+          [
+            2993806625,
+            4,
+            "Q\u4f2f\u5c0f\u98df",
+            "SHOP 15 ON G/F OF LUCKY BUILDING, NOS. 97-105, 109-119 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609216
+        ]
+      ],
+      "coordinate": [
+        1.9892760154572509,
+        0.39090591765573,
+        7.5
+      ],
+      "halfSize": [
+        9.974214999936521,
+        15.757100000046194,
+        2.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        509607981,
+        3,
+        [
+          [
+            3693001590,
+            5,
+            "\u9ec3\u5143\u8208",
+            "SHOP 7A, G/F, HING FAT BUILDING, TMTL 256, KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            3693800845,
+            5,
+            "\u9752\u6797\u98df\u54c1\u8d85\u7d1a\u5e02\u5834",
+            "SHOP 2 & 3, G/F, 49 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ],
+          [
+            3693803871,
+            5,
+            "SUN FAT FROZEN FOOD SUPERMARKET",
+            "SHOP NO.1, G/F, HING FAT BUILDING, 49 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609218
+        ]
+      ],
+      "coordinate": [
+        1.9892430227790747,
+        0.3909044744751264,
+        9.049999237060547
+      ],
+      "halfSize": [
+        10.990710000041872,
+        16.628440000116825,
+        4.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        509607982,
+        1,
+        [
+          [
+            2993801532,
+            4,
+            "\u8f1d\u7687\u70d8\u7119",
+            "SHOP 1, G/F, BAMBOO COURT, 87 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609220
+        ]
+      ],
+      "coordinate": [
+        1.9892767576785613,
+        0.39090139420204034,
+        7.299999713897705
+      ],
+      "halfSize": [
+        9.214739999733865,
+        15.346239999867976,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        509607983,
+        4,
+        [
+          [
+            2993803981,
+            4,
+            "\u6771\u57ce\u9eb5\u98fd\u5e97",
+            "SHOP 5, G/F, GOLDEN ORCHID COURT, 3 LUK YUEN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2993805224,
+            4,
+            "\u5764\u8a18\u8178\u7c89",
+            "SHOP 3, G/F, GOLDEN ORCHID COURT, 3 LUK YUEN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2993806582,
+            4,
+            "\u5b63\u559c",
+            "SHOP NO.6 (REAR PORTION), G/F, GOLDEN ORCHID COURT, 3 LUK YUEN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            3593800473,
+            8,
+            "\u5b63\u559c",
+            "SHOP NO.6 (FRONT PORTION), G/F, GOLDEN ORCHID COURT, 3 LUK YUEN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609221
+        ]
+      ],
+      "coordinate": [
+        1.9892420551979006,
+        0.3909007368687082,
+        7.049999713897705
+      ],
+      "halfSize": [
+        9.55337500013411,
+        10.675180000253022,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        509607984,
+        2,
+        [
+          [
+            2993810354,
+            4,
+            "\u5f88\u5f97\u8f1d",
+            "SHOP C2, G/F, GOLDEN COURT, 42-58 YAN OI TONG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3293800188,
+            6,
+            "7-ELEVEN",
+            "G/F, NOS. 56-58 (PORTION A), YAN OI TONG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609222
+        ]
+      ],
+      "coordinate": [
+        1.989272432092937,
+        0.39089309308750236,
+        7.349999904632568
+      ],
+      "halfSize": [
+        10.049715000204742,
+        19.254220000468194,
+        2.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        509607985,
+        2,
+        [
+          [
+            2993802331,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF WORKSHOP NO. 2A, G/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-10"
+          ],
+          [
+            3293800249,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF WORKSHOP NO. 2A, G/F, PARKLANE CENTRE, 25 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609224
+        ]
+      ],
+      "coordinate": [
+        1.9891450115359441,
+        0.3908868416628706,
+        13.149999618530273
+      ],
+      "halfSize": [
+        25.71999999973923,
+        36.10000000055879,
+        7.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        509607986,
+        10,
+        [
+          [
+            2993809192,
+            4,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP 17C, G/F, TUEN MUN CENTRE, 7-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3693800951,
+            5,
+            "Wellcome",
+            "1/F(PORTION A), FORWARD MANSION, 26A YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            3693803446,
+            5,
+            "\u9bae\u5473\u5e02\u5834",
+            "PORTION A & B OF SHOP 4, G/F, TUEN MUN CENTRE, 7-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-27"
+          ],
+          [
+            3693803473,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "SHOP NO. 17A, G/F, TUEN MUN CENTRE, NOS. 7-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3693803516,
+            5,
+            "\u4e8c\u5e2b\u5144 \u65b0\u9bae\u8c6c\u8089\u5c08\u9580\u5e97",
+            "SHOP 10A, G/F, TUEN MUN CENTRE, NOS. 2, 4, 6 & 8 WO PING PATH, NOS. 7-11, 15-25, 29, 33-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3693803659,
+            5,
+            "\u5143\u5e25\u672c\u5730\u8fb2\u5834\u8c6c",
+            "SHOP 14, G/F, TUEN MUN CENTRE, NOS. 2, 4, 6 & 8 WO PING PATH, NOS. 7-11, 15-25, 29, 33-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-07"
+          ],
+          [
+            3693803817,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOPS F, G, H & I, G/F, FORWARD MANSION, NO. 26A YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3693803950,
+            5,
+            "\u9322\u5927\u5abd",
+            "PORTIONS OF SHOP 5, G/F, TUEN MUN CENTRE, 7-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ],
+          [
+            3693804005,
+            5,
+            "\u9b5a\u591a\u591a",
+            "SHOP NO. 17B, G/F, TUEN MUN CENTRE, 7-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            4693803782,
+            5,
+            "No Record",
+            "SHOP 10B, G/F, TUEN MUN CENTRE, 7-35 YAN CHING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609228
+        ]
+      ],
+      "coordinate": [
+        1.9892449072142657,
+        0.39088235691381445,
+        11.949999809265137
+      ],
+      "halfSize": [
+        28.34038000041619,
+        21.837244999594986,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509607987,
+        3,
+        [
+          [
+            2993801639,
+            4,
+            "\u9999\u6e2f\u4ed4\u5fb7\u8a18",
+            "SHOP 60, G/F, KAR WAH BUILDING , 11-17 CASTLE PEAK ROAD , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2993809846,
+            4,
+            "\u8d8a\u5473\u5c4b",
+            "SHOP 2, G/F, KAR WAH BUILDING, 11-17 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2993810664,
+            4,
+            "\u5341\u4e09\u98db",
+            "SHOP NO. 57, G/F., KAR WAH BUILDING, 11-17 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609233
+        ]
+      ],
+      "coordinate": [
+        1.9892803209749685,
+        0.3908759941989492,
+        8.899999618530273
+      ],
+      "halfSize": [
+        12.033999999985099,
+        31.039499999955297,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        509607988,
+        1,
+        [
+          [
+            2993811816,
+            4,
+            "MACHI DONBURI",
+            "SHOP 1, G/F, HOI SHING BUILDING, 18 TAK CHING COURT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609237
+        ]
+      ],
+      "coordinate": [
+        1.9892366362429386,
+        0.3908711666803241,
+        7.0
+      ],
+      "halfSize": [
+        10.931874999776483,
+        16.369634999893606,
+        2.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        509607989,
+        1,
+        [
+          [
+            2993810008,
+            4,
+            "\u8c50\u76c8\u5c0f\u98df",
+            "SHOP B1, G/F, MAN SHING BUILDING, NO. 1 KAI FAT PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609239
+        ]
+      ],
+      "coordinate": [
+        1.9892512498144634,
+        0.39086516956548134,
+        8.899999618530273
+      ],
+      "halfSize": [
+        11.671920000109822,
+        19.565870000049472,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        509607990,
+        1,
+        [
+          [
+            2993810910,
+            4,
+            "FOOD KIOSK BY CRYSTAL JADE",
+            "PORTION A OF SHOP B828, LEVEL 2, TUEN MUN TOWN PLAZA PHASE 3, J/O PUI TO ROAD & CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609241
+        ]
+      ],
+      "coordinate": [
+        1.9892796491782927,
+        0.3908582343863539,
+        11.350000381469727
+      ],
+      "halfSize": [
+        37.9320000000298,
+        28.54299999959767,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        509607991,
+        16,
+        [
+          [
+            2993800511,
+            4,
+            "Hung Fook Tong Herbal Tea Shop",
+            "SHOP NO. 8A, G/F, TUEN MUN TOWN PLAZA, PHASE 2, TMTL 235, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2993801204,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 7, G/F, TUEN MUN TOWN PLAZA PHASE II, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-30"
+          ],
+          [
+            2993806847,
+            4,
+            "\u8c6a\u5927\u5927",
+            "SHOP NO. 6, G/F, PHASE II, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2993808144,
+            4,
+            "Paper Stone Bakery",
+            "SHOP 10 & 11, 1/F, PHASE II, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2993810257,
+            4,
+            "\u5bff\u53f8\u307b\u3093\u307d",
+            "STALL F OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2993810336,
+            4,
+            "\u6a02\u9ad8\u9905\u5e97",
+            "STALL D OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2993810345,
+            4,
+            "KONG MEIDOU",
+            "STALL H OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            2993810521,
+            4,
+            "\u9903\u5b50\u7687x\u9b5a\u6ecb\u5473",
+            "STALL G OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2993811010,
+            4,
+            "SHARETEA",
+            "SHOP NOS. 35 & 36, 1/F., TUEN MUN TOWN PLAZA, PHASE II, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2993811108,
+            4,
+            "LMM HAND CRUSHED LEMON TEA",
+            "SHOP NO. 5, G/F., PHASE II, TUEN MUN TOWN PLAZA, NO. 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            3693803552,
+            5,
+            "BUTCHER CRAFT",
+            "STALL I OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3693803561,
+            5,
+            "\u725b\u5e02",
+            "STALL K OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            3693803589,
+            5,
+            "\u6d77\u9bae\u57ce",
+            "STALL J OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ],
+          [
+            3693803604,
+            5,
+            "\u9999\u6e2f\u9bae\u8c6c x \u6709\u71df\u8fb2\u7267",
+            "STALL L OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3293800151,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 7, G/F, TUEN MUN TOWN PLAZA PHASE II , 3 TUEN LUNG STREET , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-30"
+          ],
+          [
+            3593800631,
+            8,
+            "\u91d1\u6ef7\u52a0x\u71d2\u9d5d\u7687\u5b50",
+            "STALL M OF 2/F, PHASE 2, TUEN MUN TOWN PLAZA, 3 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609243
+        ]
+      ],
+      "coordinate": [
+        1.9892609585246854,
+        0.3908501114171078,
+        12.850000381469727
+      ],
+      "halfSize": [
+        34.768999999854714,
+        34.118999999947846,
+        8.75
+      ]
+    },
+    {
+      "attributes": [
+        509607992,
+        5,
+        [
+          [
+            2993801620,
+            4,
+            "MOS BURGER",
+            "SHOP 206-208, LEVEL 2, K-POINT, 1 TUEN LUNG STREET , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ],
+          [
+            2993809031,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336(\u9326\u8588\u574a\u5e97)",
+            "SHOP NO. 203C, LEVEL 2, K-POINT, 1 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2993809448,
+            4,
+            "NEW WORLD MART",
+            "SHOP NO. 106 (PORTION A), LEVEL 1, K-POINT, NO. 1 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2993811649,
+            4,
+            "DOUGH BROS",
+            "SHOP 103B, LEVEL 1 OF K-POINT, 1 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3693803349,
+            5,
+            "NEW WORLD MART",
+            "SHOP NO. 106 (PORTION B), LEVEL 1, K-POINT, NO. 1 TUEN LUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609245
+        ]
+      ],
+      "coordinate": [
+        1.9892477979811105,
+        0.390846131847124,
+        10.850000381469727
+      ],
+      "halfSize": [
+        37.49750000005588,
+        30.42299999948591,
+        6.25
+      ]
+    },
+    {
+      "attributes": [
+        509607993,
+        1,
+        [
+          [
+            2993001460,
+            4,
+            "\u9d3b\u8a18",
+            "SHOP U2, UPPER G/F, FOO YICK COMMERCIAL BLDG, 2 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609246
+        ]
+      ],
+      "coordinate": [
+        1.9891547794787383,
+        0.390845753493191,
+        12.449999809265137
+      ],
+      "halfSize": [
+        21.813205000013113,
+        15.152479999698699,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509607994,
+        2,
+        [
+          [
+            3293000016,
+            6,
+            "The Kowloon Dairy Limited",
+            "2/F, 3/F (PORTION) & 4/F (PORTION), 7 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2693000011,
+            7,
+            "\u4e5d\u9f8d\u7dad\u8a18\u725b\u5976\u6709\u9650\u516c\u53f8",
+            "G/F & 1/F, 7 SAN ON STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609247
+        ]
+      ],
+      "coordinate": [
+        1.9891657562381595,
+        0.3908430307325342,
+        12.40000057220459
+      ],
+      "halfSize": [
+        20.2497849999927,
+        18.57514499966055,
+        7.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509607995,
+        9,
+        [
+          [
+            2993002205,
+            4,
+            "\u6c34\u7530\u98df\u54c1\u5ee0",
+            "UNIT G, 6/F, BLOCK I, KOON WAH MIRROR FACTORY(6TH)IND. BLDG., 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2993002278,
+            4,
+            "EASTWARD FOODS COMPANY LIMITED",
+            "UNIT B, 10/F, BLOCK 2, KOON WAH MIRRORS FACTORY(6TH)IND. BLDG., 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-05"
+          ],
+          [
+            2993802289,
+            4,
+            "FRESH FRESH",
+            "WORKSHOP G & H, 7/F, BLOCK 1, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            2993805233,
+            4,
+            "Turbo Ice (Lemon Slice Processing)",
+            "FLAT A, 9/F, BLOCK 2, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2993806014,
+            4,
+            "\u7c21\u54c1\u5802",
+            "FLAT E, 9/F, BLOCK 1, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2993808746,
+            4,
+            "Ching Hang Catering Limited",
+            "UNIT G, 10/F, BLOCK 1, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2993811409,
+            4,
+            "Hung Fat Sweetie Patisserie (Hong Kong) Company Limited",
+            "SHOP E, 8/F, BLOCK 1, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2993811685,
+            4,
+            "Freshfresh",
+            "FLAT G & H, 9/F, BLOCK 1, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, NO. 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            4993812233,
+            4,
+            "TURBO ICE (FOOD PROCESSING)",
+            "FLAT A, 8/F, BLOCK 2, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609256
+        ]
+      ],
+      "coordinate": [
+        1.9891312644523715,
+        0.3909194099644883,
+        44.900001525878906
+      ],
+      "halfSize": [
+        22.755449999589473,
+        10.76397500000894,
+        22.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        509607996,
+        3,
+        [
+          [
+            2993808490,
+            4,
+            "HONG KONG WING HONG PHARMACEUTICAL LTD",
+            "MINOR PORTION, UNIT A, 7/F, PHASE 2, HUNG CHEUNG INDUSTRIAL CENTRE, 10 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2993810479,
+            4,
+            "No Record",
+            "PORTION OF UNIT A, 10/F, PHASE 2, HUNG CHEUNG INDUSTRIAL CENTRE, 10 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2993811551,
+            4,
+            "IPMS LOGISTICS LIMITED",
+            "PORTION OF UNIT A, 9/F, PHASE 2, HUNG CHEUNG INDUSTRIAL CENTRE, 10 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609257
+        ]
+      ],
+      "coordinate": [
+        1.9891355840668126,
+        0.39094012479072815,
+        52.0
+      ],
+      "halfSize": [
+        21.57996999984607,
+        34.92746500018984,
+        16.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        509607997,
+        1,
+        [
+          [
+            2993809758,
+            4,
+            "PING KEE HONG TRADING INTERNATIONAL LIMITED",
+            "PORTION A OF FLAT A, 9/F, WANG CHEUNG INDUSTRIAL BUILDING, 6 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609260
+        ]
+      ],
+      "coordinate": [
+        1.9891465253541136,
+        0.3909471661287028,
+        53.25
+      ],
+      "halfSize": [
+        19.881174999754876,
+        19.290994999930263,
+        19.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        509607998,
+        1,
+        [
+          [
+            2993001938,
+            4,
+            "\u9023\u548c\u5eb7\u8a18",
+            "UNIT 1, 11/F, RATON INDUSTRIAL BUILDING, 4 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609261
+        ]
+      ],
+      "coordinate": [
+        1.9891314337514812,
+        0.3909057904427681,
+        35.900001525878906
+      ],
+      "halfSize": [
+        35.31324000004679,
+        14.12362000066787,
+        15.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        509607999,
+        3,
+        [
+          [
+            2593800076,
+            3,
+            "\u7f8e\u5fb7",
+            "UNITS A & B, 6/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2993807220,
+            4,
+            "9A Kitchen",
+            "UNIT A, 9/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-06"
+          ],
+          [
+            2993809624,
+            4,
+            "A.littlemoment.pastry",
+            "FACTORY K, 14/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609263
+        ]
+      ],
+      "coordinate": [
+        1.989123381553608,
+        0.39096392063347074,
+        48.20000076293945
+      ],
+      "halfSize": [
+        31.569854999892414,
+        19.284609999507666,
+        22.60000228881836
+      ]
+    },
+    {
+      "attributes": [
+        509608000,
+        1,
+        [
+          [
+            3693803455,
+            5,
+            "Foodpanda",
+            "PORTIONS OF SHOP NOS. 4 & 5, 3/F., NO. 4 KIN FAT LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609269
+        ]
+      ],
+      "coordinate": [
+        1.9891307926507895,
+        0.3908992676420241,
+        31.19999885559082
+      ],
+      "halfSize": [
+        25.58180500008166,
+        15.633504999801517,
+        18.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        509608001,
+        6,
+        [
+          [
+            2993000360,
+            4,
+            "\u9806\u5229",
+            "RM. 13 & 14, 11/F, KIN FAT IND. CENTRE, NO. 13, KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2993002108,
+            4,
+            "\u9806\u5229",
+            "FLAT 12, 11/F, KIN FAT IND. CENTRE, 13 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2993800654,
+            4,
+            "Million Top Industrial Limited",
+            "FLAT 9-11 (PORTION), 8/F, KIN FAT INDUSTRIAL CENTRE, 13 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2993801912,
+            4,
+            "\u9806\u5229\u7c89\u9eb5\u5ee0",
+            "FLAT 11, 11/F, KIN FAT INDUSTRIAL CENTRE, 13 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ],
+          [
+            2993804188,
+            4,
+            "Million Top Industrial Limited",
+            "FLAT 1, 8/F, KIN FAT INDUSTRIAL CENTRE, 13 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-12"
+          ],
+          [
+            2993809688,
+            4,
+            "Buddha Jump F&B",
+            "FLAT 4, 13/F, KIN FAT INDUSTRIAL CENTRE, 13 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609270
+        ]
+      ],
+      "coordinate": [
+        1.989113796629701,
+        0.39093913404663233,
+        51.0
+      ],
+      "halfSize": [
+        16.234115000348538,
+        37.2362449998036,
+        19.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        509608002,
+        9,
+        [
+          [
+            2193000122,
+            1,
+            "\u9999\u9ea5\u7530 Bakery",
+            "ROOM 1202-1207, 12/F, SUN HING INDUSTRIAL BUILDING, TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2993000704,
+            4,
+            "\u9903\u91cc",
+            "ROOM 11 & 12, 9/F, SUN HING INDUSTRIAL BLDG., 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-02-26"
+          ],
+          [
+            2993803468,
+            4,
+            "WING KO",
+            "FACTORY UNIT 04, 8TH FLOOR, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2993808737,
+            4,
+            "\u535c\u535c\u9903\u5b50\u5e97",
+            "ROOM 13, 10/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2993809183,
+            4,
+            "\u91d1\u9298\u6f6e\u6d32\u7c89\u9eb5",
+            "FLAT 3, 14/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2993810105,
+            4,
+            "TUMMY FOOD",
+            "FLAT 9, 11/F, SUN HING INDUSTRIAL BUILDING, NO. 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2993811038,
+            4,
+            "\u4f4f\u5bb6\u83dc",
+            "UNIT 03 & 04, 9/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2993811515,
+            4,
+            "BLAZE & BITES LIMITED",
+            "UNIT 14, 13/F , SUN HING INDUSTRIAL BUILDING, NO.22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            4993812349,
+            4,
+            "\u9999\u9ea5\u7530 BAKERY",
+            "ROOM 1208-1209, 12/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609279
+        ]
+      ],
+      "coordinate": [
+        1.989145385910044,
+        0.3909535087065243,
+        51.150001525878906
+      ],
+      "halfSize": [
+        15.101489999797195,
+        20.583390000276268,
+        19.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        509608003,
+        28,
+        [
+          [
+            2593800100,
+            3,
+            "\u87a2\u706b\u87f2\u9910\u5ef3",
+            "FLAT 14, 4/F, BLOCK C, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2993000795,
+            4,
+            "\u540c\u5fb7\u9686\u98df\u54c1\u516c\u53f8",
+            "FLAT A-11 & A-12, 16/F, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2993001080,
+            4,
+            "\u6f58\u8a18",
+            "ROOM A1-2, 5/F, BLOCK A, DELYA IND. CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            2993001488,
+            4,
+            "HO PUI KEE FOOD LIMITED",
+            "SHOP A7 & A8, 15/F, BLOCK A, DEYLA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2993001600,
+            4,
+            "\u8ca1\u8a18\u71d2\u814a\u6279\u767c\u516c\u53f8",
+            "12/F, UNIT NOS. 1, 2, 7 & 8 (PORTION), BLOCK A, DELYA IND. CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2993001725,
+            4,
+            "\u8559\u862d",
+            "UNIT NO. 3 & 4, 4/F, BLOCK C, DELYA IND. CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2993002348,
+            4,
+            "Grace's Kitchen",
+            "FLAT 11 - 12, 7/F, BLOCK C, DELYA IND. CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2993800371,
+            4,
+            "\u9bae\u9b5a\u6e6f\u98df\u54c1\u516c\u53f8",
+            "FLAT A5, 11/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2993800928,
+            4,
+            "TAI HING COMPANY",
+            "ROOM A1, 16/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2993803486,
+            4,
+            "K's Cakes & Cookies",
+            "FLAT 1, 6/F, BLOCK B, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2993805631,
+            4,
+            "\u8da3\u9999\u98df\u54c1\u88fd\u9020\u5ee0",
+            "FLAT 13-14, 9/F, BLOCK C, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ],
+          [
+            2993806227,
+            4,
+            "\u751c\u68ee\u98df\u54c1\u88fd\u4f5c",
+            "PORTION A OF FLAT A1, 14/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ],
+          [
+            2993807123,
+            4,
+            "CORNER OF SWEETS",
+            "FLAT 13, 12/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-24"
+          ],
+          [
+            2993807293,
+            4,
+            "HENGLI TRADING COMPANY",
+            "UNIT 08, 11/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2993807965,
+            4,
+            "DREAM MOMO",
+            "UNIT 01, 4/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2993808913,
+            4,
+            "Sheep Sweet Factory",
+            "FLAT B11, 12/F, BLOCK B, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2993809174,
+            4,
+            "\u4ee8\u5fc3\u5169\u610f",
+            "UNIT 3, 4/F, BLOCK B, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            2993809475,
+            4,
+            "\u6e6f\u5927\u592b",
+            "FLAT 13, 16/F, BLOCK A, DELYA INDUSTRIAL CENTRE, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2993809800,
+            4,
+            "\u767e\u5ddd\u994c\u6709\u9650\u516c\u53f8",
+            "FLAT 10, 10/F, BLOCK B, DELYA INDUSTRIAL CENTRE, NO. 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2993809873,
+            4,
+            "MIYAZAKI BAKERY \u5bae\u5d0e\u9eb5\u5305\u88fd\u4f5c\u6240",
+            "ROOM 10, 4/F, BLOCK C, DELYA INDUSTRIAL CENTRE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2993810053,
+            4,
+            "March Cake",
+            "UNIT 4, 6/F, BLOCK C, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2993810114,
+            4,
+            "\u99ff\u6607\u98df\u54c1\u516c\u53f8",
+            "WORKSHOP 4, 13/F, BLOCK B, DELYA INDUSTRIAL CENTRE, NO. 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-20"
+          ],
+          [
+            2993810187,
+            4,
+            "MAMMA M.I.A",
+            "UNIT C4, 15/F, BLOCK C, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-02"
+          ],
+          [
+            2993810293,
+            4,
+            "Ever Best Foods Company Limited",
+            "FLAT 05, 13/F, BLOCK C, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2993810318,
+            4,
+            "Moon Moon",
+            "UNIT 13, 14/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2993810734,
+            4,
+            "\u80a5\u4ed4\u512a\u8cea\u98df\u6750\u5c08\u9580\u5e97",
+            "UNIT 11, 13/F, BLOCK C, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2993810868,
+            4,
+            "Wagyu Expert Limited",
+            "UNIT 11, 12/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            3293800391,
+            6,
+            "\u751c\u68ee\u98df\u54c1\u88fd\u4f5c",
+            "PORTION B OF FLAT A1, 14/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609280
+        ]
+      ],
+      "coordinate": [
+        1.989133425493784,
+        0.3909631537747122,
+        50.599998474121094
+      ],
+      "halfSize": [
+        13.681609999854118,
+        23.51946000009775,
+        25.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        509608004,
+        4,
+        [
+          [
+            2993803574,
+            4,
+            "No Record",
+            "UNIT E, 9/F, HUNG CHEUNG INDUSTRIAL CENTRE, PHASE I, 12 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            2993807415,
+            4,
+            "\u7d05\u904b\u5c0f\u5eda",
+            "PORTION OF UNIT A, 12/F, HUNG CHEUNG INDUSTRIAL CENTRE, PHASE 1, 12 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2993810628,
+            4,
+            "KOON WAN KAU FOOD FACTORY LIMITED",
+            "ROOM E, 10/F, HUNG CHEUNG INDUSTRIAL CENTRE PHASE 1, 12 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2993811746,
+            4,
+            "\u5929\u5929\u7c89\u9eb5\u5ee0",
+            "UNIT H, 6/F, HUNG CHEUNG INDUSTRIAL CENTRE, PHASE I, 12 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609286
+        ]
+      ],
+      "coordinate": [
+        1.9891364650199093,
+        0.3909500679020937,
+        49.900001525878906
+      ],
+      "halfSize": [
+        21.425044999923557,
+        32.540765000507236,
+        17.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        509608005,
+        3,
+        [
+          [
+            2993804267,
+            4,
+            "No Record",
+            "ROOM 4, 11/F, WAH WAN INDUSTRIAL BUILDING, 2 KIN FAT LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            2993807169,
+            4,
+            "ASIA TRADING COMPANY LIMITED",
+            "UNIT 1, 8/F, WAH WAN INDUSTRIAL BUILDING, 2 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-18"
+          ],
+          [
+            2993810132,
+            4,
+            "TASTE GOODS PLACE",
+            "UNIT 4, 8/F, WAH WAN INDUSTRIAL BUILDING, 2 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609287
+        ]
+      ],
+      "coordinate": [
+        1.9891233497991434,
+        0.3908991334058129,
+        45.35000228881836
+      ],
+      "halfSize": [
+        19.546759999822825,
+        11.25266999937594,
+        23.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        509608006,
+        7,
+        [
+          [
+            2993000722,
+            4,
+            "\u8d99\u83ef\u8a18",
+            "UNIT 7, 8/F, BLOCK B, TAK LEE INDUSTRIAL CENTRE, NO.8, TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-01"
+          ],
+          [
+            2993804434,
+            4,
+            "\u5fae\u98a8\u751c\u820d Breeze Lab",
+            "UNIT 4, 12/F, BLOCK B, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-31"
+          ],
+          [
+            2993804744,
+            4,
+            "(no record found)",
+            "ROOM 12, 5/F, BLOCK B, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            2993807974,
+            4,
+            "\u5f88\u5f97\u8f1d",
+            "FLAT 16, 19/F, BLOCK A, TAK LEE INDUSTRIAL CENTRE, NOS. 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2993810123,
+            4,
+            "Bagel life",
+            "ROOM 10, 15/F, BLOCK A, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-23"
+          ],
+          [
+            2993810460,
+            4,
+            "Mr. Yu",
+            "ROOM 14, 10/F, BLOCK A, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2993811047,
+            4,
+            "YUEN LONG FOOD LIMITED",
+            "ROOM 16, 13/F, BLOCK B, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609290
+        ]
+      ],
+      "coordinate": [
+        1.9891429256447821,
+        0.3909359990679621,
+        62.55000305175781
+      ],
+      "halfSize": [
+        16.429884999990463,
+        16.5555549999699,
+        27.250001907348633
+      ]
+    },
+    {
+      "attributes": [
+        509608007,
+        6,
+        [
+          [
+            2993001567,
+            4,
+            "\u591a\u798f\u9b5a",
+            "UNIT E, 10/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2993800195,
+            4,
+            "\u65b05\u9910\u96c6\u5718\u6709\u9650\u516c\u53f8",
+            "UNITS D, F & H, 15/F, CO-TACK INDUSTRIAL BUILDNG, NO. 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2993802872,
+            4,
+            "FASHION CHOICE FOODS ENTERPRISE COMPANY LIMITED",
+            "FLAT C, 9/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-04"
+          ],
+          [
+            2993802890,
+            4,
+            "CAS WAGYU (Hong Kong) Limited",
+            "FLAT B, 16/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2993809925,
+            4,
+            "\u7fe0\u82d1",
+            "FLAT H, 11/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2993810390,
+            4,
+            "XING LONG INTERNATIONAL GROUP HOLDING LIMITED",
+            "UNIT D, 13/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609295
+        ]
+      ],
+      "coordinate": [
+        1.9891169991423432,
+        0.3909557456415118,
+        59.80000305175781
+      ],
+      "halfSize": [
+        15.049595000222325,
+        15.56216000020504,
+        24.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        509608008,
+        4,
+        [
+          [
+            2993801444,
+            4,
+            "\u5275\u5104",
+            "FLAT 11, 12/F, BLOCK B, GOODVIEW INDUSTRIAL BUILDING, 11 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2993801985,
+            4,
+            "\u5275\u5104",
+            "FLAT 12, 12/F, BLOCK B, GOODVIEW INDUSTRIAL BUILDING, 11 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-11"
+          ],
+          [
+            2993805561,
+            4,
+            "(no record found)",
+            "FLAT 11, 14/F, GOODVIEW INDUSTRIAL BUILDING, 11 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2993808153,
+            4,
+            "No Record",
+            "FLAT 24, 7/F, BLOCK B, GOODVIEW INDUSTRIAL BUILDING, 11 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609299
+        ]
+      ],
+      "coordinate": [
+        1.9891132021843345,
+        0.3909243018631456,
+        47.849998474121094
+      ],
+      "halfSize": [
+        15.00347499968484,
+        35.444684999994934,
+        20.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        509608009,
+        6,
+        [
+          [
+            2993002393,
+            4,
+            "Vitasoy International Holdings Limited",
+            "12/F, 13/F (MINOR PORTION) AND 15/F (PORTION), 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2993002418,
+            4,
+            "Vitasoy International Holdings Limited",
+            "10 L/F & 11/F, 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2993800618,
+            4,
+            "Vitasoy International Holdings Limited",
+            "13/F (MAJOR PORTION), NO. 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-10"
+          ],
+          [
+            2993801417,
+            4,
+            "Vitasoy International Holdings Limited",
+            "7/F, 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2693000020,
+            7,
+            "Vitasoy International Holdings Limited",
+            "12/F (MAJOR PORTION) AND 13/F (MINOR PORTION), NO. 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2693000039,
+            7,
+            "Vitasoy International Holdings Limited",
+            "10 L/F(MINOR PORTION) & 11/F(MINOR PORTION), 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609315
+        ]
+      ],
+      "coordinate": [
+        1.9891275445448842,
+        0.3909128588657182,
+        48.900001525878906
+      ],
+      "halfSize": [
+        39.13033000007272,
+        12.959579999558628,
+        27.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        509608010,
+        3,
+        [
+          [
+            2993800715,
+            4,
+            "\u69ae\u8208\u7c89\u9eb5\u98df\u54c1\u5ee0",
+            "UNIT 401, 4/F, KIN WING INDUSTRIAL BUILDING, 33 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2993807497,
+            4,
+            "\u76c6\u6eff\u7f3d\u6eff\u5230\u6703\u6709\u9650\u516c\u53f8",
+            "MINOR PORTION OF ROOM 3, 1/F, KIN WING INDUSTRIAL BUILDING, 33 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            2993807567,
+            4,
+            "WONDERFUL SOUP",
+            "ROOM 2, 3/F, KIN WING INDUSTRIAL BUILDING, 33 KIN WING STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609317
+        ]
+      ],
+      "coordinate": [
+        1.9891239105229412,
+        0.39089250902290423,
+        13.049999237060547
+      ],
+      "halfSize": [
+        22.883455000352114,
+        12.662514999508858,
+        6.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        509608011,
+        1,
+        [
+          [
+            2993809518,
+            4,
+            "CHI TAT MANUFACTURING LIMITED",
+            "UNIT A1-A3, 1/F, WELLPOINT INDUSTRIAL BUILDING, NO. 2 KIN WING LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609318
+        ]
+      ],
+      "coordinate": [
+        1.9891234058880818,
+        0.3908871675878928,
+        13.65000057220459
+      ],
+      "halfSize": [
+        18.065500000026077,
+        13.759109999984503,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509608012,
+        3,
+        [
+          [
+            2993808597,
+            4,
+            "\u672c\u8fb2\u9ed1\u6bdb\u8c6c\u5c08\u9580\u5e97",
+            "UNIT A2, G/F, HUNG CHEUNG INDUSTRIAL CENTRE (PHASE 1), NO. 12 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ],
+          [
+            2993810770,
+            4,
+            "\u9280\u6cb3\u725b\u8169\u725b\u96dc\u7c89\u9eb5",
+            "UNIT H, 5/F, HUNG CHEUNG INDUSTRIAL CENTRE, PHASE I, 12 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2993811834,
+            4,
+            "GREENROOT CORPORATION LIMITED",
+            "PORTION A OF UNIT D, 3/F, HUNG CHEUNG INDUSTRIAL CENTRE PHASE 1, NO. 12 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609319
+        ]
+      ],
+      "coordinate": [
+        1.9891370622634756,
+        0.39095023699331927,
+        24.799999237060547
+      ],
+      "halfSize": [
+        23.407004999928176,
+        36.19116500020027,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        509608013,
+        1,
+        [
+          [
+            2993802988,
+            4,
+            "The Sun Japanese Foods Trading Company",
+            "ROOM 2, 2/F, WAH WAN INDUSTRIAL BUILDING, 2 KIN FAT LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609321
+        ]
+      ],
+      "coordinate": [
+        1.989123266790548,
+        0.39089941123511524,
+        14.149999618530273
+      ],
+      "halfSize": [
+        19.81849499978125,
+        15.712299999780953,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        509608014,
+        5,
+        [
+          [
+            2993000184,
+            4,
+            "\u52dd\u5229",
+            "NO. 7, G/F, TMTL 163, BLOCK B, TAK LEE INDUSTRIAL CENTRE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2993801365,
+            4,
+            "\u5370\u8c6a\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "ROOM 13, 2/F, BLOCK A, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2993803653,
+            4,
+            "No Record",
+            "FACTORY UNIT NOS. 5A & 5, GROUND FLOOR, BLOCK A, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2993811861,
+            4,
+            "\u9eb5\u8056",
+            "ROOM 2, G/F, BLOCK A, TAK LEE INDUSTRIAL CENTRE, 8 TSING YEUNG CIRCUIT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ],
+          [
+            3693000542,
+            5,
+            "\u83ef\u8c50",
+            "BLOCK A, UNIT 8, LOWER G/F, TAK LEE INDUSTRIAL CENTRE, TMTL 163, TSING YEUNG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609324
+        ]
+      ],
+      "coordinate": [
+        1.9891448972890902,
+        0.3909386097373319,
+        28.200000762939453
+      ],
+      "halfSize": [
+        30.561000000219792,
+        37.524000000208616,
+        7.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        509608015,
+        4,
+        [
+          [
+            2593800182,
+            3,
+            "\u597d\u666f",
+            "NO. 2, 3/F, GOODVIEW INDUSTRIAL BUILDING, TMTL 213, KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2993811603,
+            4,
+            "TOP \"E\" TRADING (HK) COMPANY LIMITED",
+            "FLAT 409 & 411, 4/F, BLOCK A, GOODVIEW INDUSTRIAL BUILDING, 11 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2993811612,
+            4,
+            "L.K COFFEE ROASTERS",
+            "WORKSHOP 21, G/F, GOODVIEW INDUSTRIAL BUILDING, 11 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            4993812367,
+            4,
+            "No Record",
+            "WORKSHOP 7, 1/F, GOODVIEW INDUSTRIAL BUILDING, 11 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609326
+        ]
+      ],
+      "coordinate": [
+        1.989113315858952,
+        0.39092546846655385,
+        18.5
+      ],
+      "halfSize": [
+        16.771499999798834,
+        43.135999999940395,
+        9.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        509608016,
+        11,
+        [
+          [
+            2193800045,
+            1,
+            "\u5c4f\u767c\u9eb5\u5305",
+            "FLAT G, 1/F, WAI CHEUNG INDUSTRIAL CENTRE, TMTL 170, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ],
+          [
+            2593000205,
+            3,
+            "\u5927\u529b\u9f4b\u5eda",
+            "FLAT A, G/F, TMTL 170, WAI CHEUNG INDUSTRIAL CENTRE, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2593000384,
+            3,
+            "Ho King Catering",
+            "UNIT G, G/F, WAI CHEUNG INDUSTRIAL BLDG., 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2593800234,
+            3,
+            "\u98df\u5f97\u559c\u6e05\u6e6f\u8169\u7c89\u9eb5",
+            "FLAT D, G/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2993802076,
+            4,
+            "Lo's Indonesia Food Manufactory",
+            "FLAT E, 1/F, WAI CHEUNG INDUSTRIAL CENTRE, T.M.T.L. 170, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2993803051,
+            4,
+            "Mighty Health Vegetarian Food Limited",
+            "FACTORY M, 3/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2993804692,
+            4,
+            "No Record",
+            "UNIT J, 3/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2993809095,
+            4,
+            "Ho King Catering",
+            "UNIT F1, G/F, WAI CHEUNG INDUSTRIAL BUILDING, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2993810309,
+            4,
+            "SHALLMAKECAKE",
+            "ROOM D, 1/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            4993812224,
+            4,
+            "YEASEN PHARMA FACTORY LIMITED",
+            "PORTION OF UNIT I-K, 2/F, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            4993812321,
+            4,
+            "Shing Hing Loong Food Company",
+            "MAJOR PORTION OF UNIT I, GROUND FLOOR, WAI CHEUNG INDUSTRIAL CENTRE, 5 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609327
+        ]
+      ],
+      "coordinate": [
+        1.9891231196674128,
+        0.39096388588511394,
+        20.5
+      ],
+      "halfSize": [
+        39.78500000014901,
+        23.14132499974221,
+        5.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        509608017,
+        7,
+        [
+          [
+            2993001910,
+            4,
+            "\u9d3b\u83ef\u7c89\u5ee0",
+            "FLAT 305, 3/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2993803583,
+            4,
+            "LA VIE DOUCE LTD",
+            "ROOM 11, 4/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2993805701,
+            4,
+            "\u7cd6\u5927\u54e5",
+            "ROOM 6, 5/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2993806607,
+            4,
+            "B B BARBECUE COMPANY LIMITED",
+            "ROOM 7, 5/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2993810433,
+            4,
+            "The Classic Bakery",
+            "UNIT 01, 5/F, SUN HING INDUSTRIAL BUILDING, NO. 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2993810974,
+            4,
+            "No Record",
+            "FLAT 5, 5/F, SUN HING INDUSTRIAL BUILDING, NO. 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2993811320,
+            4,
+            "G BEAN HK HOLDING LIMITED",
+            "PORTION OF UNIT 05-06, 2/F, SUN HING INDUSTRIAL BUILDING, 22 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609331
+        ]
+      ],
+      "coordinate": [
+        1.9891448585163396,
+        0.3909536321362693,
+        23.700000762939453
+      ],
+      "halfSize": [
+        20.255704999901354,
+        21.56239000055939,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        509608018,
+        9,
+        [
+          [
+            2593000065,
+            3,
+            "Pizza Plus+",
+            "FLAT E1 & E2, G/F, BLOCK A, DELYA INDUSTRIAL CENTRE, TMTL 164, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2593000223,
+            3,
+            "WING LI",
+            "SHOP NOS. C3, D1, E3, G/F, DELYA INDUSTRIAL CENTRE, TMTL 164, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2593000418,
+            3,
+            "\u5f97\u5229\u7f8e\u98df\u574a",
+            "SHOP B, G/F, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2593800067,
+            3,
+            "\u6fb3\u9580\u8377\u862d\u5712 (MACAU HO LAN UN)",
+            "FLAT C1 & C2, G/F, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2593800094,
+            3,
+            "\u96f2\u5473\u5712\u5c0f\u5eda",
+            "FLAT Q, G/F, TMTL 164, DELYA INDUSTRIAL CENTRE, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2593800173,
+            3,
+            "\u7da0\u8335\u5c0f\u5eda",
+            "UNIT I, G/F, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2993000069,
+            4,
+            "\u806f\u6cf0\u7fa9\u8a18\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "NO. 3 & 4, 16/F, BLOCK B, TMTL 164, DELYA INDUSTRIAL CENTRE, SHEK PAI TAU RD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2993800858,
+            4,
+            "\u5305\u9903\u5e97\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "UNIT B4, 8/F, BLOCK B, DELYA INDUSTRIAL CENTRE, TMTL 164, SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2993804814,
+            4,
+            "\u6210\u8208",
+            "SHOP A7, 16/F & PORTION OF ROOF A7, BLOCK A, DELYA INDUSTRIAL CENTRE, 7 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609333
+        ]
+      ],
+      "coordinate": [
+        1.9891389127748969,
+        0.39096321086173336,
+        19.399999618530273
+      ],
+      "halfSize": [
+        47.48011500015855,
+        28.712975000031292,
+        5.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        509608019,
+        2,
+        [
+          [
+            2993804054,
+            4,
+            "\u4f19\u4f34\u98f2\u98df\u5de5\u4f5c\u5ba4",
+            "UNIT E & F, 4/F, BLOCK 1, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2993810619,
+            4,
+            "CANADIAN PIZZA",
+            "FLAT E & F, 3/F, BLOCK 1, KOON WAH MIRROR FACTORY (6TH) INDUSTRIAL BUILDING, NO. 7-9 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609334
+        ]
+      ],
+      "coordinate": [
+        1.9891294313324002,
+        0.3909187046950492,
+        14.850000381469727
+      ],
+      "halfSize": [
+        62.21199999982491,
+        15.539499999955297,
+        7.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        509608020,
+        8,
+        [
+          [
+            2993000139,
+            4,
+            "TSUN TAT TRADING (ASIA) LIMITED",
+            "FLAT/RM B, 2/F, CO-TACK INDUSTRIAL BUILDING, 17, KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2993002445,
+            4,
+            "\u9d3b\u661f",
+            "UNITS C & E, 4/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2993802739,
+            4,
+            "TSUN TAT TRADING (ASIA) LIMITED",
+            "FLAT A, 2/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2993805118,
+            4,
+            "(no record found)",
+            "UNIT A, 1/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            2993810035,
+            4,
+            "SRIKANDI FOOD COMPANY",
+            "UNIT E, 6/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2993810929,
+            4,
+            "Shing Hing Loong Food Company",
+            "UNIT B, C, D, E, G/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2993811144,
+            4,
+            "HONG KONG GENESIS BIOTECH LIMITED",
+            "UNIT B, 5/F, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            4993812136,
+            4,
+            "Shing Hing Loong Food Company",
+            "UNIT A, B, C, D, E, F & G, LOWER GROUND FLOOR, CO-TACK INDUSTRIAL BUILDING, 17 KIN FAT STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609335
+        ]
+      ],
+      "coordinate": [
+        1.9891172148393905,
+        0.3909569065881283,
+        25.549999237060547
+      ],
+      "halfSize": [
+        17.60425499966368,
+        30.971029999665916,
+        9.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        509608021,
+        3,
+        [
+          [
+            2993002409,
+            4,
+            "Vitasoy International Holdings Limited",
+            "5/F & 6/F, NO. 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            2993802465,
+            4,
+            "Vitasoy International Holdings Limited",
+            "2/F (PORTION), 3/F (PORTION) & 4/F (PORTION), 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ],
+          [
+            2693800022,
+            7,
+            "Vitasoy International Holdings Limited",
+            "2/F (PORTION), 3/F (PORTION) & 4/F (PORTION), 1 KIN WONG STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609336
+        ]
+      ],
+      "coordinate": [
+        1.989128877103625,
+        0.3909128639758366,
+        13.949999809265137
+      ],
+      "halfSize": [
+        56.35300000011921,
+        15.179000000469387,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509608022,
+        4,
+        [
+          [
+            2993805482,
+            4,
+            "Sum Yee International Enterprise Company",
+            "FLAT 18, 6/F, GOOD HARVEST INDUSTRIAL BUILDING, 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2993808870,
+            4,
+            "Best Wealth Asia Pacific Limited",
+            "FLAT 8, 8/F, GOOD HARVEST INDUSTRIAL BUILDING, 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2993809129,
+            4,
+            "Neptune Ice Limited",
+            "UNIT 9 (PORTION A), 15/F, GOOD HARVEST INDUSTRIAL BUILDING, 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            4993812163,
+            4,
+            "VANLILY CAKE LIMITED",
+            "UNIT NO. 606, 6/F, GOOD HARVEST INDUSTRIAL BUILDING, 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609340
+        ]
+      ],
+      "coordinate": [
+        1.9892034664022733,
+        0.3909347914082155,
+        44.45000076293945
+      ],
+      "halfSize": [
+        22.236484999768436,
+        33.34054999984801,
+        22.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        509608023,
+        3,
+        [
+          [
+            2993001682,
+            4,
+            "\u6c38\u8208\u71d2\u814a\u98df\u54c1\u5ee0",
+            "UNIT G8, 8/F, WINFIELD INDUSTRIAL BLDG., 3 KIN KWAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2993804443,
+            4,
+            "GREAT HARVEST FOODSTUFF CO. LTD",
+            "WORKSHOP D, 9/F, WINFIELD INDUSTRIAL BUILDING, 3 KIN KWAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-01"
+          ],
+          [
+            2993806263,
+            4,
+            "Golden Row Trading Limited",
+            "FLAT H1, 10/F, WINFIELD INDUSTRIAL BUILDING, 3 KIN KWAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609341
+        ]
+      ],
+      "coordinate": [
+        1.9891342291490297,
+        0.39088982968724145,
+        30.0
+      ],
+      "halfSize": [
+        28.797864999622107,
+        28.06694999989122,
+        18.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        509608024,
+        4,
+        [
+          [
+            2993803130,
+            4,
+            "\u6930\u6797\u95a3\u5de5\u5834",
+            "UNIT 1-3, 3/F, GOOD HARVEST INDUSTRIAL BUILDING, 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2993806953,
+            4,
+            "Central Kitchen One",
+            "UNIT NO 6, 3/F, GOOD HARVEST INDUSTRIAL BUILDING, 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2993807947,
+            4,
+            "CPH CANAPES CATERING",
+            "ROOM 12, 5/F, GOOD HARVEST INDUSTRIAL BUILDING, NO. 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-06"
+          ],
+          [
+            2993809563,
+            4,
+            "ARTISANAL BAKERY CONCEPT COMPANY LIMITED",
+            "ROOM 19, 5/F, GOOD HARVEST INDUSTRIAL BUILDING, 9 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609345
+        ]
+      ],
+      "coordinate": [
+        1.9892030498843278,
+        0.39093481368979033,
+        14.050000190734863
+      ],
+      "halfSize": [
+        29.609549999702722,
+        37.42489999998361,
+        8.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509608025,
+        4,
+        [
+          [
+            2593000241,
+            3,
+            "\u6c38\u767c",
+            "FLAT F, G/F, TMTL 87, WINFIELD INDUSTRIAL BUILDING, 3 KIN KWAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2993804373,
+            4,
+            "TAI TUNG BAKERY COMPANY LIMITED",
+            "UNIT A & B, 5/F, WINFIELD INDUSTRIAL BUILDING, 3 KIN KWAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2993809837,
+            4,
+            "PO TIN FOOD TRADING COMPANY LIMITED",
+            "FACTORY UNIT B, C & D, 1/F, WINFIELD INDUSTRIAL BUILDING, NO. 3 KIN KWAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-07"
+          ],
+          [
+            4993812154,
+            4,
+            "No Record",
+            "PORTION A OF UNIT C & D, 5/F, WINFIELD INDUSTRIAL BUILDING, 3 KIN KWAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609346
+        ]
+      ],
+      "coordinate": [
+        1.9891344098364183,
+        0.3908899041834523,
+        13.549999237060547
+      ],
+      "halfSize": [
+        33.10850000008941,
+        29.326615000143647,
+        7.749999523162842
+      ]
+    },
+    {
+      "attributes": [
+        509608026,
+        1,
+        [
+          [
+            2993809989,
+            4,
+            "SAKURA EMBASSY",
+            "ROOM D, 10/F, WELLPOINT INDUSTRIAL BUILDING, 2 KIN WING LANE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609347
+        ]
+      ],
+      "coordinate": [
+        1.989123567499802,
+        0.39088682898067845,
+        37.599998474121094
+      ],
+      "halfSize": [
+        17.855574999935925,
+        12.363485000096262,
+        16.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        509608027,
+        1,
+        [
+          [
+            2993806643,
+            4,
+            "HONG KONG GOURMET LIMITED",
+            "4/F, VITASOY DISTRIBUTION CENTRE, NO. 6 HO TIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609350
+        ]
+      ],
+      "coordinate": [
+        1.9891543360067998,
+        0.39092469483231895,
+        13.90000057220459
+      ],
+      "halfSize": [
+        48.26550000021234,
+        32.40599999949336,
+        7.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509608028,
+        1,
+        [
+          [
+            2593800216,
+            3,
+            "Sunny Food Cafe",
+            "UNIT D, 1/F, TAK WING INDUSTRIAL BUILDING, 3 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609352
+        ]
+      ],
+      "coordinate": [
+        1.989175828721934,
+        0.3908804058111775,
+        12.449999809265137
+      ],
+      "halfSize": [
+        21.883499999996275,
+        30.235999999567866,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        509608029,
+        18,
+        [
+          [
+            2993803060,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP G-12, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2993803228,
+            4,
+            "\u9b5a\u5175\u885b",
+            "UNIT TM4-001, SHOPS G1-8, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2993803237,
+            4,
+            "GUSTO",
+            "UNIT TM4-103, SHOPS G1-8, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2993803282,
+            4,
+            "Godiva Chocolatier",
+            "PORTION A OF SHOP M75,MTR LEVEL, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2993810211,
+            4,
+            "MILKSHA",
+            "SHOP NO. L1-16B, LEVEL 1, V CITY, NO. 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2993811117,
+            4,
+            "BESTEA",
+            "SHOP NO. L1-7A, LEVEL ONE, V CITY, NO. 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2993811135,
+            4,
+            "\u5929\u4ec1\u8317\u8336",
+            "UNIT TM4-101, SHOPS G1-8, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ],
+          [
+            2993811533,
+            4,
+            "A-1 Bakery",
+            "SHOP G-3A, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2993811560,
+            4,
+            "Beard Papa's",
+            "UNIT TM4-005 SHOP NOS. G-1 AND G-1A, G/F., V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-20"
+          ],
+          [
+            2993811597,
+            4,
+            "SIUMEI FAMILY",
+            "SHOP G-7A, GROUND FLOOR, V CITY, NO. 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2993811630,
+            4,
+            "HEYTEA",
+            "SHOP NO. M-11, MTR LEVEL, V CITY, NO. 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2993811791,
+            4,
+            "V City Onimaru",
+            "SHOP NOS. G-2A & 2B, G/F., V CITY, NO. 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            3693801079,
+            5,
+            "OYSTA",
+            "UNIT TM4-104, SHOPS G1-8, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3693801088,
+            5,
+            "PRIME",
+            "UNIT TM4-102, SHOPS G1-8, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3693801097,
+            5,
+            "No Record",
+            "PORTION OF SHOPS G1-8, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ],
+          [
+            3293800319,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP G-12, G/F, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ],
+          [
+            3293800328,
+            6,
+            "Godiva Chocolatier",
+            "PORTION B OF SHOP M75, MTR LEVEL, V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3293800559,
+            6,
+            "\u5929\u4ec1\u8317\u8336",
+            "UNIT TM4-101, SHOPS G1-8, G/F., V CITY, 83 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609359
+        ]
+      ],
+      "coordinate": [
+        1.9892216636307927,
+        0.39087338846887726,
+        19.05000114440918
+      ],
+      "halfSize": [
+        68.8066449998878,
+        154.66655000019819,
+        14.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        509608030,
+        2,
+        [
+          [
+            2993809819,
+            4,
+            "\u96d9\u56cd",
+            "SHOP NO. 10B, G/F, THE PARKVILLE, 88 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3693803428,
+            5,
+            "\u5929\u751f\u8089\u6a94",
+            "SHOP 5B, G/F, THE PARKVILLE, 88 TUEN MUN HEUNG SZE WUI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609371
+        ]
+      ],
+      "coordinate": [
+        1.989239642926442,
+        0.3909037518182897,
+        9.600000381469727
+      ],
+      "halfSize": [
+        13.150244999676943,
+        25.497320000082254,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        509608031,
+        13,
+        [
+          [
+            2593000180,
+            3,
+            "\u5f37\u8a18",
+            "FLAT 166-167, G/F, TMTL 114, HANG WAI INDUSTRIAL CENTRE, KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2593000250,
+            3,
+            "\u91d1\u591a\u5bf6",
+            "UNIT 169, G/F, HANG WAI INDUSTRIAL CENTRE, TMTL 114, KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2593000278,
+            3,
+            "\u6f64\u660c",
+            "SHOP NO. 2, G/F, TMTL 114, HANG WAI INDUSTRIAL CENTRE, KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2593000339,
+            3,
+            "\u98df\u56db\u65b9",
+            "SHOP NOS. 6 & 7, G/F, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2593000409,
+            3,
+            "\u6e90\u767c\u98df\u5802",
+            "UNITS 16-16A, G/F, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2593800058,
+            3,
+            "\u5bb6\u5eda",
+            "UNITS 29-31, G/F, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2593800119,
+            3,
+            "\u5473\u4e4b\u6e90",
+            "UNIT 137 & 138, 1/F, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2993001761,
+            4,
+            "\u5225\u6811ONE\u5c45",
+            "UNIT 1, G/F, BLOCK A, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2993001813,
+            4,
+            "\u5468\u93e1",
+            "1/F, UNIT NOS. 183,183A,184,184A,185,185A,186 ,186A,187,187A,198,198A,199,199A,200, 200A,201,201A,202&202A, HANG WAI IND. CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2993804656,
+            4,
+            "(No record found)",
+            "ROOM 1, 4/F, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2993805932,
+            4,
+            "MILLENNIUM HONG KONG FOOD SERVICE LIMITED",
+            "MINOR PORTION OF UNIT 3, 3/F, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, NO. 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ],
+          [
+            2993811542,
+            4,
+            "DATA DRIVEN INTERNATIONAL LIMITED",
+            "ROOM 8, 4/F, BLOCK A2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-17"
+          ],
+          [
+            4993812303,
+            4,
+            "NO\u6c92\u6709\u8a18\u9304",
+            "PORTIONS F OF ROOM 2, 19, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609397
+        ]
+      ],
+      "coordinate": [
+        1.9891553984046664,
+        0.39087832854666016,
+        11.799999237060547
+      ],
+      "halfSize": [
+        52.32723500020802,
+        76.20004499983042,
+        6.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        509608032,
+        13,
+        [
+          [
+            2993801046,
+            4,
+            "Fantastic Kitchen",
+            "FLAT 6, 5/F, BLOCK A, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2993801064,
+            4,
+            "\u9d3b\u904b\u7c89\u9eb5\u5ee0",
+            "FLAT 4, 10/F, BLOCK B1, HANG WAI INDUSTRIAL CENTRE, KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2993802429,
+            4,
+            "FULL NUTRITION CATERING SERVICES",
+            "UNIT 1002-1003, 10/F, BLOCK C, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2993805154,
+            4,
+            "(no record found)",
+            "UNIT 10, 6/F, BLOCK B1, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2993805507,
+            4,
+            "\u8089\u5c4b",
+            "FLAT 12, 11/F, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2993806412,
+            4,
+            "Hong Kong Chinese Medicine Service Centre Ltd.",
+            "UNIT 16, 10/F, BLOCK A1, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2993807363,
+            4,
+            "Bao Dim Liu Lee",
+            "18/F, BLOCK C, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2993808551,
+            4,
+            "HOI PO",
+            "ROOM 03, 8/F, BLOCK C1, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2993811764,
+            4,
+            "HO FU KEE NOODLES MANAGEMENT CO., LIMITED",
+            "PORTION OF WORKSHOP UNIT 10, 7/F, BLOCK C, HANG WAI INDUSTRIAL CENTRE, NO. 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            4993812279,
+            4,
+            "No Record",
+            "PORTIONS G OF ROOM 2, 19/F, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            4993812288,
+            4,
+            "No Record",
+            "PORTIONS K OF ROOM 2, 19/F, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            4993812297,
+            4,
+            "No Record",
+            "PORTIONS E OF ROOM 2, 19/F, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            4993812312,
+            4,
+            "No Record",
+            "PORTIONS B OF ROOM 2, 19/F, BLOCK B2, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609400
+        ]
+      ],
+      "coordinate": [
+        1.9891522604624037,
+        0.39087122916430217,
+        48.400001525878906
+      ],
+      "halfSize": [
+        27.804250000044703,
+        22.070960000157356,
+        30.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        509608033,
+        3,
+        [
+          [
+            2993809952,
+            4,
+            "GRANDPA ROAST",
+            "SHOP G10 (REAR PORTION), G/F, COO RESIDENCE, 8 KAI FAT PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2993811852,
+            4,
+            "\u6210\u5929\u7f8e\u98df",
+            "SHOP G04, G/F, COO RESIDENCE, 8 KAI FAT PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3593800598,
+            8,
+            "GRANDPA ROAST",
+            "SHOP G10 (FRONT PORTION), G/F, COO RESIDENCE, 8 KAI FAT PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609408
+        ]
+      ],
+      "coordinate": [
+        1.989256243956888,
+        0.3908661508921943,
+        12.350000381469727
+      ],
+      "halfSize": [
+        10.225054999813437,
+        21.34305000025779,
+        7.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        509608034,
+        1,
+        [
+          [
+            2993804045,
+            4,
+            "---",
+            "SHOP A (MINOR PORTION), G/F, BITT HING BUILDING, 4 MING NGAI STREET, 107-111 TUEN MUN HEUNG SZE WUI ROAD , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609431
+        ]
+      ],
+      "coordinate": [
+        1.989235545622121,
+        0.39091204022250003,
+        7.150000095367432
+      ],
+      "halfSize": [
+        9.378500000108033,
+        8.853854999877512,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        509608035,
+        1,
+        [
+          [
+            2993809059,
+            4,
+            "\u714c\u5c1a\u5c0f\u5eda",
+            "MAJOR PORTION OF SHOP 15, G/F, HANG FUK BUILDING, PHASE 3, 27 KEI LUN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609432
+        ]
+      ],
+      "coordinate": [
+        1.9892781629950298,
+        0.39089326064613583,
+        8.25
+      ],
+      "halfSize": [
+        10.9894999996759,
+        22.771500000730157,
+        3.3500001430511475
+      ]
+    }
+  ]
+}

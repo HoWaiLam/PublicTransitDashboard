@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "attributes": [
+        864026624,
+        3,
+        [
+          [
+            3896803908,
+            0,
+            "SMACK",
+            "SHOP M01, M/F, BUILDING 11, HONG KONG-SHENZHEN INNOVATION AND TECHNOLOGY PARK, LOK MA CHAU LOOP, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            3996801152,
+            1,
+            "HUNG FOOK TONG",
+            "SHOP G02, G/F, BUILDING 11, HONG KONG-SHENZHEN INNOVATION AND TECHNOLOGY PARK, LOK MA CHAU, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            3996801170,
+            1,
+            "SEOUL FRESH",
+            "SHOP G01 OF THE G/F OF BUILDING 11, HONG KONG-SHENZHEN INNOVATION AND TECHNOLOGY PARK, LOK MA CHAU LOOP, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          864026663
+        ]
+      ],
+      "coordinate": [
+        1.991018062186563,
+        0.3929943775784402,
+        18.850000381469727
+      ],
+      "halfSize": [
+        25.64545000018552,
+        21.455105000175536,
+        12.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        864026625,
+        2,
+        [
+          [
+            3896803883,
+            0,
+            "Fairwood Fast Food",
+            "SHOPS G06 OF THE G/F AND M03 OF THE M/F OF BUILDING 11, HONG KONG-SHENZHEN INNOVATION AND TECHNOLOGY PARK, LOK MA CHAU LOOP, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            3896803926,
+            0,
+            "No Record",
+            "SHOPS G05 ON THE G/F AND M02 ON THE M/F, BUILDING 11, HONG KONG-SHENZHEN INNOVATION AND TECHNOLOGY PARK, LOK MA CHAU, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          864026664
+        ]
+      ],
+      "coordinate": [
+        1.9910208739963318,
+        0.39299030818574615,
+        9.850000381469727
+      ],
+      "halfSize": [
+        21.5647450000979,
+        20.427774999290705,
+        3.549999713897705
+      ]
+    }
+  ]
+}

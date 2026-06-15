@@ -1,0 +1,4200 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1654652928,
+        1106133775,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9955579793061804,
+        0.39153555398094364,
+        6.5
+      ],
+      "halfSize": [
+        2.1285000001080334,
+        3.6490000002086163,
+        2.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1654652929,
+        1106133800,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9955585935554803,
+        0.39153420656027316,
+        7.099999904632568
+      ],
+      "halfSize": [
+        5.825999999884516,
+        3.6805000007152557,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1654652930,
+        1106135471,
+        null,
+        "12 TO KWA PENG",
+        [
+          [
+            "DD293 982",
+            "New Grant Lot",
+            "C6038708",
+            [
+              [
+                "TP193783",
+                "1979-02-09",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "TP465865",
+                "1995-05-15",
+                "-",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9955576493660263,
+        0.3914456352454684,
+        7.150000095367432
+      ],
+      "halfSize": [
+        3.7794999997131526,
+        3.6252849996089935,
+        2.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1654652931,
+        1106135625,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9955523408234281,
+        0.3914370599480546,
+        17.149999618530273
+      ],
+      "halfSize": [
+        2.3585500000044703,
+        2.4196500005200505,
+        1.1499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1654652932,
+        1106135659,
+        null,
+        "10 - 11 TO KWA PENG",
+        [
+          [
+            "DD293 984",
+            "New Grant Lot",
+            "C1870014",
+            [
+              [
+                "06072101570026",
+                "2006-07-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "08061302770111",
+                "2008-05-13",
+                "ASSIGNMENT",
+                "450000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9955553288162315,
+        0.3914348624312486,
+        19.5
+      ],
+      "halfSize": [
+        4.818499999586493,
+        4.824000000022352,
+        2.3999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1654652933,
+        1106135715,
+        null,
+        null,
+        [
+          [
+            "DD293 826 S.A",
+            "Old Schedule Lot",
+            "D2154096",
+            [
+              [
+                "08061101570126",
+                "2008-05-08",
+                "ASSIGNMENT",
+                "379252.0"
+              ],
+              [
+                "08061101570131",
+                "2008-05-08",
+                "ASSIGNMENT",
+                "379252.0"
+              ],
+              [
+                "08052902620065",
+                "2008-05-08",
+                "ASSIGNMENT",
+                "758504.0"
+              ],
+              [
+                "08070802690041",
+                "2008-06-01",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ],
+          [
+            "DD293 827",
+            "Old Schedule Lot",
+            "C5531080",
+            [
+              [
+                "TP110357",
+                "1940-11-26",
+                "-",
+                null
+              ],
+              [
+                "TP584772",
+                "1998-10-22",
+                "NOTICE OF RETIREMENT & APPOINTMENT OF MANAGER OF CHENG NG TSO",
+                null
+              ],
+              [
+                "TP584773",
+                "1998-10-27",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF CHENG NG TSO",
+                null
+              ],
+              [
+                "08061101570055",
+                "2008-05-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "974710.0"
+              ],
+              [
+                "08080701660016",
+                "2008-07-29",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "08092401390019",
+                "2008-08-26",
+                "ASSIGNMENT",
+                "974710.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9955532832141523,
+        0.39143150409238514,
+        18.649999618530273
+      ],
+      "halfSize": [
+        5.304409999866039,
+        4.353025000542402,
+        2.3500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1654652934,
+        1106135755,
+        null,
+        "5 TO KWA PENG",
+        [
+          [
+            "DD293 986",
+            "New Grant Lot",
+            "C1870031",
+            [
+              [
+                "TP157806",
+                "1966-05-12",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP505326",
+                "1996-10-17",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "08052902620098",
+                "2008-05-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "669200.0"
+              ],
+              [
+                "08061302770019",
+                "2008-05-08",
+                "ASSIGNMENT",
+                "669200.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9955521197153134,
+        0.39142980990290466,
+        20.299999237060547
+      ],
+      "halfSize": [
+        5.3489999999292195,
+        4.333999999798834,
+        3.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1654652935,
+        1106135765,
+        null,
+        null,
+        [
+          [
+            "DD293 823",
+            "Old Schedule Lot",
+            "C1869180",
+            [
+              [
+                "TP74039",
+                "1929-10-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP141438",
+                "1960-05-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP141437",
+                "1960-05-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP174011",
+                "1973-03-08",
+                "REMOVAL OF TRUSTEESHIP OF CHUNG KIU",
+                null
+              ],
+              [
+                "TP174012",
+                "1973-03-08",
+                "REMOVAL OF TRUSTEESHIP OF LI LOI TAI",
+                null
+              ],
+              [
+                "TP535760",
+                "1997-07-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP710014",
+                "2003-09-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07112701270017",
+                "2007-04-24",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ],
+              [
+                "07121400850013",
+                "2007-11-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3400000.0"
+              ],
+              [
+                "08052902620113",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "08042901350044",
+                "2008-03-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "700000.0"
+              ],
+              [
+                "08042901350077",
+                "2008-03-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "700000.0"
+              ],
+              [
+                "08042901350010",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "3400000.0"
+              ],
+              [
+                "08052902620107",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "700000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9955493657701109,
+        0.39142965352119674,
+        18.100000381469727
+      ],
+      "halfSize": [
+        3.333499999716878,
+        3.2824999997392297,
+        1.3999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1654652936,
+        1106135803,
+        null,
+        "3 - 3A TO KWA PENG",
+        [
+          [
+            "DD293 987",
+            "New Grant Lot",
+            "C1870043",
+            [
+              [
+                "08062301880043",
+                "2008-05-20",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD293 988",
+            "New Grant Lot",
+            "C1870051",
+            []
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995546560091935,
+        0.39142729208728916,
+        21.5
+      ],
+      "halfSize": [
+        8.031500000040978,
+        7.409500000067055,
+        3.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1654652937,
+        1106135838,
+        null,
+        "2 TO KWA PENG",
+        [
+          [
+            "DD293 989",
+            "New Grant Lot",
+            "C1870062",
+            [
+              [
+                "08062402060052",
+                "2008-06-01",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "09051201260030",
+                "2009-05-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "350000.0"
+              ],
+              [
+                "09052101270015",
+                "2009-05-01",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "09050601590023",
+                "2009-05-01",
+                "NOTICE OF SEVERANCE OF JOINT TENANCY",
+                null
+              ],
+              [
+                "09072100010017",
+                "2009-05-01",
+                "RE-REGISTRATION OF ASSIGNMENT MEM. NO.09052101270015",
+                "350000.0"
+              ],
+              [
+                "09052101270029",
+                "2009-05-02",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "09051201260049",
+                "2009-05-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "350000.0"
+              ],
+              [
+                "10062901250066",
+                "2010-06-22",
+                "ASSIGNMENT",
+                "350000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9955452928822823,
+        0.391426389543664,
+        21.5
+      ],
+      "halfSize": [
+        6.283999999985099,
+        4.74100000038743,
+        3.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1654652938,
+        1106135891,
+        null,
+        null,
+        [
+          [
+            "DD293 808 S.C",
+            "Old Schedule Lot",
+            "D1324639",
+            [
+              [
+                "08052602430045",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "792708.0"
+              ],
+              [
+                "08052602430069",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "792708.0"
+              ],
+              [
+                "08042901350010",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "3400000.0"
+              ]
+            ]
+          ],
+          [
+            "DD293 808 S.D",
+            "Old Schedule Lot",
+            "D1324645",
+            [
+              [
+                "08042901350010",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "3400000.0"
+              ],
+              [
+                "08052602430045",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "792708.0"
+              ],
+              [
+                "08052602430069",
+                "2008-03-31",
+                "ASSIGNMENT",
+                "792708.0"
+              ],
+              [
+                "09012301610302",
+                "2008-12-29",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "09012900890169",
+                "2008-12-30",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "09013001230133",
+                "2008-12-31",
+                "ASSIGNMENT",
+                "700000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9955416103234755,
+        0.39142406760060966,
+        20.299999237060547
+      ],
+      "halfSize": [
+        2.674000000115484,
+        2.3425000002607703,
+        1.0
+      ]
+    },
+    {
+      "attributes": [
+        1654652939,
+        1106136619,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.995818889136763,
+        0.3913410793786973,
+        4.75
+      ],
+      "halfSize": [
+        3.3279999997466803,
+        4.016999999992549,
+        1.4499999284744263
+      ]
+    },
+    {
+      "attributes": [
+        1654652940,
+        1106136620,
+        null,
+        null,
+        [
+          [
+            "DD297 490",
+            "New Grant Lot",
+            "C6621665",
+            [
+              [
+                "TP184231",
+                "1976-10-21",
+                "-",
+                null
+              ],
+              [
+                "TP197409",
+                "1979-10-11",
+                "POWER OF ATTORNEY BY CHIU KWOK KEUNG",
+                null
+              ],
+              [
+                "TP197600",
+                "1979-11-09",
+                "-",
+                null
+              ],
+              [
+                "TP211994",
+                "1983-05-04",
+                "STATUTORY DECLARATION OF CHAU WING TSING ALIAS CHIU CHING LOI",
+                null
+              ],
+              [
+                "TP211993",
+                "1983-05-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP243225",
+                "1986-05-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP444225",
+                "1994-03-09",
+                "-",
+                null
+              ],
+              [
+                "TP448974",
+                "1994-06-02",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP539565",
+                "1996-09-04",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "TP503285",
+                "1996-09-05",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP515274",
+                "1997-01-27",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP544038",
+                "1997-07-29",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "TP544037",
+                "1997-07-29",
+                "AGREEMENT FOR SALE AND PURCHASE (RE : 1/5 SHARE)",
+                "500000.0"
+              ],
+              [
+                "TP544039",
+                "1997-08-06",
+                "AGREEMENT FOR SALE AND PURCHASE (RE : 1/5 SHARE)",
+                "1152000.0"
+              ],
+              [
+                "TP579546",
+                "1998-02-24",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP710566",
+                "2002-01-14",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "TP710565",
+                "2003-05-07",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "08103001050067",
+                "2008-08-28",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "20050501490024",
+                "2020-03-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "20121101590012",
+                "2020-11-08",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995799326807256,
+        0.3913404347682754,
+        4.599999904632568
+      ],
+      "halfSize": [
+        4.442499999888241,
+        7.245500000193715,
+        1.3000000715255737
+      ]
+    },
+    {
+      "attributes": [
+        1654652941,
+        1106136659,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9955018503427244,
+        0.39133376084264265,
+        167.35000610351562
+      ],
+      "halfSize": [
+        1.9029999999329448,
+        1.8899999996647239,
+        1.6500015258789062
+      ]
+    },
+    {
+      "attributes": [
+        1654652942,
+        1106136672,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.995477764291984,
+        0.3913322140177498,
+        144.0
+      ],
+      "halfSize": [
+        3.6561150001361966,
+        4.043500000610948,
+        2.1999969482421875
+      ]
+    },
+    {
+      "attributes": [
+        1654652943,
+        1106136676,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9957853537426737,
+        0.39133171005230705,
+        4.150000095367432
+      ],
+      "halfSize": [
+        3.346499999985099,
+        2.4179999995976686,
+        0.75
+      ]
+    },
+    {
+      "attributes": [
+        1654652944,
+        1106136678,
+        null,
+        null,
+        [
+          [
+            "DD297 75",
+            "Old Schedule Lot",
+            "C1876513",
+            [
+              [
+                "TP16134",
+                "1911-03-31",
+                "SALE",
+                "20.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9958008928866668,
+        0.3913313624305305,
+        6.349999904632568
+      ],
+      "halfSize": [
+        5.357055000029504,
+        4.073119999840856,
+        2.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1654652945,
+        1106136679,
+        null,
+        null,
+        [
+          [
+            "DD297 500",
+            "New Grant Lot",
+            "C1878956",
+            [
+              [
+                "TP199661",
+                "1980-07-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP200918",
+                "1980-11-06",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP201487",
+                "1980-12-09",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP203157",
+                "1981-03-18",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP387197",
+                "1992-04-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP400996",
+                "1992-08-10",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP603403",
+                "1998-12-31",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP603402",
+                "1999-04-30",
+                "DEATH CERTIFICATE OF FAN HOI TONG \"DECEASED\"",
+                null
+              ],
+              [
+                "07071901750052",
+                "2007-06-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "16040700820109",
+                "2016-03-21",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17030201090201",
+                "2017-02-22",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "17030201090213",
+                "2017-02-22",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957864749990775,
+        0.3913307298622528,
+        7.399999618530273
+      ],
+      "halfSize": [
+        3.4520000000484288,
+        6.229000000283122,
+        3.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1654652946,
+        1106136705,
+        null,
+        null,
+        [
+          [
+            "TAXLORD LOT 63",
+            "Taxlord Lot [old]",
+            "C5871863",
+            [
+              [
+                "TP24777",
+                "1913-08-29",
+                "-",
+                "200.0"
+              ],
+              [
+                "TP52780",
+                "1922-05-16",
+                "-",
+                "100.0"
+              ],
+              [
+                "10100401630268",
+                "2010-09-01",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "10122001380024",
+                "2010-11-29",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "12072602160082",
+                "2012-07-24",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957924206501592,
+        0.39132769795124517,
+        6.949999809265137
+      ],
+      "halfSize": [
+        4.615760000422597,
+        5.1124999998137355,
+        2.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1654652947,
+        1106136707,
+        null,
+        null,
+        [
+          [
+            "DD297 60",
+            "Old Schedule Lot",
+            "C1876431",
+            [
+              [
+                "TP139146",
+                "1959-02-05",
+                "-",
+                null
+              ],
+              [
+                "TP542080",
+                "1997-06-12",
+                "STATUTORY DECLARATION BY LEE (OTHERWISE SPELT AS LI) TONG",
+                null
+              ],
+              [
+                "TP555093",
+                "1997-11-27",
+                "RECTIFICATION OF ERROR IN SUCCESSION TO PROPERTY M/N 139146",
+                null
+              ],
+              [
+                "TP578995",
+                "1998-07-24",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "TAXLORD LOT 63",
+            "Taxlord Lot [old]",
+            "C5871863",
+            [
+              [
+                "TP24777",
+                "1913-08-29",
+                "-",
+                "200.0"
+              ],
+              [
+                "TP52780",
+                "1922-05-16",
+                "-",
+                "100.0"
+              ],
+              [
+                "10100401630268",
+                "2010-09-01",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "10122001380024",
+                "2010-11-29",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "12072602160082",
+                "2012-07-24",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957934741671577,
+        0.39132759374483583,
+        6.350000381469727
+      ],
+      "halfSize": [
+        2.5859999996609986,
+        4.909500000067055,
+        2.250000238418579
+      ]
+    },
+    {
+      "attributes": [
+        1654652948,
+        1106136713,
+        null,
+        null,
+        [
+          [
+            "DD297 48",
+            "Old Schedule Lot",
+            "C6002971",
+            [
+              [
+                "TP90690",
+                "1934-09-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP139143",
+                "1959-02-06",
+                "-",
+                null
+              ],
+              [
+                "TP156895",
+                "1965-12-14",
+                "-",
+                null
+              ],
+              [
+                "TP181548",
+                "1975-10-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP199661",
+                "1980-07-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP387197",
+                "1992-04-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP400996",
+                "1992-08-10",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP517478",
+                "1996-08-20",
+                "RECTIFICATION OF ERROR IN SUCCESSION TO PROPERTY M/N 90690",
+                null
+              ],
+              [
+                "TP596234",
+                "1998-11-12",
+                "STATUTORY DECLARATION OF FAN JOHN KIN SAN ALSO KNOWN AS FAN KIN SAN",
+                null
+              ],
+              [
+                "TP603403",
+                "1998-12-31",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP596233",
+                "1999-02-26",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP603402",
+                "1999-04-30",
+                "DEATH CERTIFICATE OF FAN HOI TONG \"DECEASED\"",
+                null
+              ],
+              [
+                "07071901750052",
+                "2007-06-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "16040700820109",
+                "2016-03-21",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17030201090201",
+                "2017-02-22",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "17030201090213",
+                "2017-02-22",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957841816867212,
+        0.391327275593207,
+        5.900000095367432
+      ],
+      "halfSize": [
+        2.5620049997232854,
+        4.679905000142753,
+        1.5
+      ]
+    },
+    {
+      "attributes": [
+        1654652949,
+        1106136714,
+        null,
+        null,
+        [
+          [
+            "DD297 49",
+            "Old Schedule Lot",
+            "C1876358",
+            [
+              [
+                "TP23075",
+                "1913-01-29",
+                "MORTGAGE",
+                "400.0"
+              ],
+              [
+                "TP64117",
+                "1926-03-02",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TP596690",
+                "1999-02-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957851424492057,
+        0.39132718063006927,
+        5.900000095367432
+      ],
+      "halfSize": [
+        4.054024999961257,
+        4.841854999773204,
+        1.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1654652950,
+        1106136715,
+        null,
+        null,
+        [
+          [
+            "DD297 50",
+            "Old Schedule Lot",
+            "C1876365",
+            [
+              [
+                "TP139143",
+                "1959-02-06",
+                "-",
+                null
+              ],
+              [
+                "TP156895",
+                "1965-12-14",
+                "-",
+                null
+              ],
+              [
+                "TP181548",
+                "1975-10-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP199661",
+                "1980-07-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP387197",
+                "1992-04-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP400996",
+                "1992-08-10",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP468336",
+                "1995-06-08",
+                "-",
+                null
+              ],
+              [
+                "TP596234",
+                "1998-11-12",
+                "STATUTORY DECLARATION OF FAN JOHN KIN SAN ALSO KNOWN AS FAN KIN SAN",
+                null
+              ],
+              [
+                "TP603403",
+                "1998-12-31",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP596233",
+                "1999-02-26",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP603402",
+                "1999-04-30",
+                "DEATH CERTIFICATE OF FAN HOI TONG \"DECEASED\"",
+                null
+              ],
+              [
+                "07071901750052",
+                "2007-06-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "16040700820109",
+                "2016-03-21",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17030201090201",
+                "2017-02-22",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "17030201090213",
+                "2017-02-22",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957860515199068,
+        0.3913270924404217,
+        5.900000095367432
+      ],
+      "halfSize": [
+        2.242005000356585,
+        4.651304999366403,
+        1.5
+      ]
+    },
+    {
+      "attributes": [
+        1654652951,
+        1106136716,
+        null,
+        null,
+        [
+          [
+            "DD297 51",
+            "Old Schedule Lot",
+            "C1876375",
+            [
+              [
+                "TP198000",
+                "1980-01-03",
+                "-",
+                null
+              ],
+              [
+                "TP231878",
+                "1985-08-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP231879",
+                "1985-08-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP536184",
+                "1997-07-04",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP536183",
+                "1997-07-04",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957866964550324,
+        0.39132702597543595,
+        5.900000095367432
+      ],
+      "halfSize": [
+        2.5015399996191263,
+        4.679295000620186,
+        1.5
+      ]
+    },
+    {
+      "attributes": [
+        1654652952,
+        1106136718,
+        null,
+        null,
+        [
+          [
+            "DD297 18",
+            "Old Schedule Lot",
+            "C4881974",
+            [
+              [
+                "TP148734",
+                "1962-12-05",
+                "-",
+                null
+              ],
+              [
+                "TP156896",
+                "1965-12-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP181548",
+                "1975-10-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP218116",
+                "1984-03-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP574169",
+                "1996-10-16",
+                "GENERAL POWER OF ATTORNEY BY FAN FUK YAU",
+                null
+              ],
+              [
+                "TP542872",
+                "1997-07-24",
+                "DEED OF CONFIRMATION BY FAN KOON  MUI",
+                null
+              ],
+              [
+                "TP542873",
+                "1997-07-24",
+                "ASSIGNMENT",
+                "8712.0"
+              ],
+              [
+                "TP574167",
+                "1997-10-24",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TP560093",
+                "1998-01-22",
+                "APPROVAL LETTER OF SUCCESSION BY FAN HING",
+                null
+              ],
+              [
+                "TP574172",
+                "1998-06-08",
+                "ASSIGNMENT",
+                "4356.0"
+              ],
+              [
+                "TP574171",
+                "1998-06-08",
+                "DECLARATION OF HO LOY FAT",
+                null
+              ],
+              [
+                "TP574170",
+                "1998-06-08",
+                "ASSIGNMENT",
+                "8712.0"
+              ],
+              [
+                "TP574168",
+                "1998-06-08",
+                "ASSIGNMENT",
+                "8712.0"
+              ],
+              [
+                "TP596234",
+                "1998-11-12",
+                "STATUTORY DECLARATION OF FAN JOHN KIN SAN ALSO KNOWN AS FAN KIN SAN",
+                null
+              ],
+              [
+                "TP596233",
+                "1999-02-26",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP599118",
+                "1999-03-16",
+                "ASSIGNMENT",
+                "8712.0"
+              ],
+              [
+                "TP599119",
+                "1999-03-16",
+                "ASSIGNMENT",
+                "17424.0"
+              ],
+              [
+                "TP651792",
+                "2000-12-12",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "10102101710262",
+                "2010-10-04",
+                "ASSIGNMENT",
+                "56628.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957670823565103,
+        0.39132703269226055,
+        7.550000190734863
+      ],
+      "halfSize": [
+        3.6110000000335276,
+        3.602500000037253,
+        1.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1654652953,
+        1106136721,
+        null,
+        null,
+        [
+          [
+            "DD297 52",
+            "Old Schedule Lot",
+            "C6198717",
+            [
+              [
+                "TP90690",
+                "1934-09-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP139146",
+                "1959-02-05",
+                "-",
+                null
+              ],
+              [
+                "TP517478",
+                "1996-08-20",
+                "RECTIFICATION OF ERROR IN SUCCESSION TO PROPERTY M/N 90690",
+                null
+              ],
+              [
+                "TP542080",
+                "1997-06-12",
+                "STATUTORY DECLARATION BY LEE (OTHERWISE SPELT AS LI) TONG",
+                null
+              ],
+              [
+                "TP542082",
+                "1997-07-19",
+                "AGREEMENT FOR SALE AND PURCHASE (RE : 1/2 SHARE)",
+                "240000.0"
+              ],
+              [
+                "TP542081",
+                "1997-07-19",
+                "AGREEMENT FOR SALE AND PURCHASE BY LEE WAH HING JOSEPH & LEE WAH",
+                "240000.0"
+              ],
+              [
+                "TP555093",
+                "1997-11-27",
+                "RECTIFICATION OF ERROR IN SUCCESSION TO PROPERTY M/N 139146",
+                null
+              ],
+              [
+                "TP578995",
+                "1998-07-24",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957922881423353,
+        0.39132655380750037,
+        6.699999809265137
+      ],
+      "halfSize": [
+        4.401500000152737,
+        3.012529999949038,
+        2.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1654652954,
+        1106136723,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.995775035151508,
+        0.3913258490749187,
+        11.700000762939453
+      ],
+      "halfSize": [
+        2.507499999832362,
+        3.0010000001639128,
+        1.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1654652955,
+        1106136728,
+        null,
+        null,
+        [
+          [
+            "DD297 36",
+            "Old Schedule Lot",
+            "C1876293",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD297 37 S.B",
+            "Old Schedule Lot",
+            "C6621606",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957704579422768,
+        0.3913247449222561,
+        10.949999809265137
+      ],
+      "halfSize": [
+        3.0470100003294647,
+        6.337534999474883,
+        2.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1654652956,
+        1106136730,
+        null,
+        null,
+        [
+          [
+            "DD297 36",
+            "Old Schedule Lot",
+            "C1876293",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD297 37 S.B",
+            "Old Schedule Lot",
+            "C6621606",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD297 43",
+            "Old Schedule Lot",
+            "C1876333",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957697633165414,
+        0.3913246064482644,
+        11.100000381469727
+      ],
+      "halfSize": [
+        3.536005000118166,
+        6.427369999699295,
+        2.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1654652957,
+        1106136732,
+        null,
+        null,
+        [
+          [
+            "DD297 37 S.B",
+            "Old Schedule Lot",
+            "C6621606",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD297 38",
+            "Old Schedule Lot",
+            "C1876313",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD297 43",
+            "Old Schedule Lot",
+            "C1876333",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957685868306945,
+        0.391324370490744,
+        11.100000381469727
+      ],
+      "halfSize": [
+        5.764979999978095,
+        6.919499999843538,
+        2.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1654652958,
+        1106136736,
+        null,
+        null,
+        [
+          [
+            "DD297 45",
+            "Old Schedule Lot",
+            "C4881992",
+            [
+              [
+                "TP7592",
+                "1908-10-23",
+                "-",
+                null
+              ],
+              [
+                "TP77797",
+                "1930-12-12",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957850617095845,
+        0.39132380720013415,
+        16.0
+      ],
+      "halfSize": [
+        1.8684999998658895,
+        4.0132599994540215,
+        1.3999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1654652959,
+        1106136738,
+        null,
+        null,
+        [
+          [
+            "DD297 45",
+            "Old Schedule Lot",
+            "C4881992",
+            [
+              [
+                "TP7592",
+                "1908-10-23",
+                "-",
+                null
+              ],
+              [
+                "TP77797",
+                "1930-12-12",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957842242514705,
+        0.3913237367324302,
+        16.850000381469727
+      ],
+      "halfSize": [
+        3.6595499999821186,
+        4.18646000046283,
+        2.25
+      ]
+    },
+    {
+      "attributes": [
+        1654652960,
+        1106136739,
+        "HOLY FAMILY CHAPEL",
+        null,
+        [
+          [
+            "DD297 45",
+            "Old Schedule Lot",
+            "C4881992",
+            [
+              [
+                "TP7592",
+                "1908-10-23",
+                "-",
+                null
+              ],
+              [
+                "TP77797",
+                "1930-12-12",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957821292656865,
+        0.3913235555338932,
+        16.75
+      ],
+      "halfSize": [
+        9.28749500028789,
+        4.7197650000452995,
+        2.3500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1654652961,
+        1106136743,
+        null,
+        null,
+        [
+          [
+            "DD297 40",
+            "Old Schedule Lot",
+            "C6678293",
+            [
+              [
+                "TP7592",
+                "1908-10-23",
+                "-",
+                null
+              ],
+              [
+                "TP77797",
+                "1930-12-12",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957665651592038,
+        0.39132279997709973,
+        10.199999809265137
+      ],
+      "halfSize": [
+        3.2299999999813735,
+        5.143000000156462,
+        2.0
+      ]
+    },
+    {
+      "attributes": [
+        1654652962,
+        1106136744,
+        null,
+        null,
+        [
+          [
+            "DD297 43",
+            "Old Schedule Lot",
+            "C1876333",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957735304175626,
+        0.3913229404471888,
+        11.5
+      ],
+      "halfSize": [
+        1.828500000294298,
+        2.2730000000447035,
+        0.8999996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1654652963,
+        1106136745,
+        null,
+        null,
+        [
+          [
+            "DD297 40",
+            "Old Schedule Lot",
+            "C6678293",
+            [
+              [
+                "TP7592",
+                "1908-10-23",
+                "-",
+                null
+              ],
+              [
+                "TP77797",
+                "1930-12-12",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957659758292539,
+        0.3913226567532427,
+        9.899999618530273
+      ],
+      "halfSize": [
+        1.8060000003315508,
+        3.705500000156462,
+        1.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1654652964,
+        1106136748,
+        null,
+        null,
+        [
+          [
+            "DD297 43",
+            "Old Schedule Lot",
+            "C1876333",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957730227806776,
+        0.39132216590308055,
+        11.449999809265137
+      ],
+      "halfSize": [
+        2.507400000002235,
+        5.654500000178814,
+        0.75
+      ]
+    },
+    {
+      "attributes": [
+        1654652965,
+        1106136749,
+        null,
+        null,
+        [
+          [
+            "DD297 35",
+            "Old Schedule Lot",
+            "C1876280",
+            [
+              [
+                "TP153642",
+                "1964-08-19",
+                "-",
+                null
+              ],
+              [
+                "14021900780233",
+                "2014-01-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD297 43",
+            "Old Schedule Lot",
+            "C1876333",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995772387022486,
+        0.3913220803967073,
+        12.199999809265137
+      ],
+      "halfSize": [
+        3.294999999925494,
+        5.827810000628233,
+        2.0
+      ]
+    },
+    {
+      "attributes": [
+        1654652966,
+        1106136751,
+        null,
+        null,
+        [
+          [
+            "DD297 34",
+            "Old Schedule Lot",
+            "C1876272",
+            [
+              [
+                "TP146694",
+                "1962-03-06",
+                "-",
+                null
+              ],
+              [
+                "14021900780233",
+                "2014-01-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995770163742508,
+        0.39132180763933877,
+        13.699999809265137
+      ],
+      "halfSize": [
+        3.9140550000593066,
+        6.805564999580383,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1654652967,
+        1106136754,
+        null,
+        null,
+        [
+          [
+            "DD297 35",
+            "Old Schedule Lot",
+            "C1876280",
+            [
+              [
+                "TP153642",
+                "1964-08-19",
+                "-",
+                null
+              ],
+              [
+                "14021900780233",
+                "2014-01-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957713768842198,
+        0.3913218812342097,
+        11.850000381469727
+      ],
+      "halfSize": [
+        4.78396000014618,
+        6.114000000059605,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1654652968,
+        1106136755,
+        null,
+        null,
+        [
+          [
+            "DD297 33",
+            "Old Schedule Lot",
+            "C5531909",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957694121762743,
+        0.391321647169864,
+        13.800000190734863
+      ],
+      "halfSize": [
+        3.115019999910146,
+        6.5518600000068545,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1654652969,
+        1106136757,
+        null,
+        null,
+        [
+          [
+            "DD297 32",
+            "Old Schedule Lot",
+            "C1876265",
+            [
+              [
+                "TP65906",
+                "1927-01-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP85235",
+                "1933-01-23",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP331369",
+                "1990-07-05",
+                "DEATH AND APPOINTMENT OF MANAGER OF CHIU CHING TAT TSO",
+                null
+              ],
+              [
+                "TP331370",
+                "1990-07-05",
+                "-",
+                null
+              ],
+              [
+                "14010300460103",
+                "2013-01-16",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "14010300460111",
+                "2013-12-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD297 33",
+            "Old Schedule Lot",
+            "C5531909",
+            [
+              [
+                "TP19883",
+                "1912-03-30",
+                "-",
+                null
+              ],
+              [
+                "TP185402",
+                "1977-03-23",
+                "-",
+                null
+              ],
+              [
+                "TP236786",
+                "1985-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP510107",
+                "1996-11-26",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "10071900950036",
+                "2010-06-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11080902220024",
+                "2011-07-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "13020701730014",
+                "2013-01-15",
+                "ASSIGNMENT",
+                "642709.0"
+              ],
+              [
+                "16091500260010",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "19101700150030",
+                "2019-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "23021701940025",
+                "2023-02-06",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23101201150044",
+                "2023-09-25",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9957686459315152,
+        0.39132148523727134,
+        13.800000190734863
+      ],
+      "halfSize": [
+        4.029029999859631,
+        6.700019999407232,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1654652970,
+        1106136844,
+        null,
+        "16 PAK TAM AU",
+        [
+          [
+            "DD255 369",
+            "New Grant Lot",
+            "C1801502",
+            [
+              [
+                "TP193571",
+                "1978-12-06",
+                "DEED OF DEVELOPMENT",
+                null
+              ],
+              [
+                "TP193569",
+                "1978-12-06",
+                "DEED OF REVOCATION",
+                null
+              ],
+              [
+                "TP193572",
+                "1978-12-06",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TP193570",
+                "1978-12-06",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP195207",
+                "1979-04-26",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP184685",
+                "1979-10-08",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP281402",
+                "1980-01-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP198385",
+                "1980-02-04",
+                "-",
+                "625000.0"
+              ],
+              [
+                "TP271371",
+                "1987-08-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "630000.0"
+              ],
+              [
+                "TP277989",
+                "1987-10-30",
+                "CONFIRMATORY ASSIGNMENT",
+                null
+              ],
+              [
+                "TP277990",
+                "1987-11-12",
+                "ASSIGNMENT",
+                "630000.0"
+              ],
+              [
+                "TP281403",
+                "1988-04-08",
+                "ASSIGNMENT",
+                "1150000.0"
+              ],
+              [
+                "TP281404",
+                "1988-04-08",
+                "TRIPARTITE LEGAL CHARGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "TP319034",
+                "1988-04-08",
+                "TRIPRTRTE LEGAL CHARGE/MORTGAGE",
+                null
+              ],
+              [
+                "TP705300",
+                "2003-06-20",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "22031800830010",
+                "2012-05-26",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF DEATH",
+                null
+              ],
+              [
+                "22040801510012",
+                "2022-02-04",
+                "PROBATE",
+                null
+              ],
+              [
+                "22061001980012",
+                "2022-06-02",
+                "ASSENT",
+                null
+              ],
+              [
+                "23042800870015",
+                "2023-04-11",
+                "PRELIMINARY SALE AND PURCHASE AGREEMENT",
+                "10800000.0"
+              ],
+              [
+                "23052500980019",
+                "2023-05-15",
+                "ASSIGNMENT",
+                "10800000.0"
+              ],
+              [
+                "23072500550020",
+                "2023-06-28",
+                "ASSIGNMENT",
+                "10800000.0"
+              ],
+              [
+                "23072500550016",
+                "2023-06-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10800000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995468953654076,
+        0.3913088230236631,
+        141.64999389648438
+      ],
+      "halfSize": [
+        5.6450000000186265,
+        6.1914999997243285,
+        5.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1654652971,
+        1106136848,
+        null,
+        "15 PAK TAM AU",
+        [
+          [
+            "DD255 368",
+            "New Grant Lot",
+            "C6577442",
+            [
+              [
+                "TP177458",
+                "1974-03-20",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP191372",
+                "1978-08-24",
+                "REVOCATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP191318",
+                "1978-09-19",
+                "RECTIFICATIOM AGREEMENT",
+                null
+              ],
+              [
+                "TP282287",
+                "1980-03-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP199376",
+                "1980-04-22",
+                "-",
+                null
+              ],
+              [
+                "TP271370",
+                "1987-08-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1220000.0"
+              ],
+              [
+                "TP277988",
+                "1987-11-12",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "TP277987",
+                "1987-11-12",
+                "ASSIGNMENT",
+                "610000.0"
+              ],
+              [
+                "TP281914",
+                "1988-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "980000.0"
+              ],
+              [
+                "TP283481",
+                "1988-05-25",
+                "ASSIGNMENT",
+                "980000.0"
+              ],
+              [
+                "TP283480",
+                "1988-05-25",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "TP283484",
+                "1988-05-25",
+                "LEGAL CHARGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "TP374770",
+                "1991-02-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2150000.0"
+              ],
+              [
+                "TP348192",
+                "1991-02-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2150000.0"
+              ],
+              [
+                "TP368799",
+                "1991-08-01",
+                "LEGAL CHARGE",
+                "1935000.0"
+              ],
+              [
+                "TP368798",
+                "1991-08-01",
+                "ASSIGNMENT",
+                "2150000.0"
+              ],
+              [
+                "TP368800",
+                "1991-08-01",
+                "SECOND LEGAL CHARGE",
+                "215000.0"
+              ],
+              [
+                "TP368797",
+                "1991-08-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TP677218",
+                "2001-12-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "TP727898",
+                "2004-07-02",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "10041200880052",
+                "2010-04-08",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16021101290044",
+                "2016-01-20",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954700301033415,
+        0.3913081045309695,
+        140.9499969482422
+      ],
+      "halfSize": [
+        5.634000000078231,
+        6.170084999874234,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1654652972,
+        1106136851,
+        null,
+        "14 PAK TAM AU",
+        [
+          [
+            "DD255 367",
+            "New Grant Lot",
+            "C5813652",
+            [
+              [
+                "TP192855",
+                "1978-11-08",
+                "REVOCATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP192856",
+                "1978-11-08",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP192953",
+                "1978-11-08",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP195165",
+                "1979-04-18",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP199375",
+                "1980-04-22",
+                "-",
+                "610000.0"
+              ],
+              [
+                "TP271370",
+                "1987-08-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1220000.0"
+              ],
+              [
+                "TP277983",
+                "1987-10-30",
+                "NOMINATION",
+                null
+              ],
+              [
+                "TP277985",
+                "1987-11-12",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "TP277984",
+                "1987-11-12",
+                "ASSIGNMENT",
+                "610000.0"
+              ],
+              [
+                "TP279164",
+                "1988-01-15",
+                "RELEASE",
+                null
+              ],
+              [
+                "TP279166",
+                "1988-01-15",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "TP279165",
+                "1988-01-15",
+                "ASSIGNMENT",
+                "920000.0"
+              ],
+              [
+                "TP292224",
+                "1989-01-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1565000.0"
+              ],
+              [
+                "TP295750",
+                "1989-03-01",
+                "RELEASE",
+                null
+              ],
+              [
+                "TP385232",
+                "1989-03-01",
+                "-",
+                "1565000.0"
+              ],
+              [
+                "TP295751",
+                "1989-03-01",
+                "ASSIGNMENT",
+                "1565000.0"
+              ],
+              [
+                "TP382456",
+                "1992-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2980000.0"
+              ],
+              [
+                "TP385235",
+                "1992-02-29",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TP385233",
+                "1992-02-29",
+                "NOMINATION BY PAUL ERNEST FIRMIN",
+                null
+              ],
+              [
+                "TP385234",
+                "1992-02-29",
+                "-",
+                "2980000.0"
+              ],
+              [
+                "TP575271",
+                "1998-06-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5500000.0"
+              ],
+              [
+                "TP578670",
+                "1998-07-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "TP578671",
+                "1998-07-22",
+                "ASSIGNMENT",
+                "5500000.0"
+              ],
+              [
+                "11102501090018",
+                "2010-10-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "14112802150058",
+                "2014-11-02",
+                "PRELIMINARY SALE & PURCHASE AGREEMENT",
+                "11500000.0"
+              ],
+              [
+                "14121702410037",
+                "2014-12-02",
+                "ASSIGNMENT",
+                "11500000.0"
+              ],
+              [
+                "22062201750129",
+                "2022-06-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "22500000.0"
+              ],
+              [
+                "22072801480170",
+                "2022-07-08",
+                "ASSIGNMENT",
+                "22500000.0"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954708732168966,
+        0.39130752904204963,
+        140.9499969482422
+      ],
+      "halfSize": [
+        5.6130599998869,
+        6.14850000012666,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1654652973,
+        1106136876,
+        null,
+        "4 PAK TAM AU",
+        [
+          [
+            "DD255 40",
+            "Old Schedule Lot",
+            "C4872171",
+            [
+              [
+                "TP144565",
+                "1961-07-04",
+                "-",
+                null
+              ],
+              [
+                "TP199778",
+                "1980-07-25",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "TP203317",
+                "1981-03-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP208634",
+                "1982-05-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP226339",
+                "1985-03-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP281110",
+                "1988-04-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411095",
+                "1992-07-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411096",
+                "1992-07-13",
+                "-",
+                null
+              ],
+              [
+                "TP450034",
+                "1994-07-29",
+                "SUPPLEMENTAL AGREEMENT BY HO LAU RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP482792",
+                "1996-02-16",
+                "SUPPLEMENTAL AGREEMENT BY HO KAM KUEN RE 1/8 SHARE",
+                "910404.0"
+              ],
+              [
+                "TP487539",
+                "1996-03-29",
+                "SUPPLEMENTAL AGREEMENT BY HO KAM MING RE 1/4 SHARE",
+                "1820808.0"
+              ],
+              [
+                "TP513416",
+                "1997-01-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP569906",
+                "1998-04-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "06080900360058",
+                "2006-07-15",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD255 41 S.A",
+            "Old Schedule Lot",
+            "D4516402",
+            [
+              [
+                "TP709553",
+                "2003-09-16",
+                "ASSENT",
+                null
+              ],
+              [
+                "19032001410042",
+                "2019-03-05",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "19052001020049",
+                "2019-04-29",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "23062700980023",
+                "2023-06-16",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954786398843682,
+        0.3913055989748145,
+        135.64999389648438
+      ],
+      "halfSize": [
+        3.7225000001490116,
+        4.342499999329448,
+        1.8499984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1654652974,
+        1106136886,
+        null,
+        null,
+        [
+          [
+            "DD255 41 RP",
+            "Old Schedule Lot",
+            "D4516413",
+            [
+              [
+                "TP709553",
+                "2003-09-16",
+                "ASSENT",
+                null
+              ],
+              [
+                "19032001410042",
+                "2019-03-05",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "19052001020049",
+                "2019-04-29",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "23062700980023",
+                "2023-06-16",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.995479058763481,
+        0.39130521453330686,
+        134.6999969482422
+      ],
+      "halfSize": [
+        2.7361100004054606,
+        3.1429449999704957,
+        1.6999969482421875
+      ]
+    },
+    {
+      "attributes": [
+        1654652975,
+        1106136887,
+        null,
+        "6A PAK TAM AU",
+        [
+          [
+            "DD255 42",
+            "Old Schedule Lot",
+            "C5525054",
+            [
+              [
+                "TP144565",
+                "1961-07-04",
+                "-",
+                null
+              ],
+              [
+                "TP199778",
+                "1980-07-25",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "TP203317",
+                "1981-03-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP208634",
+                "1982-05-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP226339",
+                "1985-03-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP281110",
+                "1988-04-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411095",
+                "1992-07-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411096",
+                "1992-07-13",
+                "-",
+                null
+              ],
+              [
+                "TP513416",
+                "1997-01-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP569906",
+                "1998-04-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "06080900360058",
+                "2006-07-15",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954796675131943,
+        0.3913049510515126,
+        134.75
+      ],
+      "halfSize": [
+        3.6659949999302626,
+        4.252430000342429,
+        1.75
+      ]
+    },
+    {
+      "attributes": [
+        1654652976,
+        1106136892,
+        null,
+        "6 PAK TAM AU",
+        [
+          [
+            "DD255 42",
+            "Old Schedule Lot",
+            "C5525054",
+            [
+              [
+                "TP144565",
+                "1961-07-04",
+                "-",
+                null
+              ],
+              [
+                "TP199778",
+                "1980-07-25",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "TP203317",
+                "1981-03-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP208634",
+                "1982-05-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP226339",
+                "1985-03-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP281110",
+                "1988-04-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411095",
+                "1992-07-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP411096",
+                "1992-07-13",
+                "-",
+                null
+              ],
+              [
+                "TP513416",
+                "1997-01-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP569906",
+                "1998-04-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "06080900360058",
+                "2006-07-15",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954802365728468,
+        0.3913046366193486,
+        135.6999969482422
+      ],
+      "halfSize": [
+        3.7542599998414516,
+        4.188764999620616,
+        2.3000030517578125
+      ]
+    },
+    {
+      "attributes": [
+        1654652977,
+        1106136898,
+        null,
+        "7 PAK TAM AU",
+        [
+          [
+            "DD255 43",
+            "Old Schedule Lot",
+            "C5290244",
+            [
+              [
+                "TP144544",
+                "1961-06-30",
+                "-",
+                null
+              ],
+              [
+                "TP194062",
+                "1979-03-14",
+                "STATUTORY DECLARATION OF HO LOY HING ALSO KNOWN AS HO LOI HING",
+                null
+              ],
+              [
+                "05070201830028",
+                "2005-06-10",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954815374278496,
+        0.39130379378278907,
+        137.10000610351562
+      ],
+      "halfSize": [
+        5.168924999888986,
+        5.224924999289215,
+        4.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1654652978,
+        1106136902,
+        null,
+        "8 PAK TAM AU",
+        [
+          [
+            "DD255 44",
+            "Old Schedule Lot",
+            "C1799340",
+            [
+              [
+                "TP143949",
+                "1961-04-26",
+                "-",
+                null
+              ],
+              [
+                "TP251642",
+                "1986-04-13",
+                "DECLARATION",
+                null
+              ],
+              [
+                "TP251643",
+                "1986-07-07",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "11011001380019",
+                "2010-12-09",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "11051602700081",
+                "2011-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "11120902670040",
+                "2011-12-06",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "12061102410018",
+                "2012-05-31",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12102402560017",
+                "2012-10-08",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12102402560021",
+                "2012-10-08",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954825331568682,
+        0.3913033416187811,
+        137.0
+      ],
+      "halfSize": [
+        5.470000000204891,
+        6.7609799997881055,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        1654652979,
+        1106136907,
+        null,
+        "12 PAK TAM AU",
+        [
+          [
+            "DD255 364",
+            "New Grant Lot",
+            "C1801483",
+            [
+              [
+                "TP709551",
+                "2003-07-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "TP709552",
+                "2003-09-16",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "18123100960023",
+                "2018-12-19",
+                "LEASE",
+                "FOR RENT AND TERM SEE REMARKS"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "coordinate": [
+        1.9954777572939393,
+        0.3913032250829969,
+        135.3000030517578
+      ],
+      "halfSize": [
+        4.128500000108033,
+        4.891999999992549,
+        3.1999969482421875
+      ]
+    },
+    {
+      "attributes": [
+        1654652980,
+        1810080018,
+        null,
+        null,
+        []
+      ],
+      "coordinate": [
+        1.9955546614036517,
+        0.39144418824775196,
+        5.099999904632568
+      ],
+      "halfSize": [
+        1.6855000001378357,
+        1.8220000006258488,
+        1.0999999046325684
+      ]
+    }
+  ]
+}

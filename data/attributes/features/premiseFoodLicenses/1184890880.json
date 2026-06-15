@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1184890880,
+        1,
+        [
+          [
+            3695802401,
+            5,
+            "YATADAY - SILICON LANE",
+            "PORTIONS OF SHOP NOS. 20-21, G/F, SILICON LANE, 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1184891508
+        ]
+      ],
+      "coordinate": [
+        1.9932024909036181,
+        0.391431286203874,
+        11.0
+      ],
+      "halfSize": [
+        58.27406295767287,
+        68.89883280632785,
+        3.6999998092651367
+      ]
+    }
+  ]
+}

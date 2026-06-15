@@ -1,0 +1,4334 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1166016512,
+        1,
+        [
+          [
+            2252124640,
+            0,
+            "\u53cb\u8a18\u71d2\u814a\u98ef\u5e97",
+            "SHOP NO.1B, G/F, 24 BAILEY STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016520
+        ]
+      ],
+      "coordinate": [
+        1.9929658757198956,
+        0.3894187204609122,
+        30.600000381469727
+      ],
+      "halfSize": [
+        8.143600000068545,
+        14.617510000243783,
+        21.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016513,
+        1,
+        [
+          [
+            2252804696,
+            0,
+            "\u6cf0\u4e9e\u840a",
+            "G/F, 32 BAILEY STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-02-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016529
+        ]
+      ],
+      "coordinate": [
+        1.9929701580194095,
+        0.38941819010580014,
+        29.5
+      ],
+      "halfSize": [
+        7.841260000132024,
+        11.85816999990493,
+        22.0
+      ]
+    },
+    {
+      "attributes": [
+        1166016514,
+        1,
+        [
+          [
+            2252810419,
+            0,
+            "KING'S DYNASTY",
+            "G/F, SUNG YEE BUILDING, 15A & 15B SUNG CHI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016549
+        ]
+      ],
+      "coordinate": [
+        1.9929656434854761,
+        0.38941359617557836,
+        30.5
+      ],
+      "halfSize": [
+        8.101555000059307,
+        14.363264999352396,
+        21.0
+      ]
+    },
+    {
+      "attributes": [
+        1166016515,
+        1,
+        [
+          [
+            3952804841,
+            1,
+            "\u946b\u5988\u997a\u5b50",
+            "PORTION A OF G/F, 168 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016557
+        ]
+      ],
+      "coordinate": [
+        1.9929468548327047,
+        0.3894145165965618,
+        20.900001525878906
+      ],
+      "halfSize": [
+        9.377934999763966,
+        2.477564999833703,
+        15.500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1166016516,
+        1,
+        [
+          [
+            3152800416,
+            1,
+            "\u6e2f\u53e3\u51b0\u5ba4",
+            "SHOP D, G/F, TIEN FU BUILDING, 156-162 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016570
+        ]
+      ],
+      "coordinate": [
+        1.9929466545300665,
+        0.3894112836424193,
+        25.94999885559082
+      ],
+      "halfSize": [
+        9.570350000169128,
+        9.390545000322163,
+        20.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1166016517,
+        2,
+        [
+          [
+            2252297159,
+            0,
+            "Baby Fruit Garden",
+            "G/F, SUNG LAI BUILDING, 34 SUNG KIT STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-01"
+          ],
+          [
+            2252800630,
+            0,
+            "\u5510\u4eba\u574a\u5496\u5561\u9910\u5ef3",
+            "G/F, SUNG LAI BUILDING, 32 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016579
+        ]
+      ],
+      "coordinate": [
+        1.9929654068864235,
+        0.389408410071507,
+        30.700000762939453
+      ],
+      "halfSize": [
+        7.976454999763519,
+        14.357639999128878,
+        21.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1166016518,
+        1,
+        [
+          [
+            2252806276,
+            0,
+            "\u9ad8\u5c71\u91d1\u5cf0\u95a3",
+            "G/F., PARAMOUNT MANSION, 393 CHATHAM ROAD NORTH, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016581
+        ]
+      ],
+      "coordinate": [
+        1.9929124611561122,
+        0.3894078992377076,
+        40.60000228881836
+      ],
+      "halfSize": [
+        15.676350000314415,
+        16.37584500014782,
+        26.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1166016519,
+        2,
+        [
+          [
+            2252800481,
+            0,
+            "\u6e58\u9047\u8fb2\u5bb6\u83dc\u6728\u6876\u98ef",
+            "SHOP NOS. 101-103, G/F, SUNG LIM BUILDING, 91 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-14"
+          ],
+          [
+            3152801260,
+            1,
+            "\u5617\u5473\u9910\u5ba4",
+            "G/F, SUNG LIM BUILDING, 95 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016590
+        ]
+      ],
+      "coordinate": [
+        1.9929750713501233,
+        0.38940659717195836,
+        29.700000762939453
+      ],
+      "halfSize": [
+        13.819165000226349,
+        12.356440000236034,
+        22.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1166016520,
+        2,
+        [
+          [
+            2252802247,
+            0,
+            "Tao Heung",
+            "FOOD COURT 2/F, HUNGHOM COMMERCIAL CENTRE, 37-39 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-06"
+          ],
+          [
+            3152803488,
+            1,
+            "LE JARDIN",
+            "MINOR PORTION OF 3/F, HUNGHOM COMMERCIAL CENTRE BLOCK B, 37-39 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016627
+        ]
+      ],
+      "coordinate": [
+        1.9929574651964197,
+        0.3893876421917202,
+        29.700000762939453
+      ],
+      "halfSize": [
+        30.045715000014752,
+        28.388524999842048,
+        21.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1166016521,
+        1,
+        [
+          [
+            2252804270,
+            0,
+            "\u6ce2\u8a18\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "G/F, 98 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016640
+        ]
+      ],
+      "coordinate": [
+        1.9929463610559994,
+        0.38938484963541037,
+        23.0
+      ],
+      "halfSize": [
+        9.245140000246465,
+        2.332899999804795,
+        17.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1166016522,
+        2,
+        [
+          [
+            2252805228,
+            0,
+            "LAGUNA KITCHEN",
+            "SHOP LG10, LG/F, THE LAGUNA MALL, NO. 8 LAGUNA VERDE AVENUE, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-20"
+          ],
+          [
+            3152802050,
+            1,
+            "Starbucks Coffee",
+            "SHOP UG39 AND PORTIONS AT SHOP FRONT CORRIDOR, UG/F, THE LAGUNA MALL, NO. 8 LAGUNA VERDE AVENUE, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016648
+        ]
+      ],
+      "coordinate": [
+        1.9930168685527248,
+        0.3893695944941346,
+        22.649999618530273
+      ],
+      "halfSize": [
+        59.759749999735504,
+        68.04380499944091,
+        18.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016523,
+        1,
+        [
+          [
+            2252803462,
+            0,
+            "\u65b0\u6a80\u9999\u5c71\u8336\u9910\u5ef3",
+            "G/F, PHASE I, CARLTON COURT, NO. 70 MA TAU WAI ROAD, KOWLOON",
+            null,
+            "2026-11-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016666
+        ]
+      ],
+      "coordinate": [
+        1.992946123191337,
+        0.38937278318473084,
+        12.649999618530273
+      ],
+      "halfSize": [
+        9.474239999894053,
+        5.873499999754131,
+        7.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1166016524,
+        1,
+        [
+          [
+            2252187876,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. LG9, LG/F, KA WAI PLAZA, 48 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016691
+        ]
+      ],
+      "coordinate": [
+        1.9929454655798449,
+        0.38935638531999384,
+        28.549999237060547
+      ],
+      "halfSize": [
+        11.555325000081211,
+        29.526619999669492,
+        23.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1166016525,
+        1,
+        [
+          [
+            2252807747,
+            0,
+            "Rim Taang Thai BBQ 2",
+            "G/F, 104 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016706
+        ]
+      ],
+      "coordinate": [
+        1.9928958664859584,
+        0.3893542747022499,
+        11.84999942779541
+      ],
+      "halfSize": [
+        5.122570000123233,
+        7.244699999690056,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016526,
+        1,
+        [
+          [
+            2252805927,
+            0,
+            "\u5609\u7f8e",
+            "SHOP B & C, G/F, PO ON LAU, 165-167 BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016719
+        ]
+      ],
+      "coordinate": [
+        1.9928830553058952,
+        0.38935188180151525,
+        18.80000114440918
+      ],
+      "halfSize": [
+        8.17693499987945,
+        8.208125000819564,
+        14.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016527,
+        3,
+        [
+          [
+            2252201295,
+            0,
+            "McDonald's",
+            "SHOP NOS.19-20 ON UG/F OF KA LIM LAU SHOP NOS.5-6 ON UG/F OF KA HING LAU, KA WAI CHUEN, MA TAU WAI ROAD, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2252806656,
+            0,
+            "KFC",
+            "SHOP NOS. LG4 & LG5, LG/F, KA WAI SHOPPING CENTRE, NOS. 44-46 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2252807668,
+            0,
+            "GOOSE KING ROASTED RESTAURANT",
+            "SHOP LG4 AND SEATING AREA IN SHOPFRONT, LG/F, KA WAI PLAZA, 44-48 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016727
+        ]
+      ],
+      "coordinate": [
+        1.9929427088615512,
+        0.3893472316745381,
+        28.349998474121094
+      ],
+      "halfSize": [
+        22.560374999884516,
+        33.05593000072986,
+        23.25
+      ]
+    },
+    {
+      "attributes": [
+        1166016528,
+        1,
+        [
+          [
+            2252803754,
+            0,
+            "\u9f8d\u8a18\u725b\u4ec0\u7c89\u9eb5",
+            "G/F, 153 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016749
+        ]
+      ],
+      "coordinate": [
+        1.9928956704812912,
+        0.389347925983885,
+        11.850000381469727
+      ],
+      "halfSize": [
+        5.013425000011921,
+        7.239260000176728,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1166016529,
+        1,
+        [
+          [
+            3152158342,
+            1,
+            "\u826f\u8a18\u7ca5\u7c89\u9eb5",
+            "G/F, 33 COOKE STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016770
+        ]
+      ],
+      "coordinate": [
+        1.9928780402610828,
+        0.3893457038091122,
+        14.649999618530273
+      ],
+      "halfSize": [
+        6.595105000305921,
+        7.0876150000840425,
+        10.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1166016530,
+        1,
+        [
+          [
+            3152800920,
+            1,
+            "\u5e73\u8a18\u5496\u5561\u5ba4",
+            "G/F, 78 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016771
+        ]
+      ],
+      "coordinate": [
+        1.9929096879346213,
+        0.38934556920466357,
+        14.450000762939453
+      ],
+      "halfSize": [
+        6.01463000010699,
+        6.5941700004041195,
+        10.25
+      ]
+    },
+    {
+      "attributes": [
+        1166016531,
+        1,
+        [
+          [
+            3152258554,
+            1,
+            "\u5fb7\u660c\u5c0f\u98df",
+            "G/F, 33 STATION LANE, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-02-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016773
+        ]
+      ],
+      "coordinate": [
+        1.9929174900300066,
+        0.38934423180257105,
+        17.850000381469727
+      ],
+      "halfSize": [
+        10.229390000458807,
+        9.12669499963522,
+        12.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016532,
+        2,
+        [
+          [
+            2252160864,
+            0,
+            "\u806f\u767c\u8336\u9910\u5ef3",
+            "G/F, 39 COOKE STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252806106,
+            0,
+            "\u6a02\u5609\u5eda\u623f",
+            "G/F, 37 COOKE STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016775
+        ]
+      ],
+      "coordinate": [
+        1.992880764024257,
+        0.3893439766837899,
+        14.25
+      ],
+      "halfSize": [
+        6.832525000441819,
+        8.521259999834001,
+        10.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1166016533,
+        1,
+        [
+          [
+            3852815145,
+            0,
+            "\u4e09\u6085\u51b0\u5ba4",
+            "SHOP NOS. 2 AND 3, LOWER GROUND FLOOR, HUNG FAI HOUSE, HUNG HOM ESTATE I, 9 DYER AVENUE, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016802
+        ]
+      ],
+      "coordinate": [
+        1.9929735050209048,
+        0.3893407378859306,
+        55.099998474121094
+      ],
+      "halfSize": [
+        35.35935500031337,
+        19.25396000035107,
+        43.5
+      ]
+    },
+    {
+      "attributes": [
+        1166016534,
+        1,
+        [
+          [
+            2252806188,
+            0,
+            "CAFE SWEET ONE",
+            "G/F, 66 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016813
+        ]
+      ],
+      "coordinate": [
+        1.9929168400594963,
+        0.3893411600302652,
+        13.049999237060547
+      ],
+      "halfSize": [
+        5.56609999993816,
+        7.939439999870956,
+        8.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016535,
+        1,
+        [
+          [
+            3152285664,
+            1,
+            "\u91d1\u5bf6\u8336\u9910\u5ef3",
+            "SHOP 16-17, G/F, PO YUEN MANSION, 28 BULKELEY STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016825
+        ]
+      ],
+      "coordinate": [
+        1.992892791399511,
+        0.3893398238779575,
+        28.900001525878906
+      ],
+      "halfSize": [
+        10.776864999905229,
+        9.6869099996984,
+        15.500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1166016536,
+        1,
+        [
+          [
+            2252800986,
+            0,
+            "SANG KEE FOOD COMPANY",
+            "G/F, 62 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016828
+        ]
+      ],
+      "coordinate": [
+        1.992918808535386,
+        0.38933986163759493,
+        13.200000762939453
+      ],
+      "halfSize": [
+        5.056414999999106,
+        7.63429499976337,
+        8.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1166016537,
+        1,
+        [
+          [
+            3152801349,
+            1,
+            "\u5690\u6eff",
+            "SHOP D1 & 2, G/F, FUKA BUILDING, 8 COOKE STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016868
+        ]
+      ],
+      "coordinate": [
+        1.992886793093041,
+        0.3893349935882319,
+        20.0
+      ],
+      "halfSize": [
+        13.218534999992698,
+        10.152724999934435,
+        16.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1166016538,
+        1,
+        [
+          [
+            2252810312,
+            0,
+            "\u7f8e\u5473\u4f73",
+            "G/F, 42 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016880
+        ]
+      ],
+      "coordinate": [
+        1.9929281130356384,
+        0.38933409670585023,
+        13.199999809265137
+      ],
+      "halfSize": [
+        5.226840000133961,
+        7.464829999953508,
+        9.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1166016539,
+        1,
+        [
+          [
+            2252804997,
+            0,
+            "\u65b0\u5927\u5149\u71c8",
+            "FLAT E&A3, G/F, GILLIES MANSION, 27-37 GILLIES AVENUE SOUTH, 67 -69 BAKER STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016889
+        ]
+      ],
+      "coordinate": [
+        1.9928895948702678,
+        0.38933164925429714,
+        26.5
+      ],
+      "halfSize": [
+        15.491715000011027,
+        16.42833000048995,
+        23.0
+      ]
+    },
+    {
+      "attributes": [
+        1166016540,
+        1,
+        [
+          [
+            3152804038,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP B&C, G/F, 34 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016903
+        ]
+      ],
+      "coordinate": [
+        1.9929316283578447,
+        0.38933144516701834,
+        13.699999809265137
+      ],
+      "halfSize": [
+        5.054430000018328,
+        6.44368000049144,
+        9.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016541,
+        1,
+        [
+          [
+            2252809390,
+            0,
+            "BBQ FAMILY",
+            "SHOP B2, G/F., WING WING BUILDING, YUEN WING BUILDING & ON WING BUILDING, NOS. 27, 29, 33-37 & 41-47 MAN TAI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016917
+        ]
+      ],
+      "coordinate": [
+        1.9929609570687925,
+        0.38932828765670224,
+        30.0
+      ],
+      "halfSize": [
+        11.941189999692142,
+        12.25137499999255,
+        20.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1166016542,
+        3,
+        [
+          [
+            2252802362,
+            0,
+            "THE GREAT RESTAURANT",
+            "SHOP B1B, G/F, YUEN WING BUILDING, 35 MAN TAI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2252803824,
+            0,
+            "\u6f6e\u8208\u725b\u4ec0\u7c89\u9eb5\u5c0a\u5bb6",
+            "SHOP B1A, G/F, YUEN WING BUILDING, 37 MAN TAI STREET, WHAMPOA ESTATE, KOWLOON",
+            null,
+            "2026-09-12"
+          ],
+          [
+            2252807631,
+            0,
+            "Wing Fai Cafe",
+            "SHOP C2, G/F, YUEN WING BUILDING, WHAMPOA ESTATE, 41 MAN TAI STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016929
+        ]
+      ],
+      "coordinate": [
+        1.9929641436297971,
+        0.3893265704598724,
+        30.0
+      ],
+      "halfSize": [
+        11.927309999708086,
+        13.616104999557137,
+        20.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1166016543,
+        1,
+        [
+          [
+            2252805060,
+            0,
+            "\u65b0\u9eb5\u9053\u624b\u4f5c\u9bae\u6e6f\u9eb5",
+            "SHOP D, G/F, ON WING BUILDING, 41-47 MAN TAI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016942
+        ]
+      ],
+      "coordinate": [
+        1.9929672014333861,
+        0.38932469043602835,
+        30.0
+      ],
+      "halfSize": [
+        11.882160000037402,
+        13.505029999651015,
+        20.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1166016544,
+        1,
+        [
+          [
+            2252802432,
+            0,
+            "\u5bcc\u6f64\u9910\u5ef3",
+            "G/F, 21 GILLIES AVENUE SOUTH, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016946
+        ]
+      ],
+      "coordinate": [
+        1.9928842118733299,
+        0.3893237318316968,
+        26.799999237060547
+      ],
+      "halfSize": [
+        12.728795000351965,
+        14.916715000756085,
+        23.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1166016545,
+        3,
+        [
+          [
+            2252801846,
+            0,
+            "\u5e78\u798f\u5c0f\u5eda",
+            "SHOP D1A & D1B, G/F, WING WAH & YUEN WAH BUILDING, (BLOCKS F & G), WHAMPOA ESTATE, 2-32 MAN TAI STREET, 17-27, 27A-G TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2252804669,
+            0,
+            "BBQ Han Cook",
+            "SHOP NO. F1, G/F, WING WAH & YUEN WAH BUILDING (BLOCKS F & G), WHAMPOA ESTATE, 2-32 MAN TAI STREET, 17-27, 27A-G TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-25"
+          ],
+          [
+            3152804427,
+            1,
+            "BOBOLECHICKEN",
+            "SHOP NO. E1, G/F, BLOCK F & G, WING WAH & YUEN WAH BUILDING, WHAMPOA ESTATE, NOS. 2-32 MAN TAI STREET, 17-27, 27A-G TAK MAN STREET, KOWLOON",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016962
+        ]
+      ],
+      "coordinate": [
+        1.9929593243520467,
+        0.3893209555831744,
+        30.25
+      ],
+      "halfSize": [
+        13.972345000132918,
+        12.004985000006855,
+        20.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1166016546,
+        1,
+        [
+          [
+            3152803770,
+            1,
+            "\u5c0f\u5c0f\u9752\u6ab8\u6cf0\u5f0f\u5927\u6392\u6a94",
+            "G/F, 43 BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016968
+        ]
+      ],
+      "coordinate": [
+        1.9929327341263066,
+        0.38932091898076004,
+        15.149999618530273
+      ],
+      "halfSize": [
+        6.24248499982059,
+        7.606945000588894,
+        11.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1166016547,
+        1,
+        [
+          [
+            2252203495,
+            0,
+            "\u91d1\u6e90\u71d2\u814a\u8336\u9910\u5ef3",
+            "G/F, 20 WHAMPOA STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-10-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016987
+        ]
+      ],
+      "coordinate": [
+        1.992900924397361,
+        0.3893171251056999,
+        15.75
+      ],
+      "halfSize": [
+        5.25,
+        4.963334999978542,
+        12.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1166016548,
+        3,
+        [
+          [
+            2252802371,
+            0,
+            "Takeya Japanese Restaurant",
+            "SHOP 1, G/F, ON WAH BUILDING, 31C TAK MAN STREET, WHAMPOA PHASE 2, WHAMPOA ESTATE, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2252803578,
+            0,
+            "\u516b\u73b2\u74cf \u7cbe\u54c1\u56db\u5ddd\u83dc",
+            "SHOP K2, G/F, ON WAH BUILDING , 31G TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2252804702,
+            0,
+            "\u5fb7\u7f8e\u58fd\u53f8",
+            "SHOP J, G/F, ON WAH BUILDING, 2-20 MAN SIU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166016988
+        ]
+      ],
+      "coordinate": [
+        1.9929676697752519,
+        0.38931612078596817,
+        30.0
+      ],
+      "halfSize": [
+        14.650394999887794,
+        12.603670000098646,
+        20.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1166016549,
+        1,
+        [
+          [
+            2252809664,
+            0,
+            "Chung Kee Congee",
+            "SHOP M, G/F, LOK WAH BUILDING, WHAMPOA ESTATE, 2-20 MAN SIU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017003
+        ]
+      ],
+      "coordinate": [
+        1.9929649235841598,
+        0.38931232503774194,
+        30.0
+      ],
+      "halfSize": [
+        14.605844999663532,
+        12.490375000052154,
+        20.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1166016550,
+        1,
+        [
+          [
+            2252808865,
+            0,
+            "\u6f6e\u6f6e\u5c45(\u6f6e\u5dde\u83dc)",
+            "2/F, SITE 6, WHAMPOA GARDEN, NO. 10 SHUNG KING STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017096
+        ]
+      ],
+      "coordinate": [
+        1.9929903140871272,
+        0.3892792573972203,
+        13.300000190734863
+      ],
+      "halfSize": [
+        22.35816999990493,
+        36.811235000379384,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016551,
+        1,
+        [
+          [
+            2261817665,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. HUH R2, MEZZANINE LEVEL, HUNG HOM STATION, KOWLOON",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017142
+        ]
+      ],
+      "coordinate": [
+        1.9928543531108074,
+        0.389257567057836,
+        20.5
+      ],
+      "halfSize": [
+        30.545210000127554,
+        77.48181500006467,
+        6.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1166016552,
+        1,
+        [
+          [
+            2252193237,
+            0,
+            "Robatayaki",
+            "SHOP G1 & G2, G/F, 22 TAK FUNG STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017154
+        ]
+      ],
+      "coordinate": [
+        1.9930261006839651,
+        0.3892597312856787,
+        36.29999923706055
+      ],
+      "halfSize": [
+        26.733984999824315,
+        35.02553000021726,
+        32.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1166016553,
+        1,
+        [
+          [
+            2252800834,
+            0,
+            "THE BAYSIDE O' THAI TERRACE BISTRO",
+            "SHOP G1 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, GROUND FLOOR, 18 TAK FUNG ST., WHAMPOA GARDEN, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017178
+        ]
+      ],
+      "coordinate": [
+        1.9930204397776319,
+        0.38924803032076427,
+        36.29999923706055
+      ],
+      "halfSize": [
+        19.699985000304878,
+        38.71349500026554,
+        32.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1166016554,
+        1,
+        [
+          [
+            2252809114,
+            0,
+            "\u6771\u716e\u53cb\u559c",
+            "SHOP A, C1, C2 AND F, G/F, SUNSHINE PLAZA, 17 SUNG ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017205
+        ]
+      ],
+      "coordinate": [
+        1.9929768175370695,
+        0.3894160622974164,
+        9.199999809265137
+      ],
+      "halfSize": [
+        26.11011500004679,
+        47.3664800003171,
+        5.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1166016555,
+        20,
+        [
+          [
+            2252079906,
+            0,
+            "CURRY & KABAB HUT LIMITED",
+            "G/F(FRONT PORTION), 19 SUNG KIT ST., TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252148510,
+            0,
+            "\u862d\u59d0\u7f8e\u98df\u9928",
+            "G/F, 33 SUNG KIT STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252206670,
+            0,
+            "KATIGA JAPANESE FOOD SHOP LTD",
+            "G/F, NO.85 (MAJOR PTN) & NO 87, SUNG KIT ST, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2252224393,
+            0,
+            "FAME DELI",
+            "G/F, 47 SUNG KIT ST, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2252225323,
+            0,
+            "SING HOTPOT",
+            "G/F, 75-77 SUNG KIT STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2252227666,
+            0,
+            "Yun Hei Restaurant",
+            "G/F, 43-45 SUNG KIT STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2252260252,
+            0,
+            "Hey Hot Pot",
+            "G/F, 15 SUNG KIT ST, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2252304992,
+            0,
+            "\u97d3\u5144\u5f1f",
+            "G/F, NOS. 27, 29, 63 & 65, SUNG KIT STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2252801235,
+            0,
+            "\u805a\u5712\u9910\u5ef3",
+            "G/F, NO. 17 & 19(REAR PORTION), SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2252804924,
+            0,
+            "\u5929\u74cf\u5fa1\u81b3",
+            "SHOP NO. 51, G/F, NOS. 6-44, 9-67 & 71-105 SUNG KIT STREET, NOS. 24-36 BAILEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2252806355,
+            0,
+            "SICDORAK",
+            "G/F, 21 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2252807163,
+            0,
+            "Phoenix Cuisine",
+            "G/F., 73 SUNG KIT STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2252809743,
+            0,
+            "\u5bb9\u8a18\u5c0f\u5eda",
+            "G/F, 13 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-06"
+          ],
+          [
+            3152216509,
+            1,
+            "\u52a0\u592a\u8cc0",
+            "G/F, 79 SUNG KIT STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-20"
+          ],
+          [
+            3152800355,
+            1,
+            "\u5ddd\u660e\u5c45",
+            "G/F, 22C SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3152800434,
+            1,
+            "Salsa Cafe",
+            "G/F, 99A-99B SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-06"
+          ],
+          [
+            3152800568,
+            1,
+            "Wing Lok",
+            "SHOP 65, G/F, 97 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-22"
+          ],
+          [
+            3152801084,
+            1,
+            "Lawrence's Cafe",
+            "SHOP A, G/F, 39 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3152804083,
+            1,
+            "Fame Deli",
+            "G/F, 49 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3152804393,
+            1,
+            "Mini Time",
+            "SHOP NO. 73 ON GROUND FLOOR, NOS. 6-44, 9-67 & 71-105 SUNG KIT STREET, NOS. 5-37 SUNG CHI STREET & NOS. 24-36A BAILEY STREET, KOWLOON",
+            null,
+            "2026-08-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017207
+        ]
+      ],
+      "coordinate": [
+        1.9929718649059185,
+        0.3894113603233643,
+        5.650000095367432
+      ],
+      "halfSize": [
+        34.643999999854714,
+        52.28199999965727,
+        1.850000023841858
+      ]
+    },
+    {
+      "attributes": [
+        1166016556,
+        12,
+        [
+          [
+            2252071188,
+            0,
+            "\u91d1\u6c99\u5c0f\u5eda",
+            "G/F., 12 SUNG KIT STREET, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252071513,
+            0,
+            "\u96a8\u7de3\u574a\u9910\u5ef3",
+            "G/F, 42 SUNG KIT STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252130588,
+            0,
+            "\u6a4b\u7530\u81fa\u7063\u725b\u8089\u9eb5",
+            "G/F, 30 SUNG KIT STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252243277,
+            0,
+            "\u5eff\u516b\u98df\u5802",
+            "G/F, 28 SUNG KIT ST, HUNGHOM, KOWLOON",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2252802803,
+            0,
+            "\u5473\u5eda\u5c0f\u9928",
+            "G/F, 16-18 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-18"
+          ],
+          [
+            3152012323,
+            1,
+            "DOI MUOI",
+            "G/F, SHUNG YAN BLDG., 20 SUNG KIT STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3152195204,
+            1,
+            "\u6a4b\u934b\u5c45",
+            "G/F, 8 SUNG KIT ST, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-07-23"
+          ],
+          [
+            3152295610,
+            1,
+            "\u5c0f\u679c\u7c7d",
+            "G/F, 40 SUNG KIT STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3152802005,
+            1,
+            "\u660e\u660e\u9928",
+            "G/F, NO. 6 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-01"
+          ],
+          [
+            3152802607,
+            1,
+            "HAKKA TASTE",
+            "G/F, NO. 25 SUNG CHI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-22"
+          ],
+          [
+            3152802980,
+            1,
+            "\u6885\u59d0\u6c34\u9903\u9eb5",
+            "G/F, 26 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-12"
+          ],
+          [
+            3152803673,
+            1,
+            "\u5c16\u4ed4\u8a18\u8eca\u4ed4\u9eb5\u5c0f\u98df\u5e97",
+            "G/F, NO. 38 SUNG KIT STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017208
+        ]
+      ],
+      "coordinate": [
+        1.9929655887629667,
+        0.38941335774828634,
+        6.75
+      ],
+      "halfSize": [
+        11.179000000003725,
+        49.1195000000298,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1166016557,
+        1,
+        [
+          [
+            3152014356,
+            1,
+            "\u6e90\u90fd\u51b0\u5ba4",
+            "G/F, 2B KO SHAN RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017209
+        ]
+      ],
+      "coordinate": [
+        1.9929148405930792,
+        0.389418043742348,
+        19.200000762939453
+      ],
+      "halfSize": [
+        11.753975000232458,
+        12.35369999986142,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1166016558,
+        1,
+        [
+          [
+            3152802564,
+            1,
+            "CITYBAR",
+            "SHOP NO. 3, G/F, FULL WING BUILDING, NOS. 436-450 CHATHAM ROAD NORTH, TO KWA WAN, KOWLOON",
+            null,
+            "2026-11-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017213
+        ]
+      ],
+      "coordinate": [
+        1.9929263613128636,
+        0.3894138600687503,
+        15.549999237060547
+      ],
+      "halfSize": [
+        18.715904999990016,
+        22.470774999819696,
+        3.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1166016559,
+        3,
+        [
+          [
+            2252803727,
+            0,
+            "King's Dynasty",
+            "SHOP E, G/F, MING WAH COURT, NOS. 20, 22, 24, 26, 28 & 30 SUNG CHI STREET, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2252804818,
+            0,
+            "\u516b\u73cd\u9bae\u5ddd\u83dc",
+            "SHOP B, G/F, MING WAH COURT, NOS. 20-30 SUNG CHI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3152802388,
+            1,
+            "\u9ba8\u52fa",
+            "SHOP C, G/F, MING WAH COURT, 20-30 SUNG CHI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017214
+        ]
+      ],
+      "coordinate": [
+        1.9929602369292383,
+        0.3894130435997986,
+        7.099999904632568
+      ],
+      "halfSize": [
+        13.080000000074506,
+        15.615734999999404,
+        2.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1166016560,
+        5,
+        [
+          [
+            2252080177,
+            0,
+            "\u5bf6\u57ce\u7f8e\u98df\u5e97",
+            "SHOP NO.B02-B03, HUNG HOM COMMERCIAL CENTRE, 37-39 MA TAU WAI RD., HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252093663,
+            0,
+            "FU WAH RESTAURANT",
+            "SHOP 10-12, G/F, TOWER A, HUNG HOM COMM.CENTRE, 37-39 MA TAU WAI RD, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252122103,
+            0,
+            "Fu Da Cafe",
+            "SHOP NOS.1-3, G/F, HUNG HOM COMM. CENTRE, 37-39 MA TAU WAI RD., HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252805565,
+            0,
+            "\u4e00\u65e5\u4e09\u9910",
+            "SHOP 18, 19, G/F, HUNGHOM COMMERCIAL CENTRE, 37-39 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-23"
+          ],
+          [
+            3952804665,
+            1,
+            "\u9d72\u5802\u7fbd\u574a\u990a\u751f\u8336\u98f2\u5e97",
+            "SHOP NO. 4, G/F., HUNG HOM SQUARE, NO. 37-39 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017225
+        ]
+      ],
+      "coordinate": [
+        1.992956333559275,
+        0.3893838369443624,
+        7.050000190734863
+      ],
+      "halfSize": [
+        30.438904999755323,
+        61.18146499991417,
+        1.4500000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1166016561,
+        1,
+        [
+          [
+            2252808670,
+            0,
+            "\u5c55\u8208\u8336\u9910\u5ef3",
+            "SHOP C, G/F, FULL HANG COURT, NO.104-114 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017229
+        ]
+      ],
+      "coordinate": [
+        1.9929463077293244,
+        0.38938872554179166,
+        12.200000762939453
+      ],
+      "halfSize": [
+        9.402530000079423,
+        13.477584999985993,
+        7.000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1166016562,
+        2,
+        [
+          [
+            3152248340,
+            1,
+            "KA YU",
+            "SHOP D, G/F, GREENLAND COURT, 88 MA TAU WAI RD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-27"
+          ],
+          [
+            3152803345,
+            1,
+            "No. 88",
+            "SHOP C, G/F., GREENLAND COURT, NO. 88 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017231
+        ]
+      ],
+      "coordinate": [
+        1.9929462493162429,
+        0.3893823932497456,
+        10.799999237060547
+      ],
+      "halfSize": [
+        9.554185000248253,
+        9.125,
+        5.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1166016563,
+        2,
+        [
+          [
+            2252196564,
+            0,
+            "\u9ec3\u57d4\u5c0f\u5eda",
+            "SHOP E, G/F, HUNG HOM GARDENS, 3 TSING CHAU STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2252802654,
+            0,
+            "EBENEEZER'S KEBABS & PIZZERIA",
+            "SHOP A, G/F, BLOCK 2, HUNG HOM GARDENS, 3 TSING CHAU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017236
+        ]
+      ],
+      "coordinate": [
+        1.9929369332215192,
+        0.38937727628421037,
+        9.149999618530273
+      ],
+      "halfSize": [
+        33.01697500003502,
+        9.117899999953806,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1166016564,
+        1,
+        [
+          [
+            2252800472,
+            0,
+            "\u6771\u839e\u6c34\u716e\u9b5a",
+            "SHOP NO. 1, CARLTON COURT, 80 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017238
+        ]
+      ],
+      "coordinate": [
+        1.992946160584313,
+        0.38937588281276936,
+        13.25
+      ],
+      "halfSize": [
+        9.586780000012368,
+        14.042619999498129,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1166016565,
+        17,
+        [
+          [
+            2252173952,
+            0,
+            "\u6c11\u5eb7\u5c0f\u98df\u90e8",
+            "SHOP NO.27K-L, G/F, LUNG KEI BLDG, 23-25 MA TAU WAI RD, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2252801934,
+            0,
+            "By Son Kitchen",
+            "SHOP 48, G/F, BLOCK D, LOONG KING MANSION, 23-35H MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-06"
+          ],
+          [
+            2252803392,
+            0,
+            "TAR FAR RESTAURANT",
+            "G/F, 27 MAN YUE STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-17"
+          ],
+          [
+            2252803815,
+            0,
+            "\u52c7\u8a18\u6d77\u5357\u96de",
+            "G/F, 29L, BLOCK D, LOONG KING MANSION, 23-35 MA TAU WAI ROAD, KOWLOON",
+            null,
+            "2026-09-09"
+          ],
+          [
+            2252805626,
+            0,
+            "\u8208\u8a18\u8336\u9910\u5ef3",
+            "SHOP 29M, 29N & 29P, LOONG KING MANSION, 23-35 MA TAU WAI ROAD, KOWLOON",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2252807127,
+            0,
+            "Mu Niu Noodle Restaurant",
+            "SHOP 29-Q, G/F, LOONG KING MANSION, 23-35H MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2252807835,
+            0,
+            "\u5ee3\u6e90\u71d2\u5473\u9910\u5ef3",
+            "SHOP 29J & 35F, G/F, LOONG KING MANSION, 23-35 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-15"
+          ],
+          [
+            2252808360,
+            0,
+            "\u9285\u8a18\u7c89\u9eb5\u51b0\u5ba4",
+            "SHOP 29G, G/F, LOONG KING MANSION, MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2252809424,
+            0,
+            "Shanghai Chun Chun Soya Milk Shop",
+            "SHOP 5, G/F., LOONG KING MANSION, 9-31 MAN YUE STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-01"
+          ],
+          [
+            3152015517,
+            1,
+            "\u963f\u4f86\u9903\u5b50",
+            "SHOP H, G/F, 27 MA TAU WAI RD., HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3152287679,
+            1,
+            "HAU HIN",
+            "SHOP 20 (27G), G/F, LOONG KING MANSION, 23-25 MA TAU WAI ROAD, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-11-20"
+          ],
+          [
+            3152301867,
+            1,
+            "Thai idea kitchen",
+            "NO. 29H, G/F, LOONG KING MANSION, 23-35 MA TAU WAI ROAD, TOKWAWAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3152800762,
+            1,
+            "\u9999\u6e2f\u4ed4\u9b5a\u65e6\u738b",
+            "G/F, LOONG KING MANSION, 15 MAN YUE STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            3152802847,
+            1,
+            "\u4f86\u591a\u7897\u9999\u6e2f\u8eca\u4ed4\u9eb5 - \u7d05\u78e1\u5206\u5e97",
+            "SHOP NO.6, G/F, LOONG KING MANSION, 9-31 MAN YUE STREET, 23-35H MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-16"
+          ],
+          [
+            3152803114,
+            1,
+            "\u71d5\u767c\u5c71\u897f\u5200\u524a\u9eb5",
+            "SHOP NO. 3, G/F, BLOCK A, LOONG KING MANSION, NOS. 23-35H MA TAU WAI ROAD & NOS. 9-31 MAN YUE STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-09-04"
+          ],
+          [
+            3152803415,
+            1,
+            "Home Kong's Kitchen",
+            "SHOP 29K, G/F, LOONG KING MANSION, 23-35H MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3152804490,
+            1,
+            "\u767c\u8a18",
+            "G/F, 29 MAN YUE STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017241
+        ]
+      ],
+      "coordinate": [
+        1.9929564443606356,
+        0.38936847991680784,
+        8.949999809265137
+      ],
+      "halfSize": [
+        29.654414999764413,
+        21.490439999848604,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1166016566,
+        1,
+        [
+          [
+            2252806160,
+            0,
+            "Eight Station Caf\u00e9",
+            "SHOP B, GROUND FLOOR, YUE SUN MANSION, NO. 179 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017246
+        ]
+      ],
+      "coordinate": [
+        1.9928825798300456,
+        0.3893557278938812,
+        9.050000190734863
+      ],
+      "halfSize": [
+        21.49349999986589,
+        17.737499999813735,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016567,
+        3,
+        [
+          [
+            2252258088,
+            0,
+            "\u5473\u738b\u65e5\u672c\u6599\u7406",
+            "SHOP NO UG34, UPPER G/F, FISHERMANS WHARF, 8 LAGUNA VERDE AVENUE, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2252259629,
+            0,
+            "McDonald's",
+            "SHOP UG30-32, SA04, UPPER G/F, FISHERMAN'S WHARF, 8 LAGUNA VERDE AVENUE, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-02-25"
+          ],
+          [
+            3152293012,
+            1,
+            "S.D. CAFE",
+            "SHOP UG 38, FISHERMAN'S WHARF, 8 LAGUNA VERDE AVENUE, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017252
+        ]
+      ],
+      "coordinate": [
+        1.993028135897686,
+        0.38933991926159073,
+        11.199999809265137
+      ],
+      "halfSize": [
+        42.47014999995008,
+        60.200000000186265,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1166016568,
+        1,
+        [
+          [
+            2252802520,
+            0,
+            "\u5c0f\u6a02\u4f5b\u7d20\u98df",
+            "G/F, 41-43 STATION LANE, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017253
+        ]
+      ],
+      "coordinate": [
+        1.9929128489585657,
+        0.38934713706658647,
+        10.5
+      ],
+      "halfSize": [
+        10.699744999874383,
+        10.285875000059605,
+        5.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016569,
+        2,
+        [
+          [
+            2252801545,
+            0,
+            "\u8001\u5751\u706b\u934b",
+            "SHOP A, B, D & E, G/F, KUI GA COURT, 25-31 COOKE STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2252807297,
+            0,
+            "\u8001\u5751\u706b\u934b",
+            "SHOP F & G, G/F., KUI GA COURT, 25 COOKE STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017254
+        ]
+      ],
+      "coordinate": [
+        1.9928763743445443,
+        0.38934679885738604,
+        6.799999713897705
+      ],
+      "halfSize": [
+        11.403720000293106,
+        10.994215000420809,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1166016570,
+        1,
+        [
+          [
+            2252800807,
+            0,
+            "\u9f8d\u5c71\u6c38\u8a18\u51b0\u5ba4",
+            "G/F, SHOP 1 (FRONT PORTION) & SHOP 2, SANG ON BUILDING, 42A BULKELEY STREET, 16-20 LO LUNG HANG STREET, 11-15 WALKER ROAD, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017255
+        ]
+      ],
+      "coordinate": [
+        1.9928851484296422,
+        0.3893450914583613,
+        7.300000190734863
+      ],
+      "halfSize": [
+        21.80593500006944,
+        17.882849999703467,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        1166016571,
+        1,
+        [
+          [
+            3152801774,
+            1,
+            "\u7cd6\u4e00",
+            "SHOP D, G/F, BRILLIANT COURT, 68 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017262
+        ]
+      ],
+      "coordinate": [
+        1.992915673821939,
+        0.38934211692764026,
+        7.099999904632568
+      ],
+      "halfSize": [
+        8.596404999960214,
+        8.877500000409782,
+        2.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1166016572,
+        1,
+        [
+          [
+            2252803161,
+            0,
+            "Chicken King",
+            "SHOP A, G/F-1/F, TOP GROWTH COURT, 123 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017264
+        ]
+      ],
+      "coordinate": [
+        1.9929071970967536,
+        0.38934049902061907,
+        7.400000095367432
+      ],
+      "halfSize": [
+        10.441364999860525,
+        11.394354999996722,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1166016573,
+        1,
+        [
+          [
+            2252806221,
+            0,
+            "Chuen Sheung Kee Limited",
+            "SHOP 7, G/F, GOLDEN COURT, 58 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017267
+        ]
+      ],
+      "coordinate": [
+        1.9929203840951302,
+        0.38933913387718555,
+        6.800000190734863
+      ],
+      "halfSize": [
+        9.125680000055581,
+        9.33333000075072,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1166016574,
+        1,
+        [
+          [
+            2252242803,
+            0,
+            "\u5999\u53cb\u7de3",
+            "G/F, 4 COOKE STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017269
+        ]
+      ],
+      "coordinate": [
+        1.9928821275575608,
+        0.38933780256979633,
+        6.650000095367432
+      ],
+      "halfSize": [
+        11.033744999673218,
+        10.215335000306368,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1166016575,
+        2,
+        [
+          [
+            3152800470,
+            1,
+            "\u8ca1\u8a18\u8336\u9910\u5ef3",
+            "SHOP NO. 8, G/F, HIP FAI BUILDING, 9 STATION LANE, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-20"
+          ],
+          [
+            3152802166,
+            1,
+            "\u8499\u9eb5",
+            "SHOP 1, G/F, HIP FAI BUILDING, 9 STATION LANE, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017270
+        ]
+      ],
+      "coordinate": [
+        1.9929307822132682,
+        0.38933581374240833,
+        6.949999809265137
+      ],
+      "halfSize": [
+        16.46191000007093,
+        14.182295000180602,
+        2.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1166016576,
+        1,
+        [
+          [
+            2252288124,
+            0,
+            "\u963f\u5fb7\u5eda\u574a",
+            "SHOP C-F, G/F, BERKELEY BUILDING, 81 BULKELEY STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017276
+        ]
+      ],
+      "coordinate": [
+        1.992917947107364,
+        0.3893302024359641,
+        11.199999809265137
+      ],
+      "halfSize": [
+        9.771200000308454,
+        9.9528299998492,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016577,
+        1,
+        [
+          [
+            2252800782,
+            0,
+            "\u751f\u8a18\u7ca5\u5e97",
+            "GROUND FLOOR, 3 STATION LANE, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017277
+        ]
+      ],
+      "coordinate": [
+        1.9929399127264917,
+        0.3893304533298728,
+        7.199999809265137
+      ],
+      "halfSize": [
+        8.733874999918044,
+        8.298930000513792,
+        2.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1166016578,
+        2,
+        [
+          [
+            2252809707,
+            0,
+            "\u6d77\u7063\u6f01\u6e2f(\u7d05\u78e1)",
+            "SHOP NO. A8-E26, 1/F, PLANET SQUARE, BLOCK A-E, WHAMPOA EST., 115-129 DOCK STREET, 1-25 MAN TAI STREET, 1-15 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-22"
+          ],
+          [
+            3852815206,
+            0,
+            "\u7f85\u9322\u6524\u6524\u8cb4\u5dde\u9178\u6e6f\u706b\u934b",
+            "SHOP A1 & G1, G/F, BLOCK A, WHAMPOA ESTATE, NOS. 1-25 MAN TAI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017279
+        ]
+      ],
+      "coordinate": [
+        1.9929512650990324,
+        0.3893258567796898,
+        8.75
+      ],
+      "halfSize": [
+        43.45450000045821,
+        38.21249999944121,
+        4.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016579,
+        2,
+        [
+          [
+            2252805936,
+            0,
+            "NORTH VIET PHO",
+            "SHOP B, G/F, TUNG HEI COURT, 73 BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2252806072,
+            0,
+            "\u666f\u9716\u5eda\u623f",
+            "SHOP A, G/F, TUNG HEI COURT, 73 BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017280
+        ]
+      ],
+      "coordinate": [
+        1.9929207295336935,
+        0.3893284494516706,
+        7.25
+      ],
+      "halfSize": [
+        15.261084999889135,
+        13.65686499979347,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1166016580,
+        1,
+        [
+          [
+            2252153923,
+            0,
+            "Golden Thai Food",
+            "SHOP C1, G/F, WHAMPOA ESTATE III, 43 MAN TAI ST, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017282
+        ]
+      ],
+      "coordinate": [
+        1.992964064116888,
+        0.3893262807077644,
+        7.050000190734863
+      ],
+      "halfSize": [
+        31.7929750001058,
+        25.629565000534058,
+        2.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1166016581,
+        1,
+        [
+          [
+            2252261158,
+            0,
+            "\u69ae\u767c\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP NO 1, G/F, PO WAI BUILDING, 59-67 BULKELEY STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017286
+        ]
+      ],
+      "coordinate": [
+        1.9929241326908231,
+        0.38932631760455466,
+        7.199999809265137
+      ],
+      "halfSize": [
+        13.341444999910891,
+        12.386444999836385,
+        3.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1166016582,
+        1,
+        [
+          [
+            3152803992,
+            1,
+            "\u6c99\u7e23\u5c0f\u5403",
+            "SHOP C & D, G/F, BILLION COURT, 63-69 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017288
+        ]
+      ],
+      "coordinate": [
+        1.9929328648294797,
+        0.3893243461113231,
+        9.75
+      ],
+      "halfSize": [
+        11.732654999941587,
+        11.330090000294149,
+        5.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016583,
+        2,
+        [
+          [
+            2252803329,
+            0,
+            "\u62c9\u9eb5\u5929\u738b",
+            "SHOP B5B, G/F, 17-27 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-29"
+          ],
+          [
+            3152803567,
+            1,
+            "SUBWAY",
+            "SHOP D2, G/F, 27 TAK MAN STREET, HUNGHOM, KOWLOON",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017294
+        ]
+      ],
+      "coordinate": [
+        1.9929581942220775,
+        0.3893193169446768,
+        7.050000190734863
+      ],
+      "halfSize": [
+        27.564499999862164,
+        30.2785000000149,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1166016584,
+        1,
+        [
+          [
+            2252808166,
+            0,
+            "Yoshinoya",
+            "PORTION A OF G/F, YUEY KONG CENTRE, 47 BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017296
+        ]
+      ],
+      "coordinate": [
+        1.9929317415273575,
+        0.38932154431982835,
+        8.75
+      ],
+      "halfSize": [
+        8.158710000105202,
+        8.89221000019461,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        1166016585,
+        3,
+        [
+          [
+            3152244180,
+            1,
+            "\u571f\u532aBar",
+            "SHOP NO. 4, G/F, PO YUEN MANSION, 24-42 BULKELEY STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-13"
+          ],
+          [
+            3152800780,
+            1,
+            "\u56db\u54e5\u8eca\u4ed4\u9eb5",
+            "SHOP 2, G/F, WAH BO BUILDING, 33-41 BULKELEY STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            3152802333,
+            1,
+            "LE CAFE",
+            "SHOP 4, G/F, WAH BO BUILDING, 33-41 BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017297
+        ]
+      ],
+      "coordinate": [
+        1.9929343306117349,
+        0.38931991136178407,
+        5.099999904632568
+      ],
+      "halfSize": [
+        11.691895000170916,
+        11.372094999998808,
+        1.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1166016586,
+        5,
+        [
+          [
+            3152801950,
+            1,
+            "\u9059\u5c0f\u9928",
+            "SHOP F1, G/F, TAK MAN BUILDING, 29 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            3152802397,
+            1,
+            "\u6cd3\u4e00\u62c9\u9eb5",
+            "SHOP F4, G/F, TAK MAN BUILDING, 29 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-17"
+          ],
+          [
+            3152803044,
+            1,
+            "\u5ddd\u5473\u9999",
+            "SHOP J1, G/F, 29 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-13"
+          ],
+          [
+            3152803141,
+            1,
+            "VEGAN RECIPE",
+            "SHOP J2, G/F, TAK MAN BUILDING, 29 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-01"
+          ],
+          [
+            3152803983,
+            1,
+            "FOOK KITCHEN",
+            "SHOP E1, G/F, TAK MAN BUILDING, 29 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017300
+        ]
+      ],
+      "coordinate": [
+        1.9929621792876253,
+        0.3893167701675294,
+        6.400000095367432
+      ],
+      "halfSize": [
+        20.243000000249594,
+        25.54399999976158,
+        1.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1166016587,
+        11,
+        [
+          [
+            2252230888,
+            0,
+            "\u65b0\u5360\u8a18\u9eb5\u98df",
+            "SHOP NO. 17C, G/F, 1-7 WU KWONG STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-21"
+          ],
+          [
+            2252244687,
+            0,
+            "\u5357\u5317\u5c0f\u805a",
+            "SHOP NO.1 & 2, G/F, UNITED BUILDING, 1 WU KWONG ST, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2252246504,
+            0,
+            "\u65b0\u5fe0\u8a18\u6253\u51b7\u5c0f\u83dc\u9928",
+            "SHOP 17A, G/F, UNITED BUILDING, 1-7 WU KWONG ST, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2252801819,
+            0,
+            "\u8b9a\u597d",
+            "SHOP 14, G/F., UNITED BUILDING, 1-7 WU KWONG STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2252802548,
+            0,
+            "\u6c38\u660e\u7ca5\u5e97",
+            "SHOP NO. 18A, G/F, UNITED BUILDING, 1-7 WU KWONG STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-12"
+          ],
+          [
+            2252805732,
+            0,
+            "\u8993\u3002\u751c",
+            "SHOP NO 3, G/F, UNITED BUILDING, NOS 1-7 WU KWONG STREET, KOWLOON",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2252807109,
+            0,
+            "\u8b9a\u597d",
+            "SHOP NO. 13 ON GROUND FLOOR, UNITED BUILDING, NOS. 1-7 WU KWONG STREET, KOWLOON",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2252807400,
+            0,
+            "WAI FUNG NOODLES",
+            "SHOP 10B1, G/F, UNITED BUILDING, 1-7 WU KWONG STREET, KOWLOON",
+            null,
+            "2026-03-11"
+          ],
+          [
+            2252808245,
+            0,
+            "\u5bf6\u6e90\u7f8e\u98df",
+            "THE PORTION OF SHOP 10A, G/F, UNITED BUILDING, 1-7 WU KWONG STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-02-27"
+          ],
+          [
+            3152801491,
+            1,
+            "\u751c\u5f97\u559c\u751c\u54c1\u5c4b",
+            "SHOP 10F, G/F, UNITED BUILDING , 1-7 WU KWONG STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-18"
+          ],
+          [
+            3152801701,
+            1,
+            "\u4eac\u6eec\u574a",
+            "FLAT 12, G/F, UNITED BUILDING, 1-7 WU KWONG STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017301
+        ]
+      ],
+      "coordinate": [
+        1.992927664906847,
+        0.389312972892974,
+        5.650000095367432
+      ],
+      "halfSize": [
+        44.14659000001848,
+        45.17053999938071,
+        2.25
+      ]
+    },
+    {
+      "attributes": [
+        1166016588,
+        4,
+        [
+          [
+            2252101746,
+            0,
+            "\u6587\u83ef\u51b0\u5ba4",
+            "SHOP B-2D & B2E, G/F, WHAMPOA ESTATE, 8-10 MAN TAI ST, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2252280139,
+            0,
+            "\u83ef\u5712\u7f8e\u98df",
+            "G/F, WHAMPOA ESTATE, 31B TAK MAN STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2252804906,
+            0,
+            "\u4e32\u71d2\u738b",
+            "SHOP B4B, 27 TAK MAN STREET, WHAMPOA ESTATE, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2252807589,
+            0,
+            "\u9298\u8208\u9178\u83dc\u9b5a",
+            "SHOP 2, 5K G/F, WHAMPOA ESTATE, 36C TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017302
+        ]
+      ],
+      "coordinate": [
+        1.992946498856804,
+        0.389313350061995,
+        6.75
+      ],
+      "halfSize": [
+        49.08619499998167,
+        41.01696499995887,
+        3.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1166016589,
+        2,
+        [
+          [
+            2252809646,
+            0,
+            "Lok Tin Caf\u00e9",
+            "SHOP 1E & 1F, G/F, ON WAH BUILDING & LOK WAH BUILDING, 40 MAN TAI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-07"
+          ],
+          [
+            3152803798,
+            1,
+            "\u9298\u8208\u5c71\u897f\u5200\u524a\u9762",
+            "SHOP NO. B2A & B2B, G/F, WING WAH & YUEN WAH BUILDING (BLOCKS F & G, WHAMPOA ESTATE), NOS. 2-52 MAN TAI STREET, NOS. 17-27, 27A-G, TAK MAN STREET, KOWLOON",
+            null,
+            "2026-08-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017303
+        ]
+      ],
+      "coordinate": [
+        1.9929661926301918,
+        0.3893143387281013,
+        6.800000190734863
+      ],
+      "halfSize": [
+        27.396499999798834,
+        30.286000000312924,
+        2.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1166016590,
+        8,
+        [
+          [
+            2252203972,
+            0,
+            "\u540d\u5eda",
+            "SHOP 13, G/F, HUNG HOM BAY CENTRE, 92-112 BAKER ST, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2252805219,
+            0,
+            "PEPPER POWER",
+            "SHOP 12, G/F, HUNGHOM BAY CENTRE, NO. 92-112 BAKER STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-07"
+          ],
+          [
+            2252805884,
+            0,
+            "Ho Yin Seafood Restaurant",
+            "SHOP NOS. 1-4, G/F, HUNG HOM BAY CENTRE, 92-112 BAKER STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2252807118,
+            0,
+            "SUN MOON",
+            "SHOP 14A , G/F, HUNGHOM BAY CENTRE, 92-112 BAKER STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2252807817,
+            0,
+            "SUSHI QI",
+            "SHOP 11B, G/F, HUNG HOM BAY CENTRE, 92-112 BAKER STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-22"
+          ],
+          [
+            3152802342,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP 11A, G/F, HUNGHOM BAY CENTRE, 92-112 BAKER STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-02"
+          ],
+          [
+            3152803460,
+            1,
+            "ITAMAKI SUSHI",
+            "SHOP 6, G/F, HUNGHOM BAY CENTRE, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-28"
+          ],
+          [
+            3152804108,
+            1,
+            "\u55ab\u8336\u820d",
+            "SHOP NO. G9A, G/F, HUNGHOM BAY CENTRE, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017304
+        ]
+      ],
+      "coordinate": [
+        1.9929147088547408,
+        0.38930625028609844,
+        8.449999809265137
+      ],
+      "halfSize": [
+        67.61500000022352,
+        59.20050000026822,
+        5.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1166016591,
+        2,
+        [
+          [
+            2252808032,
+            0,
+            "SUN KWONG SIU MEI RESTAURANT",
+            "SHOP 5C, G/F, KING FU, HO FU, KI FU & KA FU BUILDING, NOS. 36, 36A-36E, 38-40, 44-52, 56-60 & 60A-60F, TAK MAN STREET, NOS. 99K-99M, 99P-99T, 99V-99W DOCK STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3152804135,
+            1,
+            "\u52c1\u9903\u7b11",
+            "SHOP 5L, G/F., WHAMPOA ESTATE KING FU BUILDING, 42 TAK MAN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017305
+        ]
+      ],
+      "coordinate": [
+        1.9929586914852264,
+        0.3893058099446111,
+        6.599999904632568
+      ],
+      "halfSize": [
+        40.39639999996871,
+        36.524699999950826,
+        2.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1166016592,
+        1,
+        [
+          [
+            3152804029,
+            1,
+            "KIMLAM",
+            "1/F, TAI WAN SHAN SWIMMING POOL, 7 WAN HOI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017306
+        ]
+      ],
+      "coordinate": [
+        1.993037360554358,
+        0.38929962433649273,
+        6.5
+      ],
+      "halfSize": [
+        58.265000000130385,
+        57.502000000327826,
+        2.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1166016593,
+        1,
+        [
+          [
+            3152803655,
+            1,
+            "\u9673\u8336\u9928",
+            "SHOP NO. 12, G/F, PEBBLES WORLD, WHAMPOA GARDEN, SITE 3, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017308
+        ]
+      ],
+      "coordinate": [
+        1.992937274762817,
+        0.3892907390740486,
+        7.25
+      ],
+      "halfSize": [
+        85.7679999996908,
+        71.34599999990314,
+        3.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1166016594,
+        1,
+        [
+          [
+            3152303881,
+            1,
+            "Haagen-Dazs",
+            "SHOP G4, G/F, SITE 2 WHAMPOA GARDEN, 9 SHUNG KING STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-03-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017309
+        ]
+      ],
+      "coordinate": [
+        1.9929756783706005,
+        0.38928893477127413,
+        7.299999713897705
+      ],
+      "halfSize": [
+        86.56144500011578,
+        84.2105000000447,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1166016595,
+        2,
+        [
+          [
+            2261267453,
+            0,
+            "HARBOUR PLAZA METROPOLIS COFFEE SHOP",
+            "L7(PTN) & L6(PTN), OUTSIDE SEATING ACCOMODATION IN FRONT OF L7(PTN), HARBOUR PLAZA METROPOLIS, KIL 11077, 7 METROPOLIS DRIVE, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2261303117,
+            0,
+            "JAPANESE RESTAURANT",
+            "L8(JPN. REST.), L5(PTN.), HARBOUR PLAZA METROPOLIS, KIL 11077, 7 METROPOLIS DRIVE, HUNG HOM, KOWLOON",
+            null,
+            "2027-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017317
+        ]
+      ],
+      "coordinate": [
+        1.9928600633476823,
+        0.3892484780511737,
+        12.75
+      ],
+      "halfSize": [
+        156.31600000010803,
+        234.7105000000447,
+        8.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1166016596,
+        1,
+        [
+          [
+            2261803699,
+            0,
+            "Crystal Harbour Restaurant",
+            "3/F, HARBOURVIEW HORIZON ALL-SUITE HOTEL, 12 HUNG LOK ROAD, HUNGHOM BAY, KOWLOON",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017323
+        ]
+      ],
+      "coordinate": [
+        1.9929035253716736,
+        0.38925016478685975,
+        13.050000190734863
+      ],
+      "halfSize": [
+        45.9164550001733,
+        63.317230000160635,
+        9.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1166016597,
+        3,
+        [
+          [
+            2261813645,
+            0,
+            "Kowloon Harbourfront Hotel",
+            "PORTION OF L1/F, KOWLOON HARBOURFRONT HOTEL, 8 HUNG LUEN ROAD, HUNGHOM BAY, KOWLOON, HONG KONG",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2261814523,
+            0,
+            "Kowloon Harbourfront Hotel",
+            "SHOP 1A, L1/F, KOWLOON HARBOURFRONT HOTEL, 8 HUNG LUEN ROAD, HUNGHOM BAY, KOWLOON",
+            null,
+            "2026-07-11"
+          ],
+          [
+            3161807149,
+            1,
+            "Kowloon Harbourfront Hotel",
+            "SHOP 4, L1/F, KOWLOON HARBOURFRONT HOTEL, 8 HUNG LUEN ROAD, HUNGHOM BAY, KOWLOON",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017325
+        ]
+      ],
+      "coordinate": [
+        1.9929053705378685,
+        0.38920903835069925,
+        8.649999618530273
+      ],
+      "halfSize": [
+        98.86766499979421,
+        84.74038000032306,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1166016598,
+        1,
+        [
+          [
+            2252801138,
+            0,
+            "BRIDAL TEA HOUSE",
+            "1/F, 69 GILLIES AVENUE SOUTH, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017337
+        ]
+      ],
+      "coordinate": [
+        1.9929059541593215,
+        0.38935141071067725,
+        11.199999809265137
+      ],
+      "halfSize": [
+        8.913590000011027,
+        9.071194999851286,
+        6.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1166016599,
+        3,
+        [
+          [
+            3152801738,
+            1,
+            "\u6ec4\u6d6a\u4ead",
+            "SHOP C1, G/F, WUHU RESIDENCE, 111 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-18"
+          ],
+          [
+            3152803682,
+            1,
+            "Antoshimo",
+            "SHOP B, G/F, WUHU RESIDENCE, 111 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-05"
+          ],
+          [
+            3152804366,
+            1,
+            "Gaolay",
+            "SHOP C2, G/F, WUHU RESIDENCE, NO. 111 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017348
+        ]
+      ],
+      "coordinate": [
+        1.992913029515825,
+        0.389336686424723,
+        10.899999618530273
+      ],
+      "halfSize": [
+        14.296145000029355,
+        13.080799999646842,
+        6.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1166016600,
+        1,
+        [
+          [
+            3152803813,
+            1,
+            "BADGERS CAFE",
+            "SHOP B, G/F, BAKER RESIDENCES, NO.8 BAKER COURT, HUNG HOM, KOWLOON",
+            null,
+            "2026-12-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017349
+        ]
+      ],
+      "coordinate": [
+        1.992880127566546,
+        0.3893249435455549,
+        11.350000381469727
+      ],
+      "halfSize": [
+        9.825865000020713,
+        9.014829999767244,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1166016601,
+        9,
+        [
+          [
+            2252804128,
+            0,
+            "\u6c38\u52dd\u8336\u9910\u5ef3",
+            "SHOP 105, G/F, WHAMPOA BUILDING, BLOCK C, NO. 95 BAKER STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2252810534,
+            0,
+            "\u65e9\u9910",
+            "SHOP A102, G/F, BLOCK A, WHAMPOA BUILDING, 2A-2H BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-02-11"
+          ],
+          [
+            3152801534,
+            1,
+            "THAI DELICIOUS",
+            "SHOP C104, G/F, WHAMPOA BUILDING, NO. 87-101 BAKER STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-23"
+          ],
+          [
+            3152801677,
+            1,
+            "Hot-Pot Express",
+            "FLAT B106 ON G/F, WHAMPOA BUILDING, 1-29 MING ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3152801932,
+            1,
+            "Ben Big Bowl",
+            "SHOP 110, GROUND FLOOR, BLOCK C, WHAMPOA BUILDING, 5 MING ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-12"
+          ],
+          [
+            3152802430,
+            1,
+            "\u751f\u767c\u9b5a\u86cb\u7c89",
+            "SHOP B103, G/F, WHAMPOA BUILDING, 17 MING ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-06"
+          ],
+          [
+            3152802795,
+            1,
+            "\u6a02\u5712\u7c89\u9eb5",
+            "SHOP C103, G/F, WHAMPOA BUILDING, NOS. 2A-2H BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-25"
+          ],
+          [
+            3952804735,
+            1,
+            "No Record",
+            "SHOP 103, G/F, BLOCK A, WHAMPOA BUILDING, 2A-2H BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-14"
+          ],
+          [
+            3952804780,
+            1,
+            "\u9ebb\u8fa3\u7897",
+            "SHOP A106, G/F, BLOCK A, WHAMPOA BUILDING, 2A-2H BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017352
+        ]
+      ],
+      "coordinate": [
+        1.992913036949633,
+        0.38932220760267566,
+        5.099999904632568
+      ],
+      "halfSize": [
+        32.29300499986857,
+        37.65714500006288,
+        1.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1166016602,
+        6,
+        [
+          [
+            2252198029,
+            0,
+            "\u5bcc\u81e8\u6f01\u6e2f",
+            "G/F, 2-20 MING ON STREET, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-12-10"
+          ],
+          [
+            2252283703,
+            0,
+            "\u805a\u5473\u9928",
+            "SHOP D, G/F, LUX THEATRE BUILDING, 2-18 MING ON STREET, 103-105 BAKER STREET, 2J-2K BULKELEY STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2252803055,
+            0,
+            "\u53cb\u806f\u767c\u71d2\u81d8\u98ef\u5e97",
+            "SHOP A, G/F, LUX THEATRE BUILDING, 2K BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-10"
+          ],
+          [
+            3152183623,
+            1,
+            "\u963f\u79c0\u7f8a\u8089\u7c89",
+            "G/F, 8 MING ON STREET, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-08-02"
+          ],
+          [
+            3152266461,
+            1,
+            "\u4e0a\u6d77\u98fd\u9903\u5e97",
+            "SHOP H, G/F, 6 MING ON ST, HUNGHOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3152803929,
+            1,
+            "CHILL HOUSE",
+            "SHOP F, G/F, LUX THEATRE BUILDING, 2-18 MING ON STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017353
+        ]
+      ],
+      "coordinate": [
+        1.99291981732333,
+        0.3893178992405813,
+        9.199999809265137
+      ],
+      "halfSize": [
+        30.43595499964431,
+        35.56254999991506,
+        5.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016603,
+        1,
+        [
+          [
+            3152802634,
+            1,
+            "I'S CORNER",
+            "SHOP 1, G/F, THE MET FOCUS, NO. 8 PAK KUNG STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017371
+        ]
+      ],
+      "coordinate": [
+        1.9929345636274343,
+        0.38940714391171166,
+        16.850000381469727
+      ],
+      "halfSize": [
+        12.662849999964237,
+        13.64041499979794,
+        7.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1166016604,
+        4,
+        [
+          [
+            2252805972,
+            0,
+            "\u4e5d\u59d1\u5a18",
+            "SHOP F1 ON GROUND FLOOR, 53-73, 73A, 73B & 73C MAN TAI STREET, KOWLOON",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2252809150,
+            0,
+            "Sugidama (Whampoa Estate)",
+            "SHOP G, G/F, 53-73, 73A, 73B & 73C MAN TAI STREET, KOWLOON",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3152802537,
+            1,
+            "MALTY (WP)",
+            "SHOP F2, G/F, NOS. 53-73, 73A, 73B & 73C, MAN TAI STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-10"
+          ],
+          [
+            3152804418,
+            1,
+            "\u81e8\u5bb6\u9eb5\u9928",
+            "SHOP E, G/F, 53-73, 73A, 73B & 73C MAN TAI STREET, HUNG HOM, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017376
+        ]
+      ],
+      "coordinate": [
+        1.9929724489638816,
+        0.38932117254732146,
+        7.050000190734863
+      ],
+      "halfSize": [
+        23.46038499986753,
+        21.793964999727905,
+        2.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1166016605,
+        2,
+        [
+          [
+            2252806832,
+            0,
+            "SPICY DELICIOUS",
+            "SHOP 2A & 2B, G/F, 83 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2027-01-31"
+          ],
+          [
+            3152802421,
+            1,
+            "\u714e\u9905\u5eda\u623f",
+            "SHOP 7, G/F, 83 WUHU STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-04-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017381
+        ]
+      ],
+      "coordinate": [
+        1.9929231529580704,
+        0.3893303048554614,
+        11.649999618530273
+      ],
+      "halfSize": [
+        30.0350150000304,
+        23.661340000107884,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1166016606,
+        7,
+        [
+          [
+            2252806115,
+            0,
+            "Harbour Room",
+            "PORTION A OF 4/F, KERRY HOTEL HONG KONG, 38 HUNG LUEN ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2252806124,
+            0,
+            "Hung Tong / Red Sugar",
+            "PORTION A OF 7/F AND THE OUTSIDE SEATING ACCOMMODATION AT PODIUM OF PORTION A OF 7/F, KERRY HOTEL HONG KONG, 38 HUNG LUEN ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-31"
+          ],
+          [
+            2252806142,
+            0,
+            "Hung Hom Ballroom / Lobby Lounge / Grand Ballroom",
+            "PORTION A OF 1/F TO 2/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, KERRY HOTEL HONG KONG, 38 HUNG LUEN ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2252806151,
+            0,
+            "Big Bay Caf\u00e9",
+            "PORTION B OF 3/F, KERRY HOTEL HONG KONG, 38 HUNG LUEN ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-17"
+          ],
+          [
+            2252806212,
+            0,
+            "Dockyard",
+            "PORTION B, 1/F, KERRY HOTEL HONG KONG, 38 HUNG LUEN ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2252806692,
+            0,
+            "The Porch",
+            "SHOP 101, 1/F, KERRY HOTEL HONG KONG, 38 HUNG LUEN ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-14"
+          ],
+          [
+            3152802731,
+            1,
+            "Starbucks Coffee",
+            "SHOP 1, G/F, KERRY HOTEL HONG KONG, JUNCTION OF HUNG LUEN ROAD AND WA SHUN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-09-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017446
+        ]
+      ],
+      "coordinate": [
+        1.9929714396408362,
+        0.3892327540845272,
+        16.200000762939453
+      ],
+      "halfSize": [
+        75.21780986222439,
+        73.34370500035584,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        1166016607,
+        7,
+        [
+          [
+            2252808254,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 107, 1/F, 8 HOK YUEN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2252808290,
+            0,
+            "THIRTY'S",
+            "SHOP G07 & G08, G/F, ERESIDENCE, 8 HOK YUEN STREET, HUNGHOM, KOWLOON",
+            null,
+            "2026-03-14"
+          ],
+          [
+            2252808333,
+            0,
+            "\u7ae0\u8a18\u9999\u6e2f\u4ed4\u9b5a\u86cb\u738b",
+            "SHOP G10, G/F, ERESIDENCE, 8 HOK YUEN STREET, TO KWA WAN, KOWLOON",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2252808388,
+            0,
+            "SPRING FIELD VENTURES LIMITED",
+            "SHOP NO. G06, G/F, 8 HOK YUEN STREET, KOWLOON",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2252808537,
+            0,
+            "\u8c93\u5eec",
+            "SHOP 101, 1/F, ERESIDENCE, 8 HOK YUEN STREET, HUNGHOM, KOWLOON",
+            null,
+            "2026-07-25"
+          ],
+          [
+            3852815312,
+            0,
+            "\u53cb\u7fa9\u6c23",
+            "SHOP G12 & G13, G/F, ERESIDENCE, 8 HOK YUEN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3152804375,
+            1,
+            "Cafe' Idea",
+            "SHOP G11, G/F, ERESIDENCE, NO. 8 HOK YUEN STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017459
+        ]
+      ],
+      "coordinate": [
+        1.9929543406531802,
+        0.38940240256469966,
+        12.850000381469727
+      ],
+      "halfSize": [
+        15.250554999802262,
+        47.39975153008709,
+        7.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1166016608,
+        11,
+        [
+          [
+            2252808430,
+            0,
+            "Happy One",
+            "SHOP 1, 1/F, THE VANTAGE, 63 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2252808528,
+            0,
+            "HASHIBAMI",
+            "SHOP NO. 30, G/F, THE VANTAGE, 63 MA TAU WAI ROAD, KOWLOON",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2252808892,
+            0,
+            "Cutting Onions",
+            "SHOP 102, 1/F, THE VANTAGE, 63 MA TAU WAI ROAD, KOWLOON CITY, KOWLOON",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2252808962,
+            0,
+            "WM CAFE & BAR",
+            "SHOP NO. 13, 1/F., THE VANTAGE, NO. 63 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-03-29"
+          ],
+          [
+            3852815215,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP 6-9, G/F, THE VANTAGE, 63 MA TAU WAI ROAD, TO KWA WAN, KOWLOON CITY, KOWLOON",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3152803558,
+            1,
+            "OASIS TEA",
+            "SHOP 104, 1/F, THE VANTAGE, 63 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3152803585,
+            1,
+            "DOZY",
+            "SHOP NO. 18, G/F OF THE COMMERCIAL DEVELOPMENT OF THE VANTAGE, NO. 63 MA TAU WAI ROAD, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            3152803600,
+            1,
+            "KISDI ART Catering",
+            "SHOP NOS. 26-27, G/F, THE VANTAGE, NO. 63 MA TAU WAI ROAD, KOWLOON",
+            null,
+            "2026-09-14"
+          ],
+          [
+            3152803619,
+            1,
+            "IMA COFFEE",
+            "SHOP NO.15, G/F, THE VANTAGE, NO. 63 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3152803664,
+            1,
+            "STILL",
+            "SHOP 6, 1/F, THE VANTAGE, 63 MA TAU WAI ROAD, TO KWA WAN, KOWLOON",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3952804771,
+            1,
+            "No Record",
+            "SHOP NOS. 24 & 25, G/F, THE VANTAGE, 63 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017472
+        ]
+      ],
+      "coordinate": [
+        1.9929575432141027,
+        0.38941841540387695,
+        13.800000190734863
+      ],
+      "halfSize": [
+        29.509215000085533,
+        18.08155000023544,
+        8.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1166016609,
+        1,
+        [
+          [
+            2252809080,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP B, G/F, 68 MA TAU WAI ROAD, HUNG HOM, KOWLOON",
+            null,
+            "2026-06-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017476
+        ]
+      ],
+      "coordinate": [
+        1.992946328856259,
+        0.3893696762199461,
+        15.300000190734863
+      ],
+      "halfSize": [
+        8.191105000209063,
+        14.05286500044167,
+        9.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1166016610,
+        1,
+        [
+          [
+            2252809804,
+            0,
+            "Metropark Hotel Hung Hom (Metropark Garden)",
+            "3/F, METROPARK HOTEL HUNG HOM, NO. 1 CHEONG TUNG ROAD, KOWLOON",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017479
+        ]
+      ],
+      "coordinate": [
+        1.992869718196966,
+        0.3892916835487261,
+        12.050000190734863
+      ],
+      "halfSize": [
+        32.41512000001967,
+        28.283784999512136,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016611,
+        1,
+        [
+          [
+            2252809868,
+            0,
+            "\u6eff\u5802\u6a02\u6eec\u4eac\u98a8\u5473",
+            "SHOP NOS. G713 & G715, G/F, BAKER CIRCLE, 38 GILLIES AVENUE SOUTH, HUNG HOM, KOWLOON",
+            null,
+            "2026-02-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017492
+        ]
+      ],
+      "coordinate": [
+        1.9928985864192694,
+        0.38932916099965414,
+        15.050000190734863
+      ],
+      "halfSize": [
+        21.800650000106543,
+        25.631195000372827,
+        11.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1166016612,
+        1,
+        [
+          [
+            3852815367,
+            0,
+            "SPICE AND SPARK GRILL",
+            "SHOP G806-G807, G/F, BAKER CIRCLE, 18 BULKELEY STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017494
+        ]
+      ],
+      "coordinate": [
+        1.9929038808090347,
+        0.389332799113611,
+        15.050000190734863
+      ],
+      "halfSize": [
+        25.491195000242442,
+        21.836274999193847,
+        11.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1166016613,
+        1,
+        [
+          [
+            3952804692,
+            1,
+            "Three By One",
+            "SHOP NO. G610 ON THE GROUND FLOOR OF THE COMMERCIAL DEVELOPMENT OF BAKER CIRCLE, NO. 33 WHAMPOA STREET, HUNG HOM, KOWLOON",
+            null,
+            "2026-05-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1166017496
+        ]
+      ],
+      "coordinate": [
+        1.99290251348574,
+        0.3893267825728599,
+        14.949999809265137
+      ],
+      "halfSize": [
+        20.74176000012085,
+        23.429165000095963,
+        11.34999942779541
+      ]
+    }
+  ]
+}

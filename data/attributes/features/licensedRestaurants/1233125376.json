@@ -1,0 +1,498 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1233125376,
+        1,
+        [
+          [
+            2251807306,
+            0,
+            "YING GARDEN",
+            "PORTION OF 1/F., SOUTH ASIA COMMERCIAL CENTRE, 64 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125396
+        ]
+      ],
+      "coordinate": [
+        1.9935752094531827,
+        0.3894103172076826,
+        27.600000381469727
+      ],
+      "halfSize": [
+        23.50900000007823,
+        25.848500000312924,
+        23.30000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1233125377,
+        1,
+        [
+          [
+            2251805683,
+            0,
+            "COZI DELI",
+            "SHOP NO. 1, G/F, NEWTON PLACE HOTEL, 163 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125492
+        ]
+      ],
+      "coordinate": [
+        1.993509613739736,
+        0.38942078975392397,
+        15.399999618530273
+      ],
+      "halfSize": [
+        26.277645000256598,
+        28.070910000242293,
+        11.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1233125378,
+        2,
+        [
+          [
+            2251809223,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 2 GROUND FLOOR, TWO SKY PARC, 51 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-06"
+          ],
+          [
+            2251809409,
+            0,
+            "Flames-HTR",
+            "SHOP NO. 1, G/F., TWO SKY PARC, 51 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-02-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125506
+        ]
+      ],
+      "coordinate": [
+        1.9935482502590829,
+        0.38940784026537967,
+        11.800000190734863
+      ],
+      "halfSize": [
+        36.2375000002794,
+        36.05049999989569,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1233125379,
+        3,
+        [
+          [
+            2251806358,
+            0,
+            "CHEUNG Kung Chi",
+            "3/F, NO. 58 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2251806367,
+            0,
+            "House Fifty Eight",
+            "4/F, NO. 58 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-25"
+          ],
+          [
+            2251809870,
+            0,
+            "Spicy Crab",
+            "1/F., NO. 58 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125510
+        ]
+      ],
+      "coordinate": [
+        1.993568257663899,
+        0.3894049400442076,
+        12.899999618530273
+      ],
+      "halfSize": [
+        23.55099999997765,
+        25.794499999843538,
+        8.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1233125380,
+        2,
+        [
+          [
+            2251810023,
+            0,
+            "WAH KEE TANGERINE ROAST GOOSE",
+            "UNIT B, G/F, NO.48 TSUN YIP STREET AND NO.48 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-21"
+          ],
+          [
+            3851811076,
+            0,
+            "\u6a13\u4e0b\u51b0\u5ba4",
+            "SHOP A, G/F, SUN WING BUILDING, 48 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125515
+        ]
+      ],
+      "coordinate": [
+        1.9935495753700176,
+        0.38939366345139403,
+        11.25
+      ],
+      "halfSize": [
+        17.26850000023842,
+        14.050499999895692,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125381,
+        2,
+        [
+          [
+            2251803261,
+            0,
+            "BEN \u54e5\u7c73\u7dda",
+            "SHOP 3, 1/F, 78 HUNG TO ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-02"
+          ],
+          [
+            3151802938,
+            1,
+            "SUBWAY",
+            "SHOP NO. 2B, 1/F OF 78 HUNG TO ROAD, KWUN TONG, KTIL NO. 159, KOWLOON",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125533
+        ]
+      ],
+      "coordinate": [
+        1.9935823489813178,
+        0.3893538332892217,
+        11.550000190734863
+      ],
+      "halfSize": [
+        26.07700000004843,
+        23.652999999932945,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125382,
+        4,
+        [
+          [
+            2251802310,
+            0,
+            "ASK CAFE",
+            "SHOP 2, G/F, MANULIFE FINANCIAL CENTRE, 223 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2251809755,
+            0,
+            "SAI GON XUA",
+            "SHOP NO. 6, 1/F, MANULIFE FINANCIAL CENTRE, 223-231 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-22"
+          ],
+          [
+            3151800871,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP NO. 3 AND 4, 1/F, MANULIFE FINANCIAL CENTRE, 223-231 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-02"
+          ],
+          [
+            3151801050,
+            1,
+            "Santo Coffee",
+            "SHOP NO. 2, 1/F, MANULIFE FINANCIAL CENTRE, 223-231 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125535
+        ]
+      ],
+      "coordinate": [
+        1.9935807685395601,
+        0.3893420609143584,
+        11.59999942779541
+      ],
+      "halfSize": [
+        68.48778000008315,
+        73.9124449994415,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1233125383,
+        3,
+        [
+          [
+            2251806473,
+            0,
+            "Gluttons",
+            "SHOP B & E, G/F., LU PLAZA, 2 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2251806969,
+            0,
+            "Oi-shi-sushi",
+            "SHOP G, G/F, LU PLAZA, 2 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2251807014,
+            0,
+            "\u8ca1\u7235\u6d77\u9bae\u8588",
+            "SHOPS 3B & 3C, 3/F., LU PLAZA, NO. 2 WING YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125536
+        ]
+      ],
+      "coordinate": [
+        1.993569866026738,
+        0.3893343430046251,
+        11.5
+      ],
+      "halfSize": [
+        41.82800000021234,
+        38.05049999989569,
+        7.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1233125384,
+        11,
+        [
+          [
+            2251805373,
+            0,
+            "February",
+            "SHOP A, 2/F, COS CENTRE, NO. 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            2251805814,
+            0,
+            "\u9f8d\u57ce\u51b0\u5ba4",
+            "SHOP A, G/F, COS CENTRE, NO. 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2251806446,
+            0,
+            "\u9999\u6e2f\u4ed4\u5357\u8a18\u7c89\u9eb5",
+            "SHOP G02, G/F, COS CENTRE, NO. 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2251806507,
+            0,
+            "Shironeko.udon",
+            "SHOP B, 2/F, COS CENTRE, NO. 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2251807005,
+            0,
+            "\u68ee\u30fb\u6e6f\u5496\u54e9",
+            "SHOP C, 2/F, COS CENTRE, NO. 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2251807944,
+            0,
+            "ONE POINT ZERO ONE",
+            "SHOP D, 2/F, COS CENTRE, 52-56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2251808725,
+            0,
+            "MY BURGER",
+            "SHOP G, 1/F, COS CENTRE, 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2251809427,
+            0,
+            "McDonald's Restaurant",
+            "SHOP K, 1/F, COS CENTRE, 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-23"
+          ],
+          [
+            2251810315,
+            0,
+            "Lemon Cafe",
+            "PORTION OF SHOP D AND PORTION OF SHOP E, G/F, COS CENTRE, 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3851811128,
+            0,
+            "\u52c7\u8a18",
+            "SHOP M, G/F, COS CENTRE, 56 TSUN YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-19"
+          ],
+          [
+            3151802415,
+            1,
+            "\u69ae\u8c50(\u751f\u6efe\u6e6f)",
+            "SHOP L, G/F, COS CENTRE, NO. 56 TSUN YIP STREET, KOWLOON",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125573
+        ]
+      ],
+      "coordinate": [
+        1.9935638476965043,
+        0.3894011120200378,
+        11.799999237060547
+      ],
+      "halfSize": [
+        35.86041500000283,
+        35.554339999333024,
+        7.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1233125385,
+        4,
+        [
+          [
+            2251807856,
+            0,
+            "\u62fe\u4e00\u51b0\u5ba4",
+            "SHOP NO. F&B2 ON GROUND FLOOR OF TWO HARBOUR SQUARE, NO. 180 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2251808123,
+            0,
+            "MIXIAN FAV",
+            "SHOP NO.F&B1, G/F., TWO HARBOUR SQUARE, NO. 180 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2251810388,
+            0,
+            "THE GAVI LIMITED",
+            "SHOP 1&2, 1/F, TWO HARBOUR SQUARE, 180 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-09"
+          ],
+          [
+            3151802503,
+            1,
+            "Starbucks Coffee",
+            "SHOP 5, G/F, TWO HARBOUR SQUARE, 180 WAI YIP STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1233125577
+        ]
+      ],
+      "coordinate": [
+        1.9935339808171038,
+        0.3893764479493963,
+        6.25
+      ],
+      "halfSize": [
+        36.939690000377595,
+        39.696360000409186,
+        2.5500001907348633
+      ]
+    }
+  ]
+}

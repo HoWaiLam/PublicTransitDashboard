@@ -1,0 +1,1299 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1021313024,
+        11,
+        [
+          [
+            2215176792,
+            0,
+            "\u52a0\u8a18",
+            "SHOP 104-106, EAST COMMERCIAL BLOCK, SOUTH HORIZONS, APLEICHAU, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2215800763,
+            0,
+            "Caf\u00e9 de Coral",
+            "UNIT NO. 109, MARINA SQUARE WEST COMMERCIAL BLOCK,SOUTH HORIZONS, APLEICHAU, HONG KONG",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2215801483,
+            0,
+            "McDonald's Restaurant",
+            "UNIT 205, 2/F., WEST COMMERCIAL CENTRE, MARINA SQUARE, SOUTH HORIZONS, APLEICHAU, HONG KONG",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2215801818,
+            0,
+            "MX",
+            "UNIT NO. 126 ON THE FIRST FLOOR OF MARINA SQUARE, THE WEST COMMERCIAL BLOCK, COMMERCIAL DEVELOPMENT, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+            null,
+            "2027-02-26"
+          ],
+          [
+            2215801827,
+            0,
+            "Super Super",
+            "UNIT NO. 127 ON THE FIRST FLOOR OF MARINA SQUARE, THE WEST COMMERCIAL BLOCK, COMMERCIAL DEVELOPMENT, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-02-27"
+          ],
+          [
+            2215801881,
+            0,
+            "Main Kitchen",
+            "STALL NOS. WM2A, WM3 & WM4, G/F., MARINA SQUARE EAST MARKET, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2215801924,
+            0,
+            "CHUI YUEN GOLDEN PAVILION RESTAURANT",
+            "UNIT 301, 3/F. OF MARINA SQUARE, THE WEST COMMERCIAL BLOCK, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2215802750,
+            0,
+            "Men Wah Bing Teng",
+            "UNIT NOS. G09A, G09B, G10 AND G11, G/F., MARINA SQUARE, THE WEST COMMERCIAL BLOCK, SOUTH HORIZONS, APLEICHAU, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2215802769,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP G07-G08, G/F, MARINA SQUARE, WEST COMMERCIAL BLOCK, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2215803203,
+            0,
+            "\u9b5a\u773e\u4e0d\u540c",
+            "UNIT NOS. 115A & 116, 1/F, MARINA SQUARE, THE WEST COMMERCIAL BLOCK, COMMERCIAL DEVELOPMENT, SOUTH HORIZONS, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-10-23"
+          ],
+          [
+            3115800433,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "UNIT G05, G/F., MARINA SQUARE,THE WEST COMMERCIAL BLOCK,COMMERCIAL DEVELOPMENT,SOUTH HORIZONS, APLEICHAU, HONG KONG",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313031
+        ]
+      ],
+      "coordinate": [
+        1.992210435782756,
+        0.38823225854706994,
+        10.399999618530273
+      ],
+      "halfSize": [
+        66.06449999986216,
+        56.198499999940395,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1021313025,
+        1,
+        [
+          [
+            2217800970,
+            0,
+            "AsiaWorld-Summit",
+            "MAJOR PORTION OF HALL 2, MINOR PORTION OF HALL 1, MINOR PORTION OF HALL 9 AND PORTION OF HALL 11, ASIAWORLD-EXPO, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG",
+            null,
+            "2026-05-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313036
+        ]
+      ],
+      "coordinate": [
+        1.9924136211192773,
+        0.38823604326413635,
+        9.449999809265137
+      ],
+      "halfSize": [
+        13.464499999769032,
+        17.1745000006631,
+        5.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1021313026,
+        1,
+        [
+          [
+            2215801960,
+            0,
+            "Cheung Kee Restaurant",
+            "SHOP A, B, C, G/F., SHUN KING COURT, 33 MAIN STREET AP LEI CHAU , ABERDEEN, HONG KONG",
+            null,
+            "2027-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313039
+        ]
+      ],
+      "coordinate": [
+        1.9924099439033987,
+        0.3882360023923881,
+        9.800000190734863
+      ],
+      "halfSize": [
+        10.214000000152737,
+        10.434000000357628,
+        6.0
+      ]
+    },
+    {
+      "attributes": [
+        1021313027,
+        1,
+        [
+          [
+            2215800532,
+            0,
+            "Dai Yakitori",
+            "NO. 6, G/F., HOI LEE BUILDING, 49-55 MAIN STREET, AP LEI CHAU & J/O HUNG SHING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313043
+        ]
+      ],
+      "coordinate": [
+        1.9924019950876157,
+        0.3882331562531032,
+        6.550000190734863
+      ],
+      "halfSize": [
+        11.182999999728054,
+        11.147000000812113,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1021313028,
+        1,
+        [
+          [
+            3115800761,
+            1,
+            "\u8247\u4ed4\u7c89\u4e4b\u8247\u4ed4\u7ca5",
+            "SHOP A, G/F., HING FU BUILDING, 84 MAIN STREET AP LEI CHAU, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313044
+        ]
+      ],
+      "coordinate": [
+        1.9923859007985751,
+        0.38823275496549425,
+        6.5
+      ],
+      "halfSize": [
+        10.489000000059605,
+        11.583999999798834,
+        2.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1021313029,
+        2,
+        [
+          [
+            2215085852,
+            0,
+            "Erawan Thai Restaurant",
+            "SHOP B & C, G/F, FORTUNE MANSION, 57-63 MAIN STREET AND, 12-24 HUNG SHING STREET, APLEICHAU, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2215800648,
+            0,
+            "SO KEE",
+            "G/F., FORTUNE MANSION, NOS. 16 & 18 HUNG SHING STREET, APLEICHAU, HONG KONG",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313046
+        ]
+      ],
+      "coordinate": [
+        1.9923973367592598,
+        0.3882303208718264,
+        6.150000095367432
+      ],
+      "halfSize": [
+        16.248000000137836,
+        17.389499999582767,
+        2.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1021313030,
+        1,
+        [
+          [
+            2215802404,
+            0,
+            "\u6f01\u7c73\u93ae\u5c0f\u83dc\u9928",
+            "G/F., LEE FAT BUILDING, 98 MAIN STREET AP LEI CHAU, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313048
+        ]
+      ],
+      "coordinate": [
+        1.9923817125943177,
+        0.3882311087732593,
+        6.25
+      ],
+      "halfSize": [
+        9.355505000334233,
+        10.648045000620186,
+        2.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1021313031,
+        1,
+        [
+          [
+            2215800569,
+            0,
+            "CHA KEE",
+            "G/F (REAR PORTION), 102 AP LEI CHAU MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313049
+        ]
+      ],
+      "coordinate": [
+        1.99237969309606,
+        0.3882303942068401,
+        7.25
+      ],
+      "halfSize": [
+        5.911500000394881,
+        9.558000000193715,
+        3.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1021313032,
+        1,
+        [
+          [
+            3915801230,
+            1,
+            "(no record found)",
+            "G/F, 106 MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313051
+        ]
+      ],
+      "coordinate": [
+        1.992377907766336,
+        0.38822973377432957,
+        7.199999809265137
+      ],
+      "halfSize": [
+        11.186000000219792,
+        11.606999999843538,
+        3.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1021313033,
+        1,
+        [
+          [
+            2215800356,
+            0,
+            "\u5ddd\u5473\u5a18\u5b50",
+            "SHOP H, G/F., TUNG NAM BUILDING, 112-118 AP LEI CHAU MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-05-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313055
+        ]
+      ],
+      "coordinate": [
+        1.9923751060385169,
+        0.3882287239837632,
+        7.699999809265137
+      ],
+      "halfSize": [
+        11.788000000175089,
+        11.941499999724329,
+        3.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1021313034,
+        1,
+        [
+          [
+            2217801496,
+            0,
+            "HIDEOUT",
+            "G/F., 77 MAIN STREET YUNG SHUE WAN, LAMMA ISLAND, HONG KONG",
+            null,
+            "2026-06-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313056
+        ]
+      ],
+      "coordinate": [
+        1.9923897261011743,
+        0.3882287895377834,
+        6.099999904632568
+      ],
+      "halfSize": [
+        10.156275000423193,
+        11.05350000038743,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1021313035,
+        3,
+        [
+          [
+            2215802459,
+            0,
+            "CHAN'S KITCHEN",
+            "SHOP B, G/F., 132 AP LEI CHAU MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3115800239,
+            1,
+            "MINI SAIGON VIETNAMESE RESTAURANT",
+            "SHOP G, G/F., 132 MAIN STREET AP LEI CHAU, HONG KONG",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3115801117,
+            1,
+            "CAFE PESCI",
+            "SHOP F, G/F., 132 AP LEI CHAU MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313062
+        ]
+      ],
+      "coordinate": [
+        1.9923638043485015,
+        0.38822454026666436,
+        6.199999809265137
+      ],
+      "halfSize": [
+        10.802499999757856,
+        11.662499999627471,
+        2.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1021313036,
+        1,
+        [
+          [
+            3115800628,
+            1,
+            "HAND MADE DUMPLINGS AND LAMP SOUP RESTAURANT",
+            "SHOP 4, G/F., YEE HING BUILDING, 150 MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313065
+        ]
+      ],
+      "coordinate": [
+        1.992360237755624,
+        0.38822343218378413,
+        8.300000190734863
+      ],
+      "halfSize": [
+        11.190500000026077,
+        11.070499999448657,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1021313037,
+        1,
+        [
+          [
+            2215802112,
+            0,
+            "\u6d77\u6771\u8ed2",
+            "SHOP 2 ON G/F. AND SHOP 3 ON 1/F., COMMAND TOWER, NO. 145 AP LEI CHAU MAIN STREET, AP LEI CHAU , HONG KONG",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313070
+        ]
+      ],
+      "coordinate": [
+        1.9923668527163036,
+        0.38821973556200945,
+        7.199999809265137
+      ],
+      "halfSize": [
+        12.624000000301749,
+        15.642500000074506,
+        3.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1021313038,
+        1,
+        [
+          [
+            2215224842,
+            0,
+            "\u771f\u6ecb\u5473\u98df\u9928",
+            "SHOP 7, G/F, BILLION COURT, 147 APLEICHAU MAIN STREET, APLEICHAU, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313072
+        ]
+      ],
+      "coordinate": [
+        1.99236306993266,
+        0.3882183928779961,
+        6.449999809265137
+      ],
+      "halfSize": [
+        18.82549999980256,
+        17.446500000543892,
+        2.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1021313039,
+        3,
+        [
+          [
+            2215802501,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 101A, LOWER PODIUM FLOOR, COMMERCIAL COMPLEX 2, LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2215802981,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP L-210, 2/F, LEI TUNG COMMERCIAL CENTRE, LEI TUNG ESTATE, 5 LEI TUNG ESTATE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3115800929,
+            1,
+            "\u6a02\u5712\u9b5a\u86cb",
+            "STALL NO. 52&53, GROUND FLOOR, COMMERCIAL COMPLEX I, LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313092
+        ]
+      ],
+      "coordinate": [
+        1.9924080961961588,
+        0.38817861210547583,
+        58.70000076293945
+      ],
+      "halfSize": [
+        35.643999999854714,
+        51.97900000028312,
+        3.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1021313040,
+        3,
+        [
+          [
+            2215129042,
+            0,
+            "Pizza Hut",
+            "SHOP 25-30, G/F, LEI YEE HOUSE, APLEICHAU ESTATE, APLEICHAU, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2215802741,
+            0,
+            "Cafe 100%",
+            "SHOP NO. 9(PORTION A), G/F., MULTI-STOREY CARPARK BUILDING, AP LEI CHAU ESTATE, HONG KONG",
+            null,
+            "2026-12-27"
+          ],
+          [
+            3815803688,
+            0,
+            "\u5927\u723a\u71d2\u9d5d",
+            "SHOP 41B & 42, G/F., LEI CHAK HOUSE, AP LEI CHAU ESTATE, HONG KONG",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313108
+        ]
+      ],
+      "coordinate": [
+        1.9922719968178357,
+        0.3882426476493801,
+        48.349998474121094
+      ],
+      "halfSize": [
+        44.11200000019744,
+        12.915000000037253,
+        24.05000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1021313041,
+        1,
+        [
+          [
+            2215800772,
+            0,
+            "\u7da0\u60a0\u8ed2",
+            "G/F., 9 HUNG SHING STREET, AP LEI CHAU, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313114
+        ]
+      ],
+      "coordinate": [
+        1.9923988242037622,
+        0.3882405190851793,
+        14.449999809265137
+      ],
+      "halfSize": [
+        8.988084999844432,
+        6.248999999836087,
+        10.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1021313042,
+        3,
+        [
+          [
+            2215802608,
+            0,
+            "\u87f9 \u9ede",
+            "1/F., MARKET PLACE OF COMMERCIAL BLOCK, AP LEI CHAU ESTATE, 322, 326, 328, 330 & 332 AP LEI CHAU BRIDGE ROAD, HONG KONG",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2215802626,
+            0,
+            "\u5fb7\u54e5\u9eb5",
+            "STALL NO. 33-34, GROUND FLOOR IN THE MARKET PLACE OF COMMERCIAL BLOCK, AP LEI CHAU ESTATE, 322, 326, 328, 330 AND 332 AP LEI CHAU BRIDGE ROAD, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2215802875,
+            0,
+            "\u5fe0\u8a18\u7ca5\u54c1",
+            "SHOP 1, G/F, COMMERCIAL/CAR PARK BLOCK, AP LEI CHAU ESTATE, 322, 326, 328, 330 AND 332 AP LEI CHAU BRIDGE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-04-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313116
+        ]
+      ],
+      "coordinate": [
+        1.992317862411708,
+        0.3882384356599177,
+        37.75
+      ],
+      "halfSize": [
+        28.669999999925494,
+        17.234999999403954,
+        13.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1021313043,
+        1,
+        [
+          [
+            2215232333,
+            0,
+            "Fishermen Cuisine",
+            "G/F, 10 WAI FUNG STREET, APLEICHAU, SOUTHERN, HONG KONG",
+            null,
+            "2027-01-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313117
+        ]
+      ],
+      "coordinate": [
+        1.9924029927031102,
+        0.3882398196483392,
+        13.90000057220459
+      ],
+      "halfSize": [
+        10.043095000088215,
+        7.918604999780655,
+        9.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1021313044,
+        1,
+        [
+          [
+            3115800488,
+            1,
+            "VIETNAMESE HOUSE",
+            "G/F., 46 MAIN STREET AP LEI CHAU, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313126
+        ]
+      ],
+      "coordinate": [
+        1.9924029896966777,
+        0.38823782075204327,
+        13.699999809265137
+      ],
+      "halfSize": [
+        5.829314999748021,
+        6.146169999614358,
+        9.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1021313045,
+        1,
+        [
+          [
+            3115800804,
+            1,
+            "\u5f64\u8a18",
+            "SHOP C ON GROUND FLOOR, NOS. 17 & 19 HUNG SHING STREET, NO. 54 AP LEI CHAU MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313130
+        ]
+      ],
+      "coordinate": [
+        1.9924003225225562,
+        0.38823690027689445,
+        14.350000381469727
+      ],
+      "halfSize": [
+        10.0549649996683,
+        7.021999999880791,
+        10.25
+      ]
+    },
+    {
+      "attributes": [
+        1021313046,
+        2,
+        [
+          [
+            2215803337,
+            0,
+            "Chan's Restaurant",
+            "GROUND FLOOR AND COCKLOFT, NO. 45 AP LEI CHAU MAIN STREET AND GROUND FLOOR AND COCKLOFT, NO. 47 AP LEI CHAU MAIN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3115800017,
+            1,
+            "\u5c0f\u751c\u751c",
+            "G/F., 43 AP LEI CHAU MAIN STREET, HONG KONG",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313136
+        ]
+      ],
+      "coordinate": [
+        1.9924049782893165,
+        0.388234568162149,
+        13.850000381469727
+      ],
+      "halfSize": [
+        6.437735000159591,
+        7.480259999632835,
+        9.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1021313047,
+        5,
+        [
+          [
+            2215802714,
+            0,
+            "Itamomo",
+            "SHOP NOS. 117-119, 1/F., MARINA SQUARE WEST CENTRE, 12A SOUTH HORIZON DRIVE, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2215802927,
+            0,
+            "KFC/PHD",
+            "SHOP G14, G/F, MARINA SQUARE, 12A SOUTH HORIZON DRIVE, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2215803036,
+            0,
+            "Milk Caf\u00e9",
+            "SHOP NO. 120 (PORTION A), 1/F, MARINA SQUARE WEST CENTRE, 12A SOUTH HORIZON DRIVE, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2215803212,
+            0,
+            "Yoshinoya",
+            "SHOP G04B, G/F, MARINA SQUARE, 12A SOUTH HORIZON DRIVE, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-11-27"
+          ],
+          [
+            3115800178,
+            1,
+            "STARBUCKS COFFEE",
+            "SHOP G49D, G/F., MARINA SQUARE, WEST COMMERCIAL BLOCK, 12A SOUTH HORIZON DRIVE, APLEICHAU, HONG KONG",
+            null,
+            "2027-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313138
+        ]
+      ],
+      "coordinate": [
+        1.9922372177102083,
+        0.3882284322247631,
+        20.149999618530273
+      ],
+      "halfSize": [
+        51.71875,
+        46.634394999593496,
+        13.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1021313048,
+        1,
+        [
+          [
+            2215800198,
+            0,
+            "Bowls Cafe",
+            "G/F., 117 MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313191
+        ]
+      ],
+      "coordinate": [
+        1.9923757262461603,
+        0.388223962334757,
+        13.550000190734863
+      ],
+      "halfSize": [
+        6.861430000048131,
+        7.64015999995172,
+        10.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1021313049,
+        1,
+        [
+          [
+            2215801076,
+            0,
+            "\u5c0f\u7092\u7687",
+            "G/F., NO. 119 AND G/F. & C/L., NO. 121 AP LEI CHAU MAIN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313194
+        ]
+      ],
+      "coordinate": [
+        1.9923741412741436,
+        0.3882234116767132,
+        13.75
+      ],
+      "halfSize": [
+        6.989969999995083,
+        7.713785000145435,
+        9.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1021313050,
+        6,
+        [
+          [
+            2215802893,
+            0,
+            "Caf\u00e9 de Coral",
+            "SHOP NO. 6, LEVEL 3, LEI TUNG COMMERCIAL CENTRE, LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, HONG KONG",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2215802972,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NO. L-216, LEVEL 2, LEI TUNG COMMERCIAL CENTRE (PHASE 1), LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-08-22"
+          ],
+          [
+            2215803009,
+            0,
+            "\u97d3\u6a02",
+            "SHOP NO. L-201A, LEVEL 2, LEI TUNG COMMERCIAL CENTRE (PHASE 1), LEI TUNG ESTATE, 5 LEI TUNG ESTATE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-09-20"
+          ],
+          [
+            2215803106,
+            0,
+            "Sushi Express",
+            "SHOP NO. L-308, L-314 & L-315, 3/F, PHASE 1, LEI TUNG COMMERCIAL CENTRE, 5 LEI TUNG ESTATE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2215803142,
+            0,
+            "\u5fa1\u540d\u5712",
+            "SHOP NOS. L-301-L-303, LEVEL 3, LEI TUNG COMMERCIAL CENTRE (PHASE 1), LEI TUNG ESTATE, 5 LEI TUNG ESTATE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2215803692,
+            0,
+            "\u5fe0\u8a18\u7ca5\u54c1",
+            "SHOP NO. 13, G/F, LEI TUNG COMMERCIAL CENTRE (PHASE 1), LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313263
+        ]
+      ],
+      "coordinate": [
+        1.9923954731852231,
+        0.38817983564010705,
+        71.6500015258789
+      ],
+      "halfSize": [
+        20.205500000156462,
+        43.486500000581145,
+        9.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1021313051,
+        3,
+        [
+          [
+            2215802848,
+            0,
+            "SUPER SUPER",
+            "SHOP NOS. 206, 207, 208, 209 AND 210, GROUND FLOOR, LEI TUNG COMMERCIAL CENTRE (PHASE 2), LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, HONG KONG",
+            null,
+            "2026-03-15"
+          ],
+          [
+            2215802945,
+            0,
+            "McDonald's Restaurant",
+            "SHOP 212, G/F, PHASE 2, LEI TUNG COMMERCIAL CENTRE, LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, APLEICHAU, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2215802963,
+            0,
+            "\u7fe0\u6cb3\u71d2\u5473",
+            "SHOP NO. 103, G/F, LEI TUNG COMMERCIAL CENTRE (PHASE 2), LEI TUNG ESTATE, NO. 5 LEI TUNG ESTATE ROAD, HONG KONG",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313266
+        ]
+      ],
+      "coordinate": [
+        1.9924072729787017,
+        0.3881779803758411,
+        68.19999694824219
+      ],
+      "halfSize": [
+        25.530499999877065,
+        38.497000000439584,
+        5.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1021313052,
+        1,
+        [
+          [
+            3115800859,
+            1,
+            "Tree Cafe One",
+            "PORTION 2 OF 28/F., HORIZON PLAZA, 2 LEE WING STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313280
+        ]
+      ],
+      "coordinate": [
+        1.9923397587661364,
+        0.38814527207796445,
+        65.4000015258789
+      ],
+      "halfSize": [
+        36.126364999916404,
+        18.84055500011891,
+        45.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1021313053,
+        1,
+        [
+          [
+            2215802495,
+            0,
+            "CAFE B",
+            "SHOP A, G/F., BRIDAL TEA HOUSE HOTEL, NO. 95 MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313301
+        ]
+      ],
+      "coordinate": [
+        1.9923839700187524,
+        0.38822600301801274,
+        16.80000114440918
+      ],
+      "halfSize": [
+        6.359974999912083,
+        12.918554999865592,
+        12.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1021313054,
+        1,
+        [
+          [
+            3115801126,
+            1,
+            "\u5927\u56cd\u9eb5\u5bb6",
+            "SHOP NO. 10 (MAJOR PORTION) & SHOP NO. 11 (MAJOR PORTION), G/F, H BONAIRE, 62-76 AP LEI CHAU MAIN STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313314
+        ]
+      ],
+      "coordinate": [
+        1.9923924964920208,
+        0.38823504610667403,
+        9.100000381469727
+      ],
+      "halfSize": [
+        20.46779499994591,
+        15.377840000204742,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1021313055,
+        3,
+        [
+          [
+            2215803221,
+            0,
+            "\u5927\u723a\u71d2\u9d5d",
+            "SHOP G2, G/F, THE UPPER SOUTH, 71 AP LEI CHAU MAIN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2215803708,
+            0,
+            "Hey Thai Mei",
+            "SHOP G3 & G5, G/F, THE UPPER SOUTH, 71 AP LEI CHAU MAIN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3115801010,
+            1,
+            "BOAT NOODLE",
+            "SHOP 1, G/F, THE UPPER SOUTH, 71 MAIN STREET, AP LEI CHAU, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313334
+        ]
+      ],
+      "coordinate": [
+        1.9923928204384485,
+        0.38822987179415497,
+        9.5
+      ],
+      "halfSize": [
+        14.473705000244081,
+        12.688720000907779,
+        5.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1021313056,
+        2,
+        [
+          [
+            2215803744,
+            0,
+            "AP Coffee",
+            "SHOPS 3 & 4, G/F, COASTO, 1 WAI FUNG STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3815803697,
+            0,
+            "CHIN YUET",
+            "SHOP 1, G/F, COASTO, NO. 1 WAI FUNG STREET, AP LEI CHAU, HONG KONG",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1021313337
+        ]
+      ],
+      "coordinate": [
+        1.9924082756406376,
+        0.388240620827004,
+        9.399999618530273
+      ],
+      "halfSize": [
+        10.874395000282675,
+        12.81908500008285,
+        5.400000095367432
+      ]
+    }
+  ]
+}

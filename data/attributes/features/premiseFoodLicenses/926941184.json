@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        926941184,
+        1,
+        [
+          [
+            2996801807,
+            4,
+            "Hong Kong Organic Waste Recycling Centre Limited",
+            "12 KAM CHUI ROAD, KAM TSIN TSUEN, DD92, PORTION OF LOT 1184 AND PORTION OF LOT 1185, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          926941855
+        ]
+      ],
+      "coordinate": [
+        1.9915540435483334,
+        0.39263966489653324,
+        24.399999618530273
+      ],
+      "halfSize": [
+        2.2540899999439716,
+        1.9674699995666742,
+        0.8999996185302734
+      ]
+    }
+  ]
+}

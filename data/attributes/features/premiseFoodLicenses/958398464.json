@@ -1,0 +1,350 @@
+{
+  "features": [
+    {
+      "attributes": [
+        958398464,
+        2,
+        [
+          [
+            4915806605,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP G03, G/F, CLINICAL BLOCK 1, QUEEN MARY HOSPITAL, 102 POK FU LAM ROAD, POK FU LAM, HONG KONG",
+            null,
+            "2026-05-20"
+          ],
+          [
+            4915806614,
+            4,
+            "Hana-Musubi",
+            "SHOP G01, G/F., CLINICAL BLOCK 1, QUEEN MARY HOSPITAL, 102 POK FU LAM ROAD, SOUTHERN, HONG KONG",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398464
+        ]
+      ],
+      "coordinate": [
+        1.9919569160391926,
+        0.3887031731744489,
+        148.89999389648438
+      ],
+      "halfSize": [
+        21.6355000003241,
+        45.354499999433756,
+        11.0
+      ]
+    },
+    {
+      "attributes": [
+        958398465,
+        1,
+        [
+          [
+            3615801006,
+            5,
+            "fusion by PARKnSHOP",
+            "STALL NO. 4 & PORTIONS OF PORTION OF THE 2ND LOWER GROUND FLOOR AND CARPARK SPACE NOS. 1-40 OF BLOCKS NOS. 32-40, BAGUIO VILLA, 550 VICTORIA ROAD, POKFULAM, HONG KONG",
+            null,
+            "2027-03-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398505
+        ]
+      ],
+      "coordinate": [
+        1.992004500543376,
+        0.3885573855209238,
+        79.19999694824219
+      ],
+      "halfSize": [
+        86.08499999996275,
+        64.49150000046939,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        958398466,
+        1,
+        [
+          [
+            3615169988,
+            5,
+            "Wellcome",
+            "SHOP NO. 1&3, G/F, I/J(A3), SCENIC VILLAS, 18-20 SCENIC VILLA DRIVE, POKFULAM, SOUTHERN, HONG KONG",
+            null,
+            "2027-01-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398663
+        ]
+      ],
+      "coordinate": [
+        1.9918538068903369,
+        0.38866069048637,
+        44.55000305175781
+      ],
+      "halfSize": [
+        13.350000000093132,
+        16.461500000208616,
+        26.750001907348633
+      ]
+    },
+    {
+      "attributes": [
+        958398467,
+        16,
+        [
+          [
+            2915802128,
+            4,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP L4-9 & L4-10, LEVEL 4, THE ARCADE, CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2915802359,
+            4,
+            "PACIFIC COFFEE",
+            "FOYER AREA, LEVEL 4, CYBERPORT 2, 100 CYBERPORT ROAD, HONG KONG",
+            null,
+            "2027-04-07"
+          ],
+          [
+            2915802650,
+            4,
+            "Pepper Lunch Express",
+            "SHOP 403A, LEVEL 4, THE ARCADE, CYBERPORT, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2915802696,
+            4,
+            "FUSION",
+            "STALL NO. 9, SHOP 3, LEVEL 1, THE ANNEX OF THE BUILDING, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2027-03-16"
+          ],
+          [
+            2915802702,
+            4,
+            "Fusion",
+            "STALL NO. 7, SHOP 3, LEVEL 1, THE ANNEX OF THE BUILDING, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2027-03-16"
+          ],
+          [
+            2915802739,
+            4,
+            "Fusion",
+            "STALL NO. 8, SHOP 3, LEVEL 1, THE ANNEX OF THE BUILDING, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2027-03-16"
+          ],
+          [
+            2915802933,
+            4,
+            "THE PIT",
+            "SHOP 417, 4/F., THE ARCADE CYBERPORT, 100 CYBERPORT ROAD, POK FU LAM, HONG KONG",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2915805215,
+            4,
+            "HUNG FOOK TONG",
+            "UNIT 401A, LEVEL 4, IT STREET, CORE A, CYBERPORT 3, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2915805330,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP 5-8, G/F, THE ANNEX, 100 CYBERPORT ROAD, HONG KONG",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2915806342,
+            4,
+            "1+2\u5c0f\u5eda",
+            "SHOP 408 ON LEVEL 4 OF THE ARCADE, CYBERPORT, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2915806555,
+            4,
+            "MENYA RYUHEI",
+            "SHOP 407, LEVEL 4, THE ARCADE, CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-09-18"
+          ],
+          [
+            2915806652,
+            4,
+            "(No Record Found)",
+            "SHOP 403 ON LEVEL 4 OF THE ARCADE, CYBERPORT, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2027-01-25"
+          ],
+          [
+            4915806553,
+            4,
+            "AKINA",
+            "SHOP 105, LEVEL 2, THE ARCADE, CYBERPORT, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-03-17"
+          ],
+          [
+            4915806650,
+            4,
+            "the street cafe",
+            "PORTION A OF UNIT 403 ON LEVEL 4, IT STREET, CORE A, CYBERPORT 3, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3615800702,
+            5,
+            "Fusion",
+            "STALL NO. 6 & PORTIONS OF SHOP 3, LEVEL 1, THE ANNEX OF THE BUILDING, NO. 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2027-03-16"
+          ],
+          [
+            3215800489,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP 5-8, G/F, THE ANNEX, 100 CYBERPORT ROAD, HONG KONG",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398832
+        ]
+      ],
+      "coordinate": [
+        1.9919564684461895,
+        0.388548425135766,
+        44.14999771118164
+      ],
+      "halfSize": [
+        30.427875000052154,
+        33.98147999960929,
+        36.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        958398468,
+        3,
+        [
+          [
+            2915800821,
+            4,
+            "STARBUCKS COFFEE",
+            "UNIT 316, 3/F., CYBERPORT 3, I.T. STREET, CYBERPORT, HONG KONG",
+            null,
+            "2027-04-08"
+          ],
+          [
+            2915806324,
+            4,
+            "E.TEA",
+            "UNIT 309A, LEVEL 3, IT STREET, CORE D, CYBERPORT 3, 100 CYBERPORT ROAD, CYBERPORT, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2915806616,
+            4,
+            "ESPRESSO TECNICA",
+            "PORTION OF UNIT 303, LEVEL 3, IT STREET, CORE C, CYBERPORT 3, 100 CYBERPORT ROAD, POKFULAM, HONG KONG",
+            null,
+            "2026-12-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958398848
+        ]
+      ],
+      "coordinate": [
+        1.9919567659348705,
+        0.3885421977430493,
+        22.100000381469727
+      ],
+      "halfSize": [
+        13.844169999938458,
+        19.562405000440776,
+        15.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        958398469,
+        3,
+        [
+          [
+            2915804373,
+            4,
+            "(No Record Found)",
+            "PORTION B OF 1/F., INTERNATIONAL CULINARY INSTITUTE, POKFULAM ROAD, A.I.L. 463, HONG KONG",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2915804452,
+            4,
+            "Culinarium",
+            "PORTION A OF B1/F., INTERNATIONAL CULINARY INSTITUTE, POKFULAM ROAD, A.I.L. 463, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3215800373,
+            6,
+            "Gelateria",
+            "PORTION C OF 1/F., INTERNATIONAL CULINARY INSTITUTE, POKFULAM ROAD, A.I.L. 463, HONG KONG",
+            null,
+            "2026-10-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          958399239
+        ]
+      ],
+      "coordinate": [
+        1.992044891767703,
+        0.3885284292219136,
+        158.4499969482422
+      ],
+      "halfSize": [
+        16.46540499990806,
+        23.53743000049144,
+        11.449996948242188
+      ]
+    }
+  ]
+}

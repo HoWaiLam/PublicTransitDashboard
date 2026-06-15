@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        918552576,
+        1,
+        [
+          [
+            2294807309,
+            0,
+            "THAI CHIU",
+            "LOT NO. 544 RP IN DD 111, G/F, 50 CHUK HANG SAN LUNG WAI, PAT HEUNG, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          918552576
+        ]
+      ],
+      "coordinate": [
+        1.9913661942203618,
+        0.391774125304818,
+        25.850000381469727
+      ],
+      "halfSize": [
+        6.134580000303686,
+        6.000500000081956,
+        3.6499996185302734
+      ]
+    }
+  ]
+}

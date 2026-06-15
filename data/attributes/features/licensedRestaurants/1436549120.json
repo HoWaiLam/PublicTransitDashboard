@@ -1,0 +1,169 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1436549120,
+        1,
+        [
+          [
+            3198801732,
+            1,
+            "PACIFIC COFFEE",
+            "PORTION OF THE GLASS HOUSE, G/F, AMBULATORY CARE BLOCK, TSEUNG KWAN O HOSPITAL, NO. 2 PO NING LANE, HANG HAU, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1436549156
+        ]
+      ],
+      "coordinate": [
+        1.9943904879895444,
+        0.38952132359581426,
+        12.100000381469727
+      ],
+      "halfSize": [
+        61.4144999999553,
+        78.63800000026822,
+        6.0
+      ]
+    },
+    {
+      "attributes": [
+        1436549121,
+        5,
+        [
+          [
+            2298000553,
+            0,
+            "Nam Fung Bakery Cafe",
+            "SHOP NO. 5 & 6, G/F, FU NING COMMERCIAL COMPLEX, FU NING GARDEN, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3198000241,
+            1,
+            "\u7f8e\u5473\u9bae\u5feb\u9910\u5c0f\u98df",
+            "SHOP NO. 10, G/F, FU NING GARDEN MARKET, 25 PO NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3198000481,
+            1,
+            "\u9d3b\u8208\u6e05\u6e6f\u8169\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP NO, 12, G/F., COMMERCIAL COMPLEX, FU NING GARDEN, 25 PO NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3198800386,
+            1,
+            "\u842c\u5bb6\u7f8e\u98df",
+            "SHOP 9, G/F, FU NING GARDEN COMMERCIAL COMPLEX, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            3198800614,
+            1,
+            "\u5408\u8208\u5496\u5561\u7c89\u9eb5",
+            "SHOP 15, G/F, FU NING GARDEN, 25 PO NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1436549709
+        ]
+      ],
+      "coordinate": [
+        1.9943470683011315,
+        0.38953690911371314,
+        13.149999618530273
+      ],
+      "halfSize": [
+        80.65299999993294,
+        45.791999999433756,
+        6.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1436549122,
+        6,
+        [
+          [
+            2298000739,
+            0,
+            "Metropolis Cuisine",
+            "SHOP NO. 103, MING TAK SHOPPING CENTRE, MING TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2298800786,
+            0,
+            "HUNDRED PERCENT RESTAURANT",
+            "SHOP NO. 42-45 & 48, G/F, MING TAK SHOPPING CENTRE, MING TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2298805073,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS. 7 & 8, G/F, MING TAK SHOPPING CENTRE, MING TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2298805453,
+            0,
+            "616 BEEF HOT POT",
+            "SHOP 105-106, FIRST FLOOR, MING TAK SHOPPING CENTRE, MING TAK ESTATE, 10 PUI SHING LANE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2298805505,
+            0,
+            "WING'S CATERING.CHUN GIU(HANG HAU)",
+            "SHOP 4, 5 & 6, G/F, MING TAK SHOPPING CENTRE, MING TAK ESTATE, 10 PUI SHING LANE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ],
+          [
+            2298806447,
+            0,
+            "\u8377\u862d\u51b0\u5ba4",
+            "SHOP NO. 14B, G/F, MING TAK SHOPPING CENTRE, MING TAK ESTATE, NO. 10 PUI SHIING LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1436549972
+        ]
+      ],
+      "coordinate": [
+        1.9943588510687151,
+        0.3894907075196929,
+        13.5
+      ],
+      "halfSize": [
+        21.797799999825656,
+        25.643835000693798,
+        7.600000381469727
+      ]
+    }
+  ]
+}

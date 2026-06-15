@@ -1,0 +1,74 @@
+{
+  "features": [
+    {
+      "attributes": [
+        861929472,
+        2,
+        [
+          [
+            2294801578,
+            0,
+            "\u4e5d\u8a18\u68e7",
+            "G/F, SECTION B, D.D. NO. 99, LOT NO. 673, LOK MA CHAU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            3194800698,
+            1,
+            "\u4e5d\u8a18\u68e7",
+            "G/F, SECTION A, D.D. NO. 99, LOT NO. 673, LOK MA CHAU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          861930312
+        ]
+      ],
+      "coordinate": [
+        1.9910473794505539,
+        0.3927161917039733,
+        9.450000762939453
+      ],
+      "halfSize": [
+        5.276999999769032,
+        5.503499999642372,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        861929473,
+        1,
+        [
+          [
+            2294807211,
+            0,
+            "XINBOBO RESTAURANT",
+            "GROUND FLOOR AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 282 WING PING TSUEN, SAN TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          861930318
+        ]
+      ],
+      "coordinate": [
+        1.991048928858436,
+        0.3927158746528007,
+        9.550000190734863
+      ],
+      "halfSize": [
+        5.095540000125766,
+        6.093719999305904,
+        4.050000190734863
+      ]
+    }
+  ]
+}

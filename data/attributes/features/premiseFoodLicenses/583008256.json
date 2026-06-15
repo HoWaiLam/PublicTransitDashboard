@@ -1,0 +1,555 @@
+{
+  "features": [
+    {
+      "attributes": [
+        583008256,
+        5,
+        [
+          [
+            2994804501,
+            4,
+            "Kam Jik Food Limited",
+            "WORKSHOP 12, 1/F, BLOCK A, ENERGY INDUSTRIAL CENTRE, 2 SAN FUI STREET , YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2994805586,
+            4,
+            "Kam Jik Food Limited",
+            "ROOM A4, 1/F, BLOCK A, ENERGY INDUSTRIAL CENTRE, 2 SAN FUI STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            2994807014,
+            4,
+            "\u5609\u79be\u570b\u969b\u63a7\u80a1\u6709\u9650\u516c\u53f8",
+            "FLAT A8, 2/F, BLOCK A, ENERGY INDUSTRIAL CENTRE, 2 SAN FUI STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2994808451,
+            4,
+            "\u6d77\u946b(\u9999\u6e2f)\u98df\u54c1\u5be6\u696d\u6709\u9650\u516c\u53f8",
+            "FLAT G6, G/F, BLOCK A, ENERGY INDUSTRIAL CENTRE, 2 SAN FUI STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            3694800019,
+            5,
+            "Chun Hing Frozen Food Trading Limited",
+            "ROOM 4-5, G/F, BLOCK A, ENERGY INDUSTRIAL CENTRE, 2 SAN FUI STREET, TONG YAN SAN TSUEN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583010012
+        ]
+      ],
+      "coordinate": [
+        1.9898282725232812,
+        0.39165035755971395,
+        20.75
+      ],
+      "halfSize": [
+        27.734339999966323,
+        32.57948999945074,
+        6.75
+      ]
+    },
+    {
+      "attributes": [
+        583008257,
+        1,
+        [
+          [
+            3694801094,
+            5,
+            "Wellcome",
+            "PORTION OF SHOP NOS. 7-17, 71-74, 78-86, 92-94, 1/F, ASTER COURT, 8 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011080
+        ]
+      ],
+      "coordinate": [
+        1.9896129438322503,
+        0.39155086357255,
+        13.550000190734863
+      ],
+      "halfSize": [
+        34.29712999984622,
+        45.04217000026256,
+        4.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        583008258,
+        1,
+        [
+          [
+            2994803942,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF SHOP NO. 2, G/F, CORONET COURT, 2 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011081
+        ]
+      ],
+      "coordinate": [
+        1.9896279171677451,
+        0.3915467056006456,
+        12.25
+      ],
+      "halfSize": [
+        25.18500000005588,
+        25.059999999590218,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        583008259,
+        2,
+        [
+          [
+            2994803155,
+            4,
+            "Yun Chun Snack",
+            "(FRONT PORTION) SHOP NOS. 4-5, G/F, BEAUTY COURT, 3 HUNG TAI ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3694803513,
+            5,
+            "GOLDEN PEACH FOOD SERVICE LIMITED",
+            "SHOP 6-8, G/F, BEAUTY COURT, 3 HUNG TAI ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011082
+        ]
+      ],
+      "coordinate": [
+        1.9896192449109646,
+        0.39153943213565096,
+        14.5
+      ],
+      "halfSize": [
+        33.30999999959022,
+        31.56499999947846,
+        4.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        583008260,
+        2,
+        [
+          [
+            2994805504,
+            4,
+            "Maxim's Cakes",
+            "SHOP 5, G/F, HUNG FUK SHOPPING CENTRE, HUNG FUK ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3694802079,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 14, G/F, HUNG FUK SHOPPING CENTRE, HUNG FUK ESTATE, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011489
+        ]
+      ],
+      "coordinate": [
+        1.98963764732771,
+        0.3915878883910553,
+        12.75
+      ],
+      "halfSize": [
+        45.27529999986291,
+        39.64636999927461,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        583008261,
+        11,
+        [
+          [
+            2994805452,
+            4,
+            "\u6709\u9593\u5c0f\u5e97",
+            "STALL 19, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2994805461,
+            4,
+            "Sun Sing Kitchen",
+            "SHOP 1, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2994807175,
+            4,
+            "\u5473\u6e90\u51b0\u5ba4",
+            "STALL 2, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-06"
+          ],
+          [
+            2994807616,
+            4,
+            "\u4e0a\u71d7",
+            "STALL 11 (REAR PORTION), GROUND FLOOR, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2994811080,
+            4,
+            "Bo Le Bakery",
+            "STALL 5 & 6, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2994811211,
+            4,
+            "DEWI STORE Indonesia Food",
+            "STALL NO. 7, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3694801933,
+            5,
+            "\u6d2a\u798f\u9bae\u725b\u8089\u8c6c\u4ed4\u561c",
+            "STALL 14, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            3694801988,
+            5,
+            "\u552f\u9bae\u5bb6\u79bd\u5e97",
+            "STALL 16, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3694802361,
+            5,
+            "\u529b\u62d3\u512a\u9bae\u8089\u98df",
+            "STALL 34, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3694804482,
+            5,
+            "\u8fb2\u5bb6\u8c6c",
+            "STALL NO. 17A, G/F, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-19"
+          ],
+          [
+            3594800717,
+            8,
+            "\u4e0a\u71d7",
+            "STALL 11 (FRONT PORTION), GROUND FLOOR, MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011533
+        ]
+      ],
+      "coordinate": [
+        1.9896517426914715,
+        0.39160776689820376,
+        15.199999809265137
+      ],
+      "halfSize": [
+        31.66009999997914,
+        43.0215499997139,
+        4.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        583008262,
+        1,
+        [
+          [
+            4994813233,
+            4,
+            "\u694a\u5927\u59d0\u624b\u5de5\u9903\u5b50",
+            "STALL 13, G/F, HUNG FUK MARKET, HUNG FUK ESTATE, 1 HUNG YUEN ROAD, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011535
+        ]
+      ],
+      "coordinate": [
+        1.9896563679827077,
+        0.39160046633222534,
+        17.049999237060547
+      ],
+      "halfSize": [
+        24.166184999980032,
+        24.387000000104308,
+        6.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        583008263,
+        19,
+        [
+          [
+            2994807449,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 5, G/F., PING YAN SHOPPING CENTRE, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2994807643,
+            4,
+            "SING BREAD TRAIN",
+            "SHOP 3, G/F, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2994808309,
+            4,
+            "\u65b0\u69ae\u8208\u71d2\u81d8",
+            "REAR PORTION (STALL NOS. MK05 & MK06), G/F, MARKET, PING YAN SHOPPING CENTRE, 65 PING HA ROAD, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2994808734,
+            4,
+            "BABA \u6d77\u5357\u96de\u5587\u6c99\u5c08\u9580\u5e97",
+            "SHOP MK37, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-29"
+          ],
+          [
+            2994809180,
+            4,
+            "\u897f\u7c73Go",
+            "STALL NO. MK12, G/F, MARKET, PING YAN SHOPPING CENTRE, PING YAN COURT, 65 PING HA ROAD, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2994810120,
+            4,
+            "\u904e\u6a4b",
+            "STALL NO. MK11, G/F, MARKET, PING YAN SHOPPING CENTRE, PING YAN COURT, 65 PING HA ROAD, PING SHAN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2994811655,
+            4,
+            "Pizza Delicaso",
+            "SHOP MK09, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2994811761,
+            4,
+            "\u8766\u559c\u5b85",
+            "SHOP MK10, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2994811901,
+            4,
+            "\u9189\u6ecb\u5473",
+            "SHOP MK36, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2994812047,
+            4,
+            "Onion Gor",
+            "SHOP MK40, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            4994813376,
+            4,
+            "\u91d1\u83ef\u725b\u8169\u725b\u96dc\u7c89\u9eb5",
+            "SHOP MK7-8, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3694802750,
+            5,
+            "Wellcome",
+            "SHOP NO. 02 (PORTIONS), G/F, PING YAN SHOPPING CENTRE, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            3694804525,
+            5,
+            "\u5927\u773e\u6f01\u696d",
+            "SHOP MK25, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            3694804589,
+            5,
+            "\u5c4f\u6b23\u9bae\u8089",
+            "SHOP MK30, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3694804613,
+            5,
+            "Crazy Beef",
+            "STALL NO. MK23, G/F, MARKET, PING YAN SHOPPING CENTRE, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            3694804686,
+            5,
+            "Brilliant Food",
+            "SHOP MK 32 & 33, GROUND FLOOR, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ],
+          [
+            3694804695,
+            5,
+            "\u9577\u98db\u5bb6\u79bd",
+            "PORTIONS OF SHOP MK19, G/F, PING YAN MARKET, PING YAN COURT, 65 PING HA ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ],
+          [
+            3294800422,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 5, G/F., PING YAN SHOPPING CENTRE, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3594800735,
+            8,
+            "\u65b0\u69ae\u8208\u71d2\u81d8",
+            "FRONT PORTION (STALL NOS. MK05 & MK06), G/F, MARKET, PING YAN SHOPPING CENTRE, 65 PING HA ROAD, PING YAN COURT, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011547
+        ]
+      ],
+      "coordinate": [
+        1.9897464720151097,
+        0.3917564525379354,
+        10.200000762939453
+      ],
+      "halfSize": [
+        80.99150000000373,
+        33.25249999947846,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        583008264,
+        1,
+        [
+          [
+            4994813260,
+            4,
+            "No Record",
+            "SHOP E1, G/F, HIGH PARK, 1 HUNG ON LANE, HUNG SHUI KIU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          583011748
+        ]
+      ],
+      "coordinate": [
+        1.9896196811321918,
+        0.3915662402795007,
+        12.299999237060547
+      ],
+      "halfSize": [
+        86.92511499999091,
+        46.56804736243794,
+        2.4000000953674316
+      ]
+    }
+  ]
+}

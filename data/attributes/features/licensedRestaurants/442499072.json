@@ -1,0 +1,337 @@
+{
+  "features": [
+    {
+      "attributes": [
+        442499072,
+        17,
+        [
+          [
+            2293000983,
+            0,
+            "McDonald's",
+            "SHOP NO. L223, 212A & 328A, LEUNG KING PLAZA, , LEUNG KING ESTATE, NO. 31, TIN KING ROAD, , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293801483,
+            0,
+            "Caf\u00e9 de Coral",
+            "SHOP NO. L209, LEVEL 2, LEUNG KING SHOPPING CENTRE, 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2293801924,
+            0,
+            "Fu Ying Lau",
+            "SHOP L415, 4/F, LEUNG KING COMMERCIAL CENTRE, LEUNG KING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2293802732,
+            0,
+            "Coco Fish & Itamomo Cafe'",
+            "SHOP NO. L238, 2/F, LEUNG KING SHOPPING CENTRE, LEUNG KING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ],
+          [
+            2293803504,
+            0,
+            "Sushi Express",
+            "SHOP NO. L103, LEVEL 1, LEUNG KING PLAZA, LEUNG KING ESTATE, 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2293804330,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. L225A, LEVEL 2, LEUNG KING SHOPPING CENTRE, LEUNG KING ESTATE, NO. 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2293804473,
+            0,
+            "\u4e00\u9686\u548c\u98df\u6599\u7406",
+            "SHOP NO. 224A, LEVEL 2, LEUNG KING PLAZA, LEUNG KING ESTATE, NO. 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2293805795,
+            0,
+            "PIZZA HUT",
+            "SHOP NO. L405, LEVEL 4 , LEUNG KING PLAZA, LEUNG KING ESTATE, 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2293805971,
+            0,
+            "SEASONS CAFE / THE EIGHTIES",
+            "SHOP NOS. L205 AND L206, LEVEL 2, LEUNG KING PLAZA, LEUNG KING ESTATE, NO. 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2293806202,
+            0,
+            "China Land Restaurant",
+            "SHOP NO. L207, LEVEL 2, LEUNG KING PLAZA, LEUNG KING ESTATE, NO. 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ],
+          [
+            2293807250,
+            0,
+            "CAFE LUK HO",
+            "SHOP NO. L414A, LEVEL 4, LEUNG KING PLAZA, LEUNG KING ESTATE, NO. 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            2293807782,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. L414C, 4/F, LEUNG KING PLAZA, NO. 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2293807816,
+            0,
+            "Soup Plus",
+            "SHOP L103A, LEVEL 1, LEUNG KING PLAZA, LEUNG KING ESTATE, 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2293807986,
+            0,
+            "Super Super",
+            "SHOP NO. L104, GROUND FLOOR, COMMERCIAL/ CAR PARK BLOCK, LEUNG KING ESTATE, NO. 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            3193800734,
+            1,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS. L406 & L407, LEVEL 4, LEUNG KING SHOPPING CENTRE, 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-19"
+          ],
+          [
+            3193801685,
+            1,
+            "Coconut Mama",
+            "SHOP L230A, LEVEL 2, LEUNG KING PLAZA, LEUNG KING ESTATE, 31 TIN KING ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            3193802262,
+            1,
+            "\u5fe0\u4ed4\u9eb5",
+            "SHOP NO. L204, LEVEL 2, LEUNG KING PLAZA, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          442499072
+        ]
+      ],
+      "coordinate": [
+        1.989034043563447,
+        0.3910659222883087,
+        22.450000762939453
+      ],
+      "halfSize": [
+        137.05771500011906,
+        61.377999999560416,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        442499073,
+        1,
+        [
+          [
+            2293000585,
+            0,
+            "\u7f8e\u797a",
+            "SHOP NO. S101 & S102, G/F, COMMERCIAL CENTRE, SHAN KING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          442499127
+        ]
+      ],
+      "coordinate": [
+        1.989068362167757,
+        0.3908938785511891,
+        17.149999618530273
+      ],
+      "halfSize": [
+        38.00496999965981,
+        34.1195000000298,
+        1.75
+      ]
+    },
+    {
+      "attributes": [
+        442499074,
+        15,
+        [
+          [
+            2293000576,
+            0,
+            "TASTE HONG KONG",
+            "SHOP NO. 76, G/F, COMMERCIAL COMPLEX, MELODY GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293001153,
+            0,
+            "\u5c0f\u6843\u5712",
+            "G/F, SHOP NOS. 59A,59B,60C,60D, 61 & 62 & THE OSA AT SHOP FRONT, COMMERCIAL COMPLEX, RICHLAND GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293002527,
+            0,
+            "McDonald's",
+            "SHOP NO. 124, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            2293803018,
+            0,
+            "THE VERMICELLI HOUSE",
+            "SHOP NOS. 103-105, LOWER G/F, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2293803179,
+            0,
+            "Nam Kee Roast Goose Gourmet Kitchen",
+            "COOKED FOOD STALL NOS. 1-4 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, SHAN KING ESTATE, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ],
+          [
+            2293806406,
+            0,
+            "Cafe de Coral & Super Super",
+            "SHOP NOS. 121 AND 121A, LOWER GROUND FLOOR, CAR PARK/ COMMERCIAL COMPLEX (ALSO KNOWN AS SHAN KING SHOPPING CENTRE), SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2293806424,
+            0,
+            "Moon Cafe, Soup Plus",
+            "SHOP NO. 120, LG/F, CAR PARK/ COMMERCIAL COMPLEX (ALSO KNOWN AS SHAN KING SHOPPING CENTRE), SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2293806512,
+            0,
+            "\u9038\u7fe0\u8ed2",
+            "SHOP NOS. 119 & 119A, LG/F, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO.1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2293806655,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP 123B, LOWER GROUND FLOOR, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            2293807931,
+            0,
+            "MIZI",
+            "SHOP NO. 123A, LG/F, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2293808004,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "STALL NOS. T-SK9, T-SK10, T-SK11, T-SK12, T-SK19 AND T-SK20, G/F, MARKET PLACE OF SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO.1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2296002209,
+            0,
+            "\u9d3b\u904b\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP NO 16-19, G/F, COMMERCIAL COMPLEX, TSUI LAI GARDEN, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3893808115,
+            0,
+            "WING FUNG CAFE",
+            "STALL NOS. T-SK13, T-SK14, T-SK15, T-SK16, T-SK17 AND T-SK18, GROUND FLOOR, MARKET PLACE OF SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            3193802068,
+            1,
+            "\u6f6e\u9e97\u5712",
+            "STALL T-SK 227, G/F, SHAN KING MARKET, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            3193802712,
+            1,
+            "\u5229\u6771\u8eca\u4ed4\u9eb5",
+            "SHOP 125A & 125B, LOWER GROUND FLOOR, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          442499128
+        ]
+      ],
+      "coordinate": [
+        1.9890851210354792,
+        0.39089320469393596,
+        21.549999237060547
+      ],
+      "halfSize": [
+        60.12792500015348,
+        37.60300000011921,
+        6.15000057220459
+      ]
+    }
+  ]
+}

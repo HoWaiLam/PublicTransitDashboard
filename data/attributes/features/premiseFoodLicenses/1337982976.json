@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1337982976,
+        1,
+        [
+          [
+            2996800451,
+            4,
+            "\u91d1\u6e90\u58eb\u591a",
+            "SHOP NO. 3B (MINOR PORTION), G/F, BLOCK 21, SHA TAU KOK CHUEN, 49 SHUN HING STREET, SHA TAU KOK, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1337983096
+        ]
+      ],
+      "coordinate": [
+        1.993592385659102,
+        0.39350331823261797,
+        12.899999618530273
+      ],
+      "halfSize": [
+        31.530524999834597,
+        25.86305500008166,
+        8.0
+      ]
+    }
+  ]
+}

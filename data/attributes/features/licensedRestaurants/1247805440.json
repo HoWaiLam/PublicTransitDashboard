@@ -1,0 +1,300 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1247805440,
+        1,
+        [
+          [
+            2297807841,
+            0,
+            "ASIA PACIFIC CATERING CORPORATION LIMITED",
+            "STAFF CANTEEN OF 1/F, MAIN BLOCK, SHATIN HOSPITAL, 33 A KUNG KOK ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805445
+        ]
+      ],
+      "coordinate": [
+        1.9933881977745196,
+        0.39091786747446583,
+        8.550000190734863
+      ],
+      "halfSize": [
+        59.34249999979511,
+        35.42700000014156,
+        3.25
+      ]
+    },
+    {
+      "attributes": [
+        1247805441,
+        1,
+        [
+          [
+            2297802660,
+            0,
+            "\u5ddd\u8fa3\u4ed4",
+            "DD 196, LOT NO. 922, G/F, 85 TAI SHUI HANG VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805467
+        ]
+      ],
+      "coordinate": [
+        1.9935771264428244,
+        0.39106399360851374,
+        10.449999809265137
+      ],
+      "halfSize": [
+        6.0004649995826185,
+        4.500645000487566,
+        4.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1247805442,
+        1,
+        [
+          [
+            2297002996,
+            0,
+            "\u5408\u4e00\u8336\u5ea7",
+            "GROUND FLOOR AND THE OUTSIDE SEATING ACCOMMODATION AT THE SHOP SIDE AND SHOP FRONT, NO. 116, TAI SHUI HANG VILLAGE, DD196, HOUSE LOT NO. 896, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805490
+        ]
+      ],
+      "coordinate": [
+        1.9935694113883067,
+        0.39106009496053845,
+        10.850000381469727
+      ],
+      "halfSize": [
+        4.847734999842942,
+        5.167460000142455,
+        4.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1247805443,
+        1,
+        [
+          [
+            2297805234,
+            0,
+            "\u4e8b\u982d\u5a46\u8336\u5ea7",
+            "LOT 895, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 115 TAI SHUI HANG VILLAGE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805500
+        ]
+      ],
+      "coordinate": [
+        1.9935698205539998,
+        0.39105880666270637,
+        10.75
+      ],
+      "halfSize": [
+        4.830999999772757,
+        5.141999999992549,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1247805444,
+        1,
+        [
+          [
+            2297804383,
+            0,
+            "AROY DEE",
+            "DD 196, LOT 916, G/F AND THE OUTSIDE SEATING ACCOMODATION AT SHOPFRONT, 91 TAI SHUI HANG VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805512
+        ]
+      ],
+      "coordinate": [
+        1.9935794292683464,
+        0.39105713945107073,
+        10.399999618530273
+      ],
+      "halfSize": [
+        5.953815000131726,
+        4.445390000008047,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1247805445,
+        1,
+        [
+          [
+            2297806431,
+            0,
+            "Bangkok BBQ",
+            "DD196 LOT 908, G/F, 95 TAI SHUI HANG VILLAGE , MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805520
+        ]
+      ],
+      "coordinate": [
+        1.9935760691189786,
+        0.39105571590933963,
+        10.550000190734863
+      ],
+      "halfSize": [
+        5.962499999906868,
+        4.421500000171363,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1247805446,
+        1,
+        [
+          [
+            2297802475,
+            0,
+            "GOLDEN BOAT THAI FOOD",
+            "DD 196 LOT 906, G/F, 93 TAI SHUI HANG VILLAGE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805529
+        ]
+      ],
+      "coordinate": [
+        1.9935767466785845,
+        0.39105356911845635,
+        10.600000381469727
+      ],
+      "halfSize": [
+        5.915999999735504,
+        4.394000000320375,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1247805447,
+        7,
+        [
+          [
+            2297000990,
+            0,
+            "\u65b0\u91d1\u5bcc\u98f2\u98df\u4e2d\u5fc3",
+            "SHOP NO 20, CHEVALIER GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297001647,
+            0,
+            "\u88d5\u767c\u8336\u9910\u5ef3",
+            "SHOP NOS 23-24, G/F, COMMERCIAL COMPLEX, CHEVALIER GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2297001753,
+            0,
+            "\u9673\u5bcc\u8a18",
+            "SHOP NO 18A1-A2, G/F, SHOPPING CENTRE, CHEVALIER GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2297803265,
+            0,
+            "CHUBBY'S PIZZA",
+            "SHOP NO. S2, 1/F, COMMERCIAL COMPLEX, CHEVALIER GARDEN, 2 HANG SHUN STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2297804851,
+            0,
+            "\u806f\u767c\u7c89\u9eb5",
+            "SHOP 2B, G/F, CHEVALIER GARDEN, 2 HANG SHUN STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2297805030,
+            0,
+            "Fairwood Fast Food",
+            "PORTION A OF RESTAURANT SITE ON THE FIRST FLOOR OF CHEVALIER GARDEN, 2 HANG SHUN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-16"
+          ],
+          [
+            3197000147,
+            1,
+            "\u5fb7\u8208\u8a18\u7c89\u9eb5",
+            "SHOP NO S14, G/F, COMMERCIAL COMPLEX, CHEVALIER GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1247805550
+        ]
+      ],
+      "coordinate": [
+        1.9935709940128592,
+        0.3910412368926727,
+        9.449999809265137
+      ],
+      "halfSize": [
+        69.35000000009313,
+        35.84999999962747,
+        3.9499998092651367
+      ]
+    }
+  ]
+}

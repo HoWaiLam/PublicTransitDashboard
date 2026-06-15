@@ -1,0 +1,4505 @@
+{
+  "features": [
+    {
+      "attributes": [
+        975175680,
+        7,
+        [
+          [
+            2292800094,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 104, LEI MUK SHUE SHOPPING CENTRE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2292800340,
+            0,
+            "\u7da0\u5712\u8336\u9910\u5ef3",
+            "SHOP NO. 103, 1/F, LEI MUK SHUE SHOPPING CENTRE, LEI MUK SHUE ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2292800492,
+            0,
+            "LI MUK SHU RESTAURANT",
+            "SHOP NO. 1, G/F., LEI MUK SHUE SHOPPING CENTRE, LEI MUK SHUE ESTATE, PHASE 3, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2292800997,
+            0,
+            "\u56db\u5b63\u9910\u5ef3",
+            "SHOP 129, LEI MUK SHUE SHOPPING CENTRE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2292801307,
+            0,
+            "Pride Kitchen",
+            "SHOP 130, 1/F, LEI MUK SHUE SHOPPING CENTRE, LEI MUK SHUE ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2292807934,
+            0,
+            "\u8336\u98ef\u865f",
+            "SHOP NO. 128B, LEI MUK SHUE SHOPPING CENTRE, LEI MUK SHUE ESTATE, LEI MUK SHUE, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2292808098,
+            0,
+            "YUET PUN CHUAN KITCHEN",
+            "SHOP 128, 1/F, LEI MUK SHUE SHOPPING CENTRE, LEI MUK SHUE ESTATE, PHASE 3, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975175985
+        ]
+      ],
+      "coordinate": [
+        1.9920586221031413,
+        0.3905721671929222,
+        78.94999694824219
+      ],
+      "halfSize": [
+        63.42152000032365,
+        54.855000000447035,
+        7.350002288818359
+      ]
+    },
+    {
+      "attributes": [
+        975175681,
+        1,
+        [
+          [
+            2292809435,
+            0,
+            "KINGS' DINING",
+            "G/F, NO. 5 LEI SHU ROAD, KWAI CHUNG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176444
+        ]
+      ],
+      "coordinate": [
+        1.992046877923928,
+        0.39053868038168577,
+        66.0
+      ],
+      "halfSize": [
+        3.1200000001117587,
+        5.237835000269115,
+        3.8000011444091797
+      ]
+    },
+    {
+      "attributes": [
+        975175682,
+        4,
+        [
+          [
+            2292000816,
+            0,
+            "\u51a0\u83ef\u7ca5\u9eb5\u5e97",
+            "SHOP NO. 7, G/F, SHEK FONG HOUSE, SHEK WAI KOK ESTATE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2292809620,
+            0,
+            "\u5927\u723a\u71d2\u9d5d",
+            "SHOP 2-3, G/F, SHEK WAI KOK MARKET, SHEK FONG HOUSE, SHEK WAI KOK ESTATE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2292809648,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. 110-115, FIRST FLOOR, SHEK FONG HOUSE, SHEK WAI KOK ESTATE, 3 SHEK WAI KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ],
+          [
+            3192000188,
+            1,
+            "\u5ee3\u767c",
+            "SHOP NO. 4-5, SHEK FONG HOUSE, G/F., SHEK WAI KOK ESTATE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176542
+        ]
+      ],
+      "coordinate": [
+        1.9918403301552603,
+        0.3905115519820161,
+        51.20000076293945
+      ],
+      "halfSize": [
+        55.43287000013515,
+        42.13740500062704,
+        21.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        975175683,
+        16,
+        [
+          [
+            2292001907,
+            0,
+            "Maxim's Palace",
+            "SHOP NO. G27, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2292801583,
+            0,
+            "MX / Yakiniku Like / Starbucks Coffee",
+            "SHOP S10-12, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2292802391,
+            0,
+            "McDonald's Restaurant",
+            "SHOP UNITS S1-2, 2ND FLOOR, LUK YEUNG GALLERIA, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2292805327,
+            0,
+            "Genki Sushi",
+            "SHOP S27, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2292809189,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. S33-34, 2/F , LUK YEUNG GALLERIA, LUK YEUNG SUN CHUEN, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2292809198,
+            0,
+            "HAKKA BISTRO",
+            "SHOP UNITS P9 & P9A, PODIUM FLOOR, LUK YEUNG GALLERIA, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2292809453,
+            0,
+            "TAI HING",
+            "SHOP F21A, 1/F, LUK YEUNG GALLERIA, LUK YEUNG SUN CHUEN, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2292809532,
+            0,
+            "SUSHIRO (TSUEN WAN LUK YEUNG)",
+            "SHOP S20-23, 2/F, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2292809550,
+            0,
+            "TONTONSHOKUDO",
+            "SHOPS S7-8 & 8A, 2/F, LUK YEUNG GALLERIA, LUK YEUNG SUN CHUEN, 22-66 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2292810138,
+            0,
+            "Pho Le",
+            "SHOP UNITS G15-16, G/F, LUK YEUNG GALLERIA, NO. 22-66 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2292810299,
+            0,
+            "SIAO XIANG LONG BEEF NOODLES",
+            "SHOP UNIT F1, 1/F, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            3892810568,
+            0,
+            "Green Tea - Luk Yeung Galleria",
+            "SHOP UNIT. S35, 2/F., LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3192800427,
+            1,
+            "Euro Go Go",
+            "SHOP UNIT S31-32, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            3192803189,
+            1,
+            "TIN KEE DUMPLING",
+            "SHOP UNITS S25-26, 2/F, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ],
+          [
+            3192803240,
+            1,
+            "\u5c0f\u65b9\u7cd6\u751c\u54c1",
+            "SHOP F17, 1/F, LUK YEUNG GALLERIA, 22-66 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            3992803761,
+            1,
+            "Luckin Coffee",
+            "SHOP G36A, G/F, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176738
+        ]
+      ],
+      "coordinate": [
+        1.991756285309953,
+        0.3904829632462581,
+        13.299999237060547
+      ],
+      "halfSize": [
+        57.74849999975413,
+        34.716980000026524,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        975175684,
+        2,
+        [
+          [
+            2292001581,
+            0,
+            "\u552f\u4e00\u9eb5\u5bb6",
+            "SHOP 2A, 1/F., FOU WAH CENTRE, 210 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2292802142,
+            0,
+            "YOSHINOYA",
+            "SHOP NOS. A1, C, E, F & G, G/F & 1/F (PORTION), FOU WAH CENTRE, 210 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176784
+        ]
+      ],
+      "coordinate": [
+        1.991740356297374,
+        0.39048108764481,
+        43.150001525878906
+      ],
+      "halfSize": [
+        20.04050000011921,
+        21.873999999836087,
+        36.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        975175685,
+        1,
+        [
+          [
+            3192802830,
+            1,
+            "\u5fc3\u6021\u8a18",
+            "FRONT PORTION OF G/F, NO.1, CHUNG KWAI CHUNG TSUEN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176795
+        ]
+      ],
+      "coordinate": [
+        1.991967365100428,
+        0.39048185515918266,
+        43.70000076293945
+      ],
+      "halfSize": [
+        4.381810000166297,
+        7.189480000175536,
+        3.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        975175686,
+        1,
+        [
+          [
+            2292801705,
+            0,
+            "\u53f0\u7063\u9eb5",
+            "SHOP A1, G/F, VICTORY COURT, 185-187 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176832
+        ]
+      ],
+      "coordinate": [
+        1.9917326908949713,
+        0.3904711170887519,
+        41.69999694824219
+      ],
+      "halfSize": [
+        20.04096500016749,
+        19.88537499960512,
+        35.0
+      ]
+    },
+    {
+      "attributes": [
+        975175687,
+        5,
+        [
+          [
+            2292000959,
+            0,
+            "\u516d\u548c\u51b0\u5ba4",
+            "SHOP A80-A84 & GA38, TSUEN FUNG CENTRE, 144-172 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2292809091,
+            0,
+            "Nannan Restaurant",
+            "SHOP NO. 1, G/F, TSUEN FUNG CENTRE, 144-172 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2292810253,
+            0,
+            "\u5f01\u5f53\u5c4b",
+            "SHOP A2, G/F, TSUEN FUNG CENTRE, 144-172 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-12"
+          ],
+          [
+            3192803019,
+            1,
+            "\u975a\u9903",
+            "SHOP GA9, G/F, TSUEN FUNG CENTRE, 144-172 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3192803295,
+            1,
+            "\u65b0\u5360\u8a18\u9eb5\u98df",
+            "SHOP B3, 1/F, TSUEN FUNG CENTRE, NOS. 144-172 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176930
+        ]
+      ],
+      "coordinate": [
+        1.9917601070377735,
+        0.3904659583275455,
+        55.45000076293945
+      ],
+      "halfSize": [
+        12.642500000074506,
+        13.036000000312924,
+        47.14999771118164
+      ]
+    },
+    {
+      "attributes": [
+        975175688,
+        1,
+        [
+          [
+            2292801529,
+            0,
+            "\u5bcc\u90fd\u8336\u9910\u5ef3",
+            "G/F, 12 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176978
+        ]
+      ],
+      "coordinate": [
+        1.9917232709393258,
+        0.39046503618328227,
+        16.850000381469727
+      ],
+      "halfSize": [
+        6.919435000047088,
+        9.271924999542534,
+        10.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175689,
+        1,
+        [
+          [
+            3892810540,
+            0,
+            "No Record",
+            "G/F, 7-9 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176984
+        ]
+      ],
+      "coordinate": [
+        1.9917349805545772,
+        0.390465071272505,
+        11.300000190734863
+      ],
+      "halfSize": [
+        7.735450000036508,
+        6.34180000051856,
+        5.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175690,
+        2,
+        [
+          [
+            3892810522,
+            0,
+            "No Record",
+            "SHOP NO.6, G/F, WO SHING BUILDING, NOS. 3 CHUEN LUNG STREET, NOS. 6-22 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            3192801633,
+            1,
+            "SONG",
+            "SHOP NO. 3, G/F, WO SHING BUILDING, 8 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176988
+        ]
+      ],
+      "coordinate": [
+        1.9917248416417301,
+        0.390464163242596,
+        17.149999618530273
+      ],
+      "halfSize": [
+        7.120019999798387,
+        9.418065000325441,
+        11.25
+      ]
+    },
+    {
+      "attributes": [
+        975175691,
+        2,
+        [
+          [
+            2292805266,
+            0,
+            "\u4e00\u4eba\u71d2\u8089\u5c4b",
+            "1/F, CHAU HOP SHING BUILDING, 2-8 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            3992803813,
+            1,
+            "\u963f\u4e00\u8c6c\u6252\u9178\u8fa3\u7c73\u7dab",
+            "PORTION OF SHOP NO.2, G/F, CHAU HOP SHING BUILDING, NOS. 2-8 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176989
+        ]
+      ],
+      "coordinate": [
+        1.9917403037056247,
+        0.39046326196873166,
+        41.30000305175781
+      ],
+      "halfSize": [
+        12.903500000014901,
+        15.162499999627471,
+        35.0
+      ]
+    },
+    {
+      "attributes": [
+        975175692,
+        1,
+        [
+          [
+            2292809064,
+            0,
+            "\u725b\u516c\u9928",
+            "SHOP A & B, G/F, NOS. 21-25 TSUEN WAN MARKET STREET & NOS. 9-13 CHUEN LUNG STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975176991
+        ]
+      ],
+      "coordinate": [
+        1.9917187420816573,
+        0.3904633705327199,
+        16.649999618530273
+      ],
+      "halfSize": [
+        8.51700000045821,
+        11.191499999724329,
+        11.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175693,
+        1,
+        [
+          [
+            2292803163,
+            0,
+            "\u751f\u9f8d",
+            "G/F, 28 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177031
+        ]
+      ],
+      "coordinate": [
+        1.9917265885084432,
+        0.3904634587319181,
+        18.200000762939453
+      ],
+      "halfSize": [
+        6.328070000279695,
+        8.314145000651479,
+        12.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        975175694,
+        1,
+        [
+          [
+            2292810059,
+            0,
+            "\u5bf6\u5b57\u865f\u5200\u524a\u9eb5",
+            "G/F, 32 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177047
+        ]
+      ],
+      "coordinate": [
+        1.991727922959623,
+        0.39046264412300463,
+        16.950000762939453
+      ],
+      "halfSize": [
+        6.124119999818504,
+        8.447339999489486,
+        11.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        975175695,
+        1,
+        [
+          [
+            2292803419,
+            0,
+            "Vision 8",
+            "G/F, 34 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177054
+        ]
+      ],
+      "coordinate": [
+        1.9917285713597086,
+        0.3904622618617495,
+        17.149999618530273
+      ],
+      "halfSize": [
+        6.46496000001207,
+        8.609260000288486,
+        11.25
+      ]
+    },
+    {
+      "attributes": [
+        975175696,
+        1,
+        [
+          [
+            2292801006,
+            0,
+            "\u5146\u548c\u8336\u9910\u5ef3",
+            "G/F, 36 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177057
+        ]
+      ],
+      "coordinate": [
+        1.991729320304785,
+        0.39046186868482585,
+        17.30000114440918
+      ],
+      "halfSize": [
+        6.6084600002504885,
+        8.721789999864995,
+        11.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        975175697,
+        3,
+        [
+          [
+            2292002964,
+            0,
+            "CHUI CHOW TASTE",
+            "G/F, NO. 27 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            2292808122,
+            0,
+            "\u6f6e\u6a02\u9b5a\u86cb\u725b\u4ec0\u7c89\u9eb5",
+            "G/F, NO. 29 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3192802955,
+            1,
+            "\u5289\u8208\u8a18",
+            "SHOP E, G/F, TAK YAN BUILDING, STAGE EIGHT, NO. 27-37 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177058
+        ]
+      ],
+      "coordinate": [
+        1.9917219261631582,
+        0.3904616959858152,
+        18.80000114440918
+      ],
+      "halfSize": [
+        5.936509999912232,
+        9.055560000240803,
+        13.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        975175698,
+        1,
+        [
+          [
+            2292803039,
+            0,
+            "Tai Hing",
+            "SHOP A, G/F, SHUI SANG BUILDING, 13-19 CHUNG ON STREET & 38-40 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177061
+        ]
+      ],
+      "coordinate": [
+        1.9917311464101728,
+        0.39046152051468935,
+        25.55000114440918
+      ],
+      "halfSize": [
+        7.6970000001601875,
+        7.3164650006219745,
+        19.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175699,
+        2,
+        [
+          [
+            2292001703,
+            0,
+            "Cafe' de Coral",
+            "1/F, CHEONG YIU MANSION, NOS. 163-174, CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3192000337,
+            1,
+            "\u5343\u8272\u8eca\u4ed4\u9eb5",
+            "G/F., NO. 49 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177072
+        ]
+      ],
+      "coordinate": [
+        1.9917450005098978,
+        0.39045930859229677,
+        41.20000076293945
+      ],
+      "halfSize": [
+        14.355999999679625,
+        18.610999999567866,
+        34.79999923706055
+      ]
+    },
+    {
+      "attributes": [
+        975175700,
+        1,
+        [
+          [
+            2292809125,
+            0,
+            "\u9577\u65fa\u6ef7\u5473\u5927\u738b",
+            "SHOP A, G/F, TSUEN FUNG BUILDING, NOS. 39-43A TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177076
+        ]
+      ],
+      "coordinate": [
+        1.9917243398852706,
+        0.3904605571448353,
+        31.150001525878906
+      ],
+      "halfSize": [
+        9.476205000188202,
+        10.739605000242591,
+        25.75
+      ]
+    },
+    {
+      "attributes": [
+        975175701,
+        1,
+        [
+          [
+            2292808821,
+            0,
+            "TASTE YUMMY",
+            "G/F , 45 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177109
+        ]
+      ],
+      "coordinate": [
+        1.9917261700150173,
+        0.3904595660252567,
+        16.5
+      ],
+      "halfSize": [
+        6.579275000374764,
+        9.051300000399351,
+        11.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175702,
+        1,
+        [
+          [
+            2292804689,
+            0,
+            "GOLDEN THAI FOOD",
+            "3/F, SHUI SANG BUILDING, 13-19 CHUNG ON STREET AND 38-40 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177111
+        ]
+      ],
+      "coordinate": [
+        1.9917308163741305,
+        0.3904595587344523,
+        25.099998474121094
+      ],
+      "halfSize": [
+        10.260350000113249,
+        7.264570000581443,
+        19.5
+      ]
+    },
+    {
+      "attributes": [
+        975175703,
+        1,
+        [
+          [
+            3192802609,
+            1,
+            "\u6f6e\u9f8d\u5712",
+            "G/F, NO. 47 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177113
+        ]
+      ],
+      "coordinate": [
+        1.9917268395972516,
+        0.39045920346686047,
+        16.75
+      ],
+      "halfSize": [
+        6.579279999714345,
+        9.051305000670254,
+        11.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175704,
+        3,
+        [
+          [
+            2292003231,
+            0,
+            "\u9280\u9f8d\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "G/F, 22&20 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2292805071,
+            0,
+            "KOWLOON RESTAURANT",
+            "G/F (PORTION A), SAM WO BUILDING, 14-16 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            3992803822,
+            1,
+            "MQ \u7d20\u751c",
+            "SHOP A6 & A7 ON GROUND FLOOR, SAM WO BUILDING, NOS 14-24 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177150
+        ]
+      ],
+      "coordinate": [
+        1.9917353292861502,
+        0.39045544419737904,
+        27.25
+      ],
+      "halfSize": [
+        13.111500000115484,
+        16.791500000283122,
+        21.75
+      ]
+    },
+    {
+      "attributes": [
+        975175705,
+        1,
+        [
+          [
+            2292802920,
+            0,
+            "\u9023\u548c\u71d2\u5473\u9910\u5ef3",
+            "G/F, 142 HOI PA STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177261
+        ]
+      ],
+      "coordinate": [
+        1.9917187792957423,
+        0.3904469955705621,
+        16.600000381469727
+      ],
+      "halfSize": [
+        6.381070000119507,
+        8.437749999575317,
+        11.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        975175706,
+        1,
+        [
+          [
+            2292809028,
+            0,
+            "Fu Wah Cafe",
+            "MAJOR PORTION OF SHOP A, B AND C, G/F, CHAU WAN BUILDING, NOS. 27, 31 AND 33 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177269
+        ]
+      ],
+      "coordinate": [
+        1.991721842872109,
+        0.39044449283697724,
+        23.5
+      ],
+      "halfSize": [
+        12.484575000125915,
+        16.324920000508428,
+        18.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        975175707,
+        1,
+        [
+          [
+            2292805390,
+            0,
+            "\u5927\u6efe\u53cb",
+            "SHOP A & B, G/F, KAPOK MANSION, 125-133 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177271
+        ]
+      ],
+      "coordinate": [
+        1.991760498673458,
+        0.3904440327673684,
+        29.69999885559082
+      ],
+      "halfSize": [
+        15.885784999933094,
+        16.134999999776483,
+        23.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175708,
+        2,
+        [
+          [
+            3192801013,
+            1,
+            "\u6b63\u54c1\u8543\u8304\u6e6f\u9eb5\u5e97",
+            "SHOP D, G/F, WANSON HOUSE, 115-119 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            3192802690,
+            1,
+            "SAMMI #000000",
+            "SHOP C, E, G/F, WANSON HOUSE, 117-121 CASTLE PEAK ROAD TSUEN WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177285
+        ]
+      ],
+      "coordinate": [
+        1.9917622952895118,
+        0.3904414920876223,
+        28.349998474121094
+      ],
+      "halfSize": [
+        11.861000000033528,
+        14.223809999413788,
+        21.75
+      ]
+    },
+    {
+      "attributes": [
+        975175709,
+        1,
+        [
+          [
+            2292807749,
+            0,
+            "\u4f55\u5bcc\u8a18\u9eb5\u5bb6",
+            "G/F, TSUEN WAN BUILDING, 37 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177292
+        ]
+      ],
+      "coordinate": [
+        1.9917193694945394,
+        0.39044061919131545,
+        16.5
+      ],
+      "halfSize": [
+        11.599239999894053,
+        10.99432499986142,
+        11.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        975175710,
+        1,
+        [
+          [
+            2292807174,
+            0,
+            "Sunshine Restaurant",
+            "G/F, NO. 122 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177333
+        ]
+      ],
+      "coordinate": [
+        1.9917690047930092,
+        0.3904306561447993,
+        44.69999694824219
+      ],
+      "halfSize": [
+        29.455524999648333,
+        20.53766999952495,
+        39.0
+      ]
+    },
+    {
+      "attributes": [
+        975175711,
+        4,
+        [
+          [
+            2292808900,
+            0,
+            "Cafe Hunan",
+            "1/F, FULLYTECH CENTRE, NO. 18 TAK HOI STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            3192800214,
+            1,
+            "Chuen Mei Delicious",
+            "SHOP F1, G/F, FULLYTECH CENTRE, 18 TAK HOI STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            3192800472,
+            1,
+            "\u91cd\u6176\u71d2",
+            "SHOP F2, G/F, FULLYTECH CENTRE, 18 TAK HOI STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            3192800913,
+            1,
+            "\u5bcc\u5091\u725b\u8169",
+            "SHOP B, G/F, FULLYTECH CENTRE, 18 TAK HOI STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177340
+        ]
+      ],
+      "coordinate": [
+        1.9917243545495154,
+        0.3904299406288005,
+        29.75
+      ],
+      "halfSize": [
+        13.134880000259727,
+        14.746114999987185,
+        25.25
+      ]
+    },
+    {
+      "attributes": [
+        975175712,
+        1,
+        [
+          [
+            2292800942,
+            0,
+            "\u96f2\u7c73\u5bb6",
+            "G/F, NO. 17 SZE PEI SQUARE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177360
+        ]
+      ],
+      "coordinate": [
+        1.9917210549598223,
+        0.3904274432778126,
+        11.649999618530273
+      ],
+      "halfSize": [
+        6.45049999980256,
+        7.556499999947846,
+        7.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175713,
+        1,
+        [
+          [
+            2291805418,
+            0,
+            "CANADIAN PIZZA",
+            "SHOP NO. 211, 1/F, FU PIK HOUSE, TAI WO HAU ESTATE, NO. 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177363
+        ]
+      ],
+      "coordinate": [
+        1.9918399915764469,
+        0.3904229883038135,
+        44.900001525878906
+      ],
+      "halfSize": [
+        15.801500000059605,
+        33.172500000335276,
+        37.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        975175714,
+        1,
+        [
+          [
+            2292804485,
+            0,
+            "\u5bcc\u83ef\u9910\u5ef3",
+            "G/F, 16 SZE PEI SQUARE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177366
+        ]
+      ],
+      "coordinate": [
+        1.9917221372399776,
+        0.3904269702469685,
+        12.0
+      ],
+      "halfSize": [
+        4.8016050001606345,
+        7.886004999279976,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        975175715,
+        1,
+        [
+          [
+            2292801866,
+            0,
+            "\u5fb7\u767c\u9f8d\u7ca5\u9eb5\u5e97",
+            "G/F, 11 SZE PEI SQUARE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177388
+        ]
+      ],
+      "coordinate": [
+        1.9917276730386773,
+        0.3904251887363782,
+        20.450000762939453
+      ],
+      "halfSize": [
+        7.344000000040978,
+        5.881005000323057,
+        15.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        975175716,
+        5,
+        [
+          [
+            2292001615,
+            0,
+            "\u5de1\u5473",
+            "G/F, 162 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2292808894,
+            0,
+            "\u70af\u8a18",
+            "SHOP 10, G/F, KWAN SHING BUILDING, 142-166 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            3192803198,
+            1,
+            "\u81e8\u5bb6\u9eb5\u9928",
+            "SHOP 8, G/F , KWAN SHING BUILDING, 142-166 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            3192803222,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP 7, G/F, KWAN SHING BUILDING, NOS. 142-166 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            3992803734,
+            1,
+            "\u4e94\u8c37\u6f01\u7c89",
+            "PORTION OF SHOP NO. 12, G/F, KWAN SHING BUILDING, 142-166 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177400
+        ]
+      ],
+      "coordinate": [
+        1.9917817908330082,
+        0.3904235718206479,
+        16.350000381469727
+      ],
+      "halfSize": [
+        8.675970000214875,
+        9.739324999973178,
+        10.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175717,
+        1,
+        [
+          [
+            3192800232,
+            1,
+            "\u9999\u6e2f\u4ed4\u9b5a\u65e6\u738b(\u7ae0\u8a18)",
+            "G/F, 277 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177405
+        ]
+      ],
+      "coordinate": [
+        1.9917220430343734,
+        0.39042315699258656,
+        14.899999618530273
+      ],
+      "halfSize": [
+        5.516119999811053,
+        8.0325600001961,
+        10.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175718,
+        1,
+        [
+          [
+            2292001217,
+            0,
+            "\u5fb7\u767c\u7ca5\u5e97",
+            "9B, G/F., SZE PEI SQUARE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177407
+        ]
+      ],
+      "coordinate": [
+        1.9917265275095641,
+        0.39042331290939775,
+        20.700000762939453
+      ],
+      "halfSize": [
+        7.831859999801964,
+        5.264615000225604,
+        16.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        975175719,
+        1,
+        [
+          [
+            2292808876,
+            0,
+            "\u6d77\u91d1 \u54c8\u723e\u6ff1\u9903\u5b50\u9928",
+            "G/F & C/L, 281 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177413
+        ]
+      ],
+      "coordinate": [
+        1.9917238436307798,
+        0.3904222983337047,
+        15.050000190734863
+      ],
+      "halfSize": [
+        5.666925000026822,
+        8.049130000174046,
+        10.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        975175720,
+        1,
+        [
+          [
+            2217000808,
+            0,
+            "\u806f\u70b3",
+            "G/F., 1 KIN HONG STREET, PENG CHAU, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177414
+        ]
+      ],
+      "coordinate": [
+        1.991942350823447,
+        0.390419651596494,
+        77.94999694824219
+      ],
+      "halfSize": [
+        31.21086491830647,
+        23.714466784207616,
+        52.94999694824219
+      ]
+    },
+    {
+      "attributes": [
+        975175721,
+        1,
+        [
+          [
+            2292806913,
+            0,
+            "Sushi Express",
+            "PORTIONS OF GROUND FLOOR AND BASEMENT, HANG SENG TSUEN WAN BUILDING, 289 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177419
+        ]
+      ],
+      "coordinate": [
+        1.9917277397784634,
+        0.39042088872421077,
+        54.400001525878906
+      ],
+      "halfSize": [
+        17.879499999806285,
+        12.921210000291467,
+        49.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        975175722,
+        2,
+        [
+          [
+            2291000615,
+            0,
+            "\u6b61\u805a\u9910\u5ef3\u5c0f\u5eda",
+            "G/F, 23 TEXACO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291000642,
+            0,
+            "\u5fb7\u767c\u9cf3\u51f0\u7ca5\u9eb5",
+            "G/F., 25 TEXACO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177420
+        ]
+      ],
+      "coordinate": [
+        1.9918267025250809,
+        0.3904211345032944,
+        16.5
+      ],
+      "halfSize": [
+        9.992999999783933,
+        9.41399999987334,
+        10.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175723,
+        1,
+        [
+          [
+            2292803631,
+            0,
+            "C. Y. RESTAURANT",
+            "SHOP NO.4, G/F, TAK FAM BUILDING, 2-20 TAK WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177423
+        ]
+      ],
+      "coordinate": [
+        1.9917338336033557,
+        0.3904208647959979,
+        15.34999942779541
+      ],
+      "halfSize": [
+        8.47800000011921,
+        7.230000000447035,
+        10.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175724,
+        1,
+        [
+          [
+            3991802169,
+            1,
+            "BO FAN LAI",
+            "SHOP E & F, G/F, TAK TAI COURT, 3 TAK TAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177431
+        ]
+      ],
+      "coordinate": [
+        1.9918270507852445,
+        0.39041863630909746,
+        39.45000076293945
+      ],
+      "halfSize": [
+        17.012719999998808,
+        13.510870000347495,
+        33.04999923706055
+      ]
+    },
+    {
+      "attributes": [
+        975175725,
+        1,
+        [
+          [
+            2292809657,
+            0,
+            "\u6771\u6c5f",
+            "290, G/F., 290-292, M/F, SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177439
+        ]
+      ],
+      "coordinate": [
+        1.9917179688551427,
+        0.3904187948934733,
+        15.5
+      ],
+      "halfSize": [
+        6.687834999989718,
+        8.616884999908507,
+        10.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175726,
+        3,
+        [
+          [
+            2292800988,
+            0,
+            "Yin Yue",
+            "(PORTION) 30/F, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2292810110,
+            0,
+            "Dragon Delicious \u2022 Fusion",
+            "4/F (PORTION), PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2292810323,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP B119A ON THE BASEMENT 1/F, THE PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177449
+        ]
+      ],
+      "coordinate": [
+        1.9917814366075226,
+        0.39041450786316256,
+        61.94999694824219
+      ],
+      "halfSize": [
+        45.22800000011921,
+        32.041230000555515,
+        40.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        975175727,
+        1,
+        [
+          [
+            2292000117,
+            0,
+            "\u838e\u6a02\u7f8e",
+            "NO. 294 SHA TSUI ROAD, G/F & M/F, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177451
+        ]
+      ],
+      "coordinate": [
+        1.991719414531833,
+        0.39041803243574136,
+        16.69999885559082
+      ],
+      "halfSize": [
+        6.704005000181496,
+        8.591204999946058,
+        12.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        975175728,
+        3,
+        [
+          [
+            3191800387,
+            1,
+            "\u6ecb\u5473\u68e7",
+            "SHOP F2, G/F, TAK TAI BUILDING, 8 TAK TAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3191801317,
+            1,
+            "\u4e0a\u6d77\u574a",
+            "SHOP H1, G/F, TAK TAI BUILDING, 35-43 TEXACO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3191801423,
+            1,
+            "Delicious Sweet Cart Noodle",
+            "SHOP G3-G5, G/F, TAK TAI BUILDING, 23 TAI HA STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177471
+        ]
+      ],
+      "coordinate": [
+        1.9918239597129352,
+        0.3904137401114113,
+        41.5
+      ],
+      "halfSize": [
+        23.339000000152737,
+        23.154500000178814,
+        35.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        975175729,
+        1,
+        [
+          [
+            3192800825,
+            1,
+            "SHUNDE CUISINE",
+            "SHOP 2, G/F, KWONG YICK BUILDING, 315-323 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177494
+        ]
+      ],
+      "coordinate": [
+        1.9917418662880897,
+        0.3904129483999125,
+        25.400001525878906
+      ],
+      "halfSize": [
+        6.894574999809265,
+        9.26621999964118,
+        20.5
+      ]
+    },
+    {
+      "attributes": [
+        975175730,
+        1,
+        [
+          [
+            2292000311,
+            0,
+            "\u7063\u5cb8\u9910\u5ef3",
+            "FLAT C ON GROUND FLOOR, NO. 333-335 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177516
+        ]
+      ],
+      "coordinate": [
+        1.9917468432333887,
+        0.3904102564908167,
+        16.0
+      ],
+      "halfSize": [
+        8.796609999611974,
+        10.345999999903142,
+        11.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175731,
+        2,
+        [
+          [
+            2291802792,
+            0,
+            "\u91d1\u5712\u9910\u5ef3",
+            "SHOP B, G/F & COCKLOFT, YEN YA BUILDING, 5-17 TAI HA STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2291803023,
+            0,
+            "\u7d05\u8336",
+            "SHOP D, E & F, G/F, YEN YA BUILDING, 5-17 TAI HA STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177536
+        ]
+      ],
+      "coordinate": [
+        1.9918214616166847,
+        0.39040728853349976,
+        39.45000076293945
+      ],
+      "halfSize": [
+        14.56705000018701,
+        17.12000000011176,
+        33.04999923706055
+      ]
+    },
+    {
+      "attributes": [
+        975175732,
+        1,
+        [
+          [
+            3192802186,
+            1,
+            "\u52a0\u52a0\u6a02\u7c89\u9eb5",
+            "G/F, WAH HING HOUSE, 341 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177540
+        ]
+      ],
+      "coordinate": [
+        1.9917509244232294,
+        0.39040786738992533,
+        16.100000381469727
+      ],
+      "halfSize": [
+        8.459119999781251,
+        9.649425000883639,
+        11.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175733,
+        1,
+        [
+          [
+            2291801115,
+            0,
+            "\u6c38\u5229\u9910\u5ef3",
+            "G/F, 53 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177544
+        ]
+      ],
+      "coordinate": [
+        1.9918182200987467,
+        0.3904080951014468,
+        18.450000762939453
+      ],
+      "halfSize": [
+        7.850719999987632,
+        5.54748999979347,
+        12.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        975175734,
+        2,
+        [
+          [
+            2291805117,
+            0,
+            "\u9053\u65e5\u672c\u6599\u7406",
+            "SHOP B, G/F, WANG WAH MANSION, NOS. 57/65 TEXACO ROAD, NO. 1 TAI HA STREET & NOS. 1/9 TAI WO HAU ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3191000136,
+            1,
+            "\u7965\u88d5\u8336\u9910\u5ef3",
+            "FLAT I, G/F, WANG WAH MANSION, DD 443, LOT 465, TEXACO ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177561
+        ]
+      ],
+      "coordinate": [
+        1.9918175191446914,
+        0.39040397314591035,
+        32.349998474121094
+      ],
+      "halfSize": [
+        19.57700000004843,
+        17.82799999974668,
+        25.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        975175735,
+        1,
+        [
+          [
+            2291803184,
+            0,
+            "\u548c\u8a18\u51b0\u5ba4",
+            "SHOP NO. 10, 11A1, 11A, 11B, 11C, G/F, HUTCHISON ESTATE, 482 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177579
+        ]
+      ],
+      "coordinate": [
+        1.9920284679597842,
+        0.390398966636878,
+        16.25
+      ],
+      "halfSize": [
+        23.558506051136646,
+        32.87966000009328,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        975175736,
+        2,
+        [
+          [
+            2292809374,
+            0,
+            "BBQ Outlet",
+            "FRONT PORTION OF SHOP NO. F5, G/F, BLOCK F, SHEK PIK RESETTLEMENT, 12-26 LUEN YAN STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3192801590,
+            1,
+            "82",
+            "SHOP 24, G/F, SHEK PIK RESETTLEMENT, 12-26 LUEN YAN STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177638
+        ]
+      ],
+      "coordinate": [
+        1.991725725168235,
+        0.390391853024254,
+        13.100000381469727
+      ],
+      "halfSize": [
+        5.478004999924451,
+        8.006219999864697,
+        8.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175737,
+        1,
+        [
+          [
+            3191801177,
+            1,
+            "CHUAN CHUAN HOUSE",
+            "SHOP E, G/F, CHUN PO BUILDING, 1009 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177649
+        ]
+      ],
+      "coordinate": [
+        1.9920039704459565,
+        0.390388821591885,
+        23.649999618530273
+      ],
+      "halfSize": [
+        11.414289999753237,
+        9.534169999882579,
+        13.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175738,
+        2,
+        [
+          [
+            3191000224,
+            1,
+            "\u6d2a\u767c",
+            "SHOP NO. 4A, G/F, CHEONG LEE BUILDING, 11-13 KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3191801566,
+            1,
+            "Family Restaurant",
+            "SHOP 3, G/F, CHEONG LI BUILDING, 11-13 KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177652
+        ]
+      ],
+      "coordinate": [
+        1.9919894722318323,
+        0.3903880431300669,
+        20.700000762939453
+      ],
+      "halfSize": [
+        7.851214999798685,
+        11.311094999313354,
+        10.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        975175739,
+        3,
+        [
+          [
+            2291801708,
+            0,
+            "AROY DEE THAI",
+            "SHOP I1, G/F, KWAI FUNG HOUSE, 5-11 PING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ],
+          [
+            3191800697,
+            1,
+            "Here",
+            "SHOP A, G/F, KWAI FUNG HOUSE, 7 PING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-02-27"
+          ],
+          [
+            3191801760,
+            1,
+            "\u65b0\u306e\u5343\u5ea7",
+            "PORTION D2 OF SHOP D, G/F, KWAI FUNG HOUSE, NOS. 456-458 CASTLE PEAK ROAD, 3, 7-9 & 13-21 PING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177655
+        ]
+      ],
+      "coordinate": [
+        1.9920372809941373,
+        0.3903872368972562,
+        38.95000076293945
+      ],
+      "halfSize": [
+        37.26699999999255,
+        9.770499999634922,
+        24.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        975175740,
+        2,
+        [
+          [
+            2291000518,
+            0,
+            "\u6cf0\u65fa\u6cf0\u570b\u5c0f\u83dc",
+            "G/F, 127 WO TONG TSUI STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3191801414,
+            1,
+            "\u725b\u96dc\u4f6c\u7c89\u9eb5",
+            "SHOP D, G/F, KAM WAH HOUSE, 127-133 WO TONG TSUI STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177657
+        ]
+      ],
+      "coordinate": [
+        1.991993676342467,
+        0.3903867342117892,
+        23.299999237060547
+      ],
+      "halfSize": [
+        6.028005000203848,
+        11.555100000463426,
+        13.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        975175741,
+        1,
+        [
+          [
+            2291803485,
+            0,
+            "THE VERMICELLI HOUSE",
+            "PORTION B2 OF SHOP B, G/F, KWONG FAI BUILDING, 7-9 KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177659
+        ]
+      ],
+      "coordinate": [
+        1.9919915825836143,
+        0.39038738159851294,
+        49.54999923706055
+      ],
+      "halfSize": [
+        8.29488500021398,
+        5.3568449998274446,
+        24.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        975175742,
+        2,
+        [
+          [
+            2291000323,
+            0,
+            "\u963f\u5abd\u7121\u9aa8\u6d77\u5357\u9e21",
+            "G/F, 16 PING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291002426,
+            0,
+            "Haq  Restaurant",
+            "SHOP 6A, G/F, MING YIN BUILDING, NO. 4, 6 & 16, PING LAI PATH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177678
+        ]
+      ],
+      "coordinate": [
+        1.992037132681153,
+        0.3903827674852307,
+        29.30000114440918
+      ],
+      "halfSize": [
+        30.812340000178665,
+        11.269770000129938,
+        14.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175743,
+        1,
+        [
+          [
+            2291804239,
+            0,
+            "Lemon Cafe",
+            "SHOP NOS. 10-12, G/F, HING KOK HOUSE BLOCK 1, KWAI HING ESTATE, NO. 2 WO KWAI LANE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177697
+        ]
+      ],
+      "coordinate": [
+        1.9919875673960632,
+        0.390376534675615,
+        46.75
+      ],
+      "halfSize": [
+        31.743000000249594,
+        20.748999999836087,
+        37.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        975175744,
+        3,
+        [
+          [
+            2291000989,
+            0,
+            "Euphoric Banquet",
+            "SHOP NO. 101, KWAI HING SHOPPING CENTRE, KWAI HING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291801461,
+            0,
+            "\u6771\u88d5\u71d2\u814a\u98ef\u5e97",
+            "SHOP NO. 8, G/F, KWAI HING SHOPPING CENTRE, KWAI HING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            2291803865,
+            0,
+            "Lok Yuen Noodles Restaurant",
+            "SHOP NO. 13-14, G/F, KWAI HING SHOPPING CENTRE, KWAI HING ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177719
+        ]
+      ],
+      "coordinate": [
+        1.9919959357397294,
+        0.3903717770489432,
+        14.050000190734863
+      ],
+      "halfSize": [
+        20.973000000230968,
+        24.23950000014156,
+        5.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175745,
+        1,
+        [
+          [
+            2291800796,
+            0,
+            "\u592a\u5b50\u5c0f\u5eda\u9910\u5ef3",
+            "SHOPS A1-B1, G/F, WAI YIN BUILDING, 432-436 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177729
+        ]
+      ],
+      "coordinate": [
+        1.9920366103438276,
+        0.3903705150279333,
+        38.349998474121094
+      ],
+      "halfSize": [
+        18.29293499980122,
+        20.161839999258518,
+        22.25
+      ]
+    },
+    {
+      "attributes": [
+        975175746,
+        1,
+        [
+          [
+            2292809851,
+            0,
+            "Joy Luck Club",
+            "LG/F & G/F, PRIMROSE HILL, NO. 168 KWOK SHUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177762
+        ]
+      ],
+      "coordinate": [
+        1.9919428400036983,
+        0.390468983422465,
+        45.849998474121094
+      ],
+      "halfSize": [
+        36.966970412642695,
+        42.12192500010133,
+        16.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175747,
+        1,
+        [
+          [
+            2292809286,
+            0,
+            "\u592a\u5b50\u7f8e\u98df\u574a",
+            "STALL NOS. 34 & 35, LG/F, LEI MUK SHUE MARKET, LEI MUK SHUE ESTATE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177764
+        ]
+      ],
+      "coordinate": [
+        1.9920532526343186,
+        0.3905688012430181,
+        73.0
+      ],
+      "halfSize": [
+        76.70000000018626,
+        73.64881500042975,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        975175748,
+        4,
+        [
+          [
+            2292002308,
+            0,
+            "MCDONALD'S",
+            "SHOP NO. 324, PODIUM LEVEL, SHEK WAI KOK SHOPPING CENTRE, SHEK WAI KOK ESTATE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2292807156,
+            0,
+            "\u9298\u8a18\u7f8e\u98df",
+            "SHOP 325, PODIUM FLOOR, SHOPPING CENTRE, SHEK WAI KOK ESTATE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2292809745,
+            0,
+            "CAFE DE PAPA",
+            "SHOP NO. 103, GROUND FLOOR, SHOPPING CENTRE 1, SHEK WAI KOK ESTATE, 3 SHEK WAI KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2292809949,
+            0,
+            "JASMINE CUISINE",
+            "SHOP 109, G/F, SHEK WAI KOK SHOPPING CENTRE, SHEK WAI KOK ESTATE, 3 SHEK WAI KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177768
+        ]
+      ],
+      "coordinate": [
+        1.9918295644915276,
+        0.390509707846818,
+        33.400001525878906
+      ],
+      "halfSize": [
+        37.945999999996275,
+        28.53038000036031,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        975175749,
+        2,
+        [
+          [
+            3192000957,
+            1,
+            "\u862d\u82d1\u994e\u9928",
+            "SHOP NO. 10, G/F, BRIGHTON PLACE, 23 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3192801475,
+            1,
+            "\u7d20\u6085\u8ed2",
+            "SHOP NO. 15, G/F, BRIGHTON PLACE, 23 SHIU WO STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177776
+        ]
+      ],
+      "coordinate": [
+        1.9917260617350043,
+        0.39047043744693316,
+        13.09999942779541
+      ],
+      "halfSize": [
+        22.905410000123084,
+        20.475555000826716,
+        7.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175750,
+        6,
+        [
+          [
+            2292806135,
+            0,
+            "CAFE SAMMI",
+            "SHOP 2, G/F, WALDORF CENTRE, 170-184 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ],
+          [
+            2292806676,
+            0,
+            "XIAO YU TIAN FAN XIAO GUAN",
+            "SHOP 30-60A, 2/F, WALDORF CENTRE, 170-184 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2292806834,
+            0,
+            "\u6b23\u69ae\u35ce\u5561\u5ba4",
+            "SHOP 42 & 51, 1/F, WALDORF CENTRE, 170-184 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-26"
+          ],
+          [
+            3192802265,
+            1,
+            "Wonderful Cafe",
+            "SHOP 45 & 48, 1/F, WALDORF CENTRE, 170-184 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            3192802405,
+            1,
+            "LO YAU KEE",
+            "SHOP 44 & 49, 1/F, WALDORF CENTRE, 170-184 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3192802900,
+            1,
+            "Burger One",
+            "SHOP 41 AND 52, 1/F, WALDORF CENTRE, 170-184 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177778
+        ]
+      ],
+      "coordinate": [
+        1.991763107550086,
+        0.3904585312553866,
+        14.050000190734863
+      ],
+      "halfSize": [
+        25.756000000052154,
+        25.896499999798834,
+        7.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        975175751,
+        5,
+        [
+          [
+            2292001758,
+            0,
+            "Pokka Cafe",
+            "NO. 1-6, G/F, KOLOUR TSUEN WAN II, TWTL 301, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2292804290,
+            0,
+            "Donichi",
+            "SHOP G1-G2, G/F, CITY LANDMARK II, 67-95 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2292808715,
+            0,
+            "OLD FUNG TEA  HOUSE",
+            "SHOP NO. G30-G33, G/F, KOLOUR \u00b7 TSUEN WAN II, 67-95 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2292808788,
+            0,
+            "Teawood Taiwanese Cafe & Restaurant",
+            "SHOP C34-C35, G/F, KOLOUR TSUEN WAN II, 67-95 TSUEN WAN MARKET STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3192801989,
+            1,
+            "Pacific Coffee Company",
+            "F & B 3, GROUND FLOOR OF CITISTORE, KOLOUR \u00b7 TSUEN WAN II, TWTL 301, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177781
+        ]
+      ],
+      "coordinate": [
+        1.9917464592860388,
+        0.3904525462907254,
+        13.649999618530273
+      ],
+      "halfSize": [
+        55.42449999973178,
+        38.02549999952316,
+        7.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        975175752,
+        14,
+        [
+          [
+            2292001475,
+            0,
+            "\u7d20\u98df\u5bb6",
+            "SHOP 52 &55, 1/F, CHEONG ON BUILDING, TSUEN CHEONG CENTRE, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2292803279,
+            0,
+            "\u96f2\u5ddd\u98a8",
+            "SHOP 45 & 62, 1/F, CHEONG ON BUILDING, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2292805691,
+            0,
+            "\u53cb\u62c9\u9eb5",
+            "SHOP NO. 53-54, 1/F, CHEONG NING BUILDING, TSUEN CHEONG CENTRE, 98-128 CASTLE PEAK ROAD, 186-216 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ],
+          [
+            2292806922,
+            0,
+            "\u98df\u5f97\u559c\u5c0f\u5eda",
+            "SHOP NOS. 14-19, G/F, CHEONG ON BUILDING, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2292807642,
+            0,
+            "\u82f1\u8a18\u5c0f\u5eda",
+            "SHOP 27-37, 45-53, G/F, CHEONG ON BUILDING , TSUEN CHEONG CENTRE, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-26"
+          ],
+          [
+            3192000258,
+            1,
+            "PENANG SPICY GARDEN",
+            "SHOP NO. 5, G/F, CHEONG ON BUILDING, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3192000267,
+            1,
+            "\u82b1\u59d0\u5eda\u623f",
+            "SHOP NO. 4, G/F, CHEONG ON BUILDING, TSUEN CHEONG CENTRE, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3192800658,
+            1,
+            "\u6cf0\u8ff7\u4f60\u5eda\u623f",
+            "SHOP 51 & 56, 1/F, CHEONG ON BUILDING, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            3192801138,
+            1,
+            "Kitchen Corner",
+            "SHOP 44-45 & 66, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, CHEONG NING ARCADE, TSUEN CHEONG CENTRE, 130 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            3192801323,
+            1,
+            "\u65b0\u8cb4\u9999\u5712",
+            "SHOP NOS. 53 & 54, 1/F, CHEONG ON ARCADE, TSUEN CHEONG CENTRE, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ],
+          [
+            3192801378,
+            1,
+            "BROWNY CAFE",
+            "SHOP 66A, G/F , CHEONG NING ARCADE, TSUEN CHEONG CENTRE, 130 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-10"
+          ],
+          [
+            3192802122,
+            1,
+            "INDULGE BLANK",
+            "SHOP 12, G/F, CHEONG NING ARCADE, TSUEN CHEONG CENTRE, 130 CASTLE PEAK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            3192802292,
+            1,
+            "Dumpling House",
+            "SHOP NO.48,49,58 & 59, 1/F, CHEONG ON ARCADE,TSUEN CHEONG CENTRE, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3192802593,
+            1,
+            "NO. 7 NOODLE HOUSE",
+            "SHOP 7-10, GROUND FLOOR, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, CHEONG ON BUILDING, TSUEN CHEONG CENTRE, 186-200 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177783
+        ]
+      ],
+      "coordinate": [
+        1.9917686090276157,
+        0.3904529951975083,
+        14.15000057220459
+      ],
+      "halfSize": [
+        24.479499999899417,
+        24.436999999918044,
+        7.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        975175753,
+        6,
+        [
+          [
+            2292001183,
+            0,
+            "\u548c\u98df\u5feb\u9910",
+            "SHOP NO.22-24, G/F, CHEONG NING BUILDING, TSUEN CHEONG CENTRE, SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3192001057,
+            1,
+            "\u5ddd\u6e1d\u4e4b\u9109",
+            "SHOP NOS. 43, 44 & 64, 1/F, CHEONG NING ARCADE, TSUEN CHEONG CENTRE, 202-216 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            3192800986,
+            1,
+            "\u990a\u5fc3\u4ead",
+            "SHOP 49 & 58, 1/F, CHEONG NING BUILDING, 202-216 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            3192801077,
+            1,
+            "\u8eca\u4ed4\u5c4b",
+            "SHOP 48 & 59, 1/F, CHEONG NING SHOPPING CENTRE, 202-216 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ],
+          [
+            3192801086,
+            1,
+            "\u540d\u68e7\u5c0f\u53a8",
+            "UNIT 52, 1/F, CHEONG NING BUILDING, 202-216 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3192802371,
+            1,
+            "\u4e00\u5bb6",
+            "SHOP 40, 67, 1/F, CHEONG NING BUILDING, TSUEN CHEONG CENTRE, 202-216 SAI LAU KOK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177784
+        ]
+      ],
+      "coordinate": [
+        1.9917746559308056,
+        0.3904469613691922,
+        14.300000190734863
+      ],
+      "halfSize": [
+        24.11349999997765,
+        24.248500000685453,
+        6.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        975175754,
+        16,
+        [
+          [
+            2292002414,
+            0,
+            "Tao Heung Tea House",
+            "SHOP 4A, 4/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2292802124,
+            0,
+            "PENINSULA BANQUET",
+            "6/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2292804315,
+            0,
+            "Royal Ming Garden Restaurant",
+            "UNIT A, 5/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2292804421,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP G031-G032, G/F, KOLOUR.TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2292804810,
+            0,
+            "HUA'E Tower Cuisine",
+            "SHOP NO. 5B, 5/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            2292805929,
+            0,
+            "NORTH VIET PHO MALACCA CUISINE",
+            "SHOP NO. 1023, 1/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2292806685,
+            0,
+            "\u9999\u6e2f\u4ed4\u5357\u8a18\u7c89\u9eb5",
+            "SHOP NOS. 1040-1041, 1/F, KOLOUR - TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2292808627,
+            0,
+            "\u5225\u5fd8\u4e86",
+            "SHOP NO. 2032, 2/F, KOLOUR \u00b7 TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2292809259,
+            0,
+            "MAY'S HOT & SPICY",
+            "SHOP NOS. 3001-3002, 3/F, KOLOUR\u00b7 TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2292809763,
+            0,
+            "\u7d05\u8c46\u51b0\u5ba4",
+            "SHOP NO. G010, G/F, KOLOUR \u2022 TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2292810235,
+            0,
+            "TW YUMMY",
+            "SHOP G027, G/F, KOLOUR \u2022 TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-22"
+          ],
+          [
+            3892810610,
+            0,
+            "\u7131\u8611\u754c\u7c73\u7dda\u7814\u7a76\u6240",
+            "SHOP NO. 3013, 3/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3192802797,
+            1,
+            "NEIGHBOR",
+            "SHOP NO. G030, G/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3192803064,
+            1,
+            "Crown Mango Expert (Kolour \u2022 Tsuen Wan 1)",
+            "SHOP NO. 1003 & OPEN SPACE IN THE COMMON CORRIDOR OPPOSITE TO SHOP NO. 1003, 1/F, KOLOUR \u2022 TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-07"
+          ],
+          [
+            3192803204,
+            1,
+            "\u5343\u5473\u624b\u5de5\u9903\u5b50",
+            "SHOP NO. G021-G022, G/F, KOLOUR TSUEN WAN I, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3192803408,
+            1,
+            "Luckin Coffee",
+            "KIOSK, 2/F, KOLOUR TSUEN WAN 1, 68 CHUNG ON STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177786
+        ]
+      ],
+      "coordinate": [
+        1.9917286641974212,
+        0.3904404229993403,
+        24.94999885559082
+      ],
+      "halfSize": [
+        43.936470000073314,
+        58.091615000739694,
+        20.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175755,
+        6,
+        [
+          [
+            2291001733,
+            0,
+            "\u91d1\u5bf6\u98ef\u5e97",
+            "SHOP 5A & 11A, G/F, KWAI PO BUILDING, 135-147 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-05"
+          ],
+          [
+            2291803883,
+            0,
+            "\u68a8\u6728\u9053\u5c0f\u934b\u7c73\u7dda",
+            "SHOP NO. 11, LG/F, KWAI PO BUILDING, 102-116 LEI MUK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2291805278,
+            0,
+            "\u70e4\u70e4\u98df",
+            "SHOP 6A & 12A, G/F, KWAI PO BUILDING, 135-147 SHEK YAM ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            3191000172,
+            1,
+            "ELEPHANT KITCHEN",
+            "SHOP NO. 3, L/G, KWAI PO BUILDING, 102-116 LEI MUK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3191000303,
+            1,
+            "\u96f2\u5357\u5c0f\u934b\u7c73\u7dda",
+            "SHOP 5, LG/F, KWAI PO BUILDING, 112 LEI MUK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3191800864,
+            1,
+            "\u5c0f\u4e0a\u6d77",
+            "SHOP 4, LG/F, KWAI PO BUILDING, 112 LEI MUK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177789
+        ]
+      ],
+      "coordinate": [
+        1.9920863008996652,
+        0.39044353847208113,
+        43.20000076293945
+      ],
+      "halfSize": [
+        25.119500000029802,
+        24.216500000096858,
+        6.0
+      ]
+    },
+    {
+      "attributes": [
+        975175756,
+        5,
+        [
+          [
+            2292805318,
+            0,
+            "\u7b11\u53e3\u5e38\u958b",
+            "SHOP NO. 49, G/F, WEALTHY SHOPPING ARCADE, 3 TSUEN KWAI STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            3192000692,
+            1,
+            "Sweeties Dessert",
+            "SHOP NO. 13B AND 15, G/F, PLOT A, WEALTHY SHOPPING ARCADE, 10A TSUEN KWAI STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3192800764,
+            1,
+            "\u9999\u6e2f\u4ed4\u4e00\u54c1\u9b5a\u86cb\u738b",
+            "SHOP 69, G/F (PODIUM B), WEALTHY GARDEN, 2-28 TSUEN FU STREET, 36-48 TSUEN WAH STREET, 1-27 TSUEN KWAI STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3192800995,
+            1,
+            "\u5ddd\u5473\u7f8e\u98df",
+            "SHOP 40, G/F (PODIUM B), WEALTHY GARDEN, 12-18 TSUEN FU STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ],
+          [
+            3192801828,
+            1,
+            "\u91cd\u6176\u6d25\u5473\u5c0f\u5403",
+            "SHOP NO. 66, G/F, PODIUM B, WEALTHY GARDEN, 12-28 TSUEN FU STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177813
+        ]
+      ],
+      "coordinate": [
+        1.991800904016687,
+        0.390416152853461,
+        12.5
+      ],
+      "halfSize": [
+        31.512500000186265,
+        29.658499999903142,
+        6.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175757,
+        15,
+        [
+          [
+            2292001439,
+            0,
+            "Panda Hotel",
+            "3/F(PORTION) AND 5/F(PORTION), PANDA HOTEL, TWTL 312, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2292800739,
+            0,
+            "THAI chef",
+            "SHOP G31-G32A, G/F, PANDA PLACE, PANDA HOTEL, NO. 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2292802018,
+            0,
+            "K F C",
+            "SHOP B106-107, B1/F, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2292803853,
+            0,
+            "Gin Curry",
+            "SHOP R01, B2/F, AEON TAI WO HAU STORE, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ],
+          [
+            2292803969,
+            0,
+            "Panda Hotel",
+            "7/F (FUNCTION ROOM) AND OUTSIDE SEATING ACCOMMODATION ON FLAT ROOF OF 7/F, PANDA HOTEL, TWTL 312, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2292804023,
+            0,
+            "GENKI SUSHI",
+            "SHOP G33, GROUND FLOOR, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2292804494,
+            0,
+            "Lemon Basil",
+            "SHOP B120, B1/F, PANDA PLACE OF PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2292804777,
+            0,
+            "PIZZA HUT",
+            "SHOP G3 & OUTSIDE SEATING, G/F, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2292805008,
+            0,
+            "Taiwan Kitchen",
+            "SHOP B102, B1/F, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2292805044,
+            0,
+            "\u5c1a\u9ede-\u6085\u4f86\u5e97/\u725b\u306e\u934b/\u751f\u8a18\u6d77\u9bae\u9152\u5bb6",
+            "SHOP 201, 202, 203, 2/F, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2292805600,
+            0,
+            "MT Sushi",
+            "SHOP G10, G/F, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2292805655,
+            0,
+            "Marugame Panda Place",
+            "SHOP B123, B1/F, THE PANDA PLACE OF PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3192802229,
+            1,
+            "COMEBUY TEA",
+            "SHOP G16 & SEATING AREA OUTSIDE SHOP G16, G/F, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3192802247,
+            1,
+            "Starbucks Coffee",
+            "SHOP G39 WITH ADJOINING SEATING AREA ON THE GROUND FLOOR OF THE PANDA PLACE OF PANDA HOTEL, NO. 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            3192802256,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SEATING AREA OUTSIDE SHOP B122A AND SHOP B122A, B1, PANDA PLACE, PANDA HOTEL, 3 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177814
+        ]
+      ],
+      "coordinate": [
+        1.991783152150464,
+        0.3904130920387785,
+        17.299999237060547
+      ],
+      "halfSize": [
+        60.827500000130385,
+        44.13250000029802,
+        12.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175758,
+        2,
+        [
+          [
+            2292805725,
+            0,
+            "Myeongdong Pocha",
+            "SHOP 13 & 16, G/F, PLOT A, WEALTHY GARDEN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2292806807,
+            0,
+            "\u5927\u83ef\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP NOS. 50-52, G/F, PODIUM B, WEALTHY GARDEN, NO. 20-34 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177816
+        ]
+      ],
+      "coordinate": [
+        1.991810441406141,
+        0.3904131487156428,
+        12.550000190734863
+      ],
+      "halfSize": [
+        32.292375000193715,
+        37.53105999995023,
+        6.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175759,
+        2,
+        [
+          [
+            2292800757,
+            0,
+            "STEAK EXPERT",
+            "SHOP A, 2/F, JADE PLAZA, 298 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ],
+          [
+            2292810068,
+            0,
+            "Sukiya",
+            "SHOP NOS. A & B, G/F, JADE PLAZA, NO. 298 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177817
+        ]
+      ],
+      "coordinate": [
+        1.9917229515029382,
+        0.3904146243041095,
+        12.149999618530273
+      ],
+      "halfSize": [
+        20.820470000151545,
+        20.507104999385774,
+        7.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        975175760,
+        1,
+        [
+          [
+            3191801575,
+            1,
+            "\u9ac0\u5bb6Chill",
+            "SHOP NO. 12, G/F, CHEONG WANG MANSION, 539 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177818
+        ]
+      ],
+      "coordinate": [
+        1.991999539157891,
+        0.39041279548211444,
+        13.75
+      ],
+      "halfSize": [
+        16.828604999929667,
+        19.130609999410808,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        975175761,
+        7,
+        [
+          [
+            2292803525,
+            0,
+            "\u9280\u9f8d\u8336\u9910\u5ef3",
+            "SHOP G3, G/F, PLAZA 328, BO SHEK MANSION, 328 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2292803589,
+            0,
+            "\u7fe0\u82d1\u9152\u5bb6",
+            "SHOP 101, 1/F, BO SHEK MANSION, 328 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2292803677,
+            0,
+            "ARTCO 33",
+            "SHOP 21, G/F, BO SHEK MANSION, 328 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2292804166,
+            0,
+            "\u96f2\u5bb6\u5c0f\u934b\u7c73\u7dda",
+            "SHOP G01, G/F, 328 PLAZA, 328 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2292805530,
+            0,
+            "\u7530\u6d66\u98df\u8089",
+            "SHOP NOS. G12-15, G/F., BO SHEK MANSION, 328 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2292808496,
+            0,
+            "Milk Caf\u00e9",
+            "SHOP NO. G6&G7, G/F, PLAZA 328, BO SHEK MANSION, 328 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            2292809338,
+            0,
+            "BAO LIAN VEGETARIAN FOOD",
+            "SHOP NOS. G17 & G18 (PORTION), G/F, PLAZA 328, BO SHEK MANSION, 328 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177820
+        ]
+      ],
+      "coordinate": [
+        1.9917332798417684,
+        0.3904049828573132,
+        9.550000190734863
+      ],
+      "halfSize": [
+        61.97999999998137,
+        54.27560499962419,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175762,
+        6,
+        [
+          [
+            2291801771,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. A07, G/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2291804071,
+            0,
+            "CHAP SHING",
+            "SHOP NO. C15, SECOND FLOOR, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2291804354,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. B05, FIRST FLOOR, TAI WO HAU COMMERCIAL CENTRE(I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2291804390,
+            0,
+            "\u71d2\u9d5d\u5927\u4ea8\u8336\u9910\u5ef3",
+            "SHOP NO. B03 & B04, 1/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2291804488,
+            0,
+            "\u661f\u6167\u5c0f\u9928",
+            "SHOP NOS. C02A, C02, C03 & C04, 2/F, TAI WO HAU COMMERCIAL CENTRE(I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            3191801876,
+            1,
+            "\u69ae\u6d77\u725b\u8169\u7c89\u9eb5",
+            "STALL NOS. 27-28, 1/F, MARKET, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177821
+        ]
+      ],
+      "coordinate": [
+        1.9918337175042242,
+        0.3904042498389887,
+        11.950000762939453
+      ],
+      "halfSize": [
+        60.51543000014499,
+        42.06577999982983,
+        4.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        975175763,
+        4,
+        [
+          [
+            2291801610,
+            0,
+            "\u7cef\u7c73\u6cf0",
+            "SHOP 29, G/F, CHEONG WAI MANSION, 39A KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2291801957,
+            0,
+            "\u6a02\u829d\u98df\u574a\u9bae\u9b5a\u6e6f\u7c73\u7dda",
+            "SHOP 26, G/F, CHEONG WAI MANSION, 39A KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2291802950,
+            0,
+            "\u5955\u5e06\u5c0f\u5eda",
+            "SHOP 28, G/F, CHEONG WAI MANSION, 39A KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            3191801894,
+            1,
+            "Money",
+            "NO. 27, G/F, CHEONG WAI MANSION, NO. 39A KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177823
+        ]
+      ],
+      "coordinate": [
+        1.9919967015317825,
+        0.39040742061294115,
+        13.5
+      ],
+      "halfSize": [
+        20.50084500014782,
+        21.44816999975592,
+        2.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        975175764,
+        1,
+        [
+          [
+            2291803209,
+            0,
+            "Eat@Ease",
+            "1/F (PORTION), NOS. 15-19 CHUN PIN STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177826
+        ]
+      ],
+      "coordinate": [
+        1.9920717251457332,
+        0.3904012865621358,
+        33.849998474121094
+      ],
+      "halfSize": [
+        17.684499999973923,
+        19.080500000156462,
+        6.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175765,
+        1,
+        [
+          [
+            3192802131,
+            1,
+            "Return Coffee",
+            "SHOP NO. G1, G65, G/F, FORTUNE COMMERCIAL BUILDING, NO.362 SHA TSUI ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177829
+        ]
+      ],
+      "coordinate": [
+        1.991751495799595,
+        0.39039861150131877,
+        13.899999618530273
+      ],
+      "halfSize": [
+        25.840034999884665,
+        20.30875500012189,
+        9.0
+      ]
+    },
+    {
+      "attributes": [
+        975175766,
+        1,
+        [
+          [
+            2291804381,
+            0,
+            "\u91d1\u6e2f\u51b0\u5ba4",
+            "SHOP A, G/F, CHEONG NIN BUILDING, 1013-1033 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177832
+        ]
+      ],
+      "coordinate": [
+        1.992005725751565,
+        0.3903939412251824,
+        18.799999237060547
+      ],
+      "halfSize": [
+        15.911129999905825,
+        26.700620000250638,
+        8.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175767,
+        7,
+        [
+          [
+            2291800398,
+            0,
+            "\u56db\u5b63\u9910\u5ef3",
+            "SHOP NO. 108, KWAI CHUNG SHOPPING CENTRE, KWAI CHUNG ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-08"
+          ],
+          [
+            2291800404,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 122, PODIUM LEVEL 1, KWAI CHUNG SHOPPING CENTRE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ],
+          [
+            2291800608,
+            0,
+            "Yeh Lam Kwok Restaurant",
+            "SHOP 123, LEVEL 1, KWAI CHUNG SHOPPING CENTRE, KWAI CHUNG ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-19"
+          ],
+          [
+            2291801045,
+            0,
+            "Super Super",
+            "SHOP 110, KWAI CHUNG SHOPPING CENTRE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2291805047,
+            0,
+            "JASMINE CUISINE / PEARL CASTLE",
+            "G/F (PORTION), 1/F (PORTION) & SHOP 207, KWAI CHUNG SHOPPING CENTRE, SHEUNG KOK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ],
+          [
+            3191801052,
+            1,
+            "\u8475\u5eb7\u8eca\u4ed4\u9eb5\u5496\u5561\u5c0f\u98df",
+            "STALL NO. 59, 60, 61, 62, G/F, KWAI CHUNG MARKET, KWAI CHUNG SHOPPING CENTRE, SHEUNG KOK STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ],
+          [
+            3191801946,
+            1,
+            "\u9806\u767c\u725b\u96dc\u7c89\u9eb5",
+            "STALL NO. 63-66, G/F, KWAI CHUNG MARKET, KWAI CHUNG ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177835
+        ]
+      ],
+      "coordinate": [
+        1.991906162850633,
+        0.3903862957901889,
+        39.900001525878906
+      ],
+      "halfSize": [
+        130.42472499981523,
+        80.61828999966383,
+        9.000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        975175768,
+        3,
+        [
+          [
+            2291802853,
+            0,
+            "TEA & COFFEE CAFE LIMITED",
+            "SHOP 6, G/F, CHEONG FAT BUILDING, 21 KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3191000774,
+            1,
+            "\u7fe0\u82d1\u725b\u96dc\u7c89\u9eb5\u5c08\u5bb6",
+            "SHOP NO. 4, G/F, CHEONG FAT BUILDING, 21 KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            3191801007,
+            1,
+            "\u9f8d\u5ddd\u4e0a\u6d77\u6599\u7406",
+            "SHOP 5, G/F, CHEONG FAT BUILDING, 21 KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177837
+        ]
+      ],
+      "coordinate": [
+        1.991989265049249,
+        0.3903938806690665,
+        14.649999618530273
+      ],
+      "halfSize": [
+        12.671420000027865,
+        16.462004999630153,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        975175769,
+        1,
+        [
+          [
+            2292802717,
+            0,
+            "Day 22 Steak",
+            "SHOP NO. 1 (PORTION) & NO. 3, G/F, BLOCK 2, HARMONY GARDEN, 28 LUEN YAN STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177840
+        ]
+      ],
+      "coordinate": [
+        1.991721031660766,
+        0.39038980747471314,
+        7.399999618530273
+      ],
+      "halfSize": [
+        22.63086500018835,
+        18.47918999940157,
+        2.999999761581421
+      ]
+    },
+    {
+      "attributes": [
+        975175770,
+        1,
+        [
+          [
+            2291000484,
+            0,
+            "Fat Kee Kitchen",
+            "G/F & C/L, 7 KWONG FAI CIRCUIT, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177843
+        ]
+      ],
+      "coordinate": [
+        1.9919915641803492,
+        0.39038732621032113,
+        17.5
+      ],
+      "halfSize": [
+        10.644700000062585,
+        12.530739999376237,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        975175771,
+        11,
+        [
+          [
+            2291000077,
+            0,
+            "\u91d1\u4f86\u8d8a\u5357\u7c89",
+            "NO. 13, INTERIA BLOCK, TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291000183,
+            0,
+            "\u5927\u5149\u660e\u98ef\u5e97",
+            "SHOP NO. 5, G/F, TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2291800167,
+            0,
+            "\u91cd\u6176\u5c0f\u9762\u7687",
+            "SHOP 26D1A, G/F, TAK CHEONG BUILDING, NO. 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            2291801559,
+            0,
+            "\u5144\u5f1f\u5feb\u9910\u5e97",
+            "SHOP NO. 7, G/F, TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ],
+          [
+            2291802181,
+            0,
+            "\u5ee3\u8208\u7ca5\u5e97",
+            "SHOP 26D-1, G/F , TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2291802464,
+            0,
+            "McDonald's Restaurant",
+            "SHOP 3 OF FIRST FLOOR OF TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2291803917,
+            0,
+            "CHU MAN KEE KITCHEN",
+            "SHOP 26B & C, G/F, TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            3191000464,
+            1,
+            "\u9178 \u8fa3 \u71d9",
+            "SHOP NO. 24, G/F, TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            3191800703,
+            1,
+            "Bafong Yunji",
+            "SHOP 29, G/F, TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-29"
+          ],
+          [
+            3191801900,
+            1,
+            "C FOR U",
+            "SHOP 14, G/F, TAK CHEONG BUILDING, NO. 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-03-21"
+          ],
+          [
+            3991802150,
+            1,
+            "\u4e94\u8c37\u6f01\u7c89",
+            "SHOP NO. 23A, G/F, TAK CHEONG BUILDING, 1001 KWAI CHUNG ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177846
+        ]
+      ],
+      "coordinate": [
+        1.9919998772283065,
+        0.3903828017162257,
+        12.850000381469727
+      ],
+      "halfSize": [
+        26.15177999995649,
+        27.190349999815226,
+        4.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        975175772,
+        3,
+        [
+          [
+            2291002541,
+            0,
+            "\u6e90\u8208\u71d2\u5473\u5c0f\u9928",
+            "UG/F, 109-115 WO TONG TSUI STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2291802996,
+            0,
+            "\u694a\u8a18\u9ebb\u8fa3\u9b5a\u9928",
+            "SHOP B & C, G/F, MAN SHING MANSION, 109-115 WO TONG TSUI STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2291804716,
+            0,
+            "\u6e90\u8208\u71d2\u5473\u5c0f\u9928",
+            "SHOP A, G/F, 109-115 WO TONG TSUI STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177848
+        ]
+      ],
+      "coordinate": [
+        1.9919891932958087,
+        0.39038400192822764,
+        17.549999237060547
+      ],
+      "halfSize": [
+        13.349280000198632,
+        13.448169999755919,
+        7.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        975175773,
+        3,
+        [
+          [
+            2291803768,
+            0,
+            "FORTUNATE COFFEE",
+            "SHOP 7, 1/F, EDGE, 30-34 KWAI WING ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3191801733,
+            1,
+            "Faychu Cafe",
+            "SHOP 104, 1/F, EDGE, 30-34 KWAI WING ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ],
+          [
+            3191801797,
+            1,
+            "KO'S COFFEE",
+            "SHOP G01, G/F, EDGE, 30-34 KWAI WING ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177853
+        ]
+      ],
+      "coordinate": [
+        1.9920226170499007,
+        0.3903771597597848,
+        11.950000762939453
+      ],
+      "halfSize": [
+        33.160834999755025,
+        29.327200000174344,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        975175774,
+        1,
+        [
+          [
+            2291801522,
+            0,
+            "Sun Kong Restaurant",
+            "G/F, THE APEX, 33 WO YI HOP ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177857
+        ]
+      ],
+      "coordinate": [
+        1.992062804203939,
+        0.39036915494216334,
+        35.25
+      ],
+      "halfSize": [
+        49.4556599999778,
+        54.76587499957532,
+        11.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        975175775,
+        1,
+        [
+          [
+            2291802491,
+            0,
+            "CAFE 100%",
+            "SHOP NO. 6 (PORTION A), G/F, TAI WO HAU COMMERCIAL CENTRE (II), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177859
+        ]
+      ],
+      "coordinate": [
+        1.9918220484643823,
+        0.39037058225469506,
+        38.75
+      ],
+      "halfSize": [
+        41.99023500038311,
+        26.779974999837577,
+        2.3499984741210938
+      ]
+    },
+    {
+      "attributes": [
+        975175776,
+        4,
+        [
+          [
+            2292809347,
+            0,
+            "Cafe de Coral",
+            "SHOP NOS. 1 AND 7B ON THE GROUND FLOOR OF THE COMMERCIAL ACCOMMODATION OF INDIHOME, NO. 138 YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2292809523,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOPS NO. 6B2 & 6B3, G/F, COMMERCIAL ACCOMMODATION, INDIHOME, 138 YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            3192800621,
+            1,
+            "\u9f4a\u8a18\u51b0\u5ba4",
+            "SHOP NO. 3, G/F, INDIHOME, 138 YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3192803116,
+            1,
+            "\u5143\u5e25\u9eb5\u9928",
+            "SHOP NO. 2, G/F, INDI HOME, 138 YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177864
+        ]
+      ],
+      "coordinate": [
+        1.991741743715905,
+        0.39036322020779696,
+        14.899999618530273
+      ],
+      "halfSize": [
+        47.524740000255406,
+        35.45919500011951,
+        10.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        975175777,
+        11,
+        [
+          [
+            2292002788,
+            0,
+            "SOUP PLUS",
+            "SHOP NO. 8, G/F, SMARTLAND, 16 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2292802416,
+            0,
+            "YAT HOU HIN",
+            "SHOP NOS. S215A & S215, 2/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2292803783,
+            0,
+            "\u666e\u6d31",
+            "SHOP NO. 30, G/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ],
+          [
+            2292805114,
+            0,
+            "Fairwood Fast Food",
+            "SHOP G19, G/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2292805220,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. F203-208, 1/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2292805503,
+            0,
+            "Great Steam",
+            "SHOP 112-119 & 124, G/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-29"
+          ],
+          [
+            2292806269,
+            0,
+            "\u5ddd\u54c1\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. A101B, G/F, EAST ASIA GARDENS, 36-60 TEXACO ROAD, 3-21 TSUEN FU STREET, 16 & 24 TSUEN WAH STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2292806782,
+            0,
+            "\u6a13\u4e0b\u51b0\u5ba4",
+            "SHOP NO. G45-G52, G52A, G53 & G54, G/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2292807828,
+            0,
+            "Cafe 100%",
+            "SHOP G37-G43 & G43A, G/F, SMARTLAND, 36-60 TEXACO ROAD, TAI WO HAU, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ],
+          [
+            3892810601,
+            0,
+            "HEARTS",
+            "SHOP NOS. G31-33, G/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3192803417,
+            1,
+            "\u963f\u5143\u9903\u5b50",
+            "SHOP G12-13, G/F, SMARTLAND, 36-60 TEXACO ROAD, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177904
+        ]
+      ],
+      "coordinate": [
+        1.9917989826516074,
+        0.39040365644887726,
+        11.700000762939453
+      ],
+      "halfSize": [
+        56.71280000032857,
+        41.626725000329316,
+        6.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        975175778,
+        1,
+        [
+          [
+            2291802297,
+            0,
+            "Dorsett Caf\u00e9",
+            "G/F (PORTION), 28 KIN CHUEN STREET, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975178042
+        ]
+      ],
+      "coordinate": [
+        1.9919393878532459,
+        0.39043732784578933,
+        23.200000762939453
+      ],
+      "halfSize": [
+        27.960309999994934,
+        15.680964999832213,
+        11.09999942779541
+      ]
+    }
+  ]
+}

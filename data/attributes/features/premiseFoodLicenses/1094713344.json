@@ -1,0 +1,7139 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1094713344,
+        3,
+        [
+          [
+            2912198468,
+            4,
+            "HONG KONG CONVENTION & EXHIBITION CENTRE",
+            "LEVEL 4 (WEST PTN), HK CONVENTION & EXHIBITION CENTRE, , 1 HARBOUR RD., WAN CHAI, HONG KONG",
+            null,
+            "2027-03-12"
+          ],
+          [
+            2912202558,
+            4,
+            "HONG KONG CONVENTION & EXHIBITION CENTRE",
+            "LEVEL 2 (WEST PTN), HK CONVENTION & EXHIBITION CENTRE, 1 HARBOUR RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2912233891,
+            4,
+            "GRAND HYATT HONG KONG",
+            "MINOR PORTION OF 11/F, GRAND HYATT HONG KONG, 1 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713345
+        ]
+      ],
+      "coordinate": [
+        1.9926935250652686,
+        0.3888789832152325,
+        29.850000381469727
+      ],
+      "halfSize": [
+        108.27099999971688,
+        54.418499999679625,
+        26.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713345,
+        1,
+        [
+          [
+            2912140733,
+            4,
+            "Rice and Roast",
+            "G8, GROUND FLOOR, GREAT EAGLE CENTRE, 23 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713347
+        ]
+      ],
+      "coordinate": [
+        1.992733800483398,
+        0.3888777276016389,
+        13.149999618530273
+      ],
+      "halfSize": [
+        67.10550000006333,
+        28.56099999975413,
+        9.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713346,
+        2,
+        [
+          [
+            2918806167,
+            4,
+            "PSI COFFEE",
+            "SHOP G1A, G/F., BANK OF AMERICA TOWER, HARCOURT ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2918811525,
+            4,
+            "TRUEFIT DELI",
+            "SHOP G10, G/F, BANK OF AMERICA TOWER, 12 HARCOURT ROAD, HONG KONG",
+            null,
+            "2026-12-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713348
+        ]
+      ],
+      "coordinate": [
+        1.9925205508939814,
+        0.38887157400078654,
+        12.90000057220459
+      ],
+      "halfSize": [
+        32.83637999976054,
+        39.23350000008941,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713347,
+        3,
+        [
+          [
+            2918806404,
+            4,
+            "LASSANA",
+            "SHOP 205, 2/F., CITIC TOWER, 1 TIM MEI AVENUE, CENTRAL, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2918806495,
+            4,
+            "Original Taste Workshop",
+            "SHOP 204, 2/F., CITIC TOWER, NO. 1 TIM MEI AVENUE, CENTRAL, HONG KONG",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2918810498,
+            4,
+            "SUBWAY",
+            "SHOP 206, 2/F, CITIC TOWER, NO. 1 TIM MEI AVENUE, CENTRAL, HONG KONG",
+            null,
+            "2027-02-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713349
+        ]
+      ],
+      "coordinate": [
+        1.9925926829927174,
+        0.3888694311361316,
+        13.75
+      ],
+      "halfSize": [
+        40.28549999976531,
+        31.43449999950826,
+        9.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713348,
+        2,
+        [
+          [
+            2912801656,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. 134-135, 1/F., SUN HUNG KAI CENTRE, 30 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2912805445,
+            4,
+            "MAXIM'S CAKES",
+            "1/F., SHOP NOS 122, 122A & 123A, SUN HUNG KAI CENTRE, 30 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713350
+        ]
+      ],
+      "coordinate": [
+        1.9927632476080732,
+        0.3888660550665052,
+        10.09999942779541
+      ],
+      "halfSize": [
+        39.11212000017986,
+        45.949684999883175,
+        6.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1094713349,
+        7,
+        [
+          [
+            2912802589,
+            4,
+            "hana-musubi",
+            "SHOP 08, 1/F., CAUSEWAY CENTRE, 28 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2912802747,
+            4,
+            "PIZZA STOP",
+            "SHOP 13, 1/F., CAUSEWAY CENTRE, NO. 28 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2912805144,
+            4,
+            "GEORGE COFFEE",
+            "SHOP 12, 1/F., CAUSEWAY CENTRE, NO. 28 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2912806341,
+            4,
+            "BLA BLA by sensory ZERO",
+            "SHOP 4, 1/F., CAUSEWAY CENTRE, 28 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-22"
+          ],
+          [
+            2912807061,
+            4,
+            "\u767e\u82b3\u6c60\u4e0a\u4fbf\u7576",
+            "SHOP 9, 1/F., CAUSEWAY CENTRE, NO. 28 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-10"
+          ],
+          [
+            2912809447,
+            4,
+            "COTTI COFFEE",
+            "SHOP 7, 1/F., CAUSEWAY CENTRE, NO. 28 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2912809809,
+            4,
+            "SMALL NOODLES",
+            "SHOP 03, 1/F, CAUSEWAY CENTRE, 28 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713351
+        ]
+      ],
+      "coordinate": [
+        1.9927512242451602,
+        0.38886476939828274,
+        7.349999904632568
+      ],
+      "halfSize": [
+        27.94400000013411,
+        46.512500000186265,
+        3.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1094713350,
+        1,
+        [
+          [
+            2918801621,
+            4,
+            "Lotus Lane Cafe",
+            "SHOP D1, UPPER GROUND FLOOR, FAR EAST FINANCE CENTRE, 16 HARCOURT ROAD, ADMIRALTY, HONG KONG",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713355
+        ]
+      ],
+      "coordinate": [
+        1.9925397323542082,
+        0.3888586114872616,
+        12.549999237060547
+      ],
+      "halfSize": [
+        44.2105000000447,
+        35.52450000029057,
+        7.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1094713351,
+        2,
+        [
+          [
+            2918801296,
+            4,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP 2AC, 1/F., LIPPO CENTRE, 89 QUEENSWAY, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            2918803159,
+            4,
+            "Delifrance",
+            "SHOP 1B-1E, G/F., LIPPO CENTRE, 89 QUEENSWAY, HONG KONG",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713365
+        ]
+      ],
+      "coordinate": [
+        1.9925291641233556,
+        0.38884836409633855,
+        11.149999618530273
+      ],
+      "halfSize": [
+        50.659074999857694,
+        47.861694999970496,
+        5.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1094713352,
+        6,
+        [
+          [
+            2913042515,
+            4,
+            "\u8b77\u751f\u60dc\u798f(\u7d20\u98df)",
+            "SHOP NO.58, 1/F, PODIUM OF ADMIRALTY CENTRE, QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2918802633,
+            4,
+            "Kinshing Taiwanese Food",
+            "SHOP NO. 98, 2/F., TOWER 2, ADMIRALTY CENTRE, NO. 18 HARCOURT ROAD, ADMIRALTY, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2918802819,
+            4,
+            "Starbucks Coffee",
+            "SHOP NO. 80, 1/F., ADMIRALTY CENTRE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2918804240,
+            4,
+            "Sun Lung Moon",
+            "SHOP 99, 2/F., TOWER 2, ADMIRALTY CENTRE, 18 HARCOURT ROAD, ADMIRALTY, HONG KONG",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2918804259,
+            4,
+            "HANA-MUSUBI",
+            "SHOP NO. 46, 1/F. OF THE PODIUM, ADMIRALTY CENTRE, 18 HARCOURT ROAD, HONG KONG",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2918810832,
+            4,
+            "\u7f8e\u6a02\u5c0f\u98df",
+            "SHOP 103 & 104, 2/F, TOWER 2, ADMIRALTY CENTRE, 18 HARCOURT ROAD, ADMIRALTY, HONG KONG",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713367
+        ]
+      ],
+      "coordinate": [
+        1.9925571522891867,
+        0.3888476366848944,
+        13.5
+      ],
+      "halfSize": [
+        65.93889500014484,
+        42.49870499968529,
+        7.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713353,
+        1,
+        [
+          [
+            2912809508,
+            4,
+            "Good Good Food",
+            "SHOP NO. 6, G/F, CHUANG'S ENTERPRISES BUILDING, NO. 382 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713374
+        ]
+      ],
+      "coordinate": [
+        1.9928134780301008,
+        0.388846692195805,
+        11.25
+      ],
+      "halfSize": [
+        11.961500000208616,
+        11.749499999918044,
+        7.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1094713354,
+        1,
+        [
+          [
+            2912808259,
+            4,
+            "Du Ting",
+            "SHOP A, G/F, LEE WEST COMMERCIAL BUILDING, 375-379 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713376
+        ]
+      ],
+      "coordinate": [
+        1.9928143218639545,
+        0.3888435041192832,
+        10.75
+      ],
+      "halfSize": [
+        9.560990000143647,
+        10.62565500009805,
+        7.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1094713355,
+        3,
+        [
+          [
+            2912806855,
+            4,
+            "MARKS AND SPENCER",
+            "PORTION A (MAJOR PORTION) OF G/F, NO. 80 GLOUCESTER ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-20"
+          ],
+          [
+            3612801351,
+            5,
+            "MARKS AND SPENCER",
+            "PORTION D OF G/F, NO. 80 GLOUCESTER ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-17"
+          ],
+          [
+            3212800868,
+            6,
+            "MARKS AND SPENCER",
+            "PORTION A (MINOR PORTION) OF G/F, NO. 80 GLOUCESTER ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713383
+        ]
+      ],
+      "coordinate": [
+        1.9926931787325868,
+        0.3888410770965431,
+        10.75
+      ],
+      "halfSize": [
+        11.799999999813735,
+        9.996120000258088,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713356,
+        2,
+        [
+          [
+            2112800318,
+            1,
+            "Kowloon Restaurant",
+            "MINOR PORTION OF SHOP 7 AND SHOP 8, G/F., OPULENT BUILDING, NO. 396 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2912809429,
+            4,
+            "Bread Shows",
+            "SHOP NO. 3, GROUND FLOOR, OPULENT BUILDING, 396-416 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713386
+        ]
+      ],
+      "coordinate": [
+        1.99282401992674,
+        0.3888390385100072,
+        9.800000190734863
+      ],
+      "halfSize": [
+        26.73126500006765,
+        18.71110500022769,
+        6.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1094713357,
+        1,
+        [
+          [
+            2912115531,
+            4,
+            "Novotel Century Hong Kong",
+            "BASEMENT 4 (PORTION), NOVOTEL CENTURY HONG KONG, 238 JAFFE ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713387
+        ]
+      ],
+      "coordinate": [
+        1.992753456478947,
+        0.3888387677986804,
+        11.40000057220459
+      ],
+      "halfSize": [
+        31.507355000358075,
+        19.631499999202788,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713358,
+        1,
+        [
+          [
+            2912116871,
+            4,
+            "\u826f\u53cb\u5feb\u9910",
+            "SHOP C, G/F, 157 JAFFE ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713388
+        ]
+      ],
+      "coordinate": [
+        1.9927138296102713,
+        0.38884012465879203,
+        6.949999809265137
+      ],
+      "halfSize": [
+        15.293025000020862,
+        8.839970000088215,
+        3.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1094713359,
+        6,
+        [
+          [
+            2918800558,
+            4,
+            "UNITED CAFE",
+            "SHOP 2020, 2/F., UNITED CENTRE, 95 QUEENSWAY, HONG KONG",
+            null,
+            "2026-04-09"
+          ],
+          [
+            2918803733,
+            4,
+            "Fusion",
+            "STALL NO. 5, UNITS 1029-1043, 1/F., UNITED CENTRE, 95 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2918803751,
+            4,
+            "Fusion",
+            "STALL NO. 3, UNITS 1029-1043, 1/F., UNITED CENTRE, 95 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2918803760,
+            4,
+            "Fusion",
+            "STALL NO. 4, UNITS 1029-1043, 1/F., UNITED CENTRE, 95 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2918808987,
+            4,
+            "Sai Cafe",
+            "SHOP 2022A, 2/F., UNITED CENTRE, 95 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-05-30"
+          ],
+          [
+            3618800767,
+            5,
+            "Fusion",
+            "PORTIONS OF UNITS 1029-1043, 1/F., UNITED CENTRE, 95 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713394
+        ]
+      ],
+      "coordinate": [
+        1.9925601700680806,
+        0.3888346771636095,
+        14.25
+      ],
+      "halfSize": [
+        41.73847999982536,
+        30.40504999924451,
+        8.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713360,
+        1,
+        [
+          [
+            2913213753,
+            4,
+            "Circle K",
+            "SHOP NO. 1 (PTN), LG/F, CITIBANK PLAZA, 3 GARDEN ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713397
+        ]
+      ],
+      "coordinate": [
+        1.9924810466527851,
+        0.38883294904236193,
+        14.799999237060547
+      ],
+      "halfSize": [
+        43.657150000333786,
+        38.22179999947548,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1094713361,
+        1,
+        [
+          [
+            2912089425,
+            4,
+            "Connie's Delicious Sandwiches",
+            "G/F, 164 JAFFE RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713400
+        ]
+      ],
+      "coordinate": [
+        1.9927191175039511,
+        0.38883652806077595,
+        5.300000190734863
+      ],
+      "halfSize": [
+        14.343634999822825,
+        8.775665000081062,
+        1.7999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1094713362,
+        2,
+        [
+          [
+            2912808781,
+            4,
+            "MEAT ASSEMBLY",
+            "SHOP 12A, G/F., KIN LEE BUILDING, NO. 130-146 JAFFE ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912810362,
+            4,
+            "FOTD",
+            "SHOP 13, G/F, KIN LEE BUILDING, NO. 130-146 JAFFE ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713405
+        ]
+      ],
+      "coordinate": [
+        1.9927047781955871,
+        0.3888350110766188,
+        8.449999809265137
+      ],
+      "halfSize": [
+        30.588150000199676,
+        10.497589999809861,
+        5.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713363,
+        1,
+        [
+          [
+            2112800372,
+            1,
+            "Victory A Cafe",
+            "MINOR PORTION OF SHOP B, G/F, OFFICEPLUS @WAN CHAI, NO. 303 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713417
+        ]
+      ],
+      "coordinate": [
+        1.9927761025149955,
+        0.38883197685289933,
+        10.899999618530273
+      ],
+      "halfSize": [
+        16.149999999906868,
+        12.49199999962002,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713364,
+        2,
+        [
+          [
+            2912801203,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP A, G/F., 151 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            3212800187,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP A, G/F., 151 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713419
+        ]
+      ],
+      "coordinate": [
+        1.992701605771882,
+        0.38883161732390153,
+        10.949999809265137
+      ],
+      "halfSize": [
+        9.895095000043511,
+        9.860905000008643,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713365,
+        1,
+        [
+          [
+            2918806848,
+            4,
+            "The Murray Food Factory",
+            "PORTION OF LG/F., 22 COTTON TREE DRIVE, CENTRAL, HONG KONG",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713422
+        ]
+      ],
+      "coordinate": [
+        1.9924702478687066,
+        0.3888248616046868,
+        20.700000762939453
+      ],
+      "halfSize": [
+        50.12912927888101,
+        38.516014880442526,
+        1.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1094713366,
+        12,
+        [
+          [
+            2912805843,
+            4,
+            "OKONOMI",
+            "SHOP G14, G/F., WING TAK MANSION, NO. 15 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2912808356,
+            4,
+            "New Kwok Wah Meat Company",
+            "PORTION A OF SHOP NO. G-13, G/F, WING TAK MANSION, 15 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-05"
+          ],
+          [
+            4912811363,
+            4,
+            "\u4e03\u5f69\u96f2\u5357\u7c91\u7c91",
+            "SHOP G15, G/F, WING TAK MANSION, 15 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-24"
+          ],
+          [
+            3612023551,
+            5,
+            "\u591a\u5bf6\u9bae\u9b5a",
+            "SHOP G18, G/F, WING TAK MANSION, 15 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3612040563,
+            5,
+            "\u5ee3\u5229",
+            "SHOP G23, G/F, WING TAK BLDG, 16B BOWRINGTON RD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3612133366,
+            5,
+            "\u798f\u661f\u6d77\u9bae",
+            "SHOP G18B, G/F, WING TAK MANSION, 15 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-18"
+          ],
+          [
+            3612800695,
+            5,
+            "\u9bea\u9b5a\u4f6c",
+            "PORTION A OF SHOP NO. 19, G/F., WING TAK MANSION, 15 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-11"
+          ],
+          [
+            3612801290,
+            5,
+            "QDAMA (BOWRINGTON ROAD)",
+            "PORTIONS OF SHOP 22, G/F, WING TAK BUILDING, 16B BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-19"
+          ],
+          [
+            3612801430,
+            5,
+            "\u660c\u8aa0\u51cd\u8089\u98df\u54c1",
+            "SHOP G21, G/F, WING TAK BUILDING, 16B BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3612801458,
+            5,
+            "New Kwok Wah Meat Company",
+            "PORTION B OF SHOP NO. G-13, G/F, WING TAK MANSION, 15 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-05"
+          ],
+          [
+            3612801661,
+            5,
+            "\u798f\u661f\u6d77\u9bae",
+            "SHOP 20, G/F, WING TAK MANSION, 16B BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-12"
+          ],
+          [
+            4612801712,
+            5,
+            "No Record",
+            "PORTION A OF SHOP G20, G/F, WING TAK MANSION, 16B BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713425
+        ]
+      ],
+      "coordinate": [
+        1.992831391986926,
+        0.38882432451925164,
+        7.950000286102295
+      ],
+      "halfSize": [
+        16.785500000230968,
+        37.196000000461936,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1094713367,
+        4,
+        [
+          [
+            2912801133,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP G4, G/F., HENNESSY HOUSE (C.L.I. BUILDING), 313-317B HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2912809410,
+            4,
+            "Shun Ya",
+            "PORTION A ON BASEMENT, WINLAND SQUARE, 314-324 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-16"
+          ],
+          [
+            3612801713,
+            5,
+            "Shun Ya",
+            "PORTIONS OF BASEMENT, WINLAND SQUARE, 314-324 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-04"
+          ],
+          [
+            3212800141,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP G4, G/F., HENNESSY HOUSE (C.L.I. BUILDING), 313-317B HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713426
+        ]
+      ],
+      "coordinate": [
+        1.992788517995041,
+        0.3888271453378179,
+        11.75
+      ],
+      "halfSize": [
+        15.802279999945313,
+        14.93650500010699,
+        8.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713368,
+        1,
+        [
+          [
+            3612801759,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP D1-D2 & D3, UPPER G/F., HUNG YIP BUILDING, NO. 234 & 236 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713428
+        ]
+      ],
+      "coordinate": [
+        1.9928048993301402,
+        0.3888261601669534,
+        7.300000190734863
+      ],
+      "halfSize": [
+        16.92211000015959,
+        16.828734999522567,
+        3.0
+      ]
+    },
+    {
+      "attributes": [
+        1094713369,
+        1,
+        [
+          [
+            3212801074,
+            6,
+            "PCCW Garden",
+            "PORTION A OF B/F, LOCKHART EXCHANGE BUILDING, 3 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713429
+        ]
+      ],
+      "coordinate": [
+        1.992631254919531,
+        0.38882519435585766,
+        11.449999809265137
+      ],
+      "halfSize": [
+        19.426199999637902,
+        19.956925000064075,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1094713370,
+        4,
+        [
+          [
+            2912807344,
+            4,
+            "YING FUNG HAINAN CHICKEN SPECIALIST",
+            "SHOP NO. 6, G/F, FORTUNE BUILDING, NOS. 150, 152, 154, 156 & 158 LOCKHART ROAD, NOS. 7D, 7E & 7F, O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2912808301,
+            4,
+            "SEA++",
+            "UNIT 6-7 OF FLAT C, 1/F., FORTUNE BUILDING, 150-158 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2912808675,
+            4,
+            "THE CORNER",
+            "PORTION A OF ROOM A & B, 1/F., FORTUNE BUILDING, 150-158 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2912808912,
+            4,
+            "\u91d1\u6cf0\u4e32\u71d2",
+            "SHOP NO. 8, G/F, FORTUNE BUILDING, NOS. 150-158 LOCKHART ROAD, NOS. 7D-7F O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713433
+        ]
+      ],
+      "coordinate": [
+        1.9927027560330628,
+        0.3888252575718899,
+        9.199999809265137
+      ],
+      "halfSize": [
+        11.910470000002533,
+        9.889695000834763,
+        5.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1094713371,
+        1,
+        [
+          [
+            2912802303,
+            4,
+            "COCO",
+            "G/F., WAI LUN MANSION, 78-84A HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713438
+        ]
+      ],
+      "coordinate": [
+        1.9926657762912632,
+        0.38882217391260476,
+        10.049999237060547
+      ],
+      "halfSize": [
+        22.2141799996607,
+        20.509999999776483,
+        6.749999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1094713372,
+        27,
+        [
+          [
+            2113100701,
+            1,
+            "ISLAND SHANGRI-LA HOTEL",
+            "LEVEL 5 (PTN), ISLAND SHANGRI-LA HOTEL, 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2113130087,
+            1,
+            "CONRAD HONG KONG",
+            "PORTION OF LEVEL 5, HOTEL CONRAD, PACIFIC PLACE II, 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2913084296,
+            4,
+            "MARRIOTT HK HOTEL",
+            "LG2(PTN.), PACIFIC PLACE, 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2913101155,
+            4,
+            "CONRAD HONG KONG",
+            "LEVEL 5(PTN.),CONRAD INTERNATIONAL HONG KONGPACIFIC PLACE II, 88 QUEENSWAY, HONG KONG",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2918803919,
+            4,
+            "Great",
+            "STALL NO. 8 & 9, UNIT 009 ON LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2918804028,
+            4,
+            "Great",
+            "STALL NO. 14, UNIT 009 ON LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2918805599,
+            4,
+            "LA VACHE !",
+            "UNIT 007 (MINOR PORTION) ON LEVEL LG1 OF PACIFIC PLACE, 88 QUEENSWAY, HONG KONG",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2918806680,
+            4,
+            "NOOD FOOD",
+            "MINOR PORTION OF SHOP 101, LEVEL 1, THE MALL, PACIFIC PLACE, 88 QUEENSWAY, ADMIRALTY, HONG KONG",
+            null,
+            "2027-03-11"
+          ],
+          [
+            2918806884,
+            4,
+            "Green Ginkgo Tea",
+            "SHOP NO. 110 (MAJOR PORTION), LEVEL 1, PACIFIC PLACE, NO. 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2918807647,
+            4,
+            "OMOTESANDO KOFFEE",
+            "KIOSK 200D ON L2, PACIFIC PLACE, 88 QUEENSWAY, ADMIRALTY, HONG KONG",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2918808464,
+            4,
+            "great",
+            "STALL NO. 27, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2918808473,
+            4,
+            "great",
+            "STALL NO. 26, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2918808507,
+            4,
+            "great",
+            "STALL NO. 23, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2918808516,
+            4,
+            "great",
+            "STALL NO. 24, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2918808525,
+            4,
+            "great",
+            "STALL NO. 25, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2918808534,
+            4,
+            "great",
+            "STALL NO. 21, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2918808543,
+            4,
+            "great",
+            "STALL NO. 22, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2918808552,
+            4,
+            "great",
+            "STALL NO. 18, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2918808561,
+            4,
+            "great",
+            "STALL NO. 19, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2918809315,
+            4,
+            "Island Water Fountain",
+            "LEVEL 4 (PORTION A), ISLAND SHANGRI-LA HOTEL, 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2918810753,
+            4,
+            "LADY M",
+            "KIOSK 2L ON L2, PACIFIC PLACE, 88 QUEENSWAY, ADMIRALTY, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2918811419,
+            4,
+            "\u5403\u8336\u4e09\u5343",
+            "SHOP 131, LEVEL 1, PACIFIC PLACE, 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2918811631,
+            4,
+            "great",
+            "STALL NO. 29, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2027-02-19"
+          ],
+          [
+            3618800828,
+            5,
+            "Great",
+            "STALL NO. 10, 11 & PORTIONS OF UNIT 009 ON LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-11-17"
+          ],
+          [
+            3213101810,
+            6,
+            "ISLAND SHANGRI-LA HOTEL",
+            "LEVEL 5(PTN), ISLAND SHANGRI-LA HOTEL, 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-12"
+          ],
+          [
+            3218800569,
+            6,
+            "Green Ginkgo Tea",
+            "SHOP NO. 110 (MINOR PORTION), LEVEL 1, PACIFIC PLACE, NO. 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2026-06-24"
+          ],
+          [
+            3218800754,
+            6,
+            "great",
+            "PORTION OF STALL NO. 25, UNIT 009, LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, HONG KONG",
+            null,
+            "2026-12-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713440
+        ]
+      ],
+      "coordinate": [
+        1.992559263205296,
+        0.3888170867298937,
+        14.050000190734863
+      ],
+      "halfSize": [
+        101.03336500003934,
+        52.55617500003427,
+        7.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713373,
+        2,
+        [
+          [
+            2912216852,
+            4,
+            "ON SITE BAKERY",
+            "SHOP NO.2, G/F, ON HONG COMMERCIAL BLDG., 145 HENNESSY RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2912800200,
+            4,
+            "OK\u4fbf\u5229\u5e97",
+            "PORTION A OF SHOP NO.3, ON HONG COMMERCIAL BUILDING, 145 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713448
+        ]
+      ],
+      "coordinate": [
+        1.9926959560579007,
+        0.38882126145188256,
+        10.899999618530273
+      ],
+      "halfSize": [
+        9.57188000017777,
+        9.282174999825656,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713374,
+        3,
+        [
+          [
+            2912804840,
+            4,
+            "SHARE TEA",
+            "SHOP F, G/F., EIB TOWER, 4-6 MORRISON HILL ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2912808587,
+            4,
+            "CRAFT COFFEE",
+            "SHOP B, G/F., EIB TOWER, 4-6 MORRISON HILL ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2912809702,
+            4,
+            "\u5433\u5c0f\u7cd6",
+            "SHOP E, G/F, EIB TOWER, 4-6 MORRISON HILL ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713449
+        ]
+      ],
+      "coordinate": [
+        1.9928111602225915,
+        0.38882052012192453,
+        12.049999237060547
+      ],
+      "halfSize": [
+        7.481150000356138,
+        11.813649999909103,
+        6.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1094713375,
+        1,
+        [
+          [
+            2912808596,
+            4,
+            "Lounge by CH",
+            "PORTION A OF G/F, 209-219 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713455
+        ]
+      ],
+      "coordinate": [
+        1.9928012369892647,
+        0.38881896377682107,
+        14.5
+      ],
+      "halfSize": [
+        18.477299999911338,
+        14.122054999694228,
+        6.700000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1094713376,
+        3,
+        [
+          [
+            2912043238,
+            4,
+            "\u8eca\u4ed4\u9eb5\u4e4b\u5bb6",
+            "G/F, 1A ANTON ST., WAN CHAI, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2912804178,
+            4,
+            "Marks and Spencer (Asia Pacific) Limited",
+            "PORTION OF SHOP B & C, G/F., KAR YAU BUILDING, 34-38 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-08"
+          ],
+          [
+            3612801342,
+            5,
+            "MARKS AND SPENCER",
+            "PORTION C OF SHOP B & C, G/F., KAR YAU BUILDING, 34-38 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713483
+        ]
+      ],
+      "coordinate": [
+        1.9926195792697698,
+        0.3888106168447009,
+        9.399999618530273
+      ],
+      "halfSize": [
+        14.021579999942333,
+        11.936010000295937,
+        3.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1094713377,
+        6,
+        [
+          [
+            2912220642,
+            4,
+            "\u8178\u7c89\u7687",
+            "SHOP D, G/F, 7-11 HEARD ST., WAN CHAI, HONG KONG",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2912801267,
+            4,
+            "Z.O.D.",
+            "SHOP NO. 12, G/F., PAO WOO MANSION, 177-179 WANCHAI ROAD, WANCHAI, HONG KONG",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2912804196,
+            4,
+            "(No record found)",
+            "UNIT C OF SHOP NOS. 7-11, G/F, PAO WOO MANSION, NOS. 177-179 WAN CHAI ROAD, NO. 51 CROSS LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-06"
+          ],
+          [
+            2912804789,
+            4,
+            "\u98df8\u574a(\u5317\u89d2)\u6709\u9650\u516c\u53f8",
+            "SHOP 13, G/F., PAO WOO MANSION, NOS. 177-179 WAN CHAI ROAD &, NO. 51 CROSS LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2912806749,
+            4,
+            "SOM TUM THAI",
+            "UNIT B OF SHOP NO. 7, 8, 9, 10 & 11, G/F., PAO WOO MANSION, NOS. 177-179 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2912807423,
+            4,
+            "Zoka&Zola",
+            "UNIT H OF SHOP NOS. 7-11, G/F., PAO WOO MANSION, NOS. 177-179 WAN CHAI ROAD, NO. 51 CROSS LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713491
+        ]
+      ],
+      "coordinate": [
+        1.9927697619007425,
+        0.3888068648278166,
+        8.5
+      ],
+      "halfSize": [
+        19.2785000000149,
+        18.54550000000745,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713378,
+        1,
+        [
+          [
+            2912805658,
+            4,
+            "\u7965\u8208\u8a18",
+            "G/F., 76 THOMSON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713496
+        ]
+      ],
+      "coordinate": [
+        1.9927071374083452,
+        0.388807016682901,
+        10.649999618530273
+      ],
+      "halfSize": [
+        5.60010000038892,
+        8.478819999843836,
+        6.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1094713379,
+        2,
+        [
+          [
+            2912808347,
+            4,
+            "MERCATO GOURMET",
+            "COUNTER 2 & 3 OF SHOP C, G/F, 3-11 WING FUNG STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-28"
+          ],
+          [
+            3612801494,
+            5,
+            "MERCATO GOURMET",
+            "PORTIONS AND COUNTER 1 OF SHOP C, G/F, 3-11 WING FUNG STREET, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713506
+        ]
+      ],
+      "coordinate": [
+        1.9926167478591454,
+        0.3888025598673504,
+        11.0
+      ],
+      "halfSize": [
+        31.751200000289828,
+        24.100955000147223,
+        4.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713380,
+        1,
+        [
+          [
+            2912808444,
+            4,
+            "759 Store",
+            "PORTION A OF SHOP A, G/F., 28-34 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713510
+        ]
+      ],
+      "coordinate": [
+        1.992650319580463,
+        0.3888005790573594,
+        8.399999618530273
+      ],
+      "halfSize": [
+        21.587309999857098,
+        25.221784999594092,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1094713381,
+        1,
+        [
+          [
+            2912807919,
+            4,
+            "\u624b\u6495\u96de",
+            "SHOP NO. 1A, G/F, FULLY BUILDING, NOS. 62-76 WAN CHAI ROAD & NOS. 10-18 TRIANGLE STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713521
+        ]
+      ],
+      "coordinate": [
+        1.992722416436763,
+        0.38879623358222815,
+        7.600000381469727
+      ],
+      "halfSize": [
+        15.175000000279397,
+        18.28000000026077,
+        3.200000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1094713382,
+        1,
+        [
+          [
+            2912809924,
+            4,
+            "Tong Kee Bao Dim",
+            "SHOP 2, G/F, 112 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713526
+        ]
+      ],
+      "coordinate": [
+        1.992695925215667,
+        0.3887961068770932,
+        11.34999942779541
+      ],
+      "halfSize": [
+        8.47503999993205,
+        9.299610000103712,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713383,
+        2,
+        [
+          [
+            2912809605,
+            4,
+            "Joa.",
+            "SHOP 3, G/F, J-RESIDENCE, 60 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-26"
+          ],
+          [
+            4912811655,
+            4,
+            "POCOFINO",
+            "SHOP NO. 2, G/F., J RESIDENCE, 60 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713528
+        ]
+      ],
+      "coordinate": [
+        1.9926619520362698,
+        0.3887937066221555,
+        8.949999809265137
+      ],
+      "halfSize": [
+        19.940429999958724,
+        21.93292499985546,
+        5.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713384,
+        2,
+        [
+          [
+            2912802570,
+            4,
+            "PACIFIC COFFEE COMPANY",
+            "PORTION OF G/F, 29 BURROWS STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2912809270,
+            4,
+            "TOKO BULE NDESO",
+            "SHOP NO. 15A, G/F, WAH TO BUILDING, NO. 42 WOOD ROAD, NO. 29 BURROWS STREET, NO. 22-30 CROSS LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713529
+        ]
+      ],
+      "coordinate": [
+        1.9927538999889578,
+        0.38879422475742825,
+        14.25
+      ],
+      "halfSize": [
+        23.50900000007823,
+        16.466500000096858,
+        9.75
+      ]
+    },
+    {
+      "attributes": [
+        1094713385,
+        1,
+        [
+          [
+            4912811309,
+            4,
+            "\u7db2\u9b5a\u96fb\u7af6(\u7063\u4ed4)",
+            "PORTION OF 2/F., YANVILLE, 8 TAI YUEN STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713532
+        ]
+      ],
+      "coordinate": [
+        1.9927005016708497,
+        0.3887934434627811,
+        9.949999809265137
+      ],
+      "halfSize": [
+        9.442044999916106,
+        14.14883999992162,
+        6.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1094713386,
+        3,
+        [
+          [
+            2912805393,
+            4,
+            "\u9577\u65fa\u6ef7\u5473\u5927\u738b",
+            "SHOP 8 (REAR PORTION), G/F., LUCKIFAST BUILDING, NOS. 1-13 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-08"
+          ],
+          [
+            3612801591,
+            5,
+            "Wellcome",
+            "BASEMENT (PORTIONS), LUCKIFAST BUILDING, NO. 1 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            3512800214,
+            8,
+            "\u9577\u65fa\u6ef7\u5473\u5927\u738b",
+            "SHOP 8 (FRONT PORTION), G/F., LUCKIFAST BUILDING, NOS. 1-13 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713533
+        ]
+      ],
+      "coordinate": [
+        1.9927038936176669,
+        0.3887932381488151,
+        8.449999809265137
+      ],
+      "halfSize": [
+        8.973389999940991,
+        15.22042499948293,
+        4.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713387,
+        1,
+        [
+          [
+            2912806378,
+            4,
+            "Big Grains",
+            "SHOP B, G/F., FOOK WO BUILDING, NOS. 10-20 TAI WO STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713547
+        ]
+      ],
+      "coordinate": [
+        1.9927110719218455,
+        0.388791196935836,
+        7.650000095367432
+      ],
+      "halfSize": [
+        9.114999999757856,
+        11.849999999627471,
+        3.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1094713388,
+        2,
+        [
+          [
+            2912808888,
+            4,
+            "\u8c46\u8150\u4e3b\u7fa9",
+            "SHOP D ON GROUND FLOOR, KAM SHING BUILDING, 14-24 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3612800589,
+            5,
+            "SUN FUNG FROZEN MEAT CO.",
+            "SHOP C, G/F., KAM SHING BUILDING, 14-24 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713553
+        ]
+      ],
+      "coordinate": [
+        1.9927079474981813,
+        0.388789432275618,
+        6.449999809265137
+      ],
+      "halfSize": [
+        8.657219999935478,
+        11.26653499994427,
+        2.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1094713389,
+        1,
+        [
+          [
+            2912107998,
+            4,
+            "\u93e1\u8a18\u7c89\u9eb5\u5ee0",
+            "G/F, 4 TAI WO ST., WAN CHAI, HONG KONG",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713563
+        ]
+      ],
+      "coordinate": [
+        1.992711441373641,
+        0.3887876395654058,
+        7.150000095367432
+      ],
+      "halfSize": [
+        8.68500000005588,
+        7.595000000670552,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1094713390,
+        1,
+        [
+          [
+            4912811619,
+            4,
+            "FANCY SALAD",
+            "PORTION 2 OF SHOP 12, G/F, ANTUNG BUILDING, 6-14 TAI WONG STREET EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713566
+        ]
+      ],
+      "coordinate": [
+        1.9926672263470677,
+        0.3887861564885601,
+        7.150000095367432
+      ],
+      "halfSize": [
+        12.997784999664873,
+        15.34461999963969,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1094713391,
+        1,
+        [
+          [
+            2912808754,
+            4,
+            "ROR COFFEE ROASTERS",
+            "SHOP 2, G/F, YEN MAY BUILDING, 11-21 SWATOW STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713568
+        ]
+      ],
+      "coordinate": [
+        1.992670123351854,
+        0.3887857396587353,
+        5.849999904632568
+      ],
+      "halfSize": [
+        9.315490000415593,
+        13.810029999352992,
+        1.75
+      ]
+    },
+    {
+      "attributes": [
+        1094713392,
+        1,
+        [
+          [
+            2912807052,
+            4,
+            "KNEAD",
+            "SHOP 3 (PORTION A), UG/F., MANRICH COURT, 33 ST. FRANCIS STREET, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713573
+        ]
+      ],
+      "coordinate": [
+        1.992622510645395,
+        0.3887851256194754,
+        20.25
+      ],
+      "halfSize": [
+        22.29069000016898,
+        13.329029999673367,
+        3.6499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1094713393,
+        1,
+        [
+          [
+            2912803759,
+            4,
+            "\u86c7\u738b\u71ca",
+            "SHOP J, G/F., 12 CROSS STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713576
+        ]
+      ],
+      "coordinate": [
+        1.9926977101044283,
+        0.388784295543994,
+        9.699999809265137
+      ],
+      "halfSize": [
+        6.173840000294149,
+        9.748680000193417,
+        5.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713394,
+        1,
+        [
+          [
+            3612095378,
+            5,
+            "\u6210\u8208",
+            "SHOP 6-8, G/F, 18 CROSS ST., WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713577
+        ]
+      ],
+      "coordinate": [
+        1.9927027115858413,
+        0.3887843911958634,
+        6.5
+      ],
+      "halfSize": [
+        15.679820000194013,
+        8.198770000599325,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713395,
+        2,
+        [
+          [
+            2912809669,
+            4,
+            "Aunew Food",
+            "PORTION A OF UNIT B1, G/F, THE ZENITH, NO. 3 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-20"
+          ],
+          [
+            3612801777,
+            5,
+            "Aunew Food",
+            "PORTION B OF UNIT B1, G/F, THE ZENITH, NO. 3 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713580
+        ]
+      ],
+      "coordinate": [
+        1.9927152635449459,
+        0.38877832492215536,
+        13.049999237060547
+      ],
+      "halfSize": [
+        18.661424999590963,
+        41.48837999999523,
+        8.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713396,
+        3,
+        [
+          [
+            2112800178,
+            1,
+            "\u91d1\u9cf3\u8336\u9910\u5ef3",
+            "G/F(MINOR PTN), 41 SPRING GARDEN LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2912807690,
+            4,
+            "\u559c\u9ede DiM",
+            "SHOP H, G/F, SPRING GARDEN MANSION, NO. 29-41 SPRING GARDEN LANE, HONG KONG",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2912810238,
+            4,
+            "\u541b\u6a02\u6d77\u5357\u96de",
+            "SHOP E, G/F, SPRING GARDEN MANSION, 29-41 SPRING GARDEN LANE, HONG KONG",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713581
+        ]
+      ],
+      "coordinate": [
+        1.9926881417269577,
+        0.38878219618383303,
+        7.600000381469727
+      ],
+      "halfSize": [
+        12.32785000000149,
+        16.902809999883175,
+        3.200000047683716
+      ]
+    },
+    {
+      "attributes": [
+        1094713397,
+        1,
+        [
+          [
+            2912803731,
+            4,
+            "Tallore",
+            "SHOP D, G/F., HUNDRED CITY CENTRE, NO. 7-17 AMOY STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713585
+        ]
+      ],
+      "coordinate": [
+        1.9926741242190111,
+        0.38878208447457197,
+        10.450000762939453
+      ],
+      "halfSize": [
+        9.171019999776036,
+        12.708899999968708,
+        6.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1094713398,
+        2,
+        [
+          [
+            2912807098,
+            4,
+            "\u5927\u6c60\u8a18",
+            "SHOP 3, G/F, VALIANT COURT, 33 CROSS STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-03"
+          ],
+          [
+            3612800808,
+            5,
+            "No Record",
+            "SHOP 2 (PORTION), G/F, 31-37 CROSS STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713589
+        ]
+      ],
+      "coordinate": [
+        1.99271084746891,
+        0.38878133535195536,
+        7.199999809265137
+      ],
+      "halfSize": [
+        7.530155000276864,
+        6.085734999738634,
+        2.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1094713399,
+        4,
+        [
+          [
+            2912804503,
+            4,
+            "THE PASTA SHACK",
+            "SHOP B2A, G/F., MOUNTAIN VIEW MANSION, NO. 4 SWATOW STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2912805612,
+            4,
+            "\u798f\u81b3\u5f01\u5802",
+            "SHOP C2B, G/F., NO. 1 AMOY STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2912809207,
+            4,
+            "KLF Coffee",
+            "SHOP A1, G/F, MOUNTAIN VIEW MANSION, 2-10 SWATOW STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-06"
+          ],
+          [
+            4912811390,
+            4,
+            "(No Record Found)",
+            "SHOP B1, G/F., MOUNTAIN VIEW MANSION, NO. 4 SWATOW STREET & NO. 1 AMOY STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713590
+        ]
+      ],
+      "coordinate": [
+        1.9926715112119862,
+        0.3887797730321643,
+        7.200000286102295
+      ],
+      "halfSize": [
+        12.174700000323355,
+        13.550749999471009,
+        2.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1094713400,
+        2,
+        [
+          [
+            2912172723,
+            4,
+            "HK Jockey Club",
+            "FORECOURT OF PUBLIC STAND I BLDG., HAPPY VALLEY RACECOURSE, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2912803971,
+            4,
+            "THE HONG KONG JOCKEY CLUB",
+            "1/F., PAVILION STAND, HAPPY VALLEY RACECOURSE, HONG KONG",
+            null,
+            "2026-05-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713592
+        ]
+      ],
+      "coordinate": [
+        1.9928391210950698,
+        0.3887779625715732,
+        10.0
+      ],
+      "halfSize": [
+        17.930209999904037,
+        22.2160000000149,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1094713401,
+        1,
+        [
+          [
+            3612800862,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP A, A1, B1, B2 & C, FU YUEN BUILDING, 1-7 CROSS STREET, 16 SAM PAN STREET, 20C-D SPRING GARDEN LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713595
+        ]
+      ],
+      "coordinate": [
+        1.9926914513178877,
+        0.38877878757445705,
+        6.0
+      ],
+      "halfSize": [
+        12.207595000043511,
+        12.32818500045687,
+        1.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1094713402,
+        1,
+        [
+          [
+            2912803713,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOPS G & H, G/F., NEW SPRING GARDEN MANSION, NO. 47-65 SPRING GARDEN LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713596
+        ]
+      ],
+      "coordinate": [
+        1.992684506184122,
+        0.38877558974775395,
+        9.050000190734863
+      ],
+      "halfSize": [
+        15.472094999626279,
+        23.37698999978602,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1094713403,
+        1,
+        [
+          [
+            3612800899,
+            5,
+            "CHUN HING EXCELLENT FOOD MARKET",
+            "SHOP B, G/F., YAN YEE COURT, 28 WAN CHAI ROAD, HONG KONG",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713600
+        ]
+      ],
+      "coordinate": [
+        1.9927094168363353,
+        0.3887758326127772,
+        7.75
+      ],
+      "halfSize": [
+        8.500440000090748,
+        9.477255000732839,
+        2.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1094713404,
+        1,
+        [
+          [
+            2912805588,
+            4,
+            "Beard papa's",
+            "SPACE A, G/F., QRE PLAZA, 202 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713605
+        ]
+      ],
+      "coordinate": [
+        1.9926809684909437,
+        0.3887718418332344,
+        12.899999618530273
+      ],
+      "halfSize": [
+        15.851539999712259,
+        14.271355000324547,
+        6.700000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1094713405,
+        1,
+        [
+          [
+            2912804743,
+            4,
+            "Delihongkong",
+            "SHOP NO. A, G/F., RICH GARDEN, NOS. 5-7 KING SING STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713626
+        ]
+      ],
+      "coordinate": [
+        1.992719216748178,
+        0.3887565475483145,
+        14.300000190734863
+      ],
+      "halfSize": [
+        5.163499999791384,
+        6.3059999998658895,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713406,
+        2,
+        [
+          [
+            2912087304,
+            4,
+            "HK Jockey Club",
+            "G/F(PTN), 1/F(PTN), 2/F(PTN) & 6/F(PTN), PII STAND, THE HONG KONG JOCKEY CLUB, HAPPY VALLEY RACECOURSE, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2912805339,
+            4,
+            "CO-TACK CAFE",
+            "MINOR PORTION OF 1/F., MEMBERS STAND 1, THE HONG KONG JOCKEY CLUB, HAPPY VALLEY RACECOURSE, HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713630
+        ]
+      ],
+      "coordinate": [
+        1.9928128097364501,
+        0.38875097987245766,
+        9.0
+      ],
+      "halfSize": [
+        13.391499999910593,
+        30.414499999955297,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713407,
+        1,
+        [
+          [
+            2912810016,
+            4,
+            "(No Record Found)",
+            "SHOP H, G/F, KING SING HOUSE, NO. 1A KENNEDY STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713631
+        ]
+      ],
+      "coordinate": [
+        1.992720583397626,
+        0.38875163943646607,
+        12.899999618530273
+      ],
+      "halfSize": [
+        8.951499999966472,
+        16.58215000014752,
+        2.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1094713408,
+        2,
+        [
+          [
+            4912811497,
+            4,
+            "Blue Bubble",
+            "SHOP 2, HARBOURCHILL, WAN CHAI TEMPORARY PROMENADE, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-16"
+          ],
+          [
+            4912811503,
+            4,
+            "Deli Waves",
+            "SHOP 1, HARBOURCHILL, WAN CHAI TEMPORARY PROMENADE, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713657
+        ]
+      ],
+      "coordinate": [
+        1.9927028014520667,
+        0.38894075919210414,
+        6.900000095367432
+      ],
+      "halfSize": [
+        11.598455000203103,
+        8.275000000372529,
+        1.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1094713409,
+        10,
+        [
+          [
+            2912141000,
+            4,
+            "HONG KONG CONVENTION & EXHIBITION CENTRE",
+            "LEVEL 1(COFFEE CART PORTION), HK CONVENTION & EXHIBITION CENTRE, 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2912144762,
+            4,
+            "HONG KONG CONVENTION & EXHIBITION CENTRE",
+            "LEVEL 5, HK CONVENTION & EXHIBITION CENTRE , 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            2912145589,
+            4,
+            "HONG KONG CONVENTION & EXHIBITION CENTRE",
+            "LEVEL 1, HK CONVENTION & EXHIBITION CENTRE , 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-16"
+          ],
+          [
+            2912145598,
+            4,
+            "HONG KONG CONVENTION & EXHIBITION CENTRE",
+            "LEVEL 3, HK CONVENTION & EXHIBITION CENTRE , 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2912801586,
+            4,
+            "Burgers.Salads.Pizza",
+            "L3 (PORTION B), HONG KONG CONVENTION AND EXHIBITION CENTRE, NO. 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2912801595,
+            4,
+            "Chinese Delicacies",
+            "L3 (PORTION A), HONG KONG CONVENTION AND EXHIBITION CENTRE, NO. 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2912801601,
+            4,
+            "Hong Kong Cafe'",
+            "L1 (PORTION A), HONG KONG CONVENTION AND EXHIBITION CENTRE, NO. 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2912801610,
+            4,
+            "European Delights",
+            "L1 (PORTION B), HONG KONG CONVENTION AND EXHIBITION CENTRE, NO. 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2912804150,
+            4,
+            "Hong Kong Convention and Exhibition Centre",
+            "FOOD CONCESSION F4 AT L1 (LEVEL +14.4), HONG KONG CONVENTION AND EXHIBITION CENTRE, 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-24"
+          ],
+          [
+            2912804169,
+            4,
+            "Hong Kong Convention and Exhibition Centre",
+            "FOOD CONCESSION F8 AT L3 (LEVEL +29.4), HONG KONG CONVENTION AND EXHIBITION CENTRE, 1 EXPO DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713660
+        ]
+      ],
+      "coordinate": [
+        1.9926956410709218,
+        0.38891186759657376,
+        36.95000076293945
+      ],
+      "halfSize": [
+        93.0241449996829,
+        165.99902500025928,
+        33.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1094713410,
+        1,
+        [
+          [
+            2912800820,
+            4,
+            "\u7063\u4ed4\u7403\u5834\u5c0f\u98df\u4ead",
+            "KIOSK, 2/F., WAN CHAI SPORTS GROUND, 20 TONNOCHY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713688
+        ]
+      ],
+      "coordinate": [
+        1.9927720526676103,
+        0.38887878699004114,
+        10.75
+      ],
+      "halfSize": [
+        34.30642500007525,
+        71.95324499998242,
+        6.25
+      ]
+    },
+    {
+      "attributes": [
+        1094713411,
+        1,
+        [
+          [
+            2918807753,
+            4,
+            "NODI",
+            "PORTION A OF L01, L/F (SECOND FLOOR LOBBY), AIA CENTRAL, 1 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713695
+        ]
+      ],
+      "coordinate": [
+        1.992499831081496,
+        0.38888221336191253,
+        89.1500015258789
+      ],
+      "halfSize": [
+        25.258780000265688,
+        24.22984000016004,
+        84.45000457763672
+      ]
+    },
+    {
+      "attributes": [
+        1094713412,
+        1,
+        [
+          [
+            2112087263,
+            1,
+            "Grand Hyatt Hotel",
+            "B/M (PTN.), GRAND HYATT HK HOTEL, 1 HARBOUR RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-12-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713696
+        ]
+      ],
+      "coordinate": [
+        1.9926794979927596,
+        0.3888826025936863,
+        96.1500015258789
+      ],
+      "halfSize": [
+        32.94344499986619,
+        24.783125000074506,
+        40.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1094713413,
+        3,
+        [
+          [
+            2912808277,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G6, G/F, HARBOUR CENTRE, 25 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2912810210,
+            4,
+            "(No Record Found)",
+            "SHOP 106, 1/F, HARBOUR CENTRE, 25 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-07"
+          ],
+          [
+            3212050074,
+            6,
+            "7-eleven",
+            "SHOP NO.6 (PTN. A), G/F, HARBOUR CENTRE, 25 HARBOUR RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713702
+        ]
+      ],
+      "coordinate": [
+        1.9927399340664675,
+        0.38887817872095937,
+        82.70000457763672
+      ],
+      "halfSize": [
+        23.071314999833703,
+        18.54389499966055,
+        60.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1094713414,
+        1,
+        [
+          [
+            2912802118,
+            4,
+            "PACIFIC COFFEE COMPANY",
+            "PORTION OF 2/F., CENTRAL PLAZA, 18 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713723
+        ]
+      ],
+      "coordinate": [
+        1.9927040192291687,
+        0.38886010593403575,
+        192.3000030517578
+      ],
+      "halfSize": [
+        39.14843499986455,
+        41.39502000063658,
+        188.40000915527344
+      ]
+    },
+    {
+      "attributes": [
+        1094713415,
+        2,
+        [
+          [
+            2912806013,
+            4,
+            "THE CORNER COFFEE",
+            "KIOSK, G/F., HONG KONG ARTS CENTRE, 2 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2912809492,
+            4,
+            "Shiro bakery",
+            "SHOP 408, 4/F, HONG KONG ARTS CENTRE, 2 HARBOUR ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713740
+        ]
+      ],
+      "coordinate": [
+        1.992656736459845,
+        0.3888623115293908,
+        36.45000076293945
+      ],
+      "halfSize": [
+        16.302239999640733,
+        17.226154999807477,
+        32.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1094713416,
+        6,
+        [
+          [
+            2918803177,
+            4,
+            "Starbucks Coffee",
+            "SHOP NO. A04, FIRST FLOOR, QUEENSWAY PLAZA, 93 QUEENSWAY, ADMIRALTY, HONG KONG",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2918803502,
+            4,
+            "AROME BAKERY",
+            "SHOP F03 (MAJOR PORTION), FIRST FLOOR, QUEENSWAY PLAZA, 93 QUEENSWAY, ADMIRALTY, HONG KONG",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2918805942,
+            4,
+            "Ten Ren Tea",
+            "SHOP NO. D14-15, 1/F., QUEENSWAY PLAZA, 93 QUEENSWAY, ADMIRALTY, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2918807896,
+            4,
+            "Hana-Musubi",
+            "SHOP NO. F07, FIRST FLOOR, QUEENSWAY PLAZA, ADMIRALTY, HONG KONG",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2918810735,
+            4,
+            "Mango Madness",
+            "SHOP NO. D02B, FIRST FLOOR, QUEENSWAY PLAZA, 93 QUEENSWAY, HONG KONG",
+            null,
+            "2026-06-26"
+          ],
+          [
+            3218800435,
+            6,
+            "AROME BAKERY",
+            "SHOP F03 (MINOR PORTION), FIRST FLOOR, QUEENSWAY PLAZA, 93 QUEENSWAY, ADMIRALTY, HONG KONG",
+            null,
+            "2027-02-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713763
+        ]
+      ],
+      "coordinate": [
+        1.9925443380677956,
+        0.38884507241356037,
+        11.649999618530273
+      ],
+      "halfSize": [
+        82.78541000001132,
+        86.8755599996075,
+        6.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713417,
+        9,
+        [
+          [
+            2918807212,
+            4,
+            "food le parc",
+            "STALL NO. 7, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2918807221,
+            4,
+            "food le parc",
+            "STALL NO. 5, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2918807230,
+            4,
+            "food le parc",
+            "STALL NO. 6, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-11-29"
+          ],
+          [
+            2918807249,
+            4,
+            "food le parc",
+            "STALL NO. 2, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-11-29"
+          ],
+          [
+            2918807258,
+            4,
+            "food le parc",
+            "STALL NO. 1, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2918807267,
+            4,
+            "food le parc",
+            "STALL NO. 4, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2918808349,
+            4,
+            "HANA MUSUBI",
+            "KIOSK 2, B2, CHEUNG KONG CENTRE, 2 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3618801405,
+            5,
+            "food le parc",
+            "STALL NO. 8, 9 & PORTIONS, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-11-21"
+          ],
+          [
+            3218800587,
+            6,
+            "food le parc",
+            "STALL NO. 3, BL2 (PORTION), CHEUNG KONG CENTER, CENTRAL, HONG KONG",
+            null,
+            "2026-12-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713773
+        ]
+      ],
+      "coordinate": [
+        1.992477272637333,
+        0.3888513725347801,
+        147.95001220703125
+      ],
+      "halfSize": [
+        32.74682499980554,
+        32.75221500080079,
+        140.75
+      ]
+    },
+    {
+      "attributes": [
+        1094713418,
+        1,
+        [
+          [
+            2912235222,
+            4,
+            "Circle K Convenience Stores",
+            "G/F., PORTION A OF SHOP NO. 2, WAI TAK BUILDING, 414, 418-430 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713781
+        ]
+      ],
+      "coordinate": [
+        1.9928298899226946,
+        0.3888529041309246,
+        26.0
+      ],
+      "halfSize": [
+        23.919265000149608,
+        16.362455000169575,
+        22.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1094713419,
+        1,
+        [
+          [
+            2918807036,
+            4,
+            "Pacific Coffee Company",
+            "WEST HALL OF 1/F., BANK OF CHINA TOWER, 1 GARDEN ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713799
+        ]
+      ],
+      "coordinate": [
+        1.9924952992822742,
+        0.3888467586576616,
+        158.64999389648438
+      ],
+      "halfSize": [
+        34.22210999997333,
+        34.120370000600815,
+        151.64999389648438
+      ]
+    },
+    {
+      "attributes": [
+        1094713420,
+        1,
+        [
+          [
+            2912810256,
+            4,
+            "JF Kitchen",
+            "13/F, KA NIN WAH COMMERCIAL BUILDING, 423-425 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713800
+        ]
+      ],
+      "coordinate": [
+        1.9928323348630814,
+        0.3888502457967197,
+        38.150001525878906
+      ],
+      "halfSize": [
+        7.7703650002367795,
+        9.837730000726879,
+        34.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1094713421,
+        1,
+        [
+          [
+            2912808055,
+            4,
+            "Freshlane",
+            "SHOP 3 OF GROUND FLOOR AND PORTION B OF BASEMENT, EASTERN COMMERCIAL CENTRE, 395-399 HENNESSY ROAD, HONG KONG",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713816
+        ]
+      ],
+      "coordinate": [
+        1.992823111056521,
+        0.38884679518712906,
+        39.04999923706055
+      ],
+      "halfSize": [
+        21.132974999956787,
+        15.265704999677837,
+        35.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1094713422,
+        1,
+        [
+          [
+            2912800839,
+            4,
+            "Wing Shing Fruit Shop",
+            "SHOP 4C, GROUND FLOOR, TUNG WAI COMMERCIAL BUILDING, 26 FLEMING ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713834
+        ]
+      ],
+      "coordinate": [
+        1.9927187165710847,
+        0.38884261733421704,
+        48.14999771118164
+      ],
+      "halfSize": [
+        15.38323500007391,
+        18.748575000092387,
+        44.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1094713423,
+        1,
+        [
+          [
+            2912808222,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "SHOP B2, G/F., 313 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713842
+        ]
+      ],
+      "coordinate": [
+        1.9927811077382023,
+        0.3888433618693836,
+        23.849998474121094
+      ],
+      "halfSize": [
+        4.953684999607503,
+        8.987499999813735,
+        20.25
+      ]
+    },
+    {
+      "attributes": [
+        1094713424,
+        4,
+        [
+          [
+            2912809650,
+            4,
+            "Aunew Food",
+            "PORTION A OF SHOP NO. 2A, G/F, YAU KWONG BUILDING, NO. 418-430 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-20"
+          ],
+          [
+            3612078171,
+            5,
+            "Wellcome",
+            "BASEMENT(PORTION), 418-428 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3612801254,
+            5,
+            "\u51cd\u8089\u4f6c",
+            "PORTIONS OF SHOP 2C, G/F, YAU KWONG BUILDING, NO. 418-430 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-10"
+          ],
+          [
+            3612801768,
+            5,
+            "Aunew Food",
+            "PORTION B OF SHOP NO. 2A, G/F, YAU KWONG BUILDING, NO. 418-430 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713844
+        ]
+      ],
+      "coordinate": [
+        1.9928327203292866,
+        0.38884225814992224,
+        30.799999237060547
+      ],
+      "halfSize": [
+        16.568055000156164,
+        13.259510000236332,
+        27.0
+      ]
+    },
+    {
+      "attributes": [
+        1094713425,
+        3,
+        [
+          [
+            2912800440,
+            4,
+            "Saint Honore Cake Shop",
+            "SHOP E, G/F, TOP VIEW MANSION, 10 CANAL ROAD WEST, HONG KONG",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2912809119,
+            4,
+            "DEE DEE BAKERY",
+            "SHOP G, G/F, 10 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2912809155,
+            4,
+            "Legend Bakeology",
+            "SHOP H, G/F, TOP VIEW MANSION, 10 CANAL ROAD WEST, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713875
+        ]
+      ],
+      "coordinate": [
+        1.992833544648393,
+        0.3888370467346353,
+        30.799999237060547
+      ],
+      "halfSize": [
+        8.912715000100434,
+        21.88768499996513,
+        26.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713426,
+        5,
+        [
+          [
+            3612800127,
+            5,
+            "Tung Hing Seafood",
+            "G/F., 14 & 14A-16 BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-07"
+          ],
+          [
+            3612800181,
+            5,
+            "Tung Bo Food Co.",
+            "G/F., 10 BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-19"
+          ],
+          [
+            3612800914,
+            5,
+            "\u5fb7\u7965(\u9686\u8a18)\u9bae\u8089",
+            "SHOP J, G/F., BOWRINGTON BUILDING, 12 BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-07"
+          ],
+          [
+            3612801023,
+            5,
+            "\u806f\u76db\u98df\u54c1\u5e02\u5834",
+            "SHOP D ON GROUND FLOOR, BOWRINGTON BUILDING, NOS. 2-16A BOWRINGTON ROAD, HONG KONG",
+            null,
+            "2026-09-13"
+          ],
+          [
+            3612801421,
+            5,
+            "\u76c8\u8208\u98df\u54c1",
+            "SHOP E, G/F, BOWRINGTON BUILDING, 2-16A BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713886
+        ]
+      ],
+      "coordinate": [
+        1.992830595770013,
+        0.388836293174866,
+        37.54999923706055
+      ],
+      "halfSize": [
+        7.258110000286251,
+        11.788244999945164,
+        33.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1094713427,
+        1,
+        [
+          [
+            2918805809,
+            4,
+            "NOOD FOOD",
+            "PORTION OF 3/F., ICBC TOWER, 3 GARDEN ROAD, CENTRAL, HONG KONG",
+            null,
+            "2027-01-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713888
+        ]
+      ],
+      "coordinate": [
+        1.992484491254974,
+        0.3888324515770458,
+        96.94999694824219
+      ],
+      "halfSize": [
+        21.509765000082552,
+        33.05682499986142,
+        77.55000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1094713428,
+        1,
+        [
+          [
+            2912212522,
+            4,
+            "7-eleven",
+            "SHOP NO.2 (PORT.B), G/F, 20 LUARD RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713890
+        ]
+      ],
+      "coordinate": [
+        1.9926761116785636,
+        0.38883666902612846,
+        24.600000381469727
+      ],
+      "halfSize": [
+        10.085950000211596,
+        8.125,
+        21.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713429,
+        1,
+        [
+          [
+            4912811406,
+            4,
+            "\u5442\u9326\u8a18",
+            "SHOP B8, G/F, KAM KOON BUILDING, 308-312 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713898
+        ]
+      ],
+      "coordinate": [
+        1.992777785218622,
+        0.3888358358412338,
+        38.89999771118164
+      ],
+      "halfSize": [
+        9.57200500043109,
+        10.14850499946624,
+        35.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1094713430,
+        2,
+        [
+          [
+            3612189314,
+            5,
+            "\u5408\u8208\u7965",
+            "G/F, 6A BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3612801643,
+            5,
+            "Shearer Butcher Shop",
+            "FRONT PORTION OF G/F, 11 BOWRINGTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713905
+        ]
+      ],
+      "coordinate": [
+        1.9928266436635054,
+        0.38883492241673745,
+        13.300000190734863
+      ],
+      "halfSize": [
+        8.72289999993518,
+        11.75667000003159,
+        9.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713431,
+        1,
+        [
+          [
+            2912804372,
+            4,
+            "\u8c6a\u5927\u5927\u96de\u6392",
+            "SHOP C, G/F., MERCANTILE HOUSE, NO. 8 O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713920
+        ]
+      ],
+      "coordinate": [
+        1.992694137164368,
+        0.38883460441580014,
+        13.550000190734863
+      ],
+      "halfSize": [
+        10.01716999989003,
+        3.673644999973476,
+        10.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713432,
+        1,
+        [
+          [
+            2912806022,
+            4,
+            "TONG KEE BAO DIM",
+            "G/F., NO. 11 CANAL ROAD WEST, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713946
+        ]
+      ],
+      "coordinate": [
+        1.9928333444269675,
+        0.388832949981488,
+        14.0
+      ],
+      "halfSize": [
+        6.786725000012666,
+        4.607169999741018,
+        9.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713433,
+        1,
+        [
+          [
+            3612023515,
+            5,
+            "\u8c50\u76db\u6d77\u9bae",
+            "SHOP B, G/F., 13 BOWRINGTON RD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713948
+        ]
+      ],
+      "coordinate": [
+        1.9928267556972619,
+        0.38883272801830626,
+        13.25
+      ],
+      "halfSize": [
+        5.9596150000579655,
+        5.5724400002509356,
+        9.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713434,
+        1,
+        [
+          [
+            2912210119,
+            4,
+            "\u7ae0\u8a18\u767c\u5c55\u516c\u53f8",
+            "2/F, (PORTION), THAI WAH BLDG., 268 LOCKHART RD., WAN CHAI, HONG KONG",
+            null,
+            "2027-02-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713963
+        ]
+      ],
+      "coordinate": [
+        1.9927570095605458,
+        0.3888309623508485,
+        26.19999885559082
+      ],
+      "halfSize": [
+        11.319915000349283,
+        9.538759999908507,
+        22.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713435,
+        1,
+        [
+          [
+            2912806907,
+            4,
+            "\u660e\u660e\u98df\u7269\u5de5\u5834",
+            "SHOP A, G/F., BLOCK REAR, KUO WAH BUILDING, 340-342 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713964
+        ]
+      ],
+      "coordinate": [
+        1.9927993180690111,
+        0.3888302634036945,
+        30.399999618530273
+      ],
+      "halfSize": [
+        9.571065000258386,
+        13.325040000490844,
+        26.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713436,
+        5,
+        [
+          [
+            2912207793,
+            4,
+            "Food Court",
+            "FLAT D, G/F, HONG KONG MANSION, 137-147 LOCKHART RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2912800714,
+            4,
+            "V-8 \u7f8e\u98df\u8ed2",
+            "G/F., 4B O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2912807380,
+            4,
+            "\u8857\u82b3\u7f8e\u98df",
+            "SHOP E, G/F, HONG KONG BUILDING, 137-147 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-10"
+          ],
+          [
+            2912808082,
+            4,
+            "NOON",
+            "SHOP F, G/F., HONG KONG MANSION, NOS. 137-147 LOCKHART ROAD, NOS. 4A-4C O'BRIEN ROAD, WANCHAI, HONG KONG",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2912809942,
+            4,
+            "\u6e58\u7cb5\u865f",
+            "SHOP C, G/F, HONG KONG MANSION, NOS. 137-147 LOCKHART ROAD, NOS. 4A-4C O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713965
+        ]
+      ],
+      "coordinate": [
+        1.992694499470566,
+        0.38883075352759844,
+        25.200000762939453
+      ],
+      "halfSize": [
+        11.562454999890178,
+        10.216974999755621,
+        21.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713437,
+        1,
+        [
+          [
+            3612025973,
+            5,
+            "\u73cd\u5bf6",
+            "G/F, 17 BOWRINGTON RD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713982
+        ]
+      ],
+      "coordinate": [
+        1.9928267903577395,
+        0.3888308206859366,
+        13.799999237060547
+      ],
+      "halfSize": [
+        4.550565000157803,
+        3.9386399993672967,
+        9.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713438,
+        1,
+        [
+          [
+            3212105790,
+            6,
+            "7-Eleven",
+            "PORTION A OF SHOP C, G/F, 9-17 TIN LOK LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713983
+        ]
+      ],
+      "coordinate": [
+        1.9928161525473898,
+        0.38882892914775435,
+        38.95000076293945
+      ],
+      "halfSize": [
+        12.43049000017345,
+        14.277224999852479,
+        34.85000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1094713439,
+        3,
+        [
+          [
+            2912168191,
+            4,
+            "Ebeneezer",
+            "SHOP NO. 4, G/F, WANCHAI CENTRAL BLDG., 89 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2912172732,
+            4,
+            "Californai Express",
+            "SHOP NO. 3, G/F, CENTRAL BUILDING, 89 LOCKHART RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2912234256,
+            4,
+            "BIG PIZZA",
+            "SHOP 5, G/F, WANCHAI CENTRAL BUILDING, 89 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094713989
+        ]
+      ],
+      "coordinate": [
+        1.9926749322124881,
+        0.38882955792451257,
+        46.95000076293945
+      ],
+      "halfSize": [
+        7.509139999747276,
+        9.380770000629127,
+        43.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1094713440,
+        1,
+        [
+          [
+            2112121426,
+            1,
+            "PANASH",
+            "SHOP D, G/F & C/L, EASEY COMMERCIAL BLDG., 253-261 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714008
+        ]
+      ],
+      "coordinate": [
+        1.992754419994799,
+        0.38882737535990586,
+        28.899999618530273
+      ],
+      "halfSize": [
+        13.124750000424683,
+        10.025839999318123,
+        25.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713441,
+        2,
+        [
+          [
+            2912801665,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. A2, G/F., SUCCESS COMMERCIAL BUILDING, 245-251 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-24"
+          ],
+          [
+            3212800196,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP A2, G/F., SUCCESS COMMERCIAL BUILDING, 245-251 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714012
+        ]
+      ],
+      "coordinate": [
+        1.9927506579355228,
+        0.3888269937020079,
+        43.849998474121094
+      ],
+      "halfSize": [
+        10.73958000028506,
+        9.703619999811053,
+        40.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1094713442,
+        4,
+        [
+          [
+            2912808684,
+            4,
+            "(No Record Found)",
+            "PORTION B OF (SHOPS A & B), G/F, TAK FUNG HOUSE, 1-3 MORRISON HILL ROAD & 251-253 WAN CHAI ROAD, HONG KONG",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2912810034,
+            4,
+            "\u6cf0\u4f0a\u5df4",
+            "SHOP E, G/F, TAK FUNG HOUSE, 251-253 WAN CHAI ROAD, 1-3 MORRISON HILL ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-04"
+          ],
+          [
+            3612801582,
+            5,
+            "(No Record Found)",
+            "PORTION A OF (SHOPS A & B), G/F, TAK FUNG HOUSE, 1-3 MORRISON HILL ROAD & 251-253 WAN CHAI ROAD, HONG KONG",
+            null,
+            "2026-07-10"
+          ],
+          [
+            3512800199,
+            8,
+            "\u5927\u529b\u71d2\u81d8",
+            "SHOP D1, G/F., TAK FUNG HOUSE, 1-3 MORRISON HILL ROAD, 251-253 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714029
+        ]
+      ],
+      "coordinate": [
+        1.9928182058484452,
+        0.3888252427894264,
+        19.850000381469727
+      ],
+      "halfSize": [
+        14.662825000006706,
+        8.650944999419153,
+        15.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713443,
+        4,
+        [
+          [
+            2912803227,
+            4,
+            "HANA-MUSUBI",
+            "SHOP G7, G/F., C C WU BUILDING, NOS. 302-308 HENNESSY ROAD, HONG KONG",
+            null,
+            "2026-11-12"
+          ],
+          [
+            2912805296,
+            4,
+            "\u7f8e\u84ee\u9910\u5ba4",
+            "SHOP G4, G/F., C C WU BUILDING, NOS. 302-308 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2912806624,
+            4,
+            "Arome Bakery",
+            "PORTION A OF SHOP G10, G/F., C C WU BUILDING, 302-308 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-02-27"
+          ],
+          [
+            3612027988,
+            5,
+            "\u767e\u4f73\u8d85\u7d1a\u5e02\u5834",
+            "PORTIONS OF SHOP LG17 & LG1, C.C. WU BUILDING, 302-308 HENNESSY ROAD, 204-210 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714030
+        ]
+      ],
+      "coordinate": [
+        1.9927790891487687,
+        0.38882182585380615,
+        54.5
+      ],
+      "halfSize": [
+        19.95155999995768,
+        33.8851250000298,
+        50.80000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1094713444,
+        1,
+        [
+          [
+            2912801382,
+            4,
+            "\u7965\u767c\u679c\u6c41\u5e97",
+            "SHOP B, G/F., DE FENWICK, NOS.8-12 FENWICK STREET &NOS.42-50 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714031
+        ]
+      ],
+      "coordinate": [
+        1.9926525120629697,
+        0.3888250666925947,
+        28.75
+      ],
+      "halfSize": [
+        13.447485000360757,
+        9.826995000243187,
+        25.25
+      ]
+    },
+    {
+      "attributes": [
+        1094713445,
+        3,
+        [
+          [
+            2912804910,
+            4,
+            "ANGEL'S",
+            "PORTION 3 OF SHOP C ON G/F., YUE ON BUILDING, NOS. 146-148 LOCKHART ROAD, 2A O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2912808709,
+            4,
+            "Yeaffee",
+            "SHOP C2, G/F, YUE ON BUILDING, 146-148 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2912809906,
+            4,
+            "COTTI COFFEE",
+            "SHOP B, G/F, YUE ON BUILDING, 146-148 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714040
+        ]
+      ],
+      "coordinate": [
+        1.992696391148362,
+        0.38882458708000983,
+        23.399999618530273
+      ],
+      "halfSize": [
+        5.273794999811798,
+        9.130114999599755,
+        19.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1094713446,
+        1,
+        [
+          [
+            4912811585,
+            4,
+            "(No Record Found)",
+            "SHOP A, G/F, LEE CHEONG BUILDING, NOS. 218, 218A, 220, 220A & 220B WAN CHAI ROAD, HONG KONG",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714048
+        ]
+      ],
+      "coordinate": [
+        1.9927894563952526,
+        0.3888234250727329,
+        42.650001525878906
+      ],
+      "halfSize": [
+        17.162169999908656,
+        11.439730000682175,
+        38.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1094713447,
+        1,
+        [
+          [
+            2913210198,
+            4,
+            "CONRAD HONG KONG",
+            "PORTION OF LEVEL 7, CONRAD HONG KONG, PACIFIC PLACE, 88 QUEENSWAY, CENTRAL, HONG KONG",
+            null,
+            "2027-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714071
+        ]
+      ],
+      "coordinate": [
+        1.9925621684172514,
+        0.3888199917855177,
+        93.1500015258789
+      ],
+      "halfSize": [
+        34.70736500015482,
+        22.741305000148714,
+        71.1500015258789
+      ]
+    },
+    {
+      "attributes": [
+        1094713448,
+        4,
+        [
+          [
+            2912805384,
+            4,
+            "TenRen's Tea",
+            "MAJOR PORTION OF G/F., NO. 151 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2912807469,
+            4,
+            "(No Record Found)",
+            "SHOP 1 & 2, G/F., MAIN POLE HOUSE, 7C O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2912808505,
+            4,
+            "F&W CAKE SHOP",
+            "SHOP C, G/F., MAIN POLE HOUSE, 149 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3212800691,
+            6,
+            "TenRen's Tea",
+            "MINOR PORTION OF G/F., NO. 151 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714075
+        ]
+      ],
+      "coordinate": [
+        1.9927019548617795,
+        0.3888218843040148,
+        24.5
+      ],
+      "halfSize": [
+        5.598929999861866,
+        9.155439999885857,
+        21.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1094713449,
+        1,
+        [
+          [
+            2912809623,
+            4,
+            "Ginger House",
+            "G/F., TAK WAH MANSION, NO. 292 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714077
+        ]
+      ],
+      "coordinate": [
+        1.9927679508700487,
+        0.38882154177544054,
+        31.25
+      ],
+      "halfSize": [
+        11.736659999936819,
+        11.53294499963522,
+        27.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1094713450,
+        2,
+        [
+          [
+            2912806475,
+            4,
+            "Europa Tea Foundry",
+            "SHOP G16 ON G/F., EMPEROR GROUP CENTRE, 288 HENNESSY ROAD, HONG KONG",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2912809553,
+            4,
+            "THE ONE LEMON",
+            "SHOP G08, G/F, EMPEROR GROUP CENTRE, 288 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714089
+        ]
+      ],
+      "coordinate": [
+        1.9927626186600027,
+        0.38881799341232604,
+        61.349998474121094
+      ],
+      "halfSize": [
+        18.549185000360012,
+        24.59724000003189,
+        44.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1094713451,
+        1,
+        [
+          [
+            2912809526,
+            4,
+            "LPS Day & Night",
+            "SHOP 1-2, G/F, TIN LOK BUILDING, 221 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714092
+        ]
+      ],
+      "coordinate": [
+        1.9928047307679944,
+        0.38882003675531096,
+        22.25
+      ],
+      "halfSize": [
+        3.8428400000557303,
+        11.21229000017047,
+        14.75
+      ]
+    },
+    {
+      "attributes": [
+        1094713452,
+        1,
+        [
+          [
+            4912811336,
+            4,
+            "(No Record Found)",
+            "SHOP 125, 1/F, ORIENTAL 188 SHOPPING CENTRE, 188 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714102
+        ]
+      ],
+      "coordinate": [
+        1.9927725819452127,
+        0.3888164144331781,
+        27.25
+      ],
+      "halfSize": [
+        29.89699999988079,
+        25.641499999910593,
+        23.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713453,
+        1,
+        [
+          [
+            2912128902,
+            4,
+            "MR YOUSAF",
+            "G/F, 1 TAK YAN STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714109
+        ]
+      ],
+      "coordinate": [
+        1.9927897872761737,
+        0.3888182514673529,
+        33.900001525878906
+      ],
+      "halfSize": [
+        7.4505450003780425,
+        10.797924999147654,
+        24.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713454,
+        2,
+        [
+          [
+            2912807283,
+            4,
+            "CS@Market",
+            "PORTION A OF G/F., 8B MORRISON HILL ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-30"
+          ],
+          [
+            3612801184,
+            5,
+            "CS@Market",
+            "PORTIONS OF G/F., 8B MORRISON HILL ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714130
+        ]
+      ],
+      "coordinate": [
+        1.9928128045195983,
+        0.38881647679643266,
+        28.0
+      ],
+      "halfSize": [
+        10.055945000145584,
+        9.746900000609457,
+        22.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713455,
+        1,
+        [
+          [
+            2112107200,
+            1,
+            "\u6a80\u5cf6\u5496\u5561\u9905\u5e97",
+            "1/F (PTN), 176-178 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714145
+        ]
+      ],
+      "coordinate": [
+        1.9927112072622575,
+        0.38881513297434345,
+        28.5
+      ],
+      "halfSize": [
+        6.256125000305474,
+        9.744260000064969,
+        25.0
+      ]
+    },
+    {
+      "attributes": [
+        1094713456,
+        2,
+        [
+          [
+            2912808736,
+            4,
+            "\u77e5\u5473\u9928\u7345\u982d\u9d5d\u5916\u8ce3\u5c08\u9580\u5e97",
+            "SHOP G3(REAR PORTION), G/F, GOODFIT COMMERCIAL BUILDING, 7 FLEMING ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-07"
+          ],
+          [
+            3512800269,
+            8,
+            "\u77e5\u5473\u9928\u7345\u982d\u9d5d\u5916\u8ce3\u5c08\u9580\u5e97",
+            "SHOP G3(FRONT PORTION), G/F, GOODFIT COMMERCIAL BUILDING, 7 FLEMING ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714166
+        ]
+      ],
+      "coordinate": [
+        1.992728752717859,
+        0.38881378653826865,
+        27.600000381469727
+      ],
+      "halfSize": [
+        3.6845249999314547,
+        8.283605000004172,
+        23.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1094713457,
+        1,
+        [
+          [
+            2912809571,
+            4,
+            "Lady Boss Mixed Veg Rice Restaurant",
+            "FLAT B, G/F, SUN HEY MANSION, 68-76 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714171
+        ]
+      ],
+      "coordinate": [
+        1.9926632661816064,
+        0.3888132763758112,
+        28.950000762939453
+      ],
+      "halfSize": [
+        12.857559999916703,
+        10.11104999948293,
+        25.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713458,
+        4,
+        [
+          [
+            2912804187,
+            4,
+            "\u9f8d\u6d25\u7f8e\u98df",
+            "SHOP D2, G/F., SOUTHORN CENTRE, 150 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-05"
+          ],
+          [
+            2912809146,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "SHOP D1, G/F OF SOUTHORN CENTRE, 150 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2912809696,
+            4,
+            "MAMMY PANCAKE",
+            "MAJOR PORTION OF SHOP D3, G/F, SOUTHORN CENTRE, 150 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-05"
+          ],
+          [
+            3212801010,
+            6,
+            "MAMMY PANCAKE",
+            "MINOR PORTION OF SHOP D3, G/F, SOUTHORN CENTRE, 150 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714173
+        ]
+      ],
+      "coordinate": [
+        1.992691302392119,
+        0.3888098586943803,
+        61.35000228881836
+      ],
+      "halfSize": [
+        17.13255999982357,
+        27.615979999303818,
+        57.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1094713459,
+        1,
+        [
+          [
+            2912803175,
+            4,
+            "FRESH JUICE",
+            "SHOP D, G/F., 12 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714175
+        ]
+      ],
+      "coordinate": [
+        1.9926361555481586,
+        0.38881229282952096,
+        26.100000381469727
+      ],
+      "halfSize": [
+        16.4445250001736,
+        13.910584999248385,
+        22.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1094713460,
+        1,
+        [
+          [
+            2912804105,
+            4,
+            "Coco Espresso",
+            "SHOP C , G/F., ANTON BUILDING, 1 ANTON STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714188
+        ]
+      ],
+      "coordinate": [
+        1.9926212634685236,
+        0.38881167379089654,
+        30.850000381469727
+      ],
+      "halfSize": [
+        7.895109999924898,
+        6.794875000603497,
+        25.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1094713461,
+        1,
+        [
+          [
+            3612028024,
+            5,
+            "Wellcome",
+            "B/M(PTN), 194-204 JOHNSTON RD., WAN CHAI, HONG KONG",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714193
+        ]
+      ],
+      "coordinate": [
+        1.992747431628781,
+        0.38880995462811613,
+        39.0
+      ],
+      "halfSize": [
+        15.966035000048578,
+        16.242490000091493,
+        35.0
+      ]
+    },
+    {
+      "attributes": [
+        1094713462,
+        5,
+        [
+          [
+            2912805214,
+            4,
+            "MP Curry House",
+            "SHOP A, G/F., 181A-181G WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2912806837,
+            4,
+            "JOINT",
+            "SHOP M ON GROUND FLOOR, NOS. 8, 10 & 10A WOOD ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-03"
+          ],
+          [
+            4912811521,
+            4,
+            "(No Record Found)",
+            "SHOP B, G/F., NOS. 181A-181G WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-22"
+          ],
+          [
+            4912811637,
+            4,
+            "\u5929\u5929\u767c",
+            "SHOP G, G/F., NO. 181A-181G WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-03"
+          ],
+          [
+            3212800178,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP K & L, G/F., NO. 8-10A WOOD ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714196
+        ]
+      ],
+      "coordinate": [
+        1.9927744263261238,
+        0.38880964641983196,
+        20.299999237060547
+      ],
+      "halfSize": [
+        13.782439999748021,
+        18.65220499970019,
+        15.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713463,
+        1,
+        [
+          [
+            2912804345,
+            4,
+            "KINSLEY CAKE SHOP",
+            "ROOM A, 12/F., SOUTHERN COMMERCIAL BUILDING, 11-13 LUARD ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714201
+        ]
+      ],
+      "coordinate": [
+        1.9926667269253695,
+        0.3888108343336922,
+        45.349998474121094
+      ],
+      "halfSize": [
+        5.535500000230968,
+        4.861380000598729,
+        27.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1094713464,
+        3,
+        [
+          [
+            2912805834,
+            4,
+            "YI FANG TAIWAN FRUIT TEA",
+            "SHOP 3, LEVEL B3, THREE PACIFIC PLACE, 1 QUEEN'S ROAD EAST, HONG KONG",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2912808268,
+            4,
+            "Hana-Musubi",
+            "SHOP 4, LEVEL B3 OF THREE PACIFIC PLACE, 1 QUEEN'S ROAD EAST, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2912808639,
+            4,
+            "ICHIJUISSAI",
+            "SHOP 6, LEVEL B3, THREE PACIFIC PLACE, 1 QUEEN'S ROAD EAST, HONG KONG",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714205
+        ]
+      ],
+      "coordinate": [
+        1.9926075788206188,
+        0.38880670114730226,
+        94.5999984741211
+      ],
+      "halfSize": [
+        28.503289999905974,
+        29.9352100007236,
+        88.0999984741211
+      ]
+    },
+    {
+      "attributes": [
+        1094713465,
+        3,
+        [
+          [
+            2912803050,
+            4,
+            "Wellcome",
+            "BASEMENT & PORTION OF G/F (PORTION D), EVERWIN MANSION, 18 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-19"
+          ],
+          [
+            2912808329,
+            4,
+            "Wellcome",
+            "BASEMENT & PORTION OF G/F (PORTION F), EVERWIN MANSION, 18 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-21"
+          ],
+          [
+            3612800163,
+            5,
+            "Wellcome",
+            "BASEMENT AND PORTION OF G/F (PORTION A), EVERWIN MANSION, 18 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714222
+        ]
+      ],
+      "coordinate": [
+        1.9926424016534594,
+        0.38880679847977134,
+        27.650001525878906
+      ],
+      "halfSize": [
+        18.441679999697953,
+        19.4534200001508,
+        23.75
+      ]
+    },
+    {
+      "attributes": [
+        1094713466,
+        2,
+        [
+          [
+            2912806730,
+            4,
+            "\u5357\u5c71\u758f\u4e4e\u5398",
+            "SHOP D, G/F., MING FUNG BUILDING, NO. 150 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2912807229,
+            4,
+            "\u4e09\u5bf6\u624b\u6495\u96de",
+            "SHOP A AND SHOP B ON GROUND FLOOR, MING FUNG BUILDING, NO. 150 WAN CHAI ROAD, HONG KONG",
+            null,
+            "2026-05-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714227
+        ]
+      ],
+      "coordinate": [
+        1.9927500529810036,
+        0.38880676695647975,
+        25.0
+      ],
+      "halfSize": [
+        29.024015000090003,
+        13.186584999784827,
+        20.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1094713467,
+        1,
+        [
+          [
+            2912802136,
+            4,
+            "SUBWAY & GONG CHA",
+            "SHOP 1, G/F., SALSON HOUSE, NO.3B O'BRIEN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714243
+        ]
+      ],
+      "coordinate": [
+        1.9927039654446264,
+        0.38880673251923903,
+        22.399999618530273
+      ],
+      "halfSize": [
+        5.760199999902397,
+        8.53686000034213,
+        18.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713468,
+        1,
+        [
+          [
+            2912807575,
+            4,
+            "DOUGH BROS",
+            "G/F & COCKLOFT, NO. 25 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714252
+        ]
+      ],
+      "coordinate": [
+        1.9926173916062864,
+        0.388806052620074,
+        16.799999237060547
+      ],
+      "halfSize": [
+        5.263454999774694,
+        5.665435000322759,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713469,
+        2,
+        [
+          [
+            2912808532,
+            4,
+            "YULI SAVOR",
+            "SHOP 4, G/F, 124-126 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2912809748,
+            4,
+            "\u8fea\u81ea\u7531\u5feb\u9910",
+            "SHOP A, G/F, 124-126 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714266
+        ]
+      ],
+      "coordinate": [
+        1.9927442109917104,
+        0.38880542141786933,
+        15.149999618530273
+      ],
+      "halfSize": [
+        9.217485000379384,
+        4.898105000145733,
+        11.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713470,
+        1,
+        [
+          [
+            2912808772,
+            4,
+            "Happy Bakery",
+            "G/F, 66-68 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714288
+        ]
+      ],
+      "coordinate": [
+        1.9926309397686899,
+        0.38880321719802446,
+        16.549999237060547
+      ],
+      "halfSize": [
+        6.325294999871403,
+        7.678105000406504,
+        11.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713471,
+        1,
+        [
+          [
+            2912810283,
+            4,
+            "SOBAN",
+            "SHOP C1, G/F, SOUTHORN MANSION, 55-61 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714290
+        ]
+      ],
+      "coordinate": [
+        1.9926654657541458,
+        0.3888020418466395,
+        24.399999618530273
+      ],
+      "halfSize": [
+        11.208000000100583,
+        12.465499999932945,
+        20.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713472,
+        1,
+        [
+          [
+            2912805913,
+            4,
+            "CHIEF'S BLEND",
+            "PORTION A OF SHOP NO. 4, G/F., LUCKY HOUSE, NO. 17-21 BURROWS STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714295
+        ]
+      ],
+      "coordinate": [
+        1.992753787087169,
+        0.38880101612311174,
+        37.45000076293945
+      ],
+      "halfSize": [
+        9.018995000049472,
+        17.12347999960184,
+        33.14999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1094713473,
+        1,
+        [
+          [
+            2912804327,
+            4,
+            "\u98ef\u4e38\u5c4b",
+            "SHOP A, G/F., NO. 121 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714306
+        ]
+      ],
+      "coordinate": [
+        1.9927424553110067,
+        0.3888012693699502,
+        14.25
+      ],
+      "halfSize": [
+        5.734025000128895,
+        7.482505000196397,
+        9.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713474,
+        3,
+        [
+          [
+            2112800354,
+            1,
+            "\u9ea5\u86cb\u7cd5",
+            "PORTION 2 OF SHOP A, G/F, TAK LEE COMMERCIAL BLDG, 113-117 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2912805825,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP A1, G/F., TAK LEE COMMERCIAL BUILDING, 113-117 WANCHAI ROAD, HONG KONG",
+            null,
+            "2026-11-19"
+          ],
+          [
+            3212800734,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP A1, G/F., TAK LEE COMMERCIAL BUILDING, 113-117 WANCHAI ROAD, HONG KONG",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714309
+        ]
+      ],
+      "coordinate": [
+        1.9927394617861611,
+        0.38880040598051774,
+        39.35000228881836
+      ],
+      "halfSize": [
+        8.445119999814779,
+        11.22645500022918,
+        35.04999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1094713475,
+        2,
+        [
+          [
+            2912809137,
+            4,
+            "\u7063\u4ed4\u9806\u8a18",
+            "SHOP D (MAJOR PORTION), G/F, LUEN TAI BUILDING, 93-99 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2912809775,
+            4,
+            "\u7d05\u8c46\u70d8\u7119",
+            "SHOP A & B, G/F, LUEN TAI BUILDING, NOS. 93, 95, 97, 99 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714318
+        ]
+      ],
+      "coordinate": [
+        1.992731498364083,
+        0.38880025233860666,
+        18.25
+      ],
+      "halfSize": [
+        10.818415000103414,
+        7.369784999638796,
+        13.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1094713476,
+        1,
+        [
+          [
+            4912811594,
+            4,
+            "Luckin Coffee",
+            "G/F, 172 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714326
+        ]
+      ],
+      "coordinate": [
+        1.9927242386637498,
+        0.3887997509454909,
+        26.0
+      ],
+      "halfSize": [
+        17.021005000453442,
+        7.683944999240339,
+        21.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713477,
+        1,
+        [
+          [
+            3612228749,
+            5,
+            "\u806f\u83ef\u51cd\u8089\u98df\u54c1\u516c\u53f8",
+            "G/F, 2 GRESSON STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714337
+        ]
+      ],
+      "coordinate": [
+        1.9926436546509858,
+        0.3887984964619545,
+        14.350000381469727
+      ],
+      "halfSize": [
+        12.843589999713004,
+        10.949575000442564,
+        9.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713478,
+        1,
+        [
+          [
+            2912809465,
+            4,
+            "Legend Bakeology",
+            "G/F AND COCKLOFT, 116 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714365
+        ]
+      ],
+      "coordinate": [
+        1.9926992429862846,
+        0.3887968270469285,
+        15.549999237060547
+      ],
+      "halfSize": [
+        3.5042900000698864,
+        6.721785000525415,
+        11.75
+      ]
+    },
+    {
+      "attributes": [
+        1094713479,
+        1,
+        [
+          [
+            4912811549,
+            4,
+            "1 \u9ede\u9ede",
+            "SHOP A, G/F, CHIU HIN MANSION, 102 JOHNSTON ROAD, HONG KONG",
+            null,
+            "2026-06-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714383
+        ]
+      ],
+      "coordinate": [
+        1.992688666704739,
+        0.3887955768463026,
+        34.75
+      ],
+      "halfSize": [
+        11.633115000091493,
+        8.021545000374317,
+        30.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1094713480,
+        1,
+        [
+          [
+            3612801555,
+            5,
+            "\u4e09\u54e5\u98df\u54c1",
+            "SHOP A, G/F, WAH YAN COURT, 2-3 TRIANGLE STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714420
+        ]
+      ],
+      "coordinate": [
+        1.9927186664284327,
+        0.3887932813844438,
+        23.399999618530273
+      ],
+      "halfSize": [
+        9.050119999796152,
+        7.151724999770522,
+        18.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713481,
+        1,
+        [
+          [
+            2912809535,
+            4,
+            "13 THIRTEEN",
+            "G/F, NO. 75 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714428
+        ]
+      ],
+      "coordinate": [
+        1.9926378257274988,
+        0.3887931775162222,
+        14.800000190734863
+      ],
+      "halfSize": [
+        4.414390000049025,
+        4.5416099997237325,
+        9.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713482,
+        1,
+        [
+          [
+            2912804521,
+            4,
+            "BAO DIM TAT YAN",
+            "SHOP A ON G/F OF WUI FU BUILDING, NOS. 10 AND 12 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714442
+        ]
+      ],
+      "coordinate": [
+        1.9927077144369083,
+        0.3887922719168955,
+        26.44999885559082
+      ],
+      "halfSize": [
+        8.397954999934882,
+        5.29710999969393,
+        22.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713483,
+        3,
+        [
+          [
+            2912809881,
+            4,
+            "OH BA FOOD",
+            "SHOP 5, G/F, NOS. 56, 56A, 58 & 60 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-05"
+          ],
+          [
+            3612212218,
+            5,
+            "\u65b0\u6210\u767c",
+            "G/F, 56 WAN CHAI RD., WAN CHAI, HONG KONG",
+            null,
+            "2026-05-22"
+          ],
+          [
+            3612801795,
+            5,
+            "QDAMA WAN CHAI ROAD SHOP",
+            "PORTIONS OF SHOP NO. 3 & 4, G/F, NOS. 56, 56A, 58 & 60 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714458
+        ]
+      ],
+      "coordinate": [
+        1.9927190278986489,
+        0.388791259302594,
+        17.950000762939453
+      ],
+      "halfSize": [
+        8.799344999715686,
+        8.673395000398159,
+        13.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713484,
+        7,
+        [
+          [
+            3612062464,
+            5,
+            "\u65b0\u751f\u8089\u98df\u516c\u53f8",
+            "G/F, 46 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3612158017,
+            5,
+            "\u65b0\u6c38\u6210\u8089\u98df\u516c\u53f8",
+            "G/F, 50 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-16"
+          ],
+          [
+            3612800154,
+            5,
+            "\u5049\u8208\u8089\u98df\u516c\u53f8",
+            "G/F., 42 WAN CHAI ROAD, HONG KONG",
+            null,
+            "2026-12-21"
+          ],
+          [
+            3612800747,
+            5,
+            "\u9d3b\u5229\u8089\u98df",
+            "G/F., 44 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            3612800783,
+            5,
+            "MAN SANG META CO.",
+            "PORTION C OF SHOP A, GROUND FLOOR, NO. 40 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3612800950,
+            5,
+            "HONG KONG HERITAGE PORK",
+            "SHOP F, G/F., 48 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3612801625,
+            5,
+            "\u65b0\u806f\u6cf0\u98df\u54c1\u5e02\u5834(\u8072\u8a18)",
+            "SHOP I, G/F, NO. 52 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714489
+        ]
+      ],
+      "coordinate": [
+        1.9927164283239127,
+        0.38878821077504766,
+        16.899999618530273
+      ],
+      "halfSize": [
+        13.21142499987036,
+        17.90500000026077,
+        12.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713485,
+        1,
+        [
+          [
+            2912803379,
+            4,
+            "PAK SEE KUT CAKE SHOP",
+            "REAR PORTION OF G/F & C/L, 15 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714492
+        ]
+      ],
+      "coordinate": [
+        1.9927043387432226,
+        0.38878982799669815,
+        13.949999809265137
+      ],
+      "halfSize": [
+        8.434244999662042,
+        5.6929600005969405,
+        9.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713486,
+        1,
+        [
+          [
+            2912808967,
+            4,
+            "POT ION HOUSE",
+            "G/F, 20 TAI WONG STREET EAST, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714505
+        ]
+      ],
+      "coordinate": [
+        1.9926686189902738,
+        0.3887893010171003,
+        15.15000057220459
+      ],
+      "halfSize": [
+        5.532129999715835,
+        4.865904999896884,
+        11.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713487,
+        1,
+        [
+          [
+            3612801032,
+            5,
+            "Qdama(Wan Chai Road Shop)",
+            "PORTIONS OF SHOP A, G/F., 51-55 WAN CHAI ROAD, HONG KONG",
+            null,
+            "2026-10-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714522
+        ]
+      ],
+      "coordinate": [
+        1.9927217440650233,
+        0.388787702839895,
+        19.25
+      ],
+      "halfSize": [
+        9.285290000028908,
+        9.040409999899566,
+        14.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713488,
+        2,
+        [
+          [
+            2912809863,
+            4,
+            "GRANDMA'S COFFEE",
+            "SHOP E, G/F, NO. 136 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            4912811372,
+            4,
+            "(No Record Found)",
+            "SHOP D, G/F, NO. 136 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714532
+        ]
+      ],
+      "coordinate": [
+        1.9926539512611898,
+        0.3887871891861611,
+        14.59999942779541
+      ],
+      "halfSize": [
+        5.977780000306666,
+        8.410090000368655,
+        9.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713489,
+        5,
+        [
+          [
+            3612193159,
+            5,
+            "\u5e73\u975a\u6b63",
+            "G/F, 43C WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-09"
+          ],
+          [
+            3612800710,
+            5,
+            "\u8208\u548c\u8089\u98df\u516c\u53f8",
+            "SHOP F, G/F., FU YUEN, NOS. 39-49 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3612800792,
+            5,
+            "Mini Store Limited",
+            "SHOP NO. A, G/F., FU YUEN, NOS. 39-49 WANCHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            3512800126,
+            8,
+            "Wan Kau Yau Fook Roasted Food",
+            "G/F., 40A WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-16"
+          ],
+          [
+            3512800287,
+            8,
+            "\u6cf0\u975a\u9e75\u5473",
+            "SHOP D, G/F, FU YUEN, 39-49 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714544
+        ]
+      ],
+      "coordinate": [
+        1.9927195313842054,
+        0.38878564249760866,
+        42.70000076293945
+      ],
+      "halfSize": [
+        12.514570000115782,
+        12.611305000260472,
+        38.20000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1094713490,
+        1,
+        [
+          [
+            3612170963,
+            5,
+            "\u9f8d\u83ef\u8089\u98df\u516c\u53f8",
+            "G/F (FRONT PORTION), WING KEI MANSION, 23-25 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714546
+        ]
+      ],
+      "coordinate": [
+        1.9927045372310808,
+        0.38878672006844067,
+        14.049999237060547
+      ],
+      "halfSize": [
+        8.261780000291765,
+        5.5426200004294515,
+        9.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713491,
+        1,
+        [
+          [
+            3612801740,
+            5,
+            "Kung Hing Cheung",
+            "G/F, NO. 26 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714551
+        ]
+      ],
+      "coordinate": [
+        1.9927082622842378,
+        0.3887865666129621,
+        14.300000190734863
+      ],
+      "halfSize": [
+        8.439200000371784,
+        5.065209999680519,
+        10.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1094713492,
+        1,
+        [
+          [
+            3612800701,
+            5,
+            "Shearer Butcher",
+            "PORTIONS OF SHOP C, G/F., FOOK CHEUNG HOUSE, 34-38 CROSS STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714579
+        ]
+      ],
+      "coordinate": [
+        1.9927104584298998,
+        0.3887846520292934,
+        15.550000190734863
+      ],
+      "halfSize": [
+        6.645545000210404,
+        5.210795000195503,
+        11.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713493,
+        1,
+        [
+          [
+            3612023843,
+            5,
+            "\u59b9\u8a18 /\u83ef\u751f",
+            "MAJOR PORTION, G/F., 28 CROSS ST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714581
+        ]
+      ],
+      "coordinate": [
+        1.9927075097973326,
+        0.3887845894732496,
+        13.850000381469727
+      ],
+      "halfSize": [
+        2.5395050002261996,
+        5.834204999729991,
+        9.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713494,
+        4,
+        [
+          [
+            2912807113,
+            4,
+            "crew",
+            "UNIT 9A, GROUND FLOOR, ON HING MANSION, 156-164 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2912807210,
+            4,
+            "Hainan Mom",
+            "SHOP NO. 8B, G/F., ON HING MANSION, 156-164 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            4912811327,
+            4,
+            "DROOL FROYO",
+            "MAJOR PORTION OF PORTION A OF SHOP NO. 3, G/F., ON HING MANSION, 156-164 QUEEN'S ROAD EAST, 3-4 MING YAN LANE AND 2-4 TAI WONG STREET EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-15"
+          ],
+          [
+            4212800937,
+            6,
+            "DROOL FROYO",
+            "MINOR PORTION OF PORTION A OF SHOP NO. 3, G/F., ON HING MANSION, 156-164 QUEEN'S ROAD EAST, 3-4 MING YAN LANE AND 2-4 TAI WONG STREET EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714598
+        ]
+      ],
+      "coordinate": [
+        1.9926649038316753,
+        0.3887818850517582,
+        26.19999885559082
+      ],
+      "halfSize": [
+        14.548850000370294,
+        16.16412500012666,
+        21.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1094713495,
+        1,
+        [
+          [
+            2912802385,
+            4,
+            "No Record",
+            "REFRESHMENT KIOSK, 2/F, QUEEN ELIZABETH STADIUM, 18 OI KWAN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714650
+        ]
+      ],
+      "coordinate": [
+        1.9927978353884543,
+        0.38877482179522566,
+        22.44999885559082
+      ],
+      "halfSize": [
+        29.1869899998419,
+        26.41173500008881,
+        14.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1094713496,
+        1,
+        [
+          [
+            2912804886,
+            4,
+            "Kee Wah Bakery",
+            "G/F (PORTION), 186-190 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714666
+        ]
+      ],
+      "coordinate": [
+        1.9926734527041428,
+        0.3887758390616444,
+        14.100000381469727
+      ],
+      "halfSize": [
+        3.869179999921471,
+        6.142884999513626,
+        7.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1094713497,
+        1,
+        [
+          [
+            2912807991,
+            4,
+            "Poke Love",
+            "PORTION A OF SHOPS G1 & G2, G/F, DAH SING FINANCIAL CENTRE, 248 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714689
+        ]
+      ],
+      "coordinate": [
+        1.9927040857416816,
+        0.3887679245937045,
+        81.4000015258789
+      ],
+      "halfSize": [
+        12.857919999863952,
+        23.90777499973774,
+        75.29999542236328
+      ]
+    },
+    {
+      "attributes": [
+        1094713498,
+        1,
+        [
+          [
+            3612152444,
+            5,
+            "TASTE",
+            "STALL NO.1, 12, 13 & PORTIONS OFTHE WHOLE OF BASEMENT, HOPEWELL CENTRE, 183 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714697
+        ]
+      ],
+      "coordinate": [
+        1.9926700965432893,
+        0.3887663413023335,
+        138.25
+      ],
+      "halfSize": [
+        22.649945000186563,
+        22.754505000077188,
+        81.94999694824219
+      ]
+    },
+    {
+      "attributes": [
+        1094713499,
+        1,
+        [
+          [
+            2112800220,
+            1,
+            "ABC Cake House",
+            "G/F., 255 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714750
+        ]
+      ],
+      "coordinate": [
+        1.9927161680450576,
+        0.388759436338746,
+        17.850000381469727
+      ],
+      "halfSize": [
+        2.390110000036657,
+        6.505165000446141,
+        9.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713500,
+        1,
+        [
+          [
+            2912805135,
+            4,
+            "135\u679c\u5712\u96de",
+            "MAJOR PORTION OF SHOP A, G/F., 247-249 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714753
+        ]
+      ],
+      "coordinate": [
+        1.9927137421324053,
+        0.38875939986957725,
+        17.950000762939453
+      ],
+      "halfSize": [
+        3.7704449999146163,
+        6.235129999928176,
+        9.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1094713501,
+        1,
+        [
+          [
+            3612801689,
+            5,
+            "Chun Wah Frozen Meat Company Limited",
+            "SHOP B, G/F., 79 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714808
+        ]
+      ],
+      "coordinate": [
+        1.9927091688090541,
+        0.388751779311142,
+        20.600000381469727
+      ],
+      "halfSize": [
+        6.785850000102073,
+        9.377000000327826,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        1094713502,
+        1,
+        [
+          [
+            2912208820,
+            4,
+            "\u8056\u96c5\u5404\u798f\u7fa4\u6703",
+            "3/F, (MINOR PORTION), 85 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714825
+        ]
+      ],
+      "coordinate": [
+        1.9927056100790526,
+        0.3887438776495628,
+        33.5
+      ],
+      "halfSize": [
+        21.090499999932945,
+        39.08750000037253,
+        20.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1094713503,
+        1,
+        [
+          [
+            2912808480,
+            4,
+            "\u8077\u4eba\u98df\u4e8b",
+            "G/F., 82 STONE NULLAH LANE, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714830
+        ]
+      ],
+      "coordinate": [
+        1.9927121294069063,
+        0.38874795508698096,
+        21.350000381469727
+      ],
+      "halfSize": [
+        4.659095000009984,
+        3.761119999922812,
+        9.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713504,
+        1,
+        [
+          [
+            2912805199,
+            4,
+            "BiteUnite",
+            "G/F., NO. 15 LUNG ON STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714887
+        ]
+      ],
+      "coordinate": [
+        1.9927142772634716,
+        0.3887363193248473,
+        27.700000762939453
+      ],
+      "halfSize": [
+        7.9219999997876585,
+        7.812474999576807,
+        9.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713505,
+        1,
+        [
+          [
+            2912806183,
+            4,
+            "Pacific Coffee Company",
+            "PORTION A OF G/F., CLI BUILDING, 313 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714945
+        ]
+      ],
+      "coordinate": [
+        1.9927858131591307,
+        0.3888346851440681,
+        47.30000305175781
+      ],
+      "halfSize": [
+        14.50423499988392,
+        12.080039999447763,
+        43.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713506,
+        1,
+        [
+          [
+            2912810168,
+            4,
+            "KILN CHICKEN KING",
+            "SHOP B1, G/F & COCKLOFT, 162-164 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714955
+        ]
+      ],
+      "coordinate": [
+        1.9927612577324951,
+        0.3888093947164527,
+        15.5
+      ],
+      "halfSize": [
+        7.259814999997616,
+        7.31273499969393,
+        11.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713507,
+        1,
+        [
+          [
+            2912807326,
+            4,
+            "\u5cb1\u6c11\u7063\u4ed4\u5e97",
+            "GROUND FLOOR, NO. 365 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714958
+        ]
+      ],
+      "coordinate": [
+        1.9928072232653085,
+        0.3888407108288806,
+        26.549999237060547
+      ],
+      "halfSize": [
+        7.2030950002372265,
+        8.915659999474883,
+        22.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713508,
+        1,
+        [
+          [
+            2912806536,
+            4,
+            "SUSHI TAKE-OUT",
+            "SHOP C, G/F., NAM HOY BUILDING, NOS. 152, 154, 156 & 158 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094714971
+        ]
+      ],
+      "coordinate": [
+        1.9927582745964305,
+        0.388807853053177,
+        22.75
+      ],
+      "halfSize": [
+        11.05816000001505,
+        7.377499999478459,
+        18.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1094713509,
+        1,
+        [
+          [
+            2912804257,
+            4,
+            "MUSTARD SEED BAKERY",
+            "ROOM 1, 12/F., JOCKEY CLUB SOCIAL SERVICES BUILDING, 100 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715068
+        ]
+      ],
+      "coordinate": [
+        1.992710609555315,
+        0.3887270530568571,
+        61.900001525878906
+      ],
+      "halfSize": [
+        13.884430000092834,
+        19.417140000499785,
+        31.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1094713510,
+        1,
+        [
+          [
+            2912807733,
+            4,
+            "Nap Tea",
+            "SHOP 5, G/F, 7 MALLORY STREET, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715073
+        ]
+      ],
+      "coordinate": [
+        1.992759207811387,
+        0.3888121615311694,
+        13.899999618530273
+      ],
+      "halfSize": [
+        11.676010000053793,
+        16.06781999953091,
+        9.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1094713511,
+        10,
+        [
+          [
+            2112800284,
+            1,
+            "Tai Tung Bakery",
+            "SHOPS NO. B02-03, B1/F., LEE TUNG AVENUE, 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2112800363,
+            1,
+            "The Baker & The Bottleman",
+            "SHOP NO. G14 AND G15 (MINOR PORTION), G/F. AND SHOP NO. F15A, 1/F., LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2912806554,
+            4,
+            "KING BAKERY",
+            "SHOP G13, G/F, LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2912807788,
+            4,
+            "\u82b1\u6591\u8336\u793e",
+            "SHOP B14, B1/F., LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2912808611,
+            4,
+            "les Halles",
+            "SHOP NO. G18-G20 (PORTION A), G/F., LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2912809562,
+            4,
+            "Godiva Chocolatier",
+            "MAJOR PORTION OF SHOP NO. G26A, G/F., LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2912809720,
+            4,
+            "FREE D COFFEE LIMITED",
+            "SHOP B10, B1/F., LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-17"
+          ],
+          [
+            4912811646,
+            4,
+            "The Baker & The Bottleman",
+            "SHOP NO. F16A, 1/F., LEE TUNG AVENUE, 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3612801573,
+            5,
+            "les Halles",
+            "SHOP NO. G18-G20 (PORTION B), G/F., LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-22"
+          ],
+          [
+            3212800983,
+            6,
+            "Godiva Chocolatier",
+            "MINOR PORTION OF SHOP NO. G26A, G/F., LEE TUNG AVENUE, NO. 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715098
+        ]
+      ],
+      "coordinate": [
+        1.99268321333015,
+        0.38878434514279847,
+        12.699999809265137
+      ],
+      "halfSize": [
+        50.903849999886006,
+        70.15017000027001,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1094713512,
+        1,
+        [
+          [
+            3612801698,
+            5,
+            "Shing Hing Loong",
+            "PORTIONS OF SHOP 2, GROUND FLOOR, L'WANCHAI, NO. 109 WAN CHAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715113
+        ]
+      ],
+      "coordinate": [
+        1.9927356346171958,
+        0.3888000446997186,
+        16.700000762939453
+      ],
+      "halfSize": [
+        16.345034999772906,
+        11.745755000039935,
+        12.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713513,
+        1,
+        [
+          [
+            2912806314,
+            4,
+            "The St. Regis Hong Kong",
+            "6/F (PORTION A), THE ST. REGIS HONG KONG, 1 HARBOUR DRIVE, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715141
+        ]
+      ],
+      "coordinate": [
+        1.9927271097649821,
+        0.38886167776854463,
+        64.6500015258789
+      ],
+      "halfSize": [
+        17.776595000177622,
+        34.70782000012696,
+        48.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1094713514,
+        1,
+        [
+          [
+            2912807247,
+            4,
+            "NOOD FOOD",
+            "PORTION A OF 2/F, ONE HENNESSY,1 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715175
+        ]
+      ],
+      "coordinate": [
+        1.9926233364187684,
+        0.3888257581981627,
+        11.399999618530273
+      ],
+      "halfSize": [
+        29.913730000145733,
+        20.517155000008643,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713515,
+        3,
+        [
+          [
+            2912807362,
+            4,
+            "CHATERAISE",
+            "SHOP NO. 1, G/F, 206-212 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-22"
+          ],
+          [
+            4912811664,
+            4,
+            "(No Record Found)",
+            "SHOP 5 (MAJOR PORTION), G/F, 208 JOHNSTON, 206-212 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-12"
+          ],
+          [
+            4212800973,
+            6,
+            "(No Record Found)",
+            "SHOP 5 (MINOR PORTION), G/F, 208 JOHNSTON, 206-212 JOHNSTON ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715200
+        ]
+      ],
+      "coordinate": [
+        1.9927508494817705,
+        0.38881187024778857,
+        11.5
+      ],
+      "halfSize": [
+        11.83216999983415,
+        12.402204999700189,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1094713516,
+        1,
+        [
+          [
+            2912808620,
+            4,
+            "EVER HUGE",
+            "G/F., NO. 19 HING WAN STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715207
+        ]
+      ],
+      "coordinate": [
+        1.992719250715378,
+        0.38874704008315,
+        17.649999618530273
+      ],
+      "halfSize": [
+        5.851094999816269,
+        7.331199999898672,
+        5.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1094713517,
+        1,
+        [
+          [
+            2918811844,
+            4,
+            "% ARABICA",
+            "SHOP 301B, 3/F, THE HENDERSON, NO. 2 MURRAY ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715243
+        ]
+      ],
+      "coordinate": [
+        1.9925051156546263,
+        0.38886213393629426,
+        90.80000305175781
+      ],
+      "halfSize": [
+        22.95471164683113,
+        25.621198393346276,
+        84.30000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1094713518,
+        2,
+        [
+          [
+            2912809766,
+            4,
+            "BINGER",
+            "MAJOR PORTION, G/F, 369 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-07"
+          ],
+          [
+            3212801038,
+            6,
+            "BINGER",
+            "MINOR PORTION, G/F, 369 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715244
+        ]
+      ],
+      "coordinate": [
+        1.9928087935965344,
+        0.3888414479114676,
+        48.45000076293945
+      ],
+      "halfSize": [
+        8.02019999967888,
+        10.57014000043273,
+        44.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1094713519,
+        1,
+        [
+          [
+            2912809395,
+            4,
+            "NODI",
+            "PORTION A OF LOBBY, G/F, AIA BUILDING, 1 STUBBS ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715256
+        ]
+      ],
+      "coordinate": [
+        1.9927708734406802,
+        0.3887518353529335,
+        79.0999984741211
+      ],
+      "halfSize": [
+        29.27917499979958,
+        20.962210000492632,
+        35.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1094713520,
+        10,
+        [
+          [
+            2912809951,
+            4,
+            "The barkyard",
+            "PORTION A OF SHOP NO. 1501, 15/F., HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2912810052,
+            4,
+            "food parc",
+            "STALL NO. 9, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2912810061,
+            4,
+            "food parc",
+            "STALL NO. 13, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2912810070,
+            4,
+            "food parc",
+            "STALL NO. 4, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2912810089,
+            4,
+            "food parc",
+            "STALL NO. 1 & 2, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2912810098,
+            4,
+            "food parc",
+            "STALL NO. 5, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2912810122,
+            4,
+            "food parc",
+            "STALL NO. 6, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2912810131,
+            4,
+            "food parc",
+            "STALL NO. 8, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2912810140,
+            4,
+            "food parc",
+            "STALL NO. 7, SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-08"
+          ],
+          [
+            3612801838,
+            5,
+            "food parc",
+            "STALL NO. 10, 11, 12 & PORTIONS OF SHOPS 1502-1503, 15/F, HOPEWELL MALL, NO. 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1094715261
+        ]
+      ],
+      "coordinate": [
+        1.9926545773016133,
+        0.3887713483468977,
+        42.64999771118164
+      ],
+      "halfSize": [
+        60.92956499988213,
+        40.036704999394715,
+        34.95000076293945
+      ]
+    }
+  ]
+}

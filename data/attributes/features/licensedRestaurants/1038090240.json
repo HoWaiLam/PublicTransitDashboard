@@ -1,0 +1,1534 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1038090240,
+        2,
+        [
+          [
+            2263803000,
+            0,
+            "Fantastic Life",
+            "WEST WING, G/F, WAI OI BLOCK, CARITAS MEDICAL CENTRE, 111 WING HONG STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3163801604,
+            1,
+            "cafe330",
+            "THE PORTION OF 4/F, WAI SHUN BLOCK, CARITAS MEDICAL CENTRE, 111 WING HONG STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090480
+        ]
+      ],
+      "coordinate": [
+        1.9923774284478915,
+        0.38994471645765566,
+        55.150001525878906
+      ],
+      "halfSize": [
+        24.651285000145435,
+        17.737650000490248,
+        9.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1038090241,
+        3,
+        [
+          [
+            2263170801,
+            0,
+            "\u706b\u6efe\u80a5\u725b\u6d77\u9bae\u6e6f\u934b\u5c08\u9580\u5e97",
+            "BASEMENT, 422-426 CASTLE PEAK ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2263193617,
+            0,
+            "\u840a\u8335\u5427",
+            "SHOP D, G/F, CHOU CHONG COMM. BLDG, 428 CASTLE PEAK RD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2263805501,
+            0,
+            "\u6f01\u6a02\u5708\u7d19\u5305\u9b5a",
+            "SHOP A, G/F, CHOU CHONG COMMERCIAL BUILDING, 422-428 CASTLE PEAK ROAD, KOWLOON",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090534
+        ]
+      ],
+      "coordinate": [
+        1.9923664088865065,
+        0.38991247245761884,
+        21.94999885559082
+      ],
+      "halfSize": [
+        13.962139999959618,
+        14.267179999500513,
+        15.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1038090242,
+        3,
+        [
+          [
+            2263809035,
+            0,
+            "\u8386\u9bae\u5473\u6ef7\u9eb5",
+            "SHOP C, G/F, HONG LEE BUILDING, NOS. 444-450 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-09-05"
+          ],
+          [
+            3191800873,
+            1,
+            "\u7238\u8fa3\u5c0f\u9928",
+            "SHOP A, G/F, MING YIN BUILDING, 450-454 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            3191801168,
+            1,
+            "BAR PACIFIC LXIX",
+            "SHOP B & C, G/F, BLOCK A, MING TONG BUILDING, 444-448 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090537
+        ]
+      ],
+      "coordinate": [
+        1.992352893453087,
+        0.38991242647167595,
+        41.30000305175781
+      ],
+      "halfSize": [
+        12.114860000088811,
+        13.215224999934435,
+        35.0
+      ]
+    },
+    {
+      "attributes": [
+        1038090243,
+        2,
+        [
+          [
+            2291000721,
+            0,
+            "\u65b0\u9f8d\u9a30\u95a3\u71d2\u81d8\u98ef\u5e97",
+            "G/F, MING YIN BUILDING, 452 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3163803196,
+            1,
+            "I'm Thirsty",
+            "G/F., 452 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090540
+        ]
+      ],
+      "coordinate": [
+        1.9923510748100408,
+        0.3899116522904645,
+        13.75
+      ],
+      "halfSize": [
+        6.117705000098795,
+        10.608324999921024,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1038090244,
+        1,
+        [
+          [
+            2263806285,
+            0,
+            "SOI EAT THAI CUISINE",
+            "G/F, NO.454 CASTLE PEAK ROAD, KOWLOON",
+            null,
+            "2027-01-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090543
+        ]
+      ],
+      "coordinate": [
+        1.992350481829086,
+        0.3899113463504452,
+        13.75
+      ],
+      "halfSize": [
+        4.636039999779314,
+        10.280965000391006,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1038090245,
+        2,
+        [
+          [
+            2263804827,
+            0,
+            "SPICYUM",
+            "G/F, NO.456 CASTLE PEAK ROAD, KOWLOON",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2291000101,
+            0,
+            "KARACHI havAbite",
+            "G/F, BLOCK B, KWAI FUNG BUILDING, PING LAI PATH, 456 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090546
+        ]
+      ],
+      "coordinate": [
+        1.9923496884364542,
+        0.3899111532599327,
+        18.799999237060547
+      ],
+      "halfSize": [
+        5.425464999862015,
+        9.388685000129044,
+        12.5
+      ]
+    },
+    {
+      "attributes": [
+        1038090246,
+        1,
+        [
+          [
+            2291800510,
+            0,
+            "Mushroom Express",
+            "SHOP H, G/F, KWAI FUNG HOUSE, 456-458 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090547
+        ]
+      ],
+      "coordinate": [
+        1.9923489651107629,
+        0.389910901411342,
+        18.799999237060547
+      ],
+      "halfSize": [
+        5.347585000097752,
+        9.757480000145733,
+        12.5
+      ]
+    },
+    {
+      "attributes": [
+        1038090247,
+        1,
+        [
+          [
+            2263805291,
+            0,
+            "\u6885\u82b1\u90a8\u5c0f\u9928",
+            "G/F & 1/F, 460-462 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090552
+        ]
+      ],
+      "coordinate": [
+        1.992347530799739,
+        0.38991040302971686,
+        18.799999237060547
+      ],
+      "halfSize": [
+        5.315504999831319,
+        9.886675000190735,
+        12.5
+      ]
+    },
+    {
+      "attributes": [
+        1038090248,
+        2,
+        [
+          [
+            2263800214,
+            0,
+            "\u712f\u8a18",
+            "SHOP C, G/F, GREEN COURT, 498 UN CHAU STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2263802061,
+            0,
+            "UN CHAU BEEF NOODLE",
+            "SHOP I, G/F, GREEN COURT, 498 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090563
+        ]
+      ],
+      "coordinate": [
+        1.9923558794395169,
+        0.3899072955899398,
+        45.54999923706055
+      ],
+      "halfSize": [
+        14.589250000193715,
+        11.958329999819398,
+        39.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1038090249,
+        1,
+        [
+          [
+            3163802032,
+            1,
+            "\u6fdf\u68ee\u8eca\u4ed4\u9eb5",
+            "SHOP 19, G/F, FLORENCE PLAZA, NO. 23 CHEUNG WAH STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090573
+        ]
+      ],
+      "coordinate": [
+        1.9923648504754545,
+        0.38990477250887495,
+        67.19999694824219
+      ],
+      "halfSize": [
+        11.52276000007987,
+        12.930604999884963,
+        47.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1038090250,
+        2,
+        [
+          [
+            3163239847,
+            1,
+            "\u96f2\u5357\u98a8\u5473\u9928",
+            "G/F, 27C HING WAH ST, CHEUNG SHA WAN, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-09-07"
+          ],
+          [
+            3163802227,
+            1,
+            "\u4e00\u8208\u7c89\u9eb5",
+            "SHOP C, G/F., WO HING BUILDING, 376 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-03-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090593
+        ]
+      ],
+      "coordinate": [
+        1.992385425258788,
+        0.3899003122992555,
+        18.299999237060547
+      ],
+      "halfSize": [
+        20.577099999878556,
+        22.901754999533296,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        1038090251,
+        4,
+        [
+          [
+            2263803480,
+            0,
+            "\u82e1\u55ac\u9910\u5ef3",
+            "SHOP A, G/F, 526 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2027-01-16"
+          ],
+          [
+            3163198595,
+            1,
+            "\u4e00\u805a\u5c0f\u5eda",
+            "G/F, 520 CASTLE PEAK ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-01-19"
+          ],
+          [
+            3163230594,
+            1,
+            "\u660e\u5fb7\u5c0f\u98df",
+            "FLAT B, G/F, 524 CASTLE PEAK ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-01-13"
+          ],
+          [
+            3163803220,
+            1,
+            "\u6fdf\u68ee\u8eca\u4ed4\u9eb5",
+            "SHOP C, G/F, NO. 520 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090597
+        ]
+      ],
+      "coordinate": [
+        1.992319450714302,
+        0.3899011805893586,
+        21.0
+      ],
+      "halfSize": [
+        11.767080000136048,
+        13.86557500064373,
+        15.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1038090252,
+        1,
+        [
+          [
+            2263806470,
+            0,
+            "\u82b1\u6708\u51b0\u5ba4",
+            "SHOP 1, G/F, 485-491 UN CHAU STREET, KOWLOON",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090598
+        ]
+      ],
+      "coordinate": [
+        1.9923538529226872,
+        0.389900952544985,
+        25.0
+      ],
+      "halfSize": [
+        15.645095000043511,
+        15.49432499986142,
+        19.0
+      ]
+    },
+    {
+      "attributes": [
+        1038090253,
+        1,
+        [
+          [
+            3963803802,
+            1,
+            "\u96f2\u5357\u98a8\u5473\u5c0f\u934b\u7c73\u7dda",
+            "G/F, 512 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090599
+        ]
+      ],
+      "coordinate": [
+        1.9923235760608098,
+        0.38990185691590795,
+        16.05000114440918
+      ],
+      "halfSize": [
+        4.851544999983162,
+        8.009530000388622,
+        10.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1038090254,
+        1,
+        [
+          [
+            2263233920,
+            0,
+            "\u8cde\u9eb5",
+            "G/F., 514-516 CASTLE PEAK RD., SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-04-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090602
+        ]
+      ],
+      "coordinate": [
+        1.9923221204671635,
+        0.38990138167643174,
+        15.649999618530273
+      ],
+      "halfSize": [
+        4.987114999908954,
+        8.050764999352396,
+        9.75
+      ]
+    },
+    {
+      "attributes": [
+        1038090255,
+        2,
+        [
+          [
+            2263807835,
+            0,
+            "KATSUO UDON",
+            "SHOP 3, G/F, PO WAH COURT, 450-464 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-04-29"
+          ],
+          [
+            3163802290,
+            1,
+            "KATSUO UDON",
+            "SHOP NO. 4, G/F, PO WAH COURT, 464 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090639
+        ]
+      ],
+      "coordinate": [
+        1.99236932024036,
+        0.38989699090632446,
+        44.150001525878906
+      ],
+      "halfSize": [
+        13.770999999716878,
+        13.8125,
+        38.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1038090256,
+        3,
+        [
+          [
+            2263804906,
+            0,
+            "\u805a\u4e32\u4e32\u71d2\u5c08\u9580\u5e97(\u9577\u6c99\u7063\u5206\u5e97)",
+            "PORTION OF SHOP NO. 1, G/F, CHEUNG FAI BUILDING, 41-51 CHEUNG WAH STREET, 364-368 SHUN NING ROAD, 401-405 PO ON ROAD, KOWLOON",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2263808078,
+            0,
+            "\u56de\u61b6\u5ba2\u68e7",
+            "SHOP 12, G/F, CHEUNG FAI BUILDING, 41-51 CHEUNG WAH STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-09-23"
+          ],
+          [
+            3163801507,
+            1,
+            "BBQ Family",
+            "SHOP 6, G/F, CHEUNG FAI BUILDING, 41-51 CHEUNG WAH STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2027-02-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090710
+        ]
+      ],
+      "coordinate": [
+        1.9923774731255919,
+        0.38991893218094825,
+        11.449999809265137
+      ],
+      "halfSize": [
+        19.538060000166297,
+        20.92773500084877,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1038090257,
+        4,
+        [
+          [
+            3163801950,
+            1,
+            "\u4e09\u5bf6\u7d20\u98df",
+            "SHOP 5 , UG/F, LAI BO GARDEN, 38 CHEUNG WAH STREET, 383 PO ON ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-09-25"
+          ],
+          [
+            3163802218,
+            1,
+            "COSY",
+            "SHOP 9&11A, UG, LAI BO GARDEN, 383 PO ON ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-03-22"
+          ],
+          [
+            3163802467,
+            1,
+            "Taste Dumplings",
+            "SHOP 3B, LAI BO GARDEN, NO.38 CHEUNG WAH STREET, KOWLOON",
+            null,
+            "2026-05-10"
+          ],
+          [
+            3163803123,
+            1,
+            "Day Day Noodle",
+            "SHOP 14E & 17A, UG/F., LAI BO GARDEN, NO. 383 PO ON ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090715
+        ]
+      ],
+      "coordinate": [
+        1.9923845102515567,
+        0.3899134579207746,
+        16.799999237060547
+      ],
+      "halfSize": [
+        33.1424949998036,
+        32.31649500038475,
+        10.5
+      ]
+    },
+    {
+      "attributes": [
+        1038090258,
+        4,
+        [
+          [
+            2263802548,
+            0,
+            "\u559c\u6a02\u9ede\u5fc3\u751c\u54c1\u5c08\u9580\u5e97",
+            "SHOP 1-4, G/F, LAI KWAN COURT, 438 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2291805384,
+            0,
+            "CHICKEN POCHA",
+            "SHOP IA, G/F, MING TAK BUILDING, NO. 438-442 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2291805436,
+            0,
+            "\u96f2\u7c73\u5bb6",
+            "SHOP HA, G/F, MING TAK BUILDING, NO.438-442 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            3191802000,
+            1,
+            "Pho M Cafe",
+            "SHOP ID & IE, G/F, MING TAK BUILDING, NO. 438-442 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090717
+        ]
+      ],
+      "coordinate": [
+        1.9923632617441036,
+        0.3899147595018913,
+        11.75
+      ],
+      "halfSize": [
+        16.780099999625236,
+        16.29537000041455,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        1038090259,
+        4,
+        [
+          [
+            2263181337,
+            0,
+            "\u80a5\u8001\u864e",
+            "SHOP 1, G/F, YIU FAI BLDG., 2-8 TSAP FAI STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-03-28"
+          ],
+          [
+            3163800629,
+            1,
+            "\u5144\u59b9\u8d8a\u5357\u7c89",
+            "SHOP 4, G/F., YIU FAI MANSION, 2-8 TSAP FAI STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3163801914,
+            1,
+            "Little Emma",
+            "SHOP 3, G/F, YIU FAI MANSION, 2-8 TSAP FAI STREET, KOWLOON",
+            null,
+            "2026-06-10"
+          ],
+          [
+            3163802014,
+            1,
+            "\u80a5MO\u8eca\u4ed4\u9eb5",
+            "SHOP 5, G/F., YIU FAI BUILDING, 2-8 TSAP FAI STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090718
+        ]
+      ],
+      "coordinate": [
+        1.9923425090445537,
+        0.38991301556654606,
+        9.300000190734863
+      ],
+      "halfSize": [
+        10.635224999859929,
+        12.615034999325871,
+        2.3999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1038090260,
+        1,
+        [
+          [
+            2291805083,
+            0,
+            "\u9f8d\u6cf0\u5c0f\u5eda",
+            "FRONT PORTION OF G/F, HUNG WAN BUILDING, 476 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090720
+        ]
+      ],
+      "coordinate": [
+        1.9923375194002733,
+        0.3899093167826909,
+        13.649999618530273
+      ],
+      "halfSize": [
+        17.209714999888092,
+        24.888290000148118,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1038090261,
+        1,
+        [
+          [
+            2291802349,
+            0,
+            "\u4fca\u9054\u4fe1\u8336\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP NOS. 50-51 & 56-57, LOWER G/F, KWAI SING CENTRE, 416 CASTLE PEAK ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090722
+        ]
+      ],
+      "coordinate": [
+        1.9923691824747622,
+        0.3899103044560067,
+        13.25
+      ],
+      "halfSize": [
+        15.805085000116378,
+        15.751830000430346,
+        7.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1038090262,
+        3,
+        [
+          [
+            2263805006,
+            0,
+            "D'Lite Veggie",
+            "SHOP 6B ON G/F & SHOP 1 ON 1/F, THE SORENTINO, 483 SHUN NING ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2263805468,
+            0,
+            "DK Pizza Cafe",
+            "SHOP NO. 4, G/F, THE SORENTINO, NO. 483 SHUN NING ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2263805565,
+            0,
+            "Thai Viet Style",
+            "SHOP 2, G/F, THE SORENTINO, 483 SHUN NING ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090726
+        ]
+      ],
+      "coordinate": [
+        1.9923816420421392,
+        0.38990560671374935,
+        13.65000057220459
+      ],
+      "halfSize": [
+        27.191325000021607,
+        25.196530000306666,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1038090263,
+        2,
+        [
+          [
+            2263802274,
+            0,
+            "\u91d1\u7de3\u5c45\u53f0\u5f0f\u6599\u7406",
+            "SHOP 16, G/F, 23 CHEUNG WAH STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3163802795,
+            1,
+            "Paperbark Cafe",
+            "SHOP 13, G/F, 23 CHEUNG WAH STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090727
+        ]
+      ],
+      "coordinate": [
+        1.9923638205764458,
+        0.38990457074161705,
+        12.699999809265137
+      ],
+      "halfSize": [
+        21.513430000282824,
+        27.687000000849366,
+        6.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1038090264,
+        4,
+        [
+          [
+            2263242371,
+            0,
+            "Chun Mei Fong",
+            "SHOP NO. 14, G/F., GOLDEN JADE HEIGHTS, 482-492 UN CHAU ST., SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2263804085,
+            0,
+            "\u8208\u8a18\u8c6c\u4ec0\u5c08\u9580\u5e97",
+            "SHOP 12, G/F, GOLDEN JADE HEIGHTS, NO. 482-492 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2027-02-17"
+          ],
+          [
+            2263804678,
+            0,
+            "\u5e2b\u5085\u4ed4",
+            "SHOP NOS. 1, 2, 3, 5, 6, G/F, GOLDEN JADE HEIGHTS, 482-492 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-04-18"
+          ],
+          [
+            3163802740,
+            1,
+            "Rest House",
+            "SHOP NO. 4, G/F., GOLDEN JADE HEIGHTS, 482-492 UN CHAU STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090728
+        ]
+      ],
+      "coordinate": [
+        1.9923592747702759,
+        0.3899050210614584,
+        9.899999618530273
+      ],
+      "halfSize": [
+        17.909864999819547,
+        17.402914999984205,
+        3.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1038090265,
+        1,
+        [
+          [
+            2263809017,
+            0,
+            "\u8d85\u4eba\u71d2\u9d5d",
+            "SHOP NO. 1, G/F, MEI KEI MANSION, 501 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-08-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090729
+        ]
+      ],
+      "coordinate": [
+        1.992348806390713,
+        0.3899046575082368,
+        9.600000381469727
+      ],
+      "halfSize": [
+        17.210844999644905,
+        12.894054999575019,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1038090266,
+        1,
+        [
+          [
+            2263809284,
+            0,
+            "Very Good Luck",
+            "SHOP NO. B, G/F, THE GLOBE, NO. 79 WING HONG STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090730
+        ]
+      ],
+      "coordinate": [
+        1.992284305350973,
+        0.3899012184416093,
+        12.84999942779541
+      ],
+      "halfSize": [
+        20.997999999672174,
+        28.766715000383556,
+        6.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1038090267,
+        2,
+        [
+          [
+            2263802326,
+            0,
+            "\u96de\u4ed4\u53bb\u9aa8\u6d77\u5357\u96de\u5c08\u9580\u5e97",
+            "SHOP 1, G/F., HOOVER MANSION, 493 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2027-02-23"
+          ],
+          [
+            3163800267,
+            1,
+            "\u597d\u5473\u9903\u5b50\u5e97",
+            "SHOP C, G/F, HOOVER MANSION, 493-497 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090731
+        ]
+      ],
+      "coordinate": [
+        1.9923515908694103,
+        0.38990317371658595,
+        8.299999237060547
+      ],
+      "halfSize": [
+        11.403595000039786,
+        11.504095000214875,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1038090268,
+        1,
+        [
+          [
+            2263802690,
+            0,
+            "Chiu Hing Authentic Chiu Chau Restaurant",
+            "SHOP NOS. 4 & 5, G/F, FEDERAL MANSION, 544-554 FUK WING STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-03-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090732
+        ]
+      ],
+      "coordinate": [
+        1.992346363161972,
+        0.3899016701880727,
+        11.550000190734863
+      ],
+      "halfSize": [
+        28.631980000063777,
+        22.423754999414086,
+        5.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1038090269,
+        1,
+        [
+          [
+            2263171497,
+            0,
+            "\u96ea\u5c71\u51b0\u5ef31956",
+            "SHOP 4-5, G/F., TUNG KING BLDG., 413 CASTLE PEAK ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-09-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090733
+        ]
+      ],
+      "coordinate": [
+        1.992370860704558,
+        0.3899008391463392,
+        13.65000057220459
+      ],
+      "halfSize": [
+        19.23793500009924,
+        17.67200000025332,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1038090270,
+        1,
+        [
+          [
+            2263803064,
+            0,
+            "\u592a\u5b50\u6d77\u9bae\u83dc\u9928",
+            "SHOP C (ALSO KNOWN AS 481 UN CHAU STREET) & SHOP D (ALSO KNOWN AS 483 UN CHAU STREET), G/F, SHIU HANG BUILDING, NO. 477-483 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-12-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090736
+        ]
+      ],
+      "coordinate": [
+        1.9923568267580827,
+        0.3898986544772872,
+        11.800000190734863
+      ],
+      "halfSize": [
+        15.687609999906272,
+        15.473354999907315,
+        5.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1038090271,
+        1,
+        [
+          [
+            2263176483,
+            0,
+            "\u9806\u8208\u9686",
+            "SHOP NO.1, G/F, SCENIC COURT, 455 SHUN NING ROAD, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090740
+        ]
+      ],
+      "coordinate": [
+        1.9923963360295036,
+        0.38989432256373485,
+        9.75
+      ],
+      "halfSize": [
+        15.520434999838471,
+        15.486165000125766,
+        3.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1038090272,
+        2,
+        [
+          [
+            2263800560,
+            0,
+            "\u541b\u6236\u934b\u8cbc\u5927\u738b",
+            "SHOP NO. 2-3, G/F, CHEUNG WAH COURT, 471 UN CHAU STREET, KOWLOON",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3163801862,
+            1,
+            "\u5fa1\u8a18\u7cd6\u6c34\u5c08\u9580\u5e97",
+            "SHOP 11, G/F, CHEUNG WAH COURT, 471 UN CHAU STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090741
+        ]
+      ],
+      "coordinate": [
+        1.9923634597788897,
+        0.38989349872609674,
+        9.200000762939453
+      ],
+      "halfSize": [
+        16.189735000021756,
+        16.013989999890327,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1038090273,
+        5,
+        [
+          [
+            2263806762,
+            0,
+            "NGAN LUNG RESTAURANT",
+            "SHOP NO.G02, SO UK SHOPPING CENTRE, SO UK ESTATE, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2263806780,
+            0,
+            "MX",
+            "SHOP NO. G08, G/F., SO UK SHOPPING CENTRE, SO UK ESTATE, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-12-30"
+          ],
+          [
+            2263806869,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. G09 AND G10, G/F, SO UK SHOPPING CENTRE, SO UK ESTATE, SHAM SHUI PO, KOWLOON",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2263807118,
+            0,
+            "HEY WAH RESTAURANT",
+            "SHOP NO. G01, G/F., SO UK SHOPPING CENTRE, SO UK ESTATE, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-03-24"
+          ],
+          [
+            2263807312,
+            0,
+            "TAK HING YUEN SEAFOOD RESTAURANT",
+            "SHOP NO. 101, 1/F., SO UK SHOPPING CENTRE, SO UK ESTATE, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090795
+        ]
+      ],
+      "coordinate": [
+        1.9923927699101136,
+        0.389917232487916,
+        17.5
+      ],
+      "halfSize": [
+        49.654209999833256,
+        44.62247000075877,
+        7.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1038090274,
+        1,
+        [
+          [
+            2263804784,
+            0,
+            "Joy Caf\u00e9",
+            "SHOP 1 ON G/F, HEYA DELIGHT, 400 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090796
+        ]
+      ],
+      "coordinate": [
+        1.99237519733871,
+        0.38990509550817876,
+        76.6500015258789
+      ],
+      "halfSize": [
+        15.382439999841154,
+        14.329849999397993,
+        43.44999694824219
+      ]
+    },
+    {
+      "attributes": [
+        1038090275,
+        4,
+        [
+          [
+            2263805608,
+            0,
+            "Fairwood Fast Food and Taiwan Bowl",
+            "SHOP NO. 2, G/F, HEYA CRYSTAL, 399 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2263805662,
+            0,
+            "Mizi",
+            "SHOP 1, 1/F, HEYA CRYSTAL SHOPPING CENTRE, NO. 399 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2263806045,
+            0,
+            "Yu Yu SUSHI",
+            "SHOP 2, 1/F, HEYA CRYSTAL SHOPPING CENTRE, 399 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-09-10"
+          ],
+          [
+            2263806063,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 3, G/F, HEYA CRYSTAL SHOPPING CENTRE, NO. 399 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-10-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090802
+        ]
+      ],
+      "coordinate": [
+        1.9923758053271987,
+        0.3898944833115925,
+        20.399999618530273
+      ],
+      "halfSize": [
+        32.818039999809116,
+        33.49904999975115,
+        14.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1038090276,
+        2,
+        [
+          [
+            2263808801,
+            0,
+            "\u6d0b\u98df\u5546\u5e97",
+            "SHOP 2, G/F, 532-542 FUK WING STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3163802838,
+            1,
+            "Springtide Hong Kong Limited",
+            "SHOP 1, G/F, THE AMUSED, NO. 538 FUK WING STREET, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-11-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090814
+        ]
+      ],
+      "coordinate": [
+        1.9923515354995867,
+        0.38989770265456214,
+        14.699999809265137
+      ],
+      "halfSize": [
+        14.958620000164956,
+        14.330524999648333,
+        8.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1038090277,
+        5,
+        [
+          [
+            2263809488,
+            0,
+            "\u6625\u5b0c + \u69ae\u5f0f\u71d2\u96de\u6252",
+            "SHOP 102, 1/F, 83 KING LAM STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2263809503,
+            0,
+            "J'S CUCINA",
+            "SHOP 101, 1/F, 83 KING LAM STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2263809655,
+            0,
+            "\u958b\u82b1\u7d50\u679c",
+            "SHOP G06, G/F, 83 KING LAM STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-07-17"
+          ],
+          [
+            3163803266,
+            1,
+            "NOC COFFEE",
+            "SHOP G01, G/F, 83 KING LAM STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3163803381,
+            1,
+            "LY BAKERY",
+            "SHOP G03 & G04, G/F., 83 KING LAM STREET, CHEUNG SHA WAN, KOWLOON",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1038090834
+        ]
+      ],
+      "coordinate": [
+        1.9922312436122047,
+        0.3898964285235944,
+        11.899999618530273
+      ],
+      "halfSize": [
+        61.832899210916366,
+        35.42251999955624,
+        5.700000286102295
+      ]
+    }
+  ]
+}

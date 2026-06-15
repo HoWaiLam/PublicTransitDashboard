@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        834666496,
+        1,
+        [
+          [
+            2591000186,
+            3,
+            "\u53cb\u806f\u8239\u5ee0",
+            "BLOCK H, YIU LIAN DOCKYARDS LIMITED, LOWER G/F (PORTION), G/F (PORTION) & M/F (PORTION), TYTL 72, TSING YI ISLAND, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          834666496
+        ]
+      ],
+      "coordinate": [
+        1.9913009807710902,
+        0.38988916985245614,
+        15.800000190734863
+      ],
+      "halfSize": [
+        49.47399999992922,
+        51.803000000305474,
+        10.90000057220459
+      ]
+    }
+  ]
+}

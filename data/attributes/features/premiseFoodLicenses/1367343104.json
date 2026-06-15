@@ -1,0 +1,2210 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1367343104,
+        2,
+        [
+          [
+            2998802372,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP 1, G/F, SHIN CHI HOUSE, SHIN MING ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3298800165,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP 1, G/F, SHIN CHI HOUSE, SHIN MING ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343106
+        ]
+      ],
+      "coordinate": [
+        1.9940414701708369,
+        0.3892732483023216,
+        73.5999984741211
+      ],
+      "halfSize": [
+        23.575449999887496,
+        25.410649999976158,
+        49.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1367343105,
+        31,
+        [
+          [
+            2998801795,
+            4,
+            "\u5510\u8a18\u5305\u9ede",
+            "SHOP NO. 5, G/F, SHEUNG TAK SHOPPING CENTRE, SHEUNG TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2998802354,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 228, 2/F, SHEUNG TAK SHOPPING CENTRE, 2 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ],
+          [
+            2998805247,
+            4,
+            "PARKnSHOP",
+            "STALL NO. 2, SHOP NO. 209, 2/F, SHEUNG TAK PLAZA, SHEUNG TAK ESTATE, NO. 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-03-03"
+          ],
+          [
+            2998805609,
+            4,
+            "\u5927\u5e2b\u5144\u7f8e\u98df",
+            "STALL NO. 5B IN THE MARKET PLACE, GROUND FLOOR, SHEUNG TAK PLAZA, SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2998805627,
+            4,
+            "\u5e38\u6a02\u6f22\u5821",
+            "STALL NO. 5A IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS SHEUNG TAK PLAZA), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2998805964,
+            4,
+            "I am..bakery",
+            "SHOP NO. 1A, G/F, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2998807225,
+            4,
+            "SUSHI CHUN",
+            "STALL NO. M114 IN THE MARKET PLACE, G/F, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2998807234,
+            4,
+            "\u963f\u4e00\u71d2\u5473",
+            "STALL NO. M103 (REAR PORTION), G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2998807456,
+            4,
+            "\u6cf0\u975a\u624b\u6495\u96de",
+            "STALL NO.M105 IN THE MARKET PLACE, G/F, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            2998807517,
+            4,
+            "\u71d2\u6d12\u4e00\u65cf",
+            "STALL NO. M101 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            3698000875,
+            5,
+            "\u5065\u767c\u96de\u9d28\u6279\u767c",
+            "SHOPSTALL NO. 13, G/F, MARKET, SHEUNG TAK SHOPPING CENTRE, SHEUNG TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ],
+          [
+            3698802253,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 209, 2/F, SHEUNG TAK PLAZA, SHEUNG TAK ESTATE, NO. 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            3698802448,
+            5,
+            "\u5b98\u5a01\u9bae\u9b5a",
+            "STALL NO. M410, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK, SHEUNG TAK ESTATE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            3698802484,
+            5,
+            "FISH CAMP",
+            "MARKET STALL NO.M309, G/F, SHEUNG TAK ESTATE, NO.2 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-23"
+          ],
+          [
+            3698802518,
+            5,
+            "SHUN WING BUTCHER",
+            "STALL NO. M208, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT),SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            3698802563,
+            5,
+            "GUN YUK YAN",
+            "STALL NO. M304, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3698802572,
+            5,
+            "DOMESTIC PIGS",
+            "STALL NO. M303, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3698802581,
+            5,
+            "\u5bcc\u5f37\u9bae\u9b5a",
+            "STALL NOS. M405 AND M407 IN THE MARKET PLACE ON GROUND FLOOR, SHEUNG TAK PLAZA, SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3698802590,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL NOS. M408 AND M412 IN THE MARKET PLACE ON GROUND FLOOR, SHEUNG TAK PLAZA, SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3698802606,
+            5,
+            "\u9338\u8a18",
+            "STALL NO. M205, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-27"
+          ],
+          [
+            3698802615,
+            5,
+            "\u98db\u9054\u6d77\u9bae",
+            "STALL NOS. M413 & M415, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-27"
+          ],
+          [
+            3698802633,
+            5,
+            "\u98db\u9054\u6d77\u9bae",
+            "STALL NOS. M406 & M414, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3698802642,
+            5,
+            "\u5408\u8208\u9bae\u9b5a",
+            "STALL NO. M411, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3698802697,
+            5,
+            "\u9d3b\u5a01\u8089\u67b1",
+            "STALL NO. M409, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3698802703,
+            5,
+            "\u5ee3\u6771\u8089\u98df",
+            "STALL NO. M203, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            3698802712,
+            5,
+            "\u5be6\u60e0\u51b0\u9bae",
+            "STALL NO. M307, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            3698802721,
+            5,
+            "\u76db\u54c1\u51cd\u8089",
+            "STALL NO. M305, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            3698802776,
+            5,
+            "\u9999\u6e2f\u5730\u98df\u54c1",
+            "STALL NOS. M118 & M211, G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ],
+          [
+            3698803548,
+            5,
+            "SUN HING BEEF",
+            "STALL NO. M302, GROUND FLOOR, MARKET, COMMERCIAL /CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3298800156,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 228, 2/F, SHEUNG TAK SHOPPING CENTRE, 2 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3598800511,
+            8,
+            "\u963f\u4e00\u71d2\u5473",
+            "STALL NO. M103 (FRONT PORTION), G/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TKO SPOT), SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343108
+        ]
+      ],
+      "coordinate": [
+        1.9942262352607716,
+        0.38941116287481176,
+        13.34999942779541
+      ],
+      "halfSize": [
+        85.19650000007823,
+        51.916000000201166,
+        7.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1367343106,
+        28,
+        [
+          [
+            2998000170,
+            4,
+            "\u6b61\u8a18\u7cd6\u6c34\u5e97",
+            "SHOP NO. 33, G/F, COMMERCIAL COMPLEX, BEVERLY GARDEN, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2998800598,
+            4,
+            "\u5927\u5c0f\u901a\u5403",
+            "SHOP NO. 51, G/F, BEVERLY GARDEN, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2998802123,
+            4,
+            "\u6d41\u9023\u5c4b",
+            "SHOP 34, G/F, BEVERLY GARDEN, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2998804086,
+            4,
+            "\u4e00\u9eb5\u7de3",
+            "SHOP 38, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2998804192,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "SHOP 96A, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2998805098,
+            4,
+            "\u80a5\u59b9\u5c0f\u98df",
+            "SHOP 31, G/F, BEVERLY GARDEN, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2998805760,
+            4,
+            "\u5d50\u59d0\u77f3\u78e8\u8178\u7c89",
+            "SHOP 40, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            2998807696,
+            4,
+            "\u5442\u9326\u8a18\u624b\u6495\u96de\u5c08\u9580\u5e97",
+            "SHOP 45 G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-04-01"
+          ],
+          [
+            2998807793,
+            4,
+            "\u5929\u5929\u5c0f\u98df",
+            "SHOP NO. 27, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2998807933,
+            4,
+            "TKO Creative Kitchen",
+            "SHOP 28, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2998808042,
+            4,
+            "\u9ea5\u98df\u70d8\u7119",
+            "SHOP 18, G/F, BEVERLY GARDEN, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            3698800354,
+            5,
+            "\u7965\u69ae\u8089\u67b1\u51b0\u9bae\u96de",
+            "SHOP NOS. 25(PORTION)-26,G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            3698800664,
+            5,
+            "\u5ee3\u6e90\u8089\u98df\u516c\u53f8",
+            "SHOP NO. 87, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            3698800840,
+            5,
+            "Wellcome",
+            "SHOPS 112-113 (PORTION A), 1/F, BEVERLY GARDEN, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3698800895,
+            5,
+            "\u7965\u8208",
+            "PORTION OF SHOP NOS. 104-109, G/F., BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            3698801092,
+            5,
+            "\u7965\u8208\u9bae\u8089",
+            "SHOP NO. 102A, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ],
+          [
+            3698801144,
+            5,
+            "\u4e09\u9bae\u574a\u6709\u9650\u516c\u53f8",
+            "SHOP NO. 110 & 111 (PORTION A), G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            3698801153,
+            5,
+            "SHEARER BUTCHER",
+            "PORTION B OF (SHOP NO. 110 & 111), G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ],
+          [
+            3698801621,
+            5,
+            "\u672c\u5730\u8c5a",
+            "SHOP NO. 70, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            3698803405,
+            5,
+            "SHEARER BUTCHER",
+            "MAJOR PORTION OF SHOP NO. 92, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3698803414,
+            5,
+            "KIRKWALL BUTCHER",
+            "SHOP NO. 23, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3698803502,
+            5,
+            "Hopping Butcher",
+            "PORTION A OF SHOP NO. 19, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            3698803593,
+            5,
+            "\u9999\u6e2f\u4ed4\u660e\u8a18\u6d77\u9bae",
+            "SHOP NOS. 52, 59 & 60, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-27"
+          ],
+          [
+            3698803618,
+            5,
+            "\u5408\u8c50",
+            "SHOP NO. 10, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            3698803733,
+            5,
+            "\u597d\u8857\u574a",
+            "SHOP 17, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            3298800110,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP 53, 54, 57 & 58, G/F, BEVERLY GARDEN, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-27"
+          ],
+          [
+            3598800399,
+            8,
+            "\u96c4\u8a18\u71d2\u81d8\u9e75\u6c34",
+            "SHOP NO. 102B, G/F, BEVERLY GARDEN SHOPPING CENTRE, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-06"
+          ],
+          [
+            4598800583,
+            8,
+            "No Record",
+            "PORTION A OF SHOP 88, G/F, BEVERLY GARDEN, 1 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343109
+        ]
+      ],
+      "coordinate": [
+        1.9942389189231937,
+        0.3894045688123076,
+        7.950000286102295
+      ],
+      "halfSize": [
+        27.89449999993667,
+        12.750500000081956,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1367343107,
+        24,
+        [
+          [
+            2198800192,
+            1,
+            "Arome Bakery",
+            "PORTION A OF SHOP NO. 1-078, LEVEL 1, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-13"
+          ],
+          [
+            2198800280,
+            1,
+            "\u8373\u5b50\u51b0\u5ba4",
+            "MINOR PORTION OF SHOP NO. 1-005, LEVEL 1, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2998801838,
+            4,
+            "DELICA WORKSHOP",
+            "UNIT 1, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2998801847,
+            4,
+            "HAM & CHEESE COUNTER",
+            "UNIT 3, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2998801856,
+            4,
+            "Fish & Daily Workshop",
+            "UNIT 4, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2998801865,
+            4,
+            "SUSHI & SASHIMI WORKSHOP",
+            "UNIT 5, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2998801874,
+            4,
+            "MEAT WORKSHOP",
+            "UNIT 6, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2998801917,
+            4,
+            "Oyster Workshop",
+            "UNIT 9A, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2998803560,
+            4,
+            "Saint Honore Cake Shop",
+            "SHOP NOS.1-131, LEVEL 1 , THE COMMERICAL PORTION OF TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2998804518,
+            4,
+            "CHATERAISE",
+            "SHOP 1-141, LEVEL 1, THE COMMERICIAL PORTION TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2998805478,
+            4,
+            "\u5982\u610f\u9903",
+            "STALL NO. 20, G/F, TSEUNG KWAN O PLAZA MARKET, NO.1 TONG TAK STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2998807687,
+            4,
+            "MILKSHA",
+            "SHOP NO. 1-001, LEVEL 1, TSEUNG KWAN O PLAZA, NO. 1 TONG TAK STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            2998807863,
+            4,
+            "+ ONE",
+            "FRONT PORTION OF SHOP NO. 1-132, LEVEL 1, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3698800673,
+            5,
+            "SUPERMARKET",
+            "UNIT 8, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            3698800707,
+            5,
+            "Oyster Counter",
+            "UNIT 9B, LEVEL 2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            3698802457,
+            5,
+            "/",
+            "SHOP NO.18, G/F, WET MARKET, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3698802466,
+            5,
+            "\u5bcc\u4f86\u9bae\u9b5a",
+            "SHOP NO. 27, G/F, WET MARKET, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3698802527,
+            5,
+            "(No Record Found)",
+            "SHOP NO. 16, G/F, WET MARKET, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET , TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-03"
+          ],
+          [
+            3698802989,
+            5,
+            "\u4f73\u5bf6\u98df\u54c1",
+            "SHOP NO. 21, G/F, WET MARKET, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            3698803034,
+            5,
+            "DONG JUN BEEF",
+            "SHOP NO. 7, G/F, WET MARKET, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            3698803168,
+            5,
+            "\u7464\u7464\u9bae\u96de",
+            "PORTION OF SHOP 2, WET MARKET, G/F, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            3698803627,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP NO. 49-50, G/F, WET MARKET, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3598800177,
+            8,
+            "Siu Mei & Lo Mei Shop",
+            "UNIT 2, L2, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            3598800548,
+            8,
+            "\u5bcc\u76c8\u6ef7\u6c34\u71d2\u81d8",
+            "SHOP 32, G/F, WET MARKET, TSEUNG KWAN O PLAZA, 1 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343111
+        ]
+      ],
+      "coordinate": [
+        1.99425865298191,
+        0.3893654153369384,
+        16.100000381469727
+      ],
+      "halfSize": [
+        76.18599999975413,
+        76.17654499970376,
+        10.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1367343108,
+        5,
+        [
+          [
+            2198800174,
+            1,
+            "DONQ MINIONE",
+            "SHOP UNIT F86, LEVEL 1, POPCORN, 9 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2998802992,
+            4,
+            "Market Place",
+            "SHOP UNIT G51 (PORTION B), G/F., POPCORN, 9 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2998807988,
+            4,
+            "COMEBUYTEA",
+            "SHOP UNIT F87, LEVEL 1, POPCORN 2, 9 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            3698800983,
+            5,
+            "Market Place",
+            "SHOP UNIT G51 (PORTION A), G/F, POPCORN, 9 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3298800396,
+            6,
+            "\u6211\u60f3\u548c\u4f60\u7121\u6240\u4e8b\u4e8b",
+            "SHOP UNIT F96, LEVEL 1, POPCORN, , 9 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343112
+        ]
+      ],
+      "coordinate": [
+        1.99424044291188,
+        0.38935662639431445,
+        14.75
+      ],
+      "halfSize": [
+        60.67575500020757,
+        82.63535500038415,
+        9.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1367343109,
+        7,
+        [
+          [
+            2998804448,
+            4,
+            "Market Place",
+            "B1/F (PORTION I1), WET MARKET AND SHOP NO. 10, TKO TOWN LOT 57 & 66, PARK CENTRAL, AREA 57, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2998804466,
+            4,
+            "Market Place",
+            "B1/F (PORTION H1 & H2), WET MARKET AND SHOP NO. 10, TKO TOWN LOT 57 & 66, PARK CENTRAL, AREA 57, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2998807669,
+            4,
+            "\u8336\u6551\u661f\u7403",
+            "SHOP NO. G99, G/F, PARK CENTRAL, 9 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2998807836,
+            4,
+            "More Yogurt",
+            "SHOP NO. 137A, LEVEL 1, PARK CENTRAL, NO.9 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ],
+          [
+            3698801667,
+            5,
+            "Market Place",
+            "B1/F (PORTION G1, G2, G3 & PORTIONS)WET MARKET AND SHOP NO. 10TKO TOWN LOT 57 & 66, PARK CENTRAL, AREA 57, , TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-27"
+          ],
+          [
+            4298800395,
+            6,
+            "Yoajung",
+            "SHOP G51, G/F, PARK CENTRAL, 9 TONG TAK STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ],
+          [
+            3598800308,
+            8,
+            "Market Place",
+            "B1/F (PORTION J), WET MARKET AND SHOP NO. 10, TKO TOWN LOT 57 & 66, PARK CENTRAL, AREA 57, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343116
+        ]
+      ],
+      "coordinate": [
+        1.9941640190597059,
+        0.3893330693727707,
+        14.90000057220459
+      ],
+      "halfSize": [
+        124.23549999995157,
+        93.97300000023097,
+        10.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1367343110,
+        11,
+        [
+          [
+            2998801713,
+            4,
+            "\u5510\u8a18\u5305\u9ede",
+            "SHOP 37, LEVEL 2, METRO TOWN SHOPPING MALL, 8 KING LING ROAD, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2998803940,
+            4,
+            "fusion",
+            "STALL NO. 14, SHOP NOS. L2-S01, L2-046 & 047, LEVEL 2, METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2998803959,
+            4,
+            "fusion",
+            "STALL NO. 10 & PORTIONS OF SHOP NOS. L2-S01, L2-046 & 047, LEVEL 2, METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2998803968,
+            4,
+            "fusion",
+            "STALL NO. 7, SHOP NOS. L2-S01, L2-046 & 047, LEVEL 2, METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2998804004,
+            4,
+            "fusion",
+            "STALL NO. 13, SHOP NOS. L2-S01, L2-046 & 047, LEVEL 2, METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-13"
+          ],
+          [
+            2998805520,
+            4,
+            "UO-SHOW",
+            "SHOP NO. L2-056, LEVEL 2, METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2998806000,
+            4,
+            "Chateraise",
+            "SHOP NO. L2-079, LEVEL 2, METRO TOWN, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2998807155,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. L2-038, LEVEL 2, METRO TOWN, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2998807650,
+            4,
+            "JOLLIBEAN",
+            "SHOP GL-015C, G/F, COMMERCIAL DEVELOPMENT OF METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ],
+          [
+            3698801454,
+            5,
+            "fusion",
+            "STALL NO. 8, 9 & PORTIONS OF SHOP NOS. L2-S01, L2-046 & 047, LEVEL 2, METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-31"
+          ],
+          [
+            3598800283,
+            8,
+            "fusion",
+            "STALL NO. 15, SHOP NOS. L2-S01, L2-046 & 047, LEVEL 2, METRO TOWN, 8 KING LING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343122
+        ]
+      ],
+      "coordinate": [
+        1.9940738999613044,
+        0.38928711230090224,
+        21.700000762939453
+      ],
+      "halfSize": [
+        105.5449999999255,
+        132.0764999995008,
+        14.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1367343111,
+        1,
+        [
+          [
+            2998807757,
+            4,
+            "Light Refreshment Kiosk",
+            "KIOSK, 1/F, TSEUNG KWAN O SPORTS GROUND, 109 PO HONG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343123
+        ]
+      ],
+      "coordinate": [
+        1.9942689557099482,
+        0.3894109956807346,
+        14.800000190734863
+      ],
+      "halfSize": [
+        97.8726200000383,
+        98.87447000015527,
+        9.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1367343112,
+        2,
+        [
+          [
+            2998805636,
+            4,
+            "\u5e38\u751c\u751c\u98df\u5e97",
+            "SHOP STALL NO. 5C, G/F, TKO SPOT, SHEUNG TAK ESTATE, 2 TONG MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2998805742,
+            4,
+            "Appolo",
+            "SHOP NO. 1B, G/F, TKO SPOT, SHEUNG TAK ESTATE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343143
+        ]
+      ],
+      "coordinate": [
+        1.9941934761209248,
+        0.38940014755947977,
+        18.850000381469727
+      ],
+      "halfSize": [
+        96.84989000018686,
+        55.84224999975413,
+        13.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1367343113,
+        1,
+        [
+          [
+            2998806985,
+            4,
+            "T Room",
+            "PORTION OF G/F, 160 PO LAM ROAD SOUTH, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343191
+        ]
+      ],
+      "coordinate": [
+        1.9940632227984592,
+        0.389367919097392,
+        99.0
+      ],
+      "halfSize": [
+        20.78919000038877,
+        7.28760000038892,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1367343114,
+        12,
+        [
+          [
+            2198000048,
+            1,
+            "\u7530\u4e2d\u9905\u5e97",
+            "SHOP NO. S11, G/F., COMMERCIAL CENTRE, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            2998806037,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "SHOP NOS. S4 & S4E ON G/F OF COMMERCIAL CENTRE, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2998807094,
+            4,
+            "\u9f8d\u6d25\u7f8e\u98df",
+            "SHOP NO. S8A-1, G/F, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2998807100,
+            4,
+            "Sharetea",
+            "SHOP NO. S8A-2, G/F, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2998807492,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "SHOP NO. S6A, GROUND FLOOR, COMMERCIAL CENTRE, BAUHINIA GARDEN, 11 TONG CHUN STREET, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2998807809,
+            4,
+            "PICK ME",
+            "SHOP NO. S2A, G/F, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            4998808387,
+            4,
+            "\u51b0\u96ea\u6642\u5149",
+            "MAJOR PORTION OF SHOP NO. S3B, G/F, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            3698803432,
+            5,
+            "S-MART FOOD",
+            "STALL C OF SHOP NOS. 4A-D, S5, S5A-E & S6, G/F, COMMERCIAL CENTRE, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            3698803496,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL B OF SHOP NOS. 4A-D, S5, S5A-E & S6, G/F COMMERCIAL CENTRE, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ],
+          [
+            4298800401,
+            6,
+            "\u51b0\u96ea\u6642\u5149",
+            "MINOR PORTION OF SHOP NO. S3B, G/F, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            3598800496,
+            8,
+            "\u6cf0\u975a\u71d2\u81d8",
+            "SHOP NO. S11A, G/F, COMMERCIAL CENTRE OF BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            3598800539,
+            8,
+            "\u6c5f\u8a18\u9673\u76ae\u71d2\u9d5d",
+            "STALL A OF SHOP NOS. 4A-D, S5, S5A-E & S6, G/F, COMMERCIAL CENTRE, BAUHINIA GARDEN, 11 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343230
+        ]
+      ],
+      "coordinate": [
+        1.9942530767524598,
+        0.3893385729005837,
+        20.600000381469727
+      ],
+      "halfSize": [
+        57.00255500013009,
+        23.094419999979436,
+        14.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1367343115,
+        4,
+        [
+          [
+            2998801236,
+            4,
+            "PHD",
+            "SHOP B16, BASEMENT, COMMERCIAL DEVELOPMENT, CENTRAL HEIGHTS, 9 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ],
+          [
+            2998804341,
+            4,
+            "Ryoyu Bakery Studio",
+            "SHOP 182B, LEVEL 1, COMMERCIAL DEVELOPMENT, CENTRAL HEIGHTS, NO. 9 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2998804378,
+            4,
+            "\u7f8e\u5fc3\u70d8\u7119\u6240",
+            "SHOP 183, 1/F, COMMERCIAL DEVELOPMENT, CENTRAL HEIGHTS, 9 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ],
+          [
+            2998807030,
+            4,
+            "CHATERAISE",
+            "SHOP NO. 107, 1/F, CENTRAL HEIGHTS, 9 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343251
+        ]
+      ],
+      "coordinate": [
+        1.9941818061252314,
+        0.38933243884987,
+        86.5
+      ],
+      "halfSize": [
+        17.030500000342727,
+        17.505765000358224,
+        81.0
+      ]
+    },
+    {
+      "attributes": [
+        1367343116,
+        29,
+        [
+          [
+            2998000745,
+            4,
+            "Circle K Convenience Store",
+            "PORTION B OF SHOP 244, CHOI MING SHOPPING CENTRE (EXTENSION), KIN MING ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2998001094,
+            4,
+            "7-ELEVEN",
+            "SHOP NO. 1 (PORT. B), G/F, CHOI MING SHOPPING CENTRE, CHOI MING COURT, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2998805052,
+            4,
+            "I am.. bakery",
+            "SHOP NOS. 261 & 262, G/F, MULTI-STOREY COMMERCIAL/CAR PARK ACCOMMODATION(ALSO KNOWN AS SECOND FLOOR OF CHOI MING SHOPPING CENTRE (EXTENSION)), KIN MING ESTATE, CHOI MING STREET, KAN HOK LANE & LING KWONG STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2998806842,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336(\u5f69\u660e\u5e97)",
+            "SHOP NO. 225, SECOND FLOOR, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS CHOI MING SHOPPING CENTRE), CHOI MING COURT, 1 CHOI MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2998807997,
+            4,
+            "\u9cf3\u9999\u5712",
+            "STALL T-CM74-75, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2998808006,
+            4,
+            "\u5fb7\u5229\u5c0f\u5eda",
+            "STALL T-CM72-73, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2998808015,
+            4,
+            "\u5305\u9ede\u5148\u751f x \u71d2\u8ce3\u738b\u5b50",
+            "STALL T-CM78, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2998808024,
+            4,
+            "\u5b8f\u5bcc\u96f2\u5357\u7c73\u7dda",
+            "STALL T-CM62, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2998808033,
+            4,
+            "\u5ddd\u6d41\u767e\u5473",
+            "STALL T-CM64, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2998808079,
+            4,
+            "\u8178\u7c89\u738b",
+            "STALL T-CM65, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            4998808253,
+            4,
+            "\u5c1a\u8336",
+            "STALL T-CM67, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-24"
+          ],
+          [
+            4998808262,
+            4,
+            "\u91d7\u548c\u9903\u5b50",
+            "STALL T-CM68, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-24"
+          ],
+          [
+            4998808271,
+            4,
+            "NICE BAKE",
+            "STALL T-CM70-71, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-24"
+          ],
+          [
+            4998808299,
+            4,
+            "\u8c6a\u5927\u5927\u96de\u6392",
+            "STALL T-CM61, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-26"
+          ],
+          [
+            4998808305,
+            4,
+            "JK One Chance",
+            "STALL T-CM66, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-26"
+          ],
+          [
+            4998808332,
+            4,
+            "\u7b90\u8d8a\u2022\u8d8a\u5f0f\u5c0f\u98df",
+            "STALL T-CM63, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-27"
+          ],
+          [
+            4998808350,
+            4,
+            "\u8c50\u76db\u71d2\u5473",
+            "STALL T-CM77(PORTION A), CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-28"
+          ],
+          [
+            3698000787,
+            5,
+            "\u65b0\u5149\u8a18",
+            "STALL 3, 1/F, CHOI MING MARKET, CHOI MING SHOPPING CENTRE, CHOI MING COURT, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            3698802183,
+            5,
+            "Wellcome",
+            "SHOP NO. 307B (PORTION A1 & PORTIONS), 3/F., CHOI MING SHOPPING CENTRE, CHOI MING COURT, 1 CHOI MING STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            3698803690,
+            5,
+            "\u725b\u820d",
+            "STALL T-CM57, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            3698803706,
+            5,
+            "\u91d1\u9f8d\u9bae\u9b5a",
+            "STALL T-CM26, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            3698803742,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL T-CM50, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            3698803751,
+            5,
+            "\u9818\u9bae",
+            "STALL T-CM42, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            3698803760,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL T-CM25, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-08"
+          ],
+          [
+            3698803779,
+            5,
+            "\u6f01\u5e02",
+            "STALL T-CM31, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ],
+          [
+            3698803788,
+            5,
+            "S-MART FOOD",
+            "STALL T-CM12-15, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            4698802924,
+            5,
+            "\u4e01\u714c\u6d77\u9bae",
+            "STALL T-CM32-33, CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-26"
+          ],
+          [
+            3298000109,
+            6,
+            "7-ELEVEN",
+            "G/F., SHOP NO. 1(PORTION A), CHOI MING SHOPPING CENTRE, CHOI MING COURT, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            4598800565,
+            8,
+            "\u8c50\u76db\u71d2\u5473",
+            "STALL T-CM77(PORTION B), CHOI MING MARKET, 1/F., CHOI MING SHOPPING CENTRE, 1 CHOI MING STREET, TIU KENG LENG, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343284
+        ]
+      ],
+      "coordinate": [
+        1.9940623318638722,
+        0.38931311584757505,
+        30.799999237060547
+      ],
+      "halfSize": [
+        79.92068499978632,
+        50.88290499988943,
+        12.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1367343117,
+        6,
+        [
+          [
+            2998802716,
+            4,
+            "No Record",
+            "PORTION A OF THE STAR CINEMA, LEVEL 1, 9 TONG YIN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2998802725,
+            4,
+            "Godiva Chocolatier",
+            "PORTION A OF SHOP UNIT F15, POPCORN, 9 TONG YIN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2998802895,
+            4,
+            "B2 Kitchen",
+            "B2/F (PORTION A), CROWNE PLAZA HONG KONG KOWLOON EAST, 3 TONG TAK STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-13"
+          ],
+          [
+            2998805113,
+            4,
+            "Ten Ren's Tea",
+            "SHOP UNIT F01, 1/F, POPCORN, NO. 9 TONG YIN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2998807766,
+            4,
+            "FUFULAND",
+            "SHOP G46, G/F, POPCORN 1, 9 TONG YIN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            3298800271,
+            6,
+            "Godiva Chocolatier",
+            "PORTION B OF SHOP UNIT F15, POPCORN, 9 TONG YIN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343402
+        ]
+      ],
+      "coordinate": [
+        1.9942085772551417,
+        0.38934721717025156,
+        18.0
+      ],
+      "halfSize": [
+        135.06400000024587,
+        110.13700000010431,
+        13.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1367343118,
+        1,
+        [
+          [
+            3698801427,
+            5,
+            "fusion",
+            "PORTIONS OF SHOP NO. G01, GROUND FLOOR, POPWALK, 12 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343423
+        ]
+      ],
+      "coordinate": [
+        1.9942267521199144,
+        0.38931826055619334,
+        12.949999809265137
+      ],
+      "halfSize": [
+        39.47556999977678,
+        73.62117999978364,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1367343119,
+        2,
+        [
+          [
+            2998803472,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF NO.1, G/F., YEE YUET HOUSE, YEE MING ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3298800299,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF NO.1, G/F., YEE YUET HOUSE, YEE MING ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343431
+        ]
+      ],
+      "coordinate": [
+        1.994272052638388,
+        0.38932490741362624,
+        8.149999618530273
+      ],
+      "halfSize": [
+        30.841535000130534,
+        26.59783499967307,
+        2.249999761581421
+      ]
+    },
+    {
+      "attributes": [
+        1367343120,
+        1,
+        [
+          [
+            3698801597,
+            5,
+            "Wellcome",
+            "SHOP NO. 103 (PORTIONS), 1/F, POPWALK 3, NO. 19 CHI SHIN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343438
+        ]
+      ],
+      "coordinate": [
+        1.9942057108173805,
+        0.38928576955360095,
+        12.0
+      ],
+      "halfSize": [
+        30.34750000014901,
+        24.336649999953806,
+        7.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1367343121,
+        1,
+        [
+          [
+            2998804484,
+            4,
+            "KING BAKERY",
+            "SHOP NO. G06B, G/F, POPWALK 2, 19 TONG YIN STREET, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343447
+        ]
+      ],
+      "coordinate": [
+        1.994205156188409,
+        0.3893073072420632,
+        9.899999618530273
+      ],
+      "halfSize": [
+        32.24049999983981,
+        82.51568500045687,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1367343122,
+        10,
+        [
+          [
+            2998806055,
+            4,
+            "\u91d1\u99ac\u71d2",
+            "NO. A6 OF FOOD COURT, DAY DAY FRESH, 1/F, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2998806082,
+            4,
+            "\u5916\u5a46",
+            "NO. A8 OF FOOD COURT, DAY DAY FRESH, 1/F, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2998806134,
+            4,
+            "\u97d3\u864e\u5bb6",
+            "NO. A2 OF FOOD COURT, DAY DAY FRESH, 1/F, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2998806170,
+            4,
+            "\u9d28\u8471\u81ea\u5bb6\u88fd\u62c9\u9eb5",
+            "NO. A5A OF FOOD COURT, DAY DAY FRESH, 1/F, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2998806189,
+            4,
+            "\u6085\u926c\u753a",
+            "NO. A5B OF FOOD COURT, DAY DAY FRESH, 1/F, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2998806383,
+            4,
+            "KAI",
+            "NO. A4 OF FOOD COURT, DAY DAY FRESH, 1/F, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2998807216,
+            4,
+            "BEN \u54e5\u7c73\u7dda",
+            "NO. A10 OF FOOD COURT, TROJAN FOOD CLUB, 1/F., THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2998807483,
+            4,
+            "\u9f8d\u5c0f\u9928",
+            "NO. A9 OF FOOD COURT, 1/F, TROJAN FOOD CLUB, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2998807553,
+            4,
+            "OUR LITTLE DREAM",
+            "SHOP NO. A1 OF FOOD COURT, TROJAN FOOD CLUB, 1/F., THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2998807632,
+            4,
+            "\u91d1\u9280\u6cf0\u570b\u7f8e\u98df",
+            "NO. A7 OF FOOD COURT, TROJAN FOOD CLUB, 1/F, THE PARKSIDE, 18 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343461
+        ]
+      ],
+      "coordinate": [
+        1.994226755491969,
+        0.3893002242199664,
+        10.050000190734863
+      ],
+      "halfSize": [
+        38.30150500033051,
+        36.833554999902844,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1367343123,
+        1,
+        [
+          [
+            3698803511,
+            5,
+            "Foodpanda",
+            "PORTIONS OF SHOP NO. 5, G/F, TWIN PEAKS, NO. 9 CHI SHIN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343466
+        ]
+      ],
+      "coordinate": [
+        1.9942251952466428,
+        0.3892857313843787,
+        10.600000381469727
+      ],
+      "halfSize": [
+        41.4875000002794,
+        24.30901551345596,
+        5.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1367343124,
+        1,
+        [
+          [
+            3698803724,
+            5,
+            "Pandamart",
+            "SHOP G03 & G03A (PORTIONS), G/F, SAVANNAH PLACE, 3 CHI SHIN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343509
+        ]
+      ],
+      "coordinate": [
+        1.9942883344661664,
+        0.38930736463075244,
+        11.75
+      ],
+      "halfSize": [
+        55.68434499995783,
+        61.92137000057846,
+        6.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1367343125,
+        7,
+        [
+          [
+            2998806143,
+            4,
+            "FANTASTIC TEA",
+            "SHOP G30, G/F., OCEAN POPWALK, NO. 28 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2998807058,
+            4,
+            "New World Mart",
+            "PORTION A OF SHOP NOS.G01-G02, G/F, OCEAN POPWALK, NO. 28 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            4998808280,
+            4,
+            "Walk We Eat",
+            "(MAJOR PORTION) SHOP G19, G/F, OCEAN POPWALK, NO. 28 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-02-26"
+          ],
+          [
+            4998808369,
+            4,
+            "No Record",
+            "SHOP G17, G/F, OCEAN POPWALK, 28 TUNG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            3698803308,
+            5,
+            "MEAT UP HK",
+            "SHOP G26-27, G/F, OCEAN POPWALK, NO. 28 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3698803399,
+            5,
+            "New World Mart",
+            "PORTIONS OF SHOP NOS.G01-G02, G/F, OCEAN POPWALK, NO. 28 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            4298800386,
+            6,
+            "No Record",
+            "MINOR PORTION OF SHOP G17, G/F, OCEAN POPWALK, 28 TUNG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343534
+        ]
+      ],
+      "coordinate": [
+        1.994226266245223,
+        0.38926951728587905,
+        9.649999618530273
+      ],
+      "halfSize": [
+        49.00454315345269,
+        80.6949999993667,
+        5.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1367343126,
+        1,
+        [
+          [
+            3698802925,
+            5,
+            "U SELECT FOOD",
+            "PORTIONS OF SHOP 3, G/F, ALTO RESIDENCES, 29 TONG YIN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343576
+        ]
+      ],
+      "coordinate": [
+        1.994186961650198,
+        0.3892491410279407,
+        11.350000381469727
+      ],
+      "halfSize": [
+        48.15194500004873,
+        95.47649999987334,
+        6.25
+      ]
+    },
+    {
+      "attributes": [
+        1367343127,
+        2,
+        [
+          [
+            2198800305,
+            1,
+            "NOC COFFEE",
+            "PORTION B OF SHOP 1A, G/F, PAPILLONS SQUARE, 21 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            3698802192,
+            5,
+            "Wellcome",
+            "SHOP NOS. 8 & 9 (PORTION A & PORTIONS),BASEMENT 1 FLOOR, PAPILLONS SQUARE, NO. 21 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343578
+        ]
+      ],
+      "coordinate": [
+        1.9942723432417857,
+        0.3892669314429046,
+        8.799999237060547
+      ],
+      "halfSize": [
+        80.98865185678005,
+        44.029194168688264,
+        3.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1367343128,
+        10,
+        [
+          [
+            2998805849,
+            4,
+            "Sushi (2)",
+            "UNIT TKO-3, SHOP NOS. 107-113 & 115-122, 1/F., COMMERCIAL ACCOMMODATION OF MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2998805858,
+            4,
+            "Vegetables",
+            "UNIT TKO-5, SHOP NOS. 107-113 & 115-122, 1/F., COMMERCIAL ACCOMMODATION OF MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2998805867,
+            4,
+            "Meat",
+            "UNIT TKO-4, SHOP NOS. 107-113 & 115-122, 1/F., COMMERCIAL ACCOMMODATION OF MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2998805876,
+            4,
+            "Sushi (1)",
+            "UNIT TKO-2, SHOP NOS. 107-113 & 115-122, 1/F., COMMERCIAL ACCOMMODATION OF MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2998805894,
+            4,
+            "Delicatessen & Sweet Potato",
+            "UNIT TKO-1, SHOP NOS. 107-113 & 115-122, 1/F., COMMERCIAL ACCOMMODATION OF MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2998807012,
+            4,
+            "DOUGH BROS",
+            "SHOP G18A, G/F, MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            2998807827,
+            4,
+            "Thai Chilly",
+            "SHOP G18C, G/F, MONTEREY PLACE, O'SOUTH COAST, 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-09"
+          ],
+          [
+            3698802882,
+            5,
+            "SUPERMARKET",
+            "PORTIONS OF SHOP NOS.107-113 & 115-122, 1/F,COMMERCIAL ACCOMMODATION OF MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            4698802951,
+            5,
+            "DeliFans",
+            "PORTIONS OF SHOP NO. G15, G/F., MONTEREY PLACE, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            3298800439,
+            6,
+            "Delicatessen & Sweet Potato",
+            "UNIT TKO-1 ( MINOR PORTION), SHOP NOS.107-113 & 115-122, 1/F, COMMERCIAL ACCOMMODATION OF MONTEREY, NO. 23 TONG CHUN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343602
+        ]
+      ],
+      "coordinate": [
+        1.9942481684381288,
+        0.3892484635218757,
+        12.299999237060547
+      ],
+      "halfSize": [
+        44.82918499968946,
+        64.73698499985039,
+        5.999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1367343129,
+        1,
+        [
+          [
+            2998806064,
+            4,
+            "KINDEST BAKERY COMPANY LIMITED",
+            "SHOP 6, G/F, YUNG MING SHOPPING CENTRE, YUNG MING COURT, 5 CHI SHIN STREET, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1367343647
+        ]
+      ],
+      "coordinate": [
+        1.9942840493112075,
+        0.38929282453820296,
+        8.050000190734863
+      ],
+      "halfSize": [
+        48.41092499997467,
+        32.07078499998897,
+        2.6499998569488525
+      ]
+    }
+  ]
+}

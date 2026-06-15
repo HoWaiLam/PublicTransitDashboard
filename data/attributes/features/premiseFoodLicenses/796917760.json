@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        796917760,
+        1,
+        [
+          [
+            2994801052,
+            4,
+            "HUNG FOOK TONG HEATLH EXPRESS",
+            "SHOP L2-5, UNPAID CONCOURSE, LOK MA CHAU STATION, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          796917770
+        ]
+      ],
+      "coordinate": [
+        1.9908214059938598,
+        0.39295786510268615,
+        18.399999618530273
+      ],
+      "halfSize": [
+        164.41917499992996,
+        81.65766500029713,
+        13.100000381469727
+      ]
+    }
+  ]
+}

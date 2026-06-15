@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        627048448,
+        1,
+        [
+          [
+            2217001944,
+            0,
+            "FIGOS",
+            "SHOP G09B, G/F., BLOCK A, DISCOVERY BAY PLAZA, DISCOVERY BAY, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          627048449
+        ]
+      ],
+      "coordinate": [
+        1.9899719711439787,
+        0.3891307393797055,
+        11.34999942779541
+      ],
+      "halfSize": [
+        93.06659000040963,
+        69.31822500005364,
+        5.449999809265137
+      ]
+    }
+  ]
+}

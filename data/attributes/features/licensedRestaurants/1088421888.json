@@ -1,0 +1,67 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1088421888,
+        5,
+        [
+          [
+            2215801100,
+            0,
+            "Tuxedos",
+            "UPPER GROUND FLOOR (PORTION), POLAR ADVENTURE AT SUMMIT, 180 WONG CHUK HANG ROAD, OCEAN PARK, HONG KONG",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2215802176,
+            0,
+            "Prohibition",
+            "G/F. (PORTION C) AT CLUB WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2215802185,
+            0,
+            "Canton Bistro",
+            "G/F. (PORTION B) AT CLUB WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2215802194,
+            0,
+            "Grand Ballroom/Pier Lounge/Pier Bar",
+            "B/F. (PORTION A) AT PODIUM AND, G/F. (PORTION A) AT PIER WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2215802200,
+            0,
+            "Marina Kitchen/Marina Caf\u00e9",
+            "G/F. (PORTION D) AT MARINA WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1088422096
+        ]
+      ],
+      "coordinate": [
+        1.9926110566250492,
+        0.3880953936351323,
+        20.0
+      ],
+      "halfSize": [
+        130.12633840739727,
+        102.17264185851673,
+        7.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1176502272,
+        2,
+        [
+          [
+            2297800503,
+            0,
+            "PRINCE OF WALES HOSPIAL THE STAFF RESTAURANT (MAIN BLOCK)",
+            "2/F (PORTION), MAIN BLOCK, PRINCE OF WALES HOSPITAL, 30-32 NGAN SHING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-26"
+          ],
+          [
+            3197801416,
+            1,
+            "Pacific Coffee Company",
+            "PORTION OF 2 ND FLOOR, DAY TREATMENT BLOCK & CHILDREN WARDS OF PRINCE OF WALES HOSPITAL, 30-32 NGAN SHING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502272
+        ]
+      ],
+      "coordinate": [
+        1.9931856357368838,
+        0.3905959257214444,
+        17.649999618530273
+      ],
+      "halfSize": [
+        57.68099999986589,
+        88.95249999966472,
+        8.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1176502273,
+        1,
+        [
+          [
+            3197800705,
+            1,
+            "Pub Solution",
+            "SHOP 4A, 4B, 4C & 4D, LEVEL 1, SHATIN PARK STAGE I, 8-12 SHA KOK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502274
+        ]
+      ],
+      "coordinate": [
+        1.9931202389644025,
+        0.39059303502217235,
+        8.25
+      ],
+      "halfSize": [
+        42.18100000033155,
+        38.568500000052154,
+        5.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1176502274,
+        1,
+        [
+          [
+            2297800673,
+            0,
+            "\u7a3b\u9999",
+            "LEVEL 1 (PORTION) AND LEVEL 3, SCENERY COURT, 1 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502275
+        ]
+      ],
+      "coordinate": [
+        1.9929284368006925,
+        0.3905926436387559,
+        11.25
+      ],
+      "halfSize": [
+        24.742999999783933,
+        31.13450000062585,
+        5.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1176502275,
+        13,
+        [
+          [
+            2297803609,
+            0,
+            "Golden Traditional Noodles",
+            "SHOP NO. 219, 2/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            2297803636,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 239, SECOND FLOOR , SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ],
+          [
+            2297803654,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 240, SECOND FLOOR, COMMERCIAL/CARPARK BLOCK, SHA KOK ESTATE, 5 SHA KOK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2297803742,
+            0,
+            "\u767e\u532f\u8ed2",
+            "SHOP NO. 301, 3/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ],
+          [
+            2297804541,
+            0,
+            "\u5927\u5e2b\u5085\u7ca5\u54c1",
+            "SHOP NO. 249, 2/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2297805261,
+            0,
+            "SAUNDO JAPANESE RESTAURANT",
+            "SHOP NO. 223, SECOND FLOOR, COMMERCIAL CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2297807276,
+            0,
+            "KAM SHA KOK CAFE",
+            "NO. 1, 2, 3 & 4 COOKED FOOD STALL, G/F, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-30"
+          ],
+          [
+            2297807452,
+            0,
+            "\u5289\u842c\u5229\u7c89\u9eb5",
+            "COOKED FOOD STALL NOS. 5, 6, 7 & 8, (FORMING PART OF COMMERCIAL BLOCKS), SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2297807629,
+            0,
+            "Times Cafe",
+            "SHOP NO. 222, SECOND FLOOR, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-24"
+          ],
+          [
+            2297807832,
+            0,
+            "\u534a\u5cf6\u51b0\u5ef3",
+            "STALL S-SK58, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2297810504,
+            0,
+            "Chiu Hing Chiu Chow Chinese Restaurant",
+            "COOKED FOOD STALL NOS. 9, 10, 11 & 12, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-19"
+          ],
+          [
+            3197801896,
+            1,
+            "\u597d\u716e\u610f",
+            "STALL S-SK3, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ],
+          [
+            3197801920,
+            1,
+            "\u7f8e\u666f\u725b\u96dc\u7c89\u9eb5",
+            "STALL S-SK59, SHA KOK MARKET, G/F, SHA KOK SHOPPING CENTRE, SHA KOK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502285
+        ]
+      ],
+      "coordinate": [
+        1.993062993576456,
+        0.3905662608698225,
+        8.899999618530273
+      ],
+      "halfSize": [
+        103.06562499981374,
+        67.44549999944866,
+        3.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1176502276,
+        1,
+        [
+          [
+            2297806486,
+            0,
+            "\u5357\u8c50\u9910\u5ef3",
+            "MAJOR PORTION OF COOKED FOOD STALL NOS. 1, 2, 3 & 4 AND THE OUTSIDE SEATING ACCOMODATION AT SHOP FRONT, SUN TIN WAI SHOPPING CENTRE, SUN TIN WAI ESTATE, NO. 29 SHA TIN TAU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502292
+        ]
+      ],
+      "coordinate": [
+        1.9929165725758096,
+        0.39043638945611464,
+        30.5
+      ],
+      "halfSize": [
+        51.30149999959394,
+        53.08999999985099,
+        6.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1176502277,
+        1,
+        [
+          [
+            2297804392,
+            0,
+            "THE ALCHEMIST CAFE",
+            "SHOP G6, HONG KONG HERITAGE MUSEUM, 1 MAN LAM ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502521
+        ]
+      ],
+      "coordinate": [
+        1.992910122850623,
+        0.3905555528446231,
+        25.0
+      ],
+      "halfSize": [
+        68.84850000031292,
+        74.96250000037253,
+        19.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1176502278,
+        2,
+        [
+          [
+            2297002756,
+            0,
+            "CHUI YUEN RESTAURANT",
+            "1/F, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2297809980,
+            0,
+            "\u7f8e\u5473\u5e97\u8d8a\u5357PHO",
+            "STALL 7-9, G/F, MARKET, JAT MIN CHUEN, 9 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502636
+        ]
+      ],
+      "coordinate": [
+        1.993021416961743,
+        0.3905479187477273,
+        8.949999809265137
+      ],
+      "halfSize": [
+        29.51049999985844,
+        22.447499999776483,
+        3.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1176502279,
+        3,
+        [
+          [
+            2297800433,
+            0,
+            "CAFE' DE CORAL",
+            "SHOP NO. 10, G/F, CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2297808312,
+            0,
+            "Cafe 100%",
+            "SHOP NO. 2-3, G/F, CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2297808604,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 29, FIRST FLOOR, CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176502911
+        ]
+      ],
+      "coordinate": [
+        1.9929364022339615,
+        0.39048726112723914,
+        13.65000057220459
+      ],
+      "halfSize": [
+        41.07849999982864,
+        37.35444499924779,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1176502280,
+        3,
+        [
+          [
+            2297805173,
+            0,
+            "McDonald's Restaurant",
+            "SHOPS 8 AND 9, GROUND FLOOR , CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2297808473,
+            0,
+            "\u767e\u6085\u8ed2",
+            "SHOP NO. 17A, G/F, CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            3197802206,
+            1,
+            "\u91d1\u98ef\u7897\u7c89\u9eb5",
+            "STALL NO. S-CS 10, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503038
+        ]
+      ],
+      "coordinate": [
+        1.992940930537287,
+        0.3904724896521324,
+        19.299999237060547
+      ],
+      "halfSize": [
+        40.93677500030026,
+        41.03091500047594,
+        10.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1176502281,
+        1,
+        [
+          [
+            2297001540,
+            0,
+            "Happy Taste Restaurant",
+            "G/F , NO.66 SAN TIN VILLAGE, LOT NO. 796, D.D. 179, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503128
+        ]
+      ],
+      "coordinate": [
+        1.9928673164583857,
+        0.3904501558457688,
+        10.75
+      ],
+      "halfSize": [
+        5.97649999987334,
+        4.959125000052154,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1176502282,
+        1,
+        [
+          [
+            2297001878,
+            0,
+            "\u91d1\u9806\u8336\u9910\u5ef3",
+            "NO 73, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, DD 179, LOT 808, SAN TIN VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503144
+        ]
+      ],
+      "coordinate": [
+        1.9928740650414947,
+        0.39043896937511285,
+        10.75
+      ],
+      "halfSize": [
+        5.903404999990016,
+        5.107509999535978,
+        4.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1176502283,
+        1,
+        [
+          [
+            3197000244,
+            1,
+            "\u9280\u6cc9\u8336\u9910\u5ef3",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, NO. 74, SAN TIN VILLAGE, D.D. 179, LOT NO. 801, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503147
+        ]
+      ],
+      "coordinate": [
+        1.992874827791773,
+        0.39043780316249527,
+        10.699999809265137
+      ],
+      "halfSize": [
+        6.083854999858886,
+        5.379304999485612,
+        4.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1176502284,
+        6,
+        [
+          [
+            2297002279,
+            0,
+            "McDonald's",
+            "SHOP NO 1B, G/F, SUN CHUI SHOPPING CENTRE, SUN CHUI ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2297800716,
+            0,
+            "PIZZA HUT",
+            "SHOP 41-42, 2/F, SUN CHUI SHOPPING CENTRE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2297804046,
+            0,
+            "\u65b0\u83ef\u82d1\u9152\u5bb6",
+            "SHOP NO. 34, 2/F, SUN CHUI SHOPPING CENTRE, SUN CHUI ESTATE, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2297804736,
+            0,
+            "MY Cafe",
+            "SHOP NOS. 14, 15 & 16, G/F, SUN CHUI SHOPPING CENTRE, SUN CHUI ESTATE, 2 CHUI TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            2297806255,
+            0,
+            "MX",
+            "SHOP L003, G/F, SUN CHUI SHOPPING CENTRE, SUN CHUI ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ],
+          [
+            2297807054,
+            0,
+            "KFC",
+            "SHOP NOS. 18 & 18A, G/F, SUN CHUI SHOPPING CENTRE, 2 CHUI TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503189
+        ]
+      ],
+      "coordinate": [
+        1.9928393566642282,
+        0.3904173802964514,
+        10.649999618530273
+      ],
+      "halfSize": [
+        53.95317000010982,
+        36.41150000039488,
+        4.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1176502285,
+        2,
+        [
+          [
+            2297002738,
+            0,
+            "McDonald's",
+            "SHOP NO 210, LEVEL 2, POK HONG SHOPPING CENTRE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2297810948,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 1, POK HONG SHOPPING CENTRE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503560
+        ]
+      ],
+      "coordinate": [
+        1.9930475595943413,
+        0.3905245869019305,
+        16.0
+      ],
+      "halfSize": [
+        39.49599999981001,
+        28.610999999567866,
+        9.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1176502286,
+        2,
+        [
+          [
+            2297801843,
+            0,
+            "GREENLAND RESTAURANT",
+            "1/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, JAT MIN CHUEN, 7 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-11"
+          ],
+          [
+            2297808428,
+            0,
+            "\u58f9\u5c0f\u7c60",
+            "SHOP D, G/F, JAT MIN CHUEN, 7 JAT MIN CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503603
+        ]
+      ],
+      "coordinate": [
+        1.9930246130176588,
+        0.390543109986343,
+        8.300000190734863
+      ],
+      "halfSize": [
+        23.016694999765605,
+        16.074575000442564,
+        3.0
+      ]
+    },
+    {
+      "attributes": [
+        1176502287,
+        1,
+        [
+          [
+            2297002437,
+            0,
+            "\u5cb1\u6c11\u4e59\u660e",
+            "SHOP NOS 55-57, G/F, MING SHUN LAU, JAT MIN CHUEN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503684
+        ]
+      ],
+      "coordinate": [
+        1.993001295442028,
+        0.39053999783387655,
+        49.44999694824219
+      ],
+      "halfSize": [
+        43.84750000014901,
+        29.63450000062585,
+        44.25
+      ]
+    },
+    {
+      "attributes": [
+        1176502288,
+        1,
+        [
+          [
+            2297800053,
+            0,
+            "\u9d3b\u767c\u9999\u6e2f\u4ed4\u7c89\u9eb5\u8336\u9910\u5ef3",
+            "SHOP 6, G/F, POK WAH HOUSE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503689
+        ]
+      ],
+      "coordinate": [
+        1.9930590079206625,
+        0.3905243092907773,
+        31.75
+      ],
+      "halfSize": [
+        21.13950000004843,
+        14.071405000053346,
+        24.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1176502289,
+        1,
+        [
+          [
+            2297000185,
+            0,
+            "Ming Lok Restaurant",
+            "61-63, G/F, MING SHUN LAU, JAT MIN CHUEN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503766
+        ]
+      ],
+      "coordinate": [
+        1.9930402740057276,
+        0.39054146100494974,
+        49.25
+      ],
+      "halfSize": [
+        61.11350000044331,
+        31.110000000335276,
+        43.94999694824219
+      ]
+    },
+    {
+      "attributes": [
+        1176502290,
+        5,
+        [
+          [
+            2297000547,
+            0,
+            "\u7965\u8208\u9910\u5ba4",
+            "SHOP NO 202, COMMERCIAL CENTRE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2297804833,
+            0,
+            "\u9c7b\u6f6e\u624b\u5de5\u79c1\u623f\u934b",
+            "COOKED FOOD STALL NO. 8, MARKET 2, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2297805678,
+            0,
+            "SAM HING RESTAURANT",
+            "SHOP 113, COMMERCIAL CENTRE, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ],
+          [
+            2297807443,
+            0,
+            "KAM SA KOK COOK FOOD COMPANY LIMITED",
+            "COOKED FOOD STALL NO. 7, MARKET 2, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2297809999,
+            0,
+            "\u65b0\u5ee3\u767c\u7f8e\u98df",
+            "COOKED FOOD STALL 1, POK HONG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503779
+        ]
+      ],
+      "coordinate": [
+        1.9930261891068592,
+        0.3905144235958119,
+        9.699999809265137
+      ],
+      "halfSize": [
+        34.732499999925494,
+        33.72800000011921,
+        2.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1176502291,
+        1,
+        [
+          [
+            2297803371,
+            0,
+            "\u96f2\u5c0f\u9928",
+            "SHOP ON STREET LEVEL, G/F, THE RIVER PARK, 8 CHE KUNG MIU ROAD, TAI WAI, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503841
+        ]
+      ],
+      "coordinate": [
+        1.9929312639585852,
+        0.39052080249973253,
+        13.299999237060547
+      ],
+      "halfSize": [
+        88.686060000211,
+        40.54910499975085,
+        6.999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1176502292,
+        8,
+        [
+          [
+            2297804815,
+            0,
+            "\u540d\u822b",
+            "SHOP NOS. 206 & 207, SHUI CHUEN O PLAZA, 1 POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2297805100,
+            0,
+            "Fairwood Fast Food",
+            "SHOP 111, 1/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-12"
+          ],
+          [
+            2297805401,
+            0,
+            "McDonald's Restaurant",
+            "SHOP G12, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2297808215,
+            0,
+            "Sweet Heart",
+            "SHOP G05, G/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2297809290,
+            0,
+            "\u767e\u4efd\u767e\u9910\u5ef3",
+            "SHOP NO. 205, 2/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-20"
+          ],
+          [
+            2297810823,
+            0,
+            "HOLLYWOOD CHICKENS POT",
+            "SHOP NO. 109, 1/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2297810984,
+            0,
+            "\u9d3b\u767c\u9910\u5ef3",
+            "SHOP G04, G/F, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, NO. 1 POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            3197802400,
+            1,
+            "\u9280\u6cb3\u725b\u8169\u725b\u96dc\u7c89\u9eb5",
+            "SHOP MS17-20, 1/F, SHUI CHUEN O (ALLMART) MARKET, SHUI CHUEN O PLAZA, SHUI CHUEN O ESTATE, POK CHUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503910
+        ]
+      ],
+      "coordinate": [
+        1.993113130091087,
+        0.3904791021158505,
+        66.6500015258789
+      ],
+      "halfSize": [
+        65.26235500024632,
+        164.10924999974668,
+        11.850000381469727
+      ]
+    }
+  ]
+}

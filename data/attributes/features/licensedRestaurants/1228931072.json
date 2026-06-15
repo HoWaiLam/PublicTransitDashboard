@@ -1,0 +1,2271 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1228931072,
+        2,
+        [
+          [
+            2211810438,
+            0,
+            "Genki Sushi",
+            "SHOP GC 01-03, G/F, SITE C, LEI KING WAN, 35 TAI HONG STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2027-03-07"
+          ],
+          [
+            3111802945,
+            1,
+            "Starbucks Coffee",
+            "SHOP NO. GC 11-12, G/F., 35 TAI HONG STREET, LEI KING WAN, SAI WAN HO, HONG KONG",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931073
+        ]
+      ],
+      "coordinate": [
+        1.9935748390178232,
+        0.38894817103374935,
+        7.700000286102295
+      ],
+      "halfSize": [
+        58.52749999985099,
+        56.51699999999255,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1228931073,
+        1,
+        [
+          [
+            3111801003,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP B, G/F., FORTIS CENTRE, 1063 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931076
+        ]
+      ],
+      "coordinate": [
+        1.9934063286047377,
+        0.38894798322453045,
+        24.30000114440918
+      ],
+      "halfSize": [
+        14.911000000312924,
+        28.037500000558794,
+        8.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1228931074,
+        1,
+        [
+          [
+            2211803029,
+            0,
+            "TAI HING",
+            "SHOP B & C, G/F. , 1 WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931077
+        ]
+      ],
+      "coordinate": [
+        1.9933839126988295,
+        0.38894911027966944,
+        12.950000762939453
+      ],
+      "halfSize": [
+        7.5750850001350045,
+        17.78567500039935,
+        7.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1228931075,
+        21,
+        [
+          [
+            2211076689,
+            0,
+            "MX/ Butahage",
+            "SHOP G3, G/F, KORNHILL PLAZA (NORTH), 1 KORNHILL ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211801078,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. S32-S36, 2/F., KORNHILL PLAZA (NORTH), 1 KORNHILL ROAD, HONG KONG",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2211801412,
+            0,
+            "GENKI SUSHI",
+            "SHOP G4, G/F., KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2211804156,
+            0,
+            "Alfafa",
+            "SHOP NO. M2, MEZZANINE FLOOR, KORNHILL PLAZA, 1 KORNHILL ROAD, HONG KONG",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2211806046,
+            0,
+            "Victoria Harbour Supreme",
+            "SHOP NO. T3, 3/F., KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2211806231,
+            0,
+            "White Curry Co.",
+            "SHOP NO. F10, 1/F., KORNHILL PLAZA NORTH, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2211806295,
+            0,
+            "Mos Caf\u00e9",
+            "SHOP NO. F20, 1/F., KORNHILL PLAZA NORTH, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2211806620,
+            0,
+            "LA'TASTE VIETNAMESE CUISINE",
+            "SHOP F7-F8, 1ST FLOOR, KORNHILL PLAZA, NO. 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2211806888,
+            0,
+            "Marugame (TK)",
+            "SHOP NOS. 39A & 39B, 2/F., KORNHILL PLAZA, NO.1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2211807234,
+            0,
+            "TEAWOOD TAIWANESE CAFE & RESTAURANT",
+            "SHOP NO. M4, MEZZANINE FLOOR, KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2211808264,
+            0,
+            "JIN GONG GUAN",
+            "SHOP NO. T4, 3/F., KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-11"
+          ],
+          [
+            2211808538,
+            0,
+            "TRENDY CAFE",
+            "MAJOR PORTION OF SHOP G5 & G6, G/F., KORNHILL PLAZA NORTH, NO. 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2211809355,
+            0,
+            "Gyukaku Japanese Yakiniku Restaurant",
+            "SHOP NOS. S37-S38, 2/F., KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2211809656,
+            0,
+            "Shanghai Lao Lao",
+            "SHOP NO. M3A, MEZZANINE FLOOR, KORNHILL PLAZA, 1 KORNHILL ROAD, HONG KONG",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2211810012,
+            0,
+            "Zou Qing, Gu Liang Cai",
+            "SHOP NOS. G9-G11, G/F., KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2211810304,
+            0,
+            "Men Wah Bing Teng / Asam Chicken Rice / Congee King",
+            "SHOP NO. G1 ON G/F AND SHOP NO. M1 ON M/F., KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2211810508,
+            0,
+            "On Kim Pot Rice / Tommy Yummy Thai Cafe",
+            "SHOP NOS. G7-G8, GROUND FLOOR, KORNHILL PLAZA, NO. 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-16"
+          ],
+          [
+            2211810951,
+            0,
+            "Pizza Hut",
+            "SHOP NO. T1, 3/F, KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2211811486,
+            0,
+            "\u7d05\u8c46\u51b0\u5ba4",
+            "SHOP NOS. G2 & G2A, G/F, KORNHILL PLAZA, 1 KORNHILL ROAD, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3811811816,
+            0,
+            "GOLDEN PHOENIX RESTAURANT",
+            "SHOP NO. T2, 3/F., KORNHILL PLAZA, NO. 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-26"
+          ],
+          [
+            3111803300,
+            1,
+            "Starbucks Coffee",
+            "SHOP NO. F24-F25, 1/F., KORNHILL PLAZA, 1 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931078
+        ]
+      ],
+      "coordinate": [
+        1.9934470038865018,
+        0.3889462857292098,
+        27.5
+      ],
+      "halfSize": [
+        62.46449999976903,
+        27.149000000208616,
+        10.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1228931076,
+        1,
+        [
+          [
+            3111804835,
+            1,
+            "(no record found)",
+            "PORTION OF 2/F, ISLAND EAST SPORTS CENTRE, 52 LEI KING ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-12-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931079
+        ]
+      ],
+      "coordinate": [
+        1.9935546292730253,
+        0.3889417226356823,
+        10.549999237060547
+      ],
+      "halfSize": [
+        33.08450000034645,
+        31.3029349995777,
+        6.749999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1228931077,
+        2,
+        [
+          [
+            2211094241,
+            0,
+            "McDonald's",
+            "PORTION AT SHOP FRONT AND SHOP C, LG/F, PARK VALE, 1060 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211810915,
+            0,
+            "Sushiro Quarry Bay",
+            "SHOP B, UG/F, PARK VALE, 1060 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931083
+        ]
+      ],
+      "coordinate": [
+        1.993396931266176,
+        0.3889295156070481,
+        23.850000381469727
+      ],
+      "halfSize": [
+        28.516000000294298,
+        58.25450000073761,
+        6.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1228931078,
+        9,
+        [
+          [
+            2211802284,
+            0,
+            "Ootoya gohandokoro",
+            "SHOP NO. G07, G/F., AEON KORNHILL STORE, KORNHILL PLAZA SOUTH, 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2211806985,
+            0,
+            "General Restaurant",
+            "UNIT 16-01, G/F., KORNHILL PLAZA (SOUTH), 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2211810711,
+            0,
+            "Sukiya",
+            "SHOP NO. G04, G/F., AEON KORNHILL STORE, KORNHILL PLAZA SOUTH, NO. 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2211811343,
+            0,
+            "GATTEN SUSHI",
+            "SHOP NO. G15, G/F., KORNHILL PLAZA (SOUTH), 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-02-27"
+          ],
+          [
+            2211811422,
+            0,
+            "GYUSHIGE (KORNHILL SHOP)",
+            "SHOP NO. L302, 3/F., AEON KORNHILL STORE, KORNHILL PLAZA SOUTH, 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2211811459,
+            0,
+            "KOMEDA'S COFFEE",
+            "SHOP 301, 3/F, KORNHILL PLAZA (SOUTH), 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3111803090,
+            1,
+            "UCC Coffee Shop",
+            "SHOP NO. L-201, 2/F., AEON KORNHILL STORE, KORNHILL PLAZA SOUTH, 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-21"
+          ],
+          [
+            3111803142,
+            1,
+            "Health In Five Seasons",
+            "SHOP L107, 1/F., AEON KORNHILL STORE, KORNHILL PLAZA SOUTH, 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            3911804985,
+            1,
+            "BUTA O",
+            "SHOP NO. L202, 2/F., AEON KORNHILL STORE, KORNHILL PLAZA (SOUTH), 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931085
+        ]
+      ],
+      "coordinate": [
+        1.9934493725934699,
+        0.38893116253785376,
+        38.79999923706055
+      ],
+      "halfSize": [
+        82.81850000005215,
+        46.50149999931455,
+        21.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1228931079,
+        3,
+        [
+          [
+            2211800640,
+            0,
+            "Fairwood Fast Food",
+            "SHOP GD23-26, SITE D, 25 TAI ON STREET, LEI KING WAN, HONG KONG",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2211807863,
+            0,
+            "TAI HING",
+            "SHOP GD01-04, G/F., LEI KING WAN, SITE D, 25 TAI ON STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3911804930,
+            1,
+            "Luckin Coffee",
+            "SHOP NO. GD21B-22, G/F., SITE D, 25 TAI ON STREET, LEI KING WAN, HONG KONG",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931089
+        ]
+      ],
+      "coordinate": [
+        1.9935734489598056,
+        0.3889238360346947,
+        6.199999809265137
+      ],
+      "halfSize": [
+        41.646500000264496,
+        64.13650000002235,
+        2.0
+      ]
+    },
+    {
+      "attributes": [
+        1228931080,
+        1,
+        [
+          [
+            3111803984,
+            1,
+            "BAR PACIFIC",
+            "SHOP E & F, G/F., WAH TONG BUILDING, 38-44 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-10-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931093
+        ]
+      ],
+      "coordinate": [
+        1.9935256131168182,
+        0.3889190722863282,
+        12.0
+      ],
+      "halfSize": [
+        12.65100000007078,
+        12.506000000052154,
+        4.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1228931081,
+        3,
+        [
+          [
+            2211045072,
+            0,
+            "Cafe de Coral",
+            "G/F (SHOP NO. A10, A11, G13 & G14) AND 1/F (RM NO. 157 158 & 159), TAI ON BLDG, 57-87 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211087780,
+            0,
+            "\u6587\u8208\u8a18\u8c6c\u9aa8\u6e6f\u7c73\u7dda",
+            "SHOP 14A, G/F, TAI ON SHOPPING CTR, 57-87 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211133588,
+            0,
+            "McDonald's",
+            "SHOP G32-G34, G/F, TAI ON BLDG, 15 TAI ON STREET, 57-87 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2027-01-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931094
+        ]
+      ],
+      "coordinate": [
+        1.9935504793240182,
+        0.38890823846722,
+        6.349999904632568
+      ],
+      "halfSize": [
+        61.51399999996647,
+        64.08411000017077,
+        2.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1228931082,
+        1,
+        [
+          [
+            3111800499,
+            1,
+            "\u8208\u8a18\u96f2\u541e\u9eb5",
+            "SHOP 7, G/F., SAI WAN HO PLAZA, NO. 68 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-11-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931097
+        ]
+      ],
+      "coordinate": [
+        1.9935326582047848,
+        0.3889100273095269,
+        13.149999618530273
+      ],
+      "halfSize": [
+        10.105499999597669,
+        9.09900000039488,
+        7.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1228931083,
+        1,
+        [
+          [
+            3111800666,
+            1,
+            "Pasta and Oyster House",
+            "SHOP A, G/F., MILLENNIUM COURT, 72 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-08-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931098
+        ]
+      ],
+      "coordinate": [
+        1.9935355896532163,
+        0.3889062523488213,
+        11.700000762939453
+      ],
+      "halfSize": [
+        10.461499999742955,
+        9.647499999962747,
+        7.000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1228931084,
+        1,
+        [
+          [
+            2211808671,
+            0,
+            "TEI MOU KITCHEN",
+            "SHOP B, G/F., HOI SHUN BUILDING, NOS. 142-144 SAI WAN HO STREET, HONG KONG",
+            null,
+            "2026-12-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931100
+        ]
+      ],
+      "coordinate": [
+        1.9935336711774048,
+        0.3889029926237088,
+        7.849999904632568
+      ],
+      "halfSize": [
+        11.319500000216067,
+        10.909500000067055,
+        2.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1228931085,
+        1,
+        [
+          [
+            2211083469,
+            0,
+            "\u660e\u8a18\u7cd6\u6c34\u5c0f\u98df",
+            "UNIT A, G/F, SAI WAN COURT, 138 SAI WAN HO STREET, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931104
+        ]
+      ],
+      "coordinate": [
+        1.9935349081551865,
+        0.3889013959000093,
+        8.0
+      ],
+      "halfSize": [
+        10.559499999973923,
+        9.862000000663102,
+        3.3999998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1228931086,
+        1,
+        [
+          [
+            2211800303,
+            0,
+            "\u83ef\u8a18\u58eb\u591a",
+            "SHOP B, G/F., FORTUNE COURT, NO.3 TAI NING STREET, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931107
+        ]
+      ],
+      "coordinate": [
+        1.9935294996866852,
+        0.3888915538518715,
+        11.800000190734863
+      ],
+      "halfSize": [
+        11.990999999921769,
+        12.117999999783933,
+        5.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1228931087,
+        1,
+        [
+          [
+            2211808936,
+            0,
+            "\u7280\u725b\u9910\u5ef3",
+            "SHOP 1, G/F., YOUTH OUTREACH JOCKEY CLUB BUILDING, 2 HOLY CROSS PATH, SAI WAN HO, HONG KONG",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931110
+        ]
+      ],
+      "coordinate": [
+        1.9935679754962703,
+        0.38888790557721536,
+        11.850000381469727
+      ],
+      "halfSize": [
+        14.925500000361353,
+        19.275500000454485,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1228931088,
+        1,
+        [
+          [
+            2211804679,
+            0,
+            "\u5357\u8a18",
+            "SHOP 5, G/F., GOLDEN MANSION, NO. 121-131 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931113
+        ]
+      ],
+      "coordinate": [
+        1.9935628380479709,
+        0.3888839523196396,
+        8.700000762939453
+      ],
+      "halfSize": [
+        16.723499999847263,
+        15.48450000025332,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1228931089,
+        2,
+        [
+          [
+            2211110277,
+            0,
+            "WO'S RESTAURANT",
+            "SHOP NO. 7, G/F, HUNG YAN BLDG, 38 HOLY CROSS PATH, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2211203894,
+            0,
+            "\u6d69\u8a18\u9910\u5ef3\u5c0f\u53a8",
+            "SHOP 4 & 5, G/F, HUNG YAN BLDG, 38 HOLY CROSS PATH, SAI WAN HO, HONG KONG",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931115
+        ]
+      ],
+      "coordinate": [
+        1.9935524100529325,
+        0.3888792192093616,
+        8.649999618530273
+      ],
+      "halfSize": [
+        15.054500000085682,
+        14.964499999769032,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1228931090,
+        2,
+        [
+          [
+            2211113993,
+            0,
+            "\u751f\u714e\u5305",
+            "G/F, 143 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2211810492,
+            0,
+            "\u5357\u5cf6",
+            "SHOP B ON G/F & SHOP B ON B/F, DOLLAR BUILDING, NOS. 143-145 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931116
+        ]
+      ],
+      "coordinate": [
+        1.9935710844991115,
+        0.3888789455990515,
+        11.800000190734863
+      ],
+      "halfSize": [
+        14.287099999841303,
+        12.915740000084043,
+        7.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1228931091,
+        1,
+        [
+          [
+            2211199874,
+            0,
+            "Living Water",
+            "SHOP 2, G/F, WING HING COURT, 50-52 HING MAN STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931118
+        ]
+      ],
+      "coordinate": [
+        1.9935829085776333,
+        0.38887715260775213,
+        7.849999904632568
+      ],
+      "halfSize": [
+        14.710500000044703,
+        13.387999999336898,
+        4.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1228931092,
+        2,
+        [
+          [
+            2211806055,
+            0,
+            "\u7fe0\u6e56\u8ed2",
+            "SHOP B1 & B2, G/F., ON YIP BUILDING, 100 & 104 SAI WAN HO STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2211810155,
+            0,
+            "Cs' BAKERY",
+            "SHOP A1, G/F, ON YIP BUILDING, 100-104 SAI WAN HO STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931119
+        ]
+      ],
+      "coordinate": [
+        1.993555024955096,
+        0.3888767977862618,
+        9.75
+      ],
+      "halfSize": [
+        11.229999999981374,
+        11.456499999389052,
+        4.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1228931093,
+        2,
+        [
+          [
+            2211140915,
+            0,
+            "Grand Pleasure Seafood Restaurant",
+            "SHOP NO. 201, 2/F, HING TUNG SHOPPING CENTRE, HING TUNG ESTATE, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2211802275,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 104, FIRST FLOOR, HING TUNG SHOPPING CENTRE, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931121
+        ]
+      ],
+      "coordinate": [
+        1.9935173765458514,
+        0.3888708245851765,
+        23.099998474121094
+      ],
+      "halfSize": [
+        44.499500000383705,
+        43.94700000062585,
+        9.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1228931094,
+        2,
+        [
+          [
+            2211801218,
+            0,
+            "\u7210\u7238\u6253",
+            "SHOP 1, G/F., HOI NING BUILDING, NO. 1-5 HOI NING STREET, NO. 82-84 SAI WAN HO STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2211804086,
+            0,
+            "\u7fe0\u6e56\u6d77\u9bae\u98ef\u5e97",
+            "SHOP 2 & SHOP 3, G/F., HOI NING BUILDING, 82-84 SAI WAN HO STREET, 1-5 HOI NING STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931124
+        ]
+      ],
+      "coordinate": [
+        1.993559914943869,
+        0.3888732194654728,
+        10.449999809265137
+      ],
+      "halfSize": [
+        14.098499999847263,
+        12.83600000012666,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        1228931095,
+        1,
+        [
+          [
+            2211090009,
+            0,
+            "\u6f6e\u767c\u9b5a\u4ed4\u5e97",
+            "SHOP A, G/F & M/F, ELLEN BLDG, 192-198 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931125
+        ]
+      ],
+      "coordinate": [
+        1.9935755211823212,
+        0.3888695162439565,
+        8.800000190734863
+      ],
+      "halfSize": [
+        17.509500000160187,
+        15.588500000536442,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1228931096,
+        1,
+        [
+          [
+            3111800286,
+            1,
+            "\u8208\u8a18\u96f2\u541e\u9eb5",
+            "SHOP A, G/F, WAI LEE BUILDING, 997 KING'S ROAD, HONG KONG",
+            null,
+            "2027-01-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931135
+        ]
+      ],
+      "coordinate": [
+        1.9933755714108325,
+        0.3889495712582439,
+        45.95000076293945
+      ],
+      "halfSize": [
+        31.550720000173897,
+        11.881414999254048,
+        35.85000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1228931097,
+        4,
+        [
+          [
+            2211808802,
+            0,
+            "\u6d77\u532f\u7ca5\u54c1",
+            "STALL NO. Z1, LG FLOOR, EAST PAVILION, 1010-1056 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-14"
+          ],
+          [
+            2211808811,
+            0,
+            "Shuran Japanese Restaurant",
+            "SHOP 072, LG/F., EAST PAVILION, 1010-1056 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-16"
+          ],
+          [
+            2211808875,
+            0,
+            "\u516b\u5e61\u5e73",
+            "SHOP NO. 77, LG/F., EAST PAVILION, 1010-1026 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2211809319,
+            0,
+            "\u879e\u87fb\u51b0\u5ba4",
+            "SHOP LG007 ON LOWER GROUND FLOOR, EAST PAVILION, 1010-1056 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931163
+        ]
+      ],
+      "coordinate": [
+        1.9933747971569054,
+        0.3889393161939525,
+        43.650001525878906
+      ],
+      "halfSize": [
+        23.436219999566674,
+        24.08937000017613,
+        29.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1228931098,
+        6,
+        [
+          [
+            2211810401,
+            0,
+            "Yuen Long Hop Lung Noodle",
+            "SHOP NO. 35 ON G/F, YICK FAT BUILDING, NOS. 1048-1056 KING'S ROAD & NOS. 2-32 YAU MAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-02-28"
+          ],
+          [
+            2211811644,
+            0,
+            "\u767e\u5e74\u7ca5\u54c1",
+            "SHOP 20, G/F, YICK FAT BUILDING, NOS. 1048-1056 KING'S ROAD & NOS. 2-32 YAU MAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3111158787,
+            1,
+            "\u5927\u696d\u8eca\u4ed4\u9eb5",
+            "SHOP NO. 23, G/F, YICK FAT BLDG, 1048 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-11"
+          ],
+          [
+            3111804206,
+            1,
+            "\u6ca2\u623f",
+            "SHOP NO. 31A, G/F., YICK FAT BUILDING, NOS. 1048-1056 KING'S ROAD & NOS. 2-32 YAU MAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-13"
+          ],
+          [
+            3111804756,
+            1,
+            "\u4e94\u8c37\u6f01\u7c89",
+            "SHOP NO. 30, G/F, YICK FAT BUILDING, NOS. 1048-1056 KING'S ROAD & NOS. 2-32 YAU MAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-02"
+          ],
+          [
+            3111804783,
+            1,
+            "\u963f\u4e00\u8c6c\u6252\u9178\u8fa3\u7c73\u7dab",
+            "SHOP NO. 24 ON G/F, YICK FAT BUILDING, NOS. 2-32 YAU MAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931168
+        ]
+      ],
+      "coordinate": [
+        1.993387029232597,
+        0.3889321246148312,
+        41.64999771118164
+      ],
+      "halfSize": [
+        14.257019999902695,
+        45.90567000024021,
+        32.04999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1228931099,
+        2,
+        [
+          [
+            2211801157,
+            0,
+            "CAFE DE CORAL",
+            "SHOP NO. LG127 OF THE LOWER GROUND FLOOR OF MONTANE MANSION, NO. 1028 KING'S ROAD AND NOS. 19-43 QUARRY BAY STREET, HONG KONG",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2211801786,
+            0,
+            "\u5357\u5317\u5c0f\u5eda",
+            "SHOP C8, G/F., MONTANE MANSION, 1028 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931180
+        ]
+      ],
+      "coordinate": [
+        1.9933749971815622,
+        0.38893174333416736,
+        41.5
+      ],
+      "halfSize": [
+        14.288815000094473,
+        30.652345000766218,
+        32.30000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1228931100,
+        1,
+        [
+          [
+            2211807678,
+            0,
+            "\u7fe0\u6e56\u7687\u5bb4",
+            "SHOP NO. 201 ON 2/F. AND SHOP NO. 301 ON 3/F., KORNHILL APARTMENTS, 2 KORNHILL ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931184
+        ]
+      ],
+      "coordinate": [
+        1.9934471062222745,
+        0.38892955785619443,
+        80.05000305175781
+      ],
+      "halfSize": [
+        41.57764500007033,
+        26.63505499996245,
+        19.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1228931101,
+        4,
+        [
+          [
+            2211803199,
+            0,
+            "BAN THAI RESTAURANT",
+            "SHOP 3B, G/F., TAI KUT HOUSE, 7 GREIG ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2211805061,
+            0,
+            "TAK CHEONG RESTAURANT",
+            "SHOP 2, G/F., TAI KUT HOUSE, 7 GREIG ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-03"
+          ],
+          [
+            2211807517,
+            0,
+            "Gingko House",
+            "SHOP 4 & 5, GROUND FLOOR, TAI KUT HOUSE, 7 GREIG ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2211810933,
+            0,
+            "Onenightcamp.Taikoo",
+            "SHOP NO. 1, G/F., TAI KUT HOUSE, NO. 7 GREIG ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931190
+        ]
+      ],
+      "coordinate": [
+        1.9934171945708137,
+        0.3889292382058309,
+        35.25
+      ],
+      "halfSize": [
+        15.774999999906868,
+        26.58999999985099,
+        17.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1228931102,
+        1,
+        [
+          [
+            2211191560,
+            0,
+            "\u6cf0\u6b61\u8fce",
+            "SHOP A22, G/F, YICK CHEONG BLDG, 1046 KING'S ROAD, HONG KONG",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931191
+        ]
+      ],
+      "coordinate": [
+        1.9933808958299162,
+        0.38892903042719895,
+        41.70000076293945
+      ],
+      "halfSize": [
+        11.018170000053942,
+        27.28078499995172,
+        32.79999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1228931103,
+        1,
+        [
+          [
+            2211808565,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOPS NOS. A1 \u2013 A2, GROUND FLOOR, 2-8 HONG ON STREET, KORNHILL, HONG KONG",
+            null,
+            "2026-09-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931203
+        ]
+      ],
+      "coordinate": [
+        1.9934310573720675,
+        0.3889274469529237,
+        65.25
+      ],
+      "halfSize": [
+        16.409260000102222,
+        13.202200000174344,
+        46.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1228931104,
+        2,
+        [
+          [
+            2211811389,
+            0,
+            "\u767e\u76ca\u51b0\u5ba4",
+            "SHOP G ON GROUND FLOOR, HING CHEONG BUILDING, NOS. 15-31 SHAU KEI WAN ROAD, NO. 7 TAI CHEONG STREET, HONG KONG",
+            null,
+            "2026-03-18"
+          ],
+          [
+            3111804729,
+            1,
+            "\u4e94\u8c37\u6f01\u7c89",
+            "SHOP A2, G/F, HING CHEONG BUILDING, 15 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931209
+        ]
+      ],
+      "coordinate": [
+        1.9935319639379945,
+        0.3889240344022707,
+        37.20000076293945
+      ],
+      "halfSize": [
+        22.09957499988377,
+        23.904460000805557,
+        31.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1228931105,
+        3,
+        [
+          [
+            2211089388,
+            0,
+            "\u6252\u738b\u4e4b\u738b/\u6d77\u5bf6\u6f01\u6e2f",
+            "G/F & UG/F NO 41, 1/F 33-43 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2211109750,
+            0,
+            "\u58f9\u5bb6\u5c0f\u5eda",
+            "SHOP H, G/F, 49 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-04-05"
+          ],
+          [
+            2211810854,
+            0,
+            "HIN HO CURRY RESTAURANT",
+            "SHOP L, G/F, LAI WAN BUILDING, 1 TAI HONG STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-11-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931227
+        ]
+      ],
+      "coordinate": [
+        1.993536951761062,
+        0.38891758116441494,
+        35.0
+      ],
+      "halfSize": [
+        24.88422999996692,
+        28.958890000358224,
+        30.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1228931106,
+        16,
+        [
+          [
+            2211803588,
+            0,
+            "Malacca Cuisine",
+            "SHOP NO. G24, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2211805593,
+            0,
+            "\u6c34\u9580\u6cf0\u5f0f\u6d77\u5357\u96de\u98ef\u5c08\u9580\u5e97",
+            "SHOP A38, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2027-02-09"
+          ],
+          [
+            2211807003,
+            0,
+            "NORTH VIET PHO",
+            "SHOP 23, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2211807544,
+            0,
+            "\u5c0f\u57ce\u6ecb\u5473",
+            "SHOP A47, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2211808413,
+            0,
+            "Cafe Whale",
+            "SHOP NO. A61A&B, G/F., TAI ON BUILDING, NO. 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2211808732,
+            0,
+            "Meet Cute",
+            "SHOP G25, G/F., TAI ON BUILDING, NOS. 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-03-05"
+          ],
+          [
+            2211809717,
+            0,
+            "Yoshinoya",
+            "PORTION A, SHOP G02, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2211810650,
+            0,
+            "KFC",
+            "SHOP NO. G15 AND PORTION A OF SHOP NO. G16 ON G/F AND SHOP NO. 161 ON 1/F, TAI ON BUILDING, NOS. 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2211811167,
+            0,
+            "\u8b7d\u71d2\u5473",
+            "SHOP NO. A43, G/F, TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-08-29"
+          ],
+          [
+            3111800392,
+            1,
+            "\u6ecb\u5473\u5c4b(\u767e\u5473\u5e97)",
+            "SHOP A31, TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-06-28"
+          ],
+          [
+            3111802486,
+            1,
+            "\u6021\u666f\u7fa4\u8a18\u723d\u8169\u5e97",
+            "FLAT A57, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-11-30"
+          ],
+          [
+            3111803391,
+            1,
+            "\u6ecb\u5473\u9903\u5b50\u5c4b",
+            "SHOP A53B, 2ND STREET, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3111803674,
+            1,
+            "\u8c50\u6ecb\u5473",
+            "SHOP A48A, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-04-12"
+          ],
+          [
+            3111804400,
+            1,
+            "\u6e2f\u5ddd\u9ebb\u8fa3\u71d9",
+            "SHOP A5A, G/F, TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-11-08"
+          ],
+          [
+            3111804765,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP G9A, G/F., TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-09-24"
+          ],
+          [
+            3111804862,
+            1,
+            "TAI ON LAU CURRY SPECIALTY SHOP",
+            "SHOP NO. A33A, G/F, TAI ON BUILDING, 57-87 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931251
+        ]
+      ],
+      "coordinate": [
+        1.9935495783535209,
+        0.38890782742669605,
+        49.60000228881836
+      ],
+      "halfSize": [
+        50.11578499991447,
+        55.638939999975264,
+        40.79999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1228931107,
+        1,
+        [
+          [
+            2211189660,
+            0,
+            "Japan Korea Kitchen Lab",
+            "UNITS 7A & 9A, G/F, 121 QUARRY BAY STREET, HONG KONG",
+            null,
+            "2026-06-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931271
+        ]
+      ],
+      "coordinate": [
+        1.9933919902145365,
+        0.3889094719405884,
+        23.799999237060547
+      ],
+      "halfSize": [
+        8.46591000026092,
+        23.633719999343157,
+        13.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1228931108,
+        1,
+        [
+          [
+            2211803825,
+            0,
+            "No Record",
+            "G/F., 80 SHAU KEI WAN ROAD, HONG KONG",
+            null,
+            "2026-03-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931303
+        ]
+      ],
+      "coordinate": [
+        1.9935367924687513,
+        0.3889047146232228,
+        19.5
+      ],
+      "halfSize": [
+        8.627359999809414,
+        7.0908800000324845,
+        14.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1228931109,
+        2,
+        [
+          [
+            2211808866,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NOS. 4 & 5, G/F., YIP NING BUILDING, 92-102 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-04-26"
+          ],
+          [
+            3111804455,
+            1,
+            "\u9eb5\u745d",
+            "SHOP 1, G/F., YIP NING BUILDING, 92-102 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2027-02-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931327
+        ]
+      ],
+      "coordinate": [
+        1.9935416434048494,
+        0.38889874898924154,
+        23.75
+      ],
+      "halfSize": [
+        15.03912500012666,
+        15.947734999470413,
+        19.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1228931110,
+        1,
+        [
+          [
+            2211804615,
+            0,
+            "KATSUDO",
+            "G/F., 104 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931341
+        ]
+      ],
+      "coordinate": [
+        1.9935431467310054,
+        0.38889674571864846,
+        15.5
+      ],
+      "halfSize": [
+        8.345625000074506,
+        6.894210000522435,
+        11.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1228931111,
+        1,
+        [
+          [
+            2211811592,
+            0,
+            "\u767e\u597d\u7ca5\u54c1",
+            "SHOP B, G/F, CHIT FOO MANSION, 106-108 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-11-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931343
+        ]
+      ],
+      "coordinate": [
+        1.9935438247141406,
+        0.388895897761716,
+        14.300000190734863
+      ],
+      "halfSize": [
+        9.80022000009194,
+        8.834654999896884,
+        9.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1228931112,
+        1,
+        [
+          [
+            2211036968,
+            0,
+            "\u8f1d\u714c\u8336\u9910\u5ef3",
+            "G/F, 13 SHING ON STREET, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931381
+        ]
+      ],
+      "coordinate": [
+        1.9935381614467171,
+        0.38888984735863247,
+        16.399999618530273
+      ],
+      "halfSize": [
+        10.43540500011295,
+        10.41583999991417,
+        11.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1228931113,
+        1,
+        [
+          [
+            3111800833,
+            1,
+            "Aquadeli",
+            "G/F., 128 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931404
+        ]
+      ],
+      "coordinate": [
+        1.9935503936704293,
+        0.38888753501325796,
+        15.90000057220459
+      ],
+      "halfSize": [
+        10.103174999821931,
+        9.26727999933064,
+        11.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1228931114,
+        1,
+        [
+          [
+            2211809540,
+            0,
+            "@home eatery",
+            "1/F., CHEUNG LOK BUILDING, 112-114 SAI WAN HO STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931410
+        ]
+      ],
+      "coordinate": [
+        1.9935465700329502,
+        0.3888869599004485,
+        18.700000762939453
+      ],
+      "halfSize": [
+        6.351104999892414,
+        6.395849999971688,
+        13.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1228931115,
+        1,
+        [
+          [
+            2211807562,
+            0,
+            "YU MAI",
+            "G/F., NO. 132 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931412
+        ]
+      ],
+      "coordinate": [
+        1.993551242312055,
+        0.38888660760104926,
+        16.350000381469727
+      ],
+      "halfSize": [
+        7.925439999904484,
+        7.315504999831319,
+        11.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1228931116,
+        2,
+        [
+          [
+            2211802211,
+            0,
+            "\u660e\u8a18\u7cd6\u6c34",
+            "G/F (FRONT PORTION), CHEUNG HING BUILDING, 110C SAI WAN HO STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3111803559,
+            1,
+            "\u9149\u662f\u9149\u80e1",
+            "SHOP 4, G/F., CHEUNG HING BUILDING, 110 SAI WAN HO STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931421
+        ]
+      ],
+      "coordinate": [
+        1.9935487684015805,
+        0.38888461537363567,
+        43.69999694824219
+      ],
+      "halfSize": [
+        8.980320000089705,
+        9.490000000223517,
+        27.999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1228931117,
+        1,
+        [
+          [
+            2211805937,
+            0,
+            "\u65b0\u69ae\u8208\u7ca5\u5e97",
+            "G/F., DOLLAR MANSION, 152 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931445
+        ]
+      ],
+      "coordinate": [
+        1.9935579868303985,
+        0.38887918660551996,
+        25.05000114440918
+      ],
+      "halfSize": [
+        9.36327000008896,
+        10.430080000311136,
+        20.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1228931118,
+        1,
+        [
+          [
+            2211806383,
+            0,
+            "\u53ef\u53ef\u5e97",
+            "G/F., 156 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931451
+        ]
+      ],
+      "coordinate": [
+        1.9935590268245411,
+        0.388878491207446,
+        18.850000381469727
+      ],
+      "halfSize": [
+        7.561375000048429,
+        9.099564999341965,
+        14.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1228931119,
+        1,
+        [
+          [
+            2211809072,
+            0,
+            "Wonderful Cafe",
+            "G/F., 160 SHAU KEI WAN ROAD, SAI WAN HO, HONG KONG",
+            null,
+            "2026-10-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931457
+        ]
+      ],
+      "coordinate": [
+        1.9935605013887037,
+        0.3888775222369272,
+        17.19999885559082
+      ],
+      "halfSize": [
+        7.7194949998520315,
+        8.485399999655783,
+        12.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1228931120,
+        2,
+        [
+          [
+            3111803346,
+            1,
+            "Try Try Try",
+            "SHOP NO. 2, G/F., NO. 8 HOI NING STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-12-28"
+          ],
+          [
+            3111803841,
+            1,
+            "\u7fe0\u6ecb\u5473\u98ef\u5802",
+            "SHOP 1, G/F., NO. 10 HOI NING STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2027-02-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931481
+        ]
+      ],
+      "coordinate": [
+        1.9935648939579105,
+        0.38887046375732426,
+        19.899999618530273
+      ],
+      "halfSize": [
+        11.014750000089407,
+        11.65720499958843,
+        14.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1228931121,
+        1,
+        [
+          [
+            3111114611,
+            1,
+            "Pak Lee",
+            "G/F (MAJOR PORTION), NO. 216 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931512
+        ]
+      ],
+      "coordinate": [
+        1.9935862397180955,
+        0.38886487284176646,
+        20.25
+      ],
+      "halfSize": [
+        5.045619999989867,
+        10.762529999949038,
+        15.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1228931122,
+        1,
+        [
+          [
+            2211804590,
+            0,
+            "\u5c0f\u9ea5\u5eda\u623f",
+            "SHOP B, G/F., 218 SHAU KEI WAN ROAD, SHAU KEI WAN, HONG KONG",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931513
+        ]
+      ],
+      "coordinate": [
+        1.9935869774025978,
+        0.3888646785617781,
+        20.049999237060547
+      ],
+      "halfSize": [
+        5.691800000146031,
+        10.356565000489354,
+        15.75
+      ]
+    },
+    {
+      "attributes": [
+        1228931123,
+        1,
+        [
+          [
+            2211808769,
+            0,
+            "\u69ae\u5fe0\u71d2\u5473\u5927\u6392\u6a94",
+            "SHOP 9, G/F., PARKER 33, 33 SHING ON STREET, SAI WAN HO, HONG KONG",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931588
+        ]
+      ],
+      "coordinate": [
+        1.99353158168258,
+        0.3888853046590837,
+        10.550000190734863
+      ],
+      "halfSize": [
+        22.708054999820888,
+        19.34984999988228,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        1228931124,
+        7,
+        [
+          [
+            2211809911,
+            0,
+            "K\u00f5en",
+            "SHOP 1&2, 1/F, NO. 1001 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2211810702,
+            0,
+            "XIANGSHU RESTAURANT",
+            "SHOP 1, 8/F, NO. 1001 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2211810739,
+            0,
+            "CHAN YEE HING",
+            "SHOP 1, 7/F, 1001 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-27"
+          ],
+          [
+            2211810827,
+            0,
+            "LUNG CHONG",
+            "SHOP 2, 8/F, 1001 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2211810863,
+            0,
+            "JELLO & MELLOW",
+            "SHOP NOS. 901 AND 902, 9TH FLOOR, 1001 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-16"
+          ],
+          [
+            3811811773,
+            0,
+            "(no record found)",
+            "SHOP NOS. 1&2, 10/F, 1001 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-17"
+          ],
+          [
+            3111804215,
+            1,
+            "Q TIME CAFE",
+            "SHOP 1, 12/F., 1001 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1228931591
+        ]
+      ],
+      "coordinate": [
+        1.9933815385974882,
+        0.3889468828302314,
+        67.19999694824219
+      ],
+      "halfSize": [
+        22.24216500017792,
+        16.00008000060916,
+        52.89999771118164
+      ]
+    }
+  ]
+}

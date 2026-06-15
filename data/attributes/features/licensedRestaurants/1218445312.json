@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1218445312,
+        1,
+        [
+          [
+            2215801784,
+            0,
+            "Buddy Cafe",
+            "SHOP A-D&G, G/F., 10-12 STANLEY MAIN STREET, STANLEY, HONG KONG",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1218445436
+        ]
+      ],
+      "coordinate": [
+        1.9933960985036245,
+        0.3877665265528495,
+        15.899999618530273
+      ],
+      "halfSize": [
+        5.633125000167638,
+        6.240804999135435,
+        9.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1218445313,
+        1,
+        [
+          [
+            3115800868,
+            1,
+            "Bubbles & Wines",
+            "SHOP B1, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, NEW TOWN MANSION, NO. 26 STANLEY MAIN STREET, HONG KONG",
+            null,
+            "2026-03-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1218445862
+        ]
+      ],
+      "coordinate": [
+        1.9933961746311515,
+        0.3877691067581661,
+        10.75
+      ],
+      "halfSize": [
+        6.825235000345856,
+        9.879735000431538,
+        2.9499998092651367
+      ]
+    }
+  ]
+}

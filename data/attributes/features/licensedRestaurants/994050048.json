@@ -1,0 +1,403 @@
+{
+  "features": [
+    {
+      "attributes": [
+        994050048,
+        3,
+        [
+          [
+            2296802256,
+            0,
+            "Pizza Hut",
+            "SHOP NOS. 113 AND 114, G/F, CHOI CHU HOUSE, CHOI YUEN ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2296802539,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP 104, 105 & 106, G/F , CHOI CHU HOUSE, CHOI YUEN ESTATE, CHOI YUEN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ],
+          [
+            3196800294,
+            1,
+            "\u5927\u548c\u7c89\u9eb5",
+            "SHOP NO. 119, G/F, CHOI CHU HOUSE, CHOI YUEN ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994050049
+        ]
+      ],
+      "coordinate": [
+        1.9918705251652509,
+        0.3927122632611353,
+        34.95000076293945
+      ],
+      "halfSize": [
+        9.732000000309199,
+        43.392500000074506,
+        26.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        994050049,
+        8,
+        [
+          [
+            2296800515,
+            0,
+            "CABLE CAR RESTAURANT",
+            "SHOP 20-21, 3/F, CHOI YUEN SHOPPING CENTRE, CHOI YUEN ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2296801712,
+            0,
+            "Choi Wui Palace",
+            "SHOP NO. R401, FOURTH FLOOR, CHOI YUEN PLAZA, CHOI YUEN ESTATE, CHOI YUEN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2296802405,
+            0,
+            "Hung Hom Cafe",
+            "SHOP NO. G8, G/F, CHOI YUEN PLAZA, CHOI YUEN ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2296802858,
+            0,
+            "HAKATA YATAI",
+            "SHOP NO. 22-23, 3/F, CHOI YUEN PLAZA, 8 CHOI YUEN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2296802919,
+            0,
+            "\u963f\u7c73\u6642\u5149 X \u9ebb\u8c46\u5b50",
+            "SHOP 26, 3/F, COMMERCIAL/ CAR PARK BLOCK ALSO KNOWN AS CHOI YUEN PLAZA, CHOI YUEN ESTATE, CHOI YUEN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2296803240,
+            0,
+            "Genki Sushi",
+            "SHOP NOS. R3 & R4, 3/F, CHOI YUEN PLAZA, CHOI YUEN ESTATE, SHEUNG SHUI, NORTH, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2296803374,
+            0,
+            "KING PRAWN",
+            "SHOP NO. G10, G/F, CHOI YUEN PLAZA, CHOI YUEN ESTATE, CHOI YUEN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3196800869,
+            1,
+            "Starbucks Coffee",
+            "SHOP R23B, 3/F, CHOI YUEN PLAZA, CHOI YUEN ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994050050
+        ]
+      ],
+      "coordinate": [
+        1.9918817332645729,
+        0.3927149743749811,
+        16.0
+      ],
+      "halfSize": [
+        34.62399999983609,
+        33.21349999960512,
+        7.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        994050050,
+        1,
+        [
+          [
+            3196800364,
+            1,
+            "Cheers Cafe",
+            "SHOP B, G/F, MAIN LOBBY, NORTH DISTRICT HOSPITAL, 9 PO KIN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994050491
+        ]
+      ],
+      "coordinate": [
+        1.9918477316345846,
+        0.3926433839123555,
+        27.549999237060547
+      ],
+      "halfSize": [
+        92.56499999994412,
+        84.87999999988824,
+        15.75
+      ]
+    },
+    {
+      "attributes": [
+        994050051,
+        1,
+        [
+          [
+            2296802751,
+            0,
+            "\u767c\u7965\u8336\u9910\u5ef3",
+            "650B, G/F, DD 51, LOT 5305, FAN LENG NAM WAI, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994051143
+        ]
+      ],
+      "coordinate": [
+        1.992060543838318,
+        0.3926219691157645,
+        17.600000381469727
+      ],
+      "halfSize": [
+        8.23276500031352,
+        5.7600199999287724,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        994050052,
+        2,
+        [
+          [
+            2296800481,
+            0,
+            "\u5bcc\u5712\u7279\u8272\u7ca5\u9eb5\u9910\u5ef3",
+            "SHOP CX 14, G/F, CHING HO SHOPPING CENTRE, PHASE 1A, CHING HO ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2296800524,
+            0,
+            "Full Moon Seafood Restaurant",
+            "SHOP CX15, G/F, CHING HO SHOPPING CENTRE, CHING HO ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994051242
+        ]
+      ],
+      "coordinate": [
+        1.991912406109764,
+        0.39260034694076434,
+        14.549999237060547
+      ],
+      "halfSize": [
+        37.650524999946356,
+        26.80845999997109,
+        3.249999523162842
+      ]
+    },
+    {
+      "attributes": [
+        994050053,
+        3,
+        [
+          [
+            2296800588,
+            0,
+            "\u81ea\u5bb6\u4eba\u9152\u5bb6",
+            "SHOP 101, 1/F, KA FUK SHOPPING CENTRE, KA FUK ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ],
+          [
+            2296802362,
+            0,
+            "CAFE 100%",
+            "SHOP 103 & 104, 1/F, KA FUK SHOPPING CENTRE, KA FUK ESTATE, 8 CHI KA LANE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2296802566,
+            0,
+            "Itamomo Cafe",
+            "SHOP NO. 3-5, G/F, KA FUK SHOPPING CENTRE, 8 CHI KA LANE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994051398
+        ]
+      ],
+      "coordinate": [
+        1.99203735879301,
+        0.3925780606318399,
+        21.549999237060547
+      ],
+      "halfSize": [
+        16.95610500033945,
+        22.790000000037253,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        994050054,
+        2,
+        [
+          [
+            2296801493,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 24, THIRD FLOOR, COMMERCIAL/CARPARK BLOCK(ALSO KNOWN AS CHOI YUEN PLAZA), CHOI YUEN ESTATE, CHOI YUEN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2296803727,
+            0,
+            "SUPER SUPER",
+            "SHOP NO. G13, GROUND FLOOR, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS CHOI YUEN PLAZA), CHOI YUEN ESTATE, CHOI YUEN ROAD, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-03-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994051733
+        ]
+      ],
+      "coordinate": [
+        1.991880089442275,
+        0.39270986968031707,
+        12.149999618530273
+      ],
+      "halfSize": [
+        100.00999999977648,
+        128.39950000029057,
+        3.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        994050055,
+        2,
+        [
+          [
+            2296801651,
+            0,
+            "Caf\u00e9  de Coral",
+            "SHOP NO. 4, G/F, CHEUNG LUNG LANE, CHEUNG LUNG WAI ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2296802113,
+            0,
+            "WAH LOK",
+            "SHOP NO. 5, G/F, CHEUNG LUNG LANE, CHEUNG LUNG WAI ESTATE, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994051871
+        ]
+      ],
+      "coordinate": [
+        1.9918424622766746,
+        0.3926064759441762,
+        22.100000381469727
+      ],
+      "halfSize": [
+        25.499349999707192,
+        33.75040000025183,
+        8.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        994050056,
+        2,
+        [
+          [
+            2296803754,
+            0,
+            "McDonald's RESTAURANT",
+            "SHOP NO.101, 1/F, CHING TAO SHOPPING CENTRE, CHING TAO COURT, 1 CHING HIU ROAD, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2296803833,
+            0,
+            "CAFE DE CORAL",
+            "SHOP NO. G01, G/F, CHING TAO SHOPPING CENTRE, CHING TAO COURT, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          994051986
+        ]
+      ],
+      "coordinate": [
+        1.9919203622585364,
+        0.392613197092081,
+        22.950000762939453
+      ],
+      "halfSize": [
+        29.781810000073165,
+        42.74553500022739,
+        11.050000190734863
+      ]
+    }
+  ]
+}

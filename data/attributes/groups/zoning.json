@@ -1,0 +1,9 @@
+{
+  "name": "zoning",
+  "label": "Zoning",
+  "groupLayerSymbologies": 1,
+  "layers": [
+    "statutoryPlanLayer.json",
+    "zoneLayer.json"
+  ]
+}

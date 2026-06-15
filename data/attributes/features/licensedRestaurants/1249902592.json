@@ -1,0 +1,348 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1249902592,
+        1,
+        [
+          [
+            2297801278,
+            0,
+            "HYATT Regency Hong Kong, Sha Tin",
+            "LEVEL 4 (PORTION), HYATT REGENCY HONG KONG, SHA TIN, 18 CHAK CHEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249902748
+        ]
+      ],
+      "coordinate": [
+        1.9933614957375085,
+        0.3911571032731119,
+        61.0
+      ],
+      "halfSize": [
+        32.3901200001128,
+        46.65789999999106,
+        45.5
+      ]
+    },
+    {
+      "attributes": [
+        1249902593,
+        1,
+        [
+          [
+            2297801728,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 102, FIRST FLOOR, KAM TAI SHOPPING CENTRE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249902912
+        ]
+      ],
+      "coordinate": [
+        1.993548809966006,
+        0.3911085753704925,
+        19.549999237060547
+      ],
+      "halfSize": [
+        38.56041999999434,
+        55.76404000073671,
+        13.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1249902594,
+        3,
+        [
+          [
+            2297807009,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 101A, FIRST FLOOR, COMMERCIAL/CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2297807461,
+            0,
+            "\u592a\u5b50\u725b\u8169\u7c89\u9eb5",
+            "STALL NO. 31, G/F, KAM TAI MARKET, COMMERCIAL / CAR PARK,ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2297810638,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NOS.11-12, G/F, COMMERCIAL / CAR PARK ACCOMMODATION OF KAM TAI SHOPPING CENTRE, KAM TAI COURT, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903086
+        ]
+      ],
+      "coordinate": [
+        1.9935246654773389,
+        0.39109226411655973,
+        63.25
+      ],
+      "halfSize": [
+        18.869999999646097,
+        19.091640000231564,
+        56.94999694824219
+      ]
+    },
+    {
+      "attributes": [
+        1249902595,
+        1,
+        [
+          [
+            2297802244,
+            0,
+            "FUNG LAM RESTAURANT",
+            "D.D. 196, LOT NO. 890, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 130 TAI SHUI HANG, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903264
+        ]
+      ],
+      "coordinate": [
+        1.9935710152580453,
+        0.39106953307065545,
+        10.75
+      ],
+      "halfSize": [
+        5.0915000000968575,
+        4.731000000610948,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1249902596,
+        1,
+        [
+          [
+            2297801250,
+            0,
+            "HYATT REGENCY HONG KONG, SHA TIN",
+            "LEVEL 3 (PORTION), HYATT REGENCY HONG KONG, SHA TIN, 18 CHAK CHEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903330
+        ]
+      ],
+      "coordinate": [
+        1.9933614275139275,
+        0.39115565263794216,
+        10.75
+      ],
+      "halfSize": [
+        70.18283000029624,
+        81.99786499980837,
+        5.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1249902597,
+        1,
+        [
+          [
+            2297803229,
+            0,
+            "MOS Cafe",
+            "23 HANG TAI ROAD AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903428
+        ]
+      ],
+      "coordinate": [
+        1.9935606805009671,
+        0.39111174813195715,
+        8.300000190734863
+      ],
+      "halfSize": [
+        9.316000000108033,
+        15.232960000634193,
+        2.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1249902598,
+        10,
+        [
+          [
+            2297806112,
+            0,
+            "DRAGON TERRACE",
+            "SHOP NOS. 401 AND 408, 4/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2297806158,
+            0,
+            "\u5bcc\u5712",
+            "SHOP G05, G/F, WEGO MALL, 16 PO TAI STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2297806705,
+            0,
+            "METRO CAFE",
+            "SHOP NO. G02, G/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2297806811,
+            0,
+            "METRO ASIA",
+            "SHOP NO. G07, G/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2297807638,
+            0,
+            "Dragon Inn",
+            "SHOP NO. G06, G/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2297807717,
+            0,
+            "SEA REST",
+            "SHOP NO. 101, 1/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2297807744,
+            0,
+            "One Hotpot",
+            "SHOP NO. 208, 2/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2297808686,
+            0,
+            "EL TORO STEAK HOUSE AND BAR",
+            "SHOP 110A, 1/F, WE GO MALL, 16 PO TAI ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2297809281,
+            0,
+            "MOS Burger",
+            "SHOP G08A, G/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ],
+          [
+            2297810814,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NO. 110B, 1/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903446
+        ]
+      ],
+      "coordinate": [
+        1.9935833619800847,
+        0.3912001951184814,
+        18.0
+      ],
+      "halfSize": [
+        34.106760000344366,
+        53.26047999970615,
+        11.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1249902599,
+        2,
+        [
+          [
+            2297808260,
+            0,
+            "Cafe Yuanyang",
+            "ROOM 550, LG FLOOR, CUHK MEDICAL CENTRE, 9 CHAK CHEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            3197802181,
+            1,
+            "INSPIRE",
+            "ROOM 560-01, G/F, CUHK MEDICAL CENTRE, 9 CHAK CHEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1249903492
+        ]
+      ],
+      "coordinate": [
+        1.9933636690871597,
+        0.3911893262577821,
+        46.75
+      ],
+      "halfSize": [
+        63.67286500008777,
+        46.257589999586344,
+        30.55000114440918
+      ]
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1304428544,
+        1,
+        [
+          [
+            2151166208,
+            1,
+            "\u8d85\u7fa4\u9905\u5e97",
+            "SHOP NO G7, PODIUM FLOOR, LEE HONG HOUSE, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429553
+        ]
+      ],
+      "coordinate": [
+        1.9936234996461575,
+        0.38974142236801396,
+        137.39999389648438
+      ],
+      "halfSize": [
+        41.48676500003785,
+        55.18322000000626,
+        25.70000457763672
+      ]
+    },
+    {
+      "attributes": [
+        1304428545,
+        1,
+        [
+          [
+            3651804452,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP NO. 2, G/F, CAR PARK COMPLEX, SHUN ON ESTATE, 1 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429567
+        ]
+      ],
+      "coordinate": [
+        1.993628088596429,
+        0.38970515325426225,
+        113.30000305175781
+      ],
+      "halfSize": [
+        40.551099999807775,
+        41.425234999507666,
+        7.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1304428546,
+        3,
+        [
+          [
+            2951800977,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 8, G/F, TIN YIU HOUSE, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2951806203,
+            4,
+            "TANAKA BAKERY",
+            "SHOP 4, G/F, TIN YIU HOUSE, SHUN TIN ESTATE, SHUN ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-12"
+          ],
+          [
+            3251800164,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 8, G/F, TIN YIU HOUSE, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429579
+        ]
+      ],
+      "coordinate": [
+        1.9936172774907577,
+        0.38967148490723713,
+        126.35000610351562
+      ],
+      "halfSize": [
+        31.91486999997869,
+        33.245864999480546,
+        28.250003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1304428547,
+        2,
+        [
+          [
+            3651293524,
+            5,
+            "WELLCOME",
+            "PODIUM FLOOR, PORTION OF SHOP NO.206-211, TIN KEI HOUSE, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-10"
+          ],
+          [
+            4651803768,
+            5,
+            "QDAMA",
+            "PORTION OF SHOP 14, G/F, TIN KEI HOUSE, SHUN TIN ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429583
+        ]
+      ],
+      "coordinate": [
+        1.9936076874006066,
+        0.3896683055707309,
+        126.5
+      ],
+      "halfSize": [
+        32.36515500023961,
+        33.70194000005722,
+        28.39999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1304428548,
+        23,
+        [
+          [
+            2151800571,
+            1,
+            "V28",
+            "(PORTION B) SHOP CA02, F2 FLOOR, SHOPPING CENTRE 1, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2951809497,
+            4,
+            "King's Congee Cuisine",
+            "MARKET STALL 23, G/F, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2951809725,
+            4,
+            "\u9806\u5229\u7f8e\u98df\u7ad9",
+            "SHOP STALL NOS. 15 & 16, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2951810312,
+            4,
+            "\u6c38\u9806\u6f6e\u5dde\u7c89\u9eb5",
+            "SHOP STALL NO. 49A, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-02-28"
+          ],
+          [
+            2951810561,
+            4,
+            "\u9ba8\u53c4",
+            "SHOP NO. P02, F3 FLOOR, SHUN LEE COMMERCIAL CENTRE, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2951810613,
+            4,
+            "PARKnSHOP",
+            "STALL NO. 3, SHOP NO. R02, F4 FLOOR, SHOPPING CENTRE I, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2951812169,
+            4,
+            "\u5cb1\u6c11\u9806\u5229\u5e97",
+            "MARKET STALL 3 & 4, GROUND FLOOR, SHUN LEE MARKET, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            2951813542,
+            4,
+            "\u5f35\u8a18\u70e4\u54c1",
+            "MARKET STALL NO. 12, G/F, SHUN LEE ESTATE COMMERCIAL COMPLEX, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2951814314,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336(\u9806\u5229\u5546\u5834\u5e97)",
+            "SHOP NO. P09, F3 FLOOR, SHOPPING CENTRE I (SHUN LEE COMMERCIAL CENTRE), SHUN LEE ESTATE, 15 LEE ON ROAD, KOWLOON",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2951815557,
+            4,
+            "Little Kitchen",
+            "STALL NO. 52 & 53A, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2951818857,
+            4,
+            "\u8fea\u81ea\u7531\u5feb\u9910",
+            "SHOP 11, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2951819586,
+            4,
+            "DELICIOUS FOOD",
+            "STALL NOS. 1 & 2, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-03"
+          ],
+          [
+            4951821448,
+            4,
+            "Sushi Take-Out",
+            "SHOP NO. D07, F3 FLOOR, LEE YIP HOUSE, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-18"
+          ],
+          [
+            4951821581,
+            4,
+            "\u65b0\u9bae\u5e97",
+            "SHOP STALL NO. 48, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-03"
+          ],
+          [
+            3651053045,
+            5,
+            "\u6210\u8208",
+            "STALL NO. 21-22, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3651802678,
+            5,
+            "PARKnSHOP",
+            "STALL NO. 1 & PORTIONS OF SHOP NO. R02, F4 FLOOR, SHOPPING CENTRE I, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-29"
+          ],
+          [
+            3651802979,
+            5,
+            "\u65ed\u65e5\u51cd\u8089",
+            "SHOP 20 & 27, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-03"
+          ],
+          [
+            3651803042,
+            5,
+            "\u9806\u5229\u9bae\u8089",
+            "SHOP 26, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-07"
+          ],
+          [
+            3651803343,
+            5,
+            "SHUN BO GOURMET STORE",
+            "SHOP NO. P11, 3/F, SHOPPING CENTRE 1, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-30"
+          ],
+          [
+            3651803608,
+            5,
+            "\u5408\u7fa4\u8089\u67b1",
+            "SHOP 35, G/F, SHUN LEE MARKET, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-27"
+          ],
+          [
+            4251800738,
+            6,
+            "Sushi Take-Out",
+            "PORTION A OF SHOP NO. D07, F3 FLOOR, LEE YIP HOUSE, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-18"
+          ],
+          [
+            3551123040,
+            8,
+            "\u904b\u8208",
+            "STALL NO. 17-18, G/F, SHUN LEE ESTATE COMMERCIAL COMPLEX, SHUN LEE ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3551800592,
+            8,
+            "PARKnSHOP",
+            "STALL NO. 2, SHOP NO. R02, F4 FLOOR, SHOPPING CENTRE I, SHUN LEE ESTATE, 15 LEE ON ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429593
+        ]
+      ],
+      "coordinate": [
+        1.9936219474191117,
+        0.3897485178678284,
+        120.8499984741211
+      ],
+      "halfSize": [
+        121.17724499991164,
+        120.79849999956787,
+        9.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1304428549,
+        2,
+        [
+          [
+            4951821846,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION D OF SHOP B01, G/F, LEE YAT HOUSE, SHUN LEE SHOPPING CENTRE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            4251800774,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION C OF SHOP B01, G/F, LEE YAT HOUSE, SHUN LEE SHOPPING CENTRE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429594
+        ]
+      ],
+      "coordinate": [
+        1.9936301709387063,
+        0.3897322852601373,
+        120.55000305175781
+      ],
+      "halfSize": [
+        30.81900000013411,
+        28.158499999903142,
+        10.75
+      ]
+    },
+    {
+      "attributes": [
+        1304428550,
+        2,
+        [
+          [
+            2951810862,
+            4,
+            "PARKnSHOP",
+            "STALL NO. 2 OF SHOP NO. 110, UPPER GROUND FLOOR, FUNG TAI HOUSE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3651802836,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 110, UPPER GROUND FLOOR, FUNG TAI HOUSE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429783
+        ]
+      ],
+      "coordinate": [
+        1.993689372762692,
+        0.3896836094423065,
+        210.89999389648438
+      ],
+      "halfSize": [
+        32.62209999980405,
+        24.933100000023842,
+        53.399993896484375
+      ]
+    },
+    {
+      "attributes": [
+        1304428551,
+        24,
+        [
+          [
+            2951810604,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP 13, MARKET AT LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2951811740,
+            4,
+            "happy together",
+            "SHOP 107, UG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2951812345,
+            4,
+            "EMONE",
+            "SHOP 26, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2951813232,
+            4,
+            "BREAD PRINCE",
+            "SHOP NO. 21, MARKET AT LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-31"
+          ],
+          [
+            2951813630,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "SHOP NO. 64 , MARKET AT LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2951813773,
+            4,
+            "\u98df\u516b\u574a",
+            "SHOP 27, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2951814411,
+            4,
+            "\u9ba8\u53c4",
+            "SHOP 22, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2951815292,
+            4,
+            "\u963f\u559c\u6f6e\u5dde\u6ef7\u9d5d",
+            "REAR PORTION OF SHOP 24, LG/F, ON TAI SHOPPING CENTRE-MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2951815928,
+            4,
+            "\u5343\u559c\u7ca5\u5e97",
+            "SHOP NO. 63, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2951818714,
+            4,
+            "\u5df4\u8700\u5c0f\u9eb5",
+            "SHOP NO. 23, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2951819179,
+            4,
+            "\u5b89\u6cf0\u9eb5\u5305",
+            "SHOP NO.112, UG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2951819674,
+            4,
+            "\u6797\u8a18\u4e32\u71d2\u574a",
+            "SHOP NO. 14, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-01"
+          ],
+          [
+            3651802605,
+            5,
+            "\u83ef\u5229\u9bae\u9b5a",
+            "SHOP 57, LG/F, MARKET, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-02-27"
+          ],
+          [
+            3651802650,
+            5,
+            "\u71df\u5fb7\u8089\u98df",
+            "SHOP 34, LG/F, MARKET, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-29"
+          ],
+          [
+            3651802669,
+            5,
+            "\u5b89\u5bcc\u9bae\u8089",
+            "SHOP 45, LG/F, MARKET, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-29"
+          ],
+          [
+            3651802757,
+            5,
+            "\u5b89\u6cf0\u9bae\u8089",
+            "SHOP 38, LG/F, MARKET, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3651802818,
+            5,
+            "\u65b0\u4e16\u4ee3\u51b0\u9bae\u98df\u54c1",
+            "SHOP 35, LG/F, MARKET, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-20"
+          ],
+          [
+            3651802845,
+            5,
+            "\u5609\u9d3b\u725b\u8089",
+            "SHOP 55, LG/F, ON TAI SHOPPING CENTRE-MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3651803361,
+            5,
+            "\u6607\u767c\u98df\u54c1",
+            "SHOP 56, LG/F, ON TAI SHOPPING CENTRE, ON TAI ESTATE, ON SAU ROAD, SAU MAU PING, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            3651803389,
+            5,
+            "(NO RECORD FOUND)",
+            "SHOP NO. 42, LG/F., MARKET, ON TAI SHOPPING CENTRE, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-27"
+          ],
+          [
+            3651803413,
+            5,
+            "(NO RECORD FOUND)",
+            "SHOPS 46 & 47, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-24"
+          ],
+          [
+            3651804407,
+            5,
+            "Hung Frish",
+            "SHOP 54, LG/F, ON TAI SHOPPING CENTRE-MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3551800662,
+            8,
+            "\u98df\u96de\u5e97",
+            "SHOP 10, LG/F., ON TAI SHOPPING CENTRE - MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-17"
+          ],
+          [
+            3551800750,
+            8,
+            "\u963f\u559c\u6f6e\u5dde\u6ef7\u9d5d",
+            "FRONT PORTION OF SHOP 24, LG/F, ON TAI SHOPPING CENTRE-MARKET, ON TAI ESTATE, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1304429822
+        ]
+      ],
+      "coordinate": [
+        1.9936708382619635,
+        0.38968514182953873,
+        153.85000610351562
+      ],
+      "halfSize": [
+        146.20349087932846,
+        123.19249499961734,
+        3.6500015258789062
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1145 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1189085184,
+        5,
+        [
+          [
+            2995802715,
+            4,
+            "WORLD TREASURE (HONG KONG) LIMITED",
+            "2/F (PORTION B), 3 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2995802724,
+            4,
+            "WORLD TREASURE (HONG KONG) LIMITED",
+            "2/F (PORTION A), 3 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2995802733,
+            4,
+            "WORLD TREASURE (HONG KONG) LIMITED",
+            "G/F (PORTION), 3 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2995802742,
+            4,
+            "WORLD TREASURE (HONG KONG) LIMITED",
+            "1/F (PORTION), 3 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2995802751,
+            4,
+            "WORLD TREASURE (HONG KONG) LIMITED",
+            "3/F (PORTION), 3 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085186
+        ]
+      ],
+      "coordinate": [
+        1.9929431072948445,
+        0.3920091502501918,
+        15.350000381469727
+      ],
+      "halfSize": [
+        29.055000000167638,
+        19.68599999975413,
+        9.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1189085185,
+        1,
+        [
+          [
+            2995804216,
+            4,
+            "LOYAL ADVANCE LIMITED",
+            "PORTION OF ROOM L, 4/F, TAI PO INDUSTRIAL ESTATE, 12 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085187
+        ]
+      ],
+      "coordinate": [
+        1.9928935246146249,
+        0.3920065743822226,
+        20.649999618530273
+      ],
+      "halfSize": [
+        39.661000000312924,
+        29.945999999530613,
+        14.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1189085186,
+        4,
+        [
+          [
+            2995802131,
+            4,
+            "MAXIM'S FOOD FACTORY",
+            "PORTION G, G/F, 5 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2995802140,
+            4,
+            "MAXIM'S FOOD FACTORY",
+            "PORTION 1A, 1/F, 5 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2995802159,
+            4,
+            "MAXIM'S FOOD FACTORY",
+            "PORTION 2A, 2/F, 5 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2995802186,
+            4,
+            "MAXIM'S FOOD FACTORY",
+            "PORTION 3A, 3/F, 5 DAI SHUN STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085190
+        ]
+      ],
+      "coordinate": [
+        1.9929424951443488,
+        0.3920006981272238,
+        15.450000762939453
+      ],
+      "halfSize": [
+        29.05849999981001,
+        29.35800000000745,
+        9.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1189085187,
+        5,
+        [
+          [
+            2995800083,
+            4,
+            "Maxim's Food Production Centre",
+            "2/F, TAI PO INDUSTRIAL ESTATE, 14 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2995800223,
+            4,
+            "Maxim's Food Production Centre",
+            "3/F(PORTION), 14 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2995802371,
+            4,
+            "MAXIM'S FOOD PRODUCTION CENTRE",
+            "UNIT G-A, G/F, TAI PO INDUSTRIAL ESTATE, 14 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2995802380,
+            4,
+            "MAXIM'S FOOD PRODUCTION CENTRE",
+            "UNIT 1-A, 1/F, TAI PO INDUSTRIAL ESTATE, 14 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2995802760,
+            4,
+            "MAXIM'S FOOD FACTORY",
+            "PORTION C OF 1/F, 14 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085196
+        ]
+      ],
+      "coordinate": [
+        1.992888527089702,
+        0.3919961134972833,
+        14.649999618530273
+      ],
+      "halfSize": [
+        72.50950000016019,
+        30.79700000025332,
+        8.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1189085188,
+        1,
+        [
+          [
+            2995801837,
+            4,
+            "CAFE DE CORAL (INTERNATIONAL) LIMITED",
+            "3/F, TAI PO INDUSTRIAL ESTATE, 17 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085223
+        ]
+      ],
+      "coordinate": [
+        1.9929095558251382,
+        0.39198552256041785,
+        17.600000381469727
+      ],
+      "halfSize": [
+        20.828499999828637,
+        26.37650000024587,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        1189085189,
+        4,
+        [
+          [
+            2995801554,
+            4,
+            "Maxim's Cakes & Bakery Factory",
+            "WORKSHOP 2A, 2/F, MAXIM'S CAKES & BAKERY FACTORY, TAI PO INDUSTRIAL ESTATE, 2 DAI LI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2995801563,
+            4,
+            "MAXIM'S CAKES & BAKERY FACTORY",
+            "WORKSHOP GA, G/F, MAXIM'S CAKES & BAKERY FACTORY, TAI PO INDUSTRIAL ESTATE, 2 DAI LI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2995801572,
+            4,
+            "Maxim's Cakes & Bakery Factory",
+            "WORKSHOP 3A, 3/F, MAXIM'S CAKES & BAKERY FACTORY, TAI PO INDUSTRIAL ESTATE, 2 DAI LI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-20"
+          ],
+          [
+            2995801581,
+            4,
+            "Maxim's Cakes & Bakery Factory",
+            "WORKSHOP GB, G/F & WORKSHOP 1A, 1/F, MAXIM'S CAKES & BAKERY FACTORY, TAI PO INDUSTRIAL ESTATE, 2 DAI LI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085236
+        ]
+      ],
+      "coordinate": [
+        1.992969569122878,
+        0.3919790859657063,
+        9.850000381469727
+      ],
+      "halfSize": [
+        23.353500000201166,
+        43.12000000011176,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1189085190,
+        1,
+        [
+          [
+            2995000115,
+            4,
+            "Watson's",
+            "G/F(PORTION), 3/F, 4/F(PORTION), 5/F(PORTION) AND ROOF LEVEL( PORTION) OF ANNEX BUILDING, TPTL 1, SECTION B, S.S.2, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085237
+        ]
+      ],
+      "coordinate": [
+        1.992990794774094,
+        0.39197896985485975,
+        17.649999618530273
+      ],
+      "halfSize": [
+        39.47412999998778,
+        43.02692999970168,
+        12.25
+      ]
+    },
+    {
+      "attributes": [
+        1189085191,
+        1,
+        [
+          [
+            2995000133,
+            4,
+            "\u76ca\u529b\u591a",
+            "MAJOR PORTION OF G/F, AND 1/F, TAI PO INDUSTRIAL ESTATE, 4 DAI LI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085240
+        ]
+      ],
+      "coordinate": [
+        1.992979132305662,
+        0.39197878729591806,
+        10.199999809265137
+      ],
+      "halfSize": [
+        23.69650000007823,
+        41.80499999970198,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1189085192,
+        1,
+        [
+          [
+            2995000832,
+            4,
+            "Jackel Porter Co.Ltd",
+            "MINOR PORTION, GROUND FLOOR, TAI PO INDUSTRIAL ESTATE, 1-3 DAI WANG STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085267
+        ]
+      ],
+      "coordinate": [
+        1.992843438661952,
+        0.3919765621552512,
+        11.149999618530273
+      ],
+      "halfSize": [
+        15.202000000048429,
+        24.86349999997765,
+        5.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1189085193,
+        1,
+        [
+          [
+            2995000072,
+            4,
+            "\u6c38\u5357",
+            "TPTL NO.1, S.J,S.S.2, G/F, TO 1/F, 2/F(PORTION), & 3/F(PORTION), TAI PO INDUSTRIAL ESTATE, 11-13 DAI SHUN STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085284
+        ]
+      ],
+      "coordinate": [
+        1.9929211035515335,
+        0.39197048623188946,
+        14.899999618530273
+      ],
+      "halfSize": [
+        24.34747500019148,
+        33.34313999954611,
+        9.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1189085194,
+        2,
+        [
+          [
+            2995804544,
+            4,
+            "CATALO Natural Health Science Limited",
+            "PORTION OF UNIT NO. G01 ON THE GROUND FLOOR OF MARS CENTRE, 2 DAI WANG STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            4995805411,
+            4,
+            "HONG KONG OBISCO PHARMACEUTICAL LIMITED",
+            "PORTION OF UNIT 102, 1/F, MARS CENTRE, 2 DAI WANG STREET, TAI PO INNOPARK, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-02-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085308
+        ]
+      ],
+      "coordinate": [
+        1.992845490055026,
+        0.39195960309973565,
+        17.600000381469727
+      ],
+      "halfSize": [
+        28.9035000000149,
+        45.875500000081956,
+        11.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1189085195,
+        2,
+        [
+          [
+            2595000120,
+            3,
+            "Lam Soon Realty Limited",
+            "ROOF FLOOR (PORTION), TAI PO INDUSTRIAL ESTATE, 21 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2995802362,
+            4,
+            "LAM SOON PRODUCTS SUPPLY (HONG KONG) COMPANY LIMITED",
+            "PORTION 1 & 2, 4/F AND PORTION 1, G/F, 21 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085322
+        ]
+      ],
+      "coordinate": [
+        1.9929152649803035,
+        0.39195838319079446,
+        21.200000762939453
+      ],
+      "halfSize": [
+        54.90200000023469,
+        30.773000000044703,
+        15.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1189085196,
+        2,
+        [
+          [
+            2995000081,
+            4,
+            "\u6c38\u5b89",
+            "G/F & 1/F (PORTION), TPTL 1, S.H., S.S 8, TAI PO INDUSTRIAL ESTATE, 9-13 DAI CHEONG STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2995805015,
+            4,
+            "No Record",
+            "2/F. (MINOR PORTION), NOS. 9-13 DAI CHEONG STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085331
+        ]
+      ],
+      "coordinate": [
+        1.992888843201539,
+        0.39195490549677475,
+        10.050000190734863
+      ],
+      "halfSize": [
+        56.813000000081956,
+        20.240000000223517,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1189085197,
+        10,
+        [
+          [
+            2195000241,
+            1,
+            "Hong Kong Yamazaki Baking Co., Ltd.",
+            "G/F(MAJOR PORTION) & 1/F (PORTION)AND THE EXTENSION, 17 DAI SHING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2995000300,
+            4,
+            "\u9999\u6e2f\u5c71\u5d0e\u9eb5\u98fd\u6709\u9650\u516c\u53f8",
+            "WORKSHOP 2 & 3, G/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-02-23"
+          ],
+          [
+            2995000887,
+            4,
+            "Hong Kong Yamazaki Baking Co., Ltd.",
+            "WORKSHOP 1, G/F & THE EXTENSION, 17 DAI SHING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2995800047,
+            4,
+            "H.K. Yamazaki Baking Co., Ltd.",
+            "WORKSHOP 6, G/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2995800463,
+            4,
+            "Hong Kong Yamazaki Baking Co. Ltd.",
+            "WORKSHOP 4 & 5, 1/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2995802478,
+            4,
+            "Yamazaki",
+            "WORKSHOP 9, 1/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-28"
+          ],
+          [
+            2995802487,
+            4,
+            "Yamazaki",
+            "WORKSHOP 8, 1/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-29"
+          ],
+          [
+            2995803417,
+            4,
+            "HONG KONG YAMAZAKI BAKING COMPANY LIMITED",
+            "WORKSHOP 10, 11 & 12, 1/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2995803435,
+            4,
+            "HONG KONG YAMAZAKI BAKING COMPANY LIMITED",
+            "WORKSHOP 15, 1/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2995803444,
+            4,
+            "HONG KONG YAMAZAKI BAKING COMPANY LIMITED",
+            "WORKSHOP 13 & 14, 1/F & THE EXTENSION, TAI PO INDUSTRIAL ESTATE, 17 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085342
+        ]
+      ],
+      "coordinate": [
+        1.9928797455449407,
+        0.39193823262079647,
+        11.100000381469727
+      ],
+      "halfSize": [
+        19.796360000036657,
+        46.894599999301136,
+        5.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1189085198,
+        2,
+        [
+          [
+            2995000559,
+            4,
+            "Taclon Industries Limited",
+            "MINOR PORTION, G/F, T.P.T.L.13 S.J.S.S. 2, TAI PO INDUSTRIAL ESTATE, 11-13 DAI KING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2995802256,
+            4,
+            "Taclon Industries Limited",
+            "PORTION A OF G/F & PORTION B OF 1/F,T.P.T.L. 13 S.J.S.S. 2, 11-13 DAI KING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085364
+        ]
+      ],
+      "coordinate": [
+        1.9930112423460733,
+        0.39191836508689115,
+        11.100000381469727
+      ],
+      "halfSize": [
+        31.638999999966472,
+        50.230999999679625,
+        5.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1189085199,
+        1,
+        [
+          [
+            2595000078,
+            3,
+            "\u9d3b\u8208",
+            "1/F(PORTION), HUNG HING PRINTING CENTRE, TAI PO INDUSTRIAL ESTATE, 17-19 DAI HEI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085365
+        ]
+      ],
+      "coordinate": [
+        1.9930321306513263,
+        0.3919128294135966,
+        10.199999809265137
+      ],
+      "halfSize": [
+        52.78499999968335,
+        85.74249999970198,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1189085200,
+        1,
+        [
+          [
+            2595000023,
+            3,
+            "Hong Kong Note Printing Ltd",
+            "G/F(PORTION) & 1/F(PORTION),TPTL 1, SECTION N, SUBSECTION 1, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085371
+        ]
+      ],
+      "coordinate": [
+        1.992847486258505,
+        0.39191715851182,
+        9.350000381469727
+      ],
+      "halfSize": [
+        38.879499999806285,
+        30.497999999672174,
+        3.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1189085201,
+        1,
+        [
+          [
+            4995805420,
+            4,
+            "No Record",
+            "WORKSHOP A, 1/F, 1 DAI HEI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085378
+        ]
+      ],
+      "coordinate": [
+        1.9929401794424775,
+        0.39190626313874366,
+        9.850000381469727
+      ],
+      "halfSize": [
+        18.09749999968335,
+        19.995500000193715,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1189085202,
+        1,
+        [
+          [
+            2995000249,
+            4,
+            "\u6c38\u6cf0",
+            "G/F. 1/F. & 2/F, TAI PO INDUSTRIAL ESTATE, 20 DAI KWAI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085379
+        ]
+      ],
+      "coordinate": [
+        1.992955816000287,
+        0.39190353970218444,
+        17.399999618530273
+      ],
+      "halfSize": [
+        17.150499999988824,
+        32.4429999999702,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        1189085203,
+        3,
+        [
+          [
+            2995801420,
+            4,
+            "Beijing Tong Ren Tang Chinese Medicine Company Limited",
+            "ROOM 1283 & 1284, 1/F, FACTORY BUILDING, TAI PO INDUSTRIAL ESTATE, 3 DAI KING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2995801439,
+            4,
+            "Beijing Tong Ren Tang Chinese Medicine Company Limited",
+            "ROOM 1281 & 1282, 1/F, FACTORY BUILDING, TAI PO INDUSTRIAL ESTATE, 3 DAI KING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2995803073,
+            4,
+            "(no record found)",
+            "PORTION A, 1/F, FACTORY BUILDING, 3 DAI KING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085424
+        ]
+      ],
+      "coordinate": [
+        1.9930065322534483,
+        0.39187208819350483,
+        13.950000762939453
+      ],
+      "halfSize": [
+        23.01894999993965,
+        41.00955000054091,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1189085204,
+        1,
+        [
+          [
+            2995801891,
+            4,
+            "Caf\u00e9 de Coral Central Processing Plant 1",
+            "MAJOR PORTION OF G/F TO 5/F, 19 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, SUB-SECTION 1 OF SECTION J, T.P.T. LOT NO. 1 AND THE EXTENSION THERETO, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085449
+        ]
+      ],
+      "coordinate": [
+        1.9929098816335362,
+        0.391971156551287,
+        25.450000762939453
+      ],
+      "halfSize": [
+        22.52015999983996,
+        30.033289999701083,
+        20.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1189085205,
+        5,
+        [
+          [
+            2895800028,
+            2,
+            "Fairwood Fast Food",
+            "G/F (MAJOR PORTION), BLOCK 2, 8 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-01"
+          ],
+          [
+            2995000230,
+            4,
+            "Amoy Food Limited",
+            "TAI PO INDUSTRIAL ESTATE, 11-15 DAI FU STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2995801767,
+            4,
+            "\u98df\u7269\u88fd\u9020\u5ee0",
+            "PORTION A, 2/F, TAI PO INDUSTRIAL ESTATE, 20 DAI FAT STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2995802089,
+            4,
+            "FAIRWOOD FAST FOOD",
+            "G/F, BLOCK 1, 8 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2995804678,
+            4,
+            "Nissin Foods Company Limited",
+            "G/F.(PORTION), 1/F.(PORTION), U1/F.(PORTION) & 2/F.(PORTION), NO. 21-23 DAI SHING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085454
+        ]
+      ],
+      "coordinate": [
+        1.9929120367211592,
+        0.39199828513273033,
+        14.350000381469727
+      ],
+      "halfSize": [
+        35.943500000052154,
+        41.47549999970943,
+        8.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1189085206,
+        2,
+        [
+          [
+            2995803365,
+            4,
+            "Advance Pharmaceutical Company Limited",
+            "PORTION A, G/F, GMP CENTRE, 12 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2995804997,
+            4,
+            "ADVANCE PHARMACEUTICAL COMPANY LIMITED",
+            "PORTION A, 2/F, GMP CENTRE, 12 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085455
+        ]
+      ],
+      "coordinate": [
+        1.9928933119630674,
+        0.3920070941540429,
+        9.600000381469727
+      ],
+      "halfSize": [
+        39.661000000312924,
+        29.945999999530613,
+        3.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1189085207,
+        2,
+        [
+          [
+            2995803091,
+            4,
+            "(no record found)",
+            "MAJOR PORTION OF 3/F, VITA GREEN BUILDING, 18 DAI HEI STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ],
+          [
+            4995805554,
+            4,
+            "No Record",
+            "3/F., PHASE II, TAI PO INDUSTRIAL ESTATE, 18 DAI HEI STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085458
+        ]
+      ],
+      "coordinate": [
+        1.9930068034781612,
+        0.39188712962555683,
+        11.199999809265137
+      ],
+      "halfSize": [
+        22.349090000148863,
+        32.82196999993175,
+        5.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1189085208,
+        3,
+        [
+          [
+            2895800055,
+            2,
+            "Luen Tai Hong Kong Fresh Liquid Eggs Limited",
+            "MAJOR PORTION OF G/F, NO. 5 DAI WANG STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2995804599,
+            4,
+            "Luen Tai Hong Kong Fresh Liquid Eggs Limited",
+            "MINOR PORTION OF G/F & 1/F., NO. 5 DAI WANG STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2995804890,
+            4,
+            "Luen Tai Hong Kong Fresh Liquid Eggs Limited",
+            "3/F., NO. 5 DAI WANG STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085466
+        ]
+      ],
+      "coordinate": [
+        1.9928518143535683,
+        0.3919769891664482,
+        18.700000762939453
+      ],
+      "halfSize": [
+        13.960309999994934,
+        27.11007499974221,
+        12.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1189085209,
+        1,
+        [
+          [
+            2995802885,
+            4,
+            "Nissin Foods",
+            "G/F (PORTION), 1/F (MAJOR PORTION), UPPER 1/F AND 2/F (MINOR PORTION), TAI PO INDUSTRIAL ESTATE, 19 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085467
+        ]
+      ],
+      "coordinate": [
+        1.9928870426246366,
+        0.391937534912476,
+        20.649999618530273
+      ],
+      "halfSize": [
+        12.31724499957636,
+        49.98527999967337,
+        15.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1189085210,
+        2,
+        [
+          [
+            2995804465,
+            4,
+            "Maxim's Food Production Centre",
+            "PORTION A, 3/F, TAI PO INDUSTRIAL ESTATE, 6 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2995804766,
+            4,
+            "Maxim's Food Production Centre",
+            "PORTION A, 1/F AND PORTION A, 2/F, TAI PO INDUSTRIAL ESTATE, 6 DAI SHING STREET, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1189085468
+        ]
+      ],
+      "coordinate": [
+        1.9928611580493216,
+        0.39191758970480683,
+        19.19999885559082
+      ],
+      "halfSize": [
+        30.119500000029802,
+        30.132999999448657,
+        13.59999942779541
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1256194048,
+        1,
+        [
+          [
+            2995804395,
+            4,
+            "Tai Po Ice",
+            "PORTION OF G/F AND PORTION OF UPPER FLOOR LEVEL, 2 YU ON STREET, SAM MUN TSAI, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1256194450
+        ]
+      ],
+      "coordinate": [
+        1.993255829653677,
+        0.3919689341457176,
+        8.949999809265137
+      ],
+      "halfSize": [
+        10.657500000204891,
+        13.392500000074506,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1256194049,
+        1,
+        [
+          [
+            2995803347,
+            4,
+            "CHARTER KEY INTERNATIONAL",
+            "ROOM B, TAI PO WHOLESALE FISH MARKET, 1 YU ON STREET, SAM MUN TSAI, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1256194546
+        ]
+      ],
+      "coordinate": [
+        1.9932667023472634,
+        0.39195836672234025,
+        6.300000190734863
+      ],
+      "halfSize": [
+        11.837999999988824,
+        19.068500000052154,
+        1.7000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1256194050,
+        1,
+        [
+          [
+            2995800409,
+            4,
+            "LUEN YICK TAKING-OUT",
+            "REAR BLOCK, NO. 1A LUEN YICK FISHERMEN VILLAGE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1256194660
+        ]
+      ],
+      "coordinate": [
+        1.9934128892929754,
+        0.3919415552033329,
+        14.449999809265137
+      ],
+      "halfSize": [
+        14.768840000033379,
+        13.100349999964237,
+        3.34999942779541
+      ]
+    }
+  ]
+}

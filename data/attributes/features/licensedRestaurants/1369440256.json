@@ -1,0 +1,1855 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1369440256,
+        1,
+        [
+          [
+            2298000793,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 102, SHOPPING CENTRE, PO LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440257
+        ]
+      ],
+      "coordinate": [
+        1.9941288389178309,
+        0.389650758418061,
+        12.300000190734863
+      ],
+      "halfSize": [
+        18.3990950002335,
+        15.661404999904335,
+        3.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1369440257,
+        49,
+        [
+          [
+            2298000146,
+            0,
+            "Noble Banquet Seafood Restaurant",
+            "SHOP NOS. 227 & 232, LEVEL 2, THE METROPOLIS, PHASE III, METRO CITY, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2298000331,
+            0,
+            "Cafe De Coral",
+            "SHOP UG033, UPPER GROUND FLOOR, PHASE II, METRO CITY, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-09"
+          ],
+          [
+            2298000881,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 1017, LEVEL 1, PHASE II, METRO CITY, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2298002285,
+            0,
+            "Tao Heung",
+            "SHOP NOS. 2039-2042, LEVEL 2, METRO CITY, PHASE II, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            2298002300,
+            0,
+            "Pizza Hut",
+            "SHOP NOS. 2071-2072, LEVEL 2, AND PORTION OF CORRIDOR SPACE AT SHOP FRONT, METRO CITY, PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2298800661,
+            0,
+            "Super Super",
+            "SHOPS UG001-003, UPPER GROUND FLOOR, METRO CITY PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2298802126,
+            0,
+            "King Harbour Seafood Restaurant",
+            "SHOP 2008, LEVEL 2, METRO CITY PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2298802180,
+            0,
+            "GENKI SUSHI",
+            "SHOP 2084-85, LEVEL 2, MCP CENTRAL, TKOTL 27, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            2298802296,
+            0,
+            "TAI HING / MEN WAH BING TENG",
+            "SHOP NOS. UG085-87, UPPER GROUND FLOOR, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2298802384,
+            0,
+            "\u7396\u5b50\u8336",
+            "SHOPS 2006-7, LEVEL 2, METRO CITY PHASE 2, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2298802658,
+            0,
+            "Hungry Korean",
+            "SHOP UG005, UG/F, METRO CITY PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2298804113,
+            0,
+            "ITAMOMO PLUS",
+            "SHOP NOS. 2028-31, LEVEL 2, METRO CITY PHASE II, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2298804265,
+            0,
+            "SATAY KING",
+            "SHOPS 2001-2002 & 2087A, 2/F, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            2298804308,
+            0,
+            "\u91d1\u574a\u6cf0\u570b\u7f8e\u98df",
+            "SHOP 2016, LEVEL 2, MCP CENTRAL, TKOTL 27, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2298804335,
+            0,
+            "TONG KEE BAO DIM",
+            "MARKET STALL NO. M103, M105 & M106, G/F, WET MARKET MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2298804405,
+            0,
+            "Budae Chicken",
+            "SHOP UG051F, UG/F, METRO CITY PLAZA II, 8 YAN KING ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ],
+          [
+            2298804423,
+            0,
+            "LOOK FOR EAT",
+            "SHOP UG051J, UG/F, METRO CITY PHASE 2, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ],
+          [
+            2298804511,
+            0,
+            "Marugame - Metro City",
+            "SHOP NO. UG051E, UPPER GROUND FLOOR, METRO CITY PHASE II, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2298804548,
+            0,
+            "\u516b\u65b9\u53f0\u5f0f\u9eb5\u5c4b",
+            "SHOP NO. 1146, LEVEL 1, METRO CITY PHASE 2, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2298804715,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP 2018, LEVEL 2, METRO CITY PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2298804779,
+            0,
+            "HAKKA BISTRO",
+            "SHOP NO. UG051I, UG/F, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2298804849,
+            0,
+            "JOLLIBEE",
+            "SHOP NO. G06-G08, G/F, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2298805550,
+            0,
+            "Ruby Tuesday",
+            "SHOP NOS. UG020-21, UG/F, MCP CENTRAL (METRO CITY PHASE II), NO. 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2298805879,
+            0,
+            "AN NAM PHO",
+            "SHOP NOS. 2021-23, LEVEL 2, METRO CITY PHASE II, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2298806164,
+            0,
+            "JACOMAX",
+            "SHOP NOS. UG092-94, UPPER GROUND FLOOR, METRO CITY PHASE II, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2298806252,
+            0,
+            "Gingko House",
+            "UNIT TKO-02, SHOP NO. UG036, UG/F, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2298806298,
+            0,
+            "The Sixties Restaurant",
+            "SHOP 26-28 , G/F, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            2298806377,
+            0,
+            "Fish Village",
+            "UNIT TKO-01, SHOP NO. UG036, UG/F, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2298806544,
+            0,
+            "MIXIAN SENSE",
+            "SHOP UG008, UPPER GROUND FLOOR, METRO CITY PHASE II , TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2298806836,
+            0,
+            "\u5143\u5143\u9178\u83dc\u9b5a",
+            "SHOP NOS. 2035-36, LEVEL 2, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2298806863,
+            0,
+            "SANDAIME",
+            "SHOP NOS. 1011-13, LEVEL 1, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2298807167,
+            0,
+            "Sukiya",
+            "SHOP NOS. 2086-2087, LEVEL 2, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2298807404,
+            0,
+            "KFC",
+            "SHOP 2005, L2/F, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2298807422,
+            0,
+            "The Fly Place",
+            "SHOP NOS. 2024-27, LEVEL 2, MCP CENTRAL, TKOTL 27, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2298807440,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NOS. 2057-2059 AND SHOPFRONT ADJOINING AREA,LEVEL 2, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-13"
+          ],
+          [
+            2298807459,
+            0,
+            "\u62fe\u73a5",
+            "SHOP NO. 1086-1090A, LEVEL 1, METRO CITY PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ],
+          [
+            2298807583,
+            0,
+            "Asam Chicken Rice",
+            "SHOP NO. UG051H, UPPER GROUND FLOOR, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            3898807463,
+            0,
+            "OLIVER'S SUPER SANDWICHES",
+            "SHOP NO. 1072-1073, LEVEL 1, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ],
+          [
+            3898807533,
+            0,
+            "\u6930\u6797\u95a3",
+            "SHOP NO. 1015, LEVEL 1, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            3198801370,
+            1,
+            "\u5fa9\u8208\u725b\u4ec0\u9b5a\u86cb",
+            "STALL NO.M107, G/F, WET MARKET, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            3198801811,
+            1,
+            "Wine & Sake",
+            "UNIT TKO-03, SHOP NO. UG036, UG/F, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            3198801909,
+            1,
+            "NOM NOM DUMPLING (MCP CENTRAL)",
+            "SHOP NO. 2037, LEVEL 2, METRO CITY PHASE II, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            3198802133,
+            1,
+            "SO GOR BEEF BRISKET",
+            "SHOP NOS. 1070-1071, LEVEL 1, METRO CITY PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-05"
+          ],
+          [
+            3198802160,
+            1,
+            "A-XING FRUIT TEA & RICE\u00a0ROLL",
+            "SHOP NOS. 1124-26, 1/F, MCP CENTRAL, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            3198802267,
+            1,
+            "SANCHOI NOODLE",
+            "SHOP NOS. G29-G30, G/F, MCP CENTRAL, 8 YAN KING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3198802276,
+            1,
+            "Bashi Ramen",
+            "SHOP NO. UG051G, UPPER G/F, PHASE 2, METRO CITY, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            3198802319,
+            1,
+            "Luckin Coffee",
+            "OPEN SPACE NEAR SHOP NO. 1038A, LEVEL 1, MCP CENTRAL, TKOTL 27, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3998802496,
+            1,
+            "CHAGEE MCP CENTRAL SHOP",
+            "SHOP NO. 1042 & OPEN SPACE LEVEL 1, MCP CENTRAL, TKOTL 27, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3998802566,
+            1,
+            "Cotti Coffee",
+            "SHOP NOS. 1018-1019 AND AREA OUTSIDE SHOP NOS. 1018-1019, LEVEL 1, METRO CITY PHASE II, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440258
+        ]
+      ],
+      "coordinate": [
+        1.994181669371573,
+        0.3896140022034192,
+        19.900001525878906
+      ],
+      "halfSize": [
+        128.0920000001788,
+        140.18599999975413,
+        12.500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1369440258,
+        2,
+        [
+          [
+            2298000988,
+            0,
+            "\u5bf6\u5712\u8eca\u4ed4\u9eb5\u5c0f\u5eda",
+            "SHOP A81-88, A91-98 & A64-73, G/F., WELL ON SHOPPING ARCADE, 9 YUK NGA LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            3198801565,
+            1,
+            "JOY HOUSE",
+            "SHOP NO. S11 ON 1 ST FLOOR OF WELL ON GARDEN, NO. 9 YUK NGA LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440259
+        ]
+      ],
+      "coordinate": [
+        1.9941050510271265,
+        0.3896241697848223,
+        14.949999809265137
+      ],
+      "halfSize": [
+        64.88149999966845,
+        57.62250000052154,
+        6.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1369440259,
+        2,
+        [
+          [
+            2298000669,
+            0,
+            "Mini Po Cart Noodle",
+            "SHOP 6, G/F, FINERY PARK, 7 YUK NGA LANE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2298806207,
+            0,
+            "Sufurewa Pancakes",
+            "SHOP NO. 1, G/F, FINERY PARK, 7 YUK NGA LANE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440261
+        ]
+      ],
+      "coordinate": [
+        1.9941133050354194,
+        0.3896197531497857,
+        12.300000190734863
+      ],
+      "halfSize": [
+        49.484999999869615,
+        53.42200000025332,
+        4.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1369440260,
+        19,
+        [
+          [
+            2298000544,
+            0,
+            "\u4e0a\u6d77\u771f\u7f8e\u8c46\u6f3f\u5927\u738b",
+            "SHOP NO. 22, G/F, PHASE III, METRO CITY, TKOTL 34, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2298803907,
+            0,
+            "MX /Starbucks Coffee",
+            "SHOP 244-245, 2/F, MCP DISCOVERY, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2298804760,
+            0,
+            "\u5143\u6717\u51b0\u5ba4",
+            "SHOP G24-25, G/F, MCP DISCOVERY, TKOTL 34, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2298804955,
+            0,
+            "GOLDEN PHOENIX RESTAURANT",
+            "SHOP G19-20, G/F, METRO CITY PHASE III, THE METROPOLIS, 8 MAU YIP ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2298805709,
+            0,
+            "LOK YUEN MASTER OF FISH BALL",
+            "SHOP 210, LEVEL 2, METRO CITY PHASE 3, THE METROPOLIS, 8 MAU YIP ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2298806261,
+            0,
+            "MC DAU",
+            "SHOP NO. 138A & ADJOINING SEATING AREA, LEVEL 1, MCP DISCOVERY, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2298806289,
+            0,
+            "HONG KONG CRISPY ROAST GOOSE",
+            "SHOP G28, G/F, MCP DISCOVERY, TKOTL 34, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2298806359,
+            0,
+            "Momoku",
+            "SHOP NO. 249, 2/F, MCP DISCOVERY, 8 MAU YIP ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2298806386,
+            0,
+            "Cha Thai Chicken Factory",
+            "SHOP NO. 250-251, 2/F, MCP DISCOVERY, 8 MAU YIP ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2298806456,
+            0,
+            "Fish & Duck",
+            "SHOP NOS. 132B AND 132C, LEVEL 1, MCP DISCOVERY, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2298806508,
+            0,
+            "Sushiro Po Lam",
+            "SHOP 201-202, 2/F, MCP DISCOVERY, 8 MAU YIP ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2298806906,
+            0,
+            "Katachi",
+            "SHOP G35, G/F, MCP DISCOVERY, TKOTL 34, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            2298807185,
+            0,
+            "MASTER CONGEE",
+            "SHOP G3, G/F, MCP DISCOVERY, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2298807653,
+            0,
+            "CHEN PENGPENG CHAOSHAN CUISINE RESTAURANT",
+            "SHOP NOS. 132A & 138D, LEVEL 1, MCP DISCOVERY, 8 MAU YIP ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            3898807375,
+            0,
+            "\u8336\u610f",
+            "SHOPS G8 & G9, G/F, MCP DISCOVERY, NO. 8 MAU YIP ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            3898807445,
+            0,
+            "Old Fung Tea House",
+            "SHOP NO. G23, G/F, PHASE III, METRO CITY, TKOTL 34, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            3198800836,
+            1,
+            "\u5c0f\u65b9\u7cd6\u751c\u54c1",
+            "SHOP G7, G/F, THE METROPOLIS, PHASE III, METRO CITY, 8 MAU YIP ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            3198802072,
+            1,
+            "YUM TEA HOUSE",
+            "SHOP G15, G/F, METRO CITY PHASE III, 8 MAU YIP ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            3198802212,
+            1,
+            "Tei Mou Koon Dessert",
+            "SHOP G05, G/F, METRO CITY PHASE III, 8 MAU YIP ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440266
+        ]
+      ],
+      "coordinate": [
+        1.9941584565642163,
+        0.3895996830790027,
+        14.699999809265137
+      ],
+      "halfSize": [
+        65.6769999996759,
+        76.30049999989569,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1369440261,
+        2,
+        [
+          [
+            2298001769,
+            0,
+            "McDonald's",
+            "SHOP NO. 1, G/F, VERBENA HEIGHTS, 8 MAU TAI ROAD, AREA 19B, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ],
+          [
+            3198801200,
+            1,
+            "\u6c38\u8208\u725b\u96dc",
+            "STALL 17 & 18, G/F , VERBENA HEIGHTS MARKET, 8 MAU TAI ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440267
+        ]
+      ],
+      "coordinate": [
+        1.9941404730230785,
+        0.38959215170535333,
+        12.949999809265137
+      ],
+      "halfSize": [
+        88.37949999980628,
+        98.33600000012666,
+        5.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1369440262,
+        11,
+        [
+          [
+            2298800379,
+            0,
+            "Victoria Harbour Restaurant",
+            "SHOP 208, LEVEL 2, METRO CITY, PHASE I, TKOTL 36, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2298800591,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. 204 & 207A, LEVEL 2, METRO CITY, PHASE 1, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2298803040,
+            0,
+            "Mos Burger",
+            "SHOP NOS. G29-31, G/F, METRO CITY PHASE 1, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2298803475,
+            0,
+            "Palau",
+            "SHOP NO. G13-15, G/F, METRO CITY PHASE I, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2298804353,
+            0,
+            "COFFEE ART LIMITED",
+            "SHOP NOS. G95-96 & G113-114, GROUND FLOOR, METRO CITY PHASE I, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2298805639,
+            0,
+            "Cafe 100%",
+            "SHOP NO. G27(PORTION A) & THE PORTION AREA NEAR SHOP NO. G27, G/F, METRO CITY PHASE 1, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2298805772,
+            0,
+            "\u96f2\u6842\u9999",
+            "SHOP NOS. G105-106, G/F, METRO CITY, PHASE 1, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2298807024,
+            0,
+            "Yoshinoya",
+            "SHOP 256-258, LEVEL 2, METRO CITY PHASE 1, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-13"
+          ],
+          [
+            3198802197,
+            1,
+            "GRINDIE",
+            "SHOP NOS. G28 & 28A, GROUND FLOOR, METRO CITY PHASE 1, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3198802230,
+            1,
+            "\u897f\u4eba\u8336\u6a94",
+            "SHOP NO. 241, 250 & 251, LEVEL 2, METRO CITY PHASE I, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            3998802548,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP NOS. 205-206, LEVEL 2, METRO CITY PHASE I, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440268
+        ]
+      ],
+      "coordinate": [
+        1.994166578528559,
+        0.38957825203045304,
+        14.950000762939453
+      ],
+      "halfSize": [
+        89.98799999989569,
+        74.63150000013411,
+        8.25
+      ]
+    },
+    {
+      "attributes": [
+        1369440263,
+        2,
+        [
+          [
+            2298001802,
+            0,
+            "McDonald's",
+            "SHOP NO. 126, TSUI LAM SHOPPING CENTRE, TSUI LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2298804344,
+            0,
+            "Terrier Restaurant",
+            "COOKED FOOD STALL NOS.5-8 ON THE GROUND FLOOR OF THE COOKED FOOD STALLS, TSUI LAM ESTATE, NO.11 TSUI LAM ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440269
+        ]
+      ],
+      "coordinate": [
+        1.9940127307374291,
+        0.38958140054800183,
+        75.05000305175781
+      ],
+      "halfSize": [
+        27.65500000026077,
+        26.32400000002235,
+        3.3500022888183594
+      ]
+    },
+    {
+      "attributes": [
+        1369440264,
+        30,
+        [
+          [
+            2298800193,
+            0,
+            "Tai Hing",
+            "SHOP 217A, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2298800777,
+            0,
+            "GRANDMA THAI",
+            "SHOP NO. 238, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2298800847,
+            0,
+            "Riverside Restaurant",
+            "SHOP NO. 235, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2298801026,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. 236, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2298801585,
+            0,
+            "UURO MODERN EUROPEAN",
+            "SHOP NO. 188, 1/F, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2298803484,
+            0,
+            "Gyukaku Japanese Yakiniku Restaurant",
+            "SHOP NO. 183, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2298803493,
+            0,
+            "SAKANAYA",
+            "UNIT TKO-10-002, SHOP NO. 222, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2298803828,
+            0,
+            "ORERYUSHIO",
+            "SHOP NO. 227, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2298803925,
+            0,
+            "GENKI SUSHI",
+            "SHOP NO. 275A, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2298804636,
+            0,
+            "Goodate Shabu Shabu Sutadonya",
+            "SHOP NOS. 196 & 197A, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2298804681,
+            0,
+            "Beans",
+            "SHOP NO. 105, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2298804742,
+            0,
+            "SHANGHAI POPO",
+            "SHOP 195, LEVEL 1, EAST POINT CITY, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-30"
+          ],
+          [
+            2298804876,
+            0,
+            "UMIMACHIDON",
+            "SHOP NO. 186, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2298805064,
+            0,
+            "PIZZA HUT",
+            "SHOP NO. 199A WITH ADJOINING SEATING AREA, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2298805532,
+            0,
+            "KAYA",
+            "SHOP NO. 112A, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2298805648,
+            0,
+            "Heartful Veggie",
+            "SHOP 263C, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            2298805851,
+            0,
+            "\u8fb2\u8015\u8a18   \u6e56\u5357\u571f\u83dc",
+            "SHOP NO. 112, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2298806270,
+            0,
+            "Tendon Tenya",
+            "SHOP NO. 216, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2298806632,
+            0,
+            "Modern Shanghai(East point city)",
+            "SHOP NO. 108, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2298807158,
+            0,
+            "EAT\u71d2\u8089",
+            "SHOP NO. 101, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2298807291,
+            0,
+            "MAN SHAN TAI PEI",
+            "SHOP NOS. 187A AND 187B, LEVEL 1 , EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2298807477,
+            0,
+            "Hama Sushi",
+            "SHOP NOS. 223 & 225, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2298807608,
+            0,
+            "SATAY KING",
+            "SHOP NO. 265, LEVEL 2 , EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3898807427,
+            0,
+            "\u9ce5\u8cb4\u65cf",
+            "SHOP NO. 198A, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-08"
+          ],
+          [
+            3898807472,
+            0,
+            "Shabu Days",
+            "SHOP NO. 160A, LEVEL 1 , EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            3898807524,
+            0,
+            "Sukiya",
+            "SHOP 181, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            3198800906,
+            1,
+            "Starbucks Coffee",
+            "SHOP 106, 1/F, EAST POINT CITY, HANG HAU, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ],
+          [
+            3198801255,
+            1,
+            "HAAGEN DAZS",
+            "SHOP NO. 258D, LEVEL 2, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3198802179,
+            1,
+            "LOTMEE",
+            "SHOP NO. 185, LEVEL 1, EAST POINT CITY, 8 CHUNG WA ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3998802539,
+            1,
+            "Luckin Coffee",
+            "SHOP NO. 180, LEVEL 1, EAST POINT CITY, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440272
+        ]
+      ],
+      "coordinate": [
+        1.994308122459075,
+        0.3894943006309727,
+        13.950000762939453
+      ],
+      "halfSize": [
+        94.62000000011176,
+        88.04474500007927,
+        7.750000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1369440265,
+        2,
+        [
+          [
+            2298801576,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 111, 1/F, THE LANE, HANG HAU, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            3198800599,
+            1,
+            "\u516b\u65b9\u96f2\u96c6\u934b\u8cbc\u6c34\u9903\u5c08\u9580\u5e97",
+            "SHOP UNIT 112, THE LANE, 15 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440273
+        ]
+      ],
+      "coordinate": [
+        1.9942943614251507,
+        0.38948075477139843,
+        18.100000381469727
+      ],
+      "halfSize": [
+        90.79000000003725,
+        84.30579499993473,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        1369440266,
+        2,
+        [
+          [
+            2298800342,
+            0,
+            "\u69ae\u57fa\u9b5a\u86cb\u7c89\u9910\u5ef3",
+            "SHOP 28, G/F, BLOCK 2, ON NING GARDEN, 10 SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2298802861,
+            0,
+            "\u6f6e\u9957",
+            "PORTION A OF SHOP NO. 25, G/F, ON NING GARDEN, 10 SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440275
+        ]
+      ],
+      "coordinate": [
+        1.994264927015096,
+        0.3894805874676493,
+        9.75
+      ],
+      "halfSize": [
+        22.380000000353903,
+        22.51699999999255,
+        2.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1369440267,
+        5,
+        [
+          [
+            2298801211,
+            0,
+            "Cafe' de Coral",
+            "UNIT NO. R2, PODIUM LEVEL ONE, NAN FUNG PLAZA, 8 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ],
+          [
+            2298802357,
+            0,
+            "SUSHI EXPRESS",
+            "SHOP R1A, PODIUM LEVEL 1, NAN FUNG PLAZA, 8 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2298802533,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "COMMERCIAL UNITS A-51 & A-52, G/F, NAN FUNG PLAZA, 8 PUI SHING ROAD, TSEUNG KWAN O , SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2298802904,
+            0,
+            "TAO HEUNG & TAI CHEONG BAKERY",
+            "UNIT R-3, PODIUM LEVEL 1, NAN FUNG PLAZA, 8 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-15"
+          ],
+          [
+            2298804159,
+            0,
+            "Cafe 100%",
+            "SHOP R1B(PORTION A), 1/F, NAN FUNG PLAZA, 8 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440277
+        ]
+      ],
+      "coordinate": [
+        1.9942804828296374,
+        0.3894604878668202,
+        13.350000381469727
+      ],
+      "halfSize": [
+        77.1107600000687,
+        77.94134999997914,
+        8.25
+      ]
+    },
+    {
+      "attributes": [
+        1369440268,
+        3,
+        [
+          [
+            2298000182,
+            0,
+            "\u6771\u5357\u4e9e\u51b0\u5ba4",
+            "SHOP G4-G10, G/F, LA CITE NOBLE SHOPPING ARCADE, 1 NGAN O ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2298805620,
+            0,
+            "JEFF KITCHEN",
+            "SHOP NOS. G01 & G02, G/F, LA CITE NOBLE SHOPPING ARCADE, 1 NGAN O ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            3198802425,
+            1,
+            "\u5357\u5317\u674f",
+            "SHOP G03, G/F, LA CITE NOBLE SHOPPING ARCADE, 1 NGAN O ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440279
+        ]
+      ],
+      "coordinate": [
+        1.9943226868923694,
+        0.3894504896425955,
+        11.25
+      ],
+      "halfSize": [
+        77.09755000006407,
+        87.63239999953657,
+        5.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1369440269,
+        7,
+        [
+          [
+            2298001787,
+            0,
+            "McDonald's",
+            "SHOP NO. 103, G/F., PO LAM SHOPPING CENTRE, PO LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2298803068,
+            0,
+            "CAFE 100%",
+            "SHOP 123 & 124, G/F, BLOCK 6, PO KAN HOUSE, PO LAM ESTATE, 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            2298803457,
+            0,
+            "\u8377\u862d\u51b0\u5ba4",
+            "SHOP NO. 1A, 3/F, PO LAM SHOPPING CENTRE, PO LAM ESTATE, 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2298803800,
+            0,
+            "TAO YUEN RESTAURANT",
+            "SHOP NO. 304, 3/F, PO LAM SHOPPING CENTRE, PO LAM ESTATE, NO. 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2298803855,
+            0,
+            "TEA POT",
+            "SHOP 1C, 3/F, PO LAM SHOPPING CENTRE, PO LAM ESTATE, 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2298804937,
+            0,
+            "\u6f6e\u98df\u574a",
+            "STALL T-PL 13, PO LAM MARKET, G/F, PO LAM SHOPPING CENTRE, PO LAM ESTATE, 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2298806748,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 207, 2/F, PO LAM SHOPPING CENTRE, PO LAM ESTATE, NO. 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440290
+        ]
+      ],
+      "coordinate": [
+        1.9941433082145217,
+        0.3896484000437891,
+        15.600000381469727
+      ],
+      "halfSize": [
+        43.50950000016019,
+        24.647975000552833,
+        6.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1369440270,
+        1,
+        [
+          [
+            2298800944,
+            0,
+            "PIZZA HUT",
+            "SHOP 121 & 122, GROUND FLOOR, PO KAN HOUSE, PO LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440300
+        ]
+      ],
+      "coordinate": [
+        1.994143161254391,
+        0.38964378901685587,
+        38.79999923706055
+      ],
+      "halfSize": [
+        72.18100000033155,
+        22.379499999806285,
+        29.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1369440271,
+        5,
+        [
+          [
+            2298001644,
+            0,
+            "\u7fe0\u6e90\u661f\u5c0f\u5eda",
+            "SHOP NOS. 1-4, 5/F, TSUI LAM SHOPPING CENTRE, TSUI LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2298804964,
+            0,
+            "CAFE 100%",
+            "SHOP 128, 130A & 131A, 5/F, TSUI LAM SQUARE, TSUI LAM ESTATE, 11 TSUI LAM ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2298805037,
+            0,
+            "\u7c73\u7c7d",
+            "SHOP 129, 130B, 131B, 5/F, TSUI LAM SQUARE, TSUI LAM ESTATE, 11 TSUI LAM ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ],
+          [
+            3898807384,
+            0,
+            "HEI YUE HIN",
+            "PORTION OF SHOP 201, 2/F, TSUI LAM SQUARE, TSUI LAM ESTATE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3198801088,
+            1,
+            "\u7fe0\u6797\u9928",
+            "SHOP NO. 106, 5/F, TSUI LAM SHOPPING CENTRE, TSUI LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440369
+        ]
+      ],
+      "coordinate": [
+        1.994020411463143,
+        0.3896046921335955,
+        66.0
+      ],
+      "halfSize": [
+        61.437999999616295,
+        75.8695000000298,
+        14.0
+      ]
+    },
+    {
+      "attributes": [
+        1369440272,
+        1,
+        [
+          [
+            3198802151,
+            1,
+            "SUN SUN NOODLES",
+            "STALL NO. 04, GROUND FLOOR, IN THE MARKET PLACE OF COMMERCIAL /CAR PARK BLOCK (ALSO KNOWN AS KING LAM SHOPPING CENTRE), KING LAM ESTATE, NO. 38 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440505
+        ]
+      ],
+      "coordinate": [
+        1.9942398942964725,
+        0.389572737545758,
+        14.550000190734863
+      ],
+      "halfSize": [
+        44.5833299998194,
+        43.31950000021607,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1369440273,
+        4,
+        [
+          [
+            2298800810,
+            0,
+            "Milk Cafe & Chicken Factory",
+            "SHOP 7, G/F, KING LAM SHOPPING CENTRE, KING LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2298801363,
+            0,
+            "Caf\u00e9 de Coral",
+            "SHOP NO. 3B, G/F, KING LAM SHOPPING CENTRE, 38 PO LAM ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2298806483,
+            0,
+            "\u529f\u592b\u9ede\u5fc3",
+            "SHOP 13, G/F, KING LAM SHOPPING CENTRE, KING LAM ESTATE, 38 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-29"
+          ],
+          [
+            2298807644,
+            0,
+            "\u8377\u91cc\u6d3b",
+            "STALL NOS. T-KL11-19, T-KL38 & T-KL45, G/F, KING LAM SHOPPING CENTRE, KING LAM ESTATE, 38 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440518
+        ]
+      ],
+      "coordinate": [
+        1.9942334721475417,
+        0.3895698542443183,
+        11.75
+      ],
+      "halfSize": [
+        29.665684999898076,
+        35.13227500021458,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1369440274,
+        1,
+        [
+          [
+            3198801538,
+            1,
+            "\u7099\u71d2",
+            "SHOP 110, 1/F, HONG SING GARDEN SHOPPING CENTRE, 1 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440575
+        ]
+      ],
+      "coordinate": [
+        1.9940901217441942,
+        0.3895531996951172,
+        85.75
+      ],
+      "halfSize": [
+        60.12900000018999,
+        20.344499999657273,
+        3.6500015258789062
+      ]
+    },
+    {
+      "attributes": [
+        1369440275,
+        18,
+        [
+          [
+            2298800999,
+            0,
+            "MoMoKu R.U.D",
+            "SHOP G1-2, G/F, WEST WING, HAU TAK SHOPPING CENTRE, HAU TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2298802940,
+            0,
+            "McDonald's Restaurant",
+            "SHOP W102, 1/F , WEST WING OF TKO GATEWAY, 2 SHEUNG NING ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2298802995,
+            0,
+            "MX",
+            "SHOP W103, 1/F, WEST WING, HAU TAK SHOPPING CENTRE, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2298803013,
+            0,
+            "Yoshinoya",
+            "SHOP NO. W104, 1/F, TKO GATEWAY, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2298803235,
+            0,
+            "KFC",
+            "SHOP E165A, 1/F, EAST WING, TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2298803369,
+            0,
+            "Tsui Wah Restaurant",
+            "SHOP NO. E164, 1/F, EAST WING, TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD , TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2298803448,
+            0,
+            "& YOU",
+            "SHOP E151, 1/F, EAST WING, TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2298803989,
+            0,
+            "\u4e0a\u5143\u51b0\u5ba4",
+            "SHOP NO. EF06, G/F, EAST WING OF TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2298805134,
+            0,
+            "Mr. Cha Fan",
+            "SHOP NO. E139, 1/F, EAST WING, TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-07"
+          ],
+          [
+            2298805824,
+            0,
+            "COFFEE BREAK",
+            "SHOP E169-E170 AND E169A, 1/F, EAST WING OF TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2298806155,
+            0,
+            "\u58fd\u53f8\u90ce\u5751\u53e3\u5e97",
+            "SHOP NO. W101A, 1/F, WEST WING OF TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2298806304,
+            0,
+            "MEI HO DIM SUM RESTAURANT",
+            "SHOP NO. W114, FIRST FLOOR, WEST WING OF TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2298806845,
+            0,
+            "\u5143\u6717\u51b0\u5ba4",
+            "SHOP NOS. W015 AND W016, G/F, WEST WING OF TKO GATEWAY, HAU TAK ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            2298806979,
+            0,
+            "\u5c0f\u934b\u96de\u6d77\u5357\u96de",
+            "SHOP NOS. E167 AND E168 AND PORTION OF SHOP FRONT CORRIDOR, 1/F., EAST WING OF TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2298807343,
+            0,
+            "\u5927\u5e2b\u5085\u7ca5\u54c1",
+            "SHOP W008, G/F., WEST WING OF TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-03-03"
+          ],
+          [
+            3898807490,
+            0,
+            "\u4e09\u5169\u7c89 - \u5c07\u8ecd\u6fb3\u5e97",
+            "SHOP NOS.E140 & E141, 1/F., EAST WING OF TKO GATEWAY, HAU TAK ESTATE, SHEUNG NING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            3198801352,
+            1,
+            "SUN LOK YUEN FISHBALL NOODLE",
+            "SHOP NO. EF08, G/F, EAST WING OF TKO GATEWAY, (FORMING PART OF COMMERCIAL/ CAR PARK BLOCKS), HAU TAK ESTATE, 2 SHEUNG NING ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            3198802221,
+            1,
+            "\u5c0f\u65b9\u7cd6\u751c\u54c1",
+            "SHOP NO. W003-W004, G/F, WEST WING OF TKO GATEWAY, HAU TAK ESTATE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440651
+        ]
+      ],
+      "coordinate": [
+        1.9943233028498137,
+        0.38950937062182966,
+        16.149999618530273
+      ],
+      "halfSize": [
+        77.60962999984622,
+        53.52999499998987,
+        9.75
+      ]
+    },
+    {
+      "attributes": [
+        1369440276,
+        4,
+        [
+          [
+            2298800500,
+            0,
+            "Taste Full Kitchen",
+            "SHOP NO. 10, G/F, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2298801318,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 9 ON GROUND FLOOR, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2298802515,
+            0,
+            "\u725b\u5976\u51b0\u5ba4",
+            "SHOP NO. G1, G/F, MARITIME BAY SHOPPING CENTRE, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3198800553,
+            1,
+            "HANOLULU CAF\u00c9",
+            "SHOP 3, 4 & 5 (MINOR PORTION), G/F., MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440846
+        ]
+      ],
+      "coordinate": [
+        1.9943063885619428,
+        0.3894633183469891,
+        81.9000015258789
+      ],
+      "halfSize": [
+        15.10113999992609,
+        16.40213999990374,
+        65.0999984741211
+      ]
+    }
+  ]
+}

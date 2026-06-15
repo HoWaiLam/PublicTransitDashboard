@@ -1,0 +1,106 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1184890880,
+        1,
+        [
+          [
+            3195801458,
+            1,
+            "\u61ff\u5496\u5561",
+            "G/F, 2B CHEUNG SHUE TAN VILLAGE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1184891371
+        ]
+      ],
+      "coordinate": [
+        1.9931912130802218,
+        0.3914169683166202,
+        13.100000381469727
+      ],
+      "halfSize": [
+        3.7939999997615814,
+        4.754499999806285,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1184890881,
+        6,
+        [
+          [
+            2295804024,
+            0,
+            "\u5076\u9047\u53f0\u5317",
+            "SHOP NO. 24, GROUND FLOOR, SILICON LANE, 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2295804103,
+            0,
+            "Milk Cafe",
+            "SHOP NO. 3, G/F, SILICON LANE, 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2295804334,
+            0,
+            "CHILL DIM SUM",
+            "SHOP NO.04 & MINOR PORTION OF SHOP NO.05, G/F, SILICON LANE, NO. 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            3195801704,
+            1,
+            "BREAD SECRET",
+            "SHOP NO. 6, G/F, SILICON LANE, 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3195801777,
+            1,
+            "\u904e\u65e5\u8fb0",
+            "SHOP NO. 13, G/F, SILICON LANE, 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            3195801810,
+            1,
+            "Dim Siu Yee",
+            "SHOP NO. 7, G/F, SILICON LANE, 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1184891508
+        ]
+      ],
+      "coordinate": [
+        1.9932024909036181,
+        0.391431286203874,
+        11.0
+      ],
+      "halfSize": [
+        58.27406295767287,
+        68.89883280632785,
+        3.6999998092651367
+      ]
+    }
+  ]
+}

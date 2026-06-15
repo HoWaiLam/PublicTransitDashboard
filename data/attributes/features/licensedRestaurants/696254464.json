@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        696254464,
+        1,
+        [
+          [
+            2292800261,
+            0,
+            "Starliner Diner",
+            "TL-302 (PORTION), TOMORROWLAND, HONG KONG DISNEYLAND RESORT, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          696254485
+        ]
+      ],
+      "coordinate": [
+        1.990438914901077,
+        0.38934561607374657,
+        18.700000762939453
+      ],
+      "halfSize": [
+        141.73062000004575,
+        75.84351500030607,
+        11.800000190734863
+      ]
+    }
+  ]
+}

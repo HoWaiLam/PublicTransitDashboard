@@ -1,0 +1,1609 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1298137088,
+        3,
+        [
+          [
+            2551147869,
+            3,
+            "\u767e\u5b9c",
+            "FLAT J, 14/F, AGINCOURT IND. BUILDING, 428 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2951816268,
+            4,
+            "WokPaPa",
+            "PORTION A OF FLAT E, 11/F, WING SHAN INDUSTRIAL BUILDING, NO. 428 CHA KWO LING ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-01-30"
+          ],
+          [
+            2951819869,
+            4,
+            "Real Wellness HealthTech Co., Limited",
+            "PORTION A OF ROOM K, 7/F., WING SHAN INDUSTRIAL BUILDING, NO. 428 CHA KWO LING ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-01-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137182
+        ]
+      ],
+      "coordinate": [
+        1.9937240144189834,
+        0.3891831373222538,
+        27.399999618530273
+      ],
+      "halfSize": [
+        34.852524999994785,
+        41.82122000027448,
+        23.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1298137089,
+        1,
+        [
+          [
+            2951804030,
+            4,
+            "Noble Gainer Limited",
+            "PORTION OF G/F & PORTION OF 1/F, 422 CHA KWO LING ROAD, YAU TONG BAY, KOWLOON",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137199
+        ]
+      ],
+      "coordinate": [
+        1.99370786159902,
+        0.3891784599905291,
+        12.350000381469727
+      ],
+      "halfSize": [
+        19.53880500001833,
+        14.005119999870658,
+        8.25
+      ]
+    },
+    {
+      "attributes": [
+        1298137090,
+        2,
+        [
+          [
+            2951818778,
+            4,
+            "GIFTS OF HONG KONG LIMITED",
+            "PORTION A OF UNIT 3, 10/F, BLOCK B, KO FAI INDUSTRIAL BUILDING, 7 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-03-18"
+          ],
+          [
+            2951819762,
+            4,
+            "Din Tai Fung",
+            "ROOM C6, 8/F, BLOCK C, KO FAI INDUSTRIAL BUILDING, 7 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137249
+        ]
+      ],
+      "coordinate": [
+        1.993809414926755,
+        0.3891391054196449,
+        33.599998474121094
+      ],
+      "halfSize": [
+        55.78594500012696,
+        46.71078500058502,
+        13.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1298137091,
+        1,
+        [
+          [
+            2951808476,
+            4,
+            "MED OVEN",
+            "UNIT NO. 9 ON 6/F, SUNRAY INDUSTRIAL CENTRE, NO. 610 CHA KWO LING ROAD, KOWLOON",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137256
+        ]
+      ],
+      "coordinate": [
+        1.9938243932739432,
+        0.38913427352152397,
+        39.400001525878906
+      ],
+      "halfSize": [
+        27.994845000095665,
+        26.864659999497235,
+        10.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1298137092,
+        25,
+        [
+          [
+            2951158609,
+            4,
+            "\u69ae\u9226\u884c",
+            "20-21, 8/F, A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2951169959,
+            4,
+            "\u611b\u7fa4",
+            "WORKSHOP 25, 7/F, BLOCK A, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2951176331,
+            4,
+            "\u947d\u77f3\u7c89\u9eb5\u5ee0",
+            "ROOM 21, 10/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2951242539,
+            4,
+            "\u69ae\u5fe0\u71d2\u81d8\u6709\u9650\u516c\u53f8",
+            "FLAT 14, 9/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2951249549,
+            4,
+            "\u76c8\u51a0",
+            "SHOP 13 (PORTION A), 9/F, BLOCK A-2, YAU TONG INDUSTRIAL CITY, NO. 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2951282603,
+            4,
+            "\u4e5d\u4efd\u98fd\u98df\u7269\u5de5\u5834",
+            "UNIT 11, 5/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2951801031,
+            4,
+            "No Record",
+            "SHOP 21, 6/F, BLOCK A1, YAU TONG INDUSTRIAL BUILDING, NO. 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2951801341,
+            4,
+            "Top Surplus Food Manufacturing Company",
+            "SHOP 13 (PORTION B), 9/F, BLOCK A2, YAU TONG IND CITY, NO. 17 KO FAI ROAD, KOWLOON",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2951803426,
+            4,
+            "LKK  NORTH POINT EGG BALL LIMITED",
+            "ROOM 16, 11/F., BLOCK B, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2951806249,
+            4,
+            "Fortune Seafoods",
+            "WORKSHOP 8, 12/F, BLOCK B2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-03-24"
+          ],
+          [
+            2951806975,
+            4,
+            "WING TAI HONG",
+            "FLAT 22, 8/F, A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2951807437,
+            4,
+            "WING TAI HONG",
+            "FLAT 5, 8/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2951807589,
+            4,
+            "Ying Kit Enterprises (China) Limited",
+            "ROOM 20, 6/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2951812725,
+            4,
+            "(NO RECORD FOUND)",
+            "UNIT 20, 12/F, BLOCK A, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2951813418,
+            4,
+            "LEI YUE MUN SHIU HEUNG YUEN FOOD FACTORY",
+            "UNIT 1007, 10/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2951813463,
+            4,
+            "(NO RECORD FOUND)",
+            "WORKSHOP NO. 22 10/F BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2951813791,
+            4,
+            "Red Cherry",
+            "UNIT 21, 11/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2951813816,
+            4,
+            "DAPMO",
+            "UNIT 12, 10/F, BLOCK B2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2951814138,
+            4,
+            "JUN STYLE WORKSHOP",
+            "WORKSHOP A3, 6/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2951817164,
+            4,
+            "Ying Kit Enterprises (China) Limited",
+            "FLAT 4, 6/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, NO. 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2951817304,
+            4,
+            "YING KIT ENTERPRISES (CHINA) LIMITED",
+            "FLAT 25, 6/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-29"
+          ],
+          [
+            2951817429,
+            4,
+            "\u4e94\u9905\u4e8c\u9b5a\u7f8e\u98df\u6599\u7406",
+            "ROOM 19, 11/F, BLOCK B, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2951817766,
+            4,
+            "Wing Chung Roasted Meat Co., Limited",
+            "PORTIONS OF UNIT NOS. 10-12, 9/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, NO. 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-03-26"
+          ],
+          [
+            2951818963,
+            4,
+            "RED CHERRY",
+            "UNIT 22, 11/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-19"
+          ],
+          [
+            4951821554,
+            4,
+            "(NO RECORD FOUND)",
+            "WORKSHOP 03 (PORTION) & WORKSHOP 04, 10/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137266
+        ]
+      ],
+      "coordinate": [
+        1.9937766206556442,
+        0.38912627859898163,
+        34.75
+      ],
+      "halfSize": [
+        62.14919500006363,
+        39.676180000416934,
+        16.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1298137093,
+        1,
+        [
+          [
+            2951801129,
+            4,
+            "PIZZA HUT",
+            "SHOP G13, G/F, KA FAT ARCADE, YAU TONG CENTRE, 3-7 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137278
+        ]
+      ],
+      "coordinate": [
+        1.9938351147237787,
+        0.3891164281352843,
+        41.75
+      ],
+      "halfSize": [
+        15.987015000078827,
+        11.540259999223053,
+        9.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1298137094,
+        1,
+        [
+          [
+            2951819629,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP D, SAM KA TSUEN FERRY PIER, SHUNG SHUN STREET, YAU TONG, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137410
+        ]
+      ],
+      "coordinate": [
+        1.9938024973752089,
+        0.3890477025461412,
+        5.75
+      ],
+      "halfSize": [
+        20.097190000116825,
+        20.23786500003189,
+        2.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1298137095,
+        1,
+        [
+          [
+            2151800340,
+            1,
+            "\u9f8d\u9580\u9905\u5e97",
+            "PORTION OF NO.24D LEI YUE MUN PRAYA ROAD, LEI YUE MUN, KOWLOON",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137434
+        ]
+      ],
+      "coordinate": [
+        1.9938383663800456,
+        0.38904512849489425,
+        6.5
+      ],
+      "halfSize": [
+        7.736365000251681,
+        6.32928999979049,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1298137096,
+        39,
+        [
+          [
+            2151281471,
+            1,
+            "\u86cb\u64bb\u738b",
+            "SHOP 2, G/F, LEI YUE MUN PLAZA, YAU TONG, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2951802007,
+            4,
+            "\u5510\u8a18\u5305\u9ede",
+            "SHOP 38C, TAI PING MARKET, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
+            2951804395,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "STALL NO.65, G/F, MARKET, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2027-03-03"
+          ],
+          [
+            2951806294,
+            4,
+            "Toyo taste",
+            "SHOP 2A, G/F, TAI PING MARKET, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2951808689,
+            4,
+            "\u6797\u8a18\u9e75\u6c34",
+            "STALL NO. 21, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-10-05"
+          ],
+          [
+            2951808935,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP NO. 133, LEVEL 1, COMMERCIAL ACCOMMODATION (ALSO KNOWN AS LEI YUE MUN PLAZA), YAU MEI COURT, NO. 80 LEI YUE MUN ROAD, KOWLOON",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2951808971,
+            4,
+            "\u4e30\u7ca5",
+            "STALL NO. 39, G/F, YAU TONG MARKET, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2951809381,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. 134, 1/F., LEI YUE MUN PLAZA, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2951810437,
+            4,
+            "TIN TIN VEGETARIAN FOOD",
+            "SHOP NO. 116, 1/F, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2027-03-28"
+          ],
+          [
+            2951812141,
+            4,
+            "\u69ae\u8a18\u8c46\u8150",
+            "STALL NO. 22-23, G/F, MARKET, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2951812868,
+            4,
+            "\u5feb\u6a02\u8543\u85af",
+            "SHOP NO. 127, LEVEL 1 , LEI YUE MUN PLAZA, YAU MEI COURT, NO. 80 LEI YUE MUN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-01"
+          ],
+          [
+            2951816727,
+            4,
+            "\u8299\u84c9\u5fb7\u624b\u6495\u96de",
+            "STALL NO. 66, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2951816790,
+            4,
+            "Wellcome",
+            "SHOP NO. 123-124 (PORTION N), LEVEL 1, LEI YUE MUN PLAZA, LEI YUE MUN ESTATE, YAU TONG, KOWLOON",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2951817173,
+            4,
+            "\u5ee3\u9686\u5c0f\u98df",
+            "STALL NO. 37, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2951817395,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "STALL 76, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2951818088,
+            4,
+            "\u6c34\u9580\u6cf0\u5f0f\u6d77\u5357\u96de\u98ef\u5c08\u9580\u5e97",
+            "SHOP NO. 129, 1/F, LEI YUE MUN PLAZA, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2951819391,
+            4,
+            "KUNG FU TEA",
+            "SHOP NO. 132B, LEVEL 1, COMMERCIAL ACCOMMODATION (ALSO KNOWN AS LEI YUE MUN PLAZA), YAU MEI COURT, NO. 80 LEI YUE MUN ROAD, KOWLOON",
+            null,
+            "2026-09-18"
+          ],
+          [
+            4951821350,
+            4,
+            "\u5927\u6c60\u8a18",
+            "SHOP 7, G/F., COMMERCIAL ACCOMMODATION (ALSO KNOWN AS LEI YUE MUN PLAZA), YAU MEI COURT, NO. 80 LEI YUE MUN ROAD, KOWLOON",
+            null,
+            "2026-03-01"
+          ],
+          [
+            4951821660,
+            4,
+            "10\u868a\u7cd6\u6c34\u8216",
+            "STALL 72, G/F., LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-24"
+          ],
+          [
+            4951821730,
+            4,
+            "\u694a\u8a18",
+            "STALL 46, G/F., LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-01"
+          ],
+          [
+            4951821916,
+            4,
+            "\u597d\u842c\u5bb6\u70d8\u7119",
+            "STALL 70-71, G/F., LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-18"
+          ],
+          [
+            4951821989,
+            4,
+            "(NO RECORD FOUND)",
+            "STALL NO. 66, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-11"
+          ],
+          [
+            3651304068,
+            5,
+            "\u5609\u5fb7\u8c50\u51cd\u8089\u98df\u54c1\u8d85\u7d1a\u5e02\u5834",
+            "STALL 27-30, G/F, TAI PING MARKET, LEI YUE MUN PLAZA, YAU TONG ESTATE, YAU TONG, KOWLOON",
+            null,
+            "2026-04-10"
+          ],
+          [
+            3651800849,
+            5,
+            "\u5ee3\u6771\u8089\u98df",
+            "STALL NO.59, G/F., MARKET, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3651800858,
+            5,
+            "\u91d1\u9f8d\u83ef\u725b\u8089",
+            "STALL NO.61, G/F, MARKET, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-10-03"
+          ],
+          [
+            3651801213,
+            5,
+            "WELLCOME",
+            "SHOP NO. 123-124 (PORTION D), LEVEL 1, LEI YUE MUN PLAZA, LEI YUE MUN ESTATE, YAU TONG, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3651802270,
+            5,
+            "(NO RECORD FOUND)",
+            "STALL NOS. 129 & 130, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-11-22"
+          ],
+          [
+            3651804072,
+            5,
+            "\u5bcc\u8c6a\u51b0\u9bae",
+            "STALL NO. 60, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-03"
+          ],
+          [
+            3651804081,
+            5,
+            "\u51b0\u9bae\u5bb6\u79bd",
+            "STALL NO. 77, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-03"
+          ],
+          [
+            3651804090,
+            5,
+            "\u5be6\u60e0\u8c6c\u8089",
+            "STALL NO. 62, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-05"
+          ],
+          [
+            3651804106,
+            5,
+            "\u6cb9\u5858\u9bae\u9b5a",
+            "STALL NO. 56, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-05"
+          ],
+          [
+            3651804115,
+            5,
+            "\u4fca\u5091\u9bae\u9b5a",
+            "STALL NOS. 91 & 92, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-05"
+          ],
+          [
+            3651804142,
+            5,
+            "\u8208\u8a18\u6d77\u9bae",
+            "STALL NOS. 97 & 104, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3651804160,
+            5,
+            "\u559c\u8a18\u6d77\u9bae",
+            "STALL NOS. 87-88 & 93-94, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-18"
+          ],
+          [
+            3651804230,
+            5,
+            "\u5049\u8a18\u51b0\u9bae",
+            "MARKET STALL NOS.89-90 ON GROUND FLOOR, LEI YUE MUN PLAZA , YAU MEI COURT, NO. 80 LEI YUE MUN ROAD, KOWLOON",
+            null,
+            "2026-08-10"
+          ],
+          [
+            4651803740,
+            5,
+            "FISH CAMP",
+            "STALL 112, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3251800261,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 212A, 2/F., LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-12-13"
+          ],
+          [
+            3551800291,
+            8,
+            "WELLCOME",
+            "SHOP NO.123-124 (PORTION H), LEVEL 1, LEI YUE MUN PLAZA, LEI YUE MUN ESTATE, YAU TONG, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3551800811,
+            8,
+            "\u767e\u5fb7\u71d2\u9d5d\u7687",
+            "STALL NOS. 73 & 74, G/F, LEI YUE MUN PLAZA MARKET, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137776
+        ]
+      ],
+      "coordinate": [
+        1.9938497592545394,
+        0.3891585842474163,
+        37.599998474121094
+      ],
+      "halfSize": [
+        70.91046500019729,
+        189.63750000018626,
+        12.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1298137097,
+        4,
+        [
+          [
+            2951807950,
+            4,
+            "B & S FOOD SUPPLY",
+            "UNIT B3, 5/F, BLOCK B, KO FAI INDUSTRIAL BUILDING, 7 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2951812673,
+            4,
+            "Springfield Botanic Limited",
+            "PORTION OF UNIT NO. 2, 1ST FLOOR, BLOCK A, KO FAI INDUSTRIAL BUILDING, NO. 7 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-01-13"
+          ],
+          [
+            2951817243,
+            4,
+            "NEW KONDO TRADING COMPANY LIMITED",
+            "UNIT 4, 11/F, BLOCK B, KO FAI INDUSTRIAL BUILDING, 7 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2951819531,
+            4,
+            "TEHMAG FOODS (H.K.) COMPANY LIMITED",
+            "PORTION A, 2/F, BLOCK C, KO FAI INDUSTRIAL BUILDING, 7 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-10-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137780
+        ]
+      ],
+      "coordinate": [
+        1.993809177640768,
+        0.3891395308743402,
+        12.199999809265137
+      ],
+      "halfSize": [
+        57.18978499993682,
+        49.3988499995321,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1298137098,
+        2,
+        [
+          [
+            2551021763,
+            3,
+            "\u65b0\u5229\u8336\u8a18",
+            "FLAT B, G/F, SUNRAY INDUSTRIAL CENTRE, 610 CHA KWO LING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2951819683,
+            4,
+            "\u5442\u9326\u8a18\u6709\u9650\u516c\u53f8",
+            "PORTION B1 OF UNIT 201, 2/F, SUNRAY INDUSTRIAL CENTRE, 610 CHA KWO LING ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137781
+        ]
+      ],
+      "coordinate": [
+        1.9938247879495756,
+        0.3891344253559292,
+        20.649999618530273
+      ],
+      "halfSize": [
+        30.26950000040233,
+        27.55449999962002,
+        7.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1298137099,
+        13,
+        [
+          [
+            2951187238,
+            4,
+            "TRIPLE BRILLIANT",
+            "FLAT B, G/F, WAH FAI IND. BLDG, 4 SZE SHAN ST, YAU TONG, KOWLOON",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2951811449,
+            4,
+            "Heroes Beer Company Limited",
+            "PORTION OF FLAT C, 3/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2951818398,
+            4,
+            "LAMS FOOD INTERNATIONAL LIMITED",
+            "PORTION 8 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2951818529,
+            4,
+            "DASH OPERATING COMPANY LIMITED",
+            "PORTION 10 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2951818538,
+            4,
+            "Bon Appetit Bakery Limited",
+            "PORTION 3 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-11-27"
+          ],
+          [
+            2951818671,
+            4,
+            "KITCHEN CLOUD",
+            "PORTION 1 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2951818680,
+            4,
+            "\u6bcf\u4e00\u5929\u751f\u6d3b\u6709\u9650\u516c\u53f8",
+            "PORTION 2 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2951818723,
+            4,
+            "i'MMUNE",
+            "PORTION 6 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2951818866,
+            4,
+            "Paa Paa Palmier",
+            "PORTION 9 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-04-13"
+          ],
+          [
+            2951819027,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION 5 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2951819133,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION 11 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2951819230,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION 7 OF FLAT F, 5/F, WAH FAI INDUSTRIAL BUILDING, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-06-26"
+          ],
+          [
+            3651223785,
+            5,
+            "SEA CASTLE COMPANY",
+            "FLAT E & F, 3/F, WAH FAI INDUSTRIAL BLDG, 4 SZE SHAN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137782
+        ]
+      ],
+      "coordinate": [
+        1.9938140222072045,
+        0.38913015109999305,
+        26.900001525878906
+      ],
+      "halfSize": [
+        28.338999999687076,
+        29.998999999836087,
+        9.000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1298137100,
+        14,
+        [
+          [
+            2551162981,
+            3,
+            "\u661f\u904b\u9910\u5ef3",
+            "UNIT 6, G/F., BLOCK A II, YAU TONG IND. CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2551801143,
+            3,
+            "Block 22",
+            "WORKSHOP NO. 7, G/F, BLOCK A, YAU TONG INDUSTRIAL CITY, NO. 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2951252460,
+            4,
+            "Shiu Heung Yuen Bakery",
+            "ROOM 1008, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2951261796,
+            4,
+            "\u806f\u660c\u98df\u54c1\u516c\u53f8",
+            "FT/RM 13, 3/F, BLOCK B2, YAU TONG IND CITY, 17 KO FAI RD, KOWLOON",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2951266579,
+            4,
+            "Munch International Limited",
+            "WORKSHOP NO A16, 1/F, BLOCK A1, YAU TONG INDUSTRIAL CITY, 17 KO FAI RD, YAU TONG, KOWLOON",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2951802830,
+            4,
+            "No Record",
+            "WORKSHOP NO. A15, 1/F., BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2951807978,
+            4,
+            "FOOD FOR GOOD YAU TONG COMMUNITY KITCHEN",
+            "WORKSHOP 13 (PORTION) & 14 (PORTION), 4/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2951808272,
+            4,
+            "\u677e\u672c\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "WORKSHOP NOS. A1-A4, 2/F, BLOCK A, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-04-12"
+          ],
+          [
+            2951809576,
+            4,
+            "\u5473\u9999\u98df\u54c1",
+            "WORKSHOP NOS. A13 AND A14, 3/F, BLOCK A, YAU TONG INDUSTRIAL CITY, NO. 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2951813092,
+            4,
+            "C DESSERT LIMITED",
+            "WORKSHOP NO. A19, 3/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2951813171,
+            4,
+            "Slopping Food Production Limited",
+            "WORKSHOP NOS. A7-A8, 3/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2951814192,
+            4,
+            "(NO RECORD FOUND)",
+            "PORTION OF UNIT 11, 4/F, BLOCK A, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2951817234,
+            4,
+            "\u5718\u5713\u76c6\u83dc",
+            "PORTION OF UNIT 7, 1/F, BLOCK B2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-16"
+          ],
+          [
+            2951819054,
+            4,
+            "\u5821\u579a",
+            "FLAT 17-18, 2/F, BLOCK A2, YAU TONG INDUSTRIAL CITY, 17 KO FAI ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137783
+        ]
+      ],
+      "coordinate": [
+        1.9937759216527748,
+        0.38912586987621317,
+        11.100000381469727
+      ],
+      "halfSize": [
+        62.84912500018254,
+        43.80659500043839,
+        7.0
+      ]
+    },
+    {
+      "attributes": [
+        1298137101,
+        10,
+        [
+          [
+            2951801800,
+            4,
+            "\u71d5\u8a18\u5c0f\u98df",
+            "SHOP G16, G/F., KA WAH SHOPPING ARCADE, YAU TONG CENTRE, 2-4 KA WING ST., YAU TONG, KOWLOON",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2951809220,
+            4,
+            "\u5eda\u70e4\u5de5\u574a",
+            "SHOP B176, LOWER G/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-03-27"
+          ],
+          [
+            2951816684,
+            4,
+            "BUBU\u71d2\u9ebb\u8fa3\u71d9",
+            "SHOP B173, LOWER G/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-04-03"
+          ],
+          [
+            4951821536,
+            4,
+            "\u5f69\u8679\u6a4b\u7f8e\u98df",
+            "SHOP NO. B122, LG1/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-04-09"
+          ],
+          [
+            4951821873,
+            4,
+            "Nice Dessert",
+            "SHOP B161, LOWER G/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3651801602,
+            5,
+            "\u9d3b\u5229\u8089\u98df\u516c\u53f8",
+            "SHOP 31B _ 19, G/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-11-19"
+          ],
+          [
+            3651803255,
+            5,
+            "\u6c38\u660c\u8089\u98df\u516c\u53f8",
+            "SHOP G02, G/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3651804188,
+            5,
+            "YING FU FOOD STORE",
+            "PORTION OF (SHOP G1 & G3), G/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-05-28"
+          ],
+          [
+            3651804294,
+            5,
+            "\u5fd7\u8aa0\u9bae\u9b5a",
+            "STALL NO. KW9, SHOP G31B, G/F, KA WAH ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-02-13"
+          ],
+          [
+            3551800495,
+            8,
+            "\u9678\u8a18\u71d2\u81d8",
+            "STALL NO. 21 IN SHOP NO. B201 ON LG2/F OF KA WAH ARCADE (BLOCK T2 & T3), YAU TONG CENTRE, NOS. 2-4 KA WING STREET, KOWLOON",
+            null,
+            "2026-08-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137787
+        ]
+      ],
+      "coordinate": [
+        1.993845279905655,
+        0.389124228547988,
+        24.600000381469727
+      ],
+      "halfSize": [
+        34.34749999968335,
+        18.496499999426305,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1298137102,
+        2,
+        [
+          [
+            2951810048,
+            4,
+            "CHAMP LEADER INTERNATIONAL LIMITED",
+            "MINOR PORTION OF FLAT R, 5/F., WAH SHUN INDUSTRIAL BUILDING, 4 CHO YUEN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-11-20"
+          ],
+          [
+            3251800100,
+            6,
+            "I-SCREAM LTD.",
+            "UNIT A, 3/F., WAH SHUN INDUSTRIAL BUILDING, NO. 4 CHO YUEN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137795
+        ]
+      ],
+      "coordinate": [
+        1.9938017651671136,
+        0.3891071332984064,
+        27.600000381469727
+      ],
+      "halfSize": [
+        39.299999999813735,
+        38.96499999985099,
+        8.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1298137103,
+        2,
+        [
+          [
+            2951804377,
+            4,
+            "LUNCH EON STAR",
+            "ROOM B, 6/F, BLOCK 1, YAU TONG INDUSTRIAL BUILDING, 2 SHUNG SHUN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2951806106,
+            4,
+            "Supreme Catering",
+            "FACTORY UNIT A (MAJOR PORTION), 3/F, BLOCK 1, YAU TONG INDUSTRIAL BUILDING, 2 SHUNG SHUN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137798
+        ]
+      ],
+      "coordinate": [
+        1.993828997175288,
+        0.38908883763707736,
+        13.050000190734863
+      ],
+      "halfSize": [
+        28.03500000014901,
+        31.415000000037253,
+        9.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1298137104,
+        2,
+        [
+          [
+            2951812132,
+            4,
+            "CM BAKERY PRODUCTION LIMITED",
+            "WORKSHOP A, 4/F., 24-26 SZE SHAN STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2951819382,
+            4,
+            "CM BAKERY PRODUCTION LIMITED",
+            "WORKSHOP A, 2/F, 24-26 SZE SHAN STREET, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137800
+        ]
+      ],
+      "coordinate": [
+        1.9938065817260318,
+        0.3890792171284103,
+        11.100000381469727
+      ],
+      "halfSize": [
+        30.667475000023842,
+        32.717470000498,
+        6.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1298137105,
+        2,
+        [
+          [
+            2951803091,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP 10, GROUND FLOOR, YAU LAI SHOPPING CENTRE, YAU TONG, KOWLOON",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3651801082,
+            5,
+            "PARK'N SHOP",
+            "PORTIONS OF SHOP 1, YAU LAI SHOPPING CENTRE, YAU LAI ESTATE, YAU TONG, KOWLOON",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137803
+        ]
+      ],
+      "coordinate": [
+        1.993813350894767,
+        0.38918441188479713,
+        12.850000381469727
+      ],
+      "halfSize": [
+        36.17288500024006,
+        36.64346999954432,
+        4.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1298137106,
+        21,
+        [
+          [
+            2151800313,
+            1,
+            "85\u2103",
+            "PORTION B OF SHOP NO. 111 ON FIRST FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2151800322,
+            1,
+            "TAI HING",
+            "MINOR PORTION OF SHOP G41, G/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2951804429,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP M03 & M04, MTR FLOOR, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-03-13"
+          ],
+          [
+            2951804739,
+            4,
+            "SUSHI TAKE-OUT",
+            "SHOP M09, MG/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2951806674,
+            4,
+            "Snack Express",
+            "SHOP LG201, LG2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2951808625,
+            4,
+            "PAK DON",
+            "SHOP M08, MTR FLOOR, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-30"
+          ],
+          [
+            2951815450,
+            4,
+            "Fish Workshop",
+            "UNIT 4, SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2951815469,
+            4,
+            "Delica Workshop",
+            "UNIT 3, SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2951815478,
+            4,
+            "Bento",
+            "UNIT 1, SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2951815487,
+            4,
+            "Sushi Workshop",
+            "UNIT 2, SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2951815502,
+            4,
+            "Meat Workshop",
+            "UNIT 5, SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2951815520,
+            4,
+            "Bakery Workshop",
+            "UNIT 6, SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2951816295,
+            4,
+            "Natural Bakery",
+            "SHOP NO. LG204, LG2/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2027-02-07"
+          ],
+          [
+            2951816453,
+            4,
+            "\u5e38\u4f86\u8336\u5f80",
+            "(ZONE L) SHOPPING SPINE SHOP G42, G/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-03-16"
+          ],
+          [
+            2951817119,
+            4,
+            "\u56db\u5b63\u6e6f\u5bf6",
+            "ZONE F2, SHOP G42, G/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2951817979,
+            4,
+            "Alice's Bakery",
+            "ZONE B, SHOP G42, G/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2951819610,
+            4,
+            "Ten Ren's Tea",
+            "SHOP NO. G32 ON GROUND FLOOR, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-11-17"
+          ],
+          [
+            4951821758,
+            4,
+            "(NO RECORD FOUND)",
+            "SHOP L201 & L202A, 2/F, AEON DOMAIN STORE, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3651803820,
+            5,
+            "Supermarket",
+            "PORTION OF SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3651804045,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP NO. G42, G/F, DOMAIN, NO. 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-02-15"
+          ],
+          [
+            3251800872,
+            6,
+            "Soft Ice-cream Counter",
+            "UNIT 7, SHOP 201-202, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137812
+        ]
+      ],
+      "coordinate": [
+        1.993839954686422,
+        0.38914174917567756,
+        36.900001525878906
+      ],
+      "halfSize": [
+        53.27585000032559,
+        75.8611150002107,
+        23.899999618530273
+      ]
+    }
+  ]
+}

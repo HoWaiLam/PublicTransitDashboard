@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        947912704,
+        1,
+        [
+          [
+            2217001397,
+            0,
+            "Lamma Rainbow Seafood Restaurant Limited",
+            "G/F., 26-27 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          947912751
+        ]
+      ],
+      "coordinate": [
+        1.9919596145458958,
+        0.3875374404484232,
+        6.699999809265137
+      ],
+      "halfSize": [
+        4.963664999697357,
+        4.404985000379384,
+        3.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        947912705,
+        1,
+        [
+          [
+            2217000747,
+            0,
+            "\u738b\u4ed4\u5c0f\u98df",
+            "G/F., 28 SOK KWU WAN FIRST STREET, SOK KWU WAN, LAMMA ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          947912754
+        ]
+      ],
+      "coordinate": [
+        1.9919588883401778,
+        0.38753623767341466,
+        7.0
+      ],
+      "halfSize": [
+        5.394589999690652,
+        4.8616249999031425,
+        3.8999998569488525
+      ]
+    }
+  ]
+}

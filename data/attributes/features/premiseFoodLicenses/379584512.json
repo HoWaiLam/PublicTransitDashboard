@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        379584512,
+        1,
+        [
+          [
+            2993805437,
+            4,
+            "T \u00b7 Cafe",
+            "1/F (PORTION), EEC BUILDING, SLUDGE TREATMENT FACILITIES, 25 NIM WAN ROAD, TSANG TSUI, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          379584598
+        ]
+      ],
+      "coordinate": [
+        1.9883643691309196,
+        0.39134877998903966,
+        22.899999618530273
+      ],
+      "halfSize": [
+        55.85312999971211,
+        25.58181000035256,
+        17.100000381469727
+      ]
+    }
+  ]
+}

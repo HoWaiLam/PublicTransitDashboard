@@ -1,0 +1,184 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1155530752,
+        4,
+        [
+          [
+            2915801329,
+            4,
+            "THE REPULSE BAY CATERING",
+            "G101A, G/F., THE REPULSE BAY SHOPPING ARCADE, 109 REPULSE BAY ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2915803158,
+            4,
+            "Market Place",
+            "SHOP G128 (PORTION C), 109 REPULSE BAY ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2915806041,
+            4,
+            "Parabolica",
+            "SHOPS G102 AND G103 ON THE GROUND FLOOR, THE REPULSE BAY, 109 REPULSE BAY ROAD, HONG KONG",
+            null,
+            "2026-03-17"
+          ],
+          [
+            3615800748,
+            5,
+            "Market Place",
+            "SHOP G128 (PORTIONS), 109 REPULSE BAY ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-02-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155530777
+        ]
+      ],
+      "coordinate": [
+        1.9930877745764741,
+        0.3881441954401054,
+        23.149999618530273
+      ],
+      "halfSize": [
+        89.07999999960884,
+        65.67699999921024,
+        2.8500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        1155530753,
+        1,
+        [
+          [
+            2915802687,
+            4,
+            "CLUBONE REPULSE BAY",
+            "SHOP 1, G/F., SEA VIEW BUILDING, 16 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-02-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155531097
+        ]
+      ],
+      "coordinate": [
+        1.9930831303794472,
+        0.3881279178074686,
+        8.149999618530273
+      ],
+      "halfSize": [
+        53.6659450000152,
+        27.073014999739826,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1155530754,
+        3,
+        [
+          [
+            2115800212,
+            1,
+            "VIENNA",
+            "MINOR PORTION OF SHOP A, G/F, 33 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2915213289,
+            4,
+            "7-Eleven",
+            "PORTION B OF SHOP B, G/F, BEACH CENTRE, 33 BEACH ROAD, REPULSE BAY, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3215800090,
+            6,
+            "7-Eleven",
+            "PORTION A OF SHOP B, G/F., BEACH CENTRE, 33 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155531169
+        ]
+      ],
+      "coordinate": [
+        1.9931079231256938,
+        0.3881182688738414,
+        11.149999618530273
+      ],
+      "halfSize": [
+        19.548150000162423,
+        14.529000000096858,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1155530755,
+        3,
+        [
+          [
+            2915805066,
+            4,
+            "%ARABICA",
+            "MAJOR PORTION OF SHOP 205, LEVEL 2, THE PULSE, 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-10-04"
+          ],
+          [
+            2915805242,
+            4,
+            "CHUNKYS BAKESHOP",
+            "SHOP 211, LEVEL 2, THE PULSE, NO. 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2027-01-11"
+          ],
+          [
+            3215800434,
+            6,
+            "% ARABICA",
+            "MINOR PORTION OF SHOP 205, LEVEL 2, THE PULSE, 28 BEACH ROAD, REPULSE BAY, HONG KONG",
+            null,
+            "2026-10-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1155531219
+        ]
+      ],
+      "coordinate": [
+        1.9931302676554368,
+        0.38809003714699,
+        11.899999618530273
+      ],
+      "halfSize": [
+        78.0081150000915,
+        107.92890000063926,
+        6.399999618530273
+      ]
+    }
+  ]
+}

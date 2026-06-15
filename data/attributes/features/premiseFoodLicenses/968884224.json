@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        968884224,
+        1,
+        [
+          [
+            2591000760,
+            3,
+            "\u4e2d\u9060\u570b\u969b",
+            "1/F (PORTION), T8 EAST ADMINISTRATION/MAINTENANCE BUILDING, COSCO-HIT TERMINALS (HONG KONG) LIMITED, CONTAINER PORT ROAD SOUTH, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          968884305
+        ]
+      ],
+      "coordinate": [
+        1.9920630421698624,
+        0.3896800168062945,
+        27.30000114440918
+      ],
+      "halfSize": [
+        22.287589999847114,
+        35.40500000026077,
+        22.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        968884225,
+        1,
+        [
+          [
+            2591800203,
+            3,
+            "China Resources Logistics (Yuen Fat Wharf & Godown) Limited",
+            "7/F, 2 TAT MEI ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          968884326
+        ]
+      ],
+      "coordinate": [
+        1.9920089785218282,
+        0.389804834725815,
+        21.55000114440918
+      ],
+      "halfSize": [
+        108.35522302467143,
+        70.76365000009537,
+        17.850000381469727
+      ]
+    }
+  ]
+}

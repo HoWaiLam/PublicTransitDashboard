@@ -1,0 +1,2578 @@
+{
+  "features": [
+    {
+      "attributes": [
+        717225984,
+        1,
+        [
+          [
+            2294003855,
+            0,
+            "Thailand East Thai Specialty Restaurant",
+            "G/F & 1/F, 1 YUEN LONG TUNG SHING LEI ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717226414
+        ]
+      ],
+      "coordinate": [
+        1.9904261206372593,
+        0.3917322233766566,
+        16.700000762939453
+      ],
+      "halfSize": [
+        20.651999999769032,
+        12.5699999993667,
+        8.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        717225985,
+        4,
+        [
+          [
+            2294811603,
+            0,
+            "\u7f8e\u5fc3MX",
+            "SHOP NOS. C015-C018, G/F, YOHO PLUS, 2-6 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2294811728,
+            0,
+            "Lunar",
+            "SHOP C028, G/F, YOHO PLUS, 2-6 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2294811931,
+            0,
+            "MALA TANG BY SAMGOR",
+            "SHOP C110, 1/F, YOHO PLUS, 2-6 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            3194803907,
+            1,
+            "OVERLAP",
+            "SHOP 2, G/F, WAI FAT BUILDING, 1-5L FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717226443
+        ]
+      ],
+      "coordinate": [
+        1.9902307530799321,
+        0.3917172849165241,
+        26.600000381469727
+      ],
+      "halfSize": [
+        24.453499999828637,
+        31.963999999687076,
+        22.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        717225986,
+        17,
+        [
+          [
+            2294803990,
+            0,
+            "\u9326\u9e97",
+            "SHOP NO. A161, LEVEL 1, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2294804656,
+            0,
+            "MEN WAH BING TENG",
+            "SHOP NO. A231-A232, LEVEL 2, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2294805765,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. A312 ON LEVEL 3, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2294805826,
+            0,
+            "GYU JIN",
+            "SHOP NO. A218, LEVEL 2, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2294806209,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. A219, LEVEL 2, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2294806254,
+            0,
+            "Pepper Lunch",
+            "SHOP NO. A316A, LEVEL 3, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2294806847,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. A217, LEVEL 2, YOHO MALL II, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2294807114,
+            0,
+            "GENKI SUSHI",
+            "SHOP A222, A223 & A225, LEVEL 2, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-07"
+          ],
+          [
+            2294807691,
+            0,
+            "PHI Coffee & Pancake (9)",
+            "SHOP NO. A315B, LEVEL 3, YOHO MALL II, 8 LONG YAT ROAD , YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2294809031,
+            0,
+            "GING SUN HO KING OF BUN",
+            "SHOP NO. A115A, LEVEL 1, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2294809916,
+            0,
+            "ITAMAMA",
+            "SHOP NOS. A201-A202, LEVEL 2, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2294810239,
+            0,
+            "Master Beef (Yuen Long)",
+            "SHOP NO. A316, LEVEL 3, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2294810460,
+            0,
+            "Tai Hing/Asam Chicken Rice/ Congee King",
+            "SHOP NO. A301, LEVEL 3, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2294810901,
+            0,
+            "MILK CAF\u00c9",
+            "SHOP NOS. A101, LEVEL 1, YOHO MALL II, NO. 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2294811898,
+            0,
+            "YAKINIKU YAMAGYU",
+            "SHOP NO. A303, LEVEL 3, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            3194801682,
+            1,
+            "Starbucks Coffee",
+            "SHOP NO. A335, LEVEL 3, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3194803943,
+            1,
+            "Teawood Taiwanese Cafe & Restaurant",
+            "SHOP NO. A159, LEVEL 1, YOHO MALL II, 8 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227765
+        ]
+      ],
+      "coordinate": [
+        1.9902883443378285,
+        0.39174770896949396,
+        17.75
+      ],
+      "halfSize": [
+        103.36200000019744,
+        51.59249999932945,
+        13.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        717225987,
+        1,
+        [
+          [
+            3194000164,
+            1,
+            "Magic",
+            "SHOP NO. 1, G/F, WING HING BUILDING, 5961 YUEN LONG ON LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227767
+        ]
+      ],
+      "coordinate": [
+        1.9902277197133913,
+        0.3917455314251647,
+        6.550000190734863
+      ],
+      "halfSize": [
+        27.145000000018626,
+        24.70700000040233,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        717225988,
+        1,
+        [
+          [
+            2294001512,
+            0,
+            "\u54c1\u5473\u9910\u5ef3",
+            "BLOCK G, G/F, SHUN FAT BUILDING, 82 KIK YEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227769
+        ]
+      ],
+      "coordinate": [
+        1.9902200597278425,
+        0.39173647438419523,
+        6.75
+      ],
+      "halfSize": [
+        30.830999999772757,
+        11.206000000238419,
+        2.6499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        717225989,
+        1,
+        [
+          [
+            2294807372,
+            0,
+            "\u5ee3\u6771\u5bb6\u9109\u5473\u5bb6\u9109\u5c0f\u83dc",
+            "G/F, SIU CHU HOUSE, 11 SHUI CHE KWUN LANE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227770
+        ]
+      ],
+      "coordinate": [
+        1.9902261836059671,
+        0.39173640157835904,
+        5.699999809265137
+      ],
+      "halfSize": [
+        3.248499999754131,
+        7.477500000037253,
+        1.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        717225990,
+        1,
+        [
+          [
+            3194801804,
+            1,
+            "Days in the Sun",
+            "SHOP 28, G/F, CHEONG WAI MANSION, 9A FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227771
+        ]
+      ],
+      "coordinate": [
+        1.9902603789071938,
+        0.3917249985874197,
+        7.100000381469727
+      ],
+      "halfSize": [
+        33.17549999989569,
+        13.09499999973923,
+        2.500000238418579
+      ]
+    },
+    {
+      "attributes": [
+        717225991,
+        1,
+        [
+          [
+            2294807008,
+            0,
+            "\u6613\u7576\u5bb6\u9910\u5ef3",
+            "G/F, 6 CASTLE PEAK ROAD-SAN TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227772
+        ]
+      ],
+      "coordinate": [
+        1.990231900513663,
+        0.39172492890055743,
+        6.599999904632568
+      ],
+      "halfSize": [
+        14.61200000019744,
+        10.881000000052154,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        717225992,
+        1,
+        [
+          [
+            3194802968,
+            1,
+            "MUSIC CAFE",
+            "SHOP B ( MAJOR PORTION), G/F, HANG FAT MANSION, 12 CASTLE PEAK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227774
+        ]
+      ],
+      "coordinate": [
+        1.9902277639541837,
+        0.39172512065426934,
+        8.050000190734863
+      ],
+      "halfSize": [
+        13.779499999713153,
+        9.667360000312328,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        717225993,
+        5,
+        [
+          [
+            2294002144,
+            0,
+            "\u677e\u8a18\u71d2\u9d5d\u98ef\u5e97",
+            "G/F, SHOP NOS. 19-20 AND OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, WAI FAT BUILDING, YLTL 434, FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2294805598,
+            0,
+            "\u805a\u53cb\u68e7\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP 5, G/F, WAI FAT BUILDING, 5 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2294809907,
+            0,
+            "CU Kitchen",
+            "SHOP NO. 17, G/F, WAI FAT BUILDING, 5 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            3194000632,
+            1,
+            "BLISS PUB",
+            "SHOP NO. 18, G/F, WAI FAT BUILDING, FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3194801798,
+            1,
+            "Soul Bro Club",
+            "SHOP 16, G/F, WAI FAT BUILDING, FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227775
+        ]
+      ],
+      "coordinate": [
+        1.9902476605581887,
+        0.3917221296678228,
+        6.900000095367432
+      ],
+      "halfSize": [
+        29.085500000044703,
+        14.378499999642372,
+        2.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        717225994,
+        3,
+        [
+          [
+            2294804009,
+            0,
+            "\u677e\u8a18\u7ca5\u54c1",
+            "SHOP 6 & 13, G/F, YUEN SUN MANSION, 17 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2294806397,
+            0,
+            "\u86c7\u738b\u54c1",
+            "SHOP 16, G/F, YUEN SUN MANSION, 7-25 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            3194803989,
+            1,
+            "\u65b0\u5fb7\u5712\u725b\u96dc\u7c89\u9eb5\u9910\u5ef3",
+            "SHOP 7 & 14, G/F, YUEN SUN MANSION, 15 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227776
+        ]
+      ],
+      "coordinate": [
+        1.990220508966628,
+        0.39172004822534934,
+        11.40000057220459
+      ],
+      "halfSize": [
+        7.723499999847263,
+        20.05099999997765,
+        7.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        717225995,
+        4,
+        [
+          [
+            2294808144,
+            0,
+            "SORA CAFE",
+            "SHOP NO. 37, G/F, SHUN FUNG BUILDING, 5-7 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ],
+          [
+            3894811945,
+            0,
+            "\u9f8d\u4ead",
+            "SHOP NO.36, G/F, SHUN FUNG BUILDING, 5-7 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            3194801424,
+            1,
+            "HA CHA-FYS",
+            "SHOP NO. 3, G/F, SHUN FUNG BUILDING, 5-7 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            3194801707,
+            1,
+            "\u80a5\u4ed4\u6d77\u5357\u96de",
+            "SHOP 31 , G/F, SHUN FUNG BUIDLING, 5 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227777
+        ]
+      ],
+      "coordinate": [
+        1.990264188788516,
+        0.3917181988933885,
+        8.5
+      ],
+      "halfSize": [
+        29.559999999590218,
+        20.46250000037253,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        717225996,
+        5,
+        [
+          [
+            2294001150,
+            0,
+            "\u83ef\u6a02\u51b0\u5ba4",
+            "SHOP NO. 14, G/F, YICK FAT BUILDING, YLTL 321, FUNG YAU NORTH STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2294802599,
+            0,
+            "GERMAN ROAD",
+            "SHOP NOS. 16 & 17, G/F, AND OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, YIK FAT BUILDING, 11-15 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-08"
+          ],
+          [
+            2294806591,
+            0,
+            "CHEF'S MOVEMENT",
+            "SHOP NO. 15, G/F, YIK FAT BUILDING, 11-15 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-17"
+          ],
+          [
+            3194804034,
+            1,
+            "\u7cd6\u6c34\u8607",
+            "SHOP 11, G/F, YIK FAT BUILDING, 11-15 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            3994804397,
+            1,
+            "ROSE FOOD DELIVERY",
+            "SHOP NO. 19-20, G/F, YIK FAT BUILDING, 11-15 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227778
+        ]
+      ],
+      "coordinate": [
+        1.9902475015739012,
+        0.3917169290220571,
+        8.25
+      ],
+      "halfSize": [
+        28.61450000014156,
+        7.338000000454485,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        717225997,
+        2,
+        [
+          [
+            2294004195,
+            0,
+            "\u9678\u8a18\u6b63\u5b97\u6842\u6797\u7c73\u7c89",
+            "SHOP NO. 2, G/F, KIN WAI BUILDING, 27-29 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2294804300,
+            0,
+            "MARIO",
+            "SHOP 1, G/F, KIN WAI BUILDING, 27-29 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-02-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227779
+        ]
+      ],
+      "coordinate": [
+        1.990220387682465,
+        0.3917146660538917,
+        8.700000762939453
+      ],
+      "halfSize": [
+        7.597999999765307,
+        14.128999999724329,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        717225998,
+        6,
+        [
+          [
+            2294002010,
+            0,
+            "PENINSULA BANQUET AH YUNG HOTPOT CUISINE",
+            "G/F (PORTION) & 1/F (MAJOR PORTION), KAM LUNG MANSION, FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2294802605,
+            0,
+            "\u5bcc\u8208\u6f6e\u5dde\u7c89\u9eb5",
+            "SHOP 19, G/F, KAM LUNG MANSION, 22 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2294803927,
+            0,
+            "\u4f73\u8a18\u751c\u54c1",
+            "SHOP NOS. 4-5, G/F, KAM LUNG MANSION, 22 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2294804869,
+            0,
+            "\u55e6\u7238\u87ba\u8784\u7c89",
+            "SHOP 15B, G/F, BLOCK 2, KAM LUNG MANSION, 22 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            2294808296,
+            0,
+            "\u96f2\u5ddd",
+            "SHOP NO. 16, G/F, KAM LUNG MANSION, 22 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            3194800227,
+            1,
+            "Bingo",
+            "SHOP NO. 18, G/F, KAM LUNG MANSION, NO. 22 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227780
+        ]
+      ],
+      "coordinate": [
+        1.9902640255483854,
+        0.39170597900911164,
+        9.800000190734863
+      ],
+      "halfSize": [
+        20.145000000018626,
+        38.67850000038743,
+        5.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        717225999,
+        2,
+        [
+          [
+            2294802137,
+            0,
+            "\u65b0\u8c6a\u9910\u5ef3",
+            "SHOP 2A & 16B, G/F, WING FU MANSION, 2-6 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            3194802241,
+            1,
+            "\u98df\u795e\u8eca\u4ed4\u9eb5",
+            "SHOP NO. 14A, G/F, WING FU MANSION, 2-6 FUNG YAU STREET NORTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227781
+        ]
+      ],
+      "coordinate": [
+        1.9902737531442651,
+        0.3917103403328663,
+        9.850000381469727
+      ],
+      "halfSize": [
+        32.320999999996275,
+        10.122999999672174,
+        5.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        717226000,
+        2,
+        [
+          [
+            2294803334,
+            0,
+            "\u81f3\u5c0a\u91cd\u6176\u96de\u7172",
+            "SHOP 6, G/F, YEE FUNG BUILDING, 31 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            3194801549,
+            1,
+            "\u5bcc\u8208\u6f6e\u6d32\u7c89\u9eb5",
+            "SHOP 9, G/F, YEE FUNG BUILDING, 31-35A YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227782
+        ]
+      ],
+      "coordinate": [
+        1.990221273322611,
+        0.3917074181304747,
+        7.300000190734863
+      ],
+      "halfSize": [
+        10.7769749998115,
+        17.420464999973774,
+        2.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        717226001,
+        4,
+        [
+          [
+            2294805729,
+            0,
+            "\u5ddd\u5ddd\u8ca2",
+            "SHOP 72-74, G/F, HO SHUN YEE BUILDING, 9 FUNG YAU STREET EAST, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2294811065,
+            0,
+            "Brother 5 Oyster De Tapas Bar",
+            "SHOP NO. 34-35, G/F, HO SHUN YEE BUILDING, NO. 9 FUNG YAU STREET EAST, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2294811959,
+            0,
+            "\u5df4\u6253\u706b\u934b\u51b0\u5ba4",
+            "SHOP NOS. 31,32,33,54,56 & 57, G/F, HO SHUN YEE BUILDING, 9 FUNG YAU STREET EAST, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3194801770,
+            1,
+            "\u4e9e\u723a\u8607\u8a18",
+            "SHOP 15, G/F, HO SHUN YEE BUILDING, 9 FUNG YAU STREET EAST, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227783
+        ]
+      ],
+      "coordinate": [
+        1.990282376643296,
+        0.39170502795450646,
+        7.349999904632568
+      ],
+      "halfSize": [
+        12.907500000204891,
+        32.03749999962747,
+        2.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        717226002,
+        3,
+        [
+          [
+            2294803787,
+            0,
+            "\u591a\u591a\u96de\u5927\u6392\u6a94",
+            "SHOP 14, G/F, FULL YAU COURT, 37-51 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            2294804601,
+            0,
+            "\u91d1\u9580\u8377\u9999\u7c60\u4ed4\u98ef\u5c08\u9580\u5e97",
+            "SHOP 6, G/F, FULL YAU COURT, 37-51 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2294809420,
+            0,
+            "\u597d\u71d2\u5f0f",
+            "SHOP 8 & 9, G/F, FULL YAU COURT, NO. 37-51 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227785
+        ]
+      ],
+      "coordinate": [
+        1.9902211523009388,
+        0.39170104138008943,
+        9.699999809265137
+      ],
+      "halfSize": [
+        10.86214999994263,
+        23.580755000002682,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        717226003,
+        1,
+        [
+          [
+            3194803095,
+            1,
+            "88 \u624b\u5de5\u9903\u5b50",
+            "SHOP 13, G/F, COMET MANSION, 45-67 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227787
+        ]
+      ],
+      "coordinate": [
+        1.9902426113862464,
+        0.3916958337598938,
+        8.399999618530273
+      ],
+      "halfSize": [
+        17.080500000156462,
+        17.880069999955595,
+        3.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        717226004,
+        2,
+        [
+          [
+            2294804179,
+            0,
+            "\u8993\u98df\u5bb6",
+            "SHOP 4, G/F, FUNG CHEUNG BUILDING, 33-43 FUNG CHEUNG ROAD , 20-22 FUNG HEUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3194802959,
+            1,
+            "SUN PO BEEF OFFAL NOODLE EXPERT",
+            "SHOP 5, G/F, FUNG CHEUNG BUILDING, NO. 33-43 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227788
+        ]
+      ],
+      "coordinate": [
+        1.990247151181537,
+        0.3916958201360549,
+        9.399999618530273
+      ],
+      "halfSize": [
+        10.351504999678582,
+        17.852775000035763,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        717226005,
+        7,
+        [
+          [
+            2294808551,
+            0,
+            "\u5c0f\u5ddd\u6eec\u62c9\u9eb5\u5c0f\u7c60\u5305",
+            "SHOP 52 & 59, G/F, FORTUNE CENTRE, 19 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            2294809642,
+            0,
+            "Royal Ming Garden Restaurant/ Yeh Jai Cafe",
+            "SHOPS A1, 3-10, 62-70, G/F, FORTUNE CENTRE, NOS. 17-31 FUNG CHEUNG ROAD, NOS. 2-18 FUNG HEUNG STREET AND, NOS. 15, 17 & 21 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            3194001060,
+            1,
+            "\u9280\u6cb3\u725b\u8169\u725b\u96dc\u7c89\u9eb5",
+            "SHOP NO. 71, G/F, FORTUNE CENTRE, 15-21 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-12"
+          ],
+          [
+            3194800892,
+            1,
+            "Crystal Cafe",
+            "SHOP 61, G/F, FORTUNE CENTRE, 17-31 FUNG CHEUNG ROAD, 15, 17 & 21 FUNG KAM STREET, 2-18 FUNG HEUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            3194801105,
+            1,
+            "\u672c\u9115 Korean Restaurant",
+            "SHOPS 15 & 19, G/F, FORTUNE CENTRE, 15-21 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            3194801284,
+            1,
+            "\u78e8\u98ef",
+            "SHOP 14 & 18, G/F, FORTUNE CENTRE, 15-21 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3194804335,
+            1,
+            "\u98fd\u98fd\u9762",
+            "SHOP NO. 49 & 56, G/F, FORTUNE CENTRE, 17-31 FUNG CHEUNG ROAD, 15, 17 & 21 FUNG KAM STREET, 2-18 FUNG HEUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227789
+        ]
+      ],
+      "coordinate": [
+        1.9902530265129896,
+        0.39169576639948567,
+        8.700000762939453
+      ],
+      "halfSize": [
+        24.79799999995157,
+        18.04871500004083,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        717226006,
+        6,
+        [
+          [
+            2294802438,
+            0,
+            "\u5fb7\u8a18\u5c0f\u5eda",
+            "SHOP 2, 7, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, YUK LUNG MANSION, 18 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2294802641,
+            0,
+            "TIM TIM KITCHEN",
+            "SHOP 3 & 6, G/F, YUK LUNG MANSION, 18 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2294804753,
+            0,
+            "DA FENG SHOU",
+            "SHOP 16 & 17, G/F, YUK LUNG MANSION, 18 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-17"
+          ],
+          [
+            2294808038,
+            0,
+            "GOMNARU",
+            "SHOP 1, G/F, YUK LUNG MANSION, 18 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2294808995,
+            0,
+            "\u5927\u962a\u65e5\u672c\u6599\u7406",
+            "SHOP 15, G/F, YUK LUNG MANSION, 18 FUNG KAM STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            3194001194,
+            1,
+            "\u5bcc\u58eb\u5427",
+            "SHOP NO. 13, G/F, SHOPPING ARCADE, YUK LUNG BUILDING, YLTL 318, 19 FUNG KWAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227790
+        ]
+      ],
+      "coordinate": [
+        1.9902637367889466,
+        0.39169433853725943,
+        9.600000381469727
+      ],
+      "halfSize": [
+        18.797500000335276,
+        19.47550000064075,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        717226007,
+        2,
+        [
+          [
+            2294803644,
+            0,
+            "\u6cf0\u767c\u6cf0\u570b\u9910\u5ef3",
+            "SHOP 3-4, G/F, LIN FAT BUILDING, 2 FUNG KWAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-27"
+          ],
+          [
+            3194804201,
+            1,
+            "\u6a39\u6d1e",
+            "SHOP 25, G/F, LIN FAT BUILDING, 2 FUNG KWAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227791
+        ]
+      ],
+      "coordinate": [
+        1.9902858925828124,
+        0.3916939749180493,
+        8.949999809265137
+      ],
+      "halfSize": [
+        9.60149999987334,
+        19.225000000558794,
+        3.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        717226008,
+        4,
+        [
+          [
+            2294001831,
+            0,
+            "\u559c\u6d0b\u6d0b\u9ede\u5fc3\u5c08\u9580\u5e97",
+            "OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT OF SHOP F, G/F, 96-104 KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2294802401,
+            0,
+            "\u6cf0\u767c\u6cf0\u570b\u9910\u5ef3",
+            "SHOP G, G/F AND OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, MARIANA BUILDING, 53-59 YAU SAN STREET , 96-104 KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            3194000137,
+            1,
+            "Meow's Kitchen",
+            "SHOP H, G/F, AND OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, MARIANA BUILDING, KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3194803651,
+            1,
+            "\u6881\u6797\u4e8c\u54e5\u571f\u96de\u5c08\u9580\u5e97",
+            "SHOP E AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, MARIANA BUILDING, 53-59 YAU SAN STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227793
+        ]
+      ],
+      "coordinate": [
+        1.9902210376361142,
+        0.39169442068416677,
+        8.450000762939453
+      ],
+      "halfSize": [
+        10.410000000149012,
+        9.486935000866652,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        717226009,
+        2,
+        [
+          [
+            2294001053,
+            0,
+            "\u5929\u9d3b\u71d2\u9d5d\u98ef\u5e97",
+            "SHOP D, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, YAN YEE BUILDING, KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-15"
+          ],
+          [
+            3194801123,
+            1,
+            "\u6df1\u4ed4\u8a18",
+            "SHOP A, G/F, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, YAN YEE BUILDING, 88 KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227794
+        ]
+      ],
+      "coordinate": [
+        1.990223839196549,
+        0.39169439291480546,
+        7.200000286102295
+      ],
+      "halfSize": [
+        6.341000000014901,
+        9.411019999533892,
+        2.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        717226010,
+        5,
+        [
+          [
+            2294002490,
+            0,
+            "\u5c0f\u8349\u6e90\u8336\u9910\u5ef3",
+            "SHOP NO.4, LUEN FAT HOUSE, KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            2294800690,
+            0,
+            "RED SUN",
+            "SHOP 10-12, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, LUEN FAT HOUSE, KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-07"
+          ],
+          [
+            2294807284,
+            0,
+            "\u6cd7\u8a18",
+            "SHOP 5, G/F, LUEN FAT HOUSE, NOS. 56-60, 64-86 KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ],
+          [
+            3194800643,
+            1,
+            "\u590f\u65e5\u9152\u5eca",
+            "G/F, SHOP NO. 7, LUEN FAT HOUSE, BLOCK 3, PING CHEONG PATH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3194801354,
+            1,
+            "Ichininmae Ramen",
+            "SHOP 7, G/F, LUEN FAT HOUSE, 56-86 KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227795
+        ]
+      ],
+      "coordinate": [
+        1.9902274744645776,
+        0.3916943936817648,
+        9.850000381469727
+      ],
+      "halfSize": [
+        15.712999999988824,
+        9.480999999679625,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        717226011,
+        3,
+        [
+          [
+            2294802854,
+            0,
+            "\u7f85\u6771\u8089\u713f\u756a",
+            "SHOP 5, G/F, KIN FAI BUILDING, 69 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2294803547,
+            0,
+            "\u5408\u8208\u8eca\u4ed4\u9eb5",
+            "SHOP 3, G/F, KIN FAI BUILDING, 69 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ],
+          [
+            3194801336,
+            1,
+            "\u7cd6\u68ee\u6797\u751c\u54c1",
+            "SHOP 9, G/F, KIN FAI BUILDING, 69 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227796
+        ]
+      ],
+      "coordinate": [
+        1.9902425631280563,
+        0.3916895463960681,
+        7.949999809265137
+      ],
+      "halfSize": [
+        17.28000000026077,
+        14.899999999441206,
+        2.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        717226012,
+        22,
+        [
+          [
+            2294800751,
+            0,
+            "Chef's Choice",
+            "SHOP 50, G/F, BLOCK 2, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2294801374,
+            0,
+            "HAPPY HOUSE",
+            "SHOP 43, G/F, HO SHUN KING BUILDING, FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2294802243,
+            0,
+            "\u5496\u54e9\u6cf0\u6cf0",
+            "SHOP 11, 12 & 52, G/F, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ],
+          [
+            2294802809,
+            0,
+            "Sinsa dong Pocha",
+            "SHOP NO. 3, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2294803130,
+            0,
+            "\u98db\u967d\u7802\u934b\u7ca5\u6f6e\u5dde\u6253\u51b7\u5c0f\u5eda",
+            "SHOP NO. 8, G/F & OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-11"
+          ],
+          [
+            2294803404,
+            0,
+            "\u6cb3\u5167\u8d8a\u5f0f\u5c0f\u9928",
+            "SHOP NO. 33, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            2294804540,
+            0,
+            "\u96de\u90ce\u53bb\u9aa8\u6d77\u5357\u96de\u5c08\u9580\u5e97",
+            "SHOP 16, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2294806643,
+            0,
+            "Steak'er",
+            "SHOP 45, G/F , HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2294807637,
+            0,
+            "\u662f\u4f60\u7684\u9910\u5ef3",
+            "SHOP NO. 17, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2294809235,
+            0,
+            "CANADIAN PIZZA",
+            "SHOP 39, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-08"
+          ],
+          [
+            2294809493,
+            0,
+            "POWER POT",
+            "SHOP NO. 47, G/F, BLOCK 1, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2294809679,
+            0,
+            "\u723d\u723d\u9eb5\u5e97",
+            "SHOP NO. 7, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2294809828,
+            0,
+            "Pan's Kitchen",
+            "SHOP 30, G/F, HO SHUN KING BUILDING, NO. 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-02-21"
+          ],
+          [
+            2294810503,
+            0,
+            "Tasty chicken soup",
+            "SHOP 5, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-02-27"
+          ],
+          [
+            2294811870,
+            0,
+            "COOKING NANA",
+            "SHOP NO. 13, G/F., HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            3194800786,
+            1,
+            "Chow Chow Caf\u00e9",
+            "SHOP 24 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            3194801558,
+            1,
+            "\u767e\u5229\u4f86\u7f8e\u98df",
+            "SHOP 44, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ],
+          [
+            3194802180,
+            1,
+            "\u590f\u8a18\u7c89\u9eb5",
+            "SHOP 20, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            3194803660,
+            1,
+            "By the O",
+            "SHOP 2, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            3194803916,
+            1,
+            "\u9eb5\u9eb5\u4ff1\u5230",
+            "SHOP 48, G/F, HO SHUN KING BUILDING, 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ],
+          [
+            3194804140,
+            1,
+            "\u81ea\u5bb6\u88fd\u97d3\u570b\u5200\u524a\u9eb5",
+            "SHOP 6, G/F, HO SHUN KING BUILDING, NO. 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3194804283,
+            1,
+            "8CM",
+            "SHOP 51, G/F, BLOCK 2, HO SHUN KING BUILDING, NO. 3 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227797
+        ]
+      ],
+      "coordinate": [
+        1.9902632472960096,
+        0.39168678934149465,
+        7.299999713897705
+      ],
+      "halfSize": [
+        17.184944999869913,
+        19.94349499978125,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        717226013,
+        1,
+        [
+          [
+            2294810415,
+            0,
+            "\u5496\u54e9\u81f3\u5c0a\u9910\u5ef3\u5c0f\u5eda",
+            "SHOP 15, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, CHAMPION BUILDING, 70 FUNG CHEUNG ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227799
+        ]
+      ],
+      "coordinate": [
+        1.9902343370420061,
+        0.39168734574245645,
+        7.350000381469727
+      ],
+      "halfSize": [
+        12.949999999720603,
+        13.535000000149012,
+        2.450000047683716
+      ]
+    },
+    {
+      "attributes": [
+        717226014,
+        3,
+        [
+          [
+            2294000944,
+            0,
+            "\u767c\u8a18\u8178\u7c89\u7ca5\u54c1",
+            "SHOP NO. 1, G/F, WAN HING BUILDING, YLTL 253, J/O YAU SAN STREET & HOP YICK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2294802562,
+            0,
+            "\u52dd\u8208\u6f6e\u5dde\u6253\u51b7\u5c0f\u7092",
+            "SHOP NO. 6, G/F, WAN HING BUILDING, 65 KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-19"
+          ],
+          [
+            3194800634,
+            1,
+            "\u81fa\u6708",
+            "SHOP NO. 2, G/F & C/L, WAN HING BUILDING , 61-65 YAU SAN STREET , YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227800
+        ]
+      ],
+      "coordinate": [
+        1.9902204806504677,
+        0.39168718196575636,
+        7.599999904632568
+      ],
+      "halfSize": [
+        7.765004999935627,
+        11.618854999542236,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        717226015,
+        2,
+        [
+          [
+            2294805297,
+            0,
+            "\u7b2c\u4e5d\u5473",
+            "FLAT 2, G/F, HING NIN BUILDING, 30-36 HOP YICK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            3194800421,
+            1,
+            "\u5341\u516b\u5ea7\u72d7\u4ed4\u7c89",
+            "SHOP NO. 3, G/F, HING NIN BUILDING, 59 KIN YIP STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227801
+        ]
+      ],
+      "coordinate": [
+        1.9902232025619153,
+        0.3916871391215327,
+        7.599999904632568
+      ],
+      "halfSize": [
+        9.165385000407696,
+        11.656635000370443,
+        2.5999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        717226016,
+        3,
+        [
+          [
+            2294805251,
+            0,
+            "\u65b0\u99ff\u7687",
+            "SHOP NO. 17, G/F, HO KING BUILDING, 110-136A ON NING ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            3194801318,
+            1,
+            "\u6709\u5f97\u9903",
+            "SHOP 6 & 7, G/F, HO KING BUILDING, HOP YICK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-02-27"
+          ],
+          [
+            3194803934,
+            1,
+            "YUN FAI CART NOODLE",
+            "SHOP NO.9 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, HO KING BUILDING, 10-28 HOP YICK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227802
+        ]
+      ],
+      "coordinate": [
+        1.9902277109481084,
+        0.39168708123023555,
+        8.75
+      ],
+      "halfSize": [
+        17.88961000042036,
+        11.754000000655651,
+        3.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        717226017,
+        3,
+        [
+          [
+            2294806528,
+            0,
+            "The Way Coffee",
+            "SHOP H, G/F, KEI YIP BUILDING, 9-15 HOP YICK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ],
+          [
+            3194802083,
+            1,
+            "\u4e8c\u6085",
+            "SHOP G, G/F, KEI YIP BUILDING, 9-15 HOP YICK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3194803040,
+            1,
+            "\u6cd5\u570b\u5c0f\u5c4b",
+            "SHOP I, G/F, KEI YIP BUILDING, NO. 9-15 HOP YICK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227804
+        ]
+      ],
+      "coordinate": [
+        1.990229514596406,
+        0.3916805624596754,
+        7.400000095367432
+      ],
+      "halfSize": [
+        9.476999999955297,
+        10.2013900000602,
+        2.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        717226018,
+        1,
+        [
+          [
+            3194803448,
+            1,
+            "The Third",
+            "SHOP B, G/F, TAI FOOK BUILDING, 71 KIN TAK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227806
+        ]
+      ],
+      "coordinate": [
+        1.9902231925798806,
+        0.39167122307631996,
+        7.299999713897705
+      ],
+      "halfSize": [
+        7.7105000000447035,
+        14.674999999813735,
+        2.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        717226019,
+        11,
+        [
+          [
+            2294805154,
+            0,
+            "Jun Sushi",
+            "SHOP 1077, L1, YOHO MALL, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2294805163,
+            0,
+            "Modern Shanghai",
+            "SHOP 1058, LEVEL 1, YOHO MALL I, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2294805172,
+            0,
+            "Tonkichi & Le Grand Pokka Caf'e",
+            "SHOP 1078, LEVEL 1, YOHO MALL I, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-23"
+          ],
+          [
+            2294808506,
+            0,
+            "MENYA MUSASHI BUKOTSU",
+            "SHOP 1072, LEVEL 1, YOHO MALL I, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ],
+          [
+            2294809712,
+            0,
+            "CHILLI LIME THAI MALAY INDIAN",
+            "SHOP G007, G/F , YOHO MALL I, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2294810822,
+            0,
+            "CHECK IN TAIPEI (YOHO)",
+            "SHOP NO. G002, G/F, YOHO MALL I, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2294811223,
+            0,
+            "JUN SUSHI",
+            "SHOP G006 AND THE OUTSIDE SEATING ACCOMMODATION AT REAR, LEVEL G, YOHO MALL I, NO. 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            3894811893,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP G008, G/F, YOHO MALL I, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            3894811981,
+            0,
+            "Green Tea -  Yoho Mall",
+            "SHOP NO. 1073, LEVEL 1, YOHO MALL I, NO. 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            3194802029,
+            1,
+            "TERA PANCAKE HOUSE \u5bfa",
+            "SHOP 1075, LEVEL 1, YOHO MALL, 9 YUEN LUNG STREET, YUEN LONG TOWN LOT NO. 504, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-02"
+          ],
+          [
+            3194803013,
+            1,
+            "T-FRESH",
+            "SHOP 1091, LEVEL 1, YOHO MALL I, 9 YUEN LUNG STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227860
+        ]
+      ],
+      "coordinate": [
+        1.9903151740840082,
+        0.39171473379350596,
+        17.600000381469727
+      ],
+      "halfSize": [
+        118.32439999980852,
+        78.16694999951869,
+        12.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        717226020,
+        4,
+        [
+          [
+            2294805659,
+            0,
+            "1987 PLUS",
+            "SHOP 7, G/F, CHUN CHU HOUSE, 1 CASTLE PEAK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2294806184,
+            0,
+            "Sushi Hajime",
+            "SHOP 10, G/F, CHUN CHU HOUSE, 1 CASTLE PEAK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-08"
+          ],
+          [
+            3194802816,
+            1,
+            "BAR PACIFIC",
+            "SHOP 4 & 9, G/F, CHUN CHU HOUSE, 1 CASTLE PEAK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            3194803828,
+            1,
+            "TMT",
+            "SHOP 12, G/F, CHUN CHU HOUSE, 1 CASTLE PEAK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227865
+        ]
+      ],
+      "coordinate": [
+        1.9902296124463905,
+        0.3917342637225603,
+        5.699999809265137
+      ],
+      "halfSize": [
+        17.114000000059605,
+        18.328000000678003,
+        1.7999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        717226021,
+        4,
+        [
+          [
+            2294804106,
+            0,
+            "PATTAYA THAI HOUSE",
+            "SHOP 1, GROUND FLOOR, PEARL HOUSE, 1-11 YUEN LONG ON LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-09"
+          ],
+          [
+            2294807479,
+            0,
+            "Diamond Restaurant",
+            "SHOP 7-9, G/F, PEARL HOUSE, 1-11 YUEN LONG ON LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2294807725,
+            0,
+            "Jaselab Cookery",
+            "SHOP 11, G/F & COCKLOFT, PEARL HOUSE, 1-11 YUEN LONG ON LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2294809077,
+            0,
+            "CHILLI PASTE",
+            "SHOP 2-3, G/F, BLOCK A PEARL HOUSE, 1- 11A YUEN LONG ON LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227866
+        ]
+      ],
+      "coordinate": [
+        1.9902330182941856,
+        0.3917376643087007,
+        8.25
+      ],
+      "halfSize": [
+        20.55599999986589,
+        20.087499999441206,
+        4.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        717226022,
+        10,
+        [
+          [
+            2294802155,
+            0,
+            "OPPA & POCHA KOREAN RESTAURANT",
+            "SHOP NOS. 74, 75 & 76, G/F, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            2294802827,
+            0,
+            "\u516b\u65b9\u7c73\u7dda",
+            "SHOP 15, G/F, HO SHUN LEE BUILDING, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2294803006,
+            0,
+            "\u516b\u65b9\u7c73\u7dda",
+            "SHOP 3, G/F, HO SHUN LEE BUILDING, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2294804337,
+            0,
+            "\u7cb5\u9ede\u8ed2",
+            "SHOP 57, 65, 66 & 68A, G/F, HO SHUN LEE BUILDING, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2294804771,
+            0,
+            "Brother 5 Oyster & Steak Chop Bar",
+            "SHOP 58, 59, G/F, HO SHUN LEE BUILDING, FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2294806360,
+            0,
+            "\u5927\u6efe\u53cb",
+            "SHOPS 4-5, G/F, HO SHUN LEE BUILDING, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            3194801372,
+            1,
+            "\u6b63\u5b97\u5ddd\u5473\u7c73\u7c89",
+            "SHOP NO. 2, G/F, HO SHUN LEE BUILDING, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-25"
+          ],
+          [
+            3194801840,
+            1,
+            "MOMENT CAFE",
+            "NO. 63B-D AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, BLOCK 1, HO SHUN LEE BUILDING, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3194803305,
+            1,
+            "DRAGON RIVER RICE NOODLE RESTAURANT",
+            "SHOP 14, GROUND FLOOR, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, HO SHUN LEE BUILDING, NO. 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-08"
+          ],
+          [
+            3194803457,
+            1,
+            "HEATO X FINE",
+            "SHOP 11 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, HO SHUN LEE BUILDING, 9 FUNG YAU STREET SOUTH, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717227867
+        ]
+      ],
+      "coordinate": [
+        1.9902807662635031,
+        0.3916866101534217,
+        10.050000190734863
+      ],
+      "halfSize": [
+        34.058850000146776,
+        20.241349999792874,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        717226023,
+        1,
+        [
+          [
+            2294807460,
+            0,
+            "NGAN LUNG RESTAURANT",
+            "SHOP 3, G/F, LONG SHIN SHOPPING CENTRE, LONG SHIN ESTATE, 11 YAU SHIN STREET, AU TAU, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717228058
+        ]
+      ],
+      "coordinate": [
+        1.9904589744575547,
+        0.391691582836053,
+        22.200000762939453
+      ],
+      "halfSize": [
+        15.46445499965921,
+        50.170889999717474,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        717226024,
+        27,
+        [
+          [
+            2294806856,
+            0,
+            "Outback Steakhouse",
+            "SHOP NOS. 2047 & 2048 AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2294806874,
+            0,
+            "\u7fe1\u7fe0\u62c9\u9eb5\u5c0f\u7c60\u5305",
+            "SHOP 2045, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2294806917,
+            0,
+            "PUTIEN",
+            "SHOP NO. 2040, 2/F, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2294806935,
+            0,
+            "Prince Kitchen",
+            "SHOP NOS.1045-1046, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2294806971,
+            0,
+            "PEKING GARDEN",
+            "SHOP 2061-2062, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2294807099,
+            0,
+            "Ana Sushi",
+            "SHOP NO. 1027, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2294807105,
+            0,
+            "Glasshouse",
+            "SHOP NOS. 1028-1029, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-07"
+          ],
+          [
+            2294807451,
+            0,
+            "JADE GARDEN",
+            "SHOP 2039, LEVEL 2 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2294807707,
+            0,
+            "Deluxe Daieiki Japanese Restaurant",
+            "SHOP 2001A, 2/F, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2294809129,
+            0,
+            "ABURI  EN",
+            "SHOP 2046, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ],
+          [
+            2294809439,
+            0,
+            "\u99ac\u7956\u990a\u751f\u6e6f\u9eb5\u9928",
+            "SHOP 2041, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2294810725,
+            0,
+            "Terrace In Seaside (5)",
+            "SHOP NO. 2056 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            2294810743,
+            0,
+            "Tendon Tenya",
+            "SHOP 2059 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2294810910,
+            0,
+            "MOS Burger",
+            "UNIT YOHO-11-005, SHOP NOS. 1013-1015 & 1018-1020, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2294811117,
+            0,
+            "CHIUCHOW GARDEN",
+            "SHOP 1035, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2294811144,
+            0,
+            "TAKANO RAMEN",
+            "SHOP NO. 1026, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2294811348,
+            0,
+            "QUE",
+            "SHOP NO. 1030A, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2294812095,
+            0,
+            "SHABU SHABU LE-TA-SU",
+            "SHOP NOS.1023-1025, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2294812129,
+            0,
+            "HEYA",
+            "SHOP NOS. 1130-1143, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            3894811936,
+            0,
+            "Tim Ho Wan Dim Sum Specialist",
+            "SHOP NOS. 2023-2027, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            3894811972,
+            0,
+            "CURRY ROOM",
+            "SHOP NOS. 2002 & 2060, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            3194802630,
+            1,
+            "PAPER STONE BAKERY",
+            "PORTION A OF SHOP NO. 1022, 1/F, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            3194802685,
+            1,
+            "Palace Yoho Mall",
+            "MINOR PORTION OF SHOP 1021 ON LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            3194803697,
+            1,
+            "NOC COFFEE CO.",
+            "SHOP G010, GROUND LEVEL, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            3194804168,
+            1,
+            "AGNES B",
+            "MINOR PORTION OF SHOP 1159, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            3994804500,
+            1,
+            "CHAGEE YOHO SHOP",
+            "SHOP 1069A, 1/F., YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ],
+          [
+            3994804519,
+            1,
+            "MAK'S NOODLE",
+            "SHOP NO. 2058, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717228062
+        ]
+      ],
+      "coordinate": [
+        1.9903316035043626,
+        0.3917437069425934,
+        16.75
+      ],
+      "halfSize": [
+        144.49845275928965,
+        68.60559500008821,
+        12.75
+      ]
+    },
+    {
+      "attributes": [
+        717226025,
+        13,
+        [
+          [
+            2294811463,
+            0,
+            "MOMOKU",
+            "SHOP NO. B148-149, 1/F, YOHO MIX, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ],
+          [
+            2294811481,
+            0,
+            "Pause It",
+            "SHOP B120, LEVEL 1, YOHO MIX, 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2294811490,
+            0,
+            "HUAYAN BANQUET",
+            "SHOP NOS. B131-137 ON LEVEL 1, YOHO MIX, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2294811542,
+            0,
+            "MELLOW BROWN COFFEE BY UCC",
+            "SHOP NO. B109, LEVEL 1, YOHO MIX, NO. 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            2294811579,
+            0,
+            "BFF Burger's Friend Forever",
+            "SHOP NO. B116, LEVEL 1, YOHO MIX, 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2294811612,
+            0,
+            "Tommy Yummy Thai Caf\u00e9",
+            "SHOP NO. B147 AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE ON LEVEL 1, YOHO MIX, NO. 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2294811621,
+            0,
+            "PEKO PEKO EATERY",
+            "SHOPS NO. B141-B142, LEVEL1, YOHO MIX, 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2294811658,
+            0,
+            "YAKINIKU KAKURA",
+            "SHOP NO. B155, LEVEL 1, YOHO MIX, 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2294811685,
+            0,
+            "Cou Cou \u2022 Tea Mi Tea",
+            "SHOP NOS. B121-B126, LEVEL 1, YOHO MIX, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2294811700,
+            0,
+            "KOKORO TOKYO MAZESOBA",
+            "SHOP B101-B102, LEVEL 1, YOHO MIX, 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2294811861,
+            0,
+            "Taier Suancai & Fish",
+            "SHOP B103, 1/F, YOHO MIX, 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            3194804122,
+            1,
+            "Hefu Noodles",
+            "SHOP NO. B119, LEVEL 1, YOHO MIX, 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ],
+          [
+            3994804494,
+            1,
+            "No Record",
+            "SHOP NO. B162 ON LEVEL 1, YOHO MIX, NO. 1 LONG LOK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          717228178
+        ]
+      ],
+      "coordinate": [
+        1.9902712560593703,
+        0.39173965243651704,
+        11.550000190734863
+      ],
+      "halfSize": [
+        96.21121464669704,
+        53.43161999993026,
+        6.65000057220459
+      ]
+    }
+  ]
+}

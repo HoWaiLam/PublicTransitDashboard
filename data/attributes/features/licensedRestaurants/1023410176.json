@@ -1,0 +1,2153 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1023410176,
+        1,
+        [
+          [
+            2215800329,
+            0,
+            "Caf\u00e9 de Coral",
+            "SHOP 1, LOWER GROUND 1/F., SHEK PAI WAN SHOPPING CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410184
+        ]
+      ],
+      "coordinate": [
+        1.99242003017726,
+        0.38832449751827575,
+        44.75
+      ],
+      "halfSize": [
+        45.33667499991134,
+        156.0327050006017,
+        15.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1023410177,
+        1,
+        [
+          [
+            2215187848,
+            0,
+            "Cafe De Coral",
+            "SHOP NO.26, G/F, WAH KWAI SHOPPING CENTRE, WAH KWAI ESTATE, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410188
+        ]
+      ],
+      "coordinate": [
+        1.9921006602852127,
+        0.38833527340415225,
+        9.949999809265137
+      ],
+      "halfSize": [
+        85.54900000011548,
+        33.73649999964982,
+        5.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410178,
+        1,
+        [
+          [
+            2215800240,
+            0,
+            "\u7e3d\u90e8\u7f8e\u98df\u5c4b",
+            "SHOP 3B, G/F., KA WO BUILDING, 14-22 KA WO STREET, TIN WAN, HONG KONG",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410189
+        ]
+      ],
+      "coordinate": [
+        1.9922706870372235,
+        0.3883358060780552,
+        10.550000190734863
+      ],
+      "halfSize": [
+        29.451270000077784,
+        25.85671499930322,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1023410179,
+        1,
+        [
+          [
+            3115800707,
+            1,
+            "Ping Kee Noodle Shop",
+            "SHOP D, G/F., EVER SECURE MANSION, NOS. 21-25 KA WO STREET, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410194
+        ]
+      ],
+      "coordinate": [
+        1.9922668631751972,
+        0.38833207280283666,
+        12.550000190734863
+      ],
+      "halfSize": [
+        11.986825000029057,
+        11.985420000739396,
+        5.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1023410180,
+        1,
+        [
+          [
+            2215801289,
+            0,
+            "\u83ef\u8a18\u5c0f\u5eda",
+            "G/F. (PORTION) & LG/F., WAH LEE BUILDING, NO. 15-17 TSUNG MAN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410195
+        ]
+      ],
+      "coordinate": [
+        1.992389676437932,
+        0.3883321819840569,
+        7.550000190734863
+      ],
+      "halfSize": [
+        10.588984999805689,
+        10.038034999743104,
+        3.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1023410181,
+        2,
+        [
+          [
+            2215801049,
+            0,
+            "\u7fa4\u5fc3\u9910\u5ef3",
+            "SHOP 3, GROUND FLOOR, KA FOOK COURT, NOS. 2, 6, 8 & 10 KA WO STREET & NOS. 1 & 3 TIN WAN STREET, HONG KONG",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2215801669,
+            0,
+            "\u7530\u7063\u51b0\u5ba4\u5c0f\u5eda",
+            "SHOP A1, G/F., KA WO BUILDING, NO. 12-14 KA WO STREET, TIN WAN, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410196
+        ]
+      ],
+      "coordinate": [
+        1.9922764094523915,
+        0.38833103334067204,
+        10.399999618530273
+      ],
+      "halfSize": [
+        16.05451499996707,
+        15.218829999677837,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1023410182,
+        1,
+        [
+          [
+            2215185587,
+            0,
+            "\u5357\u8a18\u7c89\u9eb5",
+            "SHOP 1-3, G/F, 208 ABERDEEN MAIN ROAD, HONG KONG",
+            null,
+            "2027-02-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410197
+        ]
+      ],
+      "coordinate": [
+        1.9923776149635244,
+        0.3883314680100485,
+        7.450000286102295
+      ],
+      "halfSize": [
+        10.70642999978736,
+        10.065499999560416,
+        2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1023410183,
+        1,
+        [
+          [
+            2215800310,
+            0,
+            "Caritas Oswald Cheung International House Cafeteria",
+            "1/F (PORTION), NO. 20 TIN WAN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410198
+        ]
+      ],
+      "coordinate": [
+        1.9922854667418284,
+        0.38832901680637544,
+        17.0
+      ],
+      "halfSize": [
+        23.145000000018626,
+        20.74500000011176,
+        11.0
+      ]
+    },
+    {
+      "attributes": [
+        1023410184,
+        1,
+        [
+          [
+            2215205700,
+            0,
+            "\u529f\u592b\u9ede\u5fc3",
+            "SHOP NO.1, NO.2 AND SHOP NO.3 (PORTION),G/F, ISLAND BUILDING., 190 ABERDEEN MAIN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-11-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410200
+        ]
+      ],
+      "coordinate": [
+        1.9923867072150874,
+        0.3883295900051181,
+        9.350000381469727
+      ],
+      "halfSize": [
+        10.482569999992847,
+        10.136409999802709,
+        5.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1023410185,
+        2,
+        [
+          [
+            2215143994,
+            0,
+            "McDonald's",
+            "SHOP NO. 1 & 2, G/F, SILVER MANSION, 81 SHEK PAI WAN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-03-10"
+          ],
+          [
+            3115800664,
+            1,
+            "Black Cherry Coffee",
+            "SHOP 6, G/F., SILVER MANSION, 81 SHEK PAI WAN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410211
+        ]
+      ],
+      "coordinate": [
+        1.9922714376653485,
+        0.388324542248302,
+        9.800000190734863
+      ],
+      "halfSize": [
+        12.850955000147223,
+        10.758604999631643,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        1023410186,
+        2,
+        [
+          [
+            2215800611,
+            0,
+            "TIN YUEN CHUN CHE NICE FOOD RESTAURANT",
+            "SHOP F & G, G/F., SOUTH VIEW GARDEN, NO. 80 SHEK PAI WAN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-18"
+          ],
+          [
+            2215801678,
+            0,
+            "\u56cd\u9ede",
+            "SHOP D, G/F., SOUTH VIEW GARDEN, 80 SHEK PAI WAN ROAD, TIN WAN, HONG KONG",
+            null,
+            "2026-06-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410214
+        ]
+      ],
+      "coordinate": [
+        1.9922672909152415,
+        0.38832076568091767,
+        14.449999809265137
+      ],
+      "halfSize": [
+        20.4714199998416,
+        18.36699999962002,
+        9.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1023410187,
+        1,
+        [
+          [
+            3115216298,
+            1,
+            "Hei Kee Store",
+            "SHOP G7, PELENE MANSION, 5 YUE KO STREET, TIN WAN, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-10-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410215
+        ]
+      ],
+      "coordinate": [
+        1.9922645077955135,
+        0.3883188616444902,
+        9.699999809265137
+      ],
+      "halfSize": [
+        21.832500000018626,
+        16.740999999456108,
+        4.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410188,
+        4,
+        [
+          [
+            2215095075,
+            0,
+            "Pizza Hut",
+            "SHOP NO. 210, 2/F, PORT CENTRE, AIL 97, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2215802538,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP 208, 2/F., PORT CENTRE, 38 CHENGTU ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2215803151,
+            0,
+            "MOS Burger",
+            "SHOP NOS. 110-110A & 112, 1/F., PORT CENTRE, 38 CHENGTU ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2215803674,
+            0,
+            "Sushiro Aberdeen Port Centre",
+            "SHOP 301, 3/F, PORT CENTRE SHOPPING ARCADE, 38 CHENGTU ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410216
+        ]
+      ],
+      "coordinate": [
+        1.9923804260847877,
+        0.38831867812622295,
+        11.399999618530273
+      ],
+      "halfSize": [
+        19.581350000109524,
+        17.890530000440776,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1023410189,
+        3,
+        [
+          [
+            2215214823,
+            0,
+            "\u7f8e\u5473\u9bae",
+            "SHOP 7, G/F, SIU KWAN MANSION, 120 OLD MAIN STREET, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2215233682,
+            0,
+            "\u5feb\u6a02",
+            "SHOP 7A, G/F, SIU KWAN MANSION, 120 OLD MAIN STREET, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2027-03-15"
+          ],
+          [
+            3115800202,
+            1,
+            "BLESSING DESSERT",
+            "SHOP NO. 3, G/F., SIU KWAN MANSION, 118-120 OLD MAIN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410217
+        ]
+      ],
+      "coordinate": [
+        1.992400377130622,
+        0.3883174720515953,
+        8.100000381469727
+      ],
+      "halfSize": [
+        12.07270499970764,
+        10.724960000254214,
+        4.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1023410190,
+        6,
+        [
+          [
+            2215036285,
+            0,
+            "McDonald's",
+            "SHOP 6A&6B, G/F, SITE NO. 4, ABERDEEN CENTRE, AIL 302, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2215801757,
+            0,
+            "Gyukaku Japanese Yakiniku Restaurant",
+            "SHOP NO. 45 ON THE 1/F., ABERDEEN CENTRE SITE 4, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-27"
+          ],
+          [
+            2215802121,
+            0,
+            "TAI HING",
+            "SHOP 14, 1/F., SITE 4, ABERDEEN CENTRE, NAM NING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2215803133,
+            0,
+            "\u5341\u4e8c\u5473",
+            "SHOP 7, G/F, SITE 4, ABERDEEN CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2215803230,
+            0,
+            "NABE ONE",
+            "SHOP 15, 1/F, SITE 4, ABERDEEN CENTRE, 2-16 NAM NING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3115800576,
+            1,
+            "Starbucks Coffee",
+            "SHOP NOS. 6-9 ON THE FIRST FLOOR, ABERDEEN CENTRE SITE 4, HONG KONG",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410220
+        ]
+      ],
+      "coordinate": [
+        1.9923707849050472,
+        0.3883106630909857,
+        8.850000381469727
+      ],
+      "halfSize": [
+        24.746499999891967,
+        41.71932999975979,
+        4.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1023410191,
+        1,
+        [
+          [
+            2215801979,
+            0,
+            "\u541b\u76db\u9903\u5b50\u6e90",
+            "SHOP D, G/F, SZE HEI BUILDING, 90-96 SHEK PAI WAN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410221
+        ]
+      ],
+      "coordinate": [
+        1.9922758015206474,
+        0.38831488638252815,
+        13.550000190734863
+      ],
+      "halfSize": [
+        13.957489999942482,
+        13.414209999144077,
+        8.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1023410192,
+        8,
+        [
+          [
+            2215800435,
+            0,
+            "MIN JUN NOODLE",
+            "G/F., SHOP 8, SITE 5, 8 NAM NING STREET, ABERDEEN CENTRE, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2215801702,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP 3, G/F., SITE 5 ABERDEEN CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2215802343,
+            0,
+            "MILK CAFE & UURO",
+            "SHOP 6A (PORTION A), G/F., SITE 5 ABERDEEN CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2215802389,
+            0,
+            "Hainan South",
+            "SHOP 5, G/F., SITE 5 ABERDEEN CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-02"
+          ],
+          [
+            2215802547,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP H, 1/F., ABERDEEN CENTRE (SITE 5), 6-12 NAM NING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-13"
+          ],
+          [
+            2215803115,
+            0,
+            "MOMOKU CHICKEN FACTORY R.U.D.",
+            "SHOP NO. 5B & 5C, G/F., SITE 5, ABERDEEN CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-02-28"
+          ],
+          [
+            2215803285,
+            0,
+            "EI FLAME JAPANESE RESTAURANT",
+            "SHOP 4B, G/F, SITE 5, ABERDEEN CENTRE, HONG KONG",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2215803656,
+            0,
+            "\u7f8e\u5fc3MX",
+            "SHOP A, G/F, SITE 5, ABERDEEN CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410222
+        ]
+      ],
+      "coordinate": [
+        1.9923603894624808,
+        0.38831010477279104,
+        9.149999618530273
+      ],
+      "halfSize": [
+        24.784500000067055,
+        41.729689999483526,
+        4.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410193,
+        1,
+        [
+          [
+            3115800275,
+            1,
+            "BAR PACIFIC",
+            "SHOP 1 & SHOP 2, G/F., NOS. 238 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410223
+        ]
+      ],
+      "coordinate": [
+        1.9923305881801638,
+        0.38831251915511855,
+        11.75
+      ],
+      "halfSize": [
+        27.314329999964684,
+        26.472489999607205,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1023410194,
+        1,
+        [
+          [
+            2215129334,
+            0,
+            "\u6cf0\u7687\u5bae",
+            "SHOP 5, LG/F, COMFORT CENTRE, 108 OLD MAIN STREET, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410224
+        ]
+      ],
+      "coordinate": [
+        1.99240069448757,
+        0.3883126713018842,
+        7.199999809265137
+      ],
+      "halfSize": [
+        12.665539999958128,
+        20.39462999999523,
+        3.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1023410195,
+        1,
+        [
+          [
+            3115231541,
+            1,
+            "\u6c38\u5eb7",
+            "SHOP NO.K-L, G/F, KAM FUNG BUILDING, 171 ABERDEEN MAIN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410226
+        ]
+      ],
+      "coordinate": [
+        1.9923884412667172,
+        0.3883097263489681,
+        10.5
+      ],
+      "halfSize": [
+        14.55913499975577,
+        31.044479999691248,
+        6.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1023410196,
+        2,
+        [
+          [
+            3115800983,
+            1,
+            "\u80a5\u4ed4\u8a18\u9eb5\u5bb6",
+            "SHOP D, G/F., ALBERT HOUSE, NOS. 20, 22, 24 & 28 CHENGTU ROAD & NO. 12 SAI ON STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-24"
+          ],
+          [
+            3115801108,
+            1,
+            "\u4e09\u597d\u725b\u96dc",
+            "SHOP F, G/F., ALBERT HOUSE, NOS. 20, 22, 24 & 28 CHENGTU ROAD & NO. 12 SAI ON STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-09-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410227
+        ]
+      ],
+      "coordinate": [
+        1.99237921692636,
+        0.38831097917218454,
+        10.699999809265137
+      ],
+      "halfSize": [
+        9.645500000100583,
+        19.794999999925494,
+        6.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410197,
+        4,
+        [
+          [
+            2215800897,
+            0,
+            "\u99df\u99ac\u62d6\u8eca\u6f6e\u6c55\u98ef\u5e97",
+            "SHOP 1, 3, 5, 6, 7 & 8, 1/F, ABERDEEN CENTRE SITE 2, NAM NING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2215802918,
+            0,
+            "\u767e\u82b3\u6c60\u4e0a\u4fbf\u7576",
+            "SHOP 2, G/F, SITE 2, ABERDEEN CENTRE, 7-11 NAM NING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2215803434,
+            0,
+            "Sugidama Aberdeen",
+            "SHOP 1, G/F., SITE 2, ABERDEEN CENTRE, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3915801203,
+            1,
+            "\u9903\u91cc",
+            "SHOP 27, G/F, SITE 2, ABERDEEN CENTRE, HONG KONG",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410230
+        ]
+      ],
+      "coordinate": [
+        1.9923500435233108,
+        0.3883068866784037,
+        10.649999618530273
+      ],
+      "halfSize": [
+        24.14449999993667,
+        36.8390000006184,
+        6.25
+      ]
+    },
+    {
+      "attributes": [
+        1023410198,
+        4,
+        [
+          [
+            2215800019,
+            0,
+            "\u8993\u5eda",
+            "SHOP NO. 1, G/F., ABBA SHOPPING MALL, 227 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-25"
+          ],
+          [
+            3815803651,
+            0,
+            "GARDEN RESTAURANT",
+            "SHOP NOS. 1 & 34, 1/F., ABBA SHOPPING MALL, NOS. 223-227 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3115800831,
+            1,
+            "NEIGHBOURHOOD COFFEE",
+            "SHOP NO. 2, G/F., ABBA SHOPPING MALL, 223-227 ABERDEEN MAIN ROAD, HONG KONG",
+            null,
+            "2026-04-14"
+          ],
+          [
+            3115800965,
+            1,
+            "Pho Bo Sot Vang",
+            "SHOP 27A, G/F, ABBA SHOPPING MALL, NOS. 223-227 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410232
+        ]
+      ],
+      "coordinate": [
+        1.9923405365480351,
+        0.38830700848865335,
+        11.549999237060547
+      ],
+      "halfSize": [
+        29.19690499966964,
+        29.267405000515282,
+        7.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1023410199,
+        1,
+        [
+          [
+            3115801092,
+            1,
+            "\u6d69\u8a18\u751c\u54c1",
+            "SHOP A1(A), G/F., ON FAI BUILDING, NO. 82 ABERDEEN OLD MAIN STREET, SOUTHERN, HONG KONG",
+            null,
+            "2026-07-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410233
+        ]
+      ],
+      "coordinate": [
+        1.9924011712669139,
+        0.3883057713537719,
+        10.050000190734863
+      ],
+      "halfSize": [
+        13.08849999960512,
+        13.396499999798834,
+        6.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1023410200,
+        1,
+        [
+          [
+            3115800734,
+            1,
+            "\u6f6e\u82d1",
+            "SHOP 1-3, G/F., GOODVIEW CENTRE, 12 WU PAK STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410237
+        ]
+      ],
+      "coordinate": [
+        1.992383861708711,
+        0.38830121343295504,
+        8.15000057220459
+      ],
+      "halfSize": [
+        5.283749999944121,
+        9.267924999818206,
+        4.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1023410201,
+        4,
+        [
+          [
+            2215037774,
+            0,
+            "Dragon Place",
+            "1/F., ABERDEEN CENTRE, 1-5 NAM NING STREET, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2215213769,
+            0,
+            "Cafe De Coral",
+            "SHOP 15 & 16, G/F, SITE 3 OF ABERDEEN CENTRE, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2215800365,
+            0,
+            "GENKI SUSHI",
+            "SHOP 9, 11 & 13, SITE 3, ABERDEEN CENTRE, 1-5 NAM NING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2215802909,
+            0,
+            "Sun Kong Restaurant",
+            "2/F., SITE 3, ABERDEEN CENTRE, 1-5 NAM NING STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410238
+        ]
+      ],
+      "coordinate": [
+        1.9923700220917016,
+        0.3882990479569661,
+        10.5
+      ],
+      "halfSize": [
+        38.19125499995425,
+        20.52500000037253,
+        6.5
+      ]
+    },
+    {
+      "attributes": [
+        1023410202,
+        1,
+        [
+          [
+            3115800521,
+            1,
+            "HUNG FOOK TONG",
+            "SHOP C, GROUND FLOOR, ON TAI BUILDING, NOS. 1-3 WU NAM STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410241
+        ]
+      ],
+      "coordinate": [
+        1.9923900131186352,
+        0.38829827445449244,
+        11.100000381469727
+      ],
+      "halfSize": [
+        8.280985000077635,
+        9.604805000126362,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1023410203,
+        2,
+        [
+          [
+            2215102960,
+            0,
+            "\u5929\u9f8d\u6a13",
+            "SHOP C, G/F, 58-62 ABERDEEN OLD MAIN STREET, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2215801571,
+            0,
+            "Wing's Catering (Aberdeen) Co.",
+            "SHOP 1 & 2, GROUND FLOOR, 58-62 ABERDEEN OLD MAIN STREET, HONG KONG",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410245
+        ]
+      ],
+      "coordinate": [
+        1.9924015016335186,
+        0.3882955034021316,
+        5.849999904632568
+      ],
+      "halfSize": [
+        10.010000000242144,
+        6.412124999798834,
+        2.3499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1023410204,
+        1,
+        [
+          [
+            2215801641,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "G/F. (PORTION) & 1/F., KAM HEUNG BUILDING, 128 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410246
+        ]
+      ],
+      "coordinate": [
+        1.9923972582164717,
+        0.38829497308013333,
+        10.449999809265137
+      ],
+      "halfSize": [
+        8.895000000018626,
+        9.794999999925494,
+        6.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1023410205,
+        1,
+        [
+          [
+            2215801030,
+            0,
+            "KOREAN TABLE",
+            "G/F., MAY COURT, 56 OLD MAIN STREET ABERDEEN, ABERDEEN, HONG KONG",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410247
+        ]
+      ],
+      "coordinate": [
+        1.9924015563295658,
+        0.3882937971510155,
+        6.25
+      ],
+      "halfSize": [
+        9.692249999847263,
+        5.735000000335276,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1023410206,
+        1,
+        [
+          [
+            2215110901,
+            0,
+            "Ming Fai",
+            "SHOP A, G/F, 66-72 ABERDEEN MAIN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410249
+        ]
+      ],
+      "coordinate": [
+        1.992424809080177,
+        0.38829006426815244,
+        6.25
+      ],
+      "halfSize": [
+        10.347035000100732,
+        10.284529999829829,
+        2.6499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        1023410207,
+        4,
+        [
+          [
+            2215138147,
+            0,
+            "McDonald's",
+            "SHOP NO. 426-432, 4/F, CHI FU LANDMARK, POKFULAM, SOUTHERN, HONG KONG",
+            null,
+            "2026-08-03"
+          ],
+          [
+            2215800170,
+            0,
+            "\u98df\u5f97\u559c\u9eb5\u5bb6",
+            "SHOP 305-306, LEVEL 3, CHI FU LANDMARK, POK FU LAM, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2215800222,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. 501, 532-3, 535-8, 5/F., CHI FU LANDMARK, POKFULAM, HONG KONG",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2215803090,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS. 409, 413 & 415-416, 4/F., CHI FU LANDMARK, POK FU LAM, HONG KONG",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410255
+        ]
+      ],
+      "coordinate": [
+        1.9920975231176767,
+        0.38847264740635434,
+        146.45001220703125
+      ],
+      "halfSize": [
+        42.8519999999553,
+        40.30049999989569,
+        4.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1023410208,
+        1,
+        [
+          [
+            2215037905,
+            0,
+            "\u767e\u98df\u574a",
+            "SHOP B, G/F, WAH FU COURT, 4 WAH LOK PATH, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410305
+        ]
+      ],
+      "coordinate": [
+        1.9921028198128001,
+        0.3883788858492597,
+        59.349998474121094
+      ],
+      "halfSize": [
+        20.58834999985993,
+        20.333600000478327,
+        8.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1023410209,
+        1,
+        [
+          [
+            2215802316,
+            0,
+            "GINGER GRILL",
+            "RETAIL 2 & 3, P/F., EAST RETAIL BUILDING, OCEAN PARK, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410366
+        ]
+      ],
+      "coordinate": [
+        1.9923642074587185,
+        0.38833840328802627,
+        19.200000762939453
+      ],
+      "halfSize": [
+        14.594734999816865,
+        23.98137000016868,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1023410210,
+        5,
+        [
+          [
+            2215802565,
+            0,
+            "Hei Yuet Palace Restaurant",
+            "PORTION A ON G/F. & SHOP NO. 32 ON 1/F., NOBLE SQUARE (WAH KWAI SHOPPING CENTRE), WAH KWAI ESTATE, NO. 3 WAH KWAI ROAD, HONG KONG",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2215803179,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 30, G/F., NOBLE SQUARE, WAH KWAI ESTATE, NO. 3 WAH KWAI ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2215803364,
+            0,
+            "Blessing Congee",
+            "SHOP 21, G/F., NOBLE SQUARE, WAH KWAI ESTATE, 3 WAH KWAI ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2215803577,
+            0,
+            "CAFE DE PAPA",
+            "SHOP NOS. 7-10, G/F., NOBLE SQUARE (WAH KWAI SHOPPING CENTRE), WAH KWAI ESTATE, NO. 3 WAH KWAI ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-13"
+          ],
+          [
+            3115801038,
+            1,
+            "\u98df\u5f97\u559c\u9eb5\u5bb6",
+            "SHOP 20, G/F., NOBLE SQUARE, WAH KWAI ESTATE, 3 WAH KWAI ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410377
+        ]
+      ],
+      "coordinate": [
+        1.9921032377443046,
+        0.3883347140729906,
+        14.149999618530273
+      ],
+      "halfSize": [
+        65.84200000017881,
+        30.06649999972433,
+        3.6499996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1023410211,
+        1,
+        [
+          [
+            2215802705,
+            0,
+            "\u767e\u5473\u5712",
+            "G/F., TAI TAK HOUSE, NO. 29 KA WO STREET, TIN WAN, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410395
+        ]
+      ],
+      "coordinate": [
+        1.9922645778608061,
+        0.3883336208453826,
+        18.5
+      ],
+      "halfSize": [
+        11.302500000223517,
+        11.356265000067651,
+        11.0
+      ]
+    },
+    {
+      "attributes": [
+        1023410212,
+        1,
+        [
+          [
+            2215802398,
+            0,
+            "\u69ae\u5229\u8336\u9910\u5ef3",
+            "G/F., 63 SHEK PAI WAN ROAD, TIN WAN, HONG KONG",
+            null,
+            "2026-03-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410437
+        ]
+      ],
+      "coordinate": [
+        1.9922660840782453,
+        0.38832819842235944,
+        13.700000762939453
+      ],
+      "halfSize": [
+        7.066720000002533,
+        7.3828849997371435,
+        7.000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1023410213,
+        1,
+        [
+          [
+            3115145332,
+            1,
+            "Sunshine",
+            "SHOP C & G, G/F, ABERDEEN MANSION, 31 TUNG SING ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410455
+        ]
+      ],
+      "coordinate": [
+        1.9923818480862647,
+        0.3883248813757317,
+        19.05000114440918
+      ],
+      "halfSize": [
+        7.858479999937117,
+        10.03859999962151,
+        14.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1023410214,
+        1,
+        [
+          [
+            3115800992,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "G/F, 181 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410504
+        ]
+      ],
+      "coordinate": [
+        1.9923890642752875,
+        0.3883197029162377,
+        14.09999942779541
+      ],
+      "halfSize": [
+        5.685910000000149,
+        2.913665000349283,
+        10.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1023410215,
+        1,
+        [
+          [
+            2215129352,
+            0,
+            "\u65b0\u5bb9\u8a18\u6d77\u9bae\u574a",
+            "G/F & 1/F, 88 SHEK PAI WAN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410525
+        ]
+      ],
+      "coordinate": [
+        1.992273014428987,
+        0.3883168589524623,
+        14.09999942779541
+      ],
+      "halfSize": [
+        7.630580000113696,
+        8.676479999907315,
+        9.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1023410216,
+        1,
+        [
+          [
+            3115800743,
+            1,
+            "MOJO",
+            "G/F., 100 SHEK PAI WAN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410538
+        ]
+      ],
+      "coordinate": [
+        1.9922779826672836,
+        0.3883133515289185,
+        44.75
+      ],
+      "halfSize": [
+        9.108140000142157,
+        9.663885000161827,
+        39.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1023410217,
+        1,
+        [
+          [
+            2215801720,
+            0,
+            "\u5408\u5229\u7ca5\u54c1\u5e97",
+            "G/F., NO. 21 TUNG SING ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-09-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410546
+        ]
+      ],
+      "coordinate": [
+        1.9923829179653478,
+        0.3883130951692578,
+        10.25
+      ],
+      "halfSize": [
+        7.19281499972567,
+        2.830064999870956,
+        6.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1023410218,
+        1,
+        [
+          [
+            2215803197,
+            0,
+            "\u9bae\u5473\u5712\u7ca5\u9eb5",
+            "G/F, 19 TUNG SING ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410549
+        ]
+      ],
+      "coordinate": [
+        1.9923827954500697,
+        0.3883121905234814,
+        11.59999942779541
+      ],
+      "halfSize": [
+        8.601065000053495,
+        3.0342049999162555,
+        7.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1023410219,
+        1,
+        [
+          [
+            3115800770,
+            1,
+            "\u65b0\u660c\u767c\u9b5a\u86cb\u725b\u4ec0\u7c89\u9eb5",
+            "G/F., NO. 17 TUNG SING ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410553
+        ]
+      ],
+      "coordinate": [
+        1.9923828961383094,
+        0.38831149166703693,
+        11.699999809265137
+      ],
+      "halfSize": [
+        8.683074999600649,
+        2.8788149999454618,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410220,
+        1,
+        [
+          [
+            2215159878,
+            0,
+            "\u5f97\u8a18",
+            "G/F, 13 TUNG SING ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410565
+        ]
+      ],
+      "coordinate": [
+        1.992382932513669,
+        0.3883098803628712,
+        11.850000381469727
+      ],
+      "halfSize": [
+        8.689885000232607,
+        2.8625450003892183,
+        7.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1023410221,
+        1,
+        [
+          [
+            2215802884,
+            0,
+            "\u9577\u65fa\u9e75\u5473\u5927\u738b",
+            "G/F., 9 TUNG SING ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410572
+        ]
+      ],
+      "coordinate": [
+        1.9923831889138097,
+        0.3883082808522061,
+        11.800000190734863
+      ],
+      "halfSize": [
+        7.214974999893457,
+        2.91429500002414,
+        7.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1023410222,
+        1,
+        [
+          [
+            2215803160,
+            0,
+            "\u8d85\u4eba\u71d2\u9d5d",
+            "G/F., NO. 7 TUNG SING ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410575
+        ]
+      ],
+      "coordinate": [
+        1.9923832698347541,
+        0.38830740298793914,
+        11.649999618530273
+      ],
+      "halfSize": [
+        7.1251149997115135,
+        2.923429999500513,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1023410223,
+        1,
+        [
+          [
+            2215045007,
+            0,
+            "\u5fb7\u8208",
+            "G/F, 5 TUNG SING ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410584
+        ]
+      ],
+      "coordinate": [
+        1.992383291763037,
+        0.38830667433599464,
+        11.59999942779541
+      ],
+      "halfSize": [
+        7.2055449998006225,
+        2.8215600000694394,
+        7.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1023410224,
+        2,
+        [
+          [
+            2215117133,
+            0,
+            "\u597d\u8a18\u9ede\u5fc3\u5c0f\u5eda",
+            "FLAT B & D, G/F, 152-156 ABERDEEN MAIN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2215802024,
+            0,
+            "\u6d77\u6771\u8ed2",
+            "SHOP C & E, G/F. & PORTION OF 1/F., VENG HING MANSION, 152-156 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410585
+        ]
+      ],
+      "coordinate": [
+        1.9923964788116182,
+        0.38830573096708393,
+        24.450000762939453
+      ],
+      "halfSize": [
+        8.781934999860823,
+        8.559764999896288,
+        20.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1023410225,
+        1,
+        [
+          [
+            3115800798,
+            1,
+            "\u6f6e\u767c\u8a18",
+            "G/F., 3 TUNG SING ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410590
+        ]
+      ],
+      "coordinate": [
+        1.9923833565101037,
+        0.38830579726760156,
+        11.699999809265137
+      ],
+      "halfSize": [
+        7.158199999947101,
+        2.993654999881983,
+        7.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1023410226,
+        1,
+        [
+          [
+            2215802653,
+            0,
+            "\u5927\u723a\u71d2\u9d5d",
+            "G/F., 146 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-09-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410598
+        ]
+      ],
+      "coordinate": [
+        1.9923966981225372,
+        0.3883028203745729,
+        14.800000190734863
+      ],
+      "halfSize": [
+        8.63357499986887,
+        5.149969999678433,
+        11.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410227,
+        1,
+        [
+          [
+            2215800392,
+            0,
+            "\u6709\u559c\u9910\u5ef3",
+            "G/F., 4 WU PAK STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-12-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410600
+        ]
+      ],
+      "coordinate": [
+        1.9923897517882925,
+        0.3883017752655382,
+        13.75
+      ],
+      "halfSize": [
+        2.921164999715984,
+        9.246100000105798,
+        10.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1023410228,
+        1,
+        [
+          [
+            2215801304,
+            0,
+            "\u5357\u8a18",
+            "1/F. & 2/F., ONSHINE COMMERCIAL BUILDING, NO. 10 TUNG SING ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410602
+        ]
+      ],
+      "coordinate": [
+        1.9923876377407068,
+        0.388301484310599,
+        40.95000076293945
+      ],
+      "halfSize": [
+        5.725000000093132,
+        9.465970000252128,
+        37.14999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1023410229,
+        1,
+        [
+          [
+            2215802617,
+            0,
+            "\u91d1\u9580\u9910\u5ef3",
+            "G/F., NO. 16 WU PAK STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410604
+        ]
+      ],
+      "coordinate": [
+        1.9923823109234924,
+        0.388301199210183,
+        15.850000381469727
+      ],
+      "halfSize": [
+        5.076419999822974,
+        9.384269999340177,
+        12.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1023410230,
+        1,
+        [
+          [
+            2215801775,
+            0,
+            "Soup Plus",
+            "G/F., NO. 22 WU PAK STREET, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410605
+        ]
+      ],
+      "coordinate": [
+        1.9923807696840217,
+        0.3883011146788228,
+        13.949999809265137
+      ],
+      "halfSize": [
+        5.086695000063628,
+        9.386514999903738,
+        10.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410231,
+        1,
+        [
+          [
+            2215803513,
+            0,
+            "Mr. Chicken Hainanese Chicken",
+            "G/F, LEE FAT MANSION, 142 ABERDEEN MAIN ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-12-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410608
+        ]
+      ],
+      "coordinate": [
+        1.9923967870295753,
+        0.38830137629857603,
+        14.800000190734863
+      ],
+      "halfSize": [
+        8.62338999984786,
+        5.064644999802113,
+        11.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410232,
+        2,
+        [
+          [
+            2215077574,
+            0,
+            "Chiu Kee",
+            "G/F, 134 ABERDEEN MAIN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2215108117,
+            0,
+            "\u6c38\u767c\u9910\u5ef3",
+            "G/F, 136 ABERDEEN MAIN ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410626
+        ]
+      ],
+      "coordinate": [
+        1.9923969594454005,
+        0.3882985589399049,
+        14.699999809265137
+      ],
+      "halfSize": [
+        8.607220000121742,
+        4.915369999594986,
+        11.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1023410233,
+        1,
+        [
+          [
+            2215802778,
+            0,
+            "Yoshinoya",
+            "PORTION A OF G/F, NO. 8 WU NAM STREET, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410627
+        ]
+      ],
+      "coordinate": [
+        1.9923825221401497,
+        0.3882978348120219,
+        14.09999942779541
+      ],
+      "halfSize": [
+        5.077905000187457,
+        9.416720000095665,
+        10.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1023410234,
+        1,
+        [
+          [
+            2215803018,
+            0,
+            "\u5927\u723a\u71d2\u9d5d",
+            "SHOP NO. 2, G/F, SOUTH WALK AURA, 12-18 TIN WAN STREET, ABERDEEN, HONG KONG",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1023410724
+        ]
+      ],
+      "coordinate": [
+        1.9922815679786945,
+        0.38832767785904865,
+        9.649999618530273
+      ],
+      "halfSize": [
+        12.020159999839962,
+        13.765890000388026,
+        4.050000190734863
+      ]
+    }
+  ]
+}

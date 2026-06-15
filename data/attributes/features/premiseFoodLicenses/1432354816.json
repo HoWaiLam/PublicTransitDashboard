@@ -1,0 +1,256 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1432354816,
+        1,
+        [
+          [
+            2998000198,
+            4,
+            "\u5361\u6a02B",
+            "G/F (PORTION), TSEUNG KWAN O INDUSTRIAL ESTATE, 9 CHUN CHEONG STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1432354858
+        ]
+      ],
+      "coordinate": [
+        1.994457503731302,
+        0.38900449424317896,
+        10.75
+      ],
+      "halfSize": [
+        36.410370000172406,
+        67.89173999987543,
+        5.25
+      ]
+    },
+    {
+      "attributes": [
+        1432354817,
+        17,
+        [
+          [
+            2998805681,
+            4,
+            "\u98df\u9ede",
+            "STALL A, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2998805690,
+            4,
+            "\u6e2f\u5473\u9053",
+            "STALL D, SHOP 201A, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2998805706,
+            4,
+            "\u71d2\u9d5d\u7687\u5b50",
+            "STALL B (REAR PORTION), SHOP 201,THE LOHAS MARKET,2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2998805724,
+            4,
+            "\u716e\u5834\u9928",
+            "STALL C, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO.1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-03-03"
+          ],
+          [
+            2998805797,
+            4,
+            "EMPEROR CINEMAS",
+            "SHOP 434, 4/F, THE LOHAS, NO.1 LOHAS PARK ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2998806356,
+            4,
+            "KIJI BAKERY",
+            "STALL J, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2998806903,
+            4,
+            "\u9b5a\u6ecb\u5473",
+            "STALL M, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2998807191,
+            4,
+            "Whiskers N Paws Lohas",
+            "PORTION A OF SHOP UNIT 358, LEVEL 3, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2998807289,
+            4,
+            "A-1 Bakery",
+            "SHOP UNIT 314, LEVEL 3, THE LOHAS, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2998807474,
+            4,
+            "Beard Papa's",
+            "SHOP UNIT 301B, LEVEL 3 , THE LOHAS, NO.1 LOHAS PARK ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2998807526,
+            4,
+            "JOYFUL",
+            "STALL N, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            3698802800,
+            5,
+            "Butcher Craft",
+            "STALL E, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO.1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            3698802828,
+            5,
+            "\u9999\u6e2f\u9bae\u8c6c",
+            "STALL G, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            3698802837,
+            5,
+            "\u6d77\u9bae\u57ce",
+            "STALL H, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            3698803344,
+            5,
+            "\u725b\u5e02",
+            "STALL L, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            3698803520,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL P, SHOP 201, THE LOHAS MARKET, 2/F, THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            3598800432,
+            8,
+            "\u71d2\u9d5d\u7687\u5b50",
+            "STALL B (FRONT PORTION), SHOP 201,THE LOHAS MARKET, 2/F,THE LOHAS, NO. 1 LOHAS PARK ROAD, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1432355008
+        ]
+      ],
+      "coordinate": [
+        1.994388404863814,
+        0.38911681206454035,
+        20.850000381469727
+      ],
+      "halfSize": [
+        118.7916700001806,
+        112.48419040901354,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1432354818,
+        1,
+        [
+          [
+            2998806532,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP 01, G/F, DT HUB, NO.5 CHUN CHEONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TSEUNG KWAN O, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1432355009
+        ]
+      ],
+      "coordinate": [
+        1.9944344905446565,
+        0.3890086867854952,
+        11.299999237060547
+      ],
+      "halfSize": [
+        43.281810000073165,
+        42.49146000016481,
+        6.999999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1432354819,
+        1,
+        [
+          [
+            2598800026,
+            3,
+            "cafe corner",
+            "ROOM LN 207, 2/F., LINK BLOCK, TVB CITY, 77 CHUN CHOI STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1432355013
+        ]
+      ],
+      "coordinate": [
+        1.9943810054292492,
+        0.3889794867517368,
+        15.850000381469727
+      ],
+      "halfSize": [
+        15.056214999873191,
+        7.299970000050962,
+        9.75
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2635 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1096810496,
+        1,
+        [
+          [
+            2918810382,
+            4,
+            "THAI C",
+            "SHOP UA, 1/F., CENTRAL PIER NO. 6, CENTRAL, HONG KONG",
+            null,
+            "2026-12-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810496
+        ]
+      ],
+      "coordinate": [
+        1.9924731082136613,
+        0.3889885085957217,
+        9.0
+      ],
+      "halfSize": [
+        24.047875000163913,
+        40.75492999982089,
+        4.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810497,
+        5,
+        [
+          [
+            2918803681,
+            4,
+            "Subway",
+            "SHOP H1, CENTRAL TERMINAL BUILDING, CENTRAL PIER 7, STAR FERRY, CENTRAL, HONG KONG",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2918808251,
+            4,
+            "Chi Tachinomi",
+            "SHOP A, LOWER DECK, CENTRAL PIER 7, STAR FERRY, CENTRAL, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2918810081,
+            4,
+            "Be Water Popcorn",
+            "SHOP F, UPPER DECK, CENTRAL PIER 7, STAR FERRY, CENTRAL, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2918810878,
+            4,
+            "PIZZA CENTRAL",
+            "SHOP C, LOWER DECK, CENTRAL PIER 7, STAR FERRY, CENTRAL, HONG KONG",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2918811400,
+            4,
+            "ChiMac",
+            "SHOP E, UPPER DECK, CENTRAL PIER 7, STAR FERRY, CENTRAL, HONG KONG",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810497
+        ]
+      ],
+      "coordinate": [
+        1.9924889807570012,
+        0.3889829394338718,
+        10.600000381469727
+      ],
+      "halfSize": [
+        26.47387500014156,
+        39.9300949992612,
+        6.5
+      ]
+    },
+    {
+      "attributes": [
+        1096810498,
+        5,
+        [
+          [
+            2161004282,
+            1,
+            "THE ROYAL GARDEN",
+            "PORTION OF 3RD B/M, THE ROYAL GARDEN, 69 MODY ROAD, TSIM SHA TSUI EAST, KOWLOON",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2961811655,
+            4,
+            "The Royal Garden",
+            "1/F (PORTION B), THE ROYAL GARDEN, 69 MODY ROAD, TSIM SHA TSUI EAST, KOWLOON",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2961812445,
+            4,
+            "The Royal Garden",
+            "B3/F (PORTION A), THE ROYAL GARDEN, 69 MODY ROAD, TSIM SHA TSUI EAST, KOWLOON",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2961813138,
+            4,
+            "The Royal Garden",
+            "B1/F (PORTION B), THE ROYAL GARDEN, 69 MODY ROAD, TSIM SHA TSUI EAST, KOWLOON",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2961814344,
+            4,
+            "The Royal Garden",
+            "2/F (PORTION A), THE ROYAL GARDEN, 69 MODY ROAD, TSIM SHA TSUI EAST, KOWLOON",
+            null,
+            "2026-05-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810504
+        ]
+      ],
+      "coordinate": [
+        1.9927752819138906,
+        0.3891820794070989,
+        29.100000381469727
+      ],
+      "halfSize": [
+        35.2576599996537,
+        34.004195000045,
+        24.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1096810499,
+        3,
+        [
+          [
+            2961811743,
+            4,
+            "CAHTRAMUE",
+            "SHOP 35A (PORTION A), G/F, JAMES S. LEE MANSION, 33-35 CARNARVON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-27"
+          ],
+          [
+            2961813581,
+            4,
+            "CHAAMYUEN FAMILY FOOD",
+            "SHOP 2A, G/F., JAMES S. LEE MANSION, NOS. 33-35 CARNARVON ROAD, NOS. 2A & 2B PRAT AVENUE, KOWLOON",
+            null,
+            "2026-09-05"
+          ],
+          [
+            3261800884,
+            6,
+            "CHATRAMUE",
+            "SHOP 35A (PORTION B), G/F, JAMES S. LEE MANSION, 33-35 CARNARVON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810512
+        ]
+      ],
+      "coordinate": [
+        1.9927111494684027,
+        0.389183793694685,
+        20.150001525878906
+      ],
+      "halfSize": [
+        14.588934999890625,
+        14.542334999889135,
+        15.250000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1096810500,
+        1,
+        [
+          [
+            2961813590,
+            4,
+            "JAVA JAVA",
+            "SHOP G, G/F, ROSE MANSION, NO. 1, PRAT AVENUE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810537
+        ]
+      ],
+      "coordinate": [
+        1.9927146969360405,
+        0.38917927901289395,
+        16.700000762939453
+      ],
+      "halfSize": [
+        8.679609999991953,
+        10.644144999794662,
+        11.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810501,
+        1,
+        [
+          [
+            2961806321,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F., NO. 1A HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810561
+        ]
+      ],
+      "coordinate": [
+        1.9927093455637643,
+        0.3891746287059147,
+        32.5
+      ],
+      "halfSize": [
+        9.954020000062883,
+        9.53351499978453,
+        27.5
+      ]
+    },
+    {
+      "attributes": [
+        1096810502,
+        1,
+        [
+          [
+            2961814566,
+            4,
+            "BEE CHENG HIANG",
+            "PORTION A OF PORTION OF GROUND FLOOR (INCLUDING PORTION OF MEZZANINE FLOOR) OF HAIPHONG MANSION, NOS. 99-101 NATHAN ROAD, NOS. 53, 54, 55 HAIPHONG ROAD AND NOS. 52 LOCK ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810564
+        ]
+      ],
+      "coordinate": [
+        1.9926736802092766,
+        0.38917323222636974,
+        31.350000381469727
+      ],
+      "halfSize": [
+        21.064200000371784,
+        12.637714999727905,
+        24.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1096810503,
+        4,
+        [
+          [
+            2961813882,
+            4,
+            "Ten Ren's Tea",
+            "SHOP 6, G/F, FRIENDS' HOUSE, 6D CARNARVON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2961814104,
+            4,
+            "ABERDEEN FISHBALL & NOODLES RESTAURANT",
+            "SHOP 10, G/F, FRIEND'S HOUSE, NO. 6H CARNARVON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-14"
+          ],
+          [
+            4961811680,
+            4,
+            "\u534a\u523b\u8403\u8336",
+            "SHOP NO. 8 , G/F, FRIEND'S HOUSE, 4B-6H CARNARVON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-13"
+          ],
+          [
+            3261800990,
+            6,
+            "Ten Ren's Tea",
+            "MINOR PORTION OF SHOP 6, G/F, FRIENDS' HOUSE, 6D CARNARVON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810565
+        ]
+      ],
+      "coordinate": [
+        1.9926949297512284,
+        0.3891727609653159,
+        20.19999885559082
+      ],
+      "halfSize": [
+        17.526014999952167,
+        17.32890999969095,
+        14.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810504,
+        1,
+        [
+          [
+            2961814414,
+            4,
+            "\u9f8d\u6d25\u7f8e\u98df",
+            "PORTION A ON G/F, NO. 55 HANKOW ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810587
+        ]
+      ],
+      "coordinate": [
+        1.9926577837023303,
+        0.3891730710097846,
+        15.950000762939453
+      ],
+      "halfSize": [
+        10.146714999806136,
+        2.7217350006103516,
+        9.25
+      ]
+    },
+    {
+      "attributes": [
+        1096810505,
+        1,
+        [
+          [
+            2961813059,
+            4,
+            "Bakehouse",
+            "SHOP B, G/F, HOWARD BUILDING, NO. 44 HANKOW ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810607
+        ]
+      ],
+      "coordinate": [
+        1.9926635575974128,
+        0.3891700008871487,
+        23.299999237060547
+      ],
+      "halfSize": [
+        8.934719999786466,
+        10.193984999321401,
+        16.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1096810506,
+        8,
+        [
+          [
+            2961811062,
+            4,
+            "\u661f\u4e4b\u5c0f\u5e97",
+            "KIOSK 01, AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2961814511,
+            4,
+            "LEMON-LE",
+            "HS19, PORTION OF AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-05"
+          ],
+          [
+            2961814520,
+            4,
+            "Kwan Kee Store",
+            "HS11, PORTION OF AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-05"
+          ],
+          [
+            2961814557,
+            4,
+            "Jinzi Ham",
+            "HS13, PORTION OF AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-29"
+          ],
+          [
+            4961811529,
+            4,
+            "Luckin Coffee",
+            "TWIN KIOSK 01 & 02, PORTION OF AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-28"
+          ],
+          [
+            4961811556,
+            4,
+            "(NO RECORD FOUND)",
+            "HS 03, AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-15"
+          ],
+          [
+            4961811565,
+            4,
+            "(NO RECORD FOUND)",
+            "HS 02, AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-15"
+          ],
+          [
+            4961811705,
+            4,
+            "(NO RECORD FOUND)",
+            "HS8, PORTION OF AVENUE OF STARS, TSIM SHA TSUI PROMENADE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810609
+        ]
+      ],
+      "coordinate": [
+        1.9927999754355805,
+        0.38917102066754117,
+        5.699999809265137
+      ],
+      "halfSize": [
+        2.343649999704212,
+        2.302849999628961,
+        1.7000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1096810507,
+        2,
+        [
+          [
+            2961809083,
+            4,
+            "\u7965\u8208\u8a18\u4e0a\u6d77\u751f\u714e\u5305",
+            "SHOP 6A, G/F, TSIM SHA TSUI MANSION, NO. 36-50 LOCK ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2961812180,
+            4,
+            "HONG KONG BAKERY LIMITED",
+            "SHOP 7A & 12B, G/F, TSIM SHA TSUI MANSION, 36-50 LOCK ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810610
+        ]
+      ],
+      "coordinate": [
+        1.992673879835004,
+        0.3891683041023863,
+        32.650001525878906
+      ],
+      "halfSize": [
+        21.56982499966398,
+        19.410914999432862,
+        26.75
+      ]
+    },
+    {
+      "attributes": [
+        1096810508,
+        2,
+        [
+          [
+            2961811035,
+            4,
+            "\u6625\u967d\u8336\u4e8b",
+            "SHOP E1, G/F OF HARILELA MANSION, NO. 81 NATHAN ROAD, KOWLOON",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2961812764,
+            4,
+            "\u82b1\u6591\u8336\u793e",
+            "SHOP F, G/F OF HARILELA MANSION, NO. 81 NATHAN ROAD, KOWLOON",
+            null,
+            "2026-03-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810639
+        ]
+      ],
+      "coordinate": [
+        1.9926741570871034,
+        0.38916428425026867,
+        33.099998474121094
+      ],
+      "halfSize": [
+        20.838595000095665,
+        8.603430000133812,
+        27.5
+      ]
+    },
+    {
+      "attributes": [
+        1096810509,
+        1,
+        [
+          [
+            2961175535,
+            4,
+            "EAT MORE MORE",
+            "G/F, 17 LOCK ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810648
+        ]
+      ],
+      "coordinate": [
+        1.9926678703287362,
+        0.38915959061067407,
+        17.25
+      ],
+      "halfSize": [
+        7.587995000183582,
+        19.582100000232458,
+        12.25
+      ]
+    },
+    {
+      "attributes": [
+        1096810510,
+        2,
+        [
+          [
+            2961809366,
+            4,
+            "OWL'S",
+            "FRONT PORTION OF SHOP H, G/F., LYTON BUILDING, 32-48 MODY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2961814283,
+            4,
+            "WAGAKU",
+            "SHOP J ON G/F, LYTON BUILDING, 32-48 MODY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810659
+        ]
+      ],
+      "coordinate": [
+        1.9927270921379057,
+        0.38915741942515375,
+        20.950000762939453
+      ],
+      "halfSize": [
+        22.9824250000529,
+        14.026370000094175,
+        16.75
+      ]
+    },
+    {
+      "attributes": [
+        1096810511,
+        2,
+        [
+          [
+            2961806109,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F, NO. 6 ICHANG STREET, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2961814201,
+            4,
+            "Delight Kitchen",
+            "SHOP B, G/F, 6 ICHANG STREET, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810664
+        ]
+      ],
+      "coordinate": [
+        1.9926545137342573,
+        0.3891572485872646,
+        18.25
+      ],
+      "halfSize": [
+        11.452500000130385,
+        5.262225000187755,
+        12.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810512,
+        1,
+        [
+          [
+            2961812977,
+            4,
+            "KEBAB BISTRO",
+            "SHOP 2, G/F., PENINSULA APARTMENTS, NO. 16 MODY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810667
+        ]
+      ],
+      "coordinate": [
+        1.9927030575266662,
+        0.38915408176237903,
+        21.799999237060547
+      ],
+      "halfSize": [
+        14.467270000372082,
+        17.303895000368357,
+        17.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1096810513,
+        1,
+        [
+          [
+            2961811132,
+            4,
+            "Curry Culture",
+            "G/F, ISA TOWER, NO. 5 MINDEN AVENUE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810680
+        ]
+      ],
+      "coordinate": [
+        1.9927121321287353,
+        0.38915477937286924,
+        26.75
+      ],
+      "halfSize": [
+        5.7955950000323355,
+        5.449389999732375,
+        21.75
+      ]
+    },
+    {
+      "attributes": [
+        1096810514,
+        1,
+        [
+          [
+            2961811707,
+            4,
+            "AMICO PASTICCERIA",
+            "FLAT B, 6/F., MINDEN HOUSE, 13-15 MINDEN AVENUE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810689
+        ]
+      ],
+      "coordinate": [
+        1.99272540761103,
+        0.3891537486795461,
+        37.349998474121094
+      ],
+      "halfSize": [
+        7.232930000405759,
+        7.114559999667108,
+        17.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1096810515,
+        1,
+        [
+          [
+            2161145190,
+            1,
+            "LANGHAM HOTEL HONG KONG",
+            "BASEMENT 2(PORTION), 8 PEKING ROAD, KOWLOON",
+            null,
+            "2026-12-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810701
+        ]
+      ],
+      "coordinate": [
+        1.9926386472181508,
+        0.38914727157373497,
+        39.150001525878906
+      ],
+      "halfSize": [
+        24.75799999991432,
+        26.601719999685884,
+        20.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1096810516,
+        1,
+        [
+          [
+            2961812418,
+            4,
+            "Hong Kong Traditional Food",
+            "SHOP 1, G/F, WING LOCK HOUSE, 16A PEKING ROAD, KOWLOON",
+            null,
+            "2026-11-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810708
+        ]
+      ],
+      "coordinate": [
+        1.9926684772340713,
+        0.38914840153903657,
+        20.44999885559082
+      ],
+      "halfSize": [
+        7.7138499999418855,
+        9.98566500004381,
+        16.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810517,
+        3,
+        [
+          [
+            2961809852,
+            4,
+            "THE ALLEY",
+            "SHOP F, G/F, ALPHA HOUSE, 27-33 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2961814274,
+            4,
+            "\u871c\u96ea\u51b0\u57ce",
+            "PORTION A OF SHOP C1, G/F, ALPHA HOUSE, NOS. 27-33 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-01"
+          ],
+          [
+            3261801106,
+            6,
+            "\u871c\u96ea\u51b0\u57ce",
+            "MAJOR PORTION OF PORTION A OF SHOP C1, G/F, ALPHA HOUSE, NOS. 27-33 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810723
+        ]
+      ],
+      "coordinate": [
+        1.9926770896056203,
+        0.38914322164570686,
+        31.899999618530273
+      ],
+      "halfSize": [
+        13.039989999961108,
+        15.273304999805987,
+        27.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810518,
+        1,
+        [
+          [
+            3661800347,
+            5,
+            "PARK 'N SHOP",
+            "PORTIONS OF BASEMENT FLOOR, UNIVERSIAL COMMERCIAL BLDG., NO. 65-69 PEKING RD., KOWLOON",
+            null,
+            "2026-08-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810727
+        ]
+      ],
+      "coordinate": [
+        1.9926706684397428,
+        0.3891427519693197,
+        23.0
+      ],
+      "halfSize": [
+        8.728929999750108,
+        13.11672499962151,
+        18.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1096810519,
+        1,
+        [
+          [
+            2961805276,
+            4,
+            "7-ELEVEN",
+            "PORTION B OF SHOP A, G/F,HAN CHUNG MANSION,8-10 HANKOW ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810735
+        ]
+      ],
+      "coordinate": [
+        1.9926669516556323,
+        0.3891406822465278,
+        23.69999885559082
+      ],
+      "halfSize": [
+        12.489490000065416,
+        8.448939999565482,
+        19.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1096810520,
+        1,
+        [
+          [
+            2961809913,
+            4,
+            "Ralph Lauren (Hong Kong) Retail Company Limited",
+            "PORTION OF SHOP OT311A, OT312, OT312A & OT313, LEVEL 3, OCEAN TERMINAL, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810745
+        ]
+      ],
+      "coordinate": [
+        1.9925851377072556,
+        0.38912089653074955,
+        13.399999618530273
+      ],
+      "halfSize": [
+        191.7379219075665,
+        85.40575531224022,
+        9.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1096810521,
+        1,
+        [
+          [
+            2961808327,
+            4,
+            "NOOD FOOD",
+            "PORTION OF 14/F, THE PENINSULA OFFICE TOWER, 18 MIDDLE ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-02-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810761
+        ]
+      ],
+      "coordinate": [
+        1.9926731445766752,
+        0.38912792193229573,
+        61.599998474121094
+      ],
+      "halfSize": [
+        29.441829999908805,
+        12.152929999865592,
+        58.400001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1096810522,
+        2,
+        [
+          [
+            2961810768,
+            4,
+            "yu teahouse",
+            "L230, 2/F., ESLITE SPECTRUM, STAR HOUSE, 3 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2961814098,
+            4,
+            "STARLIGHT CONVENIENCE STORE",
+            "SHOP NO. 6, G/F, STAR HOUSE, NO. 3 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810772
+        ]
+      ],
+      "coordinate": [
+        1.9926249775148268,
+        0.3891154351291176,
+        42.0
+      ],
+      "halfSize": [
+        47.66338999988511,
+        29.623824999667704,
+        18.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1096810523,
+        1,
+        [
+          [
+            2961296511,
+            4,
+            "Appolo (Magic House) Superstore Ltd",
+            "SHOP UNIT KP-24, G/F, STAR FERRY PIER (TSIM SHA TSUI), TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810785
+        ]
+      ],
+      "coordinate": [
+        1.9926158536215683,
+        0.38909652457868626,
+        7.25
+      ],
+      "halfSize": [
+        57.051839999854565,
+        65.10427999962121,
+        3.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1096810524,
+        22,
+        [
+          [
+            2161249526,
+            1,
+            "Little Mermaid Bakery",
+            "MAJOR PORTION OF SHOP 3001-DM, LEVEL 3, HARBOUR CITY, CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2961238797,
+            4,
+            "SFB",
+            "3001-AE, LEVEL 3, HARBOUR CITY, CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2961805337,
+            4,
+            "City Super",
+            "SHOP 3001-A1, LEVEL 3, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-28"
+          ],
+          [
+            2961807315,
+            4,
+            "No Record",
+            "SHOP 3001-AG, LEVEL 3, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2961808105,
+            4,
+            "No Record",
+            "SHOP 3001-A2, LEVEL 3, HARBOUR CITY, , TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2961808114,
+            4,
+            "No Record",
+            "SHOP 3001-A3, LEVEL 3, HARBOUR CITY, , TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2961808132,
+            4,
+            "Bellota-Bellota",
+            "SHOP 3001-AI, LEVEL 3, HARBOUR CITY, CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-01"
+          ],
+          [
+            2961808141,
+            4,
+            "TSUKEMONO STUDIUM",
+            "SHOP 3001-A6 , LEVEL 3, HARBOUR CITY, CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-01"
+          ],
+          [
+            2961809092,
+            4,
+            "No Record",
+            "SHOP 3001-H, LEVEL 3, HARBOUR CITY, CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-21"
+          ],
+          [
+            2961810403,
+            4,
+            "SUPER SWEETS GALLERY",
+            "PORTION OF 3001-H1, LEVEL 3, HARBOUR CITY, CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2961812339,
+            4,
+            "The Marco Polo Prince",
+            "3/F (PORTION B), THE MARCO POLO PRINCE, 23 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2961812597,
+            4,
+            "\u5403\u8336\u4e09\u5343",
+            "SHOP OT 264, L2, OCEAN TERMINAL, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2961813369,
+            4,
+            "DIGREEN",
+            "MAJOR PORTION OF SHOP OT G16A, G/F., OCEAN TERMINAL, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-14"
+          ],
+          [
+            2961813420,
+            4,
+            "Tea WG",
+            "MINOR PORTION OF SHOP 3327, 3/F., GATEWAY ARCADE, HARBOUR CITY, 3-27 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-09"
+          ],
+          [
+            2961813891,
+            4,
+            "Godiva Chocolatier",
+            "SHOP 3209, LEVEL 3, GATEWAY ARCADE, HARBOUR CITY, KOWLOON",
+            null,
+            "2026-04-04"
+          ],
+          [
+            2961814034,
+            4,
+            "KEBUKE",
+            "SHOP OT G49, G/F, OCEAN TERMINAL, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-14"
+          ],
+          [
+            4961811501,
+            4,
+            "UNI GREEN",
+            "SHOP 2201-2, LEVEL 2, GATEWAY ARCADE, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3661800134,
+            5,
+            "Citysuper",
+            "SHOP 3001-A4, LEVEL 3, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-26"
+          ],
+          [
+            3661800541,
+            5,
+            "No Record",
+            "SHOP 3001-A7, LEVEL 3, HARBOUR CITY, , , TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-26"
+          ],
+          [
+            3261801009,
+            6,
+            "Godiva Chocolatier",
+            "MINOR PORTION OF SHOP 3209, LEVEL 3, GATEWAY ARCADE, HARBOUR CITY, KOWLOON",
+            null,
+            "2026-04-04"
+          ],
+          [
+            3261801045,
+            6,
+            "Danish Bar",
+            "MINOR PORTION OF SHOP 3001-DM, LEVEL 3, HARBOUR CITY, CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-09"
+          ],
+          [
+            3261801115,
+            6,
+            "DIGREEN",
+            "MINOR PORTION OF SHOP OT G16A, G/F., OCEAN TERMINAL, HARBOUR CITY, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810797
+        ]
+      ],
+      "coordinate": [
+        1.9926116535946812,
+        0.38917513194697073,
+        10.850000381469727
+      ],
+      "halfSize": [
+        81.90118500031531,
+        180.18941500037909,
+        6.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1096810525,
+        1,
+        [
+          [
+            3661800338,
+            5,
+            "International",
+            "PORTION D OF WHOLE BASEMENT,MANSON HOUSE, 74-78 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810815
+        ]
+      ],
+      "coordinate": [
+        1.9926843579458455,
+        0.38917991559762444,
+        10.550000190734863
+      ],
+      "halfSize": [
+        16.395659999921918,
+        17.07903000060469,
+        4.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810526,
+        1,
+        [
+          [
+            2961814371,
+            4,
+            "Anita's Kitchen",
+            "UNIT 8, G/F, MULTIFIELD PLAZA, 3-7 PRAT AVENUE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810817
+        ]
+      ],
+      "coordinate": [
+        1.9927184798108954,
+        0.38917955336598153,
+        12.350000381469727
+      ],
+      "halfSize": [
+        17.717410000041127,
+        15.79820999968797,
+        7.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1096810527,
+        7,
+        [
+          [
+            2961808707,
+            4,
+            "\u9189\u9999\u5c0f\u98df\u96de\u86cb\u4ed4",
+            "SHOP G (PORTION), G/F, CARNARVON MANSION, NOS.8-12E CARNARVON ROAD, NOS.8A-8H, 8J & 8K HUMPHREYS AVENUE, KOWLOON",
+            null,
+            "2026-11-02"
+          ],
+          [
+            2961809588,
+            4,
+            "POTATO  CORNER",
+            "PORTION B OF SHOP G ON THE GROUND FLOOR OF CARNARVON MANSION, NOS. 8-12E CARNARVON ROAD, NOS. 8A-8H, 8J, 8K HUMPHREYS AVENUE, KOWLOON",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2961811275,
+            4,
+            "SILVER MINE BAKE",
+            "SHOP S, G/F., CARNARVON MANSION, NOS. 8-12E CARNARVON ROAD, NOS. 8A-8H & 8J-8K HUMPHREYS AVENUE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-10"
+          ],
+          [
+            2961812579,
+            4,
+            "PIGMATES",
+            "SHOP I, G/F, CARNARVON MANSION, NOS. 8-12E CARNARVON ROAD , NOS. 8A-8H, 8J AND 8K HUMPHREYS AVENUE, KOWLOON",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2961812986,
+            4,
+            "O! DONUT",
+            "SHOP A1, G/F, CARNARVON MANSION, NOS. 8-12E CARNARVON ROAD, NOS. 8A-8H, 8J AND 8K HUMPHREYS AVENUE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-28"
+          ],
+          [
+            2961814186,
+            4,
+            "\u725b\u96dc\u5929\u738b",
+            "SHOP K , G/F, CARNARVON MANSION , NOS. 8-12E CARNARVON ROAD, NOS. 8A-8H, 8J & 8K HUMPHREYS AVENUE , TSIM SHA TSUI , KOWLOON",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2961814645,
+            4,
+            "TIGER SUGAR MOONLIKE",
+            "SHOP R, GROUND FLOOR, CARNARVON MANSION, 8A-8K HUMPHREYS AVE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810818
+        ]
+      ],
+      "coordinate": [
+        1.9927007469826206,
+        0.38917826868636046,
+        6.900000095367432
+      ],
+      "halfSize": [
+        23.894489999860525,
+        19.479519999586046,
+        1.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1096810528,
+        1,
+        [
+          [
+            3261800671,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO.1 & 2, G/F, HART AVENUE PLAZA, 5-9A HART AVENUE, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810829
+        ]
+      ],
+      "coordinate": [
+        1.9927161181742472,
+        0.38917324121202224,
+        11.300000190734863
+      ],
+      "halfSize": [
+        18.61426499998197,
+        17.930434999987483,
+        6.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1096810529,
+        15,
+        [
+          [
+            2961808895,
+            4,
+            "Market Place",
+            "SHOP NO. B111A TO B121 (PORTION D), BASEMENT 1, K11, 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2961808910,
+            4,
+            "Market Place",
+            "SHOP NO. B111A TO B121 (PORTION E), BASEMENT 1, K11, 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2961808929,
+            4,
+            "Market Place",
+            "SHOP NO. B111A TO B121 (PORTION F), BASEMENT 1, K11, 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2961811567,
+            4,
+            "Smile Yogurt",
+            "SHOP NO. B102A, BASEMENT 1, K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2961812649,
+            4,
+            "JRINK",
+            "KIOSK NO. 51, LEVEL 3, K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2961812913,
+            4,
+            "\u559c\u8336",
+            "SHOP NO. G32 & G33 ON GROUND FLOOR OF K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2961813271,
+            4,
+            "IKEA",
+            "PORTION A (MAJOR PORTION) OF SHOP NOS. B204-B210, BASEMENT 2, K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2961813457,
+            4,
+            "Mister Donut",
+            "SHOP NO. B103A, BASEMENT 1, K11, 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2961814070,
+            4,
+            "SILK TEA",
+            "SHOP NO. B122A, BASEMENT 1, K11 ART MALL, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2961814496,
+            4,
+            "Luckin Coffee",
+            "KIOSK NO.17, BASEMENT 1, K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, YAU TSIM, KOWLOON",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2961814502,
+            4,
+            "JAMBA",
+            "SHOP NO. B101A, B1/F, K11 ART MALL, 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-05"
+          ],
+          [
+            3661800231,
+            5,
+            "MARKET PLACE",
+            "SHOP NO. B111A TO B121 (PORTION A), BASEMENT 1, K11, 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3261800848,
+            6,
+            "Smile Yogurt",
+            "MINOR PORTION OF SHOP NO. B102A, BASEMENT 1, K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3261800945,
+            6,
+            "IKEA",
+            "PORTION A (MINOR PORTION) OF SHOP NOS. B204-B210, BASEMENT 2, K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3261801072,
+            6,
+            "SARASEI",
+            "PORTION A OF SHOP NO. B225 ON BASEMENT 2 OF K11 ART MALL, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810830
+        ]
+      ],
+      "coordinate": [
+        1.9927058988615767,
+        0.3891652401476258,
+        12.050000190734863
+      ],
+      "halfSize": [
+        70.83259000023827,
+        51.40072500053793,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1096810530,
+        2,
+        [
+          [
+            2961811868,
+            4,
+            "Twist & Buckle",
+            "SHOP 2 (MAJOR PORTION), G/F, BLOCK A, WINDSOR MANSION, 29-31 CHATHAM ROAD SOUTH, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-25"
+          ],
+          [
+            3261800893,
+            6,
+            "Twist & Buckle",
+            "SHOP 2 (MINOR PORTION), G/F, BLOCK A, WINDSOR MANSION, 29-31 CHATHAM ROAD SOUTH, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810831
+        ]
+      ],
+      "coordinate": [
+        1.9927352356469101,
+        0.3891723621355412,
+        7.449999809265137
+      ],
+      "halfSize": [
+        15.971499999985099,
+        12.602500000037253,
+        3.549999952316284
+      ]
+    },
+    {
+      "attributes": [
+        1096810531,
+        19,
+        [
+          [
+            2961805850,
+            4,
+            "Bafang Yunji",
+            "STALL NO. 02 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2961805878,
+            4,
+            "MING'S KITCHEN",
+            "STALL NO. 04 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2961805896,
+            4,
+            "1 Ban",
+            "STALL NO. 14 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2961805902,
+            4,
+            "Wok & Flame",
+            "STALL NO. 01 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2961805911,
+            4,
+            "DESSERT",
+            "STALL NO. 15 OF SHOP NO. B01 BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-30"
+          ],
+          [
+            2961805920,
+            4,
+            "Dragon Blessing",
+            "STALL NO. 07A OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2961805939,
+            4,
+            "DRAGON BLESSING",
+            "STALL NO. 07 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2961805948,
+            4,
+            "Pepper Lunch",
+            "STALL NO. 10 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2961805957,
+            4,
+            "HK ROASTED",
+            "STALL NO. 13 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2961805975,
+            4,
+            "FRUITS JUICE , HOT & COLD DRINKS",
+            "STALL NO. 16 & 17 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2961806075,
+            4,
+            "SO GOR BEEF BRISKET",
+            "STALL NO. 12 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2961806118,
+            4,
+            "Doukeyi",
+            "STALL NO. 06A OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-24"
+          ],
+          [
+            2961806154,
+            4,
+            "Doukeyi",
+            "STALL NO. 06 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-10"
+          ],
+          [
+            2961807519,
+            4,
+            "PACIFIC COFFEE COMPANY",
+            "COFFEE COUNTER OPPOSITE TO SHOP 139A ON 1/F, SHOPPING ARCADE, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-12"
+          ],
+          [
+            2961807607,
+            4,
+            "YEH CHAN",
+            "STALL NO. 11 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2961808886,
+            4,
+            "Italian Corner",
+            "STALL NO. 18 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2961808965,
+            4,
+            "Xiao La Jiao",
+            "STALL NO. K1 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2961809126,
+            4,
+            "No Record",
+            "STALL NO. 19 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-11"
+          ],
+          [
+            2961814247,
+            4,
+            "Korean Table",
+            "STALL NO. 03 OF SHOP NO. B01, BASEMENT FLOOR, SILVERCORD, 30 CANTON ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810841
+        ]
+      ],
+      "coordinate": [
+        1.9926314118501385,
+        0.3891651987280516,
+        10.949999809265137
+      ],
+      "halfSize": [
+        45.245924999937415,
+        47.42334000021219,
+        7.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1096810532,
+        1,
+        [
+          [
+            2161800200,
+            1,
+            "Kowloon Restaurant",
+            "MINOR PORTION OF SHOP A AND SHOP B, G/F, LOKVILLE COMMERCIAL BUILDING, NO. 25-27 LOCK ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810845
+        ]
+      ],
+      "coordinate": [
+        1.9926668681081512,
+        0.38917021228275667,
+        11.399999618530273
+      ],
+      "halfSize": [
+        8.330674999859184,
+        10.1396099999547,
+        4.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810533,
+        1,
+        [
+          [
+            2161002222,
+            1,
+            "KOWLOON SHANGRI-LA, HONG KONG",
+            "LEVEL 2(PORTION), SHANGRI-LA HOTEL, 64 MODY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810856
+        ]
+      ],
+      "coordinate": [
+        1.992764421043605,
+        0.3891576451053417,
+        9.300000190734863
+      ],
+      "halfSize": [
+        46.407999999821186,
+        41.46899999957532,
+        4.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1096810534,
+        9,
+        [
+          [
+            2961806525,
+            4,
+            "STARBUCKS COFFEE",
+            "KIOSK 2, LOBBY FLOOR, ISQUARE, NO. 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-04-08"
+          ],
+          [
+            2961806604,
+            4,
+            "MARKET PLACE",
+            "SHOP LG08-13 (PORTION B), ISQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2961806613,
+            4,
+            "MARKET PLACE",
+            "SHOP LG08-13 (PORTION C), ISQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2961809490,
+            4,
+            "HANA-MUSUBI",
+            "SHOP NO. 5A, LOWER GROUND FLOOR, I SQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2961812481,
+            4,
+            "CHATERAISE",
+            "SHOP NO. 06A, MTR FLOOR, ISQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2961812676,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP MTR 13, MTR FLOOR, ISQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-26"
+          ],
+          [
+            3661800240,
+            5,
+            "MARKET PLACE",
+            "SHOP LG08-13 (PORTION A), ISQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-26"
+          ],
+          [
+            3661800976,
+            5,
+            "MARKS AND SPENCER",
+            "PORTIONS B OF SHOP G3A, G3B & G3C, G/F, ISQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3261801081,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP MTR 13, MTR FLOOR, ISQUARE, 63 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810857
+        ]
+      ],
+      "coordinate": [
+        1.9926747936269926,
+        0.38915603669386384,
+        31.75
+      ],
+      "halfSize": [
+        22.988624999765307,
+        46.2277300003916,
+        27.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1096810535,
+        2,
+        [
+          [
+            2961806224,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP 12, G/F., EMPRESS PLAZA, 17-19 CHATHAM RD., TST, KOWLOON",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3661800499,
+            5,
+            "Wellcome",
+            "BASEMENT (PORTION A), EMPRESS PLAZA, 17-19 CHATHAM ROAD SOUTH, KOWLOON",
+            null,
+            "2026-05-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810859
+        ]
+      ],
+      "coordinate": [
+        1.9927332401988591,
+        0.38915773138200177,
+        11.700000762939453
+      ],
+      "halfSize": [
+        13.834999999962747,
+        14.321000000461936,
+        7.500000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1096810536,
+        1,
+        [
+          [
+            2961812241,
+            4,
+            "YING FUNG HAINAN CHICKEN SPECIALIST",
+            "SHOP NO. 4, G/F, CFC TOWER, NO. 28 MODY ROAD, KOWLOON",
+            null,
+            "2026-08-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810861
+        ]
+      ],
+      "coordinate": [
+        1.9927151000086167,
+        0.3891570995704857,
+        12.050000190734863
+      ],
+      "halfSize": [
+        24.077649999875575,
+        7.443089999258518,
+        7.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1096810537,
+        1,
+        [
+          [
+            2961810643,
+            4,
+            "BANH MI NHO",
+            "SHOP A, G/F, 2 BLENHEIM AVENUE, TSIM SHA TSUI, YAU TSIM MONG, KOWLOON",
+            null,
+            "2026-04-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810863
+        ]
+      ],
+      "coordinate": [
+        1.9927201286876643,
+        0.3891556155960309,
+        11.84999942779541
+      ],
+      "halfSize": [
+        6.50245500029996,
+        5.598945000208914,
+        7.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1096810538,
+        2,
+        [
+          [
+            2161000855,
+            1,
+            "HOLIDAY INN GOLDEN MILE HOTEL",
+            "1/F (PORTION), HOLIDAY INN GOLDEN MILE HOTEL, 50 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2961038577,
+            4,
+            "HOLIDAY INN GOLDEN MILE HOTEL",
+            "1/F (BUTCHERY PORTION), HOLIDAY INN GOLDEN MILE HOTEL, 50 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810866
+        ]
+      ],
+      "coordinate": [
+        1.9926904418742675,
+        0.38915284333340916,
+        10.25
+      ],
+      "halfSize": [
+        43.12999999988824,
+        18.325000000186265,
+        5.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1096810539,
+        1,
+        [
+          [
+            2961160894,
+            4,
+            "\u65b0\u8072",
+            "SHOP I & J, G/F, SANDS BUILDING, 17 HANKOW ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810872
+        ]
+      ],
+      "coordinate": [
+        1.9926590487490898,
+        0.38914830049991916,
+        11.75
+      ],
+      "halfSize": [
+        13.166775000281632,
+        16.30705500021577,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1096810540,
+        13,
+        [
+          [
+            2961039738,
+            4,
+            "NEW CHETTINAD",
+            "SHOP 17, G/F, CHUNG KING MANSION ARCADE, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2961149853,
+            4,
+            "SHER-E-PUNJAB",
+            "SHOP NO.102, 1/F, CHUNG KING MANSION, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2961800378,
+            4,
+            "TURKISH KEBAB & INDIAN",
+            "SHOP NO. 47, G/F, CHUNG KING MANSION SHOPPING ARCADE, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2961805647,
+            4,
+            "BISMILLAH KEBAB HOUSE",
+            "SHOP 75, 1/F, CHUNGKING MANSION, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2961808345,
+            4,
+            "BK PIZZA HOUSE LIMITED",
+            "SHOP 74, 1/F, CHUNG KING MANSION, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-08"
+          ],
+          [
+            2961809889,
+            4,
+            "FU WAH CATERING LIMITED",
+            "SHOP 24, G/F, CHUNG KING MANSION, NO. 36 - 44 NATHAN ROAD, KOWLOON",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2961811813,
+            4,
+            "HAJIR BIRYANI",
+            "SHOP 49B, G/F., CHUNG KING MANSIONS, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2961812171,
+            4,
+            "Halal Butt Food Centre",
+            "SHOP 21, G/F, CHUNG KING MANSION, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2961813350,
+            4,
+            "MOOS",
+            "SHOP S30, HEATH, BASEMENT FLOOR, CHUNGKING MANSIONS, NO. 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-12"
+          ],
+          [
+            2961813396,
+            4,
+            "TREEHOUSE",
+            "SHOP NO. S28, BASEMENT, CHUNG KING MANSIONS, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2961813509,
+            4,
+            "The Pasta Shack",
+            "SHOP NO. S29, B/F, CHUNGKING MANSION, NOS. 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2961813828,
+            4,
+            "\u6cf0\u53cbfeel",
+            "SHOP S31, HEATH, BASEMENT OF CHUNGKING MANSION, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-02-28"
+          ],
+          [
+            4961811468,
+            4,
+            "\u6cf0\u53cb",
+            "SHOP S27, HEATH, BASEMENT OF CHUNGKING MANSION, 36-44 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810874
+        ]
+      ],
+      "coordinate": [
+        1.9926921177532626,
+        0.38914562950942605,
+        10.199999809265137
+      ],
+      "halfSize": [
+        44.17929999995977,
+        31.714499999769032,
+        6.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1096810541,
+        1,
+        [
+          [
+            2161800121,
+            1,
+            "THE KOWLOON HOTEL",
+            "2/F(MINOR PORTION), 19-21 NATHAN ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810885
+        ]
+      ],
+      "coordinate": [
+        1.9926729745231637,
+        0.38913480719647303,
+        10.449999809265137
+      ],
+      "halfSize": [
+        41.69529499998316,
+        15.232569999992847,
+        6.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1096810542,
+        30,
+        [
+          [
+            2161004006,
+            1,
+            "REGENT HONG KONG",
+            "UNIT E, PORTION OF LEVEL 0, REGENT HONG KONG, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2961809764,
+            4,
+            "INFUSE",
+            "PORTION OF G/F, K11 ATELIER VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-08"
+          ],
+          [
+            2961810874,
+            4,
+            "Rosewood Hong Kong",
+            "B1/F (PORTION B), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2961810883,
+            4,
+            "Rosewood Hong Kong",
+            "40/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2961810892,
+            4,
+            "Rosewood Hong Kong",
+            "B1/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2961811105,
+            4,
+            "Rosewood Hong Kong",
+            "53/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2961811248,
+            4,
+            "hana-musubi",
+            "UNIT 37 & 38 OF SHOP B201 ON BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2961811284,
+            4,
+            "GEORGE COFFEE",
+            "MAJOR PORTION OF UNIT 17 OF SHOP NO. B201 ON BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-11"
+          ],
+          [
+            2961811309,
+            4,
+            "XO ROASTER",
+            "SHOP B203, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2961811318,
+            4,
+            "Hong Kong Claypot Rice",
+            "SHOP F, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2961811327,
+            4,
+            "OOMAKI",
+            "SHOP B203A, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2961811336,
+            4,
+            "JIRO RAMEN",
+            "SHOP H, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-19"
+          ],
+          [
+            2961811345,
+            4,
+            "Liukoushui Chongqing Noodles",
+            "SHOP G, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-19"
+          ],
+          [
+            2961811424,
+            4,
+            "GC K11 Musea 1",
+            "SHOP B206 ON LEVEL B2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-12"
+          ],
+          [
+            2961811451,
+            4,
+            "\u5403\u8336\u4e09\u5343",
+            "SHOP 411 ON LEVEL 4 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-03-16"
+          ],
+          [
+            2961811530,
+            4,
+            "% ARABICA",
+            "SHOP NO. K06 ON LEVEL 0 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2961811716,
+            4,
+            "Manen bakery (Musea) Limited",
+            "MAJOR PORTION OF UNIT 34 OF SHOP B201 ON BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-27"
+          ],
+          [
+            2961811822,
+            4,
+            "OMOTESANDO KOFFEE",
+            "SHOP B219, LEVEL B2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2961811840,
+            4,
+            "Dood Bottega Gelateria",
+            "UNIT 23 OF SHOP NO. 201, BASEMENT 2 OF K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2961812393,
+            4,
+            "NOOD FOOD",
+            "UNIT A, SHOP NO. 611 ON LEVEL 6 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2961813448,
+            4,
+            "YUMMEE",
+            "SHOP NO. B203B, BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2961813925,
+            4,
+            "Being & Tea",
+            "KIOSK LA202, LEVEL 2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2961814007,
+            4,
+            "MORE YOGURT",
+            "UNIT 30, SHOP NO. B201, BASEMENT 2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2961814326,
+            4,
+            "TSIM SHA TSUI TEA TWO TEA LATTE SHOP",
+            "SHOP NO. 410 ON LEVEL 4 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2961814399,
+            4,
+            "HEY TEA",
+            "UNITS 31 AND 32, SHOP NO. B201 ON BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-25"
+          ],
+          [
+            4961811459,
+            4,
+            "NAP TEA",
+            "UNIT 18 OF SHOP NO. B201 ON BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-02-28"
+          ],
+          [
+            3661800684,
+            5,
+            "Market Place",
+            "SHOP B201-01A (PORTIONS) ON LEVEL B2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-01-12"
+          ],
+          [
+            3261800796,
+            6,
+            "Rosewood Hong Kong",
+            "B1/F (PORTION C), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-15"
+          ],
+          [
+            3261800802,
+            6,
+            "GEORGE COFFEE",
+            "MINOR PORTION OF UNIT 17 OF SHOP NO. B201 ON BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-11"
+          ],
+          [
+            3261800936,
+            6,
+            "%ARABICA",
+            "MINOR PORTION OF SHOP NO. K06 ON LEVEL 0 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810909
+        ]
+      ],
+      "coordinate": [
+        1.9927115667091528,
+        0.3890975540991981,
+        19.799999237060547
+      ],
+      "halfSize": [
+        67.48549999995157,
+        69.65649999957532,
+        15.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1096810543,
+        2,
+        [
+          [
+            2961812205,
+            4,
+            "LEGOLAND DISCOVERY CENTRE HONG KONG",
+            "PORTION C OF UNIT A, LEVEL B1 PAM , K11 MUSEA, VICTORIA DOCKSIDE, 12 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3261801027,
+            6,
+            "DIGREEN - K11",
+            "SHOP B225A, BASEMENT 2, PAM OF K11 MUSEA, VICTORIA DOCKSIDE, 12 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810937
+        ]
+      ],
+      "coordinate": [
+        1.992726765960266,
+        0.38910926925392175,
+        27.0
+      ],
+      "halfSize": [
+        87.79022512823576,
+        60.59056141128531,
+        21.5
+      ]
+    },
+    {
+      "attributes": [
+        1096810544,
+        1,
+        [
+          [
+            2961814681,
+            4,
+            "(NO RECORD FOUND)",
+            "8/F (PORTION A), KIMPTON TSIM SHA TSUI HONG KONG, 11 MIDDLE ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810957
+        ]
+      ],
+      "coordinate": [
+        1.9927096893179221,
+        0.38913734410640805,
+        94.0999984741211
+      ],
+      "halfSize": [
+        21.523469999898225,
+        25.77610000036657,
+        89.4000015258789
+      ]
+    }
+  ]
+}

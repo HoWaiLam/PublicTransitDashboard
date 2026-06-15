@@ -1,0 +1,176 @@
+{
+  "features": [
+    {
+      "attributes": [
+        771751936,
+        1,
+        [
+          [
+            3192801998,
+            1,
+            "TPP CANTEEN",
+            "SHOP NO. P8, LEVEL 1, PARK ISLAND PIER, PARK ISLAND , LOT NO. 392, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771752096
+        ]
+      ],
+      "coordinate": [
+        1.9907979685236858,
+        0.3901308963967791,
+        9.149999618530273
+      ],
+      "halfSize": [
+        62.69759499980137,
+        36.92278499994427,
+        4.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        771751937,
+        1,
+        [
+          [
+            2292810165,
+            0,
+            "CALIDO CAFE AND RESTAURANT",
+            "G/F, 60 TIN LIU NEW VILLAGE, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771752127
+        ]
+      ],
+      "coordinate": [
+        1.9907114025683572,
+        0.3901310705601353,
+        29.80000114440918
+      ],
+      "halfSize": [
+        3.3399999998509884,
+        5.3599999994039536,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        771751938,
+        2,
+        [
+          [
+            2292808283,
+            0,
+            "SOL COMMUNITY",
+            "SHOP 1A, LEVEL 2, BEACH COMMERCIAL COMPLEX, PARK ISLAND, MA WAN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2292809082,
+            0,
+            "Little Mario's",
+            "SHOP NO. 1B, LEVEL 2, BEACH COMMERCIAL COMPLEX, PARK ISLAND, MA WAN, NEW TERRITORIES",
+            null,
+            "2026-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771752156
+        ]
+      ],
+      "coordinate": [
+        1.990766375473571,
+        0.39013967752620926,
+        9.600000381469727
+      ],
+      "halfSize": [
+        41.783694999758154,
+        67.00870000012219,
+        3.700000047683716
+      ]
+    },
+    {
+      "attributes": [
+        771751939,
+        6,
+        [
+          [
+            2292801237,
+            0,
+            "Wonderland Restaurant",
+            "SHOP NO. S1 & S1A, LEVEL 1, PARK ISLAND - PIER, 8 PAK LAI ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2292802054,
+            0,
+            "Coconut's Garden",
+            "SHOP 7 & 8, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, LEVEL 1, BEACH COMMERCIAL COMPLEX, PARK ISLAND, 8 PAK LAI ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2292802203,
+            0,
+            "La Rosabelle Bar & Grill",
+            "SHOP 6, LEVEL 1, BEACH COMMERCIAL COMPLEX, PARK ISLAND, 8 PAK LAI ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2292802337,
+            0,
+            "OMA'S KITCHEN",
+            "SHOP NOS. 4-5 AND THE OUTSIDE SEATINGACCOMMODATION AT SHOP FRONT, LEVEL 1, BEACH COMMERCIAL COMPLEX, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            3192001020,
+            1,
+            "\u8a8d\u771f\u68e7",
+            "SHOP P8A, LEVEL 1, PARK ISLAND-PIER, 8 PAK LAI ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-05"
+          ],
+          [
+            3192801059,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP NOS. S2 & S3, LEVEL 1, PARK ISLAND-PIER, 8 PAK LAI ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          771752162
+        ]
+      ],
+      "coordinate": [
+        1.9907727412491434,
+        0.3901567702120855,
+        9.899999618530273
+      ],
+      "halfSize": [
+        72.31658499967307,
+        55.239380000159144,
+        2.4000000953674316
+      ]
+    }
+  ]
+}

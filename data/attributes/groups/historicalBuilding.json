@@ -1,0 +1,8 @@
+{
+  "name": "historicalBuilding",
+  "label": "Historical Buildings",
+  "groupLayerSymbologies": 1,
+  "layers": [
+    "historicalBuildingLayer.json"
+  ]
+}

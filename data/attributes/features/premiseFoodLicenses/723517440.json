@@ -1,0 +1,161 @@
+{
+  "features": [
+    {
+      "attributes": [
+        723517440,
+        9,
+        [
+          [
+            2194000129,
+            1,
+            "\u751c\u5fc3\u86cb\u7cd5\u5c4b",
+            "SHOP NO. 12, G/F, BLOCK A, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-25"
+          ],
+          [
+            2994807087,
+            4,
+            "\u672c\u8fb2\u9ed1\u6bdb\u8c6c",
+            "REAR PORTION OF STALL NO. 13, G/F, BLOCK A, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2994808390,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 3 & 3A, G/F, BLOCK C, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2994808743,
+            4,
+            "Chicken Factory",
+            "SHOP NO. 5 & 6, G/F, BLOCK A, FAIRVIEW PARK TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            2994811947,
+            4,
+            "HUNG FOOK TONG",
+            "SHOP C1, G/F, BLOCK B, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            3694000406,
+            5,
+            "\u6d77\u9bae\u4ed4",
+            "BLOCK A, SHOP NO.24, TOWN CENTRE, FAIRVIEW PARK, TAI SANG WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            3694800879,
+            5,
+            "\u65b0\u9326\u767c\u96de\u9d28",
+            "SHOPSTALL 16, G/F, BLOCK A, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            3694802671,
+            5,
+            "\u672c\u8fb2\u9ed1\u6bdb\u8c6c",
+            "FRONT PORTION OF STALL NO. 13, G/F, BLOCK A, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            3694803832,
+            5,
+            "PACIFIC SUPPLIES CO.",
+            "STALL NO. 22, G/F, BLOCK A, MARKET PLACE, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          723520906
+        ]
+      ],
+      "coordinate": [
+        1.9904683049385066,
+        0.3923079005469608,
+        8.800000190734863
+      ],
+      "halfSize": [
+        16.584999999962747,
+        17.972000000067055,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        723517441,
+        1,
+        [
+          [
+            3694000105,
+            5,
+            "\u6052\u8a18",
+            "SHOPSTALL NO. 23, GROUND FLOOR, BLOCK A, COMMERCIAL CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          723521304
+        ]
+      ],
+      "coordinate": [
+        1.990477313334123,
+        0.39228742762289803,
+        5.75
+      ],
+      "halfSize": [
+        41.22550000017509,
+        47.23199999984354,
+        2.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        723517442,
+        1,
+        [
+          [
+            2994812038,
+            4,
+            "\u53e1\u5bf6\u5eda\u623f",
+            "SHOP OT-2, G/F, ANCILLARY BLOCK 1, LIGHT PUBLIC HOUSING, 18 YAU POK ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          723522455
+        ]
+      ],
+      "coordinate": [
+        1.9905797282939024,
+        0.39234893505251156,
+        7.0
+      ],
+      "halfSize": [
+        41.036955000367016,
+        7.381889999844134,
+        4.0
+      ]
+    }
+  ]
+}

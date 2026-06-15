@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "attributes": [
+        654311424,
+        4,
+        [
+          [
+            2994801326,
+            4,
+            "PRONATURE (HONG KONG) LIMITED",
+            "ROOM 124, LEVEL 1, EU YAN SANG CENTRE, 10 WANG LEE STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2994802781,
+            4,
+            "PROnature",
+            "ROOM 114, L1, EU YAN SANG CENTRE, 10 WANG LEE STREET, YUEN LONG INDUSTRIAL ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2994803818,
+            4,
+            "PRONATURE (HONG KONG) LIMITED",
+            "ROOM 204, LEVEL 2, EU YAN SANG CENTRE, 10 WANG LEE STREET, YUEN LONG INDUSTRIAL ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2994804802,
+            4,
+            "ProNature (Hong Kong) Limited",
+            "ROOM 210-214, LEVEL 2, EU YAN SANG CENTRE, 10 WANG LEE STREET, YUEN LONG INDUSTRIAL ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          654311466
+        ]
+      ],
+      "coordinate": [
+        1.9901009002755083,
+        0.39208342922730616,
+        15.049999237060547
+      ],
+      "halfSize": [
+        23.380499999970198,
+        26.871500000357628,
+        10.75
+      ]
+    },
+    {
+      "attributes": [
+        654311425,
+        8,
+        [
+          [
+            2194000138,
+            1,
+            "Nestle' Hong Kong Limited",
+            "FACTORY BLOCK, G/F (PORTION), YUEN LONG INDUSTRIAL ESTATE, 18 WANG LOK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2594000105,
+            3,
+            "Nestle Hong Kong Limited",
+            "G/F (PORTION), OFFICE BLOCK, YUEN LONG INDUSTRIAL ESTATE, 18 WANG LOK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2994001430,
+            4,
+            "San Miguel Brewery Hong Kong Limited",
+            "G/F(PORTIONS), 1/F(PORTIONS), 2/F, 3/F, 4/F AND ROOF OVER MALT STORAGE TANK OF PROCESSING BUILDING, G/F(PORTIONS) AND 1/F OF PACKAGING BUILDING, YUEN LONG INDUSTRIAL ESTATE, 22 WANG LEE STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2994001555,
+            4,
+            "Nestle Hong Kong Limited",
+            "FACTORY BLOCK,G/F (PORTION) & 1/F (PORTION), YUEN LONG INDUSTRIAL ESTATE, 18 WANG LOK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ],
+          [
+            2994804918,
+            4,
+            "BF Suma Health Holdings Limited",
+            "BLOCK A, 15-17 WANG LOK STREET, YUEN LONG INDUSTRIAL ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2994810333,
+            4,
+            "BF SUMA HEALTH HOLDINGS LIMITED",
+            "PRODUCTION AREA 2, G/F, 15-17 WANG LOK STREET, YUEN LONG INDUSTRIAL ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-21"
+          ],
+          [
+            3294000138,
+            6,
+            "Nestle' Hong Kong Limited",
+            "G/F (PORTION) AND 1/F (PORTION), FACTORY BLOCK,18 WANG LOK STREET, YUEN LONG INDUSTRIAL ESTATE, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-11"
+          ],
+          [
+            2694000018,
+            7,
+            "Nestle Hong Kong Limited",
+            "G/F (PORTION) AND 1/F (PORTION), FACTORY BLOCK, YUEN LONG INDUSTRIAL ESTATE, 18 WANG LOK STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          654311869
+        ]
+      ],
+      "coordinate": [
+        1.9901573316374608,
+        0.39203679063950864,
+        8.449999809265137
+      ],
+      "halfSize": [
+        89.31450000032783,
+        95.20799999963492,
+        3.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        654311426,
+        2,
+        [
+          [
+            2994805717,
+            4,
+            "Wai Yuen Tong Medicine Company Limited",
+            "UNIT N, 2/F, WAI YUEN TONG MEDICINE BUILDING,9 WANG LEE STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2994810412,
+            4,
+            "WAI YUEN TONG MEDICINE COMPANY LIMITED",
+            "UNIT M-2, 2/F, WAI YUEN TONG MEDICINE BUILDING, 9 WANG LEE STREET, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          654312225
+        ]
+      ],
+      "coordinate": [
+        1.9901184075619152,
+        0.3920805327742274,
+        19.05000114440918
+      ],
+      "halfSize": [
+        42.023499999661,
+        32.92950000055134,
+        14.65000057220459
+      ]
+    }
+  ]
+}

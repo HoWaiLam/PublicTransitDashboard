@@ -1,0 +1,650 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1298137088,
+        1,
+        [
+          [
+            3151228882,
+            1,
+            "\u69b6\u610f\u6cf0\u5f0f\u7c89\u9eb5",
+            "FLAT G6, G7, KA FAT ARCADE, YAU TONG CENTRE, 3-7 KA WING STREET, KOWLOON",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137278
+        ]
+      ],
+      "coordinate": [
+        1.9938351147237787,
+        0.3891164281352843,
+        41.75
+      ],
+      "halfSize": [
+        15.987015000078827,
+        11.540259999223053,
+        9.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1298137089,
+        10,
+        [
+          [
+            2251260343,
+            0,
+            "McDonald's",
+            "SHOP 201, 2/F, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-03-24"
+          ],
+          [
+            2251801520,
+            0,
+            "Fairwood Fast Food",
+            "SHOP 205 & 206, 2/F, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2251801812,
+            0,
+            "KFC",
+            "SHOP NO. 103, 1/F., LEI YUE MUN PLAZA, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-22"
+          ],
+          [
+            2251804079,
+            0,
+            "AH YUNG HOTPOT AND PENINSULA CUISINE",
+            "SHOP NO.208B, LEVEL 2, COMMERCIAL ACCOMMODATION (ALSO KNOWN AS LEI YUE MUN PLAZA), YAU MEI COURT, NO. 80 LEI YUE MUN ROAD, KOWLOON, HONG KONG",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2251808770,
+            0,
+            "Yoshinoya",
+            "SHOP 132A, 1/F, LEI YUE MUN PLAZA, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2251809968,
+            0,
+            "Cafe 100%",
+            "SHOP NO. 202, 2/F, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-06-27"
+          ],
+          [
+            2251810519,
+            0,
+            "TAMJAI SAMGOR MIXIAN / YAKINIKU YAMAGYU",
+            "SHOP 102, 1/F, LEI YUE MUN PLAZA, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-10"
+          ],
+          [
+            3851810994,
+            0,
+            "No Record",
+            "SHOP NO. LG1, LG/F, LEI YUE MUN PLAZA, YAU MEI COURT, NO. 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3151802929,
+            1,
+            "PANDA WONTON",
+            "SHOP NO.128, 1/F, LEI YUE MUN PLAZA, YAU TONG, KOWLOON",
+            null,
+            "2026-07-04"
+          ],
+          [
+            3151803029,
+            1,
+            "\u6a02\u5712\u9eb5\u5bb6",
+            "SHOP NO. 131, 1/F., LEI YUE MUN PLAZA, 80 LEI YUE MUN ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-01-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137776
+        ]
+      ],
+      "coordinate": [
+        1.9938497592545394,
+        0.3891585842474163,
+        37.599998474121094
+      ],
+      "halfSize": [
+        70.91046500019729,
+        189.63750000018626,
+        12.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1298137090,
+        4,
+        [
+          [
+            2251806950,
+            0,
+            "\u54c1\u5473\u71d2\u9d5d\u9910\u5ba4",
+            "SHOP G31D, G/F, KA WAH SHOPPING ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2251806987,
+            0,
+            "\u65b0\u6e90\u8336\u9910\u5ef3",
+            "SHOP 2 & SHOP 6, G/F, TAI PING MARKET, NO. G31B, KA WAH SHOPPING CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2251810263,
+            0,
+            "\u6210\u90fd\u5c0f\u5df7",
+            "SHOP B149, B166-B170, LOWER G/F, KA WAH ARCADE, YAU TONG CENTRE, YAU TONG, KOWLOON",
+            null,
+            "2026-03-06"
+          ],
+          [
+            3151800978,
+            1,
+            "\u71d5\u8a18\u7c89\u9eb5",
+            "SHOP NO. B126, LG1/F, KA WAH ARCADE, YAU TONG CENTRE, KOWLOON",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137787
+        ]
+      ],
+      "coordinate": [
+        1.993845279905655,
+        0.389124228547988,
+        24.600000381469727
+      ],
+      "halfSize": [
+        34.34749999968335,
+        18.496499999426305,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1298137091,
+        1,
+        [
+          [
+            2251803173,
+            0,
+            "\u9189\u74ca\u6a13",
+            "G/F, NOS 37-42G & NOS 30-33, KA FAT ARCADE, YAU TONG CENTRE, YAU TONG, KOWLOON",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137789
+        ]
+      ],
+      "coordinate": [
+        1.9938349532853903,
+        0.389116458172252,
+        27.450000762939453
+      ],
+      "halfSize": [
+        23.253500000108033,
+        35.633500000461936,
+        4.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1298137092,
+        1,
+        [
+          [
+            2251804884,
+            0,
+            "\u91d1\u52a0\u5229\u51b0\u5ba4",
+            "SHOP 138-140 & 142-146, 1/F, KA FU SHOPPING ARCADE, TOWN 4, YAU TONG CENTRE, 1 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-09-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137792
+        ]
+      ],
+      "coordinate": [
+        1.9938467412623049,
+        0.3891162879169945,
+        28.549999237060547
+      ],
+      "halfSize": [
+        14.060500000137836,
+        20.009999999776483,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1298137093,
+        2,
+        [
+          [
+            2251809913,
+            0,
+            "\u5929\u8aa0\u8336\u8a18",
+            "SHOP NOS. G3 & G4, G/F, KA KWAI ARCADE, YAU TONG CENTRE, 9-11 KA WING STREET, YAU TONG , KOWLOON",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3151802062,
+            1,
+            "\u65fa\u8a18\u9eb5\u5bb6",
+            "SHOP G11 & G18, G/F, KA KWAI ARCADE, YAU TONG CENTRE, 9-11 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137794
+        ]
+      ],
+      "coordinate": [
+        1.9938426655762047,
+        0.38911114411096664,
+        27.149999618530273
+      ],
+      "halfSize": [
+        27.868999999947846,
+        15.363499999977648,
+        5.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1298137094,
+        2,
+        [
+          [
+            2251803988,
+            0,
+            "FULUM RESTAURANT (THE KING OF ROASTED GOOSE)",
+            "SHOP 5-6, SHOP 7 (PORTION), G/F & SHOP 7-8, 1/F, CANARYSIDE, 8 SHUNG SHUN STREET, YAU TONG, KWUN TONG, KOWLOON",
+            null,
+            "2026-02-26"
+          ],
+          [
+            3151802497,
+            1,
+            "\u8001\u53cb\u8a18",
+            "SHOP 3B, G/F, CANARYSIDE, 8 SHUNG SHUN STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137799
+        ]
+      ],
+      "coordinate": [
+        1.9938199312716516,
+        0.3890806645737702,
+        16.30000114440918
+      ],
+      "halfSize": [
+        33.17715000035241,
+        32.118579999543726,
+        12.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1298137095,
+        4,
+        [
+          [
+            2251802824,
+            0,
+            "Cafe'de Coral",
+            "SHOP 108, 1/F, YAU LAI SHOPPING CENTRE, YAU TONG, KOWLOON",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2251802879,
+            0,
+            "Tomita Japanese Restaurant",
+            "SHOP 102 + 103, 1/F, YAU LAI SHOPPING CENTRE, YAU LAI ESTATE, YAU TONG, KOWLOON",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2251802912,
+            0,
+            "\u5bcc\u6eff\u6a13",
+            "SHOP 201, 2/F, YAU LAI SHOPPING CENTRE, YAU TONG, KOWLOON",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2251804440,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS. 5 AND 6 , AND OUTSIDE SEATING ACCOMMODATION, G/F, YAU LAI SHOPPING CENTRE, YAU LAI ESTATE, CHA KWO LING ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137803
+        ]
+      ],
+      "coordinate": [
+        1.993813350894767,
+        0.38918441188479713,
+        12.850000381469727
+      ],
+      "halfSize": [
+        36.17288500024006,
+        36.64346999954432,
+        4.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1298137096,
+        26,
+        [
+          [
+            2251803456,
+            0,
+            "Peace Cuisine",
+            "SHOP 237, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2251803465,
+            0,
+            "Hakka Hut",
+            "SHOP 212, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-03-12"
+          ],
+          [
+            2251803483,
+            0,
+            "Super Super",
+            "SHOP NO. LG205 ON LG2 FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-03-18"
+          ],
+          [
+            2251803492,
+            0,
+            "Euro Go Go",
+            "SHOP M10, MTR FLOOR, DOMAIN, NO. 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2251803508,
+            0,
+            "GENKI SUSHI",
+            "SHOP NO. 112 ON FIRST FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2251803562,
+            0,
+            "The Leaf Kitchen",
+            "SHOP NO. 235 ON SECOND FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2251803580,
+            0,
+            "PIZZA HUT",
+            "SHOP 135, 1/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2251803632,
+            0,
+            "Tai Hing",
+            "MAJOR PORTION OF SHOP G41, G/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2251803739,
+            0,
+            "TOKACHI GYUU AMAZING SHABU SHABU",
+            "SHOP NO. 316, 3/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2251803748,
+            0,
+            "Grove Cafe",
+            "SHOP G28A, G/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2251805489,
+            0,
+            "Marugame (YT)",
+            "SHOP NOS. 133 & 134, 1/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2251806996,
+            0,
+            "Grandma's Kitchen by Gingko House",
+            "SHOP NO. R01, ROOF GARDEN FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-03-24"
+          ],
+          [
+            2251807290,
+            0,
+            "V-Taste",
+            "SHOP NO. 214, 2/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2251807795,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NOS. G09-G10 AND THE SEATING AREA IN FRONT, G/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2251809232,
+            0,
+            "MOS Burger",
+            "SHOP L202B & L203, 2/F, AEON YAU TONG STORE, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2251809816,
+            0,
+            "Jasmine Cuisine",
+            "PORTION A OF SHOP NOS. 301 AND 305 ON THIRD FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2027-02-13"
+          ],
+          [
+            2251809922,
+            0,
+            "Teawood Taiwanese Cafe & Restaurant",
+            "SHOP NO. G30, G/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2251810148,
+            0,
+            "Cha Kee Lab",
+            "SHOP NOS. LG202 & LG203, LG2/F, DOMAIN MALL, NO. 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2251810157,
+            0,
+            "Mou Mou Club",
+            "SHOP NO. 312, 3/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2251810245,
+            0,
+            "SUSHIRO YAU TONG",
+            "SHOP NO. 311 ON THIRD FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2027-02-19"
+          ],
+          [
+            3851811146,
+            0,
+            "No Record",
+            "SHOP 115, 1/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-08-11"
+          ],
+          [
+            3151801078,
+            1,
+            "85\u2103",
+            "PORTION A OF SHOP NO. 111 ON FIRST FLOOR, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-05-14"
+          ],
+          [
+            3151801096,
+            1,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 236, 2/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3151801184,
+            1,
+            "ANTOSHIMO CAFE & BAKERY",
+            "SHOP NO. 211, 2/F, DOMAIN, YAU TONG, KOWLOON",
+            null,
+            "2026-09-15"
+          ],
+          [
+            3151801227,
+            1,
+            "Lam's Chinese Dessert",
+            "SHOP 132, 1/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3151802196,
+            1,
+            "CP CAFE",
+            "SHOP NO. G28, G/F, DOMAIN, 38 KO CHIU ROAD, YAU TONG, KOWLOON",
+            null,
+            "2026-10-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137812
+        ]
+      ],
+      "coordinate": [
+        1.993839954686422,
+        0.38914174917567756,
+        36.900001525878906
+      ],
+      "halfSize": [
+        53.27585000032559,
+        75.8611150002107,
+        23.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1298137097,
+        1,
+        [
+          [
+            2251808673,
+            0,
+            "\u6771\u6e90\u5c0f\u5eda",
+            "SHOP G01, G/F, PENINSULA EAST, 11 TUNG YUEN STREET, YAU TONG, KOWLOON",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137832
+        ]
+      ],
+      "coordinate": [
+        1.9937667336323461,
+        0.3891040527813336,
+        26.200000762939453
+      ],
+      "halfSize": [
+        32.30706499982625,
+        32.08754999935627,
+        21.700000762939453
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1186988032,
+        2,
+        [
+          [
+            2295803182,
+            0,
+            "BILLOW BAR SEAFOOD BISTRO",
+            "SHOP B, G/F, 2 HUNG LAM DRIVE, TAI PO KAU, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2295803456,
+            0,
+            "Le Vow",
+            "SHOP A, G/F, KERRY LAKE EGRET NATURE PARK, 2 HUNG LAM DRIVE, TAI PO KAU, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1186988131
+        ]
+      ],
+      "coordinate": [
+        1.9929636223488179,
+        0.3915852105445371,
+        7.199999809265137
+      ],
+      "halfSize": [
+        11.470495000015944,
+        14.324500000104308,
+        3.5
+      ]
+    }
+  ]
+}

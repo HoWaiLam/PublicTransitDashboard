@@ -1,0 +1,539 @@
+{
+  "features": [
+    {
+      "attributes": [
+        773849088,
+        1,
+        [
+          [
+            2292808371,
+            0,
+            "One Restaurant",
+            "SHOP G, H, I, G/F, CHAN KEE PLAZA, 42 CASTLE PEAK ROAD, SHAM TSENG , TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849465
+        ]
+      ],
+      "coordinate": [
+        1.9907308012497726,
+        0.39039694851927675,
+        10.899999618530273
+      ],
+      "halfSize": [
+        9.08199999993667,
+        10.682994999922812,
+        5.700000286102295
+      ]
+    },
+    {
+      "attributes": [
+        773849089,
+        1,
+        [
+          [
+            2292801051,
+            0,
+            "\u9673\u8a18\u82b1\u5712\u71d2\u9d5d",
+            "REAR PORTION, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, CHAN KEE COMMERCIAL CENTRE, 48 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849488
+        ]
+      ],
+      "coordinate": [
+        1.9907208527551643,
+        0.39039300871747806,
+        11.649999618530273
+      ],
+      "halfSize": [
+        20.669999999925494,
+        16.78999999910593,
+        6.75
+      ]
+    },
+    {
+      "attributes": [
+        773849090,
+        1,
+        [
+          [
+            2292001323,
+            0,
+            "Indian Hot Pot Curry Restaurant",
+            "DD 390, LOT 257, SHAM TSENG VILLAGE AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT AND SHOP SIDE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849513
+        ]
+      ],
+      "coordinate": [
+        1.990706237898657,
+        0.3903882257330918,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.0168949998915195,
+        5.700899999588728,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849091,
+        1,
+        [
+          [
+            2292803020,
+            0,
+            "\u6df1\u9c7b\u934b",
+            "G/F, 68 SHAM TSENG VILLAGE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849516
+        ]
+      ],
+      "coordinate": [
+        1.9907055887779352,
+        0.3903874896901101,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.0154849998652935,
+        5.699740000069141,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849092,
+        1,
+        [
+          [
+            2292804768,
+            0,
+            "\u91d1\u57df\u8ed2",
+            "G/F, 67 SHAM TSENG VILLAGE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849518
+        ]
+      ],
+      "coordinate": [
+        1.9907049396303016,
+        0.3903867534926807,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.014080000109971,
+        5.699909999966621,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849093,
+        1,
+        [
+          [
+            2292000922,
+            0,
+            "\u9673\u8a18\u6d77\u9bae\u9152\u5bb6",
+            "G/F, NO. 63 SHAM TSENG VILLAGE AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT AND SHOP SIDE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849526
+        ]
+      ],
+      "coordinate": [
+        1.9907110358570113,
+        0.39038534465926156,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.107499999925494,
+        5.743999999947846,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849094,
+        2,
+        [
+          [
+            2292802850,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. 5, LEVEL 3, BELLAGIO MALL, 33 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2292804652,
+            0,
+            "Super Super",
+            "SHOP NOS. 3 & 4, LEVEL 3, BELLAGIO MALL, 33 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849533
+        ]
+      ],
+      "coordinate": [
+        1.9907537523031704,
+        0.3903820451288595,
+        15.84999942779541
+      ],
+      "halfSize": [
+        16.994999999646097,
+        19.92166499979794,
+        10.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        773849095,
+        1,
+        [
+          [
+            2292806047,
+            0,
+            "\u5085\u8a18",
+            "G/F, NO. 60 SHAM TSENG VILLAGE AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849543
+        ]
+      ],
+      "coordinate": [
+        1.9907090525734359,
+        0.39038312686731996,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.226000000257045,
+        5.834500000812113,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849096,
+        1,
+        [
+          [
+            3192802441,
+            1,
+            "JULY COFFEE & CO.",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 92 SHAM TSENG VILLAGE, CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849568
+        ]
+      ],
+      "coordinate": [
+        1.990700797284571,
+        0.39037791547439316,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.072544999886304,
+        5.699134999886155,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849097,
+        1,
+        [
+          [
+            2292002928,
+            0,
+            "CANAAN GOURMET",
+            "NO. 79, G/F, SHAM TSENG VILLAGE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849569
+        ]
+      ],
+      "coordinate": [
+        1.9906969792126221,
+        0.39037771622449086,
+        9.5
+      ],
+      "halfSize": [
+        6.150499999988824,
+        5.801079999655485,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        773849098,
+        1,
+        [
+          [
+            2292801477,
+            0,
+            "Nittaya Restaurant",
+            "G/F AND OUTSIDE SEATING ACCOMMODATION AT SHOPFRONT, 91 SHAM TSENG TSUEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849572
+        ]
+      ],
+      "coordinate": [
+        1.9907001529021853,
+        0.39037718480760125,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.030274999793619,
+        5.690260000526905,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849099,
+        1,
+        [
+          [
+            2292001730,
+            0,
+            "\u559c\u559c\u96de\u7172\u706b\u934b",
+            "G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 87 SHAM TSENG TSUEN, CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849587
+        ]
+      ],
+      "coordinate": [
+        1.9906958888484256,
+        0.39037359732754207,
+        9.5
+      ],
+      "halfSize": [
+        6.008099999744445,
+        5.738965000025928,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        773849100,
+        1,
+        [
+          [
+            2292002122,
+            0,
+            "\u4e0a\u6d77\u51b0\u5ba4",
+            "G/F, 86 SHAM TSENG TSUEN, AND THE OUTSIDE SEATING AREA AT SHOP FRONT, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849588
+        ]
+      ],
+      "coordinate": [
+        1.9906952311093085,
+        0.3903728525521163,
+        9.5
+      ],
+      "halfSize": [
+        5.99187000002712,
+        5.676390000618994,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        773849101,
+        1,
+        [
+          [
+            2292002265,
+            0,
+            "\u9189\u71d2",
+            "G/F, NO. 85 SHAM TSENG TSUEN AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849594
+        ]
+      ],
+      "coordinate": [
+        1.9906953025463698,
+        0.3903709339698149,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.021999999880791,
+        5.746984999626875,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849102,
+        1,
+        [
+          [
+            2292001369,
+            0,
+            "\u6efe\u5f97\u68e7",
+            "G/F, AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, NO.84, SHAM TSENG VILLAGE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849596
+        ]
+      ],
+      "coordinate": [
+        1.9906946379947963,
+        0.3903701822477647,
+        9.100000381469727
+      ],
+      "halfSize": [
+        5.979770000092685,
+        5.777534999884665,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849103,
+        1,
+        [
+          [
+            2292807758,
+            0,
+            "McDonald's Restaurant",
+            "PORTION OF RESTAURANT A & SHOP D, G/F, RHINE GARDEN, 38 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849621
+        ]
+      ],
+      "coordinate": [
+        1.9907500700188299,
+        0.39039906013530534,
+        10.200000762939453
+      ],
+      "halfSize": [
+        102.66905999975279,
+        41.198944999836385,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        773849104,
+        1,
+        [
+          [
+            2292810129,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO.1, G/F, LIDO AVENUE, LIDO GARDEN, 41-63 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849624
+        ]
+      ],
+      "coordinate": [
+        1.9907092743970591,
+        0.3903681429406751,
+        7.5
+      ],
+      "halfSize": [
+        84.10800000000745,
+        72.13499999977648,
+        3.1999998092651367
+      ]
+    }
+  ]
+}

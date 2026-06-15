@@ -1,0 +1,4980 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1161822208,
+        3,
+        [
+          [
+            2911805572,
+            4,
+            "Habib's Kebab Biryani Curry",
+            "SHOP 7, G/F., LEE KING MANSION, NO. 83 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2912805940,
+            4,
+            "\u71c8\u71c8\u71c8\u51f3",
+            "SHOP 1, G/F., LEE KING COURT, 83 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2912806891,
+            4,
+            "GWAN JIHIAN CHICKEN",
+            "SHOP 4, G/F., LEE KING MANSION, NO. 83 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822213
+        ]
+      ],
+      "coordinate": [
+        1.9930176095743855,
+        0.38894387456110624,
+        9.75
+      ],
+      "halfSize": [
+        7.373280000407249,
+        6.0240199994295835,
+        5.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822209,
+        1,
+        [
+          [
+            3612801281,
+            5,
+            "LFK BUTCHER",
+            "SHOP A1, G/F, 92-94 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822216
+        ]
+      ],
+      "coordinate": [
+        1.9930232885979349,
+        0.3889400042709831,
+        12.15000057220459
+      ],
+      "halfSize": [
+        9.603500000201166,
+        4.837500000372529,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1161822210,
+        2,
+        [
+          [
+            4912811479,
+            4,
+            "(No Record Found)",
+            "MAJOR PORTION OF SHOP A2, A3 & B, G/F, TRIUMPH COURT, 13-41 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-31"
+          ],
+          [
+            4212800955,
+            6,
+            "(No Record Found)",
+            "MINOR PORTION OF SHOP A2, A3 & B, G/F, TRIUMPH COURT, 13-41 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822234
+        ]
+      ],
+      "coordinate": [
+        1.9930187995704118,
+        0.3889195781702744,
+        7.300000190734863
+      ],
+      "halfSize": [
+        9.052840000018477,
+        29.809755000285804,
+        3.0
+      ]
+    },
+    {
+      "attributes": [
+        1161822211,
+        1,
+        [
+          [
+            3612801847,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF G/F., GRAND SEAVIEW HEIGHTS, NO. 1 NGAN MOK STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-12-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822236
+        ]
+      ],
+      "coordinate": [
+        1.9930287083933371,
+        0.3889193967986841,
+        11.25
+      ],
+      "halfSize": [
+        11.063000000081956,
+        15.957999999634922,
+        6.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1161822212,
+        4,
+        [
+          [
+            2111227222,
+            1,
+            "Mimosa",
+            "SHOP 31, G/F, GOLDEN COURT, 22-52 ELECTRIC ROAD, 1A-1C LAU SIN STREET, 2-8 YACHT STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-08-29"
+          ],
+          [
+            2911803585,
+            4,
+            "\u81e8\u8a18",
+            "SHOP 16, G/F., GOLDEN COURT, NO. 22-52 ELECTRIC ROAD, NO. 1A-1C LAU SIN STREET, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2911806441,
+            4,
+            "Nakamuraya",
+            "SHOP 48, G/F., GOLDEN COURT, NO. 22-52 ELECTRIC ROAD, NO. 1A-1C LAU SIN STREET, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2912804619,
+            4,
+            "\u5feb\u6a02\u756a\u85af",
+            "SHOP 42, G/F., GOLDEN COURT, 22-52 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822237
+        ]
+      ],
+      "coordinate": [
+        1.9930246522304025,
+        0.3889176396654816,
+        6.75
+      ],
+      "halfSize": [
+        10.934499999973923,
+        26.99600000027567,
+        2.25
+      ]
+    },
+    {
+      "attributes": [
+        1161822213,
+        4,
+        [
+          [
+            2911805402,
+            4,
+            "\u51dd\u9999\u5712",
+            "SHOP A6, G/F., PARK VIEW MANSION, NO. 1-5 LAU SIN STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-09-11"
+          ],
+          [
+            2911807107,
+            4,
+            "Tin Hau Baking",
+            "SHOP D, G/F., PARK VIEW MANSION, NO. 3 LAU SIN STREET, TIN HAU, HONG KONG",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2912807016,
+            4,
+            "Tip top of Taste",
+            "SHOP A5, G/F, NO. 3 LAU SIN STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2912808833,
+            4,
+            "KUNG FU TEA",
+            "SHOP A2, G/F., PARK VIEW MANSION, NO. 1-5 LAU SIN STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822240
+        ]
+      ],
+      "coordinate": [
+        1.9930290079172996,
+        0.38891539394310654,
+        9.199999809265137
+      ],
+      "halfSize": [
+        10.692000000271946,
+        10.315499999560416,
+        4.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1161822214,
+        2,
+        [
+          [
+            2912809872,
+            4,
+            "\u56de\u5473CORNER",
+            "MAJOR PORTION OF SHOP NO. 4, G/F, PARK TOWERS, NO. 1 KING'S ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-05-29"
+          ],
+          [
+            3212801056,
+            6,
+            "\u56de\u5473CORNER",
+            "MINOR PORTION OF SHOP NO. 4, G/F, PARK TOWERS, NO. 1 KING'S ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822245
+        ]
+      ],
+      "coordinate": [
+        1.993019313864855,
+        0.3889051948452658,
+        22.950000762939453
+      ],
+      "halfSize": [
+        38.37199999997392,
+        39.33850000053644,
+        18.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1161822215,
+        1,
+        [
+          [
+            3611800591,
+            5,
+            "FUSION",
+            "PORTION OF 1/F., PAK LEE BLDG, 6-8 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822247
+        ]
+      ],
+      "coordinate": [
+        1.9930350999082203,
+        0.38890384378527015,
+        10.100000381469727
+      ],
+      "halfSize": [
+        23.959999999962747,
+        15.841000000014901,
+        5.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1161822216,
+        1,
+        [
+          [
+            2912808523,
+            4,
+            "Aozora Bakery",
+            "SHOP B, G/F, BO MING COURT, 14 TIN HAU TEMPLE ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822248
+        ]
+      ],
+      "coordinate": [
+        1.9930413814307857,
+        0.3889015114163386,
+        14.049999237060547
+      ],
+      "halfSize": [
+        11.06499999994412,
+        13.230499999597669,
+        3.749999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1161822217,
+        1,
+        [
+          [
+            2912809030,
+            4,
+            "HYPEBEAST HONG KONG LIMITED",
+            "SHOP 15A, G/F., 11-19 GREAT GEORGE STREET & 27-47 PATERSON STREET, FASHION WALK, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822260
+        ]
+      ],
+      "coordinate": [
+        1.992907092077872,
+        0.3888746834139826,
+        7.100000381469727
+      ],
+      "halfSize": [
+        33.51049999985844,
+        54.457499999552965,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        1161822218,
+        6,
+        [
+          [
+            2912801911,
+            4,
+            "No Record",
+            "SHOP 407, 4/F., WINDSOR HOUSE, NO. 311 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-20"
+          ],
+          [
+            2912808392,
+            4,
+            "Yamazaki",
+            "SHOP G16-17, G/F., WINDSOR HOUSE, 311 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2912808860,
+            4,
+            "A NICE GIFT",
+            "SHOP NO. G14, GROUND FLOOR, WINDSOR HOUSE, 311 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2912809128,
+            4,
+            "Caf\u00e9&Meal MUJI (Windsor House) Branch",
+            "SHOP 1A (MAJOR PORTION), B/F., WINDSOR HOUSE, 311 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-28"
+          ],
+          [
+            3612801360,
+            5,
+            "MARKS AND SPENCER",
+            "PORTION B OF SHOP G1-G2, G/F., WINDSOR HOUSE, 311 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3212800929,
+            6,
+            "Caf\u00e9&Meal MUJI (Windsor House) Branch",
+            "SHOP 1A (MINOR PORTION), B/F., WINDSOR HOUSE, 311 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822267
+        ]
+      ],
+      "coordinate": [
+        1.9929298142237808,
+        0.38886578072611006,
+        16.399999618530273
+      ],
+      "halfSize": [
+        47.27000000001863,
+        39.75100000016391,
+        12.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822219,
+        1,
+        [
+          [
+            3212800956,
+            6,
+            "\u9054\u4eba\u5c4b",
+            "MINOR PORTION OF SHOP 4, G/F., 22 YEE WO STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822276
+        ]
+      ],
+      "coordinate": [
+        1.992908237962537,
+        0.3888542816212997,
+        11.350000381469727
+      ],
+      "halfSize": [
+        7.824500000104308,
+        12.96100000012666,
+        7.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1161822220,
+        1,
+        [
+          [
+            2912808383,
+            4,
+            "DOUGH BROS",
+            "SHOP G, G/F., MING SUN BUILDING, 90 TUNG LO WAN ROAD, TAI HANG, HONG KONG",
+            null,
+            "2026-12-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822279
+        ]
+      ],
+      "coordinate": [
+        1.993034080682203,
+        0.38884968884438426,
+        8.149999618530273
+      ],
+      "halfSize": [
+        15.016499999910593,
+        19.28800000064075,
+        3.249999761581421
+      ]
+    },
+    {
+      "attributes": [
+        1161822221,
+        1,
+        [
+          [
+            3612801175,
+            5,
+            "P & J FOOD HK LIMITED",
+            "PORTIONS OF SHOP B, G/F., CATIC PLAZA, NO. 8 CAUSEWAY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822280
+        ]
+      ],
+      "coordinate": [
+        1.9929593448098637,
+        0.3888490838368715,
+        11.65000057220459
+      ],
+      "halfSize": [
+        14.480549999978393,
+        13.996049999259412,
+        7.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1161822222,
+        2,
+        [
+          [
+            4912811433,
+            4,
+            "\u7db2\u9b5a\u96fb\u7af6(\u9285\u947c\u7063)",
+            "PORTION A OF SHOP UNITS 301-306, 3/F, 68 YEE WO STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-16"
+          ],
+          [
+            3612801801,
+            5,
+            "Pandamart",
+            "PORTIONS OF THE SHOP ON B/F(PORTION), NO. 68 YEE WO STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822283
+        ]
+      ],
+      "coordinate": [
+        1.9929326154219809,
+        0.3888451479799813,
+        11.799999237060547
+      ],
+      "halfSize": [
+        39.96568500017747,
+        26.20691499952227,
+        7.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1161822223,
+        1,
+        [
+          [
+            2912808985,
+            4,
+            "\u5cb1\u6c11\u9285\u947c\u7063\u5e97",
+            "SHOP 3 ON GROUND FLOOR, THE GRANDEUR, NO. 48 JARDINE'S CRESCENT, HONG KONG",
+            null,
+            "2027-03-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822285
+        ]
+      ],
+      "coordinate": [
+        1.992907993023849,
+        0.3888453241266173,
+        12.050000190734863
+      ],
+      "halfSize": [
+        19.23181500006467,
+        19.800079999491572,
+        7.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1161822224,
+        1,
+        [
+          [
+            2912804682,
+            4,
+            "\u5927\u5927\u5eda",
+            "SHOP A, G/F, 40 JARDINE'S CRESCENT, WAN CHAI, HONG KONG",
+            null,
+            "2026-04-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822286
+        ]
+      ],
+      "coordinate": [
+        1.9929039828725248,
+        0.3888474037504284,
+        6.199999809265137
+      ],
+      "halfSize": [
+        6.743720000144094,
+        8.011650000698864,
+        1.7000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1161822225,
+        4,
+        [
+          [
+            2912807742,
+            4,
+            "FEATHER AND BONE",
+            "SHOP NO. LG11, LG/F, LEE GARDEN TWO, 28 YUN PING ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2912808064,
+            4,
+            "Tealosophy Tea Bar",
+            "SHOP NO. G02, G/F., LEE GARDEN TWO, 28 YUN PING ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2912809340,
+            4,
+            "NODI",
+            "SHOP NO. 124, 1/F., LEE GARDEN TWO, 28 YUN PING ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-28"
+          ],
+          [
+            3612801315,
+            5,
+            "FEATHER AND BONE",
+            "PORTION B OF SHOP NOS. LG14-LG18, LG/F, LEE GARDEN TWO, 28 YUN PING ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822292
+        ]
+      ],
+      "coordinate": [
+        1.9929117110529933,
+        0.3888374460072233,
+        11.899999618530273
+      ],
+      "halfSize": [
+        71.49563999986276,
+        67.89435499999672,
+        7.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1161822226,
+        1,
+        [
+          [
+            2912806192,
+            4,
+            "CAFE LEITZ",
+            "PORTION A OF G/F., 12 PAK SHA ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822303
+        ]
+      ],
+      "coordinate": [
+        1.99288926394913,
+        0.3888407329984697,
+        9.899999618530273
+      ],
+      "halfSize": [
+        9.190409999806434,
+        10.511210000142455,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1161822227,
+        2,
+        [
+          [
+            2912807654,
+            4,
+            "\u74ca\u5abd\u5abd",
+            "SHOP E, G/F., DRAGON RISE, NOS. 9-11 PENNINGTON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2912808046,
+            4,
+            "JAMES BON BON BAKERY",
+            "SHOP C, G/F, DRAGON RISE, NOS. 9-11 PENNINGTON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822304
+        ]
+      ],
+      "coordinate": [
+        1.9929204241904497,
+        0.38884001482584235,
+        9.399999618530273
+      ],
+      "halfSize": [
+        11.475880000274628,
+        15.584720000624657,
+        5.0
+      ]
+    },
+    {
+      "attributes": [
+        1161822228,
+        4,
+        [
+          [
+            2912126890,
+            4,
+            "Pizza Hut",
+            "SHOP NO.4, G/F, PROFESSIONAL BLDG., 19-23 TUNG LO WAN RD., WAN CHAI, HONG KONG",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2912210845,
+            4,
+            "7-eleven",
+            "SHOP NO. 3 (PORT. B), PROFESSIONAL BLDG., 19-23 TUNG LO WAN RD., WAN CHAI, HONG KONG",
+            null,
+            "2027-03-24"
+          ],
+          [
+            2912809085,
+            4,
+            "IDFC Coffee",
+            "SHOP NO. 2, G/F, PROFESSIONAL BUILDING, 19-23 TUNG LO WAN ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-07"
+          ],
+          [
+            3212800752,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "SHOP NO. 3, G/F (PORTION A), PROFESSIONAL BUILDING, 19-23 TUNG LO WAN ROAD, CAUSEWAY BAY, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822308
+        ]
+      ],
+      "coordinate": [
+        1.992965309763189,
+        0.3888377242026506,
+        12.75
+      ],
+      "halfSize": [
+        12.721200000029057,
+        10.923914999701083,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1161822229,
+        1,
+        [
+          [
+            2912800927,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F., 17 PENNINGTON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822315
+        ]
+      ],
+      "coordinate": [
+        1.9929202470432172,
+        0.388834947327471,
+        12.350000381469727
+      ],
+      "halfSize": [
+        10.459934999700636,
+        11.43627499975264,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1161822230,
+        15,
+        [
+          [
+            4112800404,
+            1,
+            "(No Record Found)",
+            "PORTION LM OF SHOP NOS. B101-B109, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-02"
+          ],
+          [
+            2912800477,
+            4,
+            "Starbucks Coffee",
+            "KIOSK H, 9TH FLOOR, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2912803342,
+            4,
+            "18 GRAMS",
+            "COUNTER Q, SHOP B110, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-05"
+          ],
+          [
+            2912806721,
+            4,
+            "City Super FV",
+            "PORTION E AND PORTIONS OF SHOP B110, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2912810159,
+            4,
+            "\u5403\u8336\u4e09\u5343",
+            "SHOP NO. B236, BASEMENT 2, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2912810308,
+            4,
+            "Parsons Coffee",
+            "PORTION A OF SHOP NO. 1005, 10/F., TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2912810317,
+            4,
+            "Fusion Deli/ Grab & Go",
+            "PORTION FDC OF SHOP NOS. B101-B109, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2912810326,
+            4,
+            "(No Record Found)",
+            "PORTION LM (KITCHEN) OF SHOP NOS. B101-B109, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2912810335,
+            4,
+            "(No Record Found)",
+            "PORTION FDK OF SHOP NOS. B101-B109, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2912810344,
+            4,
+            "Sushi & Sashimi / Oyster Bar",
+            "PORTION SS & OY OF SHOP NOS. B101-B109, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-02"
+          ],
+          [
+            2912810380,
+            4,
+            "APT",
+            "MAJOR PORTION OF KIOSK E, 4/F, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-11"
+          ],
+          [
+            4912811628,
+            4,
+            "Tokachi Milky",
+            "MAJOR PORTION OF SHOP NO. B111, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-26"
+          ],
+          [
+            3612801005,
+            5,
+            "Fish & Meat",
+            "PORTION D AND PORTIONS OF SHOP B110, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-04"
+          ],
+          [
+            3212801092,
+            6,
+            "APT",
+            "MINOR PORTION OF KIOSK E, 4/F, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-11"
+          ],
+          [
+            4212800964,
+            6,
+            "Tokachi Milky",
+            "MINOR PORTION OF SHOP NO. B111, BASEMENT 1, TIMES SQUARE, 1 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822318
+        ]
+      ],
+      "coordinate": [
+        1.992852374094573,
+        0.38882869070516307,
+        39.849998474121094
+      ],
+      "halfSize": [
+        66.8304999996908,
+        45.55498499982059,
+        35.75
+      ]
+    },
+    {
+      "attributes": [
+        1161822231,
+        1,
+        [
+          [
+            2912807201,
+            4,
+            "\u6ab8\u5b63",
+            "SHOP NO. 6, 1/F, LEE THEATRE PLAZA, 99 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822321
+        ]
+      ],
+      "coordinate": [
+        1.9928714705682025,
+        0.38882956923335404,
+        12.649999618530273
+      ],
+      "halfSize": [
+        29.185524999629706,
+        28.239130000583827,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822232,
+        1,
+        [
+          [
+            4912811381,
+            4,
+            "JAMES BON BON BAKERY",
+            "SHOP 3, G/F., GUANGDONG TOURS CENTRE, 18 PENNINGTON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822324
+        ]
+      ],
+      "coordinate": [
+        1.9929253763353478,
+        0.38883143525480673,
+        11.399999618530273
+      ],
+      "halfSize": [
+        12.25618499983102,
+        13.919539999216795,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1161822233,
+        1,
+        [
+          [
+            3612800419,
+            5,
+            "Park ' N Shop",
+            "PORTION D OF SHOP NOS. 5-7, G/F., WUN SHA TOWER, NOS. 33-45, WUN SHA STREET, TAI HANG, HONG KONG",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822327
+        ]
+      ],
+      "coordinate": [
+        1.9930477327807428,
+        0.38882948704216,
+        13.149999618530273
+      ],
+      "halfSize": [
+        21.381740000098944,
+        23.180104999803007,
+        6.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1161822234,
+        1,
+        [
+          [
+            3612800464,
+            5,
+            "fusion",
+            "STALL NO. 3 & PORTIONS OF SHOP L04, LOWER GROUND FLOOR & SHOP B01, BASEMENT, LEIGHTON CENTRE, 77 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822336
+        ]
+      ],
+      "coordinate": [
+        1.9928683492378756,
+        0.38881884245509,
+        14.0
+      ],
+      "halfSize": [
+        46.551625000312924,
+        37.67076999973506,
+        9.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822235,
+        1,
+        [
+          [
+            2912808930,
+            4,
+            "NEKO PUFF",
+            "SHOP G04B, G/F., 33 SHARP STREET EAST, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822345
+        ]
+      ],
+      "coordinate": [
+        1.9928497528061653,
+        0.3888198106731749,
+        11.899999618530273
+      ],
+      "halfSize": [
+        30.612300000153482,
+        16.398784999735653,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1161822236,
+        2,
+        [
+          [
+            2912809854,
+            4,
+            "(No Record Found)",
+            "SHOP G88-G89, G/F., SOLO AVENUE, 6-10 SUN WUI ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2912810201,
+            4,
+            "\u5561\u4eba\u524d",
+            "SHOP G95, G/F, 6-10 SUN WUI ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822346
+        ]
+      ],
+      "coordinate": [
+        1.992899950129308,
+        0.3888197731703197,
+        14.200000762939453
+      ],
+      "halfSize": [
+        10.503544999752194,
+        11.605680000036955,
+        7.000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1161822237,
+        1,
+        [
+          [
+            3612801500,
+            5,
+            "Towngas Cooking Centre",
+            "PORTION D OF 1/F., CHINACHEM LEIGHTON PLAZA, 29 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822359
+        ]
+      ],
+      "coordinate": [
+        1.9928514329237332,
+        0.3888104457168353,
+        12.199999809265137
+      ],
+      "halfSize": [
+        16.90311499964446,
+        15.88939500041306,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1161822238,
+        2,
+        [
+          [
+            2912801407,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP A & PORTION OF SHOP B, G/F., VULCAN HOUSE, NOS. 21-23 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-02"
+          ],
+          [
+            3212800220,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP A & PORTION OF SHOP B, G/F., VULCAN HOUSE, NOS. 21-23 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822364
+        ]
+      ],
+      "coordinate": [
+        1.9928482725412797,
+        0.3888091482175427,
+        12.300000190734863
+      ],
+      "halfSize": [
+        11.053384999744594,
+        13.152830000035465,
+        7.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1161822239,
+        1,
+        [
+          [
+            2912804761,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "SHOP A, G/F., TOBACCO HOUSE, NOS. 110-112 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822436
+        ]
+      ],
+      "coordinate": [
+        1.9930229467991336,
+        0.3889489092575562,
+        25.950000762939453
+      ],
+      "halfSize": [
+        11.09000000031665,
+        6.639999999664724,
+        21.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1161822240,
+        1,
+        [
+          [
+            3611801336,
+            5,
+            "\u5229\u8c50\u8089\u98df\u516c\u53f8",
+            "G/F., NO. 1 TSING FUNG STREET, TIN HAU, HONG KONG",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822459
+        ]
+      ],
+      "coordinate": [
+        1.9930264148724313,
+        0.3889453095823438,
+        16.899999618530273
+      ],
+      "halfSize": [
+        5.597209999803454,
+        9.481355000287294,
+        10.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822241,
+        4,
+        [
+          [
+            2912808471,
+            4,
+            "DROOL FROYO",
+            "MAJOR PORTION OF SHOP A1, G/F, NO. 96 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-02-23"
+          ],
+          [
+            2912809049,
+            4,
+            "\u65b0\u5149",
+            "SHOP A (REAR PORTION), G/F, NO. 96 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            3212801065,
+            6,
+            "Drool Froyo",
+            "MINOR PORTION OF SHOP A1, G/F, NO. 96 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-01"
+          ],
+          [
+            3512800278,
+            8,
+            "\u65b0\u5149",
+            "SHOP A (FRONT PORTION), G/F, NO. 96 ELECTRIC ROAD, HONG KONG",
+            null,
+            "2026-04-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822476
+        ]
+      ],
+      "coordinate": [
+        1.993023101595701,
+        0.3889430942498608,
+        15.649999618530273
+      ],
+      "halfSize": [
+        10.806630000006407,
+        2.9693149998784065,
+        11.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822242,
+        1,
+        [
+          [
+            2912805746,
+            4,
+            "\u5305\u9ede\u9054\u4eba",
+            "G/F., 90 ELECTRIC ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822506
+        ]
+      ],
+      "coordinate": [
+        1.9930232443388989,
+        0.38893857580985325,
+        20.649999618530273
+      ],
+      "halfSize": [
+        9.537640000227839,
+        5.062760000117123,
+        16.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822243,
+        1,
+        [
+          [
+            4912811354,
+            4,
+            "Taste Bakery",
+            "SHOP A&B, G/F, ERNEST COURT, NO. 27-29 NGAN MOK STREET, TIN HAU, HONG KONG",
+            null,
+            "2026-03-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822530
+        ]
+      ],
+      "coordinate": [
+        1.993028988732642,
+        0.3889305119355206,
+        23.80000114440918
+      ],
+      "halfSize": [
+        5.404389999806881,
+        7.831570000387728,
+        17.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822244,
+        2,
+        [
+          [
+            2912806819,
+            4,
+            "TIN TIN VEGETARIAN FOOD",
+            "SHOP G06 & G07, G/F, KIU HING MANSION, 14 KING'S ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2912810025,
+            4,
+            "Spuntini Rivoluzione",
+            "FLAT L, 2/F., KIU HING MANSION, 14 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822584
+        ]
+      ],
+      "coordinate": [
+        1.9930382758426064,
+        0.3889082082049562,
+        48.75
+      ],
+      "halfSize": [
+        30.148295000195503,
+        24.924864999949932,
+        34.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1161822245,
+        3,
+        [
+          [
+            2912805621,
+            4,
+            "NOOD FOOD",
+            "MINOR PORTION OF 7/F., THE WORLD TRADE CENTRE, 280 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-26"
+          ],
+          [
+            2912808602,
+            4,
+            "Ten Ren's Tea",
+            "SHOP NO. L4-03 ON LEVEL 4 OF THE WORLD TRADE CENTRE, 280 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-18"
+          ],
+          [
+            2912809076,
+            4,
+            "TEA WG",
+            "PORTION A OF SHOP NO. L1-09, LEVEL 1, THE WORLD TRADE CENTRE, 280 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822619
+        ]
+      ],
+      "coordinate": [
+        1.9928883509419184,
+        0.3888891581322887,
+        79.20000457763672
+      ],
+      "halfSize": [
+        37.383609999902546,
+        50.91510499920696,
+        75.0999984741211
+      ]
+    },
+    {
+      "attributes": [
+        1161822246,
+        2,
+        [
+          [
+            2911807338,
+            4,
+            "Market Place",
+            "PORTION A OF SHOP A, G/F., MAGNOLIA MANSION, 2-4 TIN HAU TEMPLE ROAD & G/F., PARK COMMERCIAL CENTRE, NO. 180 TUNG LO WAN ROAD, HONG KONG",
+            null,
+            "2026-05-09"
+          ],
+          [
+            3611800175,
+            5,
+            "Market Place",
+            "PORTION OF SHOP A, G/F.,MAGNOLIA MANSION,2-4 TIN HAU TEMPLE RD., & G/F., PARK COMMERCIAL CENTRE, 180 TUNG LO WAN RD., HONG KONG",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822626
+        ]
+      ],
+      "coordinate": [
+        1.993031024739807,
+        0.3888944844590806,
+        48.95000076293945
+      ],
+      "halfSize": [
+        7.346030000131577,
+        10.773219999857247,
+        31.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1161822247,
+        1,
+        [
+          [
+            3212800965,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP D, G/F, PAK SHING BUILDING, 168-174 TUNG LO WAN ROAD, HONG KONG",
+            null,
+            "2026-08-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822645
+        ]
+      ],
+      "coordinate": [
+        1.993028230394128,
+        0.38888845401657685,
+        19.099998474121094
+      ],
+      "halfSize": [
+        8.973454999737442,
+        10.705130000598729,
+        14.499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1161822248,
+        1,
+        [
+          [
+            2912808295,
+            4,
+            "Zen coffee",
+            "PORTION A OF SHOP NOS. 1-2, G/F, HOI KUNG COURT, NO. 264-269 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822649
+        ]
+      ],
+      "coordinate": [
+        1.9928708172526073,
+        0.3888875805182287,
+        34.29999923706055
+      ],
+      "halfSize": [
+        14.852824999950826,
+        14.885879999957979,
+        30.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822249,
+        1,
+        [
+          [
+            4912811576,
+            4,
+            "ESPRIT",
+            "PORTION A OF SHOP 2, G/F, 2-4 KINGSTON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822654
+        ]
+      ],
+      "coordinate": [
+        1.9929171140377036,
+        0.3888854514538565,
+        29.25
+      ],
+      "halfSize": [
+        15.408869999926537,
+        14.484044999815524,
+        25.25
+      ]
+    },
+    {
+      "attributes": [
+        1161822250,
+        1,
+        [
+          [
+            2912809784,
+            4,
+            "COTTI COFFEE",
+            "SHOP 15, G/F, SINO PLAZA, 255-257 GLOUCESTER ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822655
+        ]
+      ],
+      "coordinate": [
+        1.9928593552886724,
+        0.38888293730542295,
+        83.64999389648438
+      ],
+      "halfSize": [
+        31.00631000008434,
+        33.410155000165105,
+        63.749996185302734
+      ]
+    },
+    {
+      "attributes": [
+        1161822251,
+        2,
+        [
+          [
+            2912800370,
+            4,
+            "IKEA Bistro",
+            "PORTION A (MAJOR PORTION), BASEMENT, PARK LANE HOTEL, 310 GLOUCESTER ROAD, HONG KONG",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3212800026,
+            6,
+            "IKEA Bistro",
+            "PORTION A (MINOR PORTION), BASEMENT, PARK LANE HOTEL, 310 GLOUCESTER ROAD, HONG KONG",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822658
+        ]
+      ],
+      "coordinate": [
+        1.9929268993310165,
+        0.38887964579913575,
+        43.25
+      ],
+      "halfSize": [
+        35.48412499995902,
+        45.96416499931365,
+        39.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1161822252,
+        1,
+        [
+          [
+            2912801568,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 7, G/F., MALAHON APARTMENTS, NO. 513 JAFFE ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822671
+        ]
+      ],
+      "coordinate": [
+        1.992872108522157,
+        0.38888203211885547,
+        39.69999694824219
+      ],
+      "halfSize": [
+        18.404250000137836,
+        10.820960000157356,
+        22.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822253,
+        14,
+        [
+          [
+            2912193199,
+            4,
+            "Cineart JP",
+            "3/F (PORT.), JP CINEMA, JP PLAZA, 22-36 PATERSON ST., CAUSEWAY BAY, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2912802808,
+            4,
+            "Wellcome",
+            "PORTION H OF G/F., 25-29 GREAT GEORGE STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2912802817,
+            4,
+            "Wellcome",
+            "PORTION J OF G/F., 25-29 GREAT GEORGE STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2912802826,
+            4,
+            "Wellcome",
+            "PORTION K OF G/F., 25-29 GREAT GEORGE STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2912802835,
+            4,
+            "Wellcome",
+            "PORTION I OF G/F., 25-29 GREAT GEORGE STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2912806934,
+            4,
+            "Meat - 2",
+            "UNIT CB-18, 5/F., PEARL CITY, NOS. 22-26 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2912806943,
+            4,
+            "Delicatessen-2",
+            "UNIT CB-12, 2/F., PEARL CITY, NOS. 22-26 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2912806961,
+            4,
+            "Vegetables",
+            "UNIT CB-16, 5/F., PEARL CITY, NOS. 22-26 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2912806970,
+            4,
+            "Fish-2",
+            "UNIT CB-17, 5/F., PEARL CITY, NOS. 22-26 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2912806998,
+            4,
+            "Meat - 1",
+            "UNIT CB-14, 3/F., PEARL CITY, NOS. 22-26 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2912808550,
+            4,
+            "Deli Kitchen",
+            "UNIT CB-2, 1/F., PEARL CITY, NOS. 22-26 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-04-11"
+          ],
+          [
+            3612800473,
+            5,
+            "Wellcome",
+            "PORTION G OF G/F., 25-29 GREAT GEORGE STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-23"
+          ],
+          [
+            3612801087,
+            5,
+            "Supermarket",
+            "2/F. (PORTIONS) & 3/F. (PORTIONS), PEARL CITY, NOS. 22-26 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-21"
+          ],
+          [
+            3512800135,
+            8,
+            "Wellcome",
+            "PORTION L OF G/F., 25-29 GREAT GEORGE STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822676
+        ]
+      ],
+      "coordinate": [
+        1.9929188638571667,
+        0.3888764228698203,
+        46.5
+      ],
+      "halfSize": [
+        32.244249999988824,
+        43.18460499960929,
+        42.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1161822254,
+        1,
+        [
+          [
+            2112800390,
+            1,
+            "Victory A Cafe",
+            "MINOR PORTION OF SHOP A1, B, C AND D, G/F, CITY MANSION, NOS. 483-499 JAFFE ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822678
+        ]
+      ],
+      "coordinate": [
+        1.992865602035926,
+        0.38888089845556917,
+        23.5
+      ],
+      "halfSize": [
+        19.392915000207722,
+        10.710105000063777,
+        19.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1161822255,
+        1,
+        [
+          [
+            2912809359,
+            4,
+            "ORCHID PADARIA BAKERY",
+            "SHOP NOS. 6-8 ON G/F AND UNIT NOS. 6-8 ON 1/F, EXCELSIOR PLAZA, YEE ON BUILDING, NO. 26 EAST POINT ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822691
+        ]
+      ],
+      "coordinate": [
+        1.992894039985117,
+        0.3888768546814342,
+        47.349998474121094
+      ],
+      "halfSize": [
+        26.673560000024736,
+        23.60662999935448,
+        43.25
+      ]
+    },
+    {
+      "attributes": [
+        1161822256,
+        1,
+        [
+          [
+            2912807584,
+            4,
+            "\u53f0\u7063\u53e4\u65e9\u5473 \u963f\u91cc\u5c71",
+            "G/F, NO. 6 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822705
+        ]
+      ],
+      "coordinate": [
+        1.992883412600719,
+        0.3888766081962824,
+        23.049999237060547
+      ],
+      "halfSize": [
+        6.589774999767542,
+        7.820390000008047,
+        18.75
+      ]
+    },
+    {
+      "attributes": [
+        1161822257,
+        2,
+        [
+          [
+            4912811460,
+            4,
+            "(No Record Found)",
+            "SHOP 3B, G/F, UNITED SUCCESS COMMERCIAL CENTRE, NO. 5 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-24"
+          ],
+          [
+            4212800946,
+            6,
+            "(No Record Found)",
+            "MAJOR PORTION OF SHOP 3B, G/F, UNITED SUCCESS COMMERCIAL CENTRE, NO. 5 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822706
+        ]
+      ],
+      "coordinate": [
+        1.9928777779700362,
+        0.38887599131378475,
+        42.20000076293945
+      ],
+      "halfSize": [
+        10.455315000377595,
+        8.488540000282228,
+        38.10000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1161822258,
+        2,
+        [
+          [
+            2912804415,
+            4,
+            "\u51dd\u9999\u5712",
+            "SHOP B, G/F., NO. 3 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-15"
+          ],
+          [
+            2912809988,
+            4,
+            "Sanbao Food",
+            "SHOP A, G/F., NO. 3 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822741
+        ]
+      ],
+      "coordinate": [
+        1.9928791183873453,
+        0.38887379628280583,
+        13.850000381469727
+      ],
+      "halfSize": [
+        4.7414100002497435,
+        4.238979999907315,
+        9.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822259,
+        2,
+        [
+          [
+            2912808240,
+            4,
+            "\u7d05\u77f3\u69b4\u9bae\u679c",
+            "SHOP D, G/F, NO. 2 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2912809021,
+            4,
+            "\u6797\u9999\u6ab8",
+            "SHOP C, G/F, NO. 2 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822758
+        ]
+      ],
+      "coordinate": [
+        1.9928831819953674,
+        0.38887260584569705,
+        15.700000762939453
+      ],
+      "halfSize": [
+        3.914720000233501,
+        4.208244999870658,
+        11.5
+      ]
+    },
+    {
+      "attributes": [
+        1161822260,
+        2,
+        [
+          [
+            2912804725,
+            4,
+            "Circle K Convenience Store",
+            "PORTIONS OF SHOP B, G/F., PO HON BUILDING, 24-30 PERCIVAL STREET, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2912809225,
+            4,
+            "\u8336\u6551\u661f\u7403",
+            "PORTION OF SHOP C, G/F, PO HON BUILDING, 24-30 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822759
+        ]
+      ],
+      "coordinate": [
+        1.9928614204989783,
+        0.3888710977766433,
+        26.0
+      ],
+      "halfSize": [
+        12.537139999680221,
+        12.983374999836087,
+        22.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822261,
+        1,
+        [
+          [
+            2912809173,
+            4,
+            "\u51dd\u9999\u5712",
+            "SHOPS B AND C, G/F, NO. 1 CANNON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822760
+        ]
+      ],
+      "coordinate": [
+        1.9928792239244848,
+        0.38887250003320906,
+        13.850000381469727
+      ],
+      "halfSize": [
+        4.698189999908209,
+        4.256174999289215,
+        9.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822262,
+        3,
+        [
+          [
+            2112800381,
+            1,
+            "Mama Bakery",
+            "SHOP NO. G04 (PORTION B), G/F, CAUSEWAY BAY PLAZA 2, 463-483 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-27"
+          ],
+          [
+            2912806925,
+            4,
+            "COMEBUY TEA",
+            "SHOP G02, G/F., CAUSEWAY BAY PLAZA 2, 463-483 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-14"
+          ],
+          [
+            2912810229,
+            4,
+            "1 + 1 \u8336",
+            "SHOP G03, G/F., CAUSEWAY BAY PLAZA 2, NOS. 463-483 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822769
+        ]
+      ],
+      "coordinate": [
+        1.9928533365161327,
+        0.38886883810853556,
+        47.25
+      ],
+      "halfSize": [
+        20.892585000023246,
+        14.153009999543428,
+        43.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1161822263,
+        1,
+        [
+          [
+            2912808417,
+            4,
+            "\u5229\u5fb7\u8c50\u6d77\u5473\u53a8\u623f",
+            "G/F, 124 TUNG LO WAN ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822772
+        ]
+      ],
+      "coordinate": [
+        1.9930325386300476,
+        0.3888699067023583,
+        18.25
+      ],
+      "halfSize": [
+        7.754139999859035,
+        5.674310000613332,
+        13.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1161822264,
+        1,
+        [
+          [
+            2912809632,
+            4,
+            "\u559c\u8336(\u9285\u947c\u7063\u5e97)",
+            "G/F, NO. 518 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822779
+        ]
+      ],
+      "coordinate": [
+        1.992880294297883,
+        0.3888683681539162,
+        14.25
+      ],
+      "halfSize": [
+        2.6597549999132752,
+        8.415324999950826,
+        10.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822265,
+        1,
+        [
+          [
+            2912808426,
+            4,
+            "PATISSERIE TONY WONG",
+            "GROUND FLOOR, COASIA BUILDING, NOS. 496-498 LOCKHART ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822789
+        ]
+      ],
+      "coordinate": [
+        1.9928699745388665,
+        0.3888678032446591,
+        38.39999771118164
+      ],
+      "halfSize": [
+        5.01907500019297,
+        8.564405000768602,
+        34.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1161822266,
+        4,
+        [
+          [
+            2912809739,
+            4,
+            "\u871c\u96ea\u51b0\u57ce",
+            "MAJOR PORTION OF SHOP G03A, G/F, CAUSEWAY BAY PLAZA 1, 489 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-03-18"
+          ],
+          [
+            2912809997,
+            4,
+            "\u6771\u963f\u963f\u81a0",
+            "PORTION A OF UNIT G04, G/F, CAUSEWAY BAY PLAZA 1, 489 HENNESSY ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2912810195,
+            4,
+            "YUE TASTY",
+            "SHOP 8, G/F., CAUSEWAY BAY PLAZA 1, 489 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-25"
+          ],
+          [
+            3212801029,
+            6,
+            "\u871c\u96ea\u51b0\u57ce",
+            "MINOR PORTION OF SHOP G03A, G/F, CAUSEWAY BAY PLAZA 1, 489 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822793
+        ]
+      ],
+      "coordinate": [
+        1.992865673320592,
+        0.3888645445473259,
+        54.650001525878906
+      ],
+      "halfSize": [
+        23.60382500011474,
+        22.52500000037253,
+        50.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1161822267,
+        2,
+        [
+          [
+            4912811442,
+            4,
+            "Shop B",
+            "SHOP B, G/F., RADIO CITY, 505 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-17"
+          ],
+          [
+            4912811451,
+            4,
+            "Shop A",
+            "SHOP A, G/F., RADIO CITY, 505 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822798
+        ]
+      ],
+      "coordinate": [
+        1.992874927692522,
+        0.38886499248986717,
+        46.35000228881836
+      ],
+      "halfSize": [
+        10.583420000039041,
+        8.090664999559522,
+        42.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1161822268,
+        2,
+        [
+          [
+            2912806262,
+            4,
+            "MR. TEA",
+            "SHOP A4, G/F., HONG KONG MANSION, NO. 1 YEE WO STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-28"
+          ],
+          [
+            2912810104,
+            4,
+            "LINLEE",
+            "SHOP A-3, G/F, HONG KONG MANSION, 1-1L YEE WO STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822804
+        ]
+      ],
+      "coordinate": [
+        1.992911997028901,
+        0.3888624094268978,
+        21.899999618530273
+      ],
+      "halfSize": [
+        32.17327000014484,
+        20.881535000167787,
+        18.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1161822269,
+        3,
+        [
+          [
+            2912808000,
+            4,
+            "Maria's",
+            "SHOP D, G/F., PUN TAK BUILDING, 478-484 LOCKHART ROAD, 21-27 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2912810043,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION D OF SHOP G, G/F., PUN TAK BUILDING, 478-484 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-15"
+          ],
+          [
+            3212801083,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION C OF SHOP G, G/F., PUN TAK BUILDING, 478-484 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822808
+        ]
+      ],
+      "coordinate": [
+        1.9928566412491688,
+        0.38886290395482326,
+        25.649999618530273
+      ],
+      "halfSize": [
+        16.48668499989435,
+        13.395590000785887,
+        22.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822270,
+        1,
+        [
+          [
+            3612801102,
+            5,
+            "Turtle Life Museum",
+            "PORTIONS OF G/F AND M/F, DIAMOND MANSION, 464 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822818
+        ]
+      ],
+      "coordinate": [
+        1.9928499433293672,
+        0.38886054613265747,
+        26.450000762939453
+      ],
+      "halfSize": [
+        11.059909999836236,
+        11.093694999814034,
+        22.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1161822271,
+        3,
+        [
+          [
+            2912800033,
+            4,
+            "VIVA PASTA",
+            "PORTION OF SHOP 201, 2/F., CAUSEWAY BAY CENTRE, 19-23 SUGAR ST, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2912806077,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 4, G/F., CAUSEWAY BAY CENTRE, NOS. 15-23 SUGAR STREET, HONG KONG",
+            null,
+            "2027-03-11"
+          ],
+          [
+            3212800761,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 4, G/F., CAUSEWAY BAY CENTRE, NOS. 15-23 SUGAR STREET, HONG KONG",
+            null,
+            "2027-03-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822819
+        ]
+      ],
+      "coordinate": [
+        1.9929331170734068,
+        0.3888599549366235,
+        36.04999923706055
+      ],
+      "halfSize": [
+        14.88715499965474,
+        12.941049999557436,
+        32.14999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1161822272,
+        3,
+        [
+          [
+            2912807520,
+            4,
+            "Ten Ren's Tea",
+            "MAJOR PORTION OF SHOP A2, G/F., EAST SOUTH BUILDING, NO. 29 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2912810113,
+            4,
+            "Jake n'me Bakery",
+            "SHOP E, G/F, EAST SOUTH BUILDING, 475-481 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-22"
+          ],
+          [
+            3212800901,
+            6,
+            "Ten Ren's Tea",
+            "MINOR PORTION OF SHOP A2, G/F., EAST SOUTH BUILDING, NO. 29 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822820
+        ]
+      ],
+      "coordinate": [
+        1.9928586344398949,
+        0.3888601165253632,
+        28.100000381469727
+      ],
+      "halfSize": [
+        12.020794999785721,
+        11.57924999948591,
+        24.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1161822273,
+        1,
+        [
+          [
+            2112800406,
+            1,
+            "Fu Wah Cafe",
+            "MINOR PORTION OF UNIT NOS. 1,2 AND 3, G/F, CAUSEWAY BAY COMMERCIAL BUILDING, NOS. 1-5 SUGAR STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822823
+        ]
+      ],
+      "coordinate": [
+        1.9929283813277296,
+        0.38885848811057294,
+        39.75
+      ],
+      "halfSize": [
+        18.124064999632537,
+        14.00576000008732,
+        35.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1161822274,
+        2,
+        [
+          [
+            2912801142,
+            4,
+            "Bee Chang Hiang",
+            "SHOP 1, G/F., 2-6 YEE WO STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2912807760,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP 3, G/F, YING KONG MANSION, 2-6 YEE WO STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822826
+        ]
+      ],
+      "coordinate": [
+        1.9929003691375733,
+        0.3888579803134575,
+        26.94999885559082
+      ],
+      "halfSize": [
+        15.584269999992102,
+        11.112615000456572,
+        22.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1161822275,
+        1,
+        [
+          [
+            2912809483,
+            4,
+            "MORE YOGURT",
+            "SHOP NO. 5, G/F., THE GOLDMARK, 502 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822828
+        ]
+      ],
+      "coordinate": [
+        1.9928911785813632,
+        0.3888580237747242,
+        46.400001525878906
+      ],
+      "halfSize": [
+        18.984659999608994,
+        9.71703500021249,
+        42.5
+      ]
+    },
+    {
+      "attributes": [
+        1161822276,
+        1,
+        [
+          [
+            2912809915,
+            4,
+            "\u4f73\u8a18\u679c\u6c41\u7f8e\u98df",
+            "G/F, HENNESSY APARTMENTS, NO. 52 PERCIVAL STREET, HONG KONG",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822834
+        ]
+      ],
+      "coordinate": [
+        1.9928697496604173,
+        0.3888554796280607,
+        34.75
+      ],
+      "halfSize": [
+        19.664119999855757,
+        17.509870000183582,
+        30.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1161822277,
+        2,
+        [
+          [
+            2912808453,
+            4,
+            "Market Place",
+            "BASEMENT (PORTION A), 5-19 JARDINE'S BAZAAR, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-08"
+          ],
+          [
+            3612801528,
+            5,
+            "Market Place",
+            "BASEMENT (PORTIONS), 5-19 JARDINE'S BAZAAR, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822840
+        ]
+      ],
+      "coordinate": [
+        1.9928962755349962,
+        0.3888541602157753,
+        40.900001525878906
+      ],
+      "halfSize": [
+        20.051265000365674,
+        20.785700000822544,
+        36.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1161822278,
+        3,
+        [
+          [
+            2912800574,
+            4,
+            "7-ELEVEN",
+            "PORTION A OF SHOP NOS. 8 & 9, G/F., BAY VIEW MANSION, 13-33 MORETON TERRACE, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2912805551,
+            4,
+            "\u5357\u6d0b\u5bb6",
+            "PORTION OF SHOP 6, G/F., BAY VIEW MANSION, NOS. 13-33 MORETON TERRACE AND NOS. 24-36 CAUSEWAY ROAD, HONG KONG",
+            null,
+            "2026-05-15"
+          ],
+          [
+            3212800123,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. 8 & 9, G/F., BAY VIEW MANSION, 13-33 MORETON TERRACE, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822841
+        ]
+      ],
+      "coordinate": [
+        1.9929690408538145,
+        0.38885202367224075,
+        34.04999923706055
+      ],
+      "halfSize": [
+        26.300149999558926,
+        39.15228999964893,
+        29.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822279,
+        1,
+        [
+          [
+            2912807636,
+            4,
+            "GONG CHA/ HOT-STAR LARGE FRIED CHICKEN",
+            "SHOP A, G/F., 30 JARDINE'S BAZAAR, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822843
+        ]
+      ],
+      "coordinate": [
+        1.992906590600899,
+        0.38885516307492984,
+        28.950000762939453
+      ],
+      "halfSize": [
+        9.390114999841899,
+        12.71855999995023,
+        24.75
+      ]
+    },
+    {
+      "attributes": [
+        1161822280,
+        1,
+        [
+          [
+            2912801346,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF G/F., 33 JARDINE'S BAZAAR, HONG KONG",
+            null,
+            "2026-04-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822869
+        ]
+      ],
+      "coordinate": [
+        1.992903309244472,
+        0.3888516933289589,
+        12.850000381469727
+      ],
+      "halfSize": [
+        5.1618650001473725,
+        7.56853000074625,
+        8.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822281,
+        1,
+        [
+          [
+            2912806004,
+            4,
+            "Milksha",
+            "G/F., HAPPY MANSION, NO. 17 LEE GARDEN ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822876
+        ]
+      ],
+      "coordinate": [
+        1.9928723370653454,
+        0.3888495773078376,
+        15.0
+      ],
+      "halfSize": [
+        18.51094500022009,
+        14.648244999349117,
+        10.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822282,
+        1,
+        [
+          [
+            2912801364,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F., NO. 60 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822878
+        ]
+      ],
+      "coordinate": [
+        1.9928705251405432,
+        0.3888508476997176,
+        18.19999885559082
+      ],
+      "halfSize": [
+        9.554084999952465,
+        5.679379999637604,
+        14.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1161822283,
+        1,
+        [
+          [
+            2912805311,
+            4,
+            "Pie & Tart",
+            "SHOP 7, G/F., LEE FAT BUILDING, NOS. 30-36 JARDINE'S CRESCENT, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822886
+        ]
+      ],
+      "coordinate": [
+        1.9929010357002588,
+        0.38884933315314096,
+        35.04999923706055
+      ],
+      "halfSize": [
+        11.784494999796152,
+        11.400334999896586,
+        30.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1161822284,
+        1,
+        [
+          [
+            4912811600,
+            4,
+            "(No Record Found)",
+            "G/F, 42 JARDINE'S BAZAAR, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822889
+        ]
+      ],
+      "coordinate": [
+        1.9929128917002563,
+        0.3888499257356837,
+        14.25
+      ],
+      "halfSize": [
+        4.748430000152439,
+        4.856935000047088,
+        10.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822285,
+        1,
+        [
+          [
+            2912805357,
+            4,
+            "INDOMARKET",
+            "PORTION OF SHOP A, G/F., MAYLAND COURT, 1-7 SHELTER STREET, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822890
+        ]
+      ],
+      "coordinate": [
+        1.9929660390108428,
+        0.38884869950276957,
+        40.04999923706055
+      ],
+      "halfSize": [
+        13.056194999720901,
+        13.123194999992847,
+        35.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1161822286,
+        1,
+        [
+          [
+            2912808578,
+            4,
+            "Bakehouse",
+            "G/F., 16 KAI CHIU ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822898
+        ]
+      ],
+      "coordinate": [
+        1.9928878249816844,
+        0.388849056301807,
+        15.600000381469727
+      ],
+      "halfSize": [
+        6.661615000106394,
+        8.857239999808371,
+        9.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822287,
+        1,
+        [
+          [
+            2912808198,
+            4,
+            "Hana-Musubi",
+            "SHOP F, G & H ON GROUND FLOOR, NO. 15 PAK SHA ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822947
+        ]
+      ],
+      "coordinate": [
+        1.9928905293537804,
+        0.38884572635847153,
+        18.350000381469727
+      ],
+      "halfSize": [
+        7.670635000336915,
+        7.000975000672042,
+        10.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1161822288,
+        2,
+        [
+          [
+            2112800309,
+            1,
+            "W. WELCOME RESTAURANT",
+            "MINOR PORTION OF SHOP NOS. 1 & 2, G/F., CATHAY MANSION, 3-17A TUNG LO WAN ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-30"
+          ],
+          [
+            2912808213,
+            4,
+            "BADI EATS",
+            "PORTION NO.1 OF SHOP A, G/F, CATHAY MANSION, 3-17 TUNG LO WAN ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822955
+        ]
+      ],
+      "coordinate": [
+        1.992957731412424,
+        0.3888440285732312,
+        29.450000762939453
+      ],
+      "halfSize": [
+        16.69785000011325,
+        16.36380000039935,
+        17.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1161822289,
+        2,
+        [
+          [
+            2112800327,
+            1,
+            "Lucky Star Bakery",
+            "MINOR PORTION, G/F., 1-3 PAK SHA ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-27"
+          ],
+          [
+            4912811345,
+            4,
+            "\u518d\u77615\u5206\u9418",
+            "SHOP A1, G/F, NO. 1 PAK SHA ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822979
+        ]
+      ],
+      "coordinate": [
+        1.9928811564362607,
+        0.38884286459437767,
+        14.649999618530273
+      ],
+      "halfSize": [
+        7.217715000268072,
+        9.681344999931753,
+        9.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1161822290,
+        1,
+        [
+          [
+            2912807681,
+            4,
+            "Cookie Vission",
+            "SHOP D-F, G/F, CHUEN HING BUILDING, 6 & 6A WUN SHA STREET, TAI HANG, HONG KONG",
+            null,
+            "2026-12-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822980
+        ]
+      ],
+      "coordinate": [
+        1.9930300542075101,
+        0.38884339679587787,
+        15.649999618530273
+      ],
+      "halfSize": [
+        6.532949999906123,
+        5.902300000190735,
+        10.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822291,
+        2,
+        [
+          [
+            2912808994,
+            4,
+            "CACAOLAB",
+            "MAJOR PORTION OF G/F., 20 PAK SHA ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-19"
+          ],
+          [
+            3212800910,
+            6,
+            "(No Record Found)",
+            "MINOR PORTION OF G/F., 20 PAK SHA ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822989
+        ]
+      ],
+      "coordinate": [
+        1.9928931791742845,
+        0.3888424618122677,
+        19.149999618530273
+      ],
+      "halfSize": [
+        5.392769999802113,
+        9.605554999783635,
+        11.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822292,
+        1,
+        [
+          [
+            2912805852,
+            4,
+            "King's Soup",
+            "SHOP AB, G/F., 58 JARDINE'S CRESCENT, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822995
+        ]
+      ],
+      "coordinate": [
+        1.9929114037327653,
+        0.3888424424936789,
+        13.550000190734863
+      ],
+      "halfSize": [
+        5.869125000201166,
+        6.720315000042319,
+        8.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1161822293,
+        1,
+        [
+          [
+            2912804804,
+            4,
+            "NOOD FOOD",
+            "PORTION OF 25/F, SOUNDWILL PLAZA, NO. 38 RUSSELL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161822999
+        ]
+      ],
+      "coordinate": [
+        1.9928587877568684,
+        0.38884107541959845,
+        85.35000610351562
+      ],
+      "halfSize": [
+        17.73551500029862,
+        13.223949999548495,
+        67.25
+      ]
+    },
+    {
+      "attributes": [
+        1161822294,
+        1,
+        [
+          [
+            2912807238,
+            4,
+            "Sushi Take-Out",
+            "SHOP H, G/F, PO FOO BUILDING, 39-47 LEE GARDEN ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823015
+        ]
+      ],
+      "coordinate": [
+        1.9928768322546515,
+        0.38883887154775615,
+        25.899999618530273
+      ],
+      "halfSize": [
+        19.995314999949187,
+        17.46362500078976,
+        21.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822295,
+        2,
+        [
+          [
+            2912804600,
+            4,
+            "JAVA JAVA FOODS & DRINKS",
+            "SHOP H, G/F., NO. 77-83 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2912808107,
+            4,
+            "\u8336\u6551\u661f\u7403",
+            "SHOP M, G/F, PERCIVAL HOUSE, 77-83 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823030
+        ]
+      ],
+      "coordinate": [
+        1.9928698426985196,
+        0.38883771541729856,
+        21.049999237060547
+      ],
+      "halfSize": [
+        10.42026499984786,
+        14.784674999304116,
+        16.75
+      ]
+    },
+    {
+      "attributes": [
+        1161822296,
+        1,
+        [
+          [
+            2912809100,
+            4,
+            "Midnight Bread Club",
+            "G/F, 22 KING STREET, TAI HANG, HONG KONG",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823039
+        ]
+      ],
+      "coordinate": [
+        1.9930268836685312,
+        0.3888391212460624,
+        13.5
+      ],
+      "halfSize": [
+        4.258375000208616,
+        5.065295000560582,
+        8.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1161822297,
+        1,
+        [
+          [
+            2912804460,
+            4,
+            "Merci Moncher",
+            "G/F., NO.15 LAN FONG ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823041
+        ]
+      ],
+      "coordinate": [
+        1.9928923352035566,
+        0.38883820846385064,
+        17.649999618530273
+      ],
+      "halfSize": [
+        6.786689999978989,
+        9.392494999803603,
+        11.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1161822298,
+        1,
+        [
+          [
+            2912807876,
+            4,
+            "The Shophouse",
+            "PORTION A OF G/F., 4 SECOND LANE, TAI HANG, HONG KONG",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823085
+        ]
+      ],
+      "coordinate": [
+        1.993032316294882,
+        0.38883624076840306,
+        12.100000381469727
+      ],
+      "halfSize": [
+        4.397134999744594,
+        5.239374999888241,
+        7.0
+      ]
+    },
+    {
+      "attributes": [
+        1161822299,
+        3,
+        [
+          [
+            2912802349,
+            4,
+            "Circle K Convenience Store",
+            "PORTION A OF SHOP NO. K, G/F., PO MING BUILDING, 2-6 FOO MING STREET, 49-57 LEE GARDEN ROAD, 96-106 PERCIVAL STREET, HONG KONG",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2912807487,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP J, G/F, PO MING BUILDING, 49-57 LEE GARDEN ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-26"
+          ],
+          [
+            2912809313,
+            4,
+            "Mak Don Don",
+            "SHOP D, G/F., PO MING BUILDING, NOS. 96-106 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823092
+        ]
+      ],
+      "coordinate": [
+        1.9928790842379818,
+        0.38883358826433656,
+        25.899999618530273
+      ],
+      "halfSize": [
+        19.561149999964982,
+        18.230934999883175,
+        21.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1161822300,
+        3,
+        [
+          [
+            2912802774,
+            4,
+            "PURE FITNESS (CWB) LIMITED",
+            "PORTION OF 15/F., LEE THEATRE PLAZA, 99 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2912805597,
+            4,
+            "Patisserie by Disciples Escoffier",
+            "SHOP B, 9/F., LEE THEATRE PLAZA, 99 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2912810177,
+            4,
+            "NOOD FOOD",
+            "PORTION OF 11/F, LEE THEATRE PLAZA, 99 PERCIVAL STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823113
+        ]
+      ],
+      "coordinate": [
+        1.9928720331289078,
+        0.3888295922513312,
+        63.150001525878906
+      ],
+      "halfSize": [
+        18.733939999714494,
+        26.497364999726415,
+        42.349998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1161822301,
+        1,
+        [
+          [
+            2912809678,
+            4,
+            "\u8fea\u81ea\u7531\u5feb\u9910",
+            "SHOP B, GROUND FLOOR, SAI SEE MANSION, 20-22 WUN SHA STREET, TAI HANG, HONG KONG",
+            null,
+            "2027-02-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823114
+        ]
+      ],
+      "coordinate": [
+        1.993036594852046,
+        0.38883268082333794,
+        19.75
+      ],
+      "halfSize": [
+        7.35933000035584,
+        7.55606499966234,
+        14.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1161822302,
+        1,
+        [
+          [
+            2912802330,
+            4,
+            "PAPABUBBLE",
+            "SHOP 34, G/F., 34 TUNG LO WAN ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823133
+        ]
+      ],
+      "coordinate": [
+        1.9930030707692588,
+        0.3888304737933883,
+        9.450000762939453
+      ],
+      "halfSize": [
+        8.623834999743849,
+        11.727845000103116,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1161822303,
+        1,
+        [
+          [
+            2912810353,
+            4,
+            "Auntie Anne's",
+            "SHOP I, G/F, PO WING BUILDING, NOS. 61-73 LEE GARDEN ROAD, CAUSEWAY BAY, WAN CHAI, HONG KONG",
+            null,
+            "2027-02-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823134
+        ]
+      ],
+      "coordinate": [
+        1.9928808828114097,
+        0.38882945702015653,
+        24.600000381469727
+      ],
+      "halfSize": [
+        20.15584999974817,
+        17.94929500017315,
+        19.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1161822304,
+        1,
+        [
+          [
+            2912801540,
+            4,
+            "YOSHI TSUKI KYUU",
+            "G/F., 2 SUN CHUN STREET, TAI HANG , HONG KONG",
+            null,
+            "2026-10-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823139
+        ]
+      ],
+      "coordinate": [
+        1.9930398950909876,
+        0.3888312834764157,
+        14.200000762939453
+      ],
+      "halfSize": [
+        3.516420000232756,
+        4.853399999439716,
+        8.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822305,
+        3,
+        [
+          [
+            2912802400,
+            4,
+            "Ming's Kitchen",
+            "SHOP 34, G/F., HAVEN BUILDING, 2-30 HAVEN STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2912809094,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "SHOP NO. 19, G/F, HAVEN COURT, NO. 14 HAVEN STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2912809599,
+            4,
+            "\u71d5\u8a18\u8eca\u4ed4\u9eb5",
+            "SHOP 2, G/F., HAVEN COURT, 128-138 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823163
+        ]
+      ],
+      "coordinate": [
+        1.9929353009692685,
+        0.38882538201055056,
+        20.649999618530273
+      ],
+      "halfSize": [
+        24.07522499980405,
+        25.44116500020027,
+        16.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1161822306,
+        1,
+        [
+          [
+            2912805764,
+            4,
+            "cakeofstardust",
+            "G/F., NO. 20 BROWN STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823178
+        ]
+      ],
+      "coordinate": [
+        1.9930270798340024,
+        0.38882702982963774,
+        14.149999618530273
+      ],
+      "halfSize": [
+        4.9454950001090765,
+        3.6909499997273088,
+        8.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1161822307,
+        6,
+        [
+          [
+            2912029775,
+            4,
+            "\u4e39\u9ea5\u9905\u5e97",
+            "G/F, 106 LEIGHTON RD., HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2912806350,
+            4,
+            "YEE MUI HON COMPANY LIMITED",
+            "SHOP 20 & SHOP 21, G/F., LEI SHUN COURT, 106-126 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-24"
+          ],
+          [
+            2912807186,
+            4,
+            "Hong Kong Family Food",
+            "SHOP NOS. 3 & 16, G/F., LEI SHUN COURT, NOS. 1-5 HAVEN STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2912808806,
+            4,
+            "Hana-Musubi",
+            "SHOP 07, G/F., LEISHUN COURT, 106-126 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-24"
+          ],
+          [
+            4912811488,
+            4,
+            "(No Record Found)",
+            "SHOP 4 & 15, G/F., LEI SHUN COURT, NOS. 106-126 LEIGHTON ROAD, NOS. 1-5 HAVEN STREET & NO. 1 CAROLINE HILL ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-01"
+          ],
+          [
+            4912811558,
+            4,
+            "(No Record Found)",
+            "SHOP 25, G/F, LEI SHUN COURT, 106-126 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823197
+        ]
+      ],
+      "coordinate": [
+        1.9929282461013673,
+        0.38882236962482536,
+        23.899999618530273
+      ],
+      "halfSize": [
+        22.448885000310838,
+        22.466280000284314,
+        19.69999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1161822308,
+        1,
+        [
+          [
+            2912808815,
+            4,
+            "TREEHOUSE",
+            "G/F, NO. 7 SHARP STREET EAST, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823204
+        ]
+      ],
+      "coordinate": [
+        1.9928685118601708,
+        0.38882311695808197,
+        14.449999809265137
+      ],
+      "halfSize": [
+        7.09375,
+        14.511149999685585,
+        9.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1161822309,
+        1,
+        [
+          [
+            4912811567,
+            4,
+            "Luckin Coffee",
+            "GROUND FLOOR, NO. 14 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823220
+        ]
+      ],
+      "coordinate": [
+        1.9928647699457331,
+        0.3888223528010924,
+        14.850000381469727
+      ],
+      "halfSize": [
+        6.90305499965325,
+        4.38133000023663,
+        10.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822310,
+        1,
+        [
+          [
+            2912810292,
+            4,
+            "(No Record Found)",
+            "SHOP B, G/F, 9 HAVEN STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823221
+        ]
+      ],
+      "coordinate": [
+        1.9929339421762362,
+        0.38882004333173803,
+        23.849998474121094
+      ],
+      "halfSize": [
+        19.235145000275224,
+        18.809439999982715,
+        19.75
+      ]
+    },
+    {
+      "attributes": [
+        1161822311,
+        2,
+        [
+          [
+            2912807195,
+            4,
+            "SEN META",
+            "SHOP 75-76, G/F., 5 HOI PING ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2912809818,
+            4,
+            "Le petit salon",
+            "SHOP 77-78, G/F., 5 HOI PING ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823223
+        ]
+      ],
+      "coordinate": [
+        1.9929029971323988,
+        0.3888207397370367,
+        20.25
+      ],
+      "halfSize": [
+        9.57463000016287,
+        11.290270000696182,
+        12.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1161822312,
+        1,
+        [
+          [
+            2912801577,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F., 16 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823226
+        ]
+      ],
+      "coordinate": [
+        1.9928645426090212,
+        0.3888216119708486,
+        13.75
+      ],
+      "halfSize": [
+        7.265629999805242,
+        3.936604999937117,
+        9.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822313,
+        1,
+        [
+          [
+            3612800534,
+            5,
+            "\u548c\u8208\u884c",
+            "G/F, APARTMENT B, 37 LEIGHTON RD, CAUSEWAY BAY, WAN CHAI, HONG KONG",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823277
+        ]
+      ],
+      "coordinate": [
+        1.992857727645725,
+        0.3888132522268275,
+        24.600000381469727
+      ],
+      "halfSize": [
+        14.14733500033617,
+        17.06359999999404,
+        19.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822314,
+        1,
+        [
+          [
+            2112800141,
+            1,
+            "MARIE'S PATISSERIE BOULANGERIE",
+            "PORTION OF SHOP A & C, 1/F., YEE HING BUILDING, 13-19 LEIGHTON ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823324
+        ]
+      ],
+      "coordinate": [
+        1.9928451877213755,
+        0.3888076537933321,
+        25.55000114440918
+      ],
+      "halfSize": [
+        16.49305999977514,
+        14.533574999310076,
+        21.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822315,
+        1,
+        [
+          [
+            2912807292,
+            4,
+            "GOGO KITCHEN",
+            "PORTION A OF G/F., 159 WONG NAI CHUNG ROAD, HAPPY VALLEY, HONG KONG",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823382
+        ]
+      ],
+      "coordinate": [
+        1.9928629465237016,
+        0.3887960683634342,
+        20.350000381469727
+      ],
+      "halfSize": [
+        9.770490000024438,
+        5.1863150000572205,
+        14.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1161822316,
+        1,
+        [
+          [
+            2912192433,
+            4,
+            "HK Football Club",
+            "SOUTH STAND, GROUND LEVEL, HONG KONG FOOTBALL CLUB, 3 SPORTS RD., HAPPY VALLEY, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823441
+        ]
+      ],
+      "coordinate": [
+        1.9928554006805423,
+        0.3887785695321862,
+        14.049999237060547
+      ],
+      "halfSize": [
+        77.71465499978513,
+        38.78842000011355,
+        8.25
+      ]
+    },
+    {
+      "attributes": [
+        1161822317,
+        13,
+        [
+          [
+            2912114352,
+            4,
+            "Deli-Express",
+            "CONCESSION NO.33, UPPER LEVEL, HK STADIUM, 55 EASTERN HOSPITAL RD., SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-10"
+          ],
+          [
+            2912114398,
+            4,
+            "Vending Station No.3",
+            "CONCESSION NO.3, MAIN LEVEL, HK STADIUM, 55 EASTERN HOSPITAL RD., SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-10"
+          ],
+          [
+            2912114404,
+            4,
+            "Deli-Express",
+            "CONCESSION NO.25, UPPER LEVEL, HK STADIUM, 55 EASTERN HOSPITAL RD., SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-10"
+          ],
+          [
+            2912114440,
+            4,
+            "Deli-Express",
+            "CONCESSION NO.16, MAIN LEVEL, HK STADIUM, 55 EASTERN HOSPITAL RD., SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2027-03-10"
+          ],
+          [
+            2912154851,
+            4,
+            "Holiday Inn",
+            "SERVICES LEVEL, HK STADIUM, 55 EASTERN HOSPITAL RD., SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2912155809,
+            4,
+            "Mes Amis",
+            "CONCESSION NO. 12, MAIN LEVEL, HK STADIUM, 55 EASTERN HOSPITAL ROAD, SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2912162908,
+            4,
+            "Deli-Express",
+            "CONCESSION NO.04, MAIN LEVEL, HONG KONG STADIUM, 55 EASTERN HOSPITAL RD, WAN CHAI, HONG KONG",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2912802419,
+            4,
+            "Grab N Go",
+            "CONCESSION NO. 32, HONG KONG STADIUM, 55 EASTERN HOSPITAL ROAD, SO KON PO, HONG KONG",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2912802428,
+            4,
+            "Grab N Go",
+            "CONCESSION NO.19, HONG KONG STADIUM, 55 EASTERN HOSPITAL ROAD, SO KON PO, HONG KONG",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2912804239,
+            4,
+            "Ebeneezer's",
+            "CONCESSION NO. 18, HONG KONG STADIUM, 55 EASTERN HOSPITAL ROAD, SO KON PO, HONG KONG",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2912805719,
+            4,
+            "MONTANA GRILL",
+            "CONCESSION NO. 7, MAIN LEVEL, HONG KONG STADIUM, 55 EASTERN HOSPITAL ROAD, SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2912805728,
+            4,
+            "MONTANA GRILL",
+            "CONCESSION NO. 24, UPPER LEVEL, HONG KONG STADIUM, 55 EASTERN HOSPITAL ROAD, SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2026-10-02"
+          ],
+          [
+            2912806457,
+            4,
+            "MES AMIE",
+            "CONCESSION NO. 6, MAIN LEVEL, HK STADIUM, 55 EASTERN HOSPITAL ROAD, SO KON PO, WAN CHAI, HONG KONG",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823585
+        ]
+      ],
+      "coordinate": [
+        1.9929600749882073,
+        0.3887496491422946,
+        25.5
+      ],
+      "halfSize": [
+        18.312739999964833,
+        14.429530000314116,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1161822318,
+        2,
+        [
+          [
+            2912801124,
+            4,
+            "Fusion",
+            "STALL NO. 3, G/F., CHUN FAI CENTRE, 9 CHUN FAI ROAD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            4612801697,
+            5,
+            "fusion",
+            "STALL NO. 4 & PORTIONS OF SHOP NOS. 1 AND 2, G/F., CHUN FAI CENTRE, NO. 9 CHUN FAI ROAD, JARDINES LOOKOUT, WAN CHAI, HONG KONG",
+            null,
+            "2026-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823624
+        ]
+      ],
+      "coordinate": [
+        1.9930488706920964,
+        0.388731653828702,
+        150.75
+      ],
+      "halfSize": [
+        24.113279999699444,
+        23.393854999914765,
+        10.949996948242188
+      ]
+    },
+    {
+      "attributes": [
+        1161822319,
+        2,
+        [
+          [
+            2111800241,
+            1,
+            "\u7ce7\u4e4b\u5bf6\u70d8\u7119",
+            "SHOP 20, G/F & 1/F., LAI TAK TSUEN ROAD, TSUEN WING LAU, LAI TAK TSUEN, HONG KONG",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2911805420,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. 22 & 26, G/F, BLOCK 6, TSUEN WING LAU, LAI TAK TSUEN, TAI HANG, HONG KONG",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823668
+        ]
+      ],
+      "coordinate": [
+        1.9930730696821848,
+        0.388818607322357,
+        50.75
+      ],
+      "halfSize": [
+        46.349459999706596,
+        81.7417750004679,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        1161822320,
+        23,
+        [
+          [
+            2912802880,
+            4,
+            "Pepper  Lunch",
+            "STALL NO. 1103, 11/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2912802899,
+            4,
+            "C-Food Tribe Company Limited",
+            "SHOP 1102, 11/F, HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2912803698,
+            4,
+            "\u767e\u82b3\u4e00\u6c60\u4e0a\u4fbf\u7576",
+            "SHOP NO. 1101, 11/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2912804637,
+            4,
+            "YIFANG TAIWAN FRUIT TEA",
+            "SHOP L1006 (MAJOR PORTION), 10/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-03-02"
+          ],
+          [
+            2912804716,
+            4,
+            "Marugame Seimen",
+            "FOOD STALL NO. 10, 11/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2912805694,
+            4,
+            "\u82b1\u7532\u5e74\u83ef",
+            "FOOD STALL NO. 11, 11/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2912807858,
+            4,
+            "--",
+            "FOOD STALL 09, 11/F, HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-29"
+          ],
+          [
+            2912807885,
+            4,
+            "--",
+            "SHOP 511A, 5/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2912808976,
+            4,
+            "PHO VIETZ",
+            "SHOP NO. 1107, 11/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-06"
+          ],
+          [
+            2912809182,
+            4,
+            "Peek-A-Poke",
+            "SHOP NO. B206, BASEMENT TWO FLOOR, HYSAN PLACE, NO. 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2912809243,
+            4,
+            "% Arabica",
+            "MAJOR PORTION OF SHOP B114, B1/F, HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2912809252,
+            4,
+            "SILK TEA",
+            "SHOP NO. B216, B2/F., HYSAN PLACE, NO. 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2912809322,
+            4,
+            "Sum Siu Sakaba",
+            "SHOP B208, B2/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2912809331,
+            4,
+            "2 Kims' Kitchen",
+            "SHOP B204, B2/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-16"
+          ],
+          [
+            2912809368,
+            4,
+            "ASURA",
+            "SHOP B207, B2/F, HYSAN PLACE, NO. 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-04"
+          ],
+          [
+            2912809377,
+            4,
+            "LE JUS",
+            "SHOP NO. B213, B2/F, HYSAN PLACE, NO. 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2912809386,
+            4,
+            "BFF Burger's Friend Forever",
+            "SHOP NO. B205, BASEMENT 2/F., HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2912809438,
+            4,
+            "Karui Bento / Mahjong",
+            "FOOD STALL NO. 4, 11/F, HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2912809827,
+            4,
+            "HOME PASTA",
+            "FOOD STALL NO. 5, 11/F, HYSAN PLACE, NO. 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2912809890,
+            4,
+            "Slow Cow",
+            "SHOP NO. B217, B2/F, HYSAN PLACE, NO. 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2912809979,
+            4,
+            "\u6f6e\u5927\u4eba",
+            "FOOD STALL NO. 8, 11/F., HYSAN PLACE, NO. 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-07-30"
+          ],
+          [
+            4912811512,
+            4,
+            "BANH MI BROTHERS",
+            "SHOP B209A, B2, HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-22"
+          ],
+          [
+            3212800938,
+            6,
+            "% Arabica",
+            "MINOR PORTION OF SHOP B114, B1/F, HYSAN PLACE, 500 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823686
+        ]
+      ],
+      "coordinate": [
+        1.9928825827600836,
+        0.38885502435172514,
+        25.100000381469727
+      ],
+      "halfSize": [
+        47.7674949998036,
+        32.24827999994159,
+        21.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1161822321,
+        24,
+        [
+          [
+            2912804938,
+            4,
+            "Vegetables & Fruits",
+            "SHOP B2-06A, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912804947,
+            4,
+            "BAKE WORKS",
+            "SHOP B2-14D(MAJOR PORTION), BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912804956,
+            4,
+            "FRESH KITCHEN",
+            "SHOP B2-13A, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912804965,
+            4,
+            "UO KOH",
+            "SHOP B2-04, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912804974,
+            4,
+            "MILK TOP PLUS",
+            "SHOP B2-13B (MAJOR PORTION), BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912804983,
+            4,
+            "OMUSUBI",
+            "SHOP B2-02, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912804992,
+            4,
+            "Meat",
+            "SHOP B2-06B, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912805001,
+            4,
+            "Croissant Taiyaki",
+            "SHOP B2-14A, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912805010,
+            4,
+            "Donq",
+            "SHOP B2-23, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2912805029,
+            4,
+            "Kushiyaki Yokocho",
+            "SHOP B2-03A, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2912805038,
+            4,
+            "Wagyu Boss Concept",
+            "SHOP B2-14B, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2912805047,
+            4,
+            "Hideyoshi",
+            "SHOP B2-03B, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2912805056,
+            4,
+            "PRESS BUTTER SAND",
+            "SHOP B2-14C, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2912805065,
+            4,
+            "Hanmat",
+            "SHOP B2-15A, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2912805074,
+            4,
+            "Beard Papa",
+            "SHOP B2-13C, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2912805092,
+            4,
+            "Karui Bento",
+            "SHOP B2-15B, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2912805108,
+            4,
+            "Central kitchen",
+            "SHOP B2-24B, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2912805117,
+            4,
+            "Naruse's Unagi",
+            "SHOP B2-15C, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2912805126,
+            4,
+            "Godiva",
+            "SHOP B2-22 (MAJOR PORTION), BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2912807973,
+            4,
+            "Venchi",
+            "SHOP B2-20C, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2912809757,
+            4,
+            "Pata Negra House",
+            "SHOP B2-07A & B2-07B, BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-03-27"
+          ],
+          [
+            3612800774,
+            5,
+            "Supermarket",
+            "PORTIONS OF BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-10"
+          ],
+          [
+            3212800646,
+            6,
+            "MILK TOP PLUS",
+            "SHOP B2-13B (MINOR PORTION), BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-12"
+          ],
+          [
+            3212800895,
+            6,
+            "Godiva",
+            "SHOP B2-22 (MINOR PORTION), BASEMENT 2, SOGO DEPARTMENT STORE, 555 HENNESSY ROAD, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-05-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823698
+        ]
+      ],
+      "coordinate": [
+        1.9928914043579864,
+        0.38886691922752975,
+        11.449999809265137
+      ],
+      "halfSize": [
+        50.52377000031993,
+        19.746009999886155,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1161822322,
+        1,
+        [
+          [
+            3612101668,
+            5,
+            "Wellcome",
+            "PTN.B OF G/F, 503-505 JAFFE RD, REAR PORT.OF G/F, 501-515 JAFFE RD, WAN CHAI, HONG KONG",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823700
+        ]
+      ],
+      "coordinate": [
+        1.9928721119947566,
+        0.3888821168638437,
+        10.299999237060547
+      ],
+      "halfSize": [
+        18.614610000047833,
+        15.549044999293983,
+        6.499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1161822323,
+        1,
+        [
+          [
+            4912811293,
+            4,
+            "(No Record Found)",
+            "MINOR PORTION OF 9/F, V POINT, 18 TANG LUNG STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-03-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823754
+        ]
+      ],
+      "coordinate": [
+        1.9928467485610566,
+        0.3888445636972576,
+        23.200000762939453
+      ],
+      "halfSize": [
+        25.01964499987662,
+        16.944350000470877,
+        19.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1161822324,
+        1,
+        [
+          [
+            3612801333,
+            5,
+            "Feast Market",
+            "PORTIONS OF 1/F., AURA ON PENNINGTON, NO. 66 JARDINE'S BAZAAR, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823771
+        ]
+      ],
+      "coordinate": [
+        1.99292130204774,
+        0.38884538921155487,
+        12.149999618530273
+      ],
+      "halfSize": [
+        10.95534999994561,
+        11.694405000656843,
+        7.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1161822325,
+        1,
+        [
+          [
+            2912808879,
+            4,
+            "\u4e5c\u9938\u5929\u5730",
+            "SHOP A, G/F, GOLDEN WHEEL PLAZA, 68 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823792
+        ]
+      ],
+      "coordinate": [
+        1.9930241421626262,
+        0.38893024571787405,
+        12.399999618530273
+      ],
+      "halfSize": [
+        10.903634999878705,
+        7.867595000192523,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1161822326,
+        1,
+        [
+          [
+            2912807432,
+            4,
+            "Silk",
+            "STALL 06, G/F, FOOD LOFT AT PARK AURA, 54 ELECTRIC ROAD, TIN HAU, HONG KONG",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823795
+        ]
+      ],
+      "coordinate": [
+        1.9930245779555615,
+        0.388924815123661,
+        12.850000381469727
+      ],
+      "halfSize": [
+        11.939905000384897,
+        7.312704999931157,
+        8.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1161822327,
+        2,
+        [
+          [
+            2912809456,
+            4,
+            "ESPRESSO FACTORY",
+            "SHOP 2, G/F, THE HEDON, 11-15 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-10-20"
+          ],
+          [
+            2912809793,
+            4,
+            "TRUFFLE BAKERY",
+            "SHOP 1 ON G/F AND WHOLE OF 1/F, THE HEDON, NO. 11 MATHESON STREET, CAUSEWAY BAY, HONG KONG",
+            null,
+            "2026-04-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1161823823
+        ]
+      ],
+      "coordinate": [
+        1.992860205228342,
+        0.3888207592922668,
+        69.9000015258789
+      ],
+      "halfSize": [
+        8.33475499972701,
+        8.89902999997139,
+        65.0999984741211
+      ]
+    }
+  ]
+}

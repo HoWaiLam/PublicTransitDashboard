@@ -1,0 +1,990 @@
+{
+  "features": [
+    {
+      "attributes": [
+        585105408,
+        1,
+        [
+          [
+            2294809819,
+            0,
+            "\u9eb5\u9eb5\u4ff1\u5713",
+            "G/F, D.D.129, S.T.T. NO. 2513, NO. 45, FUNG KONG TSUEN ROAD, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105454
+        ]
+      ],
+      "coordinate": [
+        1.9894985005822732,
+        0.3919965950391624,
+        6.25
+      ],
+      "halfSize": [
+        4.316899999976158,
+        3.529155000112951,
+        1.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        585105409,
+        1,
+        [
+          [
+            2294805604,
+            0,
+            "\u6f6e\u6f6e\u5c45",
+            "1/F (PORTION), TOWER ONE, HARBOUR PLAZA RESORT CITY, 12 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105496
+        ]
+      ],
+      "coordinate": [
+        1.9897259415638202,
+        0.3919720486725125,
+        53.20000076293945
+      ],
+      "halfSize": [
+        27.577500000130385,
+        41.39449999947101,
+        46.70000076293945
+      ]
+    },
+    {
+      "attributes": [
+        585105410,
+        1,
+        [
+          [
+            2294809086,
+            0,
+            "Yat Yat Place",
+            "1/F (PORTION), TOWER 2, HARBOUR PLAZA RESORT CITY, 18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105544
+        ]
+      ],
+      "coordinate": [
+        1.9897492902229879,
+        0.3919546625679896,
+        52.79999923706055
+      ],
+      "halfSize": [
+        40.531535000074655,
+        20.88607000000775,
+        45.39999771118164
+      ]
+    },
+    {
+      "attributes": [
+        585105411,
+        4,
+        [
+          [
+            2294807293,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. 1A, GROUND FLOOR, COMMERCIAL/CAR PARK BLOCK(ALSO KNOWN AS TIN TSZ SHOPPING CENTRE), TIN TSZ ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2294807381,
+            0,
+            "ITAMOMO CAFE",
+            "SHOP NO. 1C, GROUND FLOOR, TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2294807424,
+            0,
+            "\u8377\u91cc\u6d3b\u51b0\u5ba4",
+            "SHOP NOS. 8 & 9, G/F, TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2294807512,
+            0,
+            "\u7261\u4e39\u91d1\u95a3\u71d2\u9d5d\u5c08\u9580\u5e97",
+            "SHOP 110, 1/F, TIN TSZ SHOPPING CENTRE, TIN TSZ ESTATE, 9 TIN HEI STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105666
+        ]
+      ],
+      "coordinate": [
+        1.989795486876827,
+        0.39188266227818075,
+        11.5
+      ],
+      "halfSize": [
+        62.900799999944866,
+        32.79099999926984,
+        5.5
+      ]
+    },
+    {
+      "attributes": [
+        585105412,
+        13,
+        [
+          [
+            2294003448,
+            0,
+            "\u6dfb\u8a18\u77f3\u78e8\u8178\u7c89\u5c0f\u7092",
+            "SHOP A68- A70, G/F, PHASE I, KINGSWOOD RICHLY PLAZA, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2294003697,
+            0,
+            "\u53f0\u5473\u51b0\u9ede",
+            "SHOP C23-C24, 1/F, PHASE I, KINGSWOOD RICHLY PLAZA, JOYLANE ARCADE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-07"
+          ],
+          [
+            2294801392,
+            0,
+            "\u9e97\u6c5f\u96f2\u5357\u7c73\u7dda",
+            "SHOP C45A, 1/F, HARAJUKU ZONE, KINGSWOOD RICHLY PLAZA (PHASE 1), KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-15"
+          ],
+          [
+            2294801602,
+            0,
+            "\u7d05\u6e58\u5b50",
+            "SHOP NOS. A182, A183, A186, A198-A200, MINOR PORTION OF A184 & A185, G/F, PHASE 1, KINGSWOOD RICHLY PLAZA, TSWTL 1, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2294804081,
+            0,
+            "B\u8a18\u6e6f\u98ef",
+            "SHOP B12A, 1/F, PHASE 1, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-09"
+          ],
+          [
+            2294805905,
+            0,
+            "\u771f\u771f\u8c46\u6f3f\u5927\u738b",
+            "SHOP C42B, 1/F, PHASE 1, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS,1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            2294806032,
+            0,
+            "Delicious House",
+            "SHOP B12B, 1/F, PHASE 1, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2294806041,
+            0,
+            "\u96f2\u8cb4\u8ed2",
+            "SHOP NOS. B13A, B13B & B14C, 1/F, KINGSWOOD RICHLY PLAZA (PHASE 1), 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2294809004,
+            0,
+            "\u9903\u5b50\u9928",
+            "SHOP NO. A104, G/F, HARAJUKU ZONE, KINGSWOOD RICHLY PLAZA (PHASE I), KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2294809615,
+            0,
+            "\u5929\u5929\u71d2\u9d5d\u7687",
+            "SHOP C1 & C2, 1/F, KINGSWOOD RICHLY PLAZA (PHASE 1), KINGSWOOD VILLAS, NO.1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ],
+          [
+            2294809800,
+            0,
+            "\u716e\u516b",
+            "SHOP NO. B11, 1/F, PHASE 1, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            3894811918,
+            0,
+            "WAN KWAI HEUNG",
+            "SHOP NO. B15, 1/F, PHASE 1, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            3194802205,
+            1,
+            "\u83ef\u59e8\u8eca\u4ed4\u9eb5",
+            "SHOP A106, G/F, PHASE 1, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105712
+        ]
+      ],
+      "coordinate": [
+        1.9896838692725678,
+        0.39186737737596744,
+        12.350000381469727
+      ],
+      "halfSize": [
+        42.804000000003725,
+        89.22049999982119,
+        5.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        585105413,
+        3,
+        [
+          [
+            2294800274,
+            0,
+            "\u4e09\u76de\u71c8(\u6fb3\u9580)\u98df\u574a",
+            "SHOP NO. F13, 1/F, PHASE II, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3194000687,
+            1,
+            "B\u8a18\u8eca\u4ed4\u9eb5",
+            "1/F, SHOP NO. F13C-F13D & F13E, PHASE II, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            3194801725,
+            1,
+            "\u91d1\u9298\u6f6e\u5dde\u7c89\u9eb5",
+            "SHOP NO. F18, 1/F, PHASE II, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585105995
+        ]
+      ],
+      "coordinate": [
+        1.989698102328401,
+        0.3918559316219867,
+        14.350000381469727
+      ],
+      "halfSize": [
+        31.457500000018626,
+        24.862999999895692,
+        7.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        585105414,
+        7,
+        [
+          [
+            2294805747,
+            0,
+            "FULUM PALACE",
+            "SHOP L116, 1/F, TIN SHING SHOPPING CENTRE, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-16"
+          ],
+          [
+            2294805932,
+            0,
+            "Ngan Lung Restaurant",
+            "SHOP L001, G/F, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2294806069,
+            0,
+            "Side Walk Cafe",
+            "SHOP NO. L128, FIRST FLOOR, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2294809299,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. L002, G/F, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2294810275,
+            0,
+            "SUPER SUPER",
+            "SHOP NO. L122, FIRST FLOOR, TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ],
+          [
+            3194803068,
+            1,
+            "\u5927\u56cd\u725b\u96dc\u7c89\u9eb5",
+            "STALL NOS. M409, M411 & M413, G/F, MARKET PLACE OF TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-02-23"
+          ],
+          [
+            3194803712,
+            1,
+            "Fook Hing Congee Shop",
+            "STALL NO. M401 & M403, G/F, MARKET OF TIN SHING SHOPPING CENTRE, TIN SHING COURT, 3 TIN CHING STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585106657
+        ]
+      ],
+      "coordinate": [
+        1.9897238206489087,
+        0.39180792144469123,
+        24.5
+      ],
+      "halfSize": [
+        58.08018000004813,
+        94.34867999982089,
+        17.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        585105415,
+        1,
+        [
+          [
+            3194802825,
+            1,
+            "Starbucks Coffee",
+            "G/F(PORTION), PHASE I, HARBOUR PLAZA RESORT CITY, 12 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107075
+        ]
+      ],
+      "coordinate": [
+        1.9897215628937983,
+        0.3919635784835837,
+        14.399999618530273
+      ],
+      "halfSize": [
+        47.95126000000164,
+        93.27570999972522,
+        8.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        585105416,
+        5,
+        [
+          [
+            2294001363,
+            0,
+            "Fairwood Fast Food (management) Ltd.",
+            "SHOP NO.A168 & A193, PORTION B OF THE COMMERCIAL DEVELOPMENT OF LOCWOOD COURT, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2294803671,
+            0,
+            "Samborg Canteen",
+            "SHOP C43A, 1/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2294807415,
+            0,
+            "Mario",
+            "SHOP A 91-1, 2, 3 & 5, G/F, KINGSWOOD RICHLY PLAZA , KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            3194802092,
+            1,
+            "\u61c9\u59d0\u8eca\u4ed4\u9eb5",
+            "SHOP C47, 1/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-04"
+          ],
+          [
+            3194802551,
+            1,
+            "\u5c07\u8ecd\u9eb5\u9928",
+            "SHOP C41D, 1/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107076
+        ]
+      ],
+      "coordinate": [
+        1.9897823718883996,
+        0.39197272308329345,
+        9.300000190734863
+      ],
+      "halfSize": [
+        74.87732499977574,
+        21.218425000086427,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        585105417,
+        7,
+        [
+          [
+            2294802881,
+            0,
+            "Super Super",
+            "SHOP NO. 140-141, FIRST FLOOR, PHASE 1, KINGSWOOD GINZA, 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2294807974,
+            0,
+            "McDonald's Restaurant",
+            "SHOP G57B & G57C & OPEN SEATING AREA G57A, G/F OF PHASE 1,+ WOO, 12-18 TIN YAN ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-12-09"
+          ],
+          [
+            2294808153,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 218, 2/F, PHASE II, FORTUNE KINGSWOOD, 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2294808311,
+            0,
+            "Caf\u00e9 100% / Itamomo Cafe",
+            "PORTION A OF SHOP NO. G77-78A, G79 & 80, G/F, PHASE 1, FORTUNE KINGSWOOD, 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2294808612,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NOS. G83 & G88, G/F, PHASE 1, +WOO, 12-18 TIN YAN ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ],
+          [
+            2294811472,
+            0,
+            "MIZI HOTPOT",
+            "SHOP NO. G27, G/F, +WOO PHASE 2, NO. 18 TIN YAN ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3194803961,
+            1,
+            "Amainodessert",
+            "SHOP NO. G86A, G/F , PHASE 1,+WOO, 12-18 TIN YAN ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107080
+        ]
+      ],
+      "coordinate": [
+        1.9897478724041073,
+        0.3919483178315814,
+        14.449999809265137
+      ],
+      "halfSize": [
+        124.8491200003773,
+        56.15756999980658,
+        8.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        585105418,
+        13,
+        [
+          [
+            2294000148,
+            0,
+            "McDonald's",
+            "SHOP G1B, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2294804416,
+            0,
+            "\u6b63\u8a18\u51b0\u5ba4",
+            "SHOP STALL NO. T59 & T67, TIN SHUI WET MARKET, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2294805552,
+            0,
+            "CHEF NATHAN CAFE",
+            "SHOP NO. 5, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2294806449,
+            0,
+            "\u5927\u5e2b\u5085\u7ca5\u54c1",
+            "SHOP NOS. G3 & G4, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            2294807910,
+            0,
+            "FAIRWOOD FAST FOOD",
+            "SHOP NO. G15, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I&II) ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2294808232,
+            0,
+            "KFC",
+            "SHOP NO. L108, 1/F, TIN SHUI SHOPPING CENTRE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2294808250,
+            0,
+            "\u8336\u9b5a\u98ef\u540e",
+            "(MAJOR PORTION) SHOP NOS. G2D, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2294808931,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS. G31 AND G32, G/F , TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ],
+          [
+            2294811375,
+            0,
+            "DELUXE CUISINE",
+            "SHOP NO. L102, 1/F, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2294811694,
+            0,
+            "SAUNDO JAPANESE RESTAURANT",
+            "SHOP NO. G2F, GROUND FLOOR, TIN SHUI SHOPPING CENTRE, TIN SHUI (I & II) ESTATE, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            3194801831,
+            1,
+            "\u9298\u5e2b\u5085",
+            "SHOP T46, G/F, TIN SHUI ESTATE MARKET, TIN SHUI ESTATE , TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            3194802393,
+            1,
+            "\u6c5f\u4ed4\u8a18",
+            "SHOP G7, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-08"
+          ],
+          [
+            3194803077,
+            1,
+            "DA JIA TARO BALL",
+            "SHOP G2E, G/F, TIN SHUI SHOPPING CENTRE, TIN SHUI ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107154
+        ]
+      ],
+      "coordinate": [
+        1.989648307979333,
+        0.3919294772640539,
+        12.550000190734863
+      ],
+      "halfSize": [
+        48.840735000092536,
+        67.4409699998796,
+        6.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        585105419,
+        14,
+        [
+          [
+            2294804027,
+            0,
+            "JASMINE CUISINE",
+            "SHOP NO. L111, 1/F, TIN YIU PLAZA, TIN YIU ESTATE, 2 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2294804115,
+            0,
+            "McDonald's Restaurant",
+            "SHOP L011, G/F , COMMERCIAL CAR PARK BLOCK, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2294804160,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. L120, 1/F, TIN YIU PLAZA, TIN YIU ESTATE, 2 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2294806078,
+            0,
+            "\u4f73\u8a18\u9910\u5ef3",
+            "SHOP NOS. L048, L049 AND L050, G/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2294806810,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NOS. LG29 AND LG30, LOWER GROUND FLOOR 1, TIN YIU PLAZA, TIN YIU ESTATE, 2 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2294806829,
+            0,
+            "Don't Forget (\u5929\u8000\u5e97)",
+            "SHOP LG15 & LG16, LG1/F, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2294806838,
+            0,
+            "Yoshinoya",
+            "SHOP NO. LG28, LG1 FLOOR, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TIN YIU PLAZA), TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2294807266,
+            0,
+            "KFC",
+            "SHOP NO. LG27, LG1/F, TIN YIU PLAZA, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-25"
+          ],
+          [
+            2294809989,
+            0,
+            "Genki Sushi",
+            "SHOP NO. L101 & L102, 1/F, TIN YIU PLAZA, TIN YIU ESTATE, 2 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2294810974,
+            0,
+            "MOMOKU R.U.D.",
+            "SHOP NO. L012, G/F, TIN YIU PLAZA, TIN YIU ESTATE, NO. 2 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ],
+          [
+            2294811029,
+            0,
+            "\u84b2\u6771\u5c0f\u9928",
+            "SHOP NO. LG13, LG1/F, TIN YIU PLAZA, 2 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            3194802834,
+            1,
+            "\u5e78\u904b\u6d77\u5357\u96de",
+            "SHOP LG14, LOWER GROUND 1 FLOOR, TIN YIU PLAZA, TIN YIU ESTATE, TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3194804186,
+            1,
+            "LOK YUEN",
+            "SHOP NO. L021B, G/F, TIN YIU PLAZA, TIN YIU ESTATE, NO. 2 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-02-11"
+          ],
+          [
+            3994804412,
+            1,
+            "Bafang Dumpling",
+            "SHOP NO. LG01, LOWER GROUND 1 FLOOR, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TIN YIU PLAZA), TIN YIU ESTATE, TIN YIU ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107177
+        ]
+      ],
+      "coordinate": [
+        1.989739163587299,
+        0.39183984690915946,
+        7.25
+      ],
+      "halfSize": [
+        80.33750000037253,
+        46.16949999984354,
+        3.1499998569488525
+      ]
+    },
+    {
+      "attributes": [
+        585105420,
+        12,
+        [
+          [
+            2294800548,
+            0,
+            "Thai delicious",
+            "SHOP C43B, 1/F, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2294803848,
+            0,
+            "CUISINE",
+            "SHOP C45B, 1/F, KINGSWOOD RICHLY PLAZA (PHASE 1) KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-21"
+          ],
+          [
+            2294804124,
+            0,
+            "\u5690\u5473\u9928",
+            "SHOP NO. C46B, 1/F, COMMERCIAL DEVELOPMENT OF LOCWOOD COURT KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2294804726,
+            0,
+            "Spicy Chief",
+            "SHOP B13C, B14A & B14B, 1/F, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2294805020,
+            0,
+            "CHEESE NODDLES",
+            "SHOP NO. C46C, 1/F, COMMERCIAL DEVELOPMENT OF LOCWOOD COURT KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ],
+          [
+            2294805525,
+            0,
+            "YUEN. THAI",
+            "SHOP NO. A149-152, G/F, THE COMMERCIAL DEVELOPMENT, LOCWOOD COURT, KINGSWOOD VILLAS, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2294808135,
+            0,
+            "\u96f2\u4f86\u5ddd\u83dc",
+            "SHOP C41C, 1/F, KINGSWOOD RICHLY PLAZA, LOCWOOD COURT, KINGSWOOD VILLAS, NO. 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            3194801503,
+            1,
+            "\u8001\u6210\u90fd\u5ddd\u83dc",
+            "SHOP D05, 1/F, KINGSWOOD RICHLY PLAZA, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ],
+          [
+            3194801965,
+            1,
+            "\u8001\u5317\u65b9\u9eb5\u9928",
+            "SHOP A82-83, G/F, PHASE 1, HARAJUKU ZONE, KINGSWOOD RICHLY, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-09"
+          ],
+          [
+            3194802490,
+            1,
+            "\u98df\u9047",
+            "SHOP A93, G/F, KINGSWOOD RICHLY PLAZA, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3194802870,
+            1,
+            "\u6a02\u6e56\u5200\u524a\u9eb5",
+            "SHOP NO. C41B, 1/F, COMMERCIAL DEVELOPMENT OF LOCWOOD COURT, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3194803794,
+            1,
+            "\u6c38\u6046\u8c6c\u96dc\u7c89",
+            "SHOP C3B & C3C, 1/F, KINGSWOOD RICHLY PLAZA LOCWOOD COURT, KINGSWOOD VILLAS, 1 TIN WU ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107244
+        ]
+      ],
+      "coordinate": [
+        1.9896623820171888,
+        0.3918625347501044,
+        8.300000190734863
+      ],
+      "halfSize": [
+        45.412000000011176,
+        31.569500000216067,
+        2.200000047683716
+      ]
+    },
+    {
+      "attributes": [
+        585105421,
+        1,
+        [
+          [
+            2294808409,
+            0,
+            "TSWH Cafeteria",
+            "PORTION OF 3/F, TIN SHUI WAI HOSPITAL, 11 TIN TAN STREET, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          585107375
+        ]
+      ],
+      "coordinate": [
+        1.989597216099955,
+        0.3919733238283325,
+        33.150001525878906
+      ],
+      "halfSize": [
+        47.35800000000745,
+        53.57550000026822,
+        26.55000114440918
+      ]
+    }
+  ]
+}

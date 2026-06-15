@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        704643072,
+        1,
+        [
+          [
+            3692000226,
+            5,
+            "Fusion",
+            "STALL NO. 1 & PORTIONS OF, LOWER GROUND FLOOR, COMMERCIAL COMPLEX, HONG KONG GARDEN, TSING LUNG TAU, LOT 60, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          704643362
+        ]
+      ],
+      "coordinate": [
+        1.9903864587203708,
+        0.39028497187446715,
+        29.450000762939453
+      ],
+      "halfSize": [
+        21.887000000104308,
+        21.17700000014156,
+        2.4499998092651367
+      ]
+    }
+  ]
+}

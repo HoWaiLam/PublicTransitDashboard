@@ -1,0 +1,349 @@
+{
+  "features": [
+    {
+      "attributes": [
+        425721856,
+        6,
+        [
+          [
+            2917801420,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF SHOP 31, PODIUM 1/F., CARIBBEAN BAZAAR, CARIBBEAN COAST, 1 KIN TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2917802159,
+            4,
+            "Fusion",
+            "STALL NO. 21, SHOP NOS. 20-23, PODIUM FIRST FLOOR, CARIBBEAN SQUARE, CARIBBEAN COAST, NO. 1 KIN TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2917802168,
+            4,
+            "Fusion",
+            "STALL NO. 20, SHOP NOS. 20-23, PODIUM FIRST FLOOR, CARIBBEAN SQUARE, CARIBBEAN COAST, NO. 1 KIN TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            2917802177,
+            4,
+            "Fusion",
+            "STALL NO. 22 OF SHOP NOS. 20-23, PODIUM FIRST FLOOR, CARIBBEAN SQUARE, CARIBBEAN COAST, NO. 1 KIN TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2917804289,
+            4,
+            "SUSHI NO EN",
+            "SHOP NO. 11 ON THE PODIUM FIRST FLOOR, CARIBBEAN SQUARE OF CARIBBEAN COAST, 1 KIN TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-12-28"
+          ],
+          [
+            3617800487,
+            5,
+            "Fusion",
+            "STALL NO. 18 & PORTIONS OF SHOP NOS. 20-23, PODIUM FIRST FLOOR, CARIBBEAN SQUARE, CARIBBEAN COAST, NO. 1 KIN TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          425721858
+        ]
+      ],
+      "coordinate": [
+        1.9887842647409564,
+        0.38906896943707714,
+        10.350000381469727
+      ],
+      "halfSize": [
+        158.631150000263,
+        84.18997000064701,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        425721857,
+        2,
+        [
+          [
+            2917802070,
+            4,
+            "Food Tree",
+            "SHOP NO. 9D, G/F., COMMERCIAL DEVELOPMENT, COASTAL SKYLINE, 12 TUNG CHUNG WATERFRONT ROAD, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            3617800256,
+            5,
+            "Market Place",
+            "SHOP 11 & 12 (PORTION A), G/F., COASTAL SKYLINE, NO. 12 TUNG CHUNG WATERFRONT ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-04-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          425721859
+        ]
+      ],
+      "coordinate": [
+        1.9887277162056205,
+        0.3890540546076439,
+        11.449999809265137
+      ],
+      "halfSize": [
+        136.27338499994949,
+        22.54147000052035,
+        6.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        425721858,
+        1,
+        [
+          [
+            3617800496,
+            5,
+            "Market Place",
+            "SHOP NO. 11 (PORTIONS), LEVEL 1, THE COMMERCIAL ACCOMMODATION OF THE VISIONARY, NO. 1 YING HONG STREET, TUNG CHUNG, THE LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          425722014
+        ]
+      ],
+      "coordinate": [
+        1.9888109487646395,
+        0.3891232871758598,
+        14.949999809265137
+      ],
+      "halfSize": [
+        72.62527000019327,
+        33.240544999949634,
+        8.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        425721859,
+        1,
+        [
+          [
+            2917803949,
+            4,
+            "\u8299\u84c9\u5fb7\u624b\u6495\u96de",
+            "STALL YT32-YT33, G/F, YING TUNG SHOPPING CENTRE, 1 YING TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          425722022
+        ]
+      ],
+      "coordinate": [
+        1.9888338785924018,
+        0.38913218840928593,
+        14.199999809265137
+      ],
+      "halfSize": [
+        12.169834999833256,
+        10.884244999848306,
+        6.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        425721860,
+        2,
+        [
+          [
+            2917803569,
+            4,
+            "PIZZA HUT",
+            "SHOP 1, G/F, CENTURY LINK, NO. 6 YING HONG STREET, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-06-14"
+          ],
+          [
+            3617800663,
+            5,
+            "fusion",
+            "PORTIONS OF SHOP G07-09 ON GROUND FLOOR, CENTURY LINK, 6 YING HONG STREET, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          425722033
+        ]
+      ],
+      "coordinate": [
+        1.9888122536372757,
+        0.3891450185636679,
+        9.399999618530273
+      ],
+      "halfSize": [
+        63.50749999983236,
+        37.393540000543,
+        3.799999952316284
+      ]
+    },
+    {
+      "attributes": [
+        425721861,
+        9,
+        [
+          [
+            2917802830,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 18, G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2917802876,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP NO. 17, G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2917802919,
+            4,
+            "\u9038\u6771\u6cf0\u570b",
+            "STALL YT39, MARKET AT G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2917803143,
+            4,
+            "FOOK SING KITCHEN",
+            "STALL 2 & 3, MARKET AT G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            3617800788,
+            5,
+            "Wellcome",
+            "SHOP NO. 4 (PORTION A & PORTIONS), G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3617800803,
+            5,
+            "\u9b5a\u5e02.\u8fce\u6771",
+            "STALL YT15 & YT16, G/F., MARKET, YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3617800812,
+            5,
+            "Hopewell Meat Stall(Ying Tung)",
+            "STALL YT14, G/F., MARKET, YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            3617800821,
+            5,
+            "Sunshine Farm (Ying Tung Shop)",
+            "STALL YT7, G/F., MARKET, YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            3217800289,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 18, G/F., YING TUNG SHOPPING CENTRE, YING TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          425722050
+        ]
+      ],
+      "coordinate": [
+        1.9888566286179883,
+        0.3891490894417168,
+        9.5
+      ],
+      "halfSize": [
+        23.96119499998167,
+        35.95722500048578,
+        3.5
+      ]
+    },
+    {
+      "attributes": [
+        425721862,
+        2,
+        [
+          [
+            2917803727,
+            4,
+            "Sheraton Hong Kong Tung Chung",
+            "B/F (PORTION A AND PORTION B), SHERATON HONG KONG TUNG CHUNG HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2917803763,
+            4,
+            "SUBWAY",
+            "SHOP 05, G/F., SHERATON HOTEL, 9 YI TUNG ROAD, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-07-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          425722057
+        ]
+      ],
+      "coordinate": [
+        1.988735447653167,
+        0.38912512900566354,
+        37.900001525878906
+      ],
+      "halfSize": [
+        53.11790999956429,
+        36.18051500059664,
+        32.400001525878906
+      ]
+    }
+  ]
+}

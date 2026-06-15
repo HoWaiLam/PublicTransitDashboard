@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1105199104,
+        2,
+        [
+          [
+            2952801250,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. 11, 12 & 18, G/F., FRANKI CENTRE, NO. 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2952807540,
+            4,
+            "Chill Burger Den",
+            "SHOP 19, G/F, FRANKI CENTRE, 320 JUNCTION ROAD, KOWLOON TONG, KOWLOON",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1105199421
+        ]
+      ],
+      "coordinate": [
+        1.9928321336639572,
+        0.38989776149868305,
+        43.25
+      ],
+      "halfSize": [
+        30.72362000029534,
+        24.174699999392033,
+        7.950000762939453
+      ]
+    }
+  ]
+}

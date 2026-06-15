@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1434451968,
+        1,
+        [
+          [
+            2298801327,
+            0,
+            "SHAW'S CAFE",
+            "M/F (MAJOR PORTION), SHAW HOUSE, SHAW STUDIOS, 201 WAN PO ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1434451987
+        ]
+      ],
+      "coordinate": [
+        1.9944435939090703,
+        0.3892029905506547,
+        52.95000076293945
+      ],
+      "halfSize": [
+        59.75,
+        107.99500000011176,
+        4.950000762939453
+      ]
+    }
+  ]
+}

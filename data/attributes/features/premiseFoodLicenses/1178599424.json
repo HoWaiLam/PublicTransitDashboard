@@ -1,0 +1,1821 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1178599424,
+        6,
+        [
+          [
+            2997801901,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO. G5, SUI WO COURT COMMERCIAL CENTRE, SUI WO COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-17"
+          ],
+          [
+            2997810291,
+            4,
+            "90 CENT GOURMET MART",
+            "PORTION A OF SHOP NO. F09, FIRST FLOOR, SUI WO COMMERCIAL CENTRE, SUI WO COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            3697001385,
+            5,
+            "PARK'N SHOP",
+            "PORTION OF FLAT/ROOM G17, SUI WO COMMERCIAL COMPLEX, SUI WO COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3697804386,
+            5,
+            "90 CENT GOURMET MART",
+            "PORTION B OF SHOP NO. F09, FIRST FLOOR, SUI WO COMMERCIAL CENTRE, SUI WO COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            3697804401,
+            5,
+            "\u6f64\u8a18",
+            "UNIT NO. 1, GROUND FLOOR IN COMMERCIAL/CAR PARK BLOCK(ALSO KNOWN AS SUI WO COMMERCIAL CENTRE), SUI WO COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            3697804508,
+            5,
+            "\u5609\u83ef\u8089\u98df\u516c\u53f8",
+            "SHOP NO.3 , G/F, SUI WO MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS SUI WO COMMERCIAL CENTRE), SUI WO COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599426
+        ]
+      ],
+      "coordinate": [
+        1.9930398688794215,
+        0.3908020427529701,
+        47.650001525878906
+      ],
+      "halfSize": [
+        28.60800000000745,
+        39.54000000003725,
+        7.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1178599425,
+        4,
+        [
+          [
+            2197000032,
+            1,
+            "Pak Lok Bakery",
+            "NO 1, G/F, FU YU HOUSE, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2997810945,
+            4,
+            "\u5cb1\u6c11\u701d\u6e90\u5e97",
+            "STALL NO. 8, FIRST FLOOR, MARKET OF LEK YUEN PLAZA, LEK YUEN ESTATE, NO. 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2997811072,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336(\u701d\u6e90\u5e97)",
+            "SHOP NO. C217, UPPER SHOPPING LEVEL FLOOR (ALSO KNOWN AS SECOND FLOOR), COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS LEK YUEN PLAZA), LEK YUEN ESTATE, NO. 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2997813892,
+            4,
+            "Baker Talent",
+            "SHOP NO. 206, UPPER SHOPPING LEVEL FLOOR(ALSO KNOWN AS SECOND FLOOR), COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS LEK YUEN PLAZA), LEK YUEN ESTATE, NO. 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599442
+        ]
+      ],
+      "coordinate": [
+        1.9930131685016044,
+        0.3906892788799327,
+        6.850000381469727
+      ],
+      "halfSize": [
+        56.68649999983609,
+        91.5855000000447,
+        1.4500000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1178599426,
+        2,
+        [
+          [
+            3697805875,
+            5,
+            "\u5fb7\u767c\u9bae\u9b5a",
+            "STALL NOS. 5&6, 1/F, MARKET, LEK YUEN ESTATE, NO.6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3597800806,
+            8,
+            "\u91d1\u7fe0\u71d2\u81d8",
+            "STALL NO.1, 1/F, MARKET PLACE OF LEK YUEN PLAZA, LEK YUEN ESTATE, NO.6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599443
+        ]
+      ],
+      "coordinate": [
+        1.993024425842425,
+        0.3906917382384719,
+        6.800000190734863
+      ],
+      "halfSize": [
+        25.33449999988079,
+        22.28899999987334,
+        1.5
+      ]
+    },
+    {
+      "attributes": [
+        1178599427,
+        6,
+        [
+          [
+            2197800399,
+            1,
+            "\u7d05\u8336",
+            "MINOR PORTION OF SHOP 50, 3/F, SHA TIN PLAZA SHOPPING ARCADE, 21-27 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2997812826,
+            4,
+            "Sushi Take-Out",
+            "SHOP NO. 17B, LEVEL 3, SHATIN PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2997814503,
+            4,
+            "TIN TIN VEGETARIAN FOOD",
+            "SHOP NO. 31A, LEVEL 3, SHATIN PLAZA, NOS. 21-27 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2997814770,
+            4,
+            "\u767e\u5473\u7ae0\u9b5a",
+            "SHOP 31C, LEVEL 3, SHA TIN PLAZA, 21-27 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2997814804,
+            4,
+            "PAK MEI SHA TIN BRANCH",
+            "SHOP NO. 31D, LEVEL 3, SHATIN PLAZA, NOS. 21-27 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-27"
+          ],
+          [
+            4697804862,
+            5,
+            "Shing Hing Loong(Sha Tin)",
+            "SHOP NO. 32, LEVEL 3, SHATIN PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599447
+        ]
+      ],
+      "coordinate": [
+        1.992977182636313,
+        0.39066163027032313,
+        13.100000381469727
+      ],
+      "halfSize": [
+        62.23550000041723,
+        66.17050000000745,
+        8.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1178599428,
+        7,
+        [
+          [
+            2197000111,
+            1,
+            "Kam Nga Cake Shop",
+            "SHOP 19A, G/F, YUE LAM COURT, LUCKY PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2997812640,
+            4,
+            "\u9903\u5b50\u7687 \u00d7 \u9b5a\u6ecb\u5473",
+            "STALL G OF SHOP NOS. 3070, 3071, 3072 & 3081, LEVEL 3, SHATIN LUCKY PLAZA, 1-15 WANG POK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ],
+          [
+            2997813175,
+            4,
+            "Tong Kee Bao Dim",
+            "SHOP NO. 3111, LEVEL 3, SHATIN LUCKY PLAZA, 1-15 WANG POK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2997814345,
+            4,
+            "\u532f\u8336",
+            "SHOP NO. 3113, LEVEL 3, SHATIN LUCKY PLAZA, 1-15 WANG POK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-11"
+          ],
+          [
+            2997814840,
+            4,
+            "More Yogurt",
+            "SHOP 3012, LEVEL 3, LUCKY PLAZA, 1-15 WANG POK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            3697805121,
+            5,
+            "\u6709\u71df\u8fb2\u7267 \u00d7 \u725b\u5e02 \u00d7 \u9999\u6e2f\u9bae\u8c6c",
+            "STALL D OF SHOP NOS. 3070, 3071, 3072 & 3081, LEVEL 3, SHATIN LUCKY PLAZA, 1-15 WANG POK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ],
+          [
+            3697805130,
+            5,
+            "\u6d77\u9bae\u57ce",
+            "STALL F OF SHOP NOS. 3070, 3071, 3072 & 3081, LEVEL 3, SHATIN LUCKY PLAZA, 1-15 WANG POK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599448
+        ]
+      ],
+      "coordinate": [
+        1.9930039489765004,
+        0.39065917951018825,
+        10.59999942779541
+      ],
+      "halfSize": [
+        81.33900000015274,
+        81.43350000027567,
+        5.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1178599429,
+        7,
+        [
+          [
+            2997803509,
+            4,
+            "\u5462\u9053\u6b63 Nidaozheng",
+            "SHOP NO. 25L, LEVEL 3, SHA TIN CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2997806827,
+            4,
+            "Beans Bakery",
+            "SHOP NO. 19, LEVEL 3, SHATIN CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-25"
+          ],
+          [
+            2997807422,
+            4,
+            "GONG CHA",
+            "SHOP NOS. 25K, LEVEL 3 , SHA TIN CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2997811018,
+            4,
+            "Ho Ka Chicken",
+            "SHOP 51A, LEVEL 3, SHATIN CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2997811531,
+            4,
+            "\u8c6a\u5927\u5927\u96de\u6392(\u6c99\u7530\u5e97)",
+            "SHOP NO. 25M, LEVEL 3, SHATIN CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2997811610,
+            4,
+            "\u5495\u6ecb\u5495\u96de",
+            "SHOP 29A, LEVEL 3, SHATIN CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2997815241,
+            4,
+            "CHA NUNG",
+            "SHOP NO. 25J, LEVEL 3, SHATIN CENTRE, NO. 2-16 WANG POK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599449
+        ]
+      ],
+      "coordinate": [
+        1.9929944852920756,
+        0.39064905848110054,
+        10.549999237060547
+      ],
+      "halfSize": [
+        83.82250000024214,
+        79.28849999979138,
+        5.749999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1178599430,
+        7,
+        [
+          [
+            2197000209,
+            1,
+            "Kee Hing Cafe",
+            "SHOP NO 3, G/F (PORTION), WAI WAH CENTRE, 11-17 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2997804946,
+            4,
+            "FUSION",
+            "STALL NO. 4, SHOPS NO. 6, 7, 8A & 8B, SECOND FLOOR (LEVEL 3), CHANWAY SHOPPING CENTRE, 11-17 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2997804955,
+            4,
+            "FUSION",
+            "STALL NO. 5, SHOPS NO. 6, 7, 8A & 8B, SECOND FLOOR (LEVEL 3), CHANWAY SHOPPING CENTRE, 11-17 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2997804973,
+            4,
+            "FUSION",
+            "STALL NO. 3, SHOPS NO. 6, 7, 8A & 8B, SECOND FLOOR (LEVEL 3), CHANWAY SHOPPING CENTRE, 11-17 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            2997804982,
+            4,
+            "FUSION",
+            "STALL NO. 6, SHOPS NO. 6, 7, 8A & 8B, SECOND FLOOR (LEVEL 3), CHANWAY SHOPPING CENTRE, 11-17 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3697802016,
+            5,
+            "FUSION",
+            "STALL NO. 1 & PORTIONS OF SHOPS NO. 6, 7, 8A & 8B, SECOND FLOOR (LEVEL 3), CHANWAY SHOPPING CENTRE, 11-17 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3597800365,
+            8,
+            "FUSION",
+            "STALL NO. 2, SHOPS NO. 6, 7, 8A & 8B, SECOND FLOOR (LEVEL 3), CHANWAY SHOPPING CENTRE, 11-17 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599456
+        ]
+      ],
+      "coordinate": [
+        1.9929428309702464,
+        0.39062317092053317,
+        11.149999618530273
+      ],
+      "halfSize": [
+        59.624545000027865,
+        64.090994999744,
+        6.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1178599431,
+        6,
+        [
+          [
+            2997001927,
+            4,
+            "7-Eleven",
+            "LEVEL 1, SHOP NO 36 (PORTION B), GARDEN RIVERA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2997811276,
+            4,
+            "\u8c46\u4e73\u72c2\u4eba",
+            "SHOP NO. 28, G/F, BLOCK D, GARDEN RIVERA, 20-30 TAI CHUNG KIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2997814196,
+            4,
+            "BB\u71d2",
+            "SHOP 10B, G/F, BLOCK C, GARDEN RIVERA, NO. 20 TAI CHUNG KIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2997814372,
+            4,
+            "Thank you Thai Restaurant",
+            "SHOP NO. 10A, G/F, BLOCK C, GARDEN RIVERA, NOS. 20-30 TAI CHUNG KIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            3697801448,
+            5,
+            "Wellcome",
+            "PORTION A OF SHOP 21, 22, 23 AND 24, LEVEL 1, GARDEN RIVERA, 20-30 TAI CHUNG KIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-25"
+          ],
+          [
+            3297000041,
+            6,
+            "7-ELEVEN",
+            "SHOP NO 36 (PORTION A), LEVEL 1, GARDEN RIVERA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599458
+        ]
+      ],
+      "coordinate": [
+        1.9930813778060585,
+        0.3906226292796525,
+        9.199999809265137
+      ],
+      "halfSize": [
+        47.83099999977276,
+        51.75849999953061,
+        4.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1178599432,
+        2,
+        [
+          [
+            2997806696,
+            4,
+            "\u5305\u4e4b\u5c4b",
+            "SHOP 15, G/F, GREEN LEAVES GARDEN, 15-17 YUEN CHAU KOK ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2997813847,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "SHOP 3, LEVEL 1, GREEN LEAVES GARDEN, NOS. 15-17 YUEN CHAU KOK ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599463
+        ]
+      ],
+      "coordinate": [
+        1.9931612022944942,
+        0.39061773251525683,
+        9.350000381469727
+      ],
+      "halfSize": [
+        36.33699999982491,
+        34.6644999999553,
+        4.150000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1178599433,
+        1,
+        [
+          [
+            2197000634,
+            1,
+            "MeiMei Bakery",
+            "SHOP NO. 15, CHUEN FAI CENTRE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599465
+        ]
+      ],
+      "coordinate": [
+        1.9931196631040462,
+        0.3906107540697622,
+        10.199999809265137
+      ],
+      "halfSize": [
+        35.25649999966845,
+        34.72549999970943,
+        5.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1178599434,
+        8,
+        [
+          [
+            2997810228,
+            4,
+            "Chateraise",
+            "SHOP NO. A226, LEVEL 2, NEW TOWN PLAZA PHASE III, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-04-12"
+          ],
+          [
+            2997811197,
+            4,
+            "Comebuy Tea",
+            "SHOP NO. A312, LEVEL 3, NEW TOWN PLAZA, PHASE III, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-22"
+          ],
+          [
+            2997814497,
+            4,
+            "BREAD SECRET",
+            "SHOP NO. A115, LEVEL 1, NEW TOWN PLAZA, PHASE 3, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2997814716,
+            4,
+            "DIGREEN",
+            "SHOP NO. A106, LEVEL 1, NEW TOWN PLAZA (PHASE III), SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2997814725,
+            4,
+            "TszCha",
+            "SHOP A113, LEVEL 1, NEW TOWN PLAZA PHASE 3, 2-8 SHATIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ],
+          [
+            2997814831,
+            4,
+            "POPPINS",
+            "SHOP NO. A103, LEVEL 1, NEW TOWN PLAZA PHASE III, 2-8 SHATIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            4997815601,
+            4,
+            "ALICE PIZZA",
+            "SHOP A304, LEVEL 3 , NEW TOWN PLAZA PHASE III, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-14"
+          ],
+          [
+            3297800803,
+            6,
+            "DIGREEN",
+            "SHOP NO. A106 (PORTION), LEVEL 1, NEW TOWN PLAZA (PHASE III), SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599467
+        ]
+      ],
+      "coordinate": [
+        1.9929495769063956,
+        0.3906006807668493,
+        11.0
+      ],
+      "halfSize": [
+        50.556495000142604,
+        92.17300499975681,
+        6.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1178599435,
+        1,
+        [
+          [
+            2997807264,
+            4,
+            "\u8cde\u8336",
+            "SHOP NO. 37R, LEVEL 3, HILTON PLAZA, 3-9 SHATIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599468
+        ]
+      ],
+      "coordinate": [
+        1.9929364117431958,
+        0.3905987764772871,
+        10.75
+      ],
+      "halfSize": [
+        42.89350500004366,
+        81.08250000048429,
+        6.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1178599436,
+        2,
+        [
+          [
+            2197000227,
+            1,
+            "\u6822\u9e97\u5ef3 The Palate",
+            "3/F, COFFEE SHOP (MINOR PORTION), ROYAL PARK HOTEL, STTL 183, 8 PAK HOK TING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2997800333,
+            4,
+            "Royal Delights",
+            "LEVEL 3 (MINOR PORTION), COFFEE CORNER, ROYAL PARK HOTEL, 8 PAK HOK TING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599470
+        ]
+      ],
+      "coordinate": [
+        1.9929655812306348,
+        0.39060066424205026,
+        12.34999942779541
+      ],
+      "halfSize": [
+        26.668544999789447,
+        48.2785000000149,
+        6.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1178599437,
+        2,
+        [
+          [
+            2997814691,
+            4,
+            "GULUGOOD FOOD COMPANY",
+            "SHOP 9, G/F, GREENWOOD GARDEN SHOPPING CENTRE, 7-11 SHA KOK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2997815269,
+            4,
+            "\u559c\u54c1 \u8336\u9ede",
+            "SHOP 8, G/F, GREENWOOD GARDEN SHOPPING CENTRE, 7-11 SHA KOK STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599471
+        ]
+      ],
+      "coordinate": [
+        1.993109065617728,
+        0.39060097788347947,
+        9.149999618530273
+      ],
+      "halfSize": [
+        47.14599999971688,
+        43.732499999925494,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1178599438,
+        2,
+        [
+          [
+            3697804553,
+            5,
+            "\u660e\u767c\u6d77\u9bae\u6a94",
+            "UNIT NO. 4, G/F, SUI WO COMMERCIAL CENTRE, 13 SUI WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            3697804641,
+            5,
+            "\u6d2a\u8a18\u6c34\u7522",
+            "UNIT NO. 5, GROUND FLOOR IN COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS SUI WO COMMERCIAL CENTRE), SUI WO COURT, 13 SUI WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178599495
+        ]
+      ],
+      "coordinate": [
+        1.993069297473234,
+        0.39082004074407634,
+        58.849998474121094
+      ],
+      "halfSize": [
+        11.084999999962747,
+        4.695499999448657,
+        4.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1178599439,
+        1,
+        [
+          [
+            2991810183,
+            4,
+            "UNiBread",
+            "SHOP 9 & 10, G/F, HONG WO HOUSE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600016
+        ]
+      ],
+      "coordinate": [
+        1.993066322381405,
+        0.3907163481644896,
+        34.349998474121094
+      ],
+      "halfSize": [
+        24.129500000271946,
+        39.81900000013411,
+        28.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1178599440,
+        1,
+        [
+          [
+            2997800351,
+            4,
+            "A P CAFE",
+            "PORTION OF SHOP 4, LEVEL 2, PHASE 1, BELAIR GARDEN SHOPPING ARCADE, 52 TAI CHUNG KIU ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600209
+        ]
+      ],
+      "coordinate": [
+        1.9931440878523463,
+        0.3906898283562308,
+        10.75
+      ],
+      "halfSize": [
+        55.995500000193715,
+        56.84900000039488,
+        4.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1178599441,
+        8,
+        [
+          [
+            2197800405,
+            1,
+            "TSUI FUNG",
+            "MINOR PORTION OF UNIT NO. RB2, SECOND FLOOR, LEK YUEN PLAZA, LEK YUEN ESTATE, 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2997801266,
+            4,
+            "APPOLO (MAGIC HOUSE) SUPERSTORE LIMITED",
+            "SHOP C215, LEVEL 2, LEK YUEN SHOPPING CENTRE, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2997808328,
+            4,
+            "Green Chili",
+            "SHOP 111, 1/F, LEK YUEN PLAZA, LEK YUEN ESTATE, 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2997809358,
+            4,
+            "\u65b0\u5275\u767c",
+            "SHOP 7, 1/F, LEK YUEN PLAZA, LEK YUEN ESTATE, 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-20"
+          ],
+          [
+            2997814460,
+            4,
+            "HAPPY SWEET POTATO",
+            "SHOP 205, 2/F, LEK YUEN PLAZA, 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ],
+          [
+            3697802733,
+            5,
+            "\u65e5\u9bae\u8089\u98df\u516c\u53f8",
+            "SHOP 13, 1/F, LEK YUEN MARKET, LEK YUEN PLAZA, 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3697802876,
+            5,
+            "Wellcome",
+            "SHOP NOS. 1 & 3 (PORTION A & PORTIONS), 2/F, LEK YUEN PLAZA, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            3697803286,
+            5,
+            "\u6771\u57ce\u8089\u98df\u516c\u53f8",
+            "SHOP 4, 1/F, LEK YUEN MARKET, LEK YUEN PLAZA, 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600240
+        ]
+      ],
+      "coordinate": [
+        1.993023617613554,
+        0.3906873682875431,
+        11.0
+      ],
+      "halfSize": [
+        46.62211999995634,
+        40.605999999679625,
+        5.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1178599442,
+        4,
+        [
+          [
+            3697802858,
+            5,
+            "\u91d1\u7fe0\u5712\u51cd\u8089\u516c\u53f8",
+            "STALL S2 & S3, 1/F, LEK YUEN MARKET, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-27"
+          ],
+          [
+            3697803426,
+            5,
+            "\u65b0\u8a18\u9bae\u9b5a",
+            "STALL 12, 1/F, LEK YUEN MARKET, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            3697803949,
+            5,
+            "HILLTOP FOOD",
+            "STALL SS9 & SS10, 1/F, LEK YUEN MARKET, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ],
+          [
+            3697805185,
+            5,
+            "Ho Ting Fresh Food Company",
+            "STALL 49-50, 1/F, LEK YUEN MARKET, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600252
+        ]
+      ],
+      "coordinate": [
+        1.9930124392462365,
+        0.39068491435230934,
+        11.699999809265137
+      ],
+      "halfSize": [
+        32.95949999988079,
+        32.25399999972433,
+        6.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1178599443,
+        1,
+        [
+          [
+            2997803794,
+            4,
+            "\u805a\u8208\u6a13",
+            "PORTION OF SHOP NO. ST2, G/F, FU YU HOUSE, LEK YUEN ESTATE, 6 LEK YUEN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600266
+        ]
+      ],
+      "coordinate": [
+        1.9930083269306453,
+        0.39068233855405504,
+        16.899999618530273
+      ],
+      "halfSize": [
+        31.396499999798834,
+        28.693500000052154,
+        11.5
+      ]
+    },
+    {
+      "attributes": [
+        1178599444,
+        2,
+        [
+          [
+            2197000041,
+            1,
+            "HON WO",
+            "SHOP NO 2, G/F, WAH FUNG HOUSE, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2997801309,
+            4,
+            "\u5927\u54e5\u5c0f\u98df",
+            "SHOP NO. 1, G/F, WAH FUNG HOUSE, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600275
+        ]
+      ],
+      "coordinate": [
+        1.9930191679910598,
+        0.39067811257879376,
+        16.80000114440918
+      ],
+      "halfSize": [
+        35.33050000015646,
+        40.79600000008941,
+        11.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1178599445,
+        1,
+        [
+          [
+            2997800050,
+            4,
+            "YUMMY CAT",
+            "1/F (MINOR PORTION), NO.15 AND G/F, NO.12, PAI TAU VILLAGE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600324
+        ]
+      ],
+      "coordinate": [
+        1.9929460014271796,
+        0.3906763790688592,
+        6.350000381469727
+      ],
+      "halfSize": [
+        2.8437000000849366,
+        2.3406500006094575,
+        1.5499999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1178599446,
+        1,
+        [
+          [
+            2997814761,
+            4,
+            "The Hong Kong Down Syndrome Association",
+            "PORTION A OF ROOMS 123-138, G/F, WING SHUI HOUSE, LEK YUEN ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600327
+        ]
+      ],
+      "coordinate": [
+        1.9930125515444412,
+        0.3906702628930227,
+        25.5
+      ],
+      "halfSize": [
+        43.19749999977648,
+        38.93860500026494,
+        20.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1178599447,
+        7,
+        [
+          [
+            2997802861,
+            4,
+            "HUNG FOOK TONG",
+            "PORTION OF SHOP NO. 2, CITYLINK PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2997806410,
+            4,
+            "TenRen's Tea",
+            "UNIT 1, CITYLINK PLAZA, 1 SHA TIN STATION CIRCUIT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2997814202,
+            4,
+            "Beard Papa's",
+            "SHOP UNIT 3, RETAIL FLOOR, CITYLINK PLAZA, 1 SHATIN STATION CIRCUIT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2997814275,
+            4,
+            "HEYTEA",
+            "SHOP UNIT 24, RETAIL FLOOR, CITYLINK PLAZA, 1 SHATIN STATION CIRCUIT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2997814822,
+            4,
+            "LE JUS",
+            "SHOP UNIT 22, RETAIL FLOOR, CITYLINK PLAZA, 1 SHATIN STATION CIRCUIT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            3297800441,
+            6,
+            "TenRen's Tea",
+            "MINOR PORTION OF SHOP UNIT 1, CITYLINK PLAZA, 1 SHA TIN STATION CIRCUIT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3297800636,
+            6,
+            "Smile",
+            "SHOP 23, RETAIL FLOOR, CITYLINK PLAZA, 1 SHA TIN STATION CIRCUIT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600403
+        ]
+      ],
+      "coordinate": [
+        1.9929491533817907,
+        0.3906488200004485,
+        37.04999923706055
+      ],
+      "halfSize": [
+        50.301649999804795,
+        47.532360000535846,
+        23.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1178599448,
+        13,
+        [
+          [
+            2197800380,
+            1,
+            "SIMPLYLIFE BAKERY CAFE",
+            "PORTION B, SHOP NO. 129, LEVEL 1, NEW TOWN PLAZA (PHASE I), SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2997800759,
+            4,
+            "A-1 Bakery",
+            "SHOP 102, LEVEL 1, NEW TOWN PLAZA, PHASE I, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-25"
+          ],
+          [
+            2997803606,
+            4,
+            "HAAGEN DAZS",
+            "SHOP 509, LEVEL 5, PHASE 1, NEW TOWN PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2997804159,
+            4,
+            "Godiva Chocolatier",
+            "MAJOR PORTION OF SHOP 103, LEVEL 1, PHASE 1, NEW TOWN PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2997805781,
+            4,
+            "YIFANG TAIWAN FRUIT TEA",
+            "SHOP NO. 158, LEVEL 1, COMMERCIAL UNITS OF NEW TOWN PLAZA, PHASE 1, S.T.T.L. NO. 143, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2997806711,
+            4,
+            "Cova",
+            "MINOR PORTION OF SHOP NO. 214C LEVEL 2, NEW TOWN PLAZA PHASE 1, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2997813157,
+            4,
+            "Terrace In Seaside",
+            "PORTION B OF SHOP NO. 609, LEVEL 6, NEW TOWN PLAZA PHASE 1, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-11"
+          ],
+          [
+            2997813494,
+            4,
+            "TEA WG",
+            "PORTION A OF SHOP NO. 329, LEVEL 3, NEW TOWN PLAZA, PHASE 1, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2997813908,
+            4,
+            "KAHU COFFEE",
+            "KIOSK NO. 5B, LEVEL 5, NEW TOWN PLAZA (PHASE 1),18 SHA TIN CENTRE STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2997814080,
+            4,
+            "BLUE BOTTLE",
+            "SHOP NO. 518A, 5/F, NEW TOWN PLAZA (PHASE I), SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2997814734,
+            4,
+            "GUIJI",
+            "SHOP 157, LEVEL 1, NEW TOWN PLAZA, PHASE 1, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-15"
+          ],
+          [
+            4997815814,
+            4,
+            "CHICHA San Chen",
+            "SHOP NO. 156, LEVEL 1, NEW TOWN PLAZA, PHASE 1, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            3297800353,
+            6,
+            "Godiva Chocolatier",
+            "MINOR PORTION OF SHOP 103, LEVEL1, PHASE 1, NEW TOWN PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600404
+        ]
+      ],
+      "coordinate": [
+        1.9929654825534868,
+        0.39063814231785854,
+        25.150001525878906
+      ],
+      "halfSize": [
+        122.20850000018254,
+        114.52290500048548,
+        12.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1178599449,
+        1,
+        [
+          [
+            2997815108,
+            4,
+            "SOS ROASTERY",
+            "PORTION A, P/F, SHA TIN TOWN HALL, 1 YUEN WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600521
+        ]
+      ],
+      "coordinate": [
+        1.9929903662329154,
+        0.3906270431702736,
+        17.55000114440918
+      ],
+      "halfSize": [
+        50.1304999999702,
+        49.96200000029057,
+        12.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1178599450,
+        8,
+        [
+          [
+            2997808267,
+            4,
+            "\u4e2d\u8208\u9e75\u6c34",
+            "MARKET STALL NO. M28 (REAR PORTION), GROUND FLOOR, HAU WO HOUSE, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2997808568,
+            4,
+            "Sharetea",
+            "SHOP R10, G/F, WO CHE PLAZA, 6 FUNG SHUN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2997808735,
+            4,
+            "\u65b0\u65fa\u8a18",
+            "MARKET STALL NO. M59 & M60 (REAR PORTION), GROUND FLOOR, HAU WO HOUSE, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            3697804605,
+            5,
+            "\u512a\u9bae",
+            "MARKET STALL NO. M46, G/F, HAU WO HOUSE (FORMING PART OF INTEGRATED COMMERCIAL/CAR PARK ACCOMMODATION), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            3297800469,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NOS. 209 AND 210, F3 FLOOR, HAU WO HOUSE, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            3597800523,
+            8,
+            "\u4e2d\u8208\u9e75\u6c34",
+            "MARKET STALL NO. M28 (FRONT PORTION), GROUND FLOOR, HAU WO HOUSE, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            3597800550,
+            8,
+            "\u65b0\u65fa\u8a18",
+            "MARKET STALL NO. M59 & M60 (FRONT PORTION), GROUND FLOOR, HAU WO HOUSE, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            3597800639,
+            8,
+            "\u592a\u548c\u71d2\u81d8",
+            "MARKET STALL NO. M27 (FRONT PORTION), GROUND FLOOR, HAU WO HOUSE, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600717
+        ]
+      ],
+      "coordinate": [
+        1.993073009131604,
+        0.3907499115417768,
+        23.700000762939453
+      ],
+      "halfSize": [
+        30.944500000216067,
+        40.239999999292195,
+        18.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1178599451,
+        3,
+        [
+          [
+            2997805198,
+            4,
+            "PACIFIC COFFEE COMPANY",
+            "PORTION OF LIFT MAIN LOBBY, TOWER II, GRAND CENTRAL PLAZA, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2997814187,
+            4,
+            "IKEA",
+            "PORTION A (MAJOR PORTION), 5/F , GRAND CENTRAL PLAZA, 138 SHA TIN RURAL COMMITTEE ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            3297800742,
+            6,
+            "IKEA",
+            "PORTION A (MINOR PORTION), 5/F, GRAND CENTRAL PLAZA, 138 SHA TIN RURAL COMMITTEE ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600849
+        ]
+      ],
+      "coordinate": [
+        1.9929529365116092,
+        0.39070110770054506,
+        18.299999237060547
+      ],
+      "halfSize": [
+        62.859999999869615,
+        49.01119999960065,
+        12.0
+      ]
+    },
+    {
+      "attributes": [
+        1178599452,
+        22,
+        [
+          [
+            2197800122,
+            1,
+            "KING BAKERY",
+            "SHOP NO. 208A, 2/F, WO CHE SHOPPING CENTRE, WO CHE ESTATE , SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2997802843,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. G3 & G4, G/F, WO CHE PLAZA, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ],
+          [
+            2997806049,
+            4,
+            "Appolo (Magic House) Superstore Ltd.",
+            "SHOP 231, 2/F, WO CHE PLAZA, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2997808249,
+            4,
+            "YAMAZAKI",
+            "SHOP NO. R9, G/F, WO CHE PLAZA, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            2997808461,
+            4,
+            "POP UP SUSHI",
+            "SHOPSTALL NO. SU22, G/F, MARKET, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2997808577,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "STALL NOS. M61 & M62, G/F, MARKET, COMMERCIAL CENTRE, (ALSO KNOWN AS WO CHE PLAZA) ,(FORMING PART OF COMMERICIAL/ CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2997809437,
+            4,
+            "\u5305\u9ede\u5148\u751f",
+            "STALL NO. M51, G/F, MARKET, WO CHE PLAZA, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            3697802159,
+            5,
+            "Wellcome",
+            "SHOP NO. 206B (PORTIONS), 2/F, WO CHE PLAZA, WO CHE ESTATE, 3 TAK HAU STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-24"
+          ],
+          [
+            3697803116,
+            5,
+            "\u5408\u5229\u96de\u9d28",
+            "SHOP M30, G/F, WO CHE MARKET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ],
+          [
+            3697803356,
+            5,
+            "\u5f37\u8a18\u96de\u9d28",
+            "STALL NO. M41, G/F, MARKET, COMMERCIAL CENTRE(ALSO KNOWN AS WO CHE PLAZA)(FORMING PART OF COMMERICAL / CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            3697803383,
+            5,
+            "\u91d7\u4ed4\u6d77\u9bae",
+            "STALL NOS. M55 & M58, G/F, MARKET, COMMERCIAL CENTRE(ALSO KNOWN AS WO CHE PLAZA)(FORMING PART OF COMMERICAL / CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            3697803417,
+            5,
+            "FISH CAMP",
+            "STALL NO.M35, IN THE MARKET PLACE, G/F ,COMMERCIAL CENTRE OF WO CHE PLAZA , WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            3697803435,
+            5,
+            "\u5ee3\u6771\u8089\u98df",
+            "STALL NO. M34, G/F, MARKET, COMMERCIAL CENTRE(ALSO KNOWN AS WO CHE PLAZA)(FORMING PART OF COMMERICAL / CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            3697803444,
+            5,
+            "\u8c6c\u5e2b\u5085",
+            "STALL NO. M39, G/F, MARKET, COMMERCIAL CENTRE(ALSO KNOWN AS WO CHE PLAZA)(FORMING PART OF COMMERICAL / CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            3697803453,
+            5,
+            "\u9818\u9bae",
+            "STALL NO. M33, G/F, MARKET, WO CHE PLAZA, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3697803462,
+            5,
+            "\u6771\u57ce",
+            "STALL NO. M40, G/F, MARKET, COMMERCIAL CENTRE(ALSO KNOWN AS WO CHE PLAZA)(FORMING PART OF COMMERICAL / CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            3697803471,
+            5,
+            "\u9999\u6e2f\u5730\u98df\u54c1",
+            "STALL NOS. M56 & M57, G/F, MARKET, COMMERCIAL CENTRE(ALSO KNOWN AS WO CHE PLAZA)(FORMING PART OF COMMERICAL / CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ],
+          [
+            3697803897,
+            5,
+            "\u60e0\u91cc\u8c5a",
+            "STALL NO. M38, G/F, WO CHE MARKET, WO CHE ESTATE, 3 TAK HAU STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-08"
+          ],
+          [
+            3697805431,
+            5,
+            "\u79be\u8f0b\u9bae\u9b5a",
+            "STALL NO. M45, G/F, MARKET, COMMERCIAL CENTRE (ALSO KNOWN AS WO CHE PLAZA), (FORMING PART OF COMMERCIAL/CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-05"
+          ],
+          [
+            3697805705,
+            5,
+            "\u65b0\u8ca1\u8089\u98df\u516c\u53f8",
+            "STALL NO. M43, G/F, MARKET, COMMERCIAL CENTRE (ALSO KNOWN AS WO CHE PLAZA), (FORMING PART OF COMMERCIAL/CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            3697805936,
+            5,
+            "LAM KEE SEAFOOD",
+            "STALL NOS. M52, M53 & M54, G/F, MARKET COMMERCIAL CENTRE (ALSO KNOWN AS WO CHE PLAZA), (FORMING PART OF COMMERCIAL/CAR PARK BLOCKS), WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            3297800283,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NOS. G3 & G4, G/F, WO CHE PLAZA, WO CHE ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600850
+        ]
+      ],
+      "coordinate": [
+        1.9930851445680235,
+        0.3907409696204021,
+        12.149999618530273
+      ],
+      "halfSize": [
+        94.13899999996647,
+        84.9265000000596,
+        6.75
+      ]
+    },
+    {
+      "attributes": [
+        1178599453,
+        1,
+        [
+          [
+            2997814123,
+            4,
+            "MEOW MEOW ICE SHADE",
+            "KIOSK, SHA TIN SPORTS GROUND, 18 YUEN WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600882
+        ]
+      ],
+      "coordinate": [
+        1.9931100079097162,
+        0.390740368160607,
+        7.599999904632568
+      ],
+      "halfSize": [
+        34.77619000012055,
+        38.48714000079781,
+        2.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1178599454,
+        1,
+        [
+          [
+            3697001631,
+            5,
+            "Wellcome Supermarket",
+            "SHOP NO 11 (PORTION), G/F, COMMERCIAL CENTRE, YUE TIN COURT, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1178600898
+        ]
+      ],
+      "coordinate": [
+        1.9932125041146747,
+        0.3906618922318263,
+        8.049999237060547
+      ],
+      "halfSize": [
+        25.415000000037253,
+        48.1891050003469,
+        2.8499999046325684
+      ]
+    }
+  ]
+}

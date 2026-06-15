@@ -1,0 +1,407 @@
+{
+  "features": [
+    {
+      "attributes": [
+        769654784,
+        1,
+        [
+          [
+            2292805345,
+            0,
+            "FOODBOX",
+            "GROUND FLOOR, 47 TIN LIU NEW VILLAGE, LOT 588, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769654812
+        ]
+      ],
+      "coordinate": [
+        1.9907142173141434,
+        0.39012363091147406,
+        27.399999618530273
+      ],
+      "halfSize": [
+        5.293320000171661,
+        3.3291600001975894,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        769654785,
+        1,
+        [
+          [
+            2292800401,
+            0,
+            "\u91d1\u99ac\u9910\u5ef3",
+            "NO. 46, G/F, TIN LIU NEW VILLAGE, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769654818
+        ]
+      ],
+      "coordinate": [
+        1.990714214923268,
+        0.39012257922505506,
+        27.399999618530273
+      ],
+      "halfSize": [
+        5.28499999968335,
+        3.3449999997392297,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        769654786,
+        1,
+        [
+          [
+            2292800474,
+            0,
+            "FOOD JOURNEY",
+            "G/F, NO. 13 TIN LIU NEW VILLAGE, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769654831
+        ]
+      ],
+      "coordinate": [
+        1.9907028504011388,
+        0.39012046775351417,
+        26.600000381469727
+      ],
+      "halfSize": [
+        5.359999999869615,
+        3.3399999998509884,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        769654787,
+        1,
+        [
+          [
+            2292800924,
+            0,
+            "MO-IKKEN CAFE",
+            "GROUND FLOOR, NO. 34 TIN LIU NEW VILLAGE, LOT NO. 592 IN MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769654856
+        ]
+      ],
+      "coordinate": [
+        1.9907142203910102,
+        0.3901160475795048,
+        25.100000381469727
+      ],
+      "halfSize": [
+        5.28499999968335,
+        3.3449999997392297,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        769654788,
+        1,
+        [
+          [
+            2292003356,
+            0,
+            "\u60e0\u6bd4\u58fd\u5c45\u98df\u5c4b",
+            "G/F, NO. 33 TIN LIU NEW VILLAGE, LOT NO. 593 IN MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769654868
+        ]
+      ],
+      "coordinate": [
+        1.990714220402564,
+        0.39011499241007586,
+        24.399999618530273
+      ],
+      "halfSize": [
+        5.291734999977052,
+        3.348594999872148,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        769654789,
+        1,
+        [
+          [
+            3192801615,
+            1,
+            "\u6a02\u71d2\u9059\u51b0\u5ba4",
+            "G/F, 13 MA WAN MAIN STREET VILLAGE EAST, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655060
+        ]
+      ],
+      "coordinate": [
+        1.9906470453504237,
+        0.3900585505873341,
+        6.449999809265137
+      ],
+      "halfSize": [
+        3.7255049999803305,
+        5.953000000678003,
+        3.25
+      ]
+    },
+    {
+      "attributes": [
+        769654790,
+        1,
+        [
+          [
+            3192801767,
+            1,
+            "\u71e6\u8a18\u8336\u5ba4",
+            "G/F, 9 MA WAN MAIN STREET VILLAGE EAST, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655070
+        ]
+      ],
+      "coordinate": [
+        1.9906445106422004,
+        0.390057157923492,
+        6.349999904632568
+      ],
+      "halfSize": [
+        4.450580000411719,
+        5.026539999991655,
+        3.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        769654791,
+        1,
+        [
+          [
+            3892810489,
+            0,
+            "KNOCK KNOCK",
+            "UNIT NO. G02, G/F, HOUSE NO. 2, 52A MA WAN MAIN STREET, MA WAN PARK PHASE II, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-03-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655081
+        ]
+      ],
+      "coordinate": [
+        1.9906483617644533,
+        0.39005476237243086,
+        6.399999618530273
+      ],
+      "halfSize": [
+        6.971574999857694,
+        4.164405000396073,
+        3.299999952316284
+      ]
+    },
+    {
+      "attributes": [
+        769654792,
+        1,
+        [
+          [
+            3892810513,
+            0,
+            "No Record",
+            "UNIT NO. G15, G/F, HOUSE 15, NOS. 42, 45-46 MA WAN MAIN STREET, MA WAN PARK PHASE II, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655091
+        ]
+      ],
+      "coordinate": [
+        1.9906656302588894,
+        0.39005283533287943,
+        8.649999618530273
+      ],
+      "halfSize": [
+        3.831904999911785,
+        4.64674000069499,
+        5.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        769654793,
+        1,
+        [
+          [
+            3192803329,
+            1,
+            "HEATO X PHARE",
+            "G/F OF HOUSE NO. 3, MA WAN PARK PHASE II, NO. 52 MA WAN MAIN STREET, MA WAN, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655096
+        ]
+      ],
+      "coordinate": [
+        1.990678756470932,
+        0.39005150769549146,
+        6.0
+      ],
+      "halfSize": [
+        3.222259999718517,
+        5.530680000782013,
+        2.6000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        769654794,
+        1,
+        [
+          [
+            3992803725,
+            1,
+            "I LOVE PARIS MA WAN",
+            "HOUSE NO. 5, G/F, MA WAN PARK PHASE II, NO. 51 MA WAN MAIN STREET, MA WAN, NEW TERRITORIES",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655098
+        ]
+      ],
+      "coordinate": [
+        1.9906780189606428,
+        0.39005124110238815,
+        6.649999618530273
+      ],
+      "halfSize": [
+        3.3698149998672307,
+        6.309495000168681,
+        3.249999761581421
+      ]
+    },
+    {
+      "attributes": [
+        769654795,
+        1,
+        [
+          [
+            3192801448,
+            1,
+            "Noah's Kitchen",
+            "SHOP 1, LG/F, NOAH'S ARK HOTEL AND RESORT, NOAH'S ARK, MA WAN PARK, PAK YAN ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655127
+        ]
+      ],
+      "coordinate": [
+        1.990750592010337,
+        0.39005044587216625,
+        14.149999618530273
+      ],
+      "halfSize": [
+        57.67956500034779,
+        52.38869499973953,
+        10.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        769654796,
+        1,
+        [
+          [
+            2292802090,
+            0,
+            "\u8c50\u76db\u95a3",
+            "LG/F (PORTION A), & OUTSIDE SEATING ACCOMMODATION, NOAH'S ARK RESORT, MA WAN PARK, PAK YAN ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655216
+        ]
+      ],
+      "coordinate": [
+        1.9907016521909529,
+        0.39003317918696856,
+        22.149999618530273
+      ],
+      "halfSize": [
+        21.869140000082552,
+        20.290595000609756,
+        6.25
+      ]
+    }
+  ]
+}

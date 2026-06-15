@@ -1,0 +1,423 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1251999744,
+        2,
+        [
+          [
+            2297003740,
+            0,
+            "HAPPINESS",
+            "1/F, NO. 1 SCIENCE PARK WEST AVENUE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2297809139,
+            0,
+            "Nam Sky Kitchen",
+            "SHOP S002, GROUND FLOOR, CORE BUILDING 2, PHASE 1, HONG KONG SCIENCE PARK, 1 SCIENCE PARK W AVE., PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999754
+        ]
+      ],
+      "coordinate": [
+        1.9933869785156566,
+        0.3913921811204436,
+        23.399999618530273
+      ],
+      "halfSize": [
+        36.325000000186265,
+        39.29116499982774,
+        17.399999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1251999745,
+        1,
+        [
+          [
+            2297802402,
+            0,
+            "HARBOURVIEW GRILL STP",
+            "SHOP S081, G/F, HARBOUR VIEW 1, 12 SCIENCE PARK EAST AVENUE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999869
+        ]
+      ],
+      "coordinate": [
+        1.9933790378666094,
+        0.39142588687393093,
+        10.600000381469727
+      ],
+      "halfSize": [
+        34.53787499992177,
+        34.73415999952704,
+        3.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1251999746,
+        31,
+        [
+          [
+            2297803414,
+            0,
+            "Tom Bar + Grill",
+            "UNIT S088 & S089, G/F, HARBOUR VIEW TWO, EAST WING, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-09"
+          ],
+          [
+            2297804161,
+            0,
+            "THE GRAND \u76db\u5bb4",
+            "UNITS S061-63, S065-66, G/F, 12W, 12 SCIENCE PARK W AVE, HK SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2297804596,
+            0,
+            "Towada Sushi",
+            "UNITS S067-69, G/F , 12W, 12 SCIENCE PARK WEST AVE., HK SCI PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2297807896,
+            0,
+            "HUNKY DORY",
+            "UNIT RT_0245, 2/F, BUILDING 19W, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2026-02-22"
+          ],
+          [
+            2297807966,
+            0,
+            "I.teeea",
+            "UNIT RT-102, 1/F, BUILDING 17W, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2297808321,
+            0,
+            "BUGIS",
+            "UNIT RT G03, G/F, BUILDING 17W, SPX1, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2297808419,
+            0,
+            "SENSORY ZERO",
+            "UNIT RT-G01, G/F, BUILDING 17W, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2297808543,
+            0,
+            "Kodette & Yoli Korean Restaurant",
+            "UNITS RT103 AND RT105, 1/F, BUILDING 17W, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2297808631,
+            0,
+            "THAI CHIU",
+            "UNITS S015 & S016, G/F, BUILDING 5W, PHASE 1, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2297808640,
+            0,
+            "ChiMac (2)",
+            "UNIT S017, G/F, BUILDING 5W, PHASE 1, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2297808677,
+            0,
+            "CHIKARA MESHI",
+            "UNIT S085 & S086, G/F, BUILDING 12E PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            2297808880,
+            0,
+            "COHEE",
+            "SHOP RT-101, 1/F, BUILDING 17W, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2297808950,
+            0,
+            "So Gor Beef Brisket",
+            "SHOP S036, G/F, LAKESIDE ONE, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            2297809041,
+            0,
+            "McDonald's Restaurant",
+            "UNITS S037, S038 AND S039 OF THE GROUND FLOOR OF BUILDING 8W, PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2297809166,
+            0,
+            "Pizzaexpress",
+            "UNITS S082-S083, G/F, BUILDING 12E, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2297809175,
+            0,
+            "LE SAIGON",
+            "UNIT S090, G/F, HARBOUR VIEW TWO, EAST WING, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2297809360,
+            0,
+            "\u6a02\u81b3",
+            "UNIT S003D, G/F, BUILDING 1E, PHASE ONE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-25"
+          ],
+          [
+            2297809874,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "UNIT S013A , G/F OF BUILDING 1W, PHASE ONE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2297810009,
+            0,
+            "ALL ROUTE INN",
+            "UNIT S087, G/F, HARBOUR VIEW TWO, EAST WING, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2297810081,
+            0,
+            "Fairwood Fast Food",
+            "UNIT S013B OF THE GROUND FLOOR OF BUILDING 1W, PHASE ONE, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ],
+          [
+            2297810133,
+            0,
+            "Ruby Tuesday",
+            "UNIT S033, G/F., BUILDING 8W, PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2297810212,
+            0,
+            "Parc 88",
+            "UNIT S040, G/F & STOREROOM 6, B/F, LAKESIDE 2, 10 SCIENCE PARK WEST AVENUE, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2297810221,
+            0,
+            "Food Lab",
+            "UNIT S031, G/F, BUILDING 8W, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ],
+          [
+            2297810683,
+            0,
+            "WAKE UP",
+            "UNIT S041B, G/F, BUILDING 10W, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-22"
+          ],
+          [
+            2297811039,
+            0,
+            "\u611b\u5473\u9053",
+            "UNIT S003C, G/F, BUILDING 1E, PHASE ONE, HONG KONG SCIENCE PARK, TAI PO TOWN LOT NO.171, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3897810837,
+            0,
+            "\u9047\u898b\u5c0f\u9eb5\u5927\u57d4\u79d1\u5b78\u5712\u5e97",
+            "UNIT S035, G/F., BUILDING 8W, PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-25"
+          ],
+          [
+            3197802251,
+            1,
+            "NUK CAFE LIMITED",
+            "UNIT S045, G/F, BUILDING 10W, PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3197802349,
+            1,
+            "Starbucks Coffee",
+            "UNIT S001B OF THE GROUND FLOOR OF BUILDING 1W, PHASE ONE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-29"
+          ],
+          [
+            3197802358,
+            1,
+            "Pret A Manger",
+            "UNIT S018, G/F, BUILDING 5W, PHASE ONE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            3197802419,
+            1,
+            "SMACK",
+            "UNIT S161, 1/F, BUILDING 12W, PHASE THREE, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ],
+          [
+            3197802686,
+            1,
+            "\u5403\u8336\u4e09\u5343",
+            "UNIT S033A OF THE GROUND FLOOR OF BUILDING 8W, PHASE TWO, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1251999934
+        ]
+      ],
+      "coordinate": [
+        1.9933291793732115,
+        0.3914345494089993,
+        9.899999618530273
+      ],
+      "halfSize": [
+        77.43091499991715,
+        82.13941500056535,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1251999747,
+        2,
+        [
+          [
+            2295801991,
+            0,
+            "\u4e09\u6085\u51b0\u5ba4",
+            "SHOP 19-20, LG/F, MAYFAIR BY THE SEA II, 21 FO CHUN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            2295804006,
+            0,
+            "Seek",
+            "SHOP LG17-LG18, LG/F, MAYFAIR BY THE SEA II, 21 FO CHUN ROAD, TAI PO, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1252000000
+        ]
+      ],
+      "coordinate": [
+        1.9932730788552488,
+        0.3915009810271615,
+        4.099999904632568
+      ],
+      "halfSize": [
+        72.3653301592567,
+        57.66776300506899,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1251999748,
+        2,
+        [
+          [
+            2297810416,
+            0,
+            "MX/Deli-O",
+            "UNIT RT G02B, G/F, BUILDING 17W, NO. 17 SCIENCE PARK WEST AVENUE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            3197802765,
+            1,
+            "EBENEEZER'S KEBAB & PIZZERIA",
+            "SHOP RT-G02A, G/F, BUILDING 17W, NO. 17 SCIENCE PARK WEST AVENUE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1252000021
+        ]
+      ],
+      "coordinate": [
+        1.9933116158215332,
+        0.39142562024175104,
+        18.400001525878906
+      ],
+      "halfSize": [
+        64.69704228179762,
+        71.98574000038207,
+        3.8000001907348633
+      ]
+    }
+  ]
+}

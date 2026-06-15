@@ -1,0 +1,239 @@
+{
+  "features": [
+    {
+      "attributes": [
+        773849088,
+        3,
+        [
+          [
+            3692800635,
+            5,
+            "WELLCOME",
+            "1/F (PORTION B), CHAN KEE COMMERCIAL CENTRE, 48 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            4692802597,
+            5,
+            "\u53ee\u7576\u5718",
+            "PORTIONS OF SHOP B, C & D, G/F, CHAN KEE COMMERCIAL CENTRE, 48 CASTLE PEAK ROAD, SHAM TSENG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3592800209,
+            8,
+            "\u9673\u8a18\u82b1\u5712\u71d2\u9d5d",
+            "SHOP A, G/F, CHAN KEE COMMERCIAL CENTRE, 48 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849488
+        ]
+      ],
+      "coordinate": [
+        1.9907208527551643,
+        0.39039300871747806,
+        11.649999618530273
+      ],
+      "halfSize": [
+        20.669999999925494,
+        16.78999999910593,
+        6.75
+      ]
+    },
+    {
+      "attributes": [
+        773849089,
+        1,
+        [
+          [
+            2992807144,
+            4,
+            "\u9d3b\u798f\u5802",
+            "PORTION OF SHOP NO.7, LEVEL 3, BELLAGIO MALL, NO.33 CASTLE PEAK ROAD, SHAM TSENG, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849533
+        ]
+      ],
+      "coordinate": [
+        1.9907537523031704,
+        0.3903820451288595,
+        15.84999942779541
+      ],
+      "halfSize": [
+        16.994999999646097,
+        19.92166499979794,
+        10.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        773849090,
+        1,
+        [
+          [
+            3692802844,
+            5,
+            "SUPER \u6d77\u9bae\u5e02\u96c6",
+            "PORTION OF G/F, NO. 93 SHAM TSENG TSUEN, CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849566
+        ]
+      ],
+      "coordinate": [
+        1.9907014505724874,
+        0.39037866071325233,
+        9.100000381469727
+      ],
+      "halfSize": [
+        6.148770000319928,
+        5.7586749996989965,
+        4.099999904632568
+      ]
+    },
+    {
+      "attributes": [
+        773849091,
+        6,
+        [
+          [
+            2992803009,
+            4,
+            "Fusion",
+            "STALL NO. 6, G/F, COMMERCIAL BLOCK J, RHINE GARDEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2992803027,
+            4,
+            "Fusion",
+            "STALL NO. 9, G/F, COMMERCIAL BLOCK J, RHINE GARDEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ],
+          [
+            2992803106,
+            4,
+            "Fusion",
+            "STALL NO. 7 & 8, G/F, COMMERCIAL BLOCK J, RHINE GARDEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3692800440,
+            5,
+            "Fusion",
+            "STALL NO. 3, 4 & PORTIONS OF G/F, COMMERCIAL BLOCK J, RHINE GARDEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            3692802783,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP H1, G/F, SHOPPING CENTRE, RHINE GARDEN, 38 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            3592800324,
+            8,
+            "Fusion",
+            "STALL NO. 5, G/F, COMMERCIAL BLOCK J, RHINE GARDEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849621
+        ]
+      ],
+      "coordinate": [
+        1.9907500700188299,
+        0.39039906013530534,
+        10.200000762939453
+      ],
+      "halfSize": [
+        102.66905999975279,
+        41.198944999836385,
+        4.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        773849092,
+        4,
+        [
+          [
+            2992000901,
+            4,
+            "7-ELEVEN",
+            "SHOP NO.2 (PORTION B), G/F., LIDO GARDEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2992810311,
+            4,
+            "Hana-Musubi",
+            "SHOP NO. 5B, G/F., LIDO AVENUE, LIDO GARDEN, NO. 41-63 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            4992813239,
+            4,
+            "\u9999\u9ea5\u7530 BAKERY",
+            "SHOP NO. 4B ON GROUND FLOOR OF LIDO AVENUE, NOS. 41-63 CASTLE PEAK ROAD, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            3292000134,
+            6,
+            "7-ELEVEN",
+            "PORTION OF SHOP NO. 2, G/F., LIDO GARDEN, SHAM TSENG, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          773849624
+        ]
+      ],
+      "coordinate": [
+        1.9907092743970591,
+        0.3903681429406751,
+        7.5
+      ],
+      "halfSize": [
+        84.10800000000745,
+        72.13499999977648,
+        3.1999998092651367
+      ]
+    }
+  ]
+}

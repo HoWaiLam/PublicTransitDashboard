@@ -1,0 +1,7165 @@
+{
+  "name": "publicHousing",
+  "label": "Public Housing Estates",
+  "attributes": [
+    {
+      "name": "publicHousingIID",
+      "label": "Public Housing Estate",
+      "type": "ENUM",
+      "enumType": "publicHousingIIDEnumTypes",
+      "noData": 4294967295,
+      "show": 0,
+      "representations": [
+        {
+          "label": "Public Housing Estates(All)",
+          "legend": 0,
+          "type": "discrete",
+          "classes": [
+            {
+              "value": 1006632960,
+              "label": "LEI MUK SHUE 1 ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1006632961,
+              "label": "LEI MUK SHUE 2 ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1006632962,
+              "label": "LEI MUK SHUE ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1006632963,
+              "label": "TAI WO HAU ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1006632964,
+              "label": "KWAI HING ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1006632965,
+              "label": "SHEK LEI II ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1006632966,
+              "label": "KWAI CHUNG ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1006632967,
+              "label": "KWAI SHING WEST ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1006632968,
+              "label": "LAI YIU ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1006632969,
+              "label": "KWAI SHING EAST ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1006632970,
+              "label": "ON YAM ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1006632971,
+              "label": "SHEK LEI I ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1006632972,
+              "label": "KWAI FONG ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1006632973,
+              "label": "SHEK WAI KOK ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1006632974,
+              "label": "CHEUNG SHAN ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1006632975,
+              "label": "HIGH PROSPERITY TERRACE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1006632976,
+              "label": "SHEK YAM ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1006632977,
+              "label": "KWAI LUEN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1006632978,
+              "label": "KWAI TSUI ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1006632979,
+              "label": "SHEK YAM EAST ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1006632980,
+              "label": "KWAI CHUN COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1006632981,
+              "label": "KWAI HONG COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1006632982,
+              "label": "KWAI YIN COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1006632983,
+              "label": "NING FUNG COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1006632984,
+              "label": "YI FUNG COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1006632985,
+              "label": "SHEUNG CHUI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1006632986,
+              "label": "SHEUNG MAN COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1006632987,
+              "label": "BO SHEK MANSION",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1006632988,
+              "label": "HIBISCUS PARK",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1031798784,
+              "label": "PO NGA COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1040187392,
+              "label": "WAH MING ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1040187393,
+              "label": "WAH SUM ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1040187394,
+              "label": "YUNG SHING COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1040187395,
+              "label": "FAI MING ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1040187396,
+              "label": "KING SHING COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1040187397,
+              "label": "YAN SHING COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1040187398,
+              "label": "CHEONG SHING COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1048576000,
+              "label": "CHING HO ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1048576001,
+              "label": "KA FUK ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1048576002,
+              "label": "CHOI YUEN ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1048576003,
+              "label": "TAI PING ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1048576004,
+              "label": "TIN PING ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1048576005,
+              "label": "CHEUNG WAH ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1048576006,
+              "label": "CHEUNG LUNG WAI ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1048576007,
+              "label": "PO SHEK WU ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1048576008,
+              "label": "QUEENS HILL ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1048576009,
+              "label": "CHOI SHEK ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1048576010,
+              "label": "KA SHING COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1048576011,
+              "label": "ON SHING COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1048576012,
+              "label": "SUNNINGDALE GARDEN",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1048576013,
+              "label": "TSUI LAI GARDEN",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1048576014,
+              "label": "WING FAI CENTRE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1048576015,
+              "label": "WING FOK CENTRE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1048576016,
+              "label": "YUK PO COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1048576017,
+              "label": "CHOI PO COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1048576018,
+              "label": "CHING TAO COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1098907648,
+              "label": "BROADVIEW COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1098907649,
+              "label": "SOUTH WAVE COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1115684864,
+              "label": "KEI WAH COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1115684865,
+              "label": "LAI TAK TSUEN",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1115684866,
+              "label": "DRAGON CENTRE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1124073472,
+              "label": "OI MAN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1124073473,
+              "label": "HOI FU COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1124073474,
+              "label": "HUNG HOM ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1124073475,
+              "label": "HO MAN TIN ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1124073476,
+              "label": "SHEUNG LOK ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1124073477,
+              "label": "MA TAU WAI ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1124073478,
+              "label": "CHARMING GARDEN",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1124073479,
+              "label": "KWUN FAI COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1124073480,
+              "label": "KWUN HEI COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1124073481,
+              "label": "CHUN MAN COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1124073482,
+              "label": "KWUN TAK COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1124073483,
+              "label": "KAI YUET COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1124073484,
+              "label": "KWUN SHAN COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1124073485,
+              "label": "PROSPEROUS GARDEN",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1124073486,
+              "label": "LOK MAN SUN CHUEN",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1124073487,
+              "label": "CHUN SEEN MEI CHUEN",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1124073488,
+              "label": "KA WAI CHUEN",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1124073489,
+              "label": "JUBILANT PLACE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1124073490,
+              "label": "PROSPERITY COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1124073491,
+              "label": "JUNE GARDEN",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1124073492,
+              "label": "CASCADES",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1124073493,
+              "label": "BLISSFUL PLACE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1132462080,
+              "label": "TAI HANG TUNG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1132462081,
+              "label": "WANG TAU HOM ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1132462082,
+              "label": "MEI TUNG ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1132462083,
+              "label": "CHUK YUEN NORTH ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1132462084,
+              "label": "CHUK YUEN SOUTH ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1132462085,
+              "label": "LOWER WONG TAI SIN 2 ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1132462086,
+              "label": "FUNG TAK ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1132462087,
+              "label": "LOK FU ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1132462088,
+              "label": "SHATIN PASS ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1132462089,
+              "label": "LOWER WONG TAI SIN 1 ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1132462090,
+              "label": "TUNG TAU II ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1132462091,
+              "label": "UPPER WONG TAI SIN ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1132462092,
+              "label": "TSZ CHING ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1132462093,
+              "label": "SHEK KIP MEI ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1132462094,
+              "label": "PAK TIN ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1132462095,
+              "label": "NAM SHAN ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1132462096,
+              "label": "TSZ LOK ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1132462097,
+              "label": "CHAK ON ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1132462098,
+              "label": "TUNG WUI ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1132462099,
+              "label": "KAI CHUEN COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1132462100,
+              "label": "PANG CHING COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1132462101,
+              "label": "FUNG CHUEN COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1132462102,
+              "label": "FUNG LAI COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1132462103,
+              "label": "TSUI CHUK GARDEN",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1132462104,
+              "label": "TIN WANG COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1132462105,
+              "label": "TIN MA COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1132462106,
+              "label": "LUNG POON COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1132462107,
+              "label": "TAK KEUNG COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1132462108,
+              "label": "KA KEUNG COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1132462109,
+              "label": "RHYTHM GARDEN",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1132462110,
+              "label": "TSZ OI COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1132462111,
+              "label": "TSZ ON COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1132462112,
+              "label": "HONG KEUNG COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1132462113,
+              "label": "FU KEUNG COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1132462114,
+              "label": "YING FUK COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1132462115,
+              "label": "KING TAI COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1132462116,
+              "label": "KAI LONG COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1132462117,
+              "label": "KAI CHEUNG COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1132462118,
+              "label": "KAI YAN COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1132462119,
+              "label": "KAI TAK GARDEN",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1132462120,
+              "label": "CRONIN GARDEN",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1132462121,
+              "label": "BEL AIR HEIGHTS",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1132462122,
+              "label": "HEYA GREEN",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1140850688,
+              "label": "HIN YIU ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1140850689,
+              "label": "MEI TIN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1140850690,
+              "label": "SUN CHUI ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1140850691,
+              "label": "SUN TIN WAI ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1140850692,
+              "label": "LUNG HANG ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1140850693,
+              "label": "MEI LAM ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1140850694,
+              "label": "SHA KOK ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1140850695,
+              "label": "CHUN SHEK ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1140850696,
+              "label": "HIN KENG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1140850697,
+              "label": "POK HONG ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1140850698,
+              "label": "SHUI CHUEN O ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1140850699,
+              "label": "FUNG SHING COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1140850700,
+              "label": "KA TIN COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1140850701,
+              "label": "CARADO GARDEN",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1140850702,
+              "label": "GRANDWAY GARDEN",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1140850703,
+              "label": "YUE SHING COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1140850704,
+              "label": "KA KENG COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1140850705,
+              "label": "KING TIN COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1140850706,
+              "label": "MAY SHING COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1140850707,
+              "label": "HOLFORD GARDENS",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1140850708,
+              "label": "MEI PAK COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1140850709,
+              "label": "MEI YING COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1140850710,
+              "label": "KA SHUN COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1140850711,
+              "label": "JAT MIN CHUEN",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1149239296,
+              "label": "WO CHE ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1149239297,
+              "label": "LEK YUEN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1149239298,
+              "label": "FUNG WO ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1149239299,
+              "label": "CHUN YEUNG ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1149239300,
+              "label": "SUI WO COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1149239301,
+              "label": "MEI CHUNG COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1149239302,
+              "label": "YUE TIN COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1149239303,
+              "label": "CHOI WO COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1149239304,
+              "label": "YUK WO COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1166016512,
+              "label": "TAI WO ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1166016513,
+              "label": "WAN TAU TONG ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1166016514,
+              "label": "FU SHIN ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1166016515,
+              "label": "TAI YUEN ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1166016516,
+              "label": "FU HENG ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1166016517,
+              "label": "KWONG FUK ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1166016518,
+              "label": "PO HEUNG ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1166016519,
+              "label": "ELEGANCE GARDEN",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1166016520,
+              "label": "TAK NGA COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1166016521,
+              "label": "TAI PO PLAZA",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1166016522,
+              "label": "TING NGA COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1166016523,
+              "label": "YAT NGA COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1166016524,
+              "label": "KING NGA COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1166016525,
+              "label": "MING NGA COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1166016526,
+              "label": "SUN HING GARDEN",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1166016527,
+              "label": "YEE NGA COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1166016528,
+              "label": "CHUNG NGA COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1166016529,
+              "label": "WANG FUK COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1174405120,
+              "label": "FU TIP ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1182793728,
+              "label": "SHAN LAI COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1233125376,
+              "label": "MA HANG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1233125377,
+              "label": "LUNG TAK COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1233125378,
+              "label": "LUNG YAN COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1233125379,
+              "label": "PARK BELVEDERE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1241513984,
+              "label": "YUE WAN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1241513985,
+              "label": "HING WAH 1 ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1241513986,
+              "label": "HING WAH 2 ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1241513987,
+              "label": "TSUI LOK ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1241513988,
+              "label": "TSUI WAN ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1241513989,
+              "label": "WAN TSUI ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1241513990,
+              "label": "CHAI WAN ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1241513991,
+              "label": "FUNG WAH ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1241513992,
+              "label": "HING MAN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1241513993,
+              "label": "WAH HA ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1241513994,
+              "label": "LIN TSUI ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1241513995,
+              "label": "YUET CHUI COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1241513996,
+              "label": "LOK HIN TERRACE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1241513997,
+              "label": "WALTON ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1241513998,
+              "label": "YEE TSUI COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1241513999,
+              "label": "HANG TSUI COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1241514000,
+              "label": "NEPTUNE TERRACE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1241514001,
+              "label": "GREENWOOD TERRACE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1241514002,
+              "label": "SHAN TSUI COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1241514003,
+              "label": "YAN TSUI COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1241514004,
+              "label": "DIP TSUI COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1241514005,
+              "label": "KING TSUI COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1249902592,
+              "label": "HONG TUNG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1249902593,
+              "label": "MODEL HOUSING ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1249902594,
+              "label": "OI TUNG ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1249902595,
+              "label": "YIU TUNG ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1249902596,
+              "label": "YAU TONG ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1249902597,
+              "label": "KO CHEUNG COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1249902598,
+              "label": "KO YEE ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1249902599,
+              "label": "HING TUNG ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1249902600,
+              "label": "LEI YUE MUN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1249902601,
+              "label": "TUNG TAO COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1249902602,
+              "label": "ALDRICH GARDEN",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1249902603,
+              "label": "TUNG HEI COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1249902604,
+              "label": "KORNHILL",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1249902605,
+              "label": "TUNG LAM COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1249902606,
+              "label": "KO CHUN COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1249902607,
+              "label": "YAU TONG CENTRE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1249902608,
+              "label": "TUNG SHING COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1249902609,
+              "label": "TUNG YAN COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1249902610,
+              "label": "KO WANG COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1249902611,
+              "label": "TUNG CHUN COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1249902612,
+              "label": "TUNG YUK COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1249902613,
+              "label": "MING WAH DAI HA",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1249902614,
+              "label": "HEALTHY VILLAGE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1258291200,
+              "label": "UPPER NGAU TAU KOK ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1258291201,
+              "label": "LOWER NGAU TAU KOK ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1258291202,
+              "label": "YAU LAI ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1258291203,
+              "label": "LAM TIN ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1258291204,
+              "label": "SHUN TIN ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1258291205,
+              "label": "WAN HON ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1258291206,
+              "label": "WO LOK ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1258291207,
+              "label": "SAU MAU PING SOUTH ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1258291208,
+              "label": "HING TIN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1258291209,
+              "label": "KAI TIN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1258291210,
+              "label": "KWONG TIN ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1258291211,
+              "label": "LOK WAH SOUTH ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1258291212,
+              "label": "LOK WAH NORTH ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1258291213,
+              "label": "ON TIN ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1258291214,
+              "label": "PING TIN ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1258291215,
+              "label": "PO TAT ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1258291216,
+              "label": "SAU MAU PING ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1258291217,
+              "label": "TAK TIN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1258291218,
+              "label": "TSUI PING NORTH ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1258291219,
+              "label": "TSUI PING SOUTH ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1258291220,
+              "label": "ON TAT ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1258291221,
+              "label": "HONG NGA COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1258291222,
+              "label": "HONG YAT COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1258291223,
+              "label": "LEI ON COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1258291224,
+              "label": "CHUN WAH COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1258291225,
+              "label": "HIU LAI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1258291226,
+              "label": "PO PUI COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1258291227,
+              "label": "CHEUNG WO COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1258291228,
+              "label": "HONG YING COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1258291229,
+              "label": "HONG TIN COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1258291230,
+              "label": "HONG PAK COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1258291231,
+              "label": "HONG SHUI COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1258291232,
+              "label": "HONG WAH COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1258291233,
+              "label": "LOK NGA COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1258291234,
+              "label": "ON KAY COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1258291235,
+              "label": "YAU CHUI COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1258291236,
+              "label": "ON SAU COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1258291237,
+              "label": "ON PAK COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1258291238,
+              "label": "ON YING COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1258291239,
+              "label": "ON LAI COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1258291240,
+              "label": "CLAGUE GARDEN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1258291241,
+              "label": "KWUN TONG GARDEN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1258291242,
+              "label": "CHEERFUL COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1266679808,
+              "label": "TAK LONG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1266679809,
+              "label": "KAI CHING ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1266679810,
+              "label": "CHOI FOOK ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1266679811,
+              "label": "FU SHAN ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1266679812,
+              "label": "CHOI TAK ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1266679813,
+              "label": "CHOI WAN I ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1266679814,
+              "label": "CHOI YING ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1266679815,
+              "label": "PING SHEK ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1266679816,
+              "label": "TSZ HONG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1266679817,
+              "label": "TSZ MAN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1266679818,
+              "label": "CHOI FAI ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1266679819,
+              "label": "CHOI WAN 2 ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1266679820,
+              "label": "CHOI HA ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1266679821,
+              "label": "KAI YIP ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1266679822,
+              "label": "SHUN ON ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1266679823,
+              "label": "CHOI HUNG ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1266679824,
+              "label": "SHUN LEE ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1266679825,
+              "label": "ON TAI ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1266679826,
+              "label": "GRAND VIEW GARDEN",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1266679827,
+              "label": "SUN LAI GARDEN",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1266679828,
+              "label": "KING LAI COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1266679829,
+              "label": "KINGSFORD TERRACE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1266679830,
+              "label": "KING HIN COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1266679831,
+              "label": "KING SHAN COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1266679832,
+              "label": "RICHLAND GARDENS",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1266679833,
+              "label": "KAI TAI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1266679834,
+              "label": "CHOI FUNG COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1266679835,
+              "label": "SHUN CHI COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1266679836,
+              "label": "CHOI HING COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1266679837,
+              "label": "ON WAH COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1283457024,
+              "label": "SHEK MUN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1283457025,
+              "label": "KWONG YUEN ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1283457026,
+              "label": "HONG LAM COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1283457027,
+              "label": "KWONG LAM COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1283457028,
+              "label": "CHEVALIER GARDEN",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1283457029,
+              "label": "YU CHUI COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1283457030,
+              "label": "YU TAK COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1283457031,
+              "label": "SUNSHINE GROVE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1283457032,
+              "label": "GREENHILL VILLA",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1291845632,
+              "label": "YIU ON ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1291845633,
+              "label": "CHUNG ON ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1291845634,
+              "label": "HENG ON ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1291845635,
+              "label": "LEE ON ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1291845636,
+              "label": "YAN ON ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1291845637,
+              "label": "KAM FUNG COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1291845638,
+              "label": "KAM ON COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1291845639,
+              "label": "KAM HAY COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1291845640,
+              "label": "KAM YING COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1291845641,
+              "label": "KAM LUNG COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1291845642,
+              "label": "KAM TAI COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1291845643,
+              "label": "FU FAI GARDEN",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1291845644,
+              "label": "FOK ON GARDEN",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1291845645,
+              "label": "SADDLE RIDGE GARDEN",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1291845646,
+              "label": "KAM FAI COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1291845647,
+              "label": "KAM CHUN COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1291845648,
+              "label": "MOUNTAIN SHORE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1333788672,
+              "label": "SHA TAU KOK CHUEN",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1375731712,
+              "label": "SIU SAI WAN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1375731713,
+              "label": "HIU TSUI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1375731714,
+              "label": "HARMONY GARDEN",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1375731715,
+              "label": "CHEERFUL GARDEN",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1375731716,
+              "label": "FULLVIEW GARDEN",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1375731717,
+              "label": "KAI TSUI COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1392508928,
+              "label": "CHOI MING COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1392508929,
+              "label": "KIN MING ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1392508930,
+              "label": "KING LAM ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1392508931,
+              "label": "SHIN MING ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1392508932,
+              "label": "HAU TAK ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1392508933,
+              "label": "SHEUNG TAK ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1392508934,
+              "label": "TSUI LAM ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1392508935,
+              "label": "MING TAK ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1392508936,
+              "label": "YEE MING ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1392508937,
+              "label": "CHUNG MING COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1392508938,
+              "label": "HO MING COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1392508939,
+              "label": "TONG MING COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1392508940,
+              "label": "HIN MING COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1392508941,
+              "label": "KWONG MING COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1392508942,
+              "label": "PO MING COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1392508943,
+              "label": "WO MING COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1392508944,
+              "label": "YUK MING COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1392508945,
+              "label": "ON NING GARDEN",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1392508946,
+              "label": "FU NING GARDEN",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1392508947,
+              "label": "BEVERLY GARDEN",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1392508948,
+              "label": "HONG SING GARDEN",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1392508949,
+              "label": "BAUHINIA GARDEN",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1392508950,
+              "label": "YU MING COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1392508951,
+              "label": "KING MING COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1392508952,
+              "label": "YAN MING COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1392508953,
+              "label": "YUNG MING COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1392508954,
+              "label": "CHIU MING COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 1392508955,
+              "label": "VERBENA HEIGHTS",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 1392508956,
+              "label": "SERENITY PLACE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 1392508957,
+              "label": "RADIANT TOWERS",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 1392508958,
+              "label": "THE PINNACLE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 1392508959,
+              "label": "JOLLY PLACE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 1392508960,
+              "label": "MOUNT VERDANT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1400897536,
+              "label": "PO LAM ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1400897537,
+              "label": "YING MING COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1409286144,
+              "label": "LAKESIDE GARDEN",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 1409286145,
+              "label": "TUI MIN HOI CHUEN",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 1409286146,
+              "label": "MARINA HABITAT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 167772160,
+              "label": "LUNG TIN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 167772161,
+              "label": "LUNG HIN COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 167772162,
+              "label": "TIN LEE COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 310378496,
+              "label": "FU TUNG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 310378497,
+              "label": "YAT TUNG 1 ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 310378498,
+              "label": "YAT TUNG 2 ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 310378499,
+              "label": "MUN TUNG ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 310378500,
+              "label": "YU TUNG COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 310378501,
+              "label": "YU TAI COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 444596224,
+              "label": "YING TUNG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 444596225,
+              "label": "CHEUNG TUNG ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 444596226,
+              "label": "YU NGA COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 469762048,
+              "label": "WU KING ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 469762049,
+              "label": "BUTTERFLY ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 469762050,
+              "label": "SIU HEI COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 469762051,
+              "label": "SIU SHAN COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 469762052,
+              "label": "MELODY GARDEN",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 469762053,
+              "label": "YUET WU VILLA",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 478150656,
+              "label": "SAM SHING ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 478150657,
+              "label": "YAU OI ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 478150658,
+              "label": "TIN KING ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 478150659,
+              "label": "KIN SANG ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 478150660,
+              "label": "LEUNG KING ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 478150661,
+              "label": "TAI HING ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 478150662,
+              "label": "SHAN KING ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 478150663,
+              "label": "ON TING ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 478150664,
+              "label": "LUNG YAT ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 478150665,
+              "label": "HIN FAT ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 478150666,
+              "label": "YIP WONG ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 478150667,
+              "label": "SAN WAI COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 478150668,
+              "label": "SIU LUN COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 478150669,
+              "label": "SIU ON COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 478150670,
+              "label": "AFFLUENCE GARDEN",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 478150671,
+              "label": "CHI LOK FA YUEN",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 478150672,
+              "label": "GLORIOUS GARDEN",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 478150673,
+              "label": "LUNG MUN OASIS",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 478150674,
+              "label": "PRIME VIEW GARDEN",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 478150675,
+              "label": "TSUI NING GARDEN",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 478150676,
+              "label": "SIU KWAI COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 478150677,
+              "label": "SIU TSUI COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 478150678,
+              "label": "KINGSTON TERRACE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 478150679,
+              "label": "TERRACE CONCERTO",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 486539264,
+              "label": "PO TIN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 486539265,
+              "label": "FU TAI ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 486539266,
+              "label": "YAN TIN ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 486539267,
+              "label": "WO TIN ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 486539268,
+              "label": "CHING TIN ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 486539269,
+              "label": "SIU HIN COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 486539270,
+              "label": "SIU LUNG COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 486539271,
+              "label": "SIU PONG COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 486539272,
+              "label": "SIU HONG COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 553648128,
+              "label": "NGA NING COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 553648129,
+              "label": "CHEUNG KWAI ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 570425344,
+              "label": "NGAN WAN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 570425345,
+              "label": "NGAN HO COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 570425346,
+              "label": "NGAN WAI COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 629145600,
+              "label": "LONG PING ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 629145601,
+              "label": "SHUI PIN WAI ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 629145602,
+              "label": "TIN SHUI 1 ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 629145603,
+              "label": "TIN TSZ ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 629145604,
+              "label": "TIN YIU 1 ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 629145605,
+              "label": "TIN YIU 2 ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 629145606,
+              "label": "TIN SHUI 2 ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 629145607,
+              "label": "LONG CHING ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 629145608,
+              "label": "HUNG FUK ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 629145609,
+              "label": "TIN LAI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 629145610,
+              "label": "TIN OI COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 629145611,
+              "label": "TIN YAU COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 629145612,
+              "label": "TIN SHING COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 629145613,
+              "label": "PING YAN COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 629145614,
+              "label": "WANG FU COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 637534208,
+              "label": "GRANDEUR TERRACE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 637534209,
+              "label": "TIN CHAK ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 637534210,
+              "label": "TIN WAH ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 637534211,
+              "label": "TIN YAN ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 637534212,
+              "label": "TIN YAT ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 637534213,
+              "label": "TIN YUET ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 637534214,
+              "label": "TIN CHING ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 637534215,
+              "label": "TIN HENG ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 637534216,
+              "label": "TIN CHUNG COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 637534217,
+              "label": "TIN FU COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 713031680,
+              "label": "KAM PENG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 713031681,
+              "label": "PENG LAI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 763363328,
+              "label": "LONG SHIN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 763363329,
+              "label": "FUNG TING COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 864026624,
+              "label": "CHEUNG CHING ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 864026625,
+              "label": "CHEUNG HONG ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 864026626,
+              "label": "CHING SHING COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 864026627,
+              "label": "CHING WAH COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 864026628,
+              "label": "CHING CHUN COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 864026629,
+              "label": "CHING FU COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 872415232,
+              "label": "CHEUNG FAT ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 872415233,
+              "label": "CHEUNG HANG ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 872415234,
+              "label": "CHEUNG ON ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 872415235,
+              "label": "FUK LOI ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 872415236,
+              "label": "TSING YI ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 872415237,
+              "label": "CHEUNG WANG ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 872415238,
+              "label": "EASEFUL COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 872415239,
+              "label": "CHING NGA COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 872415240,
+              "label": "CHING TAI COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 872415241,
+              "label": "SERENE GARDEN",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 872415242,
+              "label": "CHING WANG COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 872415243,
+              "label": "BROADVIEW GARDEN",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 872415244,
+              "label": "MOON LOK DAI HA",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 872415245,
+              "label": "TIVOLI GARDEN",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 872415246,
+              "label": "GREENVIEW VILLA",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 964689920,
+              "label": "AP LEI CHAU ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 964689921,
+              "label": "LEI TUNG ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 964689922,
+              "label": "YUE ON COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 973078528,
+              "label": "SHEK PAI WAN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 973078529,
+              "label": "WAH FU I ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 973078530,
+              "label": "WAH FU II ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 973078531,
+              "label": "WAH KWAI ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 973078532,
+              "label": "TIN WAN ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 973078533,
+              "label": "KA LUNG COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 973078534,
+              "label": "YUE FAI COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 973078535,
+              "label": "OCEAN COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 973078536,
+              "label": "HUNG FUK COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 973078537,
+              "label": "YUE YING LAU",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 973078538,
+              "label": "YUE KWONG CHUEN",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 973078539,
+              "label": "HARMONY PLACE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 981467136,
+              "label": "SAI WAN ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 981467137,
+              "label": "KWUN LUNG LAU",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 981467138,
+              "label": "HOLLYWOOD TERRACE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 981467139,
+              "label": "CAYMAN RISE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 998244352,
+              "label": "WING CHEONG ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 998244353,
+              "label": "WAH LAI ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 998244354,
+              "label": "NAM CHEONG ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 998244355,
+              "label": "FU CHEONG ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 998244356,
+              "label": "LAI KOK ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 998244357,
+              "label": "LAI ON ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 998244358,
+              "label": "LEI CHENG UK ESTATE",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 998244359,
+              "label": "LAI KING ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 998244360,
+              "label": "HOI LAI ESTATE",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 998244361,
+              "label": "UN CHAU ESTATE",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 998244362,
+              "label": "FORTUNE ESTATE",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 998244363,
+              "label": "SO UK ESTATE",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 998244364,
+              "label": "CHEUNG SHA WAN ESTATE",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 998244365,
+              "label": "HOI YING ESTATE",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 998244366,
+              "label": "LAI TSUI COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 998244367,
+              "label": "HOI TAT ESTATE",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 998244368,
+              "label": "YEE CHING COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 998244369,
+              "label": "PO HEI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 998244370,
+              "label": "PO LAI COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 998244371,
+              "label": "YEE KOK COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 998244372,
+              "label": "LAI YAN COURT",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 998244373,
+              "label": "HANG CHUN COURT",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 998244374,
+              "label": "YIN LAI COURT",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 998244375,
+              "label": "TSUI YIU COURT",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 998244376,
+              "label": "YUET LAI COURT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 998244377,
+              "label": "CHING LAI COURT",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            },
+            {
+              "value": 998244378,
+              "label": "HOI TAK COURT",
+              "color": [
+                198,
+                83,
+                140
+              ]
+            },
+            {
+              "value": 998244379,
+              "label": "HOI LOK COURT",
+              "color": [
+                191,
+                64,
+                128
+              ]
+            },
+            {
+              "value": 998244380,
+              "label": "CHO YIU CHUEN",
+              "color": [
+                172,
+                57,
+                115
+              ]
+            },
+            {
+              "value": 998244381,
+              "label": "HIGHLAND PARK",
+              "color": [
+                153,
+                51,
+                102
+              ]
+            },
+            {
+              "value": 998244382,
+              "label": "HEYA AQUA",
+              "color": [
+                134,
+                45,
+                89
+              ]
+            },
+            {
+              "value": 998244383,
+              "label": "HEYA CRYSTAL",
+              "color": [
+                115,
+                38,
+                77
+              ]
+            },
+            {
+              "value": 998244384,
+              "label": "HEYA DELIGHT",
+              "color": [
+                210,
+                121,
+                166
+              ]
+            },
+            {
+              "value": 998244385,
+              "label": "HEYA STAR",
+              "color": [
+                204,
+                102,
+                153
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "housingTypesFlag",
+      "label": null,
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "noData": 0,
+      "show": 0,
+      "representations": [
+        {
+          "label": "Public Housing Estates By Providers",
+          "type": "bitFlag",
+          "classes": [
+            {
+              "value": 31,
+              "label": "Housing Authority",
+              "color": [
+                179,
+                29,
+                0
+              ]
+            },
+            {
+              "value": 30,
+              "label": "Housing Society",
+              "color": [
+                0,
+                255,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Public Housing Estates By Catagories",
+          "type": "bitFlag",
+          "classes": [
+            {
+              "value": 29,
+              "label": "For Public Rental",
+              "color": [
+                174,
+                108,
+                223
+              ]
+            },
+            {
+              "value": 28,
+              "label": "For Sale",
+              "color": [
+                62,
+                221,
+                120
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "label": "Estate Name",
+      "type": "STRING",
+      "addToLabel": 1
+    },
+    {
+      "name": "addresses",
+      "label": "Estate Addresses",
+      "type": "ARRAY",
+      "componentType": "STRING",
+      "show": 1,
+      "required": 0
+    },
+    {
+      "name": "area",
+      "label": "Site Area (m2)",
+      "type": "SCALAR",
+      "componentType": "FLOAT32",
+      "show": 1,
+      "required": 0
+    },
+    {
+      "name": "yearCompletions",
+      "label": "Year(s) Completion",
+      "type": "STRING",
+      "required": 0
+    },
+    {
+      "name": "provider",
+      "label": "Provider",
+      "type": "ENUM",
+      "enumType": "providerEnumTypes"
+    },
+    {
+      "name": "housings",
+      "label": "Provided Pubic Housing Types",
+      "type": "ARRAY",
+      "componentType": "OBJECT",
+      "componentSchema": {
+        "name": "housing",
+        "label": "Public Housing Type",
+        "attributes": [
+          {
+            "name": "housingType",
+            "label": "Housing Type",
+            "type": "ENUM",
+            "enumType": "housingEnumTypes"
+          },
+          {
+            "name": "numBlocks",
+            "label": "Number of Building Blocks",
+            "type": "SCALAR",
+            "componentType": "UINT16",
+            "required": 0
+          },
+          {
+            "name": "numFlats",
+            "label": "Number of Flats",
+            "type": "SCALAR",
+            "componentType": "UINT16",
+            "required": 0
+          },
+          {
+            "name": "flatSizes",
+            "label": "Flat Sizes (m2)",
+            "type": "STRING",
+            "required": 0
+          }
+        ]
+      }
+    }
+  ],
+  "enums": {
+    "publicHousingIIDEnumTypes": {
+      "name": "Public Housing Estate",
+      "valueType": "UINT32",
+      "values": [
+        {
+          "value": 1006632960,
+          "name": "LEI MUK SHUE 1 ESTATE"
+        },
+        {
+          "value": 1006632961,
+          "name": "LEI MUK SHUE 2 ESTATE"
+        },
+        {
+          "value": 1006632962,
+          "name": "LEI MUK SHUE ESTATE"
+        },
+        {
+          "value": 1006632963,
+          "name": "TAI WO HAU ESTATE"
+        },
+        {
+          "value": 1006632964,
+          "name": "KWAI HING ESTATE"
+        },
+        {
+          "value": 1006632965,
+          "name": "SHEK LEI II ESTATE"
+        },
+        {
+          "value": 1006632966,
+          "name": "KWAI CHUNG ESTATE"
+        },
+        {
+          "value": 1006632967,
+          "name": "KWAI SHING WEST ESTATE"
+        },
+        {
+          "value": 1006632968,
+          "name": "LAI YIU ESTATE"
+        },
+        {
+          "value": 1006632969,
+          "name": "KWAI SHING EAST ESTATE"
+        },
+        {
+          "value": 1006632970,
+          "name": "ON YAM ESTATE"
+        },
+        {
+          "value": 1006632971,
+          "name": "SHEK LEI I ESTATE"
+        },
+        {
+          "value": 1006632972,
+          "name": "KWAI FONG ESTATE"
+        },
+        {
+          "value": 1006632973,
+          "name": "SHEK WAI KOK ESTATE"
+        },
+        {
+          "value": 1006632974,
+          "name": "CHEUNG SHAN ESTATE"
+        },
+        {
+          "value": 1006632975,
+          "name": "HIGH PROSPERITY TERRACE"
+        },
+        {
+          "value": 1006632976,
+          "name": "SHEK YAM ESTATE"
+        },
+        {
+          "value": 1006632977,
+          "name": "KWAI LUEN ESTATE"
+        },
+        {
+          "value": 1006632978,
+          "name": "KWAI TSUI ESTATE"
+        },
+        {
+          "value": 1006632979,
+          "name": "SHEK YAM EAST ESTATE"
+        },
+        {
+          "value": 1006632980,
+          "name": "KWAI CHUN COURT"
+        },
+        {
+          "value": 1006632981,
+          "name": "KWAI HONG COURT"
+        },
+        {
+          "value": 1006632982,
+          "name": "KWAI YIN COURT"
+        },
+        {
+          "value": 1006632983,
+          "name": "NING FUNG COURT"
+        },
+        {
+          "value": 1006632984,
+          "name": "YI FUNG COURT"
+        },
+        {
+          "value": 1006632985,
+          "name": "SHEUNG CHUI COURT"
+        },
+        {
+          "value": 1006632986,
+          "name": "SHEUNG MAN COURT"
+        },
+        {
+          "value": 1006632987,
+          "name": "BO SHEK MANSION"
+        },
+        {
+          "value": 1006632988,
+          "name": "HIBISCUS PARK"
+        },
+        {
+          "value": 1031798784,
+          "name": "PO NGA COURT"
+        },
+        {
+          "value": 1040187392,
+          "name": "WAH MING ESTATE"
+        },
+        {
+          "value": 1040187393,
+          "name": "WAH SUM ESTATE"
+        },
+        {
+          "value": 1040187394,
+          "name": "YUNG SHING COURT"
+        },
+        {
+          "value": 1040187395,
+          "name": "FAI MING ESTATE"
+        },
+        {
+          "value": 1040187396,
+          "name": "KING SHING COURT"
+        },
+        {
+          "value": 1040187397,
+          "name": "YAN SHING COURT"
+        },
+        {
+          "value": 1040187398,
+          "name": "CHEONG SHING COURT"
+        },
+        {
+          "value": 1048576000,
+          "name": "CHING HO ESTATE"
+        },
+        {
+          "value": 1048576001,
+          "name": "KA FUK ESTATE"
+        },
+        {
+          "value": 1048576002,
+          "name": "CHOI YUEN ESTATE"
+        },
+        {
+          "value": 1048576003,
+          "name": "TAI PING ESTATE"
+        },
+        {
+          "value": 1048576004,
+          "name": "TIN PING ESTATE"
+        },
+        {
+          "value": 1048576005,
+          "name": "CHEUNG WAH ESTATE"
+        },
+        {
+          "value": 1048576006,
+          "name": "CHEUNG LUNG WAI ESTATE"
+        },
+        {
+          "value": 1048576007,
+          "name": "PO SHEK WU ESTATE"
+        },
+        {
+          "value": 1048576008,
+          "name": "QUEENS HILL ESTATE"
+        },
+        {
+          "value": 1048576009,
+          "name": "CHOI SHEK ESTATE"
+        },
+        {
+          "value": 1048576010,
+          "name": "KA SHING COURT"
+        },
+        {
+          "value": 1048576011,
+          "name": "ON SHING COURT"
+        },
+        {
+          "value": 1048576012,
+          "name": "SUNNINGDALE GARDEN"
+        },
+        {
+          "value": 1048576013,
+          "name": "TSUI LAI GARDEN"
+        },
+        {
+          "value": 1048576014,
+          "name": "WING FAI CENTRE"
+        },
+        {
+          "value": 1048576015,
+          "name": "WING FOK CENTRE"
+        },
+        {
+          "value": 1048576016,
+          "name": "YUK PO COURT"
+        },
+        {
+          "value": 1048576017,
+          "name": "CHOI PO COURT"
+        },
+        {
+          "value": 1048576018,
+          "name": "CHING TAO COURT"
+        },
+        {
+          "value": 1098907648,
+          "name": "BROADVIEW COURT"
+        },
+        {
+          "value": 1098907649,
+          "name": "SOUTH WAVE COURT"
+        },
+        {
+          "value": 1115684864,
+          "name": "KEI WAH COURT"
+        },
+        {
+          "value": 1115684865,
+          "name": "LAI TAK TSUEN"
+        },
+        {
+          "value": 1115684866,
+          "name": "DRAGON CENTRE"
+        },
+        {
+          "value": 1124073472,
+          "name": "OI MAN ESTATE"
+        },
+        {
+          "value": 1124073473,
+          "name": "HOI FU COURT"
+        },
+        {
+          "value": 1124073474,
+          "name": "HUNG HOM ESTATE"
+        },
+        {
+          "value": 1124073475,
+          "name": "HO MAN TIN ESTATE"
+        },
+        {
+          "value": 1124073476,
+          "name": "SHEUNG LOK ESTATE"
+        },
+        {
+          "value": 1124073477,
+          "name": "MA TAU WAI ESTATE"
+        },
+        {
+          "value": 1124073478,
+          "name": "CHARMING GARDEN"
+        },
+        {
+          "value": 1124073479,
+          "name": "KWUN FAI COURT"
+        },
+        {
+          "value": 1124073480,
+          "name": "KWUN HEI COURT"
+        },
+        {
+          "value": 1124073481,
+          "name": "CHUN MAN COURT"
+        },
+        {
+          "value": 1124073482,
+          "name": "KWUN TAK COURT"
+        },
+        {
+          "value": 1124073483,
+          "name": "KAI YUET COURT"
+        },
+        {
+          "value": 1124073484,
+          "name": "KWUN SHAN COURT"
+        },
+        {
+          "value": 1124073485,
+          "name": "PROSPEROUS GARDEN"
+        },
+        {
+          "value": 1124073486,
+          "name": "LOK MAN SUN CHUEN"
+        },
+        {
+          "value": 1124073487,
+          "name": "CHUN SEEN MEI CHUEN"
+        },
+        {
+          "value": 1124073488,
+          "name": "KA WAI CHUEN"
+        },
+        {
+          "value": 1124073489,
+          "name": "JUBILANT PLACE"
+        },
+        {
+          "value": 1124073490,
+          "name": "PROSPERITY COURT"
+        },
+        {
+          "value": 1124073491,
+          "name": "JUNE GARDEN"
+        },
+        {
+          "value": 1124073492,
+          "name": "CASCADES"
+        },
+        {
+          "value": 1124073493,
+          "name": "BLISSFUL PLACE"
+        },
+        {
+          "value": 1132462080,
+          "name": "TAI HANG TUNG ESTATE"
+        },
+        {
+          "value": 1132462081,
+          "name": "WANG TAU HOM ESTATE"
+        },
+        {
+          "value": 1132462082,
+          "name": "MEI TUNG ESTATE"
+        },
+        {
+          "value": 1132462083,
+          "name": "CHUK YUEN NORTH ESTATE"
+        },
+        {
+          "value": 1132462084,
+          "name": "CHUK YUEN SOUTH ESTATE"
+        },
+        {
+          "value": 1132462085,
+          "name": "LOWER WONG TAI SIN 2 ESTATE"
+        },
+        {
+          "value": 1132462086,
+          "name": "FUNG TAK ESTATE"
+        },
+        {
+          "value": 1132462087,
+          "name": "LOK FU ESTATE"
+        },
+        {
+          "value": 1132462088,
+          "name": "SHATIN PASS ESTATE"
+        },
+        {
+          "value": 1132462089,
+          "name": "LOWER WONG TAI SIN 1 ESTATE"
+        },
+        {
+          "value": 1132462090,
+          "name": "TUNG TAU II ESTATE"
+        },
+        {
+          "value": 1132462091,
+          "name": "UPPER WONG TAI SIN ESTATE"
+        },
+        {
+          "value": 1132462092,
+          "name": "TSZ CHING ESTATE"
+        },
+        {
+          "value": 1132462093,
+          "name": "SHEK KIP MEI ESTATE"
+        },
+        {
+          "value": 1132462094,
+          "name": "PAK TIN ESTATE"
+        },
+        {
+          "value": 1132462095,
+          "name": "NAM SHAN ESTATE"
+        },
+        {
+          "value": 1132462096,
+          "name": "TSZ LOK ESTATE"
+        },
+        {
+          "value": 1132462097,
+          "name": "CHAK ON ESTATE"
+        },
+        {
+          "value": 1132462098,
+          "name": "TUNG WUI ESTATE"
+        },
+        {
+          "value": 1132462099,
+          "name": "KAI CHUEN COURT"
+        },
+        {
+          "value": 1132462100,
+          "name": "PANG CHING COURT"
+        },
+        {
+          "value": 1132462101,
+          "name": "FUNG CHUEN COURT"
+        },
+        {
+          "value": 1132462102,
+          "name": "FUNG LAI COURT"
+        },
+        {
+          "value": 1132462103,
+          "name": "TSUI CHUK GARDEN"
+        },
+        {
+          "value": 1132462104,
+          "name": "TIN WANG COURT"
+        },
+        {
+          "value": 1132462105,
+          "name": "TIN MA COURT"
+        },
+        {
+          "value": 1132462106,
+          "name": "LUNG POON COURT"
+        },
+        {
+          "value": 1132462107,
+          "name": "TAK KEUNG COURT"
+        },
+        {
+          "value": 1132462108,
+          "name": "KA KEUNG COURT"
+        },
+        {
+          "value": 1132462109,
+          "name": "RHYTHM GARDEN"
+        },
+        {
+          "value": 1132462110,
+          "name": "TSZ OI COURT"
+        },
+        {
+          "value": 1132462111,
+          "name": "TSZ ON COURT"
+        },
+        {
+          "value": 1132462112,
+          "name": "HONG KEUNG COURT"
+        },
+        {
+          "value": 1132462113,
+          "name": "FU KEUNG COURT"
+        },
+        {
+          "value": 1132462114,
+          "name": "YING FUK COURT"
+        },
+        {
+          "value": 1132462115,
+          "name": "KING TAI COURT"
+        },
+        {
+          "value": 1132462116,
+          "name": "KAI LONG COURT"
+        },
+        {
+          "value": 1132462117,
+          "name": "KAI CHEUNG COURT"
+        },
+        {
+          "value": 1132462118,
+          "name": "KAI YAN COURT"
+        },
+        {
+          "value": 1132462119,
+          "name": "KAI TAK GARDEN"
+        },
+        {
+          "value": 1132462120,
+          "name": "CRONIN GARDEN"
+        },
+        {
+          "value": 1132462121,
+          "name": "BEL AIR HEIGHTS"
+        },
+        {
+          "value": 1132462122,
+          "name": "HEYA GREEN"
+        },
+        {
+          "value": 1140850688,
+          "name": "HIN YIU ESTATE"
+        },
+        {
+          "value": 1140850689,
+          "name": "MEI TIN ESTATE"
+        },
+        {
+          "value": 1140850690,
+          "name": "SUN CHUI ESTATE"
+        },
+        {
+          "value": 1140850691,
+          "name": "SUN TIN WAI ESTATE"
+        },
+        {
+          "value": 1140850692,
+          "name": "LUNG HANG ESTATE"
+        },
+        {
+          "value": 1140850693,
+          "name": "MEI LAM ESTATE"
+        },
+        {
+          "value": 1140850694,
+          "name": "SHA KOK ESTATE"
+        },
+        {
+          "value": 1140850695,
+          "name": "CHUN SHEK ESTATE"
+        },
+        {
+          "value": 1140850696,
+          "name": "HIN KENG ESTATE"
+        },
+        {
+          "value": 1140850697,
+          "name": "POK HONG ESTATE"
+        },
+        {
+          "value": 1140850698,
+          "name": "SHUI CHUEN O ESTATE"
+        },
+        {
+          "value": 1140850699,
+          "name": "FUNG SHING COURT"
+        },
+        {
+          "value": 1140850700,
+          "name": "KA TIN COURT"
+        },
+        {
+          "value": 1140850701,
+          "name": "CARADO GARDEN"
+        },
+        {
+          "value": 1140850702,
+          "name": "GRANDWAY GARDEN"
+        },
+        {
+          "value": 1140850703,
+          "name": "YUE SHING COURT"
+        },
+        {
+          "value": 1140850704,
+          "name": "KA KENG COURT"
+        },
+        {
+          "value": 1140850705,
+          "name": "KING TIN COURT"
+        },
+        {
+          "value": 1140850706,
+          "name": "MAY SHING COURT"
+        },
+        {
+          "value": 1140850707,
+          "name": "HOLFORD GARDENS"
+        },
+        {
+          "value": 1140850708,
+          "name": "MEI PAK COURT"
+        },
+        {
+          "value": 1140850709,
+          "name": "MEI YING COURT"
+        },
+        {
+          "value": 1140850710,
+          "name": "KA SHUN COURT"
+        },
+        {
+          "value": 1140850711,
+          "name": "JAT MIN CHUEN"
+        },
+        {
+          "value": 1149239296,
+          "name": "WO CHE ESTATE"
+        },
+        {
+          "value": 1149239297,
+          "name": "LEK YUEN ESTATE"
+        },
+        {
+          "value": 1149239298,
+          "name": "FUNG WO ESTATE"
+        },
+        {
+          "value": 1149239299,
+          "name": "CHUN YEUNG ESTATE"
+        },
+        {
+          "value": 1149239300,
+          "name": "SUI WO COURT"
+        },
+        {
+          "value": 1149239301,
+          "name": "MEI CHUNG COURT"
+        },
+        {
+          "value": 1149239302,
+          "name": "YUE TIN COURT"
+        },
+        {
+          "value": 1149239303,
+          "name": "CHOI WO COURT"
+        },
+        {
+          "value": 1149239304,
+          "name": "YUK WO COURT"
+        },
+        {
+          "value": 1166016512,
+          "name": "TAI WO ESTATE"
+        },
+        {
+          "value": 1166016513,
+          "name": "WAN TAU TONG ESTATE"
+        },
+        {
+          "value": 1166016514,
+          "name": "FU SHIN ESTATE"
+        },
+        {
+          "value": 1166016515,
+          "name": "TAI YUEN ESTATE"
+        },
+        {
+          "value": 1166016516,
+          "name": "FU HENG ESTATE"
+        },
+        {
+          "value": 1166016517,
+          "name": "KWONG FUK ESTATE"
+        },
+        {
+          "value": 1166016518,
+          "name": "PO HEUNG ESTATE"
+        },
+        {
+          "value": 1166016519,
+          "name": "ELEGANCE GARDEN"
+        },
+        {
+          "value": 1166016520,
+          "name": "TAK NGA COURT"
+        },
+        {
+          "value": 1166016521,
+          "name": "TAI PO PLAZA"
+        },
+        {
+          "value": 1166016522,
+          "name": "TING NGA COURT"
+        },
+        {
+          "value": 1166016523,
+          "name": "YAT NGA COURT"
+        },
+        {
+          "value": 1166016524,
+          "name": "KING NGA COURT"
+        },
+        {
+          "value": 1166016525,
+          "name": "MING NGA COURT"
+        },
+        {
+          "value": 1166016526,
+          "name": "SUN HING GARDEN"
+        },
+        {
+          "value": 1166016527,
+          "name": "YEE NGA COURT"
+        },
+        {
+          "value": 1166016528,
+          "name": "CHUNG NGA COURT"
+        },
+        {
+          "value": 1166016529,
+          "name": "WANG FUK COURT"
+        },
+        {
+          "value": 1174405120,
+          "name": "FU TIP ESTATE"
+        },
+        {
+          "value": 1182793728,
+          "name": "SHAN LAI COURT"
+        },
+        {
+          "value": 1233125376,
+          "name": "MA HANG ESTATE"
+        },
+        {
+          "value": 1233125377,
+          "name": "LUNG TAK COURT"
+        },
+        {
+          "value": 1233125378,
+          "name": "LUNG YAN COURT"
+        },
+        {
+          "value": 1233125379,
+          "name": "PARK BELVEDERE"
+        },
+        {
+          "value": 1241513984,
+          "name": "YUE WAN ESTATE"
+        },
+        {
+          "value": 1241513985,
+          "name": "HING WAH 1 ESTATE"
+        },
+        {
+          "value": 1241513986,
+          "name": "HING WAH 2 ESTATE"
+        },
+        {
+          "value": 1241513987,
+          "name": "TSUI LOK ESTATE"
+        },
+        {
+          "value": 1241513988,
+          "name": "TSUI WAN ESTATE"
+        },
+        {
+          "value": 1241513989,
+          "name": "WAN TSUI ESTATE"
+        },
+        {
+          "value": 1241513990,
+          "name": "CHAI WAN ESTATE"
+        },
+        {
+          "value": 1241513991,
+          "name": "FUNG WAH ESTATE"
+        },
+        {
+          "value": 1241513992,
+          "name": "HING MAN ESTATE"
+        },
+        {
+          "value": 1241513993,
+          "name": "WAH HA ESTATE"
+        },
+        {
+          "value": 1241513994,
+          "name": "LIN TSUI ESTATE"
+        },
+        {
+          "value": 1241513995,
+          "name": "YUET CHUI COURT"
+        },
+        {
+          "value": 1241513996,
+          "name": "LOK HIN TERRACE"
+        },
+        {
+          "value": 1241513997,
+          "name": "WALTON ESTATE"
+        },
+        {
+          "value": 1241513998,
+          "name": "YEE TSUI COURT"
+        },
+        {
+          "value": 1241513999,
+          "name": "HANG TSUI COURT"
+        },
+        {
+          "value": 1241514000,
+          "name": "NEPTUNE TERRACE"
+        },
+        {
+          "value": 1241514001,
+          "name": "GREENWOOD TERRACE"
+        },
+        {
+          "value": 1241514002,
+          "name": "SHAN TSUI COURT"
+        },
+        {
+          "value": 1241514003,
+          "name": "YAN TSUI COURT"
+        },
+        {
+          "value": 1241514004,
+          "name": "DIP TSUI COURT"
+        },
+        {
+          "value": 1241514005,
+          "name": "KING TSUI COURT"
+        },
+        {
+          "value": 1249902592,
+          "name": "HONG TUNG ESTATE"
+        },
+        {
+          "value": 1249902593,
+          "name": "MODEL HOUSING ESTATE"
+        },
+        {
+          "value": 1249902594,
+          "name": "OI TUNG ESTATE"
+        },
+        {
+          "value": 1249902595,
+          "name": "YIU TUNG ESTATE"
+        },
+        {
+          "value": 1249902596,
+          "name": "YAU TONG ESTATE"
+        },
+        {
+          "value": 1249902597,
+          "name": "KO CHEUNG COURT"
+        },
+        {
+          "value": 1249902598,
+          "name": "KO YEE ESTATE"
+        },
+        {
+          "value": 1249902599,
+          "name": "HING TUNG ESTATE"
+        },
+        {
+          "value": 1249902600,
+          "name": "LEI YUE MUN ESTATE"
+        },
+        {
+          "value": 1249902601,
+          "name": "TUNG TAO COURT"
+        },
+        {
+          "value": 1249902602,
+          "name": "ALDRICH GARDEN"
+        },
+        {
+          "value": 1249902603,
+          "name": "TUNG HEI COURT"
+        },
+        {
+          "value": 1249902604,
+          "name": "KORNHILL"
+        },
+        {
+          "value": 1249902605,
+          "name": "TUNG LAM COURT"
+        },
+        {
+          "value": 1249902606,
+          "name": "KO CHUN COURT"
+        },
+        {
+          "value": 1249902607,
+          "name": "YAU TONG CENTRE"
+        },
+        {
+          "value": 1249902608,
+          "name": "TUNG SHING COURT"
+        },
+        {
+          "value": 1249902609,
+          "name": "TUNG YAN COURT"
+        },
+        {
+          "value": 1249902610,
+          "name": "KO WANG COURT"
+        },
+        {
+          "value": 1249902611,
+          "name": "TUNG CHUN COURT"
+        },
+        {
+          "value": 1249902612,
+          "name": "TUNG YUK COURT"
+        },
+        {
+          "value": 1249902613,
+          "name": "MING WAH DAI HA"
+        },
+        {
+          "value": 1249902614,
+          "name": "HEALTHY VILLAGE"
+        },
+        {
+          "value": 1258291200,
+          "name": "UPPER NGAU TAU KOK ESTATE"
+        },
+        {
+          "value": 1258291201,
+          "name": "LOWER NGAU TAU KOK ESTATE"
+        },
+        {
+          "value": 1258291202,
+          "name": "YAU LAI ESTATE"
+        },
+        {
+          "value": 1258291203,
+          "name": "LAM TIN ESTATE"
+        },
+        {
+          "value": 1258291204,
+          "name": "SHUN TIN ESTATE"
+        },
+        {
+          "value": 1258291205,
+          "name": "WAN HON ESTATE"
+        },
+        {
+          "value": 1258291206,
+          "name": "WO LOK ESTATE"
+        },
+        {
+          "value": 1258291207,
+          "name": "SAU MAU PING SOUTH ESTATE"
+        },
+        {
+          "value": 1258291208,
+          "name": "HING TIN ESTATE"
+        },
+        {
+          "value": 1258291209,
+          "name": "KAI TIN ESTATE"
+        },
+        {
+          "value": 1258291210,
+          "name": "KWONG TIN ESTATE"
+        },
+        {
+          "value": 1258291211,
+          "name": "LOK WAH SOUTH ESTATE"
+        },
+        {
+          "value": 1258291212,
+          "name": "LOK WAH NORTH ESTATE"
+        },
+        {
+          "value": 1258291213,
+          "name": "ON TIN ESTATE"
+        },
+        {
+          "value": 1258291214,
+          "name": "PING TIN ESTATE"
+        },
+        {
+          "value": 1258291215,
+          "name": "PO TAT ESTATE"
+        },
+        {
+          "value": 1258291216,
+          "name": "SAU MAU PING ESTATE"
+        },
+        {
+          "value": 1258291217,
+          "name": "TAK TIN ESTATE"
+        },
+        {
+          "value": 1258291218,
+          "name": "TSUI PING NORTH ESTATE"
+        },
+        {
+          "value": 1258291219,
+          "name": "TSUI PING SOUTH ESTATE"
+        },
+        {
+          "value": 1258291220,
+          "name": "ON TAT ESTATE"
+        },
+        {
+          "value": 1258291221,
+          "name": "HONG NGA COURT"
+        },
+        {
+          "value": 1258291222,
+          "name": "HONG YAT COURT"
+        },
+        {
+          "value": 1258291223,
+          "name": "LEI ON COURT"
+        },
+        {
+          "value": 1258291224,
+          "name": "CHUN WAH COURT"
+        },
+        {
+          "value": 1258291225,
+          "name": "HIU LAI COURT"
+        },
+        {
+          "value": 1258291226,
+          "name": "PO PUI COURT"
+        },
+        {
+          "value": 1258291227,
+          "name": "CHEUNG WO COURT"
+        },
+        {
+          "value": 1258291228,
+          "name": "HONG YING COURT"
+        },
+        {
+          "value": 1258291229,
+          "name": "HONG TIN COURT"
+        },
+        {
+          "value": 1258291230,
+          "name": "HONG PAK COURT"
+        },
+        {
+          "value": 1258291231,
+          "name": "HONG SHUI COURT"
+        },
+        {
+          "value": 1258291232,
+          "name": "HONG WAH COURT"
+        },
+        {
+          "value": 1258291233,
+          "name": "LOK NGA COURT"
+        },
+        {
+          "value": 1258291234,
+          "name": "ON KAY COURT"
+        },
+        {
+          "value": 1258291235,
+          "name": "YAU CHUI COURT"
+        },
+        {
+          "value": 1258291236,
+          "name": "ON SAU COURT"
+        },
+        {
+          "value": 1258291237,
+          "name": "ON PAK COURT"
+        },
+        {
+          "value": 1258291238,
+          "name": "ON YING COURT"
+        },
+        {
+          "value": 1258291239,
+          "name": "ON LAI COURT"
+        },
+        {
+          "value": 1258291240,
+          "name": "CLAGUE GARDEN ESTATE"
+        },
+        {
+          "value": 1258291241,
+          "name": "KWUN TONG GARDEN ESTATE"
+        },
+        {
+          "value": 1258291242,
+          "name": "CHEERFUL COURT"
+        },
+        {
+          "value": 1266679808,
+          "name": "TAK LONG ESTATE"
+        },
+        {
+          "value": 1266679809,
+          "name": "KAI CHING ESTATE"
+        },
+        {
+          "value": 1266679810,
+          "name": "CHOI FOOK ESTATE"
+        },
+        {
+          "value": 1266679811,
+          "name": "FU SHAN ESTATE"
+        },
+        {
+          "value": 1266679812,
+          "name": "CHOI TAK ESTATE"
+        },
+        {
+          "value": 1266679813,
+          "name": "CHOI WAN I ESTATE"
+        },
+        {
+          "value": 1266679814,
+          "name": "CHOI YING ESTATE"
+        },
+        {
+          "value": 1266679815,
+          "name": "PING SHEK ESTATE"
+        },
+        {
+          "value": 1266679816,
+          "name": "TSZ HONG ESTATE"
+        },
+        {
+          "value": 1266679817,
+          "name": "TSZ MAN ESTATE"
+        },
+        {
+          "value": 1266679818,
+          "name": "CHOI FAI ESTATE"
+        },
+        {
+          "value": 1266679819,
+          "name": "CHOI WAN 2 ESTATE"
+        },
+        {
+          "value": 1266679820,
+          "name": "CHOI HA ESTATE"
+        },
+        {
+          "value": 1266679821,
+          "name": "KAI YIP ESTATE"
+        },
+        {
+          "value": 1266679822,
+          "name": "SHUN ON ESTATE"
+        },
+        {
+          "value": 1266679823,
+          "name": "CHOI HUNG ESTATE"
+        },
+        {
+          "value": 1266679824,
+          "name": "SHUN LEE ESTATE"
+        },
+        {
+          "value": 1266679825,
+          "name": "ON TAI ESTATE"
+        },
+        {
+          "value": 1266679826,
+          "name": "GRAND VIEW GARDEN"
+        },
+        {
+          "value": 1266679827,
+          "name": "SUN LAI GARDEN"
+        },
+        {
+          "value": 1266679828,
+          "name": "KING LAI COURT"
+        },
+        {
+          "value": 1266679829,
+          "name": "KINGSFORD TERRACE"
+        },
+        {
+          "value": 1266679830,
+          "name": "KING HIN COURT"
+        },
+        {
+          "value": 1266679831,
+          "name": "KING SHAN COURT"
+        },
+        {
+          "value": 1266679832,
+          "name": "RICHLAND GARDENS"
+        },
+        {
+          "value": 1266679833,
+          "name": "KAI TAI COURT"
+        },
+        {
+          "value": 1266679834,
+          "name": "CHOI FUNG COURT"
+        },
+        {
+          "value": 1266679835,
+          "name": "SHUN CHI COURT"
+        },
+        {
+          "value": 1266679836,
+          "name": "CHOI HING COURT"
+        },
+        {
+          "value": 1266679837,
+          "name": "ON WAH COURT"
+        },
+        {
+          "value": 1283457024,
+          "name": "SHEK MUN ESTATE"
+        },
+        {
+          "value": 1283457025,
+          "name": "KWONG YUEN ESTATE"
+        },
+        {
+          "value": 1283457026,
+          "name": "HONG LAM COURT"
+        },
+        {
+          "value": 1283457027,
+          "name": "KWONG LAM COURT"
+        },
+        {
+          "value": 1283457028,
+          "name": "CHEVALIER GARDEN"
+        },
+        {
+          "value": 1283457029,
+          "name": "YU CHUI COURT"
+        },
+        {
+          "value": 1283457030,
+          "name": "YU TAK COURT"
+        },
+        {
+          "value": 1283457031,
+          "name": "SUNSHINE GROVE"
+        },
+        {
+          "value": 1283457032,
+          "name": "GREENHILL VILLA"
+        },
+        {
+          "value": 1291845632,
+          "name": "YIU ON ESTATE"
+        },
+        {
+          "value": 1291845633,
+          "name": "CHUNG ON ESTATE"
+        },
+        {
+          "value": 1291845634,
+          "name": "HENG ON ESTATE"
+        },
+        {
+          "value": 1291845635,
+          "name": "LEE ON ESTATE"
+        },
+        {
+          "value": 1291845636,
+          "name": "YAN ON ESTATE"
+        },
+        {
+          "value": 1291845637,
+          "name": "KAM FUNG COURT"
+        },
+        {
+          "value": 1291845638,
+          "name": "KAM ON COURT"
+        },
+        {
+          "value": 1291845639,
+          "name": "KAM HAY COURT"
+        },
+        {
+          "value": 1291845640,
+          "name": "KAM YING COURT"
+        },
+        {
+          "value": 1291845641,
+          "name": "KAM LUNG COURT"
+        },
+        {
+          "value": 1291845642,
+          "name": "KAM TAI COURT"
+        },
+        {
+          "value": 1291845643,
+          "name": "FU FAI GARDEN"
+        },
+        {
+          "value": 1291845644,
+          "name": "FOK ON GARDEN"
+        },
+        {
+          "value": 1291845645,
+          "name": "SADDLE RIDGE GARDEN"
+        },
+        {
+          "value": 1291845646,
+          "name": "KAM FAI COURT"
+        },
+        {
+          "value": 1291845647,
+          "name": "KAM CHUN COURT"
+        },
+        {
+          "value": 1291845648,
+          "name": "MOUNTAIN SHORE"
+        },
+        {
+          "value": 1333788672,
+          "name": "SHA TAU KOK CHUEN"
+        },
+        {
+          "value": 1375731712,
+          "name": "SIU SAI WAN ESTATE"
+        },
+        {
+          "value": 1375731713,
+          "name": "HIU TSUI COURT"
+        },
+        {
+          "value": 1375731714,
+          "name": "HARMONY GARDEN"
+        },
+        {
+          "value": 1375731715,
+          "name": "CHEERFUL GARDEN"
+        },
+        {
+          "value": 1375731716,
+          "name": "FULLVIEW GARDEN"
+        },
+        {
+          "value": 1375731717,
+          "name": "KAI TSUI COURT"
+        },
+        {
+          "value": 1392508928,
+          "name": "CHOI MING COURT"
+        },
+        {
+          "value": 1392508929,
+          "name": "KIN MING ESTATE"
+        },
+        {
+          "value": 1392508930,
+          "name": "KING LAM ESTATE"
+        },
+        {
+          "value": 1392508931,
+          "name": "SHIN MING ESTATE"
+        },
+        {
+          "value": 1392508932,
+          "name": "HAU TAK ESTATE"
+        },
+        {
+          "value": 1392508933,
+          "name": "SHEUNG TAK ESTATE"
+        },
+        {
+          "value": 1392508934,
+          "name": "TSUI LAM ESTATE"
+        },
+        {
+          "value": 1392508935,
+          "name": "MING TAK ESTATE"
+        },
+        {
+          "value": 1392508936,
+          "name": "YEE MING ESTATE"
+        },
+        {
+          "value": 1392508937,
+          "name": "CHUNG MING COURT"
+        },
+        {
+          "value": 1392508938,
+          "name": "HO MING COURT"
+        },
+        {
+          "value": 1392508939,
+          "name": "TONG MING COURT"
+        },
+        {
+          "value": 1392508940,
+          "name": "HIN MING COURT"
+        },
+        {
+          "value": 1392508941,
+          "name": "KWONG MING COURT"
+        },
+        {
+          "value": 1392508942,
+          "name": "PO MING COURT"
+        },
+        {
+          "value": 1392508943,
+          "name": "WO MING COURT"
+        },
+        {
+          "value": 1392508944,
+          "name": "YUK MING COURT"
+        },
+        {
+          "value": 1392508945,
+          "name": "ON NING GARDEN"
+        },
+        {
+          "value": 1392508946,
+          "name": "FU NING GARDEN"
+        },
+        {
+          "value": 1392508947,
+          "name": "BEVERLY GARDEN"
+        },
+        {
+          "value": 1392508948,
+          "name": "HONG SING GARDEN"
+        },
+        {
+          "value": 1392508949,
+          "name": "BAUHINIA GARDEN"
+        },
+        {
+          "value": 1392508950,
+          "name": "YU MING COURT"
+        },
+        {
+          "value": 1392508951,
+          "name": "KING MING COURT"
+        },
+        {
+          "value": 1392508952,
+          "name": "YAN MING COURT"
+        },
+        {
+          "value": 1392508953,
+          "name": "YUNG MING COURT"
+        },
+        {
+          "value": 1392508954,
+          "name": "CHIU MING COURT"
+        },
+        {
+          "value": 1392508955,
+          "name": "VERBENA HEIGHTS"
+        },
+        {
+          "value": 1392508956,
+          "name": "SERENITY PLACE"
+        },
+        {
+          "value": 1392508957,
+          "name": "RADIANT TOWERS"
+        },
+        {
+          "value": 1392508958,
+          "name": "THE PINNACLE"
+        },
+        {
+          "value": 1392508959,
+          "name": "JOLLY PLACE"
+        },
+        {
+          "value": 1392508960,
+          "name": "MOUNT VERDANT"
+        },
+        {
+          "value": 1400897536,
+          "name": "PO LAM ESTATE"
+        },
+        {
+          "value": 1400897537,
+          "name": "YING MING COURT"
+        },
+        {
+          "value": 1409286144,
+          "name": "LAKESIDE GARDEN"
+        },
+        {
+          "value": 1409286145,
+          "name": "TUI MIN HOI CHUEN"
+        },
+        {
+          "value": 1409286146,
+          "name": "MARINA HABITAT"
+        },
+        {
+          "value": 167772160,
+          "name": "LUNG TIN ESTATE"
+        },
+        {
+          "value": 167772161,
+          "name": "LUNG HIN COURT"
+        },
+        {
+          "value": 167772162,
+          "name": "TIN LEE COURT"
+        },
+        {
+          "value": 310378496,
+          "name": "FU TUNG ESTATE"
+        },
+        {
+          "value": 310378497,
+          "name": "YAT TUNG 1 ESTATE"
+        },
+        {
+          "value": 310378498,
+          "name": "YAT TUNG 2 ESTATE"
+        },
+        {
+          "value": 310378499,
+          "name": "MUN TUNG ESTATE"
+        },
+        {
+          "value": 310378500,
+          "name": "YU TUNG COURT"
+        },
+        {
+          "value": 310378501,
+          "name": "YU TAI COURT"
+        },
+        {
+          "value": 444596224,
+          "name": "YING TUNG ESTATE"
+        },
+        {
+          "value": 444596225,
+          "name": "CHEUNG TUNG ESTATE"
+        },
+        {
+          "value": 444596226,
+          "name": "YU NGA COURT"
+        },
+        {
+          "value": 469762048,
+          "name": "WU KING ESTATE"
+        },
+        {
+          "value": 469762049,
+          "name": "BUTTERFLY ESTATE"
+        },
+        {
+          "value": 469762050,
+          "name": "SIU HEI COURT"
+        },
+        {
+          "value": 469762051,
+          "name": "SIU SHAN COURT"
+        },
+        {
+          "value": 469762052,
+          "name": "MELODY GARDEN"
+        },
+        {
+          "value": 469762053,
+          "name": "YUET WU VILLA"
+        },
+        {
+          "value": 478150656,
+          "name": "SAM SHING ESTATE"
+        },
+        {
+          "value": 478150657,
+          "name": "YAU OI ESTATE"
+        },
+        {
+          "value": 478150658,
+          "name": "TIN KING ESTATE"
+        },
+        {
+          "value": 478150659,
+          "name": "KIN SANG ESTATE"
+        },
+        {
+          "value": 478150660,
+          "name": "LEUNG KING ESTATE"
+        },
+        {
+          "value": 478150661,
+          "name": "TAI HING ESTATE"
+        },
+        {
+          "value": 478150662,
+          "name": "SHAN KING ESTATE"
+        },
+        {
+          "value": 478150663,
+          "name": "ON TING ESTATE"
+        },
+        {
+          "value": 478150664,
+          "name": "LUNG YAT ESTATE"
+        },
+        {
+          "value": 478150665,
+          "name": "HIN FAT ESTATE"
+        },
+        {
+          "value": 478150666,
+          "name": "YIP WONG ESTATE"
+        },
+        {
+          "value": 478150667,
+          "name": "SAN WAI COURT"
+        },
+        {
+          "value": 478150668,
+          "name": "SIU LUN COURT"
+        },
+        {
+          "value": 478150669,
+          "name": "SIU ON COURT"
+        },
+        {
+          "value": 478150670,
+          "name": "AFFLUENCE GARDEN"
+        },
+        {
+          "value": 478150671,
+          "name": "CHI LOK FA YUEN"
+        },
+        {
+          "value": 478150672,
+          "name": "GLORIOUS GARDEN"
+        },
+        {
+          "value": 478150673,
+          "name": "LUNG MUN OASIS"
+        },
+        {
+          "value": 478150674,
+          "name": "PRIME VIEW GARDEN"
+        },
+        {
+          "value": 478150675,
+          "name": "TSUI NING GARDEN"
+        },
+        {
+          "value": 478150676,
+          "name": "SIU KWAI COURT"
+        },
+        {
+          "value": 478150677,
+          "name": "SIU TSUI COURT"
+        },
+        {
+          "value": 478150678,
+          "name": "KINGSTON TERRACE"
+        },
+        {
+          "value": 478150679,
+          "name": "TERRACE CONCERTO"
+        },
+        {
+          "value": 486539264,
+          "name": "PO TIN ESTATE"
+        },
+        {
+          "value": 486539265,
+          "name": "FU TAI ESTATE"
+        },
+        {
+          "value": 486539266,
+          "name": "YAN TIN ESTATE"
+        },
+        {
+          "value": 486539267,
+          "name": "WO TIN ESTATE"
+        },
+        {
+          "value": 486539268,
+          "name": "CHING TIN ESTATE"
+        },
+        {
+          "value": 486539269,
+          "name": "SIU HIN COURT"
+        },
+        {
+          "value": 486539270,
+          "name": "SIU LUNG COURT"
+        },
+        {
+          "value": 486539271,
+          "name": "SIU PONG COURT"
+        },
+        {
+          "value": 486539272,
+          "name": "SIU HONG COURT"
+        },
+        {
+          "value": 553648128,
+          "name": "NGA NING COURT"
+        },
+        {
+          "value": 553648129,
+          "name": "CHEUNG KWAI ESTATE"
+        },
+        {
+          "value": 570425344,
+          "name": "NGAN WAN ESTATE"
+        },
+        {
+          "value": 570425345,
+          "name": "NGAN HO COURT"
+        },
+        {
+          "value": 570425346,
+          "name": "NGAN WAI COURT"
+        },
+        {
+          "value": 629145600,
+          "name": "LONG PING ESTATE"
+        },
+        {
+          "value": 629145601,
+          "name": "SHUI PIN WAI ESTATE"
+        },
+        {
+          "value": 629145602,
+          "name": "TIN SHUI 1 ESTATE"
+        },
+        {
+          "value": 629145603,
+          "name": "TIN TSZ ESTATE"
+        },
+        {
+          "value": 629145604,
+          "name": "TIN YIU 1 ESTATE"
+        },
+        {
+          "value": 629145605,
+          "name": "TIN YIU 2 ESTATE"
+        },
+        {
+          "value": 629145606,
+          "name": "TIN SHUI 2 ESTATE"
+        },
+        {
+          "value": 629145607,
+          "name": "LONG CHING ESTATE"
+        },
+        {
+          "value": 629145608,
+          "name": "HUNG FUK ESTATE"
+        },
+        {
+          "value": 629145609,
+          "name": "TIN LAI COURT"
+        },
+        {
+          "value": 629145610,
+          "name": "TIN OI COURT"
+        },
+        {
+          "value": 629145611,
+          "name": "TIN YAU COURT"
+        },
+        {
+          "value": 629145612,
+          "name": "TIN SHING COURT"
+        },
+        {
+          "value": 629145613,
+          "name": "PING YAN COURT"
+        },
+        {
+          "value": 629145614,
+          "name": "WANG FU COURT"
+        },
+        {
+          "value": 637534208,
+          "name": "GRANDEUR TERRACE"
+        },
+        {
+          "value": 637534209,
+          "name": "TIN CHAK ESTATE"
+        },
+        {
+          "value": 637534210,
+          "name": "TIN WAH ESTATE"
+        },
+        {
+          "value": 637534211,
+          "name": "TIN YAN ESTATE"
+        },
+        {
+          "value": 637534212,
+          "name": "TIN YAT ESTATE"
+        },
+        {
+          "value": 637534213,
+          "name": "TIN YUET ESTATE"
+        },
+        {
+          "value": 637534214,
+          "name": "TIN CHING ESTATE"
+        },
+        {
+          "value": 637534215,
+          "name": "TIN HENG ESTATE"
+        },
+        {
+          "value": 637534216,
+          "name": "TIN CHUNG COURT"
+        },
+        {
+          "value": 637534217,
+          "name": "TIN FU COURT"
+        },
+        {
+          "value": 713031680,
+          "name": "KAM PENG ESTATE"
+        },
+        {
+          "value": 713031681,
+          "name": "PENG LAI COURT"
+        },
+        {
+          "value": 763363328,
+          "name": "LONG SHIN ESTATE"
+        },
+        {
+          "value": 763363329,
+          "name": "FUNG TING COURT"
+        },
+        {
+          "value": 864026624,
+          "name": "CHEUNG CHING ESTATE"
+        },
+        {
+          "value": 864026625,
+          "name": "CHEUNG HONG ESTATE"
+        },
+        {
+          "value": 864026626,
+          "name": "CHING SHING COURT"
+        },
+        {
+          "value": 864026627,
+          "name": "CHING WAH COURT"
+        },
+        {
+          "value": 864026628,
+          "name": "CHING CHUN COURT"
+        },
+        {
+          "value": 864026629,
+          "name": "CHING FU COURT"
+        },
+        {
+          "value": 872415232,
+          "name": "CHEUNG FAT ESTATE"
+        },
+        {
+          "value": 872415233,
+          "name": "CHEUNG HANG ESTATE"
+        },
+        {
+          "value": 872415234,
+          "name": "CHEUNG ON ESTATE"
+        },
+        {
+          "value": 872415235,
+          "name": "FUK LOI ESTATE"
+        },
+        {
+          "value": 872415236,
+          "name": "TSING YI ESTATE"
+        },
+        {
+          "value": 872415237,
+          "name": "CHEUNG WANG ESTATE"
+        },
+        {
+          "value": 872415238,
+          "name": "EASEFUL COURT"
+        },
+        {
+          "value": 872415239,
+          "name": "CHING NGA COURT"
+        },
+        {
+          "value": 872415240,
+          "name": "CHING TAI COURT"
+        },
+        {
+          "value": 872415241,
+          "name": "SERENE GARDEN"
+        },
+        {
+          "value": 872415242,
+          "name": "CHING WANG COURT"
+        },
+        {
+          "value": 872415243,
+          "name": "BROADVIEW GARDEN"
+        },
+        {
+          "value": 872415244,
+          "name": "MOON LOK DAI HA"
+        },
+        {
+          "value": 872415245,
+          "name": "TIVOLI GARDEN"
+        },
+        {
+          "value": 872415246,
+          "name": "GREENVIEW VILLA"
+        },
+        {
+          "value": 964689920,
+          "name": "AP LEI CHAU ESTATE"
+        },
+        {
+          "value": 964689921,
+          "name": "LEI TUNG ESTATE"
+        },
+        {
+          "value": 964689922,
+          "name": "YUE ON COURT"
+        },
+        {
+          "value": 973078528,
+          "name": "SHEK PAI WAN ESTATE"
+        },
+        {
+          "value": 973078529,
+          "name": "WAH FU I ESTATE"
+        },
+        {
+          "value": 973078530,
+          "name": "WAH FU II ESTATE"
+        },
+        {
+          "value": 973078531,
+          "name": "WAH KWAI ESTATE"
+        },
+        {
+          "value": 973078532,
+          "name": "TIN WAN ESTATE"
+        },
+        {
+          "value": 973078533,
+          "name": "KA LUNG COURT"
+        },
+        {
+          "value": 973078534,
+          "name": "YUE FAI COURT"
+        },
+        {
+          "value": 973078535,
+          "name": "OCEAN COURT"
+        },
+        {
+          "value": 973078536,
+          "name": "HUNG FUK COURT"
+        },
+        {
+          "value": 973078537,
+          "name": "YUE YING LAU"
+        },
+        {
+          "value": 973078538,
+          "name": "YUE KWONG CHUEN"
+        },
+        {
+          "value": 973078539,
+          "name": "HARMONY PLACE"
+        },
+        {
+          "value": 981467136,
+          "name": "SAI WAN ESTATE"
+        },
+        {
+          "value": 981467137,
+          "name": "KWUN LUNG LAU"
+        },
+        {
+          "value": 981467138,
+          "name": "HOLLYWOOD TERRACE"
+        },
+        {
+          "value": 981467139,
+          "name": "CAYMAN RISE"
+        },
+        {
+          "value": 998244352,
+          "name": "WING CHEONG ESTATE"
+        },
+        {
+          "value": 998244353,
+          "name": "WAH LAI ESTATE"
+        },
+        {
+          "value": 998244354,
+          "name": "NAM CHEONG ESTATE"
+        },
+        {
+          "value": 998244355,
+          "name": "FU CHEONG ESTATE"
+        },
+        {
+          "value": 998244356,
+          "name": "LAI KOK ESTATE"
+        },
+        {
+          "value": 998244357,
+          "name": "LAI ON ESTATE"
+        },
+        {
+          "value": 998244358,
+          "name": "LEI CHENG UK ESTATE"
+        },
+        {
+          "value": 998244359,
+          "name": "LAI KING ESTATE"
+        },
+        {
+          "value": 998244360,
+          "name": "HOI LAI ESTATE"
+        },
+        {
+          "value": 998244361,
+          "name": "UN CHAU ESTATE"
+        },
+        {
+          "value": 998244362,
+          "name": "FORTUNE ESTATE"
+        },
+        {
+          "value": 998244363,
+          "name": "SO UK ESTATE"
+        },
+        {
+          "value": 998244364,
+          "name": "CHEUNG SHA WAN ESTATE"
+        },
+        {
+          "value": 998244365,
+          "name": "HOI YING ESTATE"
+        },
+        {
+          "value": 998244366,
+          "name": "LAI TSUI COURT"
+        },
+        {
+          "value": 998244367,
+          "name": "HOI TAT ESTATE"
+        },
+        {
+          "value": 998244368,
+          "name": "YEE CHING COURT"
+        },
+        {
+          "value": 998244369,
+          "name": "PO HEI COURT"
+        },
+        {
+          "value": 998244370,
+          "name": "PO LAI COURT"
+        },
+        {
+          "value": 998244371,
+          "name": "YEE KOK COURT"
+        },
+        {
+          "value": 998244372,
+          "name": "LAI YAN COURT"
+        },
+        {
+          "value": 998244373,
+          "name": "HANG CHUN COURT"
+        },
+        {
+          "value": 998244374,
+          "name": "YIN LAI COURT"
+        },
+        {
+          "value": 998244375,
+          "name": "TSUI YIU COURT"
+        },
+        {
+          "value": 998244376,
+          "name": "YUET LAI COURT"
+        },
+        {
+          "value": 998244377,
+          "name": "CHING LAI COURT"
+        },
+        {
+          "value": 998244378,
+          "name": "HOI TAK COURT"
+        },
+        {
+          "value": 998244379,
+          "name": "HOI LOK COURT"
+        },
+        {
+          "value": 998244380,
+          "name": "CHO YIU CHUEN"
+        },
+        {
+          "value": 998244381,
+          "name": "HIGHLAND PARK"
+        },
+        {
+          "value": 998244382,
+          "name": "HEYA AQUA"
+        },
+        {
+          "value": 998244383,
+          "name": "HEYA CRYSTAL"
+        },
+        {
+          "value": 998244384,
+          "name": "HEYA DELIGHT"
+        },
+        {
+          "value": 998244385,
+          "name": "HEYA STAR"
+        }
+      ]
+    },
+    "providerEnumTypes": {
+      "name": "Public Housing Provider",
+      "valueType": "UINT8",
+      "values": [
+        {
+          "value": 0,
+          "name": "Housing Authority"
+        },
+        {
+          "value": 1,
+          "name": "Housing Society"
+        }
+      ]
+    },
+    "housingEnumTypes": {
+      "name": "Public Housing Provider",
+      "valueType": "UINT8",
+      "values": [
+        {
+          "value": 1,
+          "name": "Public Rental Housing"
+        },
+        {
+          "value": 2,
+          "name": "Public Rental Housing - Buy or Rent Option"
+        },
+        {
+          "value": 3,
+          "name": "Public Rental Housing - Interim Housing"
+        },
+        {
+          "value": 4,
+          "name": "The Tanner Hill"
+        },
+        {
+          "value": 5,
+          "name": "Tenants Purchase Scheme"
+        },
+        {
+          "value": 6,
+          "name": "Home Ownership Scheme"
+        },
+        {
+          "value": 7,
+          "name": "Green Form Subsidised Home Ownership Scheme"
+        },
+        {
+          "value": 8,
+          "name": "Mortgage Subsidy Scheme"
+        },
+        {
+          "value": 9,
+          "name": "Flat-For-Sale Schem"
+        },
+        {
+          "value": 10,
+          "name": "Urban Imporvement Scheme"
+        },
+        {
+          "value": 11,
+          "name": "Sandwihc Class Housing Scheme"
+        },
+        {
+          "value": 12,
+          "name": "Sandwich Class Housing Scheme"
+        },
+        {
+          "value": 13,
+          "name": "Senior Citizen Residences Scheme"
+        },
+        {
+          "value": 14,
+          "name": "Urban Renewal Project"
+        },
+        {
+          "value": 15,
+          "name": "Subsidised Sale Flats Project"
+        },
+        {
+          "value": 16,
+          "name": "Interim Housing"
+        },
+        {
+          "value": 17,
+          "name": "Flatted Factories"
+        },
+        {
+          "value": 18,
+          "name": "Commercial Leasing"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "layer": "building",
+      "attribute": "buildingIID"
+    }
+  ],
+  "selection": "publicHousingIID",
+  "featuresDir": "publicHousing",
+  "featuresTileDepth": 4
+}

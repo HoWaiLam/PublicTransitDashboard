@@ -1,0 +1,302 @@
+{
+  "features": [
+    {
+      "attributes": [
+        356515840,
+        1,
+        [
+          [
+            3617000306,
+            5,
+            "\u83ef\u8a18\u96de\u9d28",
+            "SHOP TC-5, YAT TUNG MARKET, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515861
+        ]
+      ],
+      "coordinate": [
+        1.988594298418267,
+        0.38887798346412916,
+        11.899999618530273
+      ],
+      "halfSize": [
+        6.348499999847263,
+        9.87749999947846,
+        3.799999713897705
+      ]
+    },
+    {
+      "attributes": [
+        356515841,
+        1,
+        [
+          [
+            2917802557,
+            4,
+            "\u6488\u5f97\u597d",
+            "SHOP A, G/F., NO. 98 MA WAN CHUNG VILLAGE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515955
+        ]
+      ],
+      "coordinate": [
+        1.988552454288508,
+        0.38892480760795983,
+        8.350000381469727
+      ],
+      "halfSize": [
+        5.9575000000186265,
+        4.86600000038743,
+        3.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        356515842,
+        5,
+        [
+          [
+            2117800076,
+            1,
+            "KING BAKERY",
+            "SHOP NO. 21, G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-03-02"
+          ],
+          [
+            2917000081,
+            4,
+            "7-Eleven",
+            "SHOP 8 (PORTION B), G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            2917801101,
+            4,
+            "BAO DIM SIN SENG",
+            "SHOP 30-31, G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-06"
+          ],
+          [
+            2917804447,
+            4,
+            "Maxim's On Site Bakery",
+            "SHOP 5, G/F., YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ],
+          [
+            3217000029,
+            6,
+            "7-Eleven",
+            "SHOP 8 (PORTION A), G/F, YAT TUNG SHOPPING CENTRE, YAT TUNG ESTATE, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356515987
+        ]
+      ],
+      "coordinate": [
+        1.9885390353422379,
+        0.3888852513205191,
+        15.649999618530273
+      ],
+      "halfSize": [
+        35.39446000009775,
+        63.653440000489354,
+        8.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        356515843,
+        4,
+        [
+          [
+            2917802195,
+            4,
+            "(no record found)",
+            "PORTION A OF PATIENT FOOD AREA, G/F., NORTH LANTAU HOSPITAL, 8 CHUNG YAN ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-06"
+          ],
+          [
+            2917802274,
+            4,
+            "(No record found)",
+            "PORTION B OF PATIENT FOOD AREA, G/F, NORTH LANTAU HOSPITAL, 8 CHUNG YAN ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            2917802283,
+            4,
+            "(no record found)",
+            "PORTION C OF PATIENT FOOD AREA, G/F., NORTH LANTAU HOSPITAL, 8 CHUNG YAN ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            2917802548,
+            4,
+            "ORIGINAL TASTE WORKSHOP",
+            "PORTION B OF 1/F, NORTH LANTAU HOSPITAL, NO. 8 CHUNG YAN ROAD, TUNG CHUNG, LANTAU ISLAND, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516543
+        ]
+      ],
+      "coordinate": [
+        1.9886167476307848,
+        0.3888983494093201,
+        18.25
+      ],
+      "halfSize": [
+        91.09074999997392,
+        71.24589499924332,
+        6.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        356515844,
+        8,
+        [
+          [
+            2917803125,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP G03, G/F., JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2917803523,
+            4,
+            "FAIRY BAKERY",
+            "SHOP G05, GROUND FLOOR, JOYSMARK SHOPPING CENTRE, MUN TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2917804465,
+            4,
+            "\u9673\u8a18\u5229\u4fe1",
+            "(REAR PORTION) STALL NO. MT4, G/F, MARKET, JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2917804702,
+            4,
+            "(No Record Found)",
+            "STALL NO. MT15, G/F, MARKET, JOYSMARK, MUN TUNG ESTATE, 7 CHUNG MUN ROAD, TUNG CHUNG, HONG KONG",
+            null,
+            "2026-11-23"
+          ],
+          [
+            3617800876,
+            5,
+            "\u967d\u5149\u8fb2\u5834",
+            "STALL NO. MT30, G/F, MARKET, JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            3617800885,
+            5,
+            "\u5408\u548c\u9bae\u8089",
+            "STALL NO. MT7, G/F., MARKET, JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-11"
+          ],
+          [
+            3617800919,
+            5,
+            "\u9bae\u9b5a\u8ca9",
+            "STALL NO. MT18-MT22, G/F, MARKET, JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-30"
+          ],
+          [
+            3517800307,
+            8,
+            "\u9673\u8a18\u5229\u4fe1",
+            "(FRONT PORTION) STALL NO. MT4, G/F, MARKET, JOYSMARK, MUN TUNG ESTATE, TUNG CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516681
+        ]
+      ],
+      "coordinate": [
+        1.9885161932063968,
+        0.38881302489799324,
+        12.149999618530273
+      ],
+      "halfSize": [
+        52.15641500009224,
+        44.02399000059813,
+        4.349999904632568
+      ]
+    },
+    {
+      "attributes": [
+        356515845,
+        1,
+        [
+          [
+            2917804650,
+            4,
+            "Central Food Production Unit",
+            "G/F (PORTION A & B) & 4/F (PORTION A), HOSPITAL AUTHORITY SUPPORTING SERVICES CENTRE, 8 CHUI KWAN DRIVE, TUNG CHUNG, LANTAU ISLAND, HONG KONG",
+            null,
+            "2026-09-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          356516755
+        ]
+      ],
+      "coordinate": [
+        1.9886441457948831,
+        0.3889185666983418,
+        42.39999771118164
+      ],
+      "halfSize": [
+        62.775840000249445,
+        67.85050000064075,
+        24.299999237060547
+      ]
+    }
+  ]
+}

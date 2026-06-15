@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1063256064,
+        2,
+        [
+          [
+            2296800117,
+            0,
+            "\u725b\u725b\u51b0\u5ba4",
+            "SHOP NOS. 11, 12, 13, 14, 15 & 16, G/F, COMMERCIAL COMPLEX, WING FOK CENTRE, NO. 1 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2296802380,
+            0,
+            "\u91d1\u83ef\u725b\u96dc\u7c89\u9eb5",
+            "SHOP NO. 1-2, G/F, WING FOK CENTRE, 1 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063257147
+        ]
+      ],
+      "coordinate": [
+        1.9921462830101064,
+        0.3927187478881208,
+        16.149999618530273
+      ],
+      "halfSize": [
+        26.97800000011921,
+        19.04299999959767,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1063256065,
+        1,
+        [
+          [
+            2296802007,
+            0,
+            "King Harbour Seafood Restaurant",
+            "SHOP B, LEVEL 1, BELAIR MONTE, 3 MA SIK ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063257233
+        ]
+      ],
+      "coordinate": [
+        1.992210994230012,
+        0.39272681671395177,
+        16.649999618530273
+      ],
+      "halfSize": [
+        86.4413199997507,
+        78.36965999938548,
+        5.75
+      ]
+    },
+    {
+      "attributes": [
+        1063256066,
+        11,
+        [
+          [
+            2296803125,
+            0,
+            "Fairwood Fast Food",
+            "SHOP 26 AND 27, G/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ],
+          [
+            2296803152,
+            0,
+            "Lime Fish",
+            "SHOP NO. 28-29, G/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2296803170,
+            0,
+            "MOON8IGHT",
+            "SHOP 101, 1/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            2296803189,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO 11, G/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2296803213,
+            0,
+            "IMPERIAL PALACE",
+            "SHOP NO. 208, PODIUM 2/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2296803259,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP NO. 207, PODIUM 2/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2296803383,
+            0,
+            "SEASONS CAFE / THE EIGHTIES",
+            "SHOP NO. 209, P2/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-09"
+          ],
+          [
+            2296803815,
+            0,
+            "\u592a\u5b50\u7f8e\u98df\u574a",
+            "STALL NOS. MK6-MK14, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE,QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            3196800832,
+            1,
+            "CHIU KEE NOODLES",
+            "SHOP 104, PODIUM FIRST FLOOR, QUEEN'S HILL SHOPPING CENTRE, QUEEN'S HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-06"
+          ],
+          [
+            3196800841,
+            1,
+            "YAN WO TONG HERBAL JELLY SHOP",
+            "SHOP 30, G/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            3196801020,
+            1,
+            "KOREAN SISTER SNACK",
+            "SHOP 3, G/F, QUEEN'S HILL SHOPPING CENTRE, QUEEN'S HILL ESTATE, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063257338
+        ]
+      ],
+      "coordinate": [
+        1.9924203281224493,
+        0.3927625704824601,
+        33.75
+      ],
+      "halfSize": [
+        33.005940000060946,
+        39.37244000006467,
+        8.34999942779541
+      ]
+    }
+  ]
+}

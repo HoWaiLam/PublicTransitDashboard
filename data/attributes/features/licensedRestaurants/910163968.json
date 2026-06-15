@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        910163968,
+        2,
+        [
+          [
+            2292001341,
+            0,
+            "Tso Kung Tam Outdoor Recreation Centre",
+            "PORTION OF 6/F, TSO KUNG TAM OUTDOOR RECREATION CENTRE, ROUTE TWISK, TSO KUNG TAM, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            3192000373,
+            1,
+            "Tso Kung Tam Outdoor Recreation Centre",
+            "LEVEL 1 (PORTION) & LEVEL 2 (PORTION)TSO KUNG TAM OUTDOOR RECREATION CENTRE, ROUTE TWISK, TSO KUNG TAM, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          910164086
+        ]
+      ],
+      "coordinate": [
+        1.9915261949310443,
+        0.3907088035144771,
+        143.14999389648438
+      ],
+      "halfSize": [
+        41.55547000002116,
+        24.619500000029802,
+        9.25
+      ]
+    }
+  ]
+}

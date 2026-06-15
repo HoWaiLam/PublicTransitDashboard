@@ -1,0 +1,711 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1059061760,
+        12,
+        [
+          [
+            2196800143,
+            1,
+            "Mama Bakery",
+            "SHOP NOS. R101-R106 (MINOR PORTION), 1/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2996802101,
+            4,
+            "Richly Food",
+            "SHOP NO. R116, 1/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2996803441,
+            4,
+            "\u6cf0\u8b58\u91ce",
+            "SHOP NO. S02, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2996803548,
+            4,
+            "Sam Mui Kitchen",
+            "SHOP NO. S30, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3696800527,
+            5,
+            "Park'N Shop",
+            "PORTIONS OF SHOP NOS. R32 & R33, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            3696801353,
+            5,
+            "\u528f\u5230\u7b11",
+            "SHOP NO. S06, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ],
+          [
+            3696801414,
+            5,
+            "SMART FOOD",
+            "SHOP NO. S11 & 12, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            3696801423,
+            5,
+            "\u9818\u9bae",
+            "SHOP NO. S15, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, NEW TERRITORIES",
+            null,
+            "2026-08-16"
+          ],
+          [
+            3696801432,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "SHOP NO. S13 & 14, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-01"
+          ],
+          [
+            3696801450,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "SHOP NO. S26, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-20"
+          ],
+          [
+            3296800091,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. R31, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-30"
+          ],
+          [
+            4596800437,
+            8,
+            "No Record",
+            "SHOP NO. S31, G/F, WAH SUM SHOPPING CENTRE, WAH SUM ESTATE, 18 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059062619
+        ]
+      ],
+      "coordinate": [
+        1.9921553460345724,
+        0.39246663869529363,
+        24.299999237060547
+      ],
+      "halfSize": [
+        32.6199999996461,
+        26.535624999552965,
+        5.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1059061761,
+        27,
+        [
+          [
+            2996802147,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO. G35, G/F, COMMERCIAL/CAR PARK BLOCKS (ALSO KNOWN AS WAH MING SHOPPING CENTRE), WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2996802411,
+            4,
+            "\u798f\u8a18\u6ef7\u5473",
+            "STALL F-WM 41(PORTION A), WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2996802439,
+            4,
+            "\u7687\u540e\u9903\u5b50",
+            "STALL F-WM 4, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2996802448,
+            4,
+            "\u6a02\u65af\u9eb5\u5305",
+            "STALL F-WM 2, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2996802466,
+            4,
+            "\u6afb\u6afb\u8eca\u4ed4\u9eb5\u6a94",
+            "STALL F-WM 45, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ],
+          [
+            2996802475,
+            4,
+            "\u5305\u9ede\u5148\u751f",
+            "STALL F-WM 3, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2996802484,
+            4,
+            "\u7965\u8c50\u7f8e\u98df",
+            "STALL F-WM 11, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-02"
+          ],
+          [
+            2996802509,
+            4,
+            "\u71d2\u8ce3\u738b\u5b50",
+            "STALL F-WM 1, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2996802527,
+            4,
+            "\u70ab\u54c1\u98df\u574a",
+            "STALL F-WM 47, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2996802554,
+            4,
+            "Wah Ming Food Court",
+            "STALL F-WM 46, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2996802882,
+            4,
+            "\u5cb1\u6c11\u83ef\u660e\u5e97",
+            "SHOP NO. G08, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE , FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2996804347,
+            4,
+            "\u5927\u68e7\u71d2\u81d8",
+            "PORTION A OF STALL F-WM20A, G/F, WAH MING MARKET, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            2996804444,
+            4,
+            "\u5bb6\u5bb6\u5c0f\u5403",
+            "STALL F-WM 5, WAH MING MARKET, G/F., WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            3696800837,
+            5,
+            "\u6f01\u5e02",
+            "STALL F-WM 21 & 32, G/F, WAH MING MARKET, WAH MING SHOPPING CENTRE, WAH MING ESTATE , NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3696800846,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL F-WM 37-38, G/F, WAH MING MARKET, WAH MING SHOPPING CENTRE, WAH MING ESTATE , NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            3696800855,
+            5,
+            "\u80a5\u5efa\u9bae\u9b5a",
+            "STALL F-WM 23, G/F, WAH MING MARKET, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO.21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-22"
+          ],
+          [
+            3696800864,
+            5,
+            "S-MART FOOD",
+            "STALL F-WM 18-19, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            3696800882,
+            5,
+            "\u5efa\u83ef\u8fb2\u7267",
+            "STALL F-WM 40, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            3696800891,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL F-WM 35, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            3696800916,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL F-WM 15, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ],
+          [
+            3696800925,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL F-WM 13, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            3696800934,
+            5,
+            "\u751f\u8a18\u6d77\u9bae",
+            "STALL F-WM 22, G/F, WAH MING MARKET, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ],
+          [
+            3696800998,
+            5,
+            "\u725b\u820d",
+            "STALL F-WM 14, WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-03-15"
+          ],
+          [
+            3696801247,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP NOS. G39, G40, G41 AND G42, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ],
+          [
+            3696801830,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. G14A, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-16"
+          ],
+          [
+            3596800182,
+            8,
+            "\u798f\u8a18\u6ef7\u5473",
+            "STALL F-WM 41(PORTION B), WAH MING MARKET, G/F, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            3596800313,
+            8,
+            "\u5927\u68e7\u71d2\u81d8",
+            "PORTION B OF STALL F-WM20A, G/F, WAH MING MARKET, WAH MING SHOPPING CENTRE, WAH MING ESTATE, NO. 21 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059062846
+        ]
+      ],
+      "coordinate": [
+        1.9921384506802269,
+        0.39241994361911825,
+        27.049999237060547
+      ],
+      "halfSize": [
+        57.60800000000745,
+        48.94150000065565,
+        4.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1059061762,
+        14,
+        [
+          [
+            2996801436,
+            4,
+            "Circle K Convenience Store",
+            "PORTION OF SHOP NO. 12, G/F, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2996802378,
+            4,
+            "\u5cb1\u6c11(\u7c89\u5dba\u5e97)",
+            "STALL NO. 2A, G/F MARKET, YUNG SHING SHOPPING CENTRE,YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2996804189,
+            4,
+            "HEUNG MAK TIN",
+            "SHOP NO. 17, G/F, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ],
+          [
+            4996804868,
+            4,
+            "No Record",
+            "SHOPSTALL NO.18, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            3696000190,
+            5,
+            "\u5bcc\u661f",
+            "SHOPSTALL NO 17, G/F MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-27"
+          ],
+          [
+            3696800767,
+            5,
+            "\u9806\u660c\u6d77\u9bae",
+            "SHOPSTALL NO. 27, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ],
+          [
+            3696800800,
+            5,
+            "\u96cd\u76db\u8089\u67b1",
+            "SHOPSTALL NO. 16, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            3696800819,
+            5,
+            "\u96cd\u76db\u9bae\u9b5a",
+            "STALL NO. 21, GROUND FLOOR, YUNG SHING MARKET, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            3696801201,
+            5,
+            "\u96cd\u76db\u6d77\u9bae",
+            "SHOPSTALL NO. 26, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            3696801335,
+            5,
+            "\u5be6\u60e0\u8089\u98df\u5c08\u9580\u5e97",
+            "SHOPSTALL NO. 3, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ],
+          [
+            3696801371,
+            5,
+            "\u6d77\u806f\u671b",
+            "SHOPSTALL NO. 15, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ],
+          [
+            3696801405,
+            5,
+            "\u91d1\u65fa\u51cd\u8089\u8d85\u5e02",
+            "SHOPSTALL NOS. 24 & 25, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            3696801636,
+            5,
+            "\u751f\u9c7b",
+            "SHOPSTALL NO. 28, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            3596800173,
+            8,
+            "\u9418\u9f0e\u71d2\u81d8",
+            "SHOPSTALL NO. 1-2, G/F, MARKET, YUNG SHING SHOPPING CENTRE, YUNG SHING COURT, 22 WAH MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059062972
+        ]
+      ],
+      "coordinate": [
+        1.992096375501319,
+        0.3923967408302638,
+        34.099998474121094
+      ],
+      "halfSize": [
+        82.45024499995634,
+        61.511570000089705,
+        9.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1059061763,
+        1,
+        [
+          [
+            2996803919,
+            4,
+            "D.O.T. Bakery",
+            "SHOP NO. G6 & G7A, G/F, DAWNING VIEWS, 23 YAT MING ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059063090
+        ]
+      ],
+      "coordinate": [
+        1.992192823180116,
+        0.3924741080404947,
+        21.299999237060547
+      ],
+      "halfSize": [
+        110.20553500019014,
+        86.29999999981374,
+        5.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1059061764,
+        20,
+        [
+          [
+            2996000680,
+            4,
+            "\u5927\u548c",
+            "SHOP NO A48, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2996800275,
+            4,
+            "\u70ba\u98df\u5572",
+            "SHOP NO. 32, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-12"
+          ],
+          [
+            2996801986,
+            4,
+            "Cottage F",
+            "SHOP 85B, G/F, FLORA PLAZA, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2996802545,
+            4,
+            "Tsui Hing Lau",
+            "SHOP NO. 8, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2027-03-05"
+          ],
+          [
+            2996802633,
+            4,
+            "\u8ce2\u6cb3\u5c0f\u98df\u5e97",
+            "SHOP 126, G/F, FLORA PLAZA, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2996802679,
+            4,
+            "ZEPPELIN HOT DOG SHOP",
+            "SHOP A74, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2996802855,
+            4,
+            "SUSHI TAKE - OUT",
+            "SHOP NO. 90, GROUND FLOOR, FLORA PLAZA, NO. 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-30"
+          ],
+          [
+            2996802916,
+            4,
+            "Fall in Tea",
+            "SHOP A51, G/F, FLORA PLAZA, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2996803867,
+            4,
+            "Tong Kee Bao Dim",
+            "SHOP 88, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-08"
+          ],
+          [
+            2996804000,
+            4,
+            "Yoshinoya",
+            "SHOP 86, G/F, FLORA PLAZA, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            2996804116,
+            4,
+            "Natural Bakery",
+            "SHOP NOS. A53-A54 & 127, G/F., FLORA PLAZA, FANLING, NEW TERRITORIES",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2996804240,
+            4,
+            "\u7cd6\u4f2f\u864e",
+            "SHOP A20, G/F, FLORA PLAZA, 88 PAK WAO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2996804499,
+            4,
+            "Kung Fu Tea",
+            "SHOP 79, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            4996804770,
+            4,
+            "Yummy Cat Street Food",
+            "SHOP 78, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            4996804840,
+            4,
+            "\u8c50\u5473\u70b8\u4e32",
+            "SHOP 77, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            4996804859,
+            4,
+            "\u591a\u591a\u5c0f\u98df",
+            "SHOP 125, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3696000288,
+            5,
+            "Wellcome",
+            "SHOP NO 132(PORTION A), LEVEL 1 FLORA PLAZA, FSSTL 113, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            4696801909,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP NOS. 84A & 84B, G/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            3296000099,
+            6,
+            "7-Eleven",
+            "SHOP NOS 22-24 (PORTION), G/F FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3596000029,
+            8,
+            "\u5bcc\u90fd",
+            "SHOP NO 13, G/F, FLORA PLAZA, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1059063091
+        ]
+      ],
+      "coordinate": [
+        1.9921427736828912,
+        0.3924443267109014,
+        25.649999618530273
+      ],
+      "halfSize": [
+        99.0749999997206,
+        92.2749999994412,
+        4.75
+      ]
+    }
+  ]
+}

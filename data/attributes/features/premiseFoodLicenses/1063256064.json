@@ -1,0 +1,367 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1063256064,
+        1,
+        [
+          [
+            2896800070,
+            2,
+            "No Record",
+            "G/F (PORTION), NO. 31A MA LIU SHUI SAN TSUEN,LOT NO. 755 IN D.D. 83, FANLING, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063256593
+        ]
+      ],
+      "coordinate": [
+        1.9924448020650039,
+        0.3928186179408951,
+        17.0
+      ],
+      "halfSize": [
+        21.569414999801666,
+        16.842990000732243,
+        4.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1063256065,
+        1,
+        [
+          [
+            2996804301,
+            4,
+            "\u5cb1\u6c11\u7687\u540e\u5c71\u5e97",
+            "MK 23, 1/F, QUEEN'S HILL SHOPPING CENTRE, QUEEN'S HILL ESTATE, 66 LUNG MA ROAD, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063256945
+        ]
+      ],
+      "coordinate": [
+        1.9923783202699779,
+        0.392765238818867,
+        14.549999237060547
+      ],
+      "halfSize": [
+        14.43500000005588,
+        21.764999999664724,
+        2.249999523162842
+      ]
+    },
+    {
+      "attributes": [
+        1063256066,
+        2,
+        [
+          [
+            3696800697,
+            5,
+            "PARKnSHOP",
+            "STALL NO. 1 & PORTIONS OF PORTION OF COMMERCIAL UNITS ON THE GROUND FLOOR OF COMMERCIAL BLOCK WING FAI CENTRE, 2-10 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3696800828,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTION OF SHOP NO. 1, G/F, WING FAI CENTRE, 2-10 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2026-08-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063257145
+        ]
+      ],
+      "coordinate": [
+        1.9921591161989662,
+        0.39271945355280663,
+        18.049999237060547
+      ],
+      "halfSize": [
+        29.755635000299662,
+        17.469074999913573,
+        6.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1063256067,
+        6,
+        [
+          [
+            2996000334,
+            4,
+            "\u5f37\u8a18\u7f8e\u5473\u71d2",
+            "SHOP 106 & 107, G/F COMMERCIAL BLOCK, WING FOK CENTRE, 1 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2996801302,
+            4,
+            "\u516c\u9801\u65e5\u65a4\u6d77\u5357\u96de",
+            "SHOP 94 & 103, G/F, WING FOK CENTRE, 1 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2996802572,
+            4,
+            "TASTEA",
+            "SHOP NOS. 109 & 88, G/F, WING FOK CENTRE COMMERCIAL COMPLEX, 1 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2027-03-24"
+          ],
+          [
+            2996802624,
+            4,
+            "\u9999\u6e2f\u8857\u982d\u5c0f\u98df",
+            "SHOP 9 ON G/F, WING FOK CENTRE, 1 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2996802970,
+            4,
+            "\u5c4b\u53f0",
+            "SHOP NOS. 27 & 28, G/F, WING FOK CENTRE COMMERCIAL COMPLEX, 1 LUEN CHIT STREET, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2996804125,
+            4,
+            "\u9673\u8a18\u77f3\u78e8\u8178\u7c89",
+            "SHOP 87 & 110, G/F, WING FOK CENTRE COMMERCIAL COMPLEX, 1 LUEN CHIT STREET, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063257147
+        ]
+      ],
+      "coordinate": [
+        1.9921462830101064,
+        0.3927187478881208,
+        16.149999618530273
+      ],
+      "halfSize": [
+        26.97800000011921,
+        19.04299999959767,
+        4.25
+      ]
+    },
+    {
+      "attributes": [
+        1063256068,
+        21,
+        [
+          [
+            2996803405,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 6, G/F., QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2996803593,
+            4,
+            "PARKnSHOP",
+            "STALL NO. 1, SHOP NO. 17, G/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2996803663,
+            4,
+            "KUNG FU TEA (QUEENS HILL ESTATE)",
+            "SHOP NO. 105, PODIUM FIRST FLOOR, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2996803779,
+            4,
+            "ON TAI ROASTED MEAT SHOP",
+            "MAJOR PORTION OF SHOP NO. 102, PODIUM FIRST FLOOR, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2996803821,
+            4,
+            "\u660e\u5bcc\u71d2\u5473",
+            "REAR PORTION OF STALL NOS. MK-37 & MK-38, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2996804408,
+            4,
+            "\u548c\u8a18\u96f2\u9903",
+            "STALL NO. MK-21, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2996804505,
+            4,
+            "\u6488\u5f97\u6382",
+            "STALL NO. MK-25, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            3696801478,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 17, G/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ],
+          [
+            3696801496,
+            5,
+            "Gold Rich Gourmet Shop",
+            "STALL NOS. MK 49-54 & MK 57-62, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            3696801502,
+            5,
+            "\u6d77\u65e5",
+            "STALL NOS. MK-31 & MK-44, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            3696801511,
+            5,
+            "\u5be6\u60e0\u8089\u98df\u5c08\u9580\u5e97",
+            "STALL NOS. MK-46 & MK-47, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            3696801566,
+            5,
+            "\u660e\u5bcc\u8089\u98df\u516c\u53f8",
+            "STALL NO. MK-27, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            3696801575,
+            5,
+            "\u7687\u540e\u9bae\u9b5a",
+            "STALL NO. MK-15, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ],
+          [
+            3696801584,
+            5,
+            "\u5ee3\u6771\u8089\u98df\u516c\u53f8",
+            "STALL NO. MK-41, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            3696801894,
+            5,
+            "\u73cd\u73cd\u6d77\u9bae",
+            "STALL NO.30 OF THE FRESH ONE MARKET, QUEENS HILL AT P1/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-03-05"
+          ],
+          [
+            3696801900,
+            5,
+            "\u6a02\u6e90\u725b\u8089",
+            "STALL NO. MK-20, P1/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ],
+          [
+            3696801973,
+            5,
+            "\u7687\u5c1a\u9bae\u9b5a",
+            "PORTION OF STALL NO. MK-01, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-11-30"
+          ],
+          [
+            4696801884,
+            5,
+            "365 Days",
+            "PORTIONS OF SHOP NO. 5, G/F, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NORTH, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ],
+          [
+            3596800270,
+            8,
+            "ON TAI ROASTED MEAT SHOP",
+            "MINOR PORTION OF SHOP NO. 102, PODIUM FIRST FLOOR, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2027-01-26"
+          ],
+          [
+            3596800289,
+            8,
+            "\u660e\u5bcc\u71d2\u5473",
+            "FRONT PORTION OF STALL NOS. MK-37 & MK-38, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            3596800298,
+            8,
+            "\u6797\u8a18\u9e75\u6c34",
+            "STALL NO. MK-34, P1/F, MARKET, QUEENS HILL SHOPPING CENTRE, QUEENS HILL ESTATE, FANLING, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1063257338
+        ]
+      ],
+      "coordinate": [
+        1.9924203281224493,
+        0.3927625704824601,
+        33.75
+      ],
+      "halfSize": [
+        33.005940000060946,
+        39.37244000006467,
+        8.34999942779541
+      ]
+    }
+  ]
+}

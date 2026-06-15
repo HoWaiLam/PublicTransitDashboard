@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        637534208,
+        1,
+        [
+          [
+            2993811199,
+            4,
+            "SAHK Siu Lam Greenery Villa Food Processing Unit",
+            "ROOM FF01, 3/F, LOW BLOCK, SIU LAM INTEGRATED REHABILITATION SERVICES COMPLEX, 12 HONG FAI ROAD, SIU LAM, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          637534541
+        ]
+      ],
+      "coordinate": [
+        1.9899293833048268,
+        0.39035181173904065,
+        68.6500015258789
+      ],
+      "halfSize": [
+        41.89795499993488,
+        33.88970500044525,
+        9.650001525878906
+      ]
+    }
+  ]
+}

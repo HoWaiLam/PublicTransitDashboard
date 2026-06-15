@@ -1,0 +1,1174 @@
+{
+  "features": [
+    {
+      "attributes": [
+        511705088,
+        1,
+        [
+          [
+            2993801435,
+            4,
+            "\u5c55\u6bc5\u4e2d\u5fc3",
+            "PORTION OF G/F, MEI TAI HOUSE, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511706347
+        ]
+      ],
+      "coordinate": [
+        1.9893915600525611,
+        0.39118089302814973,
+        67.44999694824219
+      ],
+      "halfSize": [
+        26.947689999826252,
+        24.802895000204444,
+        56.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        511705089,
+        1,
+        [
+          [
+            2993800113,
+            4,
+            "Hung Fook Tong Health Express",
+            "SHOP NO. 31 AT UNPAID CONCOURSE, SIU HONG STATION, WEST RAIL, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511706431
+        ]
+      ],
+      "coordinate": [
+        1.9893064038683343,
+        0.39116066176399394,
+        16.5
+      ],
+      "halfSize": [
+        53.78482000017539,
+        106.34523999970406,
+        5.700000286102295
+      ]
+    },
+    {
+      "attributes": [
+        511705090,
+        1,
+        [
+          [
+            2993800317,
+            4,
+            "Maxim's",
+            "BLOCK D, MAIN KITCEN ON G/F, CASTLE PEAK HOPSITAL, 15 TSING CHUNG KOON ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511706725
+        ]
+      ],
+      "coordinate": [
+        1.9892000423303275,
+        0.39112465255401757,
+        29.0
+      ],
+      "halfSize": [
+        51.69499999983236,
+        39.251620000228286,
+        11.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        511705091,
+        2,
+        [
+          [
+            2993800636,
+            4,
+            "Cafe Fusion",
+            "PORTION, G/F, THE PROVIDENCE GARDEN FOR REHAB., 82 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2993802243,
+            4,
+            "ACORN BAKERY WORKSHOP",
+            "MINOR PORTION, 2/F, THE PROVIDENCE GARDEN FOR REHAB, 82 TSUN WEN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511706828
+        ]
+      ],
+      "coordinate": [
+        1.989139752300166,
+        0.3911058058140121,
+        43.19999694824219
+      ],
+      "halfSize": [
+        35.16000000014901,
+        31.798400000669062,
+        31.999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        511705092,
+        2,
+        [
+          [
+            2993800292,
+            4,
+            "Maxim's",
+            "MAIN BLOCK, MAIN KITCHEN ON G/F, TUEN MUN HOSPITAL, TSING CHUNG KOON ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2993802605,
+            4,
+            "SUPER SUPER",
+            "SHOP F, G/F, ATRIUM, MAIN BLOCK, TUEN MUN HOSPITAL, TSING CHUNG KOON ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511706925
+        ]
+      ],
+      "coordinate": [
+        1.9892621981308016,
+        0.39108329437329337,
+        27.099998474121094
+      ],
+      "halfSize": [
+        24.06696499977261,
+        50.279350000433624,
+        23.5
+      ]
+    },
+    {
+      "attributes": [
+        511705093,
+        7,
+        [
+          [
+            2993802669,
+            4,
+            "Wellcome",
+            "SHOP 207 & 208 (PORTION B), 1/F, KIN SANG SHOPPING CENTRE, KIN SANG ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            2993811153,
+            4,
+            "\u8336\u8272\u751f\u9999",
+            "SHOP NO. 123, G/F., COMMERCIAL BLOCK (ALSO KNOWN AS KIN SANG SHOPPING CENTRE), KIN SANG ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2993811162,
+            4,
+            "Gaolay",
+            "SHOP NO. 122, GROUND FLOOR, KIN SANG SHOPPING CENTRE, KIN SANG ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            2993811445,
+            4,
+            "\u5bae\u5d0e\u9eb5\u5305\u88fd\u4f5c\u6240",
+            "SHOP NOS.106 & 107, G/F, KIN SANG SHOPPING CENTRE, KIN SANG ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            3693800942,
+            5,
+            "Wellcome",
+            "SHOP 207 & 208 (PORTION A), 1/F, KIN SANG SHOPPING CENTRE, KIN SANG ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-15"
+          ],
+          [
+            3693803701,
+            5,
+            "\u9bae\u5473 x \u6f01\u5e02 x \u74b0\u7403\u6d77\u7522",
+            "PORTION B OF SHOP 109-110, G/F, KIN SANG SHOPPING CENTRE, KIN SANG ESTATE, 3 LEUNG WAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            3693803710,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834 \u00d7 S-MART FOOD",
+            "PORTION A OF SHOP 109-110, G/F, KIN SANG SHOPPING CENTRE, KIN SANG ESTATE, 3 LEUNG WAN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511706947
+        ]
+      ],
+      "coordinate": [
+        1.9891433291041547,
+        0.39107774437708837,
+        15.649999618530273
+      ],
+      "halfSize": [
+        37.13149999966845,
+        30.94249999988824,
+        5.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        511705094,
+        1,
+        [
+          [
+            3693801927,
+            5,
+            "Wellcome",
+            "SHOPS A & B (PORTIONS), G/F, THE SHERWOOD, 8 FUK HANG TSUEN ROAD, LAM TEI, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707015
+        ]
+      ],
+      "coordinate": [
+        1.989437080320209,
+        0.3912866387978643,
+        14.449999809265137
+      ],
+      "halfSize": [
+        42.10428500035778,
+        91.6837600003928,
+        3.0500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        511705095,
+        15,
+        [
+          [
+            2193800258,
+            1,
+            "MAK KUNG",
+            "SHOP 3 & 4, G/F, FU TAI MARKET, FU TAI SHOPPING CENTRE, FU TAI ESTATE, NO. 9 TUEN KWAI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            2193800285,
+            1,
+            "MAMA BAKERY",
+            "SHOP NO. 217 (PORTION B), 2/F, FU TAI SHOPPING CENTRE, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-31"
+          ],
+          [
+            2993001576,
+            4,
+            "Appolo (Magic House) Superstore Ltd.",
+            "SHOP NO. 204, FU TAI SHOPPING CENTRE, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2993808898,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "SHOPSTALL NO. 23A, G/F, FU TAI MARKET, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-15"
+          ],
+          [
+            2993811029,
+            4,
+            "Kung Fu Tea",
+            "SHOP NO. 101, 1/F, FU TAI SHOPPING CENTRE, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2993811667,
+            4,
+            "\u5bcc\u6cf0\u7f8e\u98df",
+            "STALL NO.13, G/F, FU TAI MARKET, FU TAI ESTATE, 9 TUEN KWAI ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3693800702,
+            5,
+            "\u5ee3\u6771\u8089\u98df\u516c\u53f8",
+            "SHOPSTALL NO. 39, G/F, MARKET, FU TAI SHOPPING CENTRE, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            3693802203,
+            5,
+            "\u661f\u83ef\u6d77\u9bae",
+            "SHOPSTALL NO. 20 & 21, G/F, FU TAI MARKET, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-16"
+          ],
+          [
+            3693802373,
+            5,
+            "PARKnSHOP",
+            "STALL NO. 1, 2 & PORTIONS OF SHOP NOS. 220-226, 2/F, FU TAI SHOPPING CENTRE, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-04"
+          ],
+          [
+            3693803075,
+            5,
+            "\u5be6\u60e0\u8089\u98df\u5c08\u9580\u5e97",
+            "SHOPSTALL NOS. 36 & 37, G/F, FU TAI MARKET, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            3693803127,
+            5,
+            "\u5a01\u5a01\u9bae\u9b5a",
+            "SHOPSTALL NO. 15-16, G/F, FU TAI MARKET, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-04"
+          ],
+          [
+            3693803242,
+            5,
+            "\u91d1\u65fa\u98df\u54c1\u8d85\u7d1a\u5e02\u5834",
+            "SHOPSTALL NOS. 6, 7, 8 & 9, G/F, FU TAI MARKET, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-07"
+          ],
+          [
+            3693803297,
+            5,
+            "\u6d77\u76db\u570b\u969b",
+            "SHOPSTALL NOS. 18 & 19, G/F, FU TAI MARKET, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            3693803774,
+            5,
+            "\u725b\u52e2\u9a38\u726f\u725b\u5c08\u9580\u5e97",
+            "SHOPSTALL NO. 38, G/F, MARKET, FU TAI SHOPPING CENTRE, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            3593800668,
+            8,
+            "\u71d2\u5473\u9f8d",
+            "SHOPSTALL NO. 5, G/F, FU TAI MARKET, FU TAI ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707021
+        ]
+      ],
+      "coordinate": [
+        1.9893806335909008,
+        0.3911912670127995,
+        19.05000114440918
+      ],
+      "halfSize": [
+        89.76366500044242,
+        81.06687500048429,
+        11.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        511705096,
+        4,
+        [
+          [
+            2993801310,
+            4,
+            "\u751c\u871c\u7de3",
+            "SHOP 1A, MARKET, SIU HONG COURT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            2993804601,
+            4,
+            "Mei Mei Shop",
+            "STALL NO. 1B, G/F, MARKET, SIU HONG COURT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            3693800234,
+            5,
+            "PARK'N SHOP",
+            "STALL NO. 1 & PORTIONS OF SHOP 225, 1/F, COMMERCIAL CENTRE, SIU HONG COURT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-17"
+          ],
+          [
+            3693800562,
+            5,
+            "\u7965\u8a18\u9bae\u9b5a",
+            "SHOPSTALL NO. 41, MARKET, SIU HONG COURT, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707027
+        ]
+      ],
+      "coordinate": [
+        1.9892887014511782,
+        0.39114905025518704,
+        10.350000381469727
+      ],
+      "halfSize": [
+        30.56499999994412,
+        95.10349499993026,
+        2.750000238418579
+      ]
+    },
+    {
+      "attributes": [
+        511705097,
+        5,
+        [
+          [
+            2993001114,
+            4,
+            "\u829d\u9ebb\u4ed4",
+            "SHOP 59B, 1/F, GOODRICH GARDEN SHOPPING ARCADE, 9 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2993001424,
+            4,
+            "\u9ba8\u6236",
+            "SHOP B59C, 1/F, GOODRICH GARDEN SHOPPING ARCADE, 9 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2993803431,
+            4,
+            "\u706b\u5c07\u8ecd",
+            "SHOP A19, G/F, GOODRICH GARDEN COMMERCIAL COMPLEX, 9 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2993807503,
+            4,
+            "\u56de\u5473\u7f8e\u98df",
+            "SHOP A48, G/F, GOODRICH GARDEN SHOPPING ARCADE, 9 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-08"
+          ],
+          [
+            2993810442,
+            4,
+            "\u98ef\u98ef\u6382",
+            "SHOP A02, G/F, GOODRICH GARDEN SHOPPING ARCADE, 9 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707037
+        ]
+      ],
+      "coordinate": [
+        1.989111660780864,
+        0.3911031824698865,
+        16.600000381469727
+      ],
+      "halfSize": [
+        25.914499999955297,
+        77.12900000065565,
+        5.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        511705098,
+        3,
+        [
+          [
+            2993806005,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP 7, G/F, BLOSSOM GARDEN, 11 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2993810558,
+            4,
+            "Natural Bakery",
+            "SHOP NO. G08, G/F, BLOSSOM GARDEN, 11 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ],
+          [
+            3693801565,
+            5,
+            "PARKNSHOP",
+            "PORTIONS OF SHOP 7, 1/F, BLOSSOM GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707039
+        ]
+      ],
+      "coordinate": [
+        1.989127126397277,
+        0.3910955252891904,
+        15.75
+      ],
+      "halfSize": [
+        58.543500000145286,
+        52.91299999970943,
+        5.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        511705099,
+        2,
+        [
+          [
+            3693802939,
+            5,
+            "\u65b0\u4e16\u4ee3\u98df\u54c1\u5e02\u5834",
+            "PORTION A OF SHOP 17, G/F, VENICE GARDENS MARKET, 12 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3693803862,
+            5,
+            "KAI BO FOOD SUPERMARKET",
+            "SHOP NO. 18, G/F, VENICE GARDENS, 12 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707043
+        ]
+      ],
+      "coordinate": [
+        1.989125367384998,
+        0.3910831761476919,
+        15.75
+      ],
+      "halfSize": [
+        47.127654999960214,
+        38.951500000432134,
+        5.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        511705100,
+        1,
+        [
+          [
+            2993002083,
+            4,
+            "\u6f64\u767c\u5c0f\u98df",
+            "G/F (PORTION), 16 LAM TEI MAIN STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707289
+        ]
+      ],
+      "coordinate": [
+        1.989383036590369,
+        0.3912862315571784,
+        12.75
+      ],
+      "halfSize": [
+        3.48454499989748,
+        3.2517250003293157,
+        3.3500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        511705101,
+        15,
+        [
+          [
+            2993806166,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G21, G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ],
+          [
+            2993806689,
+            4,
+            "\u8299\u84c9\u5fb7\u624b\u6495\u96de",
+            "STALL NO. D16, G/F, MARKET, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2993811658,
+            4,
+            "\u5ddd\u4e32\u71d2",
+            "STALL NO. D9, MARKET AT G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            4993812181,
+            4,
+            "\u65fa\u4ed4\u4fbf\u5229\u5e97",
+            "STALL NO. D7, MARKET AT G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            3693802300,
+            5,
+            "\u8c6c\u4ed4\u561c",
+            "STALL NO. W6, G/F, MARKET, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-07"
+          ],
+          [
+            3693802328,
+            5,
+            "\u8c6c\u5148\u751f",
+            "STALL NO. W3, G/F, MARKET, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            3693802337,
+            5,
+            "\u9b5a\u54e5\u4ed4",
+            "STALL NO. D14, G/F, MARKET, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-13"
+          ],
+          [
+            3693802391,
+            5,
+            "\u7152\u8f1d\u51cd\u8089\u98df\u54c1",
+            "STALL NOS. W4 & W5, G/F, MARKET, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ],
+          [
+            3693802452,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP G11, G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            3693802771,
+            5,
+            "\u597d\u597d\u6d77\u9bae",
+            "STALL NO. W9, G/F, YAN TIN MARKET, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TSZ TIN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
+          [
+            3693803668,
+            5,
+            "\u8c6c\u5bb6\u59d0",
+            "STALL NO. D21, G/F, YAN TIN MARKET, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TSZ TIN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-20"
+          ],
+          [
+            3693803905,
+            5,
+            "\u725b\u5c07\u8ecd",
+            "STALL NO. D20, MARKET AT G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            3693803969,
+            5,
+            "Gold Rich Gourmet Shop",
+            "SHOP G10, G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-15"
+          ],
+          [
+            3293800443,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. G21, G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ],
+          [
+            3593800464,
+            8,
+            "HING KEE ROASTED MEAT SHOP",
+            "MARKET AT D8, G/F, YAN TIN SHOPPING CENTRE, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707637
+        ]
+      ],
+      "coordinate": [
+        1.9892580691000303,
+        0.3912052930704283,
+        11.75
+      ],
+      "halfSize": [
+        57.33156999992207,
+        32.59321000054479,
+        3.25
+      ]
+    },
+    {
+      "attributes": [
+        511705102,
+        1,
+        [
+          [
+            2993810600,
+            4,
+            "MEOW MEOW ICESHADE",
+            "FAST FOOD KIOSK, TUEN MUN CYCLING ENTRY / EXIT HUB, 10 LAM TEI INTERCHANGE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707687
+        ]
+      ],
+      "coordinate": [
+        1.9893157296741082,
+        0.3912199934523581,
+        10.449999809265137
+      ],
+      "halfSize": [
+        6.345414999872446,
+        8.675619999878109,
+        2.4499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        511705103,
+        4,
+        [
+          [
+            2993806397,
+            4,
+            "\u805a\u661f\u6e90",
+            "STALL D37, G/F, MARKET, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ],
+          [
+            2993806449,
+            4,
+            "\u5e78\u8336\u820d",
+            "STALL D36, G/F, MARKET, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2993806670,
+            4,
+            "\u8c6c\u7238\u8eca\u4ed4\u9eb5",
+            "FOODSTALL D10, G/F, MARKET, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3693802425,
+            5,
+            "\u9326\u5229\u6d77\u9bae",
+            "STALL NO. W10, G/F, MARKET, YAN TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707706
+        ]
+      ],
+      "coordinate": [
+        1.9892545835625204,
+        0.3912188382844453,
+        12.350000381469727
+      ],
+      "halfSize": [
+        39.269319999963045,
+        37.76695500034839,
+        1.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        511705104,
+        1,
+        [
+          [
+            2993807062,
+            4,
+            "Dan Yatai",
+            "SHOP G09, G/F, EIGHT REGENCY, 8 LEUNG TAK STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707715
+        ]
+      ],
+      "coordinate": [
+        1.9891117313322335,
+        0.3910867803025877,
+        22.549999237060547
+      ],
+      "halfSize": [
+        25.045684999786317,
+        22.34919499978423,
+        11.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        511705105,
+        1,
+        [
+          [
+            2993803750,
+            4,
+            "HUNG FOOK TONG",
+            "PORTION OF ROOM 0017, G/F, AMBULATORY CARE CENTRE, TUEN MUN HOSPITAL, 23 TSING CHUNG KOON ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707731
+        ]
+      ],
+      "coordinate": [
+        1.9892598901768292,
+        0.3911085164704526,
+        12.449999809265137
+      ],
+      "halfSize": [
+        5.7128800000064075,
+        8.208544999361038,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        511705106,
+        2,
+        [
+          [
+            2993806519,
+            4,
+            "TONG KEE BAO DIM",
+            "STALL NOS. D34-D35, G/F, YAN TIN MARKET, YAN TIN ESTATE, 39 TSING LUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2993806865,
+            4,
+            "\u4f73\u5bf6\u9eb5\u5305",
+            "STALL D3, G/F, YAN TIN MARKET, YAN TIN ESTATE, NO. 39 TSING LUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707741
+        ]
+      ],
+      "coordinate": [
+        1.989250858620962,
+        0.39120859703703087,
+        11.75
+      ],
+      "halfSize": [
+        26.692909999750555,
+        31.93807499948889,
+        3.25
+      ]
+    },
+    {
+      "attributes": [
+        511705107,
+        6,
+        [
+          [
+            2993809882,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G01, G/F., WO TIN SHOPPING CENTRE, WO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2993810451,
+            4,
+            "BUN FUN BAKERY",
+            "SHOP NO. G02, G/F, WO TIN SHOPPING CENTRE, WO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
+            4993812251,
+            4,
+            "\u7287\u8a18\u725b\u8169",
+            "SHOP G08, G/F, WO TIN SHOPPING CENTRE, WO TIN ESTATE, NO. 35 HING KWAI STREET, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-29"
+          ],
+          [
+            3693803729,
+            5,
+            "\u548c\u7530\u5e02\u96c6",
+            "PORTIONS OF SHOP NO. 108, 1/F, WO TIN SHOPPING CENTRE, WO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            4693803807,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. 103, 1/F, WO TIN SHOPPING CENTRE, WO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            3293800568,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. G01, G/F., WO TIN SHOPPING CENTRE, WO TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707764
+        ]
+      ],
+      "coordinate": [
+        1.989130722421604,
+        0.39120174325188584,
+        29.600000381469727
+      ],
+      "halfSize": [
+        29.458600000012666,
+        63.70788499992341,
+        5.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        511705108,
+        4,
+        [
+          [
+            2993810497,
+            4,
+            "BUN FUN BAKERY",
+            "SHOP NO. G7, GROUND FLOOR, CHING TIN SHOPPING CENTRE, CHING TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2993810859,
+            4,
+            "Sushi Take-Out",
+            "SHOP NO. G1, G/F., CHING TIN SHOPPING CENTRE, CHING TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            3693803507,
+            5,
+            "Wellcome",
+            "SHOP NO. G6 (PORTION A & PORTIONS), G/F., CHING TIN SHOPPING CENTRE, CHING TIN ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ],
+          [
+            4693803843,
+            5,
+            "\u83c1\u7530\u9bae\u6d3b\u5e02\u96c6",
+            "PORTIONS OF SHOP G09, G/F, CHING TIN SHOPPING CENTRE, CHING TIN ESTATE,10 YAN PO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707776
+        ]
+      ],
+      "coordinate": [
+        1.9891733852450941,
+        0.3911625102604702,
+        18.700000762939453
+      ],
+      "halfSize": [
+        44.46591000026092,
+        47.113785000517964,
+        5.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        511705109,
+        4,
+        [
+          [
+            2993811180,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. 17, G/F, NOVO WALK, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-06"
+          ],
+          [
+            2993811269,
+            4,
+            "Arome Bakery",
+            "SHOP 38, G/F, NOVO WALK, 8 YAN PO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-18"
+          ],
+          [
+            2993811339,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "SHOP NO. 41, G/F, NOVO WALK, NO. 8 YAN PO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-19"
+          ],
+          [
+            3693803792,
+            5,
+            "YATADAY - NOVO WALK",
+            "PORTION OF SHOP NOS. 1-2, G/F, NOVO WALK, 8 YAN PO ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          511707809
+        ]
+      ],
+      "coordinate": [
+        1.9891282288943106,
+        0.39114558849984943,
+        21.350000381469727
+      ],
+      "halfSize": [
+        63.016937227512244,
+        58.60775476694107,
+        6.75
+      ]
+    }
+  ]
+}

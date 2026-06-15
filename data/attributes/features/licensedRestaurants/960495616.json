@@ -1,0 +1,2924 @@
+{
+  "features": [
+    {
+      "attributes": [
+        960495616,
+        6,
+        [
+          [
+            2214198216,
+            0,
+            "\u6d77\u6e2f\u9152\u5bb6",
+            "SHOP 243, 2/F, THE WESTWOOD, 8 BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2027-03-11"
+          ],
+          [
+            2214198997,
+            0,
+            "McDonald's",
+            "SHOP LG07 ON LOWER GROUND FLOOR, THE WESTWOOD, 8 BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2026-04-03"
+          ],
+          [
+            2218803365,
+            0,
+            "Domon Izakaya",
+            "SHOP NO. UG 15, UPPER GROUND FLOOR, THE WESTWOOD, 8 BELCHER'S STREET, HONG KONG",
+            null,
+            "2026-10-05"
+          ],
+          [
+            2218815690,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 117, PODIUM LEVEL 1, THE WESTWOOD, 8 BELCHER'S STREET, HONG KONG",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3114199226,
+            1,
+            "PANASH",
+            "LG/F, SHOP LG05(MAJOR PORTION), THE WESTWOOD, 8 BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            3114200229,
+            1,
+            "Saint's Alp Teahouse",
+            "SHOP 221, 2/F, THE WESTWOOD, 8 BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2026-05-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495616
+        ]
+      ],
+      "coordinate": [
+        1.9920022447511823,
+        0.388947367779459,
+        37.70000076293945
+      ],
+      "halfSize": [
+        94.02852499997243,
+        99.54764499980956,
+        32.20000076293945
+      ]
+    },
+    {
+      "attributes": [
+        960495617,
+        1,
+        [
+          [
+            3118808881,
+            1,
+            "\u897f\u7965\u5e97",
+            "FLAT 3, G/F., BELCHER COURT, 2 SAI CHEUNG STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495617
+        ]
+      ],
+      "coordinate": [
+        1.99197586406637,
+        0.38894855540385154,
+        7.0
+      ],
+      "halfSize": [
+        25.046000000089407,
+        27.80750000011176,
+        3.1999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        960495618,
+        2,
+        [
+          [
+            2218818422,
+            0,
+            "\u6597\u6efe",
+            "SHOP A ON G/F, SIK ON HOUSE, NOS. 54-66 HILL ROAD, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2218818501,
+            0,
+            "\u6597\u6efe",
+            "FLAT A & B ON 1/F, SIK ON HOUSE, NOS. 54-66 HILL ROAD, SHEK TONG TSUI, HONG KONG",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495618
+        ]
+      ],
+      "coordinate": [
+        1.9920416623148456,
+        0.38894983824769774,
+        18.350000381469727
+      ],
+      "halfSize": [
+        17.84313499974087,
+        16.486285000108182,
+        7.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        960495619,
+        1,
+        [
+          [
+            3118810745,
+            1,
+            "TBC",
+            "SHOP 1, G/F, JADEVIEW COURT, 38 HILL ROAD, SAI YING PUN, HONG KONG",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495619
+        ]
+      ],
+      "coordinate": [
+        1.9920333896604139,
+        0.3889503334895935,
+        12.199999809265137
+      ],
+      "halfSize": [
+        16.33888000017032,
+        13.305350000038743,
+        3.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        960495620,
+        2,
+        [
+          [
+            2218809956,
+            0,
+            "THE BIG BITE HKW",
+            "SHOP B, G/F., CLARENCE COURT, 8-16 CLARENCE TERRACE, SAI WAN, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2218814615,
+            0,
+            "De Sang Bleu",
+            "SHOP A, G/F., CLARENCE COURT, 8-16 CLARENCE TERRACE, SAI WAN, HONG KONG",
+            null,
+            "2026-05-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495624
+        ]
+      ],
+      "coordinate": [
+        1.992054359576706,
+        0.38894791317615124,
+        22.649999618530273
+      ],
+      "halfSize": [
+        12.70049999980256,
+        9.441499999724329,
+        2.3500003814697266
+      ]
+    },
+    {
+      "attributes": [
+        960495621,
+        1,
+        [
+          [
+            2218818185,
+            0,
+            "Plantation Tea Bar",
+            "SHOP NO. 7, G/F, PO GA BUILDING, 6-20 PO TUCK STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-09-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495629
+        ]
+      ],
+      "coordinate": [
+        1.9920538270804278,
+        0.3889446761909865,
+        27.049999237060547
+      ],
+      "halfSize": [
+        19.71817999985069,
+        10.988504999317229,
+        5.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        960495622,
+        1,
+        [
+          [
+            3118807958,
+            1,
+            "MOMO MOMENT",
+            "SHOP 6, G/F., BRILLIANT COURT, NO. 28 PRAYA, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-10-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495630
+        ]
+      ],
+      "coordinate": [
+        1.9919653139684246,
+        0.3889423170712542,
+        6.550000190734863
+      ],
+      "halfSize": [
+        18.691999999806285,
+        19.524000000208616,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        960495623,
+        1,
+        [
+          [
+            2218816860,
+            0,
+            "\u5341\u4e8c\u5473",
+            "SHOP NOS. 2-4, G/F, PEARL COURT, 13 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495633
+        ]
+      ],
+      "coordinate": [
+        1.9919631244537777,
+        0.38893776956723314,
+        6.25
+      ],
+      "halfSize": [
+        30.290000000037253,
+        31.388500000350177,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        960495624,
+        2,
+        [
+          [
+            2218808032,
+            0,
+            "WAFFLING BEANS LIMITED",
+            "SHOP 9C, G/F., NEW FORTUNE HOUSE, NOS. 4-8 NORTH STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-11-12"
+          ],
+          [
+            2218808458,
+            0,
+            "LITTLE COVE ESPRESSO",
+            "SHOP NO. 2,3 & 4, G/F, BLOCK B, NEW FORTUNE HOUSE, 4-8 NORTH STREET, 2-5 NEW PRAYA, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495649
+        ]
+      ],
+      "coordinate": [
+        1.9919185197179723,
+        0.3889257722473761,
+        6.800000190734863
+      ],
+      "halfSize": [
+        29.45909499982372,
+        25.789754999801517,
+        3.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        960495625,
+        1,
+        [
+          [
+            2218814101,
+            0,
+            "OOLAA K-TOWN",
+            "SHOP B, G/F., MANHATTAN HEIGHTS, 83 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495656
+        ]
+      ],
+      "coordinate": [
+        1.9918954871121854,
+        0.38892016442438043,
+        11.050000190734863
+      ],
+      "halfSize": [
+        29.17881500022486,
+        34.35634000040591,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495626,
+        4,
+        [
+          [
+            2218806373,
+            0,
+            "Boulangerie Bistronomique",
+            "SHOP 1, G/F., GRAND FORTUNE MANSION, NO. 1A DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-15"
+          ],
+          [
+            2218808449,
+            0,
+            "\u4fe1\u5dde\u65e5\u672c\u6599\u7406",
+            "SHOP 5, G/F., GRAND FORTUNE MANSION, NO. 1 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2218819726,
+            0,
+            "N+ BURGER",
+            "SHOPS 2 & 3, G/F & COCKLOFT, GRAND FORTUNE MANSION, NO. 1 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-10-21"
+          ],
+          [
+            3118802087,
+            1,
+            "Tequila on Davis",
+            "SHOP 7, G/F & C/L., GRAND FORTUNE MANSION, NO. 1 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495657
+        ]
+      ],
+      "coordinate": [
+        1.9918882238740825,
+        0.38892180915792507,
+        7.050000190734863
+      ],
+      "halfSize": [
+        12.158925000112504,
+        14.56241500005126,
+        3.450000047683716
+      ]
+    },
+    {
+      "attributes": [
+        960495627,
+        1,
+        [
+          [
+            3118809796,
+            1,
+            "GOLDEN SCENE CINEMA",
+            "PORTION A OF 1/F., HARBOUR VIEW GARDEN (PHASE II), 2 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-12-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495659
+        ]
+      ],
+      "coordinate": [
+        1.9919334739445418,
+        0.38891790136925636,
+        12.0
+      ],
+      "halfSize": [
+        39.962619999889284,
+        32.20094000082463,
+        8.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        960495628,
+        2,
+        [
+          [
+            2214197028,
+            0,
+            "The Clay Oven",
+            "SHOP A, G/F, 27-31 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-31"
+          ],
+          [
+            2218814581,
+            0,
+            "The Seoul Korean Cuisine",
+            "FLAT B, G/F., KAM HING BUILDING, 27-31 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-05-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495660
+        ]
+      ],
+      "coordinate": [
+        1.9919226253231765,
+        0.38892118219259963,
+        8.850000381469727
+      ],
+      "halfSize": [
+        8.105874999891967,
+        8.571259999647737,
+        4.75
+      ]
+    },
+    {
+      "attributes": [
+        960495629,
+        1,
+        [
+          [
+            2218809114,
+            0,
+            "\u6e58\u80b4\u4e16\u5bb6",
+            "SHOP 1-3, G/F., SANDS HOUSE, NOS. 39 BELCHER'S STREET & NOS. 10-18 SANDS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-09-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495661
+        ]
+      ],
+      "coordinate": [
+        1.991945486633198,
+        0.3889201441382799,
+        11.0
+      ],
+      "halfSize": [
+        13.887695000041276,
+        14.831620000302792,
+        6.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        960495630,
+        1,
+        [
+          [
+            2218816675,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP B, G/F, IVY ON BELCHER'S, 26 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495664
+        ]
+      ],
+      "coordinate": [
+        1.9919554863698743,
+        0.3889185844745081,
+        10.050000190734863
+      ],
+      "halfSize": [
+        19.357499999925494,
+        19.755499999970198,
+        5.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        960495631,
+        1,
+        [
+          [
+            3118802838,
+            1,
+            "\u65b0\u8a18\u7279\u8272\u8eca\u4ed4\u9eb5",
+            "SHOP H, G/F., SHUN HING BUILDING, NO. 30-34 CATCHICK STREET, NO. 4 SMITHFIELD ROAD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495672
+        ]
+      ],
+      "coordinate": [
+        1.9919146479982512,
+        0.3889150759482315,
+        8.75
+      ],
+      "halfSize": [
+        17.805970000103116,
+        9.607719999738038,
+        4.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        960495632,
+        1,
+        [
+          [
+            2218806911,
+            0,
+            "\u65b0\u8208\u98df\u5bb6",
+            "SHOP C, G/F., 8 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495676
+        ]
+      ],
+      "coordinate": [
+        1.991915322946819,
+        0.3889113973740338,
+        11.40000057220459
+      ],
+      "halfSize": [
+        18.916954999789596,
+        16.776429999619722,
+        6.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495633,
+        1,
+        [
+          [
+            2218806814,
+            0,
+            "BRESOLA",
+            "SHOP D, G/F., YUE ON BUILDING, 78-86 CATCHICK STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-08-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495677
+        ]
+      ],
+      "coordinate": [
+        1.9918907288765786,
+        0.38891112034331454,
+        7.599999904632568
+      ],
+      "halfSize": [
+        12.895614999812096,
+        7.977804999798536,
+        3.4000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        960495634,
+        1,
+        [
+          [
+            2218809008,
+            0,
+            "\u56a5\u5bae\u5ddd\u7cb5\u9928",
+            "SHOP 1-2, G/F., NO. 19 HAU WO STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-08-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495678
+        ]
+      ],
+      "coordinate": [
+        1.9919029112942672,
+        0.3889109567326544,
+        7.300000190734863
+      ],
+      "halfSize": [
+        15.108640000224113,
+        8.560479999519885,
+        2.700000047683716
+      ]
+    },
+    {
+      "attributes": [
+        960495635,
+        1,
+        [
+          [
+            3118810879,
+            1,
+            "Le Gouter",
+            "SHOP NO. 3B1, G/F., CHEONG KAT MANSION, NOS. 98-100 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495682
+        ]
+      ],
+      "coordinate": [
+        1.9918775811228426,
+        0.3889088797657408,
+        8.949999809265137
+      ],
+      "halfSize": [
+        10.051500000059605,
+        6.641499999910593,
+        4.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        960495636,
+        4,
+        [
+          [
+            2218808069,
+            0,
+            "BUN CHA VIETNAMESE SO2",
+            "SHOP A & B, G/F., 6-18 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2218819027,
+            0,
+            "THAI KHAOW HOM",
+            "SHOP F & G, G/F., FULL HARVEST BUILDING, 6-18 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-10-07"
+          ],
+          [
+            3118809361,
+            1,
+            "For Single",
+            "SHOP D, G/F., FULL HARVEST BUILDING, 6-18 HAU WO STREET, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            3118810930,
+            1,
+            "Taste All Pate",
+            "SHOP E, G/F, FULL HARVEST BUILDING, 6-18 HAU WO STREET, HONG KONG",
+            null,
+            "2026-10-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495684
+        ]
+      ],
+      "coordinate": [
+        1.991906151128248,
+        0.3889080244643876,
+        6.75
+      ],
+      "halfSize": [
+        15.963779999874532,
+        7.7561650006100535,
+        1.9499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        960495637,
+        3,
+        [
+          [
+            2218800995,
+            0,
+            "YIUMO",
+            "SHOP G, G/F., SHUN CHEONG BUILDING, 28 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2218805723,
+            0,
+            "HONO HONO IZAKAYA",
+            "SHOP B, G/F., SHUN CHEONG BUILDING, NO. 28 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-15"
+          ],
+          [
+            3118807806,
+            1,
+            "Viet Hot Pho",
+            "SHOP E, G/F., SHUN CHEONG BUILDING, NO. 28 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495685
+        ]
+      ],
+      "coordinate": [
+        1.9919000562626532,
+        0.388907023816059,
+        10.100000381469727
+      ],
+      "halfSize": [
+        19.794364999979734,
+        9.058540000580251,
+        5.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        960495638,
+        2,
+        [
+          [
+            2218802177,
+            0,
+            "KRUA THAI THAI RESTAURANT",
+            "SHOP NO. C & D, G/F., CHI PING BUILDING, 38 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3118812103,
+            1,
+            "Foody",
+            "PORTION A OF SHOP B, G/F, CHI PING BUILDING, 38 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495686
+        ]
+      ],
+      "coordinate": [
+        1.9918953422857941,
+        0.38890621121379265,
+        9.25
+      ],
+      "halfSize": [
+        10.220659999642521,
+        7.323380000889301,
+        4.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        960495639,
+        3,
+        [
+          [
+            2218801110,
+            0,
+            "\u4f73\u8a18",
+            "SHOP B & C, G/F., LUEN YAU APARTMENTS, NO. 102-114 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-06"
+          ],
+          [
+            2218813959,
+            0,
+            "\u65b0\u8c6a\u666f\u8336\u9910\u5ef0",
+            "SHOP D, GROUND FLOOR, LUEN YAU APARTMENTS, NO. 108 BELCHER'S STREET, HONG KONG",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2218818732,
+            0,
+            "\u5fc3\u6eff\u610f\u7ca5",
+            "SHOP A, G/F, LUEN YAU APARTMENTS, 114 BELCHER'S STREET, HONG KONG",
+            null,
+            "2026-06-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495693
+        ]
+      ],
+      "coordinate": [
+        1.9919062677789887,
+        0.38890131188493865,
+        8.5
+      ],
+      "halfSize": [
+        14.557599999941885,
+        9.704170000739396,
+        3.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        960495640,
+        1,
+        [
+          [
+            2218802380,
+            0,
+            "Caf\u00e9 de Coral",
+            "SHOPS F, G, H, J, K, L, M, N, P, Q AND R,GROUND FLOOR, KIN LIONG MANSION, NOS. 16-30 NORTH STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495694
+        ]
+      ],
+      "coordinate": [
+        1.9919254524498842,
+        0.38889948684561754,
+        8.100000381469727
+      ],
+      "halfSize": [
+        18.385340000037104,
+        17.484400000423193,
+        3.0999999046325684
+      ]
+    },
+    {
+      "attributes": [
+        960495641,
+        2,
+        [
+          [
+            2218805583,
+            0,
+            "K F C",
+            "SHOP RESTAURANT B, 1/F., NOS. 116-122A BELCHER'S STREET, HONG KONG",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2218808892,
+            0,
+            "\u5357\u8a18",
+            "UNIT C, 1/F., LUEN HONG APARTMENTS, 116-122 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495695
+        ]
+      ],
+      "coordinate": [
+        1.9919001305150112,
+        0.3888987272374763,
+        8.550000190734863
+      ],
+      "halfSize": [
+        21.887655000202358,
+        22.785395000129938,
+        3.25
+      ]
+    },
+    {
+      "attributes": [
+        960495642,
+        1,
+        [
+          [
+            3118811863,
+            1,
+            "\u8881\u8a18\u96f2\u9903",
+            "SHOP B, G/F., MAN KWONG COURT, NO. 12 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495696
+        ]
+      ],
+      "coordinate": [
+        1.991917175458792,
+        0.3888980725834864,
+        13.949999809265137
+      ],
+      "halfSize": [
+        15.050499999895692,
+        15.113084999844432,
+        8.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        960495643,
+        2,
+        [
+          [
+            2218800913,
+            0,
+            "\u53ef\u53ef\u5e97",
+            "SHOP E & F, G/F., LUEN WAI APARTMENTS, 136-142 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-01"
+          ],
+          [
+            3118807718,
+            1,
+            "\u53ef\u53ef\u5e97",
+            "SHOP G, G/F., LUEN WAI APARTMENTS, 136-142 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495697
+        ]
+      ],
+      "coordinate": [
+        1.9918932167101973,
+        0.3888977286605952,
+        7.599999904632568
+      ],
+      "halfSize": [
+        13.602584999985993,
+        17.320115000009537,
+        2.299999713897705
+      ]
+    },
+    {
+      "attributes": [
+        960495644,
+        3,
+        [
+          [
+            2218807279,
+            0,
+            "Tai Hing",
+            "SHOP NO. 7, G/F., SMITHFIELD COURT, 41A-43 SMITHFIELD ROAD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-25"
+          ],
+          [
+            2218814633,
+            0,
+            "CHEUNG HONG YUEN RESTAURANT",
+            "SHOP 6, G/F., SMITHFIELD COURT, 41A-43 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2218817827,
+            0,
+            "GOOF OFF CAFE",
+            "SHOP NO. 13, GROUND FLOOR, SMITHFIELD COURT, NO. 43 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495699
+        ]
+      ],
+      "coordinate": [
+        1.9919072696224853,
+        0.3888961140007659,
+        9.149999618530273
+      ],
+      "halfSize": [
+        33.350469999946654,
+        21.493270000442863,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        960495645,
+        1,
+        [
+          [
+            2218809406,
+            0,
+            "Pizzeria Italia",
+            "SHOP 3 OF G/F AND, 1/F., KAM HO COURT, 144-148 BELCHER'S STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-11-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495700
+        ]
+      ],
+      "coordinate": [
+        1.991887292075154,
+        0.3888979558726392,
+        9.949999809265137
+      ],
+      "halfSize": [
+        9.219705000054091,
+        8.529415000230074,
+        4.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495646,
+        1,
+        [
+          [
+            3118803460,
+            1,
+            "iBakery",
+            "SHOP 2 (FRONT PORTION), G/F., BLOCK 2, CENTENARY MANSION, 1 VICTORIA ROAD, HONG KONG",
+            null,
+            "2027-02-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495701
+        ]
+      ],
+      "coordinate": [
+        1.9918723046035813,
+        0.38889178233637006,
+        12.700000762939453
+      ],
+      "halfSize": [
+        31.15207500010729,
+        34.5230000000447,
+        7.000000476837158
+      ]
+    },
+    {
+      "attributes": [
+        960495647,
+        2,
+        [
+          [
+            2214126453,
+            0,
+            "\u6f6e\u9806\u8a18",
+            "SHOP 1&2, G/F, HANG YU BUILDING, 45-55 CADOGAN STREET, WESTERN, HONG KONG",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2218805060,
+            0,
+            "Pici",
+            "SHOP 5-9, G/F., HAN YU BUILDING, 45-55 CADOGAN STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-10-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495706
+        ]
+      ],
+      "coordinate": [
+        1.991880983800353,
+        0.3888905799417763,
+        9.199999809265137
+      ],
+      "halfSize": [
+        9.999224999919534,
+        13.195199999958277,
+        3.299999952316284
+      ]
+    },
+    {
+      "attributes": [
+        960495648,
+        2,
+        [
+          [
+            2218812150,
+            0,
+            "Fairwood Fast Food",
+            "SHOP 10, LG/F., 45-51 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2218816161,
+            0,
+            "Saizeriya Italian Restaurant",
+            "SHOP NO. 14, LG/F., NOS. 45-51 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495708
+        ]
+      ],
+      "coordinate": [
+        1.9919120190091268,
+        0.3888887919460766,
+        10.399999618530273
+      ],
+      "halfSize": [
+        14.404289999976754,
+        16.83509000018239,
+        3.9000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        960495649,
+        2,
+        [
+          [
+            2218813445,
+            0,
+            "\u65fa\u65fa\u81f3\u5c0a\u71d2\u9d5d\u51b0\u5ba4",
+            "SHOP C & D, G/F., LUEN HING APARTMENTS, NO. 36 FORBES STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2218819319,
+            0,
+            "Wai Kee Cafe",
+            "SHOP A, B & F, G/F, LUEN HING APARTMENTS, 36 FORBES STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495710
+        ]
+      ],
+      "coordinate": [
+        1.9919077249880173,
+        0.38888799878848856,
+        9.950000762939453
+      ],
+      "halfSize": [
+        15.787275000009686,
+        16.931249999441206,
+        3.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        960495650,
+        2,
+        [
+          [
+            2218814059,
+            0,
+            "Genki Sushi",
+            "SHOP A-B, G/F., LUEN FAT APARTMENTS, 38 FORBES STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-02-18"
+          ],
+          [
+            3118810055,
+            1,
+            "\u5606\u751c\u54c1",
+            "SHOP E, G/F, LUEN FAT APARTMENTS, NO. 49 SMITHFIELD AND NO. 38 FORBES STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495712
+        ]
+      ],
+      "coordinate": [
+        1.9919032861178654,
+        0.3888872345776467,
+        9.75
+      ],
+      "halfSize": [
+        15.873545000329614,
+        16.965265000239015,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        960495651,
+        1,
+        [
+          [
+            2218817438,
+            0,
+            "JOLLIBEE",
+            "SHOP A&B, G/F, LUEN ON APARTMENTS, NO. 51 SMITHFIELD, NO. 40 FORBES STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495715
+        ]
+      ],
+      "coordinate": [
+        1.9918990969784687,
+        0.38888651242782135,
+        9.649999618530273
+      ],
+      "halfSize": [
+        14.34118999959901,
+        16.70860500074923,
+        3.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        960495652,
+        1,
+        [
+          [
+            3118812130,
+            1,
+            "THE KEY COFFEE",
+            "SHOP 1, G/F, WAI WAH COURT, 12R SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-09-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495725
+        ]
+      ],
+      "coordinate": [
+        1.991932301156025,
+        0.38887038444695265,
+        26.700000762939453
+      ],
+      "halfSize": [
+        17.696029999759048,
+        17.92572499997914,
+        7.59999942779541
+      ]
+    },
+    {
+      "attributes": [
+        960495653,
+        1,
+        [
+          [
+            2214147315,
+            0,
+            "Ko Pang Restaurant",
+            "G/F, WING FU LAU, 2 CLARENCE TERRACE, WESTERN, HONG KONG",
+            null,
+            "2026-06-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495764
+        ]
+      ],
+      "coordinate": [
+        1.992050688790045,
+        0.38894848251105024,
+        37.900001525878906
+      ],
+      "halfSize": [
+        6.81563499988988,
+        9.082639999687672,
+        7.500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        960495654,
+        2,
+        [
+          [
+            3118803363,
+            1,
+            "\u963f\u4e00\u8c6c\u6252\u9178\u8fa3\u7c73\u7dda",
+            "SHOP 1, G/F., BLOCK A, HOI TAO BUILDING, 7-11 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-12-29"
+          ],
+          [
+            3118812060,
+            1,
+            "Mootze BBQ",
+            "SHOP NO. 29, G/F, HOI TAO BUILDING, NO. 7-11 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495790
+        ]
+      ],
+      "coordinate": [
+        1.9919715392745962,
+        0.3889404791174315,
+        29.950000762939453
+      ],
+      "halfSize": [
+        29.060984999872744,
+        27.155524999834597,
+        25.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        960495655,
+        1,
+        [
+          [
+            3118808313,
+            1,
+            "DEAR NEIGHBOR",
+            "G/F., NO. 15 PO TUCK STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-06-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495793
+        ]
+      ],
+      "coordinate": [
+        1.9920524600397622,
+        0.38894119849412373,
+        59.650001525878906
+      ],
+      "halfSize": [
+        5.097215000074357,
+        7.506845000199974,
+        30.75
+      ]
+    },
+    {
+      "attributes": [
+        960495656,
+        1,
+        [
+          [
+            3118806575,
+            1,
+            "ARF Caf\u00e9",
+            "G/F., 23 PO TUCK STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-10-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495797
+        ]
+      ],
+      "coordinate": [
+        1.9920568884625243,
+        0.3889405610586418,
+        41.04999923706055
+      ],
+      "halfSize": [
+        5.392599999904633,
+        6.40673500020057,
+        10.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        960495657,
+        1,
+        [
+          [
+            2218808980,
+            0,
+            "Twenty one from eight cafe",
+            "G/F., 93 HILL ROAD, SAI WAN, HONG KONG",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495816
+        ]
+      ],
+      "coordinate": [
+        1.9920619334033716,
+        0.3889363065954262,
+        49.599998474121094
+      ],
+      "halfSize": [
+        11.552819999866188,
+        6.982754999771714,
+        14.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        960495658,
+        3,
+        [
+          [
+            2214212121,
+            0,
+            "\u65b0\u5929\u767c\u54c1\u8aa0",
+            "SHOP A, G/F, 1-3 HOLLAND STREET, WESTERN, HONG KONG",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2218811193,
+            0,
+            "THAI ROS ZAB",
+            "SHOP B, G/F., KIN YICK MANSION, 1-11 HOLLAND STREET, WESTERN, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2218819920,
+            0,
+            "\u9245\u829d\u5473",
+            "SHOP D ON GROUND FLOOR, KIN YICK MANSION, NOS. 15, 15A, 15B & 15C BELCHER'S STREET & NOS. 1, 3, 5, 7, 9 & 11 HOLLAND STREET, HONG KONG",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495822
+        ]
+      ],
+      "coordinate": [
+        1.9919600519677538,
+        0.3889324990151644,
+        23.549999237060547
+      ],
+      "halfSize": [
+        15.842425000388175,
+        19.17185000050813,
+        19.25
+      ]
+    },
+    {
+      "attributes": [
+        960495659,
+        1,
+        [
+          [
+            2218812929,
+            0,
+            "\u590f\u9298\u8a18",
+            "G/F., NO. 11 NORTH STREET, HONG KONG",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495847
+        ]
+      ],
+      "coordinate": [
+        1.9919264972388542,
+        0.38892691150985303,
+        13.649999618530273
+      ],
+      "halfSize": [
+        7.397559999953955,
+        5.659625000320375,
+        10.25
+      ]
+    },
+    {
+      "attributes": [
+        960495660,
+        5,
+        [
+          [
+            2214104048,
+            0,
+            "McDonald's",
+            "SHOP C (PORTION) & D ON G/F & PORTION OF 1/F., MAN KWONG COURT, 12F-12G SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2218808494,
+            0,
+            "SHIBA",
+            "SHOP E, G/F., MAY SUN BUILDING, 1-15 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-18"
+          ],
+          [
+            2218817298,
+            0,
+            "Miss. U",
+            "SHOP K-L, G/F, MAY SUN BUILDING, 7-8 NEW PRAYA, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-12-05"
+          ],
+          [
+            3118808623,
+            1,
+            "Beeger",
+            "SHOP J, G/F., MAY SUN BUILDING, 1-15 SMITHFIELD, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-06"
+          ],
+          [
+            3118811818,
+            1,
+            "NOM NOM DUMPLING (SAI WAN SHOP)",
+            "SHOP A & B, G/F., MAY SUN BUILDING, 1-15 SMITHFIELD, 55-57 CATCHICK STREET & 7-8 NEW PRAYA, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-03-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495854
+        ]
+      ],
+      "coordinate": [
+        1.9919066933419085,
+        0.3889221502759864,
+        22.05000114440918
+      ],
+      "halfSize": [
+        10.374199999962002,
+        30.861330000683665,
+        18.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        960495661,
+        1,
+        [
+          [
+            2218810303,
+            0,
+            "NorthEast Dumplings",
+            "SHOP NOS. 2 & 19, G/F., CHARM VIEW SHOPPING ARCADE, YUE YEE MANSION, NOS. 18A-20A BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-08-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495861
+        ]
+      ],
+      "coordinate": [
+        1.9919608646892628,
+        0.38892319752978527,
+        17.75
+      ],
+      "halfSize": [
+        16.144450000021607,
+        16.361355000175536,
+        12.549999237060547
+      ]
+    },
+    {
+      "attributes": [
+        960495662,
+        2,
+        [
+          [
+            2218810455,
+            0,
+            "Smash'd",
+            "G/F., CHEONG FAI BUILDING, NO. 21 CATCHICK STREET, HONG KONG",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3118811100,
+            1,
+            "Oasis",
+            "G/F., CHEONG FAI BUILDING, NO. 19 CATCHICK STREET, HONG KONG",
+            null,
+            "2026-12-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495868
+        ]
+      ],
+      "coordinate": [
+        1.9919290888517938,
+        0.3889225209680957,
+        17.25
+      ],
+      "halfSize": [
+        7.792879999615252,
+        10.204404999502003,
+        12.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        960495663,
+        2,
+        [
+          [
+            2214140484,
+            0,
+            "Ka Kee",
+            "G/F, MAU WAH MANSION, 24A BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2218801253,
+            0,
+            "Kennedy Cafe",
+            "G/F., 22 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-10-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495869
+        ]
+      ],
+      "coordinate": [
+        1.991958131042677,
+        0.38892173223944004,
+        22.75
+      ],
+      "halfSize": [
+        15.608364999759942,
+        16.202329999767244,
+        17.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        960495664,
+        1,
+        [
+          [
+            2218807914,
+            0,
+            "\u7fe0\u6e56\u6d77\u9bae\u98ef\u5e97",
+            "G/F. & 1/F., HING WONG BUILDING, 23 NEW PRAYA, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495874
+        ]
+      ],
+      "coordinate": [
+        1.9919050422747164,
+        0.388919735401913,
+        9.100000381469727
+      ],
+      "halfSize": [
+        8.431775000412017,
+        17.881764999590814,
+        4.5
+      ]
+    },
+    {
+      "attributes": [
+        960495665,
+        5,
+        [
+          [
+            2218803596,
+            0,
+            "\u5b9c\u52a0",
+            "G/F., NO. 51 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2218808652,
+            0,
+            "\u91d1\u767c\u8336\u9910\u5ef3",
+            "G/F., TUNG HING MANSION, 47 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2218810932,
+            0,
+            "\u6d25\u6d25\u98df\u5e97",
+            "G/F., NO. 55 BELCHER'S STREET, KENNEDY TOWN, WESTERN DISTRICT, HONG KONG",
+            null,
+            "2026-04-12"
+          ],
+          [
+            2218815186,
+            0,
+            "\u8c6a\u666f\u8336\u9910\u5ef3",
+            "G/F., 53 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-26"
+          ],
+          [
+            3118807745,
+            1,
+            "\u80d6\u80d6\u4e32",
+            "SHOP J, G/F., TUNG HING MANSION, NO. 41-55 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495899
+        ]
+      ],
+      "coordinate": [
+        1.9919411948764678,
+        0.38891549662509745,
+        19.200000762939453
+      ],
+      "halfSize": [
+        18.861100000329316,
+        18.403260000050068,
+        14.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495666,
+        1,
+        [
+          [
+            2214104473,
+            0,
+            "\u6d77\u5357",
+            "FLAT F, G/F, 28 SANDS STREET, KENNEDY TOWN, WESTERN, HONG KONG",
+            null,
+            "2027-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495905
+        ]
+      ],
+      "coordinate": [
+        1.9919500660298448,
+        0.3889151169987296,
+        18.700000762939453
+      ],
+      "halfSize": [
+        12.07346500037238,
+        13.167700000107288,
+        13.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495667,
+        1,
+        [
+          [
+            2218812178,
+            0,
+            "The Farm Cafe",
+            "SHOP A, G/F., KAM FAI HOUSE, 36-40 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495920
+        ]
+      ],
+      "coordinate": [
+        1.9919079518594391,
+        0.3889140692393479,
+        16.350000381469727
+      ],
+      "halfSize": [
+        8.05119499983266,
+        6.758799999952316,
+        11.75
+      ]
+    },
+    {
+      "attributes": [
+        960495668,
+        1,
+        [
+          [
+            2218809965,
+            0,
+            "RUNG RUANG THAI RESTAURANT",
+            "SHOP C-D, G/F., KUK FUNG BUILDING, 50-50A CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-05-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495926
+        ]
+      ],
+      "coordinate": [
+        1.9919021277729092,
+        0.38891313501154195,
+        21.299999237060547
+      ],
+      "halfSize": [
+        19.478714999742806,
+        8.712899999693036,
+        16.700000762939453
+      ]
+    },
+    {
+      "attributes": [
+        960495669,
+        3,
+        [
+          [
+            2218805291,
+            0,
+            "GOOD TASTE DIM SUM KING",
+            "PORTION B, G/F., FOOK ON MANSION, 25 NORTH STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-11"
+          ],
+          [
+            2218806197,
+            0,
+            "\u6085\u9ede\u5c45",
+            "SHOP A, G/F., FOOK ON MANSION, 23-25 NORTH STREET, SAI WAN, HONG KONG",
+            null,
+            "2027-02-03"
+          ],
+          [
+            2218810969,
+            0,
+            "GOOD TASTE DIM SUM KING",
+            "SHOP B2, G/F., FOOK ON MANSION, 25 NORTH STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495930
+        ]
+      ],
+      "coordinate": [
+        1.9919310932979761,
+        0.3889130811978503,
+        40.20000076293945
+      ],
+      "halfSize": [
+        17.601594999898225,
+        7.645750000141561,
+        35.60000228881836
+      ]
+    },
+    {
+      "attributes": [
+        960495670,
+        1,
+        [
+          [
+            3118810295,
+            1,
+            "THE JOY LOX CLUB",
+            "SHOP A, G/F & C/L, KAM FU MANSION, 66-68 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495941
+        ]
+      ],
+      "coordinate": [
+        1.9918965986343482,
+        0.3889122696686581,
+        15.450000762939453
+      ],
+      "halfSize": [
+        5.443150000181049,
+        6.07602500077337,
+        11.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        960495671,
+        2,
+        [
+          [
+            2218803453,
+            0,
+            "\u9806\u767c\u71d2\u5473",
+            "G/F., NO. 87 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2218811272,
+            0,
+            "Tasty Roast Goose",
+            "G/F., 14 NORTH STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495968
+        ]
+      ],
+      "coordinate": [
+        1.991925641744893,
+        0.3889092399860411,
+        15.84999942779541
+      ],
+      "halfSize": [
+        4.629310000222176,
+        6.924569999799132,
+        10.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        960495672,
+        1,
+        [
+          [
+            2218804261,
+            0,
+            "FLAMING WOK & GRILL",
+            "SHOP C, G/F., 47 HAU WO STREET, HONG KONG",
+            null,
+            "2026-10-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495976
+        ]
+      ],
+      "coordinate": [
+        1.9918910631787858,
+        0.3889087024081029,
+        13.90000057220459
+      ],
+      "halfSize": [
+        4.337069999892265,
+        5.598875000141561,
+        9.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495673,
+        1,
+        [
+          [
+            2214119558,
+            0,
+            "\u65b0\u9ad8\u9e97\u82d1\u97d3\u570b\u9910\u5ef3",
+            "1/F., 113-119 BELCHER'S STREET, KENNEDY TOWN, WESTERN, HONG KONG",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495989
+        ]
+      ],
+      "coordinate": [
+        1.9919091158524578,
+        0.38890628316922227,
+        16.299999237060547
+      ],
+      "halfSize": [
+        10.149414999876171,
+        7.362765000201762,
+        10.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495674,
+        1,
+        [
+          [
+            2214018079,
+            0,
+            "\u5e73\u798f",
+            "G/F & COCKLOFT, 121 BELCHER'S STREET, KENNEDY TOWN, WESTERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495997
+        ]
+      ],
+      "coordinate": [
+        1.991907191777616,
+        0.3889058858921741,
+        16.149999618530273
+      ],
+      "halfSize": [
+        3.153970000334084,
+        6.047315000556409,
+        10.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        960495675,
+        1,
+        [
+          [
+            3118808030,
+            1,
+            "NTMU CAFE",
+            "SHOP 9, G/F., HAU WO BUILDING, 44 HAU WO STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-12-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960495999
+        ]
+      ],
+      "coordinate": [
+        1.9918918222530755,
+        0.38890559355497817,
+        15.699999809265137
+      ],
+      "halfSize": [
+        12.707539999857545,
+        7.8375300001353025,
+        11.09999942779541
+      ]
+    },
+    {
+      "attributes": [
+        960495676,
+        1,
+        [
+          [
+            3118805174,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "G/F., 127 BELCHER'S STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496004
+        ]
+      ],
+      "coordinate": [
+        1.9919048093208762,
+        0.3889055271716156,
+        28.55000114440918
+      ],
+      "halfSize": [
+        7.980680000036955,
+        7.090385000221431,
+        23.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        960495677,
+        1,
+        [
+          [
+            2218819911,
+            0,
+            "CHEK KEE NOODLE AND CONGEE CHICKEN",
+            "G/F, 54 BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2027-01-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496005
+        ]
+      ],
+      "coordinate": [
+        1.9919300428455793,
+        0.3889054874276695,
+        17.950000762939453
+      ],
+      "halfSize": [
+        3.6040949998423457,
+        7.339150000363588,
+        13.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495678,
+        1,
+        [
+          [
+            3118811641,
+            1,
+            "Hey Viet",
+            "SHOP A, G/F., KAM TONG BUILDING, 139-153 BELCHER'S STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-12-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496013
+        ]
+      ],
+      "coordinate": [
+        1.991897505291975,
+        0.3889042137470328,
+        11.100000381469727
+      ],
+      "halfSize": [
+        19.358204999938607,
+        9.04833499994129,
+        5.900000095367432
+      ]
+    },
+    {
+      "attributes": [
+        960495679,
+        1,
+        [
+          [
+            3118811021,
+            1,
+            "CHEUNG HING KEE SHANGHAI PAN-FRIED BUNS",
+            "G/F, 135 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-11-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496014
+        ]
+      ],
+      "coordinate": [
+        1.9919017472631961,
+        0.3889048414308675,
+        15.399999618530273
+      ],
+      "halfSize": [
+        3.1990300002507865,
+        5.204454999417067,
+        10.200000762939453
+      ]
+    },
+    {
+      "attributes": [
+        960495680,
+        1,
+        [
+          [
+            2218813287,
+            0,
+            "Yuan Is Here",
+            "SHOP B, G/F., 31 NORTH STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-05-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496026
+        ]
+      ],
+      "coordinate": [
+        1.9919315128588926,
+        0.3889028362240657,
+        18.900001525878906
+      ],
+      "halfSize": [
+        9.31527499994263,
+        8.504324999637902,
+        14.000000953674316
+      ]
+    },
+    {
+      "attributes": [
+        960495681,
+        2,
+        [
+          [
+            2218815928,
+            0,
+            "\u714c\u6210\u71d2\u9d5d\u9910\u5ef3",
+            "G/F, 171 BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2026-12-09"
+          ],
+          [
+            3118809705,
+            1,
+            "Small Good",
+            "G/F., KENNEDY MANSION, NO. 175 BELCHER'S STREET, HONG KONG",
+            null,
+            "2026-10-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496027
+        ]
+      ],
+      "coordinate": [
+        1.9918852812374777,
+        0.3889024318592368,
+        20.5
+      ],
+      "halfSize": [
+        16.081654999870807,
+        10.860934999771416,
+        15.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        960495682,
+        1,
+        [
+          [
+            2214018130,
+            0,
+            "\u8208\u5229",
+            "G/F, 181 BELCHER'S STREET, WESTERN, HONG KONG",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496031
+        ]
+      ],
+      "coordinate": [
+        1.991880049870807,
+        0.3889016930477303,
+        26.700000762939453
+      ],
+      "halfSize": [
+        16.5179999996908,
+        11.129499999806285,
+        21.5
+      ]
+    },
+    {
+      "attributes": [
+        960495683,
+        1,
+        [
+          [
+            2218800898,
+            0,
+            "Bistro du Vin",
+            "SHOP B ON G/F., NO. 39 & 41 CADOGAN STREET, KENNEDY TOWN, WESTERN, HONG KONG",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496064
+        ]
+      ],
+      "coordinate": [
+        1.9918803156891742,
+        0.38889391398932593,
+        26.650001525878906
+      ],
+      "halfSize": [
+        8.97399999992922,
+        8.482989999465644,
+        20.25
+      ]
+    },
+    {
+      "attributes": [
+        960495684,
+        1,
+        [
+          [
+            2218801952,
+            0,
+            "KAMUKURA JAPANESE RESTAURANT",
+            "SHOP E, G/F., LUEN TAK APARTMENTS, NO. 45 SMITHFIELD & NO. 34 FORBES STREET, HONG KONG",
+            null,
+            "2026-09-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496078
+        ]
+      ],
+      "coordinate": [
+        1.9919120845825946,
+        0.3888893030445477,
+        35.099998474121094
+      ],
+      "halfSize": [
+        12.24519499996677,
+        13.013054999522865,
+        25.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        960495685,
+        1,
+        [
+          [
+            2218815335,
+            0,
+            "Chill and Grill",
+            "SHOP E (PORTION A), G/F., ON FAT BUILDING, 57 CADOGAN STREET, HONG KONG",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496091
+        ]
+      ],
+      "coordinate": [
+        1.9918827298132837,
+        0.38888709776403485,
+        11.399999618530273
+      ],
+      "halfSize": [
+        15.34161000000313,
+        11.471485000103712,
+        4.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        960495686,
+        6,
+        [
+          [
+            2218808874,
+            0,
+            "42ND Davis",
+            "SHOP G3, G/F., SINCERE WESTERN HOUSE, 38 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2218809691,
+            0,
+            "COMPTOIR",
+            "G/F. & COCKLOFT, SINCERE WESTERN HOUSE, 42 FORBES STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2218810561,
+            0,
+            "Seafood Corner",
+            "SHOP G16, G/F., SINCERE WESTERN HOUSE, 67 CADOGAN STREET, WESTERN DISTRICT, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            3118805493,
+            1,
+            "KTM Bar + Kitchen",
+            "G/F., SINCERE WESTERN HOUSE, 71 CADOGAN STREET, KENNEDY TOWN, SAI WAN, HONG KONG",
+            null,
+            "2026-09-28"
+          ],
+          [
+            3118805873,
+            1,
+            "FORBES THIRTY SIX",
+            "GROUND FLOOR, 56 FORBES STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-22"
+          ],
+          [
+            3118806380,
+            1,
+            "42ND DAVIS",
+            "SHOP NO. 4, G/F., SINCERE WESTERN HOUSE, 34-42 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496100
+        ]
+      ],
+      "coordinate": [
+        1.9918862670472128,
+        0.3888837255164853,
+        24.350000381469727
+      ],
+      "halfSize": [
+        32.28650000039488,
+        17.664000000804663,
+        17.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        960495687,
+        1,
+        [
+          [
+            3118802926,
+            1,
+            "\u5b9c\u8a18",
+            "FLAT C, GROUND FLOOR, SUN FAT BUILDING, 12S & 12T SMITHFIELD, SAI WAN, HONG KONG",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496146
+        ]
+      ],
+      "coordinate": [
+        1.9919323395431128,
+        0.3888672022130227,
+        35.349998474121094
+      ],
+      "halfSize": [
+        8.85643000015989,
+        8.784775000065565,
+        12.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        960495688,
+        1,
+        [
+          [
+            2218805486,
+            0,
+            "CONCORD HOTEL",
+            "3/F. (PORTION), CONCORD HOTEL, 18 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-05-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496377
+        ]
+      ],
+      "coordinate": [
+        1.9918880688146294,
+        0.3888941095667714,
+        13.300000190734863
+      ],
+      "halfSize": [
+        10.434729999862611,
+        15.472120000049472,
+        7.40000057220459
+      ]
+    },
+    {
+      "attributes": [
+        960495689,
+        1,
+        [
+          [
+            2218819160,
+            0,
+            "SS NORTHEASTERN CUISINE",
+            "SHOP A,B,C, G/F., 18 CATCHICK STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2027-01-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496420
+        ]
+      ],
+      "coordinate": [
+        1.991922745469201,
+        0.3889165027754289,
+        6.800000190734863
+      ],
+      "halfSize": [
+        13.834120000246912,
+        7.9043650003150105,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        960495690,
+        1,
+        [
+          [
+            3818820062,
+            0,
+            "The Bottle & Steak - Fish Market",
+            "SHOP NO. 1, G/F, CADOGAN, NO. 150 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496421
+        ]
+      ],
+      "coordinate": [
+        1.9918815126018417,
+        0.38889684345621295,
+        14.700000762939453
+      ],
+      "halfSize": [
+        17.41558892239118,
+        10.59855500049889,
+        8.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        960495691,
+        1,
+        [
+          [
+            2218819063,
+            0,
+            "\u74ca\u5abd\u5abd",
+            "GROUND FLOOR & COCKLOFT, 107 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-11-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496423
+        ]
+      ],
+      "coordinate": [
+        1.9919149292835132,
+        0.38890747286692817,
+        16.049999237060547
+      ],
+      "halfSize": [
+        6.255245000123978,
+        7.417870000004768,
+        10.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        960495692,
+        2,
+        [
+          [
+            2218810668,
+            0,
+            "Mary's Inasal",
+            "SHOP C, G/F., NAM CHEONG BUILDING, 48 HILL ROAD, SAI YING PUN, HONG KONG",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3118806849,
+            1,
+            "G'Day",
+            "SHOP A (PORTION), G/F., NAM CHEONG BUILDING, 48-52 HILL ROAD, HONG KONG",
+            null,
+            "2026-04-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496438
+        ]
+      ],
+      "coordinate": [
+        1.9920376563691597,
+        0.3889496385520037,
+        9.699999809265137
+      ],
+      "halfSize": [
+        10.869649999774992,
+        12.134940000250936,
+        1.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        960495693,
+        5,
+        [
+          [
+            2218811892,
+            0,
+            "11 Westside",
+            "1/F., AND THE OUTSIDE SEATING ACCOMMODATION ON FLAT ROOF AT 1/F., THE HUDSON, 11 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2218815478,
+            0,
+            "(no record found)",
+            "SHOP NO. 4, G/F, THE HUDSON, NO. 11 DAVIS STREET, HONG KONG",
+            null,
+            "2026-07-28"
+          ],
+          [
+            2218816824,
+            0,
+            "OKLM",
+            "SHOP 7, G/F., THE HUDSON, NO. 11 DAVIS STREET, SAI WAN, HONG KONG",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3118807888,
+            1,
+            "Winstons Coffee",
+            "SHOP 08, G/F., THE HUDSON, 11 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-09-25"
+          ],
+          [
+            3118807897,
+            1,
+            "MAISON ERIC KAYSER",
+            "SHOP NO. 5, G/F., THE HUDSON, NO. 11 DAVIS STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-09-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496446
+        ]
+      ],
+      "coordinate": [
+        1.991894947241116,
+        0.38888682153670173,
+        8.949999809265137
+      ],
+      "halfSize": [
+        11.798724999651313,
+        23.050525000318885,
+        2.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        960495694,
+        1,
+        [
+          [
+            3118807073,
+            1,
+            "Starbucks Coffee",
+            "SHOP NO. 3, G/F., IMPERIAL KENNEDY, NO. 68 BELCHER'S STREET, KENNEDY TOWN, HONG KONG",
+            null,
+            "2026-07-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496448
+        ]
+      ],
+      "coordinate": [
+        1.9919209288366289,
+        0.3889017591038011,
+        12.850000381469727
+      ],
+      "halfSize": [
+        25.829315000213683,
+        29.113934999331832,
+        7.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        960495695,
+        1,
+        [
+          [
+            3918812970,
+            1,
+            "The Ice Bath Club",
+            "LG/F (MINOR PORTION), KENNEDY 38, 38 BELCHER'S STREET, HONG KONG",
+            null,
+            "2026-04-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          960496468
+        ]
+      ],
+      "coordinate": [
+        1.99194558691447,
+        0.38890801779958256,
+        15.15000057220459
+      ],
+      "halfSize": [
+        19.350037440657616,
+        27.683310627064202,
+        6.550000190734863
+      ]
+    }
+  ]
+}

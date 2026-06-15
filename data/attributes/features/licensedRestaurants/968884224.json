@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        968884224,
+        1,
+        [
+          [
+            3163801288,
+            1,
+            "Wolf Den Caf\u00e9",
+            "G/F, NO. 1A BROADWAY, MEI FOO SUN CHUEN, LAI CHI KOK, KOWLOON",
+            null,
+            "2026-12-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          968884258
+        ]
+      ],
+      "coordinate": [
+        1.992077023339216,
+        0.38985018943941735,
+        31.69999885559082
+      ],
+      "halfSize": [
+        16.320655000396073,
+        13.84142000041902,
+        27.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        968884225,
+        1,
+        [
+          [
+            2263174919,
+            0,
+            "Bread's King",
+            "SHOP G6-G8, LOWER G/F.2, CHING LAI COMM. COMPLEX, 264 LAI KING HILL RD, LAI CHI KOK, SHAM SHUI PO, KOWLOON",
+            null,
+            "2026-04-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          968884310
+        ]
+      ],
+      "coordinate": [
+        1.9920253625174509,
+        0.3898875398766895,
+        11.25
+      ],
+      "halfSize": [
+        85.07126499991864,
+        50.01626500021666,
+        3.75
+      ]
+    }
+  ]
+}

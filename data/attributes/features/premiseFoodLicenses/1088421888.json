@@ -1,0 +1,179 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1088421888,
+        19,
+        [
+          [
+            2915140558,
+            4,
+            "Cable Car Express (Noodle Shop)",
+            "K1 LOWLANDS, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2915143788,
+            4,
+            "\u91d1\u9999\u96de",
+            "KIOSK K18 HEADLANDS, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2027-03-01"
+          ],
+          [
+            2915163300,
+            4,
+            "Dive into a Float",
+            "K15M, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2915800335,
+            4,
+            "ICE-CREAM DELIGHT",
+            "K17, HEADLAND, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2915801860,
+            4,
+            "\u6b61\u6a02\u5c0f\u98df",
+            "KIOSK NO. 42, OLD HONG KONG AT WATERFRONT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2915801879,
+            4,
+            "\u8001\u9cf3\u6dbc\u8336",
+            "KIOSK NO. 48, OLD HONG KONG AT WATERFRONT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2915801888,
+            4,
+            "\u5357\u6d0b\u5496\u55b1",
+            "KIOSK NO. 47, OLD HONG KONG AT WATERFRONT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2915801897,
+            4,
+            "\u7407\u59d0\u8373\u54c1",
+            "KIOSK NO. 45, OLD HONG KONG AT WATERFRONT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2915801903,
+            4,
+            "\u7f8e\u6797\u8a18",
+            "KIOSK NO. 44, OLD HONG KONG AT WATERFRONT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2915801912,
+            4,
+            "\u99ac\u4ed4\u751c\u9ede",
+            "KIOSK NO. 46, OLD HONG KONG AT WATERFRONT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-21"
+          ],
+          [
+            2915801994,
+            4,
+            "Hot Dog Food Cart",
+            "K40, UPPER GROUND FLOOR (PORTION), POLAR ADVENTURE AT SUMMIT, OCEAN PARK, 180 WONG CHUK HANG ROAD, HONG KONG",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2915802003,
+            4,
+            "Snow Cone Food Cart",
+            "K41, UPPER GROUND FLOOR (PORTION), POLAR ADVENTURE AT SUMMIT, OCEAN PARK, 180 WONG CHUK HANG ROAD, HONG KONG",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2915802100,
+            4,
+            "No Record",
+            "BAKERY KITCHEN, UPPER GROUND LEVEL, HEADLAND CABLE CAR TERMINAL BUILDING, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2915802270,
+            4,
+            "Food Cart K12",
+            "FOOD CART K12, IN FRONT OF OCEAN THEATRE IN SUMMIT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2915802313,
+            4,
+            "Food Cart K13",
+            "FOOD CART K13, IN FRONT OF OCEAN PARK TOWER IN SUMMIT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2915804267,
+            4,
+            "Hong Kong Ocean Park Marriott Hotel",
+            "B/F (PORTION B) AT PODIUM, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-01"
+          ],
+          [
+            3215800027,
+            6,
+            "Ice-cream Delight",
+            "K17, HEADLAND, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2027-02-20"
+          ],
+          [
+            3215800179,
+            6,
+            "Dive into a Float",
+            "K15M, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, SOUTHERN, HONG KONG",
+            null,
+            "2027-01-02"
+          ],
+          [
+            3215800203,
+            6,
+            "\u51b0\u5c71\u96ea\u7cd5",
+            "KIOSK NO. 43, OLD HONG KONG AT WATERFRONT, OCEAN PARK, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-08-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1088422096
+        ]
+      ],
+      "coordinate": [
+        1.9926110566250492,
+        0.3880953936351323,
+        20.0
+      ],
+      "halfSize": [
+        130.12633840739727,
+        102.17264185851673,
+        7.0
+      ]
+    }
+  ]
+}

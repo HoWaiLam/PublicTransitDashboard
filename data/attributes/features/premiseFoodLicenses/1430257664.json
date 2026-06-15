@@ -1,0 +1,191 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1430257664,
+        1,
+        [
+          [
+            2998000897,
+            4,
+            "Wellcome Fresh Food Centre",
+            "PORTION OF 9 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257667
+        ]
+      ],
+      "coordinate": [
+        1.9944407693283563,
+        0.38892418214188285,
+        13.0
+      ],
+      "halfSize": [
+        83.4250000002794,
+        83.90500000026077,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1430257665,
+        1,
+        [
+          [
+            2598000024,
+            3,
+            "Hong Kong Trade Development Council",
+            "2/F (MINOR PORTION), HONG KONG TRADE DEVELOPMENT COUNCIL EXHIBITION SERVICES & LOGISTIC CENTRE, 83 CHUN YAT STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257692
+        ]
+      ],
+      "coordinate": [
+        1.9943865549744673,
+        0.38889765578231955,
+        16.44999885559082
+      ],
+      "halfSize": [
+        52.222509999759495,
+        42.020500000566244,
+        9.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1430257666,
+        1,
+        [
+          [
+            2598000060,
+            3,
+            "Asia Pacific",
+            "G/F (PORTION), ADMINISTRATION BUILDING, AIRCRAFT OVERHAUL FACILITIES (PHASE II), HONG KONG AERO ENGINE SERVICES LIMITED (HAESL), 70 CHUN CHOI STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, SECTION G, TOWN LOT NO.39, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257695
+        ]
+      ],
+      "coordinate": [
+        1.9944174987947552,
+        0.3888859024963798,
+        13.699999809265137
+      ],
+      "halfSize": [
+        98.06443500006571,
+        103.63609999977052,
+        8.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1430257667,
+        2,
+        [
+          [
+            2998802460,
+            4,
+            "Pat Chun International Ltd.",
+            "1/F, PAT CHUN BUILDING, 18 CHUN WANG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2998802479,
+            4,
+            "Pat Chun International Ltd",
+            "G/F, PAT CHUN BUILDING, TSEUNG KWAN O INDUSTRIAL ESTATE, 18 CHUN WANG STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257751
+        ]
+      ],
+      "coordinate": [
+        1.9943774474845384,
+        0.3889239698160272,
+        9.899999618530273
+      ],
+      "halfSize": [
+        27.940349999815226,
+        31.557814999483526,
+        5.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1430257668,
+        4,
+        [
+          [
+            2998803454,
+            4,
+            "Shiu Pong Ice (Cube Ice & Ice Carving) Limited",
+            "FACTORY 1, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2998807067,
+            4,
+            "ORIENT RISE DEVELOPMENT LIMITED",
+            "FACTORY 2, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2998807748,
+            4,
+            "SHIU PONG MANAGEMENT AND INVESTMENT COMPANY LIMITED",
+            "FACTORY 3, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2998807854,
+            4,
+            "SHIU PONG DRY ICE COMPANY LIMITED",
+            "FACTORY 4, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257752
+        ]
+      ],
+      "coordinate": [
+        1.9943734758611653,
+        0.38892470871030455,
+        7.350000381469727
+      ],
+      "halfSize": [
+        7.194914999883622,
+        8.117499999701977,
+        2.750000238418579
+      ]
+    }
+  ]
+}

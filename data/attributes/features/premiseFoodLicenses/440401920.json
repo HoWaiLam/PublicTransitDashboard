@@ -1,0 +1,561 @@
+{
+  "features": [
+    {
+      "attributes": [
+        440401920,
+        27,
+        [
+          [
+            2193000371,
+            1,
+            "\u540d\u9580",
+            "SHOP NO. 62, G/F, GLORIOUS GARDEN, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ],
+          [
+            2993800098,
+            4,
+            "Circle K Convenience Store",
+            "PORTION A OF SHOP NO. 87, G/F, GLORIOUS GARDEN, NO. 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-23"
+          ],
+          [
+            2993801772,
+            4,
+            "\u8fea\u65af\u9eb5\u5305\u9905\u5e97",
+            "SHOP 2, G/F, GLORIOUS MARKET, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2993801833,
+            4,
+            "\u52dd\u8a18\u71d2\u81d8\u98ef\u5e97",
+            "SHOPSTALL NO. 20A, G/F, MARKET, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-17"
+          ],
+          [
+            2993804203,
+            4,
+            "\u5bb6\u59d0\u5370\u5c3c\u5e97",
+            "SHOP 47, G/F, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2993805428,
+            4,
+            "\u963f\u4e00\u5c0f\u5eda",
+            "SHOP 11, G/F, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2993807336,
+            4,
+            "\u65b0\u8a18\u7f8e\u98df",
+            "SHOP 25, G/F, GLORIOUS GARDEN,NO. 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2993808302,
+            4,
+            "\u795d\u795d\u5ddd\u7cb5\u7f8e\u98df",
+            "SHOP NO. 80, GROUND FLOOR, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2993808472,
+            4,
+            "\u9f4a\u9f4a\u4e32\u6cf0\u5f0f\u5c0f\u98df",
+            "SHOP 23, G/F, GLORIOUS GARDEN, NO. 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-10"
+          ],
+          [
+            2993809110,
+            4,
+            "Jimanya",
+            "SHOP 9, G/F, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-11"
+          ],
+          [
+            2993811065,
+            4,
+            "\u6dfb\u5bf6\u624b\u6495\u96de",
+            "SHOP NO. 3, G/F, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-18"
+          ],
+          [
+            4993812190,
+            4,
+            "\u5feb\u6a02\u8543\u85af",
+            "SHOP 1, G/F, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            3693001378,
+            5,
+            "\u767e\u4f73\u6d77\u9bae",
+            "G/F, SHOPSTALL NO.42, MARKET, GLORIOUS GARDEN, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ],
+          [
+            3693001402,
+            5,
+            "Wellcome",
+            "G/F, SHOP NO. 88 (PORTION), GLORIOUS GARDEN, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-30"
+          ],
+          [
+            3693001420,
+            5,
+            "\u5be6\u60e0\u8089\u98df\u5c08\u9580\u5e97",
+            "G/F, SHOPSTALL NO.14, MARKET, GLORIOUS GARDEN, LUNG MUN ROAD, TMTL 405, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-24"
+          ],
+          [
+            3693001536,
+            5,
+            "\u65b0\u5229\u9bae\u9b5a",
+            "G/F, SHOPSTALL NO. 39, GLORIOUS MARKET, GLORIOUS GARDEN, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-19"
+          ],
+          [
+            3693800146,
+            5,
+            "\u9f0e\u8c50\u9bae\u8089\u98df\u54c1",
+            "STALL NO. 32, G/F, GLORIOUS MARKET, GLORIOUS GARDEN, TMTL 405, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            3693800261,
+            5,
+            "\u5b8f\u806f\u8089\u67b1",
+            "MARKET STALL NO. 34, G/F, GLORIOUS MARKET, GLORIOUS GARDEN, TMTL 405, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-24"
+          ],
+          [
+            3693800377,
+            5,
+            "\u5bcc\u5065\u9bae\u9b5a",
+            "MARKET STALL NO. 6, G/F, GLORIOUS MARKET, GLORIOUS GARDEN, TMTL NO. 405, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-21"
+          ],
+          [
+            3693801121,
+            5,
+            "\u9245\u767c\u9bae\u9b5a",
+            "SHOP 12, G/F, SHOPPING ARCADE, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-04-09"
+          ],
+          [
+            3693802461,
+            5,
+            "\u5ee3\u6771\u8089\u98df\u516c\u53f8",
+            "SHOP 16, G/F, GLORIOUS GARDEN MARKET, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3693802522,
+            5,
+            "\u5bcc\u5f37\u71d2\u70e4\u51cd\u8089",
+            "SHOP 29, G/F, MARKET, GLORIOUS GARDEN, NO.45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ],
+          [
+            3693802559,
+            5,
+            "\u5468\u6c0f\u6d77\u9bae\u6709\u9650\u516c\u53f8",
+            "STALL NO. 8, G/F, MARKET, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            3693803686,
+            5,
+            "GOODY SUPERMARKET",
+            "PORTIONS OF SHOP K01, G/F, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ],
+          [
+            3693803826,
+            5,
+            "Kai Bo Food Supermarket",
+            "SHOP NO. 52-54, G/F, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ],
+          [
+            3693803996,
+            5,
+            "QDAMA",
+            "PORTION OF SHOP NO. 83, G/F, GLORIOUS GARDEN, NO. 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            3593800145,
+            8,
+            "\u52dd\u8a18",
+            "SHOPSTALL NO. 20, G/F, MARKET, GLORIOUS GARDEN, 45 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          440402259
+        ]
+      ],
+      "coordinate": [
+        1.9890623909751903,
+        0.3906675218885051,
+        14.100000381469727
+      ],
+      "halfSize": [
+        52.54450999991968,
+        79.56053499970585,
+        9.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        440401921,
+        32,
+        [
+          [
+            2193000344,
+            1,
+            "\u9f8d\u9580",
+            "STALL M83, G/F, WET MARKET, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2993000971,
+            4,
+            "\u4e5d\u6708\u82b1",
+            "SHOPSTALL M33A, G/F, WET MARKET, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2993001053,
+            4,
+            "\u98df\u4e4b\u6a02",
+            "SHOP NO. 27, G/F, LUNG MUN OASIS, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2993001363,
+            4,
+            "\u9127\u592a\u7f8e\u98df",
+            "SHOPSTALL NO. 35, G/F, WET MARKET, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-20"
+          ],
+          [
+            2993001433,
+            4,
+            "\u9f8d\u9580\u5c45\u5c0f\u98df",
+            "SHOP NO. 16, G/F, LUNG MUN OASIS, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-22"
+          ],
+          [
+            2993001655,
+            4,
+            "5\u2103",
+            "SHOP NO. 37, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2993801578,
+            4,
+            "\u5065\u8a18\u7f8e\u98df",
+            "SHOP NO. 31, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2993802030,
+            4,
+            "\u5473\u7de3",
+            "SHOP NO. 21, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2993802818,
+            4,
+            "\u5149\u8a18",
+            "SHOP 36, G/F, BLOCK 2, LUNG MUN OASIS, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2993802951,
+            4,
+            "\u6c38\u8c50\u98df\u574a",
+            "SHOPSTALL NO. M66, G/F, MARKET, LUNG MUN OASIS, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2993804276,
+            4,
+            "\u9999\u6e2f\u8857\u982d\u5c0f\u98df",
+            "SHOP 8, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2993804498,
+            4,
+            "MODERN STAND LANE",
+            "SHOP 7, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-06"
+          ],
+          [
+            2993804610,
+            4,
+            "\u6ce1\u6cac\u8336",
+            "SHOP 22, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2993805145,
+            4,
+            "\u9ebb\u7529\u4f6c\u72d7\u4ed4\u7c89",
+            "SHOP NO. 35, GROUND FLOOR, BLOCK 2, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2993805181,
+            4,
+            "\u597d\u62cd\u6a94",
+            "SHOP 38, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
+            2993806120,
+            4,
+            "ZEPPELIN HOT DOG SHOP",
+            "SHOP NO. 76, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ],
+          [
+            2993806175,
+            4,
+            "\u9f8d\u9580\u5c45\u5cb1\u6c11\u5e97",
+            "SHOP 10, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2993806546,
+            4,
+            "Dan Yatai",
+            "SHOP 50, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-03-24"
+          ],
+          [
+            2993807798,
+            4,
+            "\u9b5a\u81b3\u4e3c",
+            "SHOP NO. 118, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            2993809554,
+            4,
+            "\u6cf0\u7f8e\u7f8e\u98df",
+            "SHOP NO. 17, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2993809615,
+            4,
+            "Mo Mo \u51b7\u4e32\u4e32 \u751f\u6efe\u7ca5",
+            "SHOP 6, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-26"
+          ],
+          [
+            2993810220,
+            4,
+            "\u6842\u6797\u7c73\u7dda",
+            "SHOP NO. 26, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2993810239,
+            4,
+            "\u5bb6\u597d\u7f8e\u98df",
+            "SHOP 75, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2993810549,
+            4,
+            "DELI EXQUISITE",
+            "SHOP NO.72, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-10-18"
+          ],
+          [
+            2993810743,
+            4,
+            "BURGER JACK",
+            "SHOP NO. 73, G/F, BLOCK 4, LUNG MUN OASIS, NO. 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2993811092,
+            4,
+            "\u5bb6\u59d0\u7f8e\u98df",
+            "SHOP NO. 61, G/F, LUNG MUN OASIS SHOPPING CENTRE, NO. 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2993811126,
+            4,
+            "\u8fea\u81ea\u7531\u5feb\u9910",
+            "SHOP 119, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2993811214,
+            4,
+            "\u51f1\u6607\u7f8e\u98df",
+            "SHOP NOS. 108 & 109, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2993811384,
+            4,
+            "\u516b\u65b9\u7f8e\u98df",
+            "STALL M55, G/F, WET MARKET, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2993811472,
+            4,
+            "\u516b\u65b9\u7f8e\u98df",
+            "STALL M53, G/F, WET MARKET, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-11"
+          ],
+          [
+            2993811524,
+            4,
+            "KUNG FU TEA",
+            "SHOP NO. 25, G/F, LUNG MUN OASIS, 43 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-06"
+          ],
+          [
+            2993811807,
+            4,
+            "\u9f8d\u9580\u9435\u677f\u738b",
+            "SHOP NO. 15, G/F, LUNG MUN OASIS, LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          440402356
+        ]
+      ],
+      "coordinate": [
+        1.9890900171955643,
+        0.39069993003923364,
+        6.75
+      ],
+      "halfSize": [
+        18.965315000154078,
+        31.640789999626577,
+        2.5500001907348633
+      ]
+    },
+    {
+      "attributes": [
+        440401922,
+        2,
+        [
+          [
+            2993801806,
+            4,
+            "Pizza Hut",
+            "SHOP 126, LEVEL 3, SUN TUEN MUN SHOPPING CENTRE, 55-65 LUNG MUN ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3293000229,
+            6,
+            "7-Eleven",
+            "PORTON A OF SHOP NOS. 178 & 180, LEVEL 3, SUN TUEN MUN SHOPPING CENTRE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          440402367
+        ]
+      ],
+      "coordinate": [
+        1.9890654515108617,
+        0.3906258795649871,
+        17.100000381469727
+      ],
+      "halfSize": [
+        142.77900000009686,
+        83.92356000002474,
+        11.699999809265137
+      ]
+    }
+  ]
+}

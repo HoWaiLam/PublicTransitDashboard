@@ -1,0 +1,348 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1239416832,
+        1,
+        [
+          [
+            2953802694,
+            4,
+            "66",
+            "SHOP A, G/F & M/F, GARTSIDE BUILDING, 24 YUK WAH CRESCENT, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239416891
+        ]
+      ],
+      "coordinate": [
+        1.9932140638737028,
+        0.39002395663243516,
+        93.3499984741211
+      ],
+      "halfSize": [
+        5.587944999802858,
+        4.367434999905527,
+        7.75
+      ]
+    },
+    {
+      "attributes": [
+        1239416833,
+        2,
+        [
+          [
+            2953801257,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 5, G/F., FU YAN HOUSE, FU SHAN ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-08-16"
+          ],
+          [
+            3253800168,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 5, G/F., FU YAN HOUSE, FU SHAN ESTATE, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-08-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239416953
+        ]
+      ],
+      "coordinate": [
+        1.9933108565952014,
+        0.3899544769666453,
+        88.55000305175781
+      ],
+      "halfSize": [
+        19.70050000026822,
+        45.560374999418855,
+        27.64999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1239416834,
+        3,
+        [
+          [
+            2953802579,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. A14-A16G/F, GRAND VIEW GARDEN, 185 HAMMER HILL ROAD, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-19"
+          ],
+          [
+            3653801846,
+            5,
+            "U SELECT DISCOUNT STORE",
+            "PORTION C OF SHOP D, 1/F, COMM. CARPARK BLOCK, GRAND VIEW GARDEN, 185 HAMMER HILL ROAD, KOWLOON",
+            null,
+            "2026-06-11"
+          ],
+          [
+            3253241648,
+            6,
+            "7-11",
+            "SHOP A14-A16, G/F, GRAND VIEW GARDEN, 185 HAMMER HILL ROAD, DIAMOND HILL, KOWLOON",
+            null,
+            "2026-10-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239416958
+        ]
+      ],
+      "coordinate": [
+        1.9933069768613005,
+        0.3899336341718336,
+        52.75
+      ],
+      "halfSize": [
+        29.059464999940246,
+        84.10317000001669,
+        14.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1239416835,
+        1,
+        [
+          [
+            2953242685,
+            4,
+            "CHI LIN NUNNERY",
+            "RM G01, G/F, CHI LIN CARE & ATTENTION HOME, 5 CHI LIN DRIVE, DIAMOND HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-11-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239416992
+        ]
+      ],
+      "coordinate": [
+        1.993271897452231,
+        0.3899207829221026,
+        28.350000381469727
+      ],
+      "halfSize": [
+        37.02080999966711,
+        39.06950999982655,
+        6.55000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1239416836,
+        4,
+        [
+          [
+            2953801239,
+            4,
+            "\u958b\u5fc3\u679c\u5712",
+            "SHOP E1, G/F., KA WAH BUILDING, 30 YUK WAH CRESCENT, TZE WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2953803624,
+            4,
+            "\u597d\u4f73\u5473\u624b\u6495\u9dc4",
+            "SHOP B3, G/F, KA WAH BUILDING, 80 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2953803688,
+            4,
+            "HoTea Company",
+            "SHOP B2, G/F, KA WAH BUILDING, 74-80 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-03-24"
+          ],
+          [
+            2953807255,
+            4,
+            "\u662f\u4f46\u5566",
+            "SHOP B1, G/F, KA WAH BUILDING, 74-80 YUK WAH STREET, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-09-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417060
+        ]
+      ],
+      "coordinate": [
+        1.993215119827306,
+        0.39002966333044464,
+        83.19999694824219
+      ],
+      "halfSize": [
+        11.076965000014752,
+        6.6413000002503395,
+        3.1000022888183594
+      ]
+    },
+    {
+      "attributes": [
+        1239416837,
+        4,
+        [
+          [
+            2953801637,
+            4,
+            "\u559c\u6085\u7f8e\u98df\u5e97",
+            "SHOP 1A, MAN PO BUILDING, 28 YUK WAH CRESCENT, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2953805198,
+            4,
+            "\u9bae\u5de5\u574a",
+            "SHOP 8A, G/F, MAN PO BUILDING, 28 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2953806526,
+            4,
+            "\u559c\u6a02\u96de\u86cb\u4ed4",
+            "SHOP 1, G/F, MAN PO BUILDING, 28 YUK WAH CRESCENT, TSZ WAN SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-04-04"
+          ],
+          [
+            2953806678,
+            4,
+            "\u5e78\u798f\u7ca5\u5e97",
+            "SHOP 2, M/F & G/F, MAN PO BUILDING, 28 YUK WAH CRESCENT, TSZ WAN SHAN, KOWLOON",
+            null,
+            "2026-09-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417061
+        ]
+      ],
+      "coordinate": [
+        1.9932152318821033,
+        0.3900271796903945,
+        82.55000305175781
+      ],
+      "halfSize": [
+        12.691765000112355,
+        7.944680000655353,
+        2.75
+      ]
+    },
+    {
+      "attributes": [
+        1239416838,
+        4,
+        [
+          [
+            2953807291,
+            4,
+            "\u591a\u52a0\u4e00\u5e97",
+            "STALL NO. 15, G/F, MARKET, FU SHAN ESTATE, FU SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-12-10"
+          ],
+          [
+            3653800533,
+            5,
+            "\u5149\u8f1d\u8c6c\u8089\u67b1",
+            "STALL NO. 14, MARKET, FU SHAN ESTATE, FU SHAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-04-12"
+          ],
+          [
+            3653803408,
+            5,
+            "KAI BO FOOD SUPERMARKET",
+            "PORTION OF SHOP 1,MARKET, FU SHAN ESTATE, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-03-23"
+          ],
+          [
+            3553298559,
+            8,
+            "Wa Kee Roasted Meat",
+            "STALL NO.5, G/F, MARKET FU SHAN ESTATE, FU SHAN ESTATE, PO KONG VILLAGE ROAD, DIAMOND HILL, WONG TAI SIN, KOWLOON",
+            null,
+            "2026-10-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417066
+        ]
+      ],
+      "coordinate": [
+        1.993317144961978,
+        0.3899540937004153,
+        56.04999923706055
+      ],
+      "halfSize": [
+        68.18489000014961,
+        67.06775500066578,
+        4.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1239416839,
+        1,
+        [
+          [
+            3653120930,
+            5,
+            "Wellcome",
+            "G/F, SUN LAI GARDEN COMM. PODIUM, 2 KING TUNG STREET, NGAU CHI WAN, WONG TAI SIN, KOWLOON",
+            null,
+            "2027-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1239417075
+        ]
+      ],
+      "coordinate": [
+        1.9933261742376769,
+        0.3899188999291621,
+        45.25
+      ],
+      "halfSize": [
+        67.19329999992624,
+        36.12734500039369,
+        2.950000762939453
+      ]
+    }
+  ]
+}

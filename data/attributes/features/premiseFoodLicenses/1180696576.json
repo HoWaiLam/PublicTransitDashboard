@@ -1,0 +1,4515 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1180696576,
+        1,
+        [
+          [
+            2597000151,
+            3,
+            "\u570b\u969b\u98df\u5802",
+            "BLOCK H J & L, 2/F, INTERNATIONAL IND'L CENTRE, 2-8 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696586
+        ]
+      ],
+      "coordinate": [
+        1.993029474070845,
+        0.3909646479489664,
+        33.75
+      ],
+      "halfSize": [
+        46.35571500007063,
+        35.64896999951452,
+        5.75
+      ]
+    },
+    {
+      "attributes": [
+        1180696577,
+        4,
+        [
+          [
+            2997804919,
+            4,
+            "HAAGEN DAZS",
+            "WORKSHOP 5-6, 4/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2997808823,
+            4,
+            "( NO RECORD FOUND)",
+            "MAJOR PORTION OF UNIT 3, 4/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2997814479,
+            4,
+            "No Record",
+            "PORTION OF UNIT 4, 6/F, WAH WAI INDUSTRIAL CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-12"
+          ],
+          [
+            4997815656,
+            4,
+            "ROSE FOOD",
+            "UNIT 3, 6/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696587
+        ]
+      ],
+      "coordinate": [
+        1.9930393754235929,
+        0.39095598110578006,
+        34.400001525878906
+      ],
+      "halfSize": [
+        51.7269999999553,
+        44.94749999977648,
+        10.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1180696578,
+        2,
+        [
+          [
+            2597000197,
+            3,
+            "\u5320\u5fc3\u5473\u820d",
+            "UNIT 6, 4/F, WAH LAI INDUSTRIAL CENTRE, 10-14 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2997812543,
+            4,
+            "EAT WELL",
+            "ROOM 5, G/F, WAH LAI INDUSTRIAL CENTRE, 10-14 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696588
+        ]
+      ],
+      "coordinate": [
+        1.9930186184329983,
+        0.39095719262574247,
+        35.25
+      ],
+      "halfSize": [
+        36.138499999884516,
+        29.151999999769032,
+        7.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1180696579,
+        3,
+        [
+          [
+            2597000337,
+            3,
+            "\u5927\u5feb\u6a02\u98df\u5802",
+            "UNIT 4B, G/F, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2997001167,
+            4,
+            "\u6c38\u597d\u98df\u54c1\u516c\u53f8(\u6d77\u7687\u570b\u969b\u9644\u5c6c\u6a5f\u69cb)",
+            "UNIT 9, 1/F, VERISTRONG CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2997806687,
+            4,
+            "\u5929\u7136\u6930\u5b50\u865f",
+            "ROOM 16, 3/F, BLOCK B, VERISTRONG INDUSTRIAL CENTRE, NOS. 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696589
+        ]
+      ],
+      "coordinate": [
+        1.993049924819522,
+        0.3909477009216057,
+        27.75
+      ],
+      "halfSize": [
+        57.04200000036508,
+        53.467000000178814,
+        6.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1180696580,
+        5,
+        [
+          [
+            2197800201,
+            1,
+            "OP CAFE",
+            "SHOP NOS. G92-93 (MINOR PORTION), GROUND FLOOR, PLAZA ASCOT, 1 TSUN KING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2997800698,
+            4,
+            "HUNG FOOK TONG",
+            "SHOP NO. G66, PLAZA ASCOT, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-25"
+          ],
+          [
+            2997803846,
+            4,
+            "Fusion",
+            "STALL NO. 16 , SHOP NO. 1-17, PLAZA ASCOT, ROYAL ASCOT, TSUN KING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2997803855,
+            4,
+            "Fusion",
+            "STALL NO. 12 & 13, SHOP NO. 1-17, PLAZA ASCOT, ROYAL ASCOT, TSUN KING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3697801509,
+            5,
+            "Fusion",
+            "STALL NO. 14, 15 AND PORTIONS OF SHOP NO. 1-17, PLAZA ASCOT, ROYAL ASCOT, TSUN KING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696593
+        ]
+      ],
+      "coordinate": [
+        1.9931856566314163,
+        0.3909354809150672,
+        12.699999809265137
+      ],
+      "halfSize": [
+        81.87850000010803,
+        73.40599999949336,
+        6.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696581,
+        1,
+        [
+          [
+            2597000212,
+            3,
+            "\u83ef\u8000\u98df\u5802",
+            "SHOP NO 2, L1, WAH YIU IND'L CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696594
+        ]
+      ],
+      "coordinate": [
+        1.9930600096270998,
+        0.3909396637161243,
+        23.850000381469727
+      ],
+      "halfSize": [
+        49.5,
+        47.75,
+        5.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1180696582,
+        5,
+        [
+          [
+            2197000324,
+            1,
+            "\u5609\u6a02\u9eb5\u5305",
+            "NO 7B, G/F, LEADER IND'L BUILDING, 57-59 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2597000319,
+            3,
+            "\u6771\u76db\u98df\u5802",
+            "UNIT 6C, G/F, LEADER INDUSTRIAL CENTRE, 57 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2597800065,
+            3,
+            "FIRST KITCHEN",
+            "SHOP NO. 4, G/F, LEADER INDUSTRIAL CENTRE, 57-59 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2997000775,
+            4,
+            "\u552f\u7f8e\u58eb\u591a",
+            "NO 6A, G/F, LEADER IND'L CENTRE, 57-59 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2997809613,
+            4,
+            "MOON KEE FROZEN MEAT LTD",
+            "UNIT 414-416, 4/F, LEADER INDUSTRIAL CENTRE, 57-59 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696595
+        ]
+      ],
+      "coordinate": [
+        1.993040408009512,
+        0.390939466229647,
+        26.599998474121094
+      ],
+      "halfSize": [
+        40.915705000050366,
+        40.75750000029802,
+        8.499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1180696583,
+        4,
+        [
+          [
+            2897800095,
+            2,
+            "MEISEI H.K. COLD STORAGE CO., LTD",
+            "FACTORY A, G/F, FO TAN INDUSTRIAL CENTRE, 26-28 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2597800144,
+            3,
+            "Ichu Club",
+            "SHOP NO. 4E, FRONT, G/F, FO TAN INDUSTRIAL CENTRE, 26-28 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            2597800171,
+            3,
+            "\u559c\u6a02\u4ead",
+            "UNIT 4F (REAR), G/F, FO TAN INDUSTRIAL CENTRE, 26-28 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2997814309,
+            4,
+            "The Symphony Designer Cakes",
+            "PORTION A OF UNIT 4, 4/F., FO TAN INDUSTRIAL CENTRE, NOS. 26-28 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696596
+        ]
+      ],
+      "coordinate": [
+        1.9930691721023193,
+        0.39093171024856266,
+        23.149999618530273
+      ],
+      "halfSize": [
+        51.700000000186265,
+        59.47099999990314,
+        8.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1180696584,
+        1,
+        [
+          [
+            2597000179,
+            3,
+            "\u9592\u65e5\u5c0f\u5c4b",
+            "NO 13, 3/F, WORLD-WIDE INDUSTRIAL CENTRE, 43-47 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696597
+        ]
+      ],
+      "coordinate": [
+        1.9930016200128973,
+        0.39093304574133925,
+        34.95000076293945
+      ],
+      "halfSize": [
+        51.29650000017136,
+        47.173499999567866,
+        7.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1180696585,
+        6,
+        [
+          [
+            2997810325,
+            4,
+            "\u591a\u9938\u98ef",
+            "STALL 14 & 15, G/F, JUBILEE GARDEN MARKET, JUBILEE GARDEN, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2997813731,
+            4,
+            "UNI \u00ba CORNER",
+            "STALL 4, LEVEL 1, JUBILEE GARDEN MARKET, JUBILEE GARDEN, 2-18 LOK KING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-19"
+          ],
+          [
+            3697805149,
+            5,
+            "\u5ee3\u6771\u8089\u98df\u516c\u53f8",
+            "STALL NO. 13, G/F, JUBILEE MARKET, JUBILEE GARDEN, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-27"
+          ],
+          [
+            3697805787,
+            5,
+            "\u725b\u52e2\u9a38\u726f\u725b",
+            "STALL NO. 25, LEVEL 1, JUBILEE MARKET, JUBILEE GARDEN, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-05"
+          ],
+          [
+            3697805893,
+            5,
+            "\u6d77\u79a7",
+            "STALL NOS.16-18, LEVEL 1, JUBILEE MARKET, JUBILEE GARDEN, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-31"
+          ],
+          [
+            3697805909,
+            5,
+            "\u9577\u98db\u96de\u9d5d\u9d28",
+            "STALL NO. 19-21, LEVEL 1, JUBILEE MARKET, JUBILEE GARDEN, 2-18 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696600
+        ]
+      ],
+      "coordinate": [
+        1.9931728997344171,
+        0.39091411784525065,
+        15.899999618530273
+      ],
+      "halfSize": [
+        94.20081500010565,
+        128.44991500023752,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        1180696586,
+        13,
+        [
+          [
+            2997801691,
+            4,
+            "\u65b0\u53e3\u610f\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "ROOM 6, 8/F, BLOCK E, WAH LOK INDUSTRIAL CENTRE, 31-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ],
+          [
+            2997801868,
+            4,
+            "YEW CHUNG CENTRAL KITCHEN",
+            "UNIT 2-3, 3/F, BLOCK E, WAH LOK INDUSTRIAL CENTRE, 37-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2997802700,
+            4,
+            "\u540c\u5fc3\u98df\u54c1\u8cbf\u6613\u516c\u53f8",
+            "WORKSHOP C16, 7/F, BLOCK C, WAH LOK INDUSTRIAL CENTRE, PHASE II, 31-35 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-03"
+          ],
+          [
+            2997802782,
+            4,
+            "The Nutter Company",
+            "FLAT 12, 3/F, WAH LOK INDUSTRIAL CENTRE, SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            2997804788,
+            4,
+            "freshgrain.hk",
+            "UNIT 13, 3/F, BLOCK C, WAH LOK INDUSTRIAL CENTRE, 31-35 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ],
+          [
+            2997805666,
+            4,
+            "\u529b\u65b0\u8cbf\u6613",
+            "UNIT B28 & B29, 3/F, BLOCK B, WAH LOK INDUSTRIAL CENTRE, 31-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2997808391,
+            4,
+            "E-seido (Hong Kong) Limited",
+            "ROOM 8, 8/F, BLOCK E, WAH LOK INDUSTRIAL CENTRE,31-35 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2997811151,
+            4,
+            "YUM SOUP",
+            "FLAT 6, 3/F., BLOCK E, WAH LOK INDUSTRIAL CENTRE, 31-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2997811461,
+            4,
+            "\u8089\u9bae\u6b32\u98df",
+            "UNIT 5, 5/F, BLOCK E, WAH LOK INDUSTRIAL CENTRE, 31-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2997812561,
+            4,
+            "Bravo Dumplings",
+            "WORKSHOP C13, 4/F, WAH LOK INDUSTRIAL CENTRE PHASE 2, NOS. 31-35 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-23"
+          ],
+          [
+            2997812853,
+            4,
+            "Baking Addiction Limited",
+            "PORTION A OF UNIT 40, 3/F, BLOCK D, WAH LOK INDUSTRIAL CENTRE, 37-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2997813209,
+            4,
+            "Polyflow Hong Kong Manufactory",
+            "FLAT D35, 6/F, WAH LOK INDUSTRIAL CENTRE PHASE 2, NOS. 31-35 SHAN MEI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-02"
+          ],
+          [
+            3297800654,
+            6,
+            "Baking Addiction Limited",
+            "PORTION B OF UNIT 40, 3/F, BLOCK D, WAH LOK INDUSTRIAL CENTRE, 37-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696601
+        ]
+      ],
+      "coordinate": [
+        1.9930150506506834,
+        0.39092212717906627,
+        30.549999237060547
+      ],
+      "halfSize": [
+        73.94950000010431,
+        70.91450000088662,
+        12.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696587,
+        8,
+        [
+          [
+            2897800147,
+            2,
+            "\u5408\u8208\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "SHOP NO 7, G/F, WAH SANG IND BLDG, 12-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-28"
+          ],
+          [
+            2997001051,
+            4,
+            "\u7403\u8a18",
+            "SHOP 5C, G/F, WAH SANG IND'L BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            2997001273,
+            4,
+            "\u5fd7\u751f\u98df\u54c1\u8cbf\u6613\u6709\u9650\u516c\u53f8",
+            "UNIT 8 & 9, 3/F, BLOCK A WAH SANG IND'L BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-08"
+          ],
+          [
+            2997801008,
+            4,
+            "ORIGINAL TASTE CATERING COMPANY LIMITED",
+            "UNIT 1-4, PORTION OF UNIT 5 & UNIT 18, UNIT 19-20 AT 11/F. & PORTION OF UNIT 12 AT 2/F, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2997801318,
+            4,
+            "Cafe Yummy",
+            "FRONT PORTION OF UNIT 4, G/F, WAH SANG INDUSTRIAL BUILDING, 12-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-18"
+          ],
+          [
+            2997804229,
+            4,
+            "Tai Hing",
+            "SHOP 316-319, 3/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2997805754,
+            4,
+            "Tai Hing",
+            "UNIT 312-313, 3/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2997812172,
+            4,
+            "Tai Hing",
+            "UNIT 201, 2/F, BLOCK A, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696602
+        ]
+      ],
+      "coordinate": [
+        1.992991041488154,
+        0.39092555607167545,
+        35.75
+      ],
+      "halfSize": [
+        42.389979999978095,
+        43.79200000036508,
+        5.15000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1180696588,
+        3,
+        [
+          [
+            2597800296,
+            3,
+            "DIM SUM CLUB",
+            "WORKSHOP 3, G/F, HARRY INDUSTRIAL BUILDING, 49-51 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2997001060,
+            4,
+            "\u83ef\u611b\u5ead",
+            "SHOP 1A, UPPER G/F, HARRY IND'L BUILDING, 49-51 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2997002258,
+            4,
+            "\u6f6e\u89c0\u5feb\u9910\u5ef3",
+            "WORKSHOP NO 2, UPPER G/F, HARRY IND'L BUILDING, 49-51 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696603
+        ]
+      ],
+      "coordinate": [
+        1.9930550929793498,
+        0.39092600950015616,
+        21.5
+      ],
+      "halfSize": [
+        28.98442000010982,
+        25.78508500009775,
+        7.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1180696589,
+        13,
+        [
+          [
+            2597000072,
+            3,
+            "\u65b0\u83ef\u806f\u98df\u5802",
+            "BLOCK 8, 2/F, WAH LUEN IND'L CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2597800278,
+            3,
+            "\u98ef\u898f",
+            "UNIT NOS. 6 & 7, 2/F., WAH LUEN INDUSTRIAL CENTRE, NOS. 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2997000173,
+            4,
+            "\u9ece\u69ae\u8a18",
+            "NO 3, 2/F, WAH LUEN IND'L BUILDING, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000298,
+            4,
+            "\u5408\u8208",
+            "SHOP NO. 3, 4 & 5, G/F, WAH LUEN IND'L BUILDING, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000881,
+            4,
+            "\u5927\u5feb\u6a02",
+            "G/F, SHOP NO 50 (PORTION), WAH LUEN IND'L CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-23"
+          ],
+          [
+            2997800643,
+            4,
+            "TAI FEI LOK",
+            "SHOP 39, G/F, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-09"
+          ],
+          [
+            2997801947,
+            4,
+            "\u98ef\u805a\u5175\u5718\u6709\u9650\u516c\u53f8",
+            "UNIT 51, G/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-27"
+          ],
+          [
+            2997807167,
+            4,
+            "(NO RECORD FOUND)",
+            "ROOM 808, 8F, BLOCK B,WAH LUEN INDUSTRIAL CENTRE,15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2997809206,
+            4,
+            "\u65e5\u6607\u98df\u54c1\u516c\u53f8",
+            "UNIT 18, 2/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-04"
+          ],
+          [
+            2997811443,
+            4,
+            "Sam Yeung Ho Food Company",
+            "ROOM 25, 2/F, BLOCK A, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2997811683,
+            4,
+            "JAY WORLD LIMITED",
+            "ROOM 308, 3/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            3697002935,
+            5,
+            "\u5ee3\u5229",
+            "UNIT 3, 4/F, BLOCK A, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ],
+          [
+            3697801475,
+            5,
+            "\u5468\u8a18",
+            "SHOP 23, G/F, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696604
+        ]
+      ],
+      "coordinate": [
+        1.992979790563838,
+        0.3909183349229991,
+        42.25
+      ],
+      "halfSize": [
+        47.75649999966845,
+        54.89763499982655,
+        6.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696590,
+        1,
+        [
+          [
+            2997815162,
+            4,
+            "Hong Kong Island Distillery",
+            "WORKSHOP B, G/F, HARIBEST INDUSTRIAL BUILDING, 45-47 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696605
+        ]
+      ],
+      "coordinate": [
+        1.9930610289221913,
+        0.39092087781506296,
+        17.549999237060547
+      ],
+      "halfSize": [
+        30.07349000032991,
+        29.489040000364184,
+        4.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696591,
+        10,
+        [
+          [
+            2597800117,
+            3,
+            "Manson Canteen",
+            "UNIT C1, G/F, BLOCK 1, KIN HO INDUSTRIAL BUILDING, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2597800320,
+            3,
+            "KPOP",
+            "UNIT 6, FACTORY B, G/F, BLOCK 1, KIN HO INDUSTRIAL BUILDING, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-02"
+          ],
+          [
+            2597800339,
+            3,
+            "\u73b2\u59d0\u7f8e\u98df\u574a",
+            "G/F (PORTION) & M/F, CANTEEN, BLOCK II, KIN HO INDUSTRIAL BUILDING, 14-24 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2997807565,
+            4,
+            "DAI HING KITCHEN",
+            "SHOP B01, G/F, PHASE 1, KINHO INDUSTRIAL CENTRE,14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2997808407,
+            4,
+            "STUDIO CAFFEINE",
+            "FACTORY B, PORTION 02, G/F, BLOCK 1, KIN HO INDUSTRIAL BUILDING, NOS. 14-24 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2997808531,
+            4,
+            "\u54e5\u54e5\u6dfb\u98ef\u2219\u59b9\u59b9\u6ce1\u8336",
+            "ROOM C4, G/F, PHASE 1, KINHO INDUSTRIAL CENTRE, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2997809321,
+            4,
+            "Viet Tai Kan",
+            "UNIT 3, FACTORY B, G/F, BLOCK 1,KIN HO INDUSTRIAL BUILDING,14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-14"
+          ],
+          [
+            2997810486,
+            4,
+            "\u73b2\u59d0\u79c1\u623f\u83dc",
+            "UNIT B3, G/F, BLOCK 2, KINHO INDUSTRIAL BUILDING, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2997814938,
+            4,
+            "\u5bcc\u8a18\u6f6e\u5dde\u7c89\u9eb5",
+            "SHOP B5, G/F, BLOCK 1, KIN HO INDUSTRIAL BUILDING, 14 AU PUI WAN STREET, FOTAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-29"
+          ],
+          [
+            3297800627,
+            6,
+            "Mister Softee",
+            "UNIT B1, G/F, BLOCK 2, KIN HO INDUSTRIAL BUILDING, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696607
+        ]
+      ],
+      "coordinate": [
+        1.993081783957223,
+        0.3909166777951485,
+        17.100000381469727
+      ],
+      "halfSize": [
+        59.318500000052154,
+        49.3980000000447,
+        8.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1180696592,
+        3,
+        [
+          [
+            2997000687,
+            4,
+            "Cafe de Coral",
+            "4/F, 5-13 WO SHUI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997804070,
+            4,
+            "No Record",
+            "PORTION OF 3/F, CAF\u00c9 DE CORAL CENTRE, 5 WO SHUI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            2997804238,
+            4,
+            "No Record",
+            "2/F, CAF\u00c9 DE CORAL CENTRE, 5 WO SHUI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696610
+        ]
+      ],
+      "coordinate": [
+        1.9931271167011562,
+        0.39091715285393236,
+        12.34999942779541
+      ],
+      "halfSize": [
+        28.626499999780208,
+        25.121499999426305,
+        6.449999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696593,
+        1,
+        [
+          [
+            3697800870,
+            5,
+            "Market Place by Jasons",
+            "SHOP NO. 103 (PORTION A), THE PALAZZO, 28 LOK KING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696611
+        ]
+      ],
+      "coordinate": [
+        1.9931601349411125,
+        0.3908811929534785,
+        14.84999942779541
+      ],
+      "halfSize": [
+        147.4641049997881,
+        223.25049999915063,
+        8.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696594,
+        5,
+        [
+          [
+            2997000429,
+            4,
+            "YHY",
+            "FLAT F, G , 5/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997809260,
+            4,
+            "\u4e39\u4e18\u84b8\u7559\u6240",
+            "FLAT F & G, 3/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2027-03-23"
+          ],
+          [
+            2997809516,
+            4,
+            "FLAVOUR HUNTER LIMITED",
+            "UNIT E (PORTION A), 2/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2997812260,
+            4,
+            "Pickabowl",
+            "PORTION OF UNIT D & UNIT C, 2/F, ON WAH INDUSTRIAL BUILDING, 41 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-17"
+          ],
+          [
+            2997815153,
+            4,
+            "PRESENT PASTRY LIMITED",
+            "FLAT H, 3/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696614
+        ]
+      ],
+      "coordinate": [
+        1.9930702123585486,
+        0.3909126292299119,
+        18.400001525878906
+      ],
+      "halfSize": [
+        27.79008000018075,
+        28.130215000361204,
+        7.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1180696595,
+        8,
+        [
+          [
+            2997002610,
+            4,
+            "\u65e5\u6607\u7c89\u9eb5\u5ee0",
+            "ROOM NO.15, 2/F, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-02"
+          ],
+          [
+            2997802074,
+            4,
+            "EWO FOOD & CATERING LIMITED",
+            "FLAT 1, 3/F, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2997808726,
+            4,
+            "( NO RECORD FOUND)",
+            "MINOR PORTION OF FLAT 5, 3/F, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2997812127,
+            4,
+            "No Record",
+            "MAJOR PORTION OF WORKSHOP 18 & 19, 4/F, BLOCK C, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            2997812206,
+            4,
+            "Best Price Warehouse",
+            "WORKSHOP 9, 2/F, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-31"
+          ],
+          [
+            2997812376,
+            4,
+            "CHEERFUL RAINBOW LIMITED",
+            "FLAT 39, 3/F, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2997813014,
+            4,
+            "\u97fb\u7433\u5c0f\u5eda",
+            "WORKSHOP 3C, G/F, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2997813795,
+            4,
+            "No Record",
+            "WORKSHOP 16-17 & 20-21, 4/F, BLOCK C, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696616
+        ]
+      ],
+      "coordinate": [
+        1.9930270796633822,
+        0.39090797573525593,
+        23.75
+      ],
+      "halfSize": [
+        56.28099999995902,
+        47.62002499960363,
+        8.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696596,
+        2,
+        [
+          [
+            2597800311,
+            3,
+            "DELICIOUS CANTEEN",
+            "WORKSHOP A ON 4/F, LEAPONT CENTRE, NOS.18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2597800348,
+            3,
+            "AT WORKSHOP LIMITED",
+            "WORKSHOP B, 3/F, LEAPONT INDUSTRIAL CENTRE, 18-28 WO LIU HANG ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696617
+        ]
+      ],
+      "coordinate": [
+        1.9931185385103751,
+        0.39091042411581073,
+        12.950000762939453
+      ],
+      "halfSize": [
+        26.83600000012666,
+        30.034500000067055,
+        7.250000476837158
+      ]
+    },
+    {
+      "attributes": [
+        1180696597,
+        4,
+        [
+          [
+            2997812321,
+            4,
+            "MINT",
+            "UNIT 313, 3/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2997812835,
+            4,
+            "HIKARI BAKERY LIMITED",
+            "PORTION A OF UNIT 2, G/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-17"
+          ],
+          [
+            2997813397,
+            4,
+            "GB LIVING CULTURES@FT",
+            "UNIT 13, 4/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2997815083,
+            4,
+            "CHAMPAGNE COFFEE",
+            "UNIT 9, 4/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696619
+        ]
+      ],
+      "coordinate": [
+        1.9930756389109783,
+        0.3909080887426944,
+        15.350000381469727
+      ],
+      "halfSize": [
+        27.471845000050962,
+        30.14515999983996,
+        6.049999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1180696598,
+        5,
+        [
+          [
+            2197000272,
+            1,
+            "A-1 Bakery",
+            "UNIT B & C, 2/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-31"
+          ],
+          [
+            2997001662,
+            4,
+            "A-1 Bakery Co (HK) Ltd",
+            "UNIT A, 2/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2997806483,
+            4,
+            "S. K. FOOD SUPPLY LIMITED",
+            "FLAT D, 5/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2997810592,
+            4,
+            "HA WAN PIGEON POULTRY",
+            "FLAT J, 5/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-04"
+          ],
+          [
+            2997811346,
+            4,
+            "A-1 Bakery Co. (HK) Limited",
+            "UNIT H - I, 2/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696620
+        ]
+      ],
+      "coordinate": [
+        1.9929981671305625,
+        0.39090378193879416,
+        37.150001525878906
+      ],
+      "halfSize": [
+        40.48826499981806,
+        42.72694499976933,
+        7.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1180696599,
+        1,
+        [
+          [
+            2597000221,
+            3,
+            "\u98a8\u5473\u98df\u5802",
+            "G/F, SHOP G (REAR PORTION), CENTURY IND'L CENTRE, 33-35 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696622
+        ]
+      ],
+      "coordinate": [
+        1.9930808318182232,
+        0.3909042926488151,
+        14.100000381469727
+      ],
+      "halfSize": [
+        26.088279999792576,
+        30.889230000786483,
+        6.5
+      ]
+    },
+    {
+      "attributes": [
+        1180696600,
+        2,
+        [
+          [
+            2597000018,
+            3,
+            "\u5bcc\u6fe0",
+            "FLAT C, 1/F, ON SHING IND'L BUILDING, 2-16 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2997002461,
+            4,
+            "Circle K",
+            "PORTION A OF WORKSHOP B, G/F, ON SHING INDUSTRIAL BUILDING, 2-16 WO LIU HANG ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696623
+        ]
+      ],
+      "coordinate": [
+        1.9931116619239888,
+        0.3909005764811338,
+        8.350000381469727
+      ],
+      "halfSize": [
+        26.66988500021398,
+        32.39079499989748,
+        3.1500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        1180696601,
+        4,
+        [
+          [
+            2997000942,
+            4,
+            "\u5473\u7f8e",
+            "BLOCK J, 2/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2997001495,
+            4,
+            "\u5bf6\u6e90",
+            "SHOP B, UG/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-24"
+          ],
+          [
+            2997811391,
+            4,
+            "SHARP SINO GROUP LIMITED",
+            "ROOM J, 1/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2997814336,
+            4,
+            "Cat Dynamics",
+            "UNIT D, 1/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2027-02-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696624
+        ]
+      ],
+      "coordinate": [
+        1.9930054763801701,
+        0.39089930671463297,
+        31.75
+      ],
+      "halfSize": [
+        40.700959999579936,
+        39.416704999282956,
+        3.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1180696602,
+        1,
+        [
+          [
+            2897000011,
+            2,
+            "China Resources Logistics (Shatin Cold Storage)",
+            "2-10 WO HEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696625
+        ]
+      ],
+      "coordinate": [
+        1.9931345014349817,
+        0.39089454504647636,
+        12.40000057220459
+      ],
+      "halfSize": [
+        53.750500000081956,
+        68.58250000048429,
+        8.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1180696603,
+        6,
+        [
+          [
+            2997001538,
+            4,
+            "\u4f73\u6210\u8208\u696d",
+            "SHOP B, 3/F, UNISON INDUSTRIAL CENTRE, 27-31 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2997801123,
+            4,
+            "PIZZA HUT",
+            "UNIT B2E, GROUND FLOOR, UNISON INDUSTRIAL CENTRE, 27-31 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2997808957,
+            4,
+            "(No Record Found)",
+            "UNIT D ON 2/F, UNISON INDUSTRIAL CENTRE, NOS. 27-31 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-23"
+          ],
+          [
+            2997811300,
+            4,
+            "W. E. FOOD SERVICE COMPANY LIMITED",
+            "FLAT A, 4/F, UNISON INDUSTRIAL CENTRE, 27-31 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-18"
+          ],
+          [
+            2997811823,
+            4,
+            "Burger Planet",
+            "FLAT 1A OF UNIT A, G/F, UNISON INDUSTRIAL CENTRE, 27-31 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2997813591,
+            4,
+            "W.E. Food Service Company Limited",
+            "UNIT C, 4/F, UNISON INDUSTRIAL CENTRE, 27-31 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696626
+        ]
+      ],
+      "coordinate": [
+        1.9930897850452014,
+        0.3908979451318692,
+        16.0
+      ],
+      "halfSize": [
+        33.76399999996647,
+        41.64822999946773,
+        10.0
+      ]
+    },
+    {
+      "attributes": [
+        1180696604,
+        1,
+        [
+          [
+            2597000364,
+            3,
+            "1st Floor Kitchen",
+            "FLAT B, 1/F, SUPREME INDUSTRIAL BUILDING, 15-17 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696629
+        ]
+      ],
+      "coordinate": [
+        1.9930492155388098,
+        0.3908953686269835,
+        19.549999237060547
+      ],
+      "halfSize": [
+        21.679339999798685,
+        24.987724999897182,
+        7.65000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1180696605,
+        7,
+        [
+          [
+            2997802904,
+            4,
+            "Seoul Noodle Shop",
+            "WORKSHOP E, 7/F, INTERNATIONAL INDUSTRIAL CENTRE, 2-8 KWEI TEI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-07"
+          ],
+          [
+            2997803819,
+            4,
+            "Tiffany's Community Bakery Limited",
+            "WORKSHOP A, 12/F, INTERNATIONAL INDUSTRIAL CENTRE, 2-8 KWEI TEI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2997804469,
+            4,
+            "YONG DING TANG HERBAL LIMITED",
+            "FLAT O, 18/F, INTERNATIONAL INDUSTRIAL CENTRE, 2-8 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2997805329,
+            4,
+            "Wine Lok & Fine Food Limited",
+            "WORKSHOP X, 18/F, INTERNATIONAL INDUSTRIAL CENTRE, 2-8 KWEI TEI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2997806438,
+            4,
+            "THAIWAY EXPRESS",
+            "UNIT S, 4/F, INTERNATIONAL INDUSTRIAL CENTRE, 2-8 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-11"
+          ],
+          [
+            2997811090,
+            4,
+            "JADE BREEZE NATIVE PRODUCTS COMPANY LTD.",
+            "FLAT L, 12/F, INTERNATIONAL INDUSTRIAL CENTRE, 2-8 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2997812765,
+            4,
+            "YONG DING TANG HERBAL LIMITED",
+            "FLAT N, 18/F, INTERNATIONAL INDUSTRIAL CENTRE, 2-8 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696883
+        ]
+      ],
+      "coordinate": [
+        1.99302965788796,
+        0.39096456726962503,
+        67.6500015258789
+      ],
+      "halfSize": [
+        35.44099000003189,
+        29.085714999586344,
+        28.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1180696606,
+        15,
+        [
+          [
+            2997800342,
+            4,
+            "Haagen Dazs",
+            "WORKSHOP 5-7 & PORTION OF 8, 7/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-23"
+          ],
+          [
+            2997800731,
+            4,
+            "ADVANCE FROZEN MEAT CO.",
+            "FLAT 4, 7/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-12"
+          ],
+          [
+            2997800926,
+            4,
+            "\u9280\u674f\u9928",
+            "FLAT 1102, 11/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2997801415,
+            4,
+            "PRIDE FAME LIMITED",
+            "MAJOR PORTION OF UNIT 5, 15/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-15"
+          ],
+          [
+            2997804016,
+            4,
+            "Advance Food International Limited",
+            "FLAT 6, 8/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-20"
+          ],
+          [
+            2997805268,
+            4,
+            "Crave Catering",
+            "ROOM 12A, 15/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-07"
+          ],
+          [
+            2997805383,
+            4,
+            "SMART YEAR LIMITED",
+            "FLAT 4, 12/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-19"
+          ],
+          [
+            2997810644,
+            4,
+            "Grandma's Soup",
+            "FLAT 1112, 11/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2997810769,
+            4,
+            "HONG KONG KITCHEN BY GINGKO HOUSE",
+            "ROOM 1115, 11/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2997813218,
+            4,
+            "Guru Guru HK",
+            "PORTION A OF FLAT 12, 9/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-03"
+          ],
+          [
+            2997813759,
+            4,
+            "\u4e00\u6a02",
+            "WORKSHOP 15, 7/F, WAH WAI CENTRE, NOS. 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-02"
+          ],
+          [
+            2997813926,
+            4,
+            "PRO-SAFE NUTRITIONALS CO., LIMITED",
+            "PORTION OF UNIT 13, 14/F, WAH WAI INDUSTRIAL CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2997814220,
+            4,
+            "JAPAN TOWER PHARMA CO",
+            "PORTION A OF UNIT 9, 15/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ],
+          [
+            4997815610,
+            4,
+            "No Record",
+            "PORTION A OF UNIT 13 & 14, 14/F, WAH WAI CENTRE, 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-16"
+          ],
+          [
+            4997815832,
+            4,
+            "No Record",
+            "FLAT 13, 8/F, WAH WAI INDUSTRIAL CENTRE, NO. 38-40 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696920
+        ]
+      ],
+      "coordinate": [
+        1.9930391645973837,
+        0.39095600284374404,
+        75.80000305175781
+      ],
+      "halfSize": [
+        42.50765000004321,
+        39.435224999673665,
+        31.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1180696607,
+        1,
+        [
+          [
+            2997802214,
+            4,
+            "KUJI FOOD TRADING CO",
+            "UNIT 7 (MAJOR PTN), 9/F, WAH LAI INDUSTRIAL CENTRE, 10-14 KWEI TEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696924
+        ]
+      ],
+      "coordinate": [
+        1.9930191578942305,
+        0.3909567737405855,
+        59.650001525878906
+      ],
+      "halfSize": [
+        29.507805000059307,
+        26.04376500006765,
+        31.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1180696608,
+        13,
+        [
+          [
+            2997000535,
+            4,
+            "\u5019\u4fe1\u8208\u7cd5\u54c1\u5ee0",
+            "UNIT NO 4, 8/F, BLOCK A, VERISTRONG IND'L CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997001185,
+            4,
+            "\u9d3b\u5b89\u7c89\u9eb5\u5ee0",
+            "UNIT A16, 13/F, BLOCK A VERISTRONG IND'L CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2997800519,
+            4,
+            "\u70b3\u8a18\u9eb5\u5ee0",
+            "ROOM 11, 8/F, BLOCK A, VERISTRONG INDUSTRIAL CENTRE, 36 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-27"
+          ],
+          [
+            2997802223,
+            4,
+            "\u70b3\u8a18\u9eb5\u5ee0",
+            "ROOM 12, 7/F, BLOCK A, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2997802481,
+            4,
+            "Taka Tak Grill",
+            "ROOM 11, 7/F, BLOCK B, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-16"
+          ],
+          [
+            2997803022,
+            4,
+            "Butter Bakery",
+            "FLAT/ROOM 11-12, 13/F, BLOCK B, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-04"
+          ],
+          [
+            2997803767,
+            4,
+            "\u5abd\u5b50\u5eda\u623f",
+            "MINOR PORTION OF UNIT 01,17/F,BLOCK A, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-16"
+          ],
+          [
+            2997805790,
+            4,
+            "ONE'S FOOD GROUP LIMITED",
+            "UNIT 713, 7/F, BLOCK B, VERISTRONG INDUSTRIAL CENTRE, 34 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-07"
+          ],
+          [
+            2997808212,
+            4,
+            "( NO RECORD FOUND)",
+            "WORKSHOP 13, 11/F, BLOCK A, VERISTRONG INDUSTRIAL CENTRE, NOS. 34-36 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2997809710,
+            4,
+            "\u5143\u71d2\u9910\u98f2\u6709\u9650\u516c\u53f8",
+            "FLAT A8, 7/F, BLOCK A, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-08-25"
+          ],
+          [
+            2997812145,
+            4,
+            "QUEEN PATISSERIE",
+            "UNIT 04 (PORTION A), 13/F, BLOCK A, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2997814150,
+            4,
+            "Borsch Spot",
+            "WORKSHOP A9, 15/F, BLOCK A, VERISTRONG INDUSTRIAL CENTRE, 34-36 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2997815171,
+            4,
+            "PEARL FOOD COMPANY LIMITED",
+            "UNIT 13, 13/F, BLOCK A, VERISTRONG INDUSTRIAL CENTRE, NOS. 34-36 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696943
+        ]
+      ],
+      "coordinate": [
+        1.993051536489381,
+        0.39094943591062475,
+        61.150001525878906
+      ],
+      "halfSize": [
+        33.009190000128,
+        32.67672500014305,
+        26.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1180696609,
+        6,
+        [
+          [
+            2997803749,
+            4,
+            "LUCK TRIUMPH LIMITED",
+            "FLAT 1-2, 7/F, YALE INDUSTRIAL CENTRE, 61-63 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
+            2997809446,
+            4,
+            "No Record",
+            "PORTION OF FLAT 17, 7/F, YALE INDUSTRIAL CENTRE, 61-63 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2997810440,
+            4,
+            "No Record",
+            "UNIT 07 & 08, 5/F, YALE INDUSTRIAL CENTRE, 61-63 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-05"
+          ],
+          [
+            2997812604,
+            4,
+            "MC ALIMENTS (YALE)",
+            "UNIT 13 & 14, 6/F, YALE INDUSTRIAL CENTRE, 61-63 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-28"
+          ],
+          [
+            2997814141,
+            4,
+            "STRONGER SIX LIMITED",
+            "WORKSHOP 23, 6/F, YALE INDUSTRIAL CENTRE, 61-63 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-03"
+          ],
+          [
+            3297800362,
+            6,
+            "No Record",
+            "FLAT 3 & 4, 7/F, YALE INDUSTRIAL CENTRE, 61-63 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696946
+        ]
+      ],
+      "coordinate": [
+        1.9930295614942217,
+        0.3909481115015637,
+        64.0
+      ],
+      "halfSize": [
+        38.15027500037104,
+        37.48934999946505,
+        28.80000114440918
+      ]
+    },
+    {
+      "attributes": [
+        1180696610,
+        9,
+        [
+          [
+            2597000328,
+            3,
+            "\u6377\u4f73\u98df\u5802",
+            "SHOP B UNIT 7, LEVEL 1, WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2597800126,
+            3,
+            "\u84b8\u6f01\u4e4b\u5bb6\u98f2\u98df\u6709\u9650\u516c\u53f8",
+            "WORKSHOP NO. 10 (MAJOR PORTION), LEVEL 1, WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-24"
+          ],
+          [
+            2997800157,
+            4,
+            "CHIT KAI STORE",
+            "SHOP 7C, LEVEL 1, WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-06"
+          ],
+          [
+            2997804371,
+            4,
+            "Herbaceous Teas",
+            "UNIT 19, 12/F, WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-14"
+          ],
+          [
+            2997808319,
+            4,
+            "BOMBER SALAD LIMITED",
+            "ROOM 7, 8/F, CHINACHEM WAH YIU INDUSTRIAL CENTRE, NO. 30-32 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2997809400,
+            4,
+            "Furbabies' Meal Ltd",
+            "ROOM 312, 3/F, WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ],
+          [
+            2997811221,
+            4,
+            "AUNEW FOOD LIMITED",
+            "UNIT 01, 1/F, CHINACHEM WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-03"
+          ],
+          [
+            2997811735,
+            4,
+            "SHUN HING VEGETABLE & FRUIT (H.K.) CO., LTD.",
+            "UNIT 17, 1/F, WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2997812190,
+            4,
+            "N1 Warehouse Trading Company Limited",
+            "UNIT 14, 15/F, WAH YIU INDUSTRIAL CENTRE, 30-32 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696977
+        ]
+      ],
+      "coordinate": [
+        1.9930603525072743,
+        0.390938735411479,
+        61.89999771118164
+      ],
+      "halfSize": [
+        39.25,
+        39.64999999944121,
+        32.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1180696611,
+        2,
+        [
+          [
+            2997802153,
+            4,
+            "CAKES KINGDOM LIMITED",
+            "FLAT 1204, 12/F, LEADER INDUSTRIAL CENTRE, 57-59 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2997812552,
+            4,
+            "No Record",
+            "FLAT 22, 12/F, LEADER INDUSTRIAL CENTRE, 57-59 AU PUI WAN STREET, FOTAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696979
+        ]
+      ],
+      "coordinate": [
+        1.9930397189889406,
+        0.3909388071566257,
+        63.14999771118164
+      ],
+      "halfSize": [
+        36.85350500000641,
+        36.54302500002086,
+        28.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696612,
+        1,
+        [
+          [
+            2997811489,
+            4,
+            "POSH NOSH LIMITED",
+            "PORTION A OF UNITS 1303-1304, 13/F, FO TAN INDUSTRIAL CENTRE, 26-28 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696997
+        ]
+      ],
+      "coordinate": [
+        1.9930682657594367,
+        0.39093293574894816,
+        59.20000076293945
+      ],
+      "halfSize": [
+        43.872004999779165,
+        44.29232000000775,
+        27.60000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1180696613,
+        5,
+        [
+          [
+            2597800223,
+            3,
+            "Green & Fresh",
+            "FLAT 3, 2/F, WORLD-WIDE INDUSTRIAL CENTRE, 43-47 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2997804326,
+            4,
+            "LINKARE FOOD MANUFACTORY",
+            "FLAT 8, 8/F, WORLD-WIDE INDUSTRIAL CENTRE, 43-47 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2997806447,
+            4,
+            "\u5305\u4f19\u98df",
+            "FLAT 409, 4/F, WORLD-WIDE INDUSTRIAL CENTRE, 43-47 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-12"
+          ],
+          [
+            2997808036,
+            4,
+            "Hungry",
+            "WORKSHOP 23, 5/F, WORLD-WIDE INDUSTRIAL CENTRE, 43-47 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-24"
+          ],
+          [
+            2997813403,
+            4,
+            "HILLSAN JP FOOD LIMITED",
+            "UNIT 6, 10/F, WORLD-WIDE INDUSTRIAL CENTRE, 43-47 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180696999
+        ]
+      ],
+      "coordinate": [
+        1.993000590358101,
+        0.39093385170378614,
+        60.400001525878906
+      ],
+      "halfSize": [
+        42.06622999999672,
+        37.551035000011325,
+        33.0
+      ]
+    },
+    {
+      "attributes": [
+        1180696614,
+        19,
+        [
+          [
+            2997000447,
+            4,
+            "\u5357\u69ae\u8208",
+            "FLAT NO 7, 17/F, WAH SANG IND'L BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000465,
+            4,
+            "\u5609\u79be",
+            "UNIT 11, 17/F, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000623,
+            4,
+            "\u632f\u5b89\u98df\u54c1\u5ee0",
+            "FLAT NOS 17 & 18, 16/F, WAH SANG IND'L BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997001325,
+            4,
+            "\u5bcc\u8a18",
+            "UNIT 15, 13/F, WAH SANG IND'L BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2997001769,
+            4,
+            "Profit Smart Food Limited",
+            "FLAT 12-15, 7/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2997001918,
+            4,
+            "Profit Smart Food Limited",
+            "FLAT 10-11, 7/F, BLOCK B WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2997002780,
+            4,
+            "Super Region Industrial Limited",
+            "UNIT 10, 12TH FLOOR, BLOCK A, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2997800980,
+            4,
+            "\u71ca\u8208\u98df\u54c1\u88fd\u9020\u5ee0\u6709\u9650\u516c\u53f8",
+            "PORTION OF UNIT 5, UNIT 6-14, PORTION OF UNIT 15, 11/F, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-23"
+          ],
+          [
+            2997801910,
+            4,
+            "PROFIT SMART FOOD LIMITED",
+            "FLAT 18, 8/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-24"
+          ],
+          [
+            2997801965,
+            4,
+            "GLOBAL FINE FOODS LIMITED",
+            "ROOM 7 & 8, 6/F, BLOCK A, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2997804900,
+            4,
+            "No Record",
+            "FLAT 12-15, 8/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2997805143,
+            4,
+            "\u666e\u660e\u76f4\u9001",
+            "UNIT 1, 13/F, BLOCK A, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-24"
+          ],
+          [
+            2997805499,
+            4,
+            "\u53cb\u69ae\u9eb5\u5ee0",
+            "FLAT 12, 15/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-07"
+          ],
+          [
+            2997806739,
+            4,
+            "(no record found)",
+            "UNIT 16, 13/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-02-25"
+          ],
+          [
+            2997807006,
+            4,
+            "JIANZENG FOOD TRADING (HK) LIMITED",
+            "UNIT 01 & 20, 5/F, WAH SANG INDUSTRIAL BUILDING, NOS.14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2997808665,
+            4,
+            "ORIGINAL TASTE CATERING COMPANY LIMITED",
+            "UNIT 18, 17/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, NOS.14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-07"
+          ],
+          [
+            2997809914,
+            4,
+            "Tai Hing",
+            "MAJOR PORTION OF UNIT 601 & UNIT 620,6/F, BLOCK A, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2997809923,
+            4,
+            "Tai Hing",
+            "UNITS 602-604, 6/F, BLOCK A, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
+          ],
+          [
+            2997810398,
+            4,
+            "HONG KONG CHUN ON PACKAGING COMPANY",
+            "ROOM 19, 16/F, BLOCK B, WAH SANG INDUSTRIAL BUILDING, 14-18 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-07-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697020
+        ]
+      ],
+      "coordinate": [
+        1.9929908096430609,
+        0.39092633363224616,
+        75.85000610351562
+      ],
+      "halfSize": [
+        38.252654999960214,
+        36.08244500029832,
+        34.95000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1180696615,
+        11,
+        [
+          [
+            2997803493,
+            4,
+            "N & L FOOD TECH COMPANY LIMITED",
+            "BLOCK C10, 18/F, WAH LOK INDUSTRIAL CENTRE, 31-41 SHAN MEI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2997803916,
+            4,
+            "Valencia Growers International Ltd",
+            "FLAT 31, 32 & 33, 11/F, BLOCK B, WAH LOK INDUSTRIAL CENTRE, SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-19"
+          ],
+          [
+            2997804423,
+            4,
+            "\u6a19\u8a18\u8089\u98df",
+            "FLAT 28, 10/F, BLOCK B, WAH LOK INDUSTRIAL CENTRE, SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2997806793,
+            4,
+            "IXON Food Technology Limited",
+            "FLAT 21, 15/F, BLOCK A, WAH LOK INDUSTRIAL CENTRE, 37-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2997807228,
+            4,
+            "\u6a19\u8a18\u8089\u98df\u6709\u9650\u516c\u53f8",
+            "FLAT 26, 10/F, BLOCK B, WAH LOK INDUSTRIAL CENTRE, 37-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2997808382,
+            4,
+            "Avid Foodie Gourment House",
+            "UNIT E2, 22/F, WAH LOK INDUSTRIAL CENTRE PHASE II, 31/35 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            2997808920,
+            4,
+            "\u4e09\u76ca\u9eb5\u5ee0",
+            "FLAT 30, 31, & 32, 13/F, BLOCK B, WAH LOK INDUSTRIAL CENTRE, 37-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-15"
+          ],
+          [
+            2997810510,
+            4,
+            "\u6a19\u8a18",
+            "WORKSHOP 31 & 32, FLAT B, 10/F, PHASE 1, WAH LOK INDUSTRIAL CENTRE, 37-41 SHAN MEI STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-19"
+          ],
+          [
+            2997811595,
+            4,
+            "\u6953\u7d20\u9f4b",
+            "FLAT 21, 12/F, BLOCK A, WAH LOK INDUSTRIAL CENTRE, 31-41 SHAN MEI STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2997811966,
+            4,
+            "\u9b5a\u9928\u5de5\u5834",
+            "PORTION OF WORKSHOP C16, 9/F, BLOCK C, WAH LOK INDUSTRIAL CENTRE, PHASE II, NO. 31-35 SHAN MEI STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2997812154,
+            4,
+            "Your Baking Corner Limited",
+            "FLAT 5, 10/F, BLOCK E, WAH LOK INDUSTRIAL CENTRE, NO. 31-41 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697029
+        ]
+      ],
+      "coordinate": [
+        1.993015776361042,
+        0.39092180836320717,
+        68.30000305175781
+      ],
+      "halfSize": [
+        56.57556500006467,
+        55.1102600004524,
+        32.5
+      ]
+    },
+    {
+      "attributes": [
+        1180696616,
+        2,
+        [
+          [
+            2997812969,
+            4,
+            "NUGENICA BIO-TECHNOLOGY LIMITED",
+            "WORKSHOP 2, 11/F, HARRY INDUSTRIAL BUILDING, NOS. 49-51 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3297800609,
+            6,
+            "No Record",
+            "WORKSHOP 10, 12/F, HARRY INDUSTRIAL BUILDING, NOS. 49-51 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697036
+        ]
+      ],
+      "coordinate": [
+        1.9930550700086267,
+        0.3909260685053144,
+        55.150001525878906
+      ],
+      "halfSize": [
+        23.908655000384897,
+        21.291020000353456,
+        26.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1180696617,
+        28,
+        [
+          [
+            2997000146,
+            4,
+            "\u540d\u4eba\u71d2\u5473\u98df\u54c1\u516c\u53f8",
+            "UNIT 19, 18/F, WAH LUEN INDUSTRIAL CENTRE, STTL 113 & 114, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000225,
+            4,
+            "\u5bf6\u660e",
+            "FLAT 26, 17/F, WAH LUEN IND'L BUILDING, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000377,
+            4,
+            "\u667a\u6052\u71d2\u7209",
+            "FLAT 3, 18/F, WAH LUEN INDUSTRIAL BUILDING, 15 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000614,
+            4,
+            "\u660e\u8208",
+            "FLAT 3, 6/F, WAH LUEN IND'L BUILDING, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997001334,
+            4,
+            "\u6c38\u8c50\u71d2\u81d8\u6279\u767c\u6709\u9650\u516c\u53f8",
+            "UNIT 7, 18/F, BLOCK B, WAH LUEN IND'L CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-24"
+          ],
+          [
+            2997002081,
+            4,
+            "BLENDIT HONG KONG LIMITED",
+            "UNIT 26, 16/F, BLOCK A WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2997801406,
+            4,
+            "\u5eda\u795e\u5de5\u623f",
+            "FLAT 3, 4 & 5, 7/F, BLOCK A, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2997804362,
+            4,
+            "No Record",
+            "UNIT 1005, 10/F, BLOCK A, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2997805259,
+            4,
+            "Lang Yue (Hong Kong) Company Limited",
+            "ROOM 1817 & 1818, 18/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2997805657,
+            4,
+            "(no record found)",
+            "UNIT 11, 11/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-21"
+          ],
+          [
+            2997805763,
+            4,
+            "CHUN FUNG FOOD COMPANY LIMITED",
+            "FLAT 9, 18/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-10"
+          ],
+          [
+            2997806571,
+            4,
+            "\u9999\u6e2f\u6fdf\u4e16\u5802\u91ab\u85e5\u6709\u9650\u516c\u53f8",
+            "MINOR PORTION OF UNIT 8, 17/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-26"
+          ],
+          [
+            2997806818,
+            4,
+            "Fu Shing",
+            "UNIT 10, 16/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-22"
+          ],
+          [
+            2997807510,
+            4,
+            "KIN HING FROZEN FOOD COMPANY LIMITED",
+            "UNIT 19, 12/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-22"
+          ],
+          [
+            2997807583,
+            4,
+            "Tian Ran Healthcare Ltd",
+            "UNIT 19, 5/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2997807811,
+            4,
+            "(no record found)",
+            "UNIT 19, 10/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-28"
+          ],
+          [
+            2997809093,
+            4,
+            "JIA AT HOME",
+            "UNIT 1510, 15/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, NOS. 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-21"
+          ],
+          [
+            2997809312,
+            4,
+            "\u9951\u843d\u4ead",
+            "UNIT 16, 15/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-13"
+          ],
+          [
+            2997809774,
+            4,
+            "\u6d77\u8208\u9686\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "ROOM 11, 18/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-28"
+          ],
+          [
+            2997809871,
+            4,
+            "TAI PO CHUN HING LIMITED",
+            "ROOM 11, 8/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE , 15-21 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-11-16"
+          ],
+          [
+            2997810121,
+            4,
+            "UNAGI KAMATA",
+            "UNIT 25, 7/F, BLOCK A, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-30"
+          ],
+          [
+            2997810343,
+            4,
+            "TAI PO CHUN HING LIMITED",
+            "ROOM 13-14, 14/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2997811382,
+            4,
+            "Tai Po Chun Hing Limited",
+            "ROOM 7, 16/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2997811726,
+            4,
+            "PROSPER FOOD GLOBAL COMPANY LIMITED",
+            "UNIT 06, 9/F., WAH LUEN INDUSTRIAL CENTRE, NO. 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-10"
+          ],
+          [
+            2997813281,
+            4,
+            "Goodwill Catering Management Limited",
+            "UNIT 12, 6/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2997813342,
+            4,
+            "YUET SIN WORKS",
+            "UNIT 1401, 14/F, BLOCK A, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2997813582,
+            4,
+            "\u9032\u965e\u98df\u54c1\u6709\u9650\u516c\u53f8",
+            "FLAT 15, 12/F, BLOCK B, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2997814026,
+            4,
+            "No Record",
+            "PORTION A OF UNIT 24, 11/F, BLOCK A, WAH LUEN INDUSTRIAL CENTRE, 15-21 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697063
+        ]
+      ],
+      "coordinate": [
+        1.9929798199710784,
+        0.39091898471005565,
+        81.94999694824219
+      ],
+      "halfSize": [
+        38.912654999643564,
+        45.266974999569356,
+        33.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1180696618,
+        3,
+        [
+          [
+            2997804034,
+            4,
+            "Carewells Limited",
+            "FLAT R, 11/F, HARIBEST INDUSTRIAL BUILDING, 45-47 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2997810015,
+            4,
+            "Maycareyou Limited",
+            "FLAT I, 10/F, HARIBEST INDUSTRIAL BUILDING, 45-47 AU PUI WAN STREET, FOTAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-22"
+          ],
+          [
+            4997815948,
+            4,
+            "No Record",
+            "FLAT J, 5/F, HARIBEST INDUSTRIAL BUILDING, 45-47 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697069
+        ]
+      ],
+      "coordinate": [
+        1.993061460093685,
+        0.3909204945402867,
+        45.79999923706055
+      ],
+      "halfSize": [
+        24.655130000319332,
+        24.223930000327528,
+        23.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696619,
+        2,
+        [
+          [
+            2997000678,
+            4,
+            "Luncheon Star",
+            "5/F, 5-13 WO SHUI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997001477,
+            4,
+            "Luncheon Star",
+            "6/F, CAFE DE CORAL CENTRE, 5 WO SHUI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697096
+        ]
+      ],
+      "coordinate": [
+        1.99312648739752,
+        0.3909175660123593,
+        36.650001525878906
+      ],
+      "halfSize": [
+        22.953985000029206,
+        23.00671499967575,
+        17.850000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1180696620,
+        4,
+        [
+          [
+            2997000207,
+            4,
+            "\u57f9\u8a18\u7c89\u9eb5",
+            "UNIT A, 10/F, BLOCK 2 KIN HO IND'L BUILDING, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000270,
+            4,
+            "\u9f8d\u5712\u6c99\u7239",
+            "ROOM T, 16/F, BLOCK 1, KIN HO INDUSTRIAL BUILDING, AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997803800,
+            4,
+            "\u7acb\u6d32\u98df\u54c1(\u570b\u969b)\u6709\u9650\u516c\u53f8",
+            "FLAT G & H, 15/F, BLOCK 1, KIN HO INDUSTRIAL BUILDING, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ],
+          [
+            2997810529,
+            4,
+            "bread secret",
+            "FLAT R & Q, 6/F, BLOCK 1, KIN HO INDUSTRIAL BUILDING, 14-24 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697112
+        ]
+      ],
+      "coordinate": [
+        1.9930857993101954,
+        0.3909140214664133,
+        54.69999694824219
+      ],
+      "halfSize": [
+        30.334989999886602,
+        26.796525000594556,
+        29.499998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1180696621,
+        9,
+        [
+          [
+            2997000058,
+            4,
+            "\u91d1\u8f1d",
+            "10/F, FLAT F, ON WAH IND'L BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997000100,
+            4,
+            "soso_cake_shop",
+            "FLAT G, 8/F, ON WAH IND'L BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997001103,
+            4,
+            "\u6587\u83ef",
+            "BLOCK G, 13/F, ON WAH IND'L BUILDING, 41-43 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2997001282,
+            4,
+            "YHY Ltd",
+            "FLAT K & L, 13/F, ON WAH IND'L BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-06"
+          ],
+          [
+            2997801424,
+            4,
+            "CHARLES",
+            "UNIT G, 11/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-16"
+          ],
+          [
+            2997808674,
+            4,
+            "Ten Mills Limited",
+            "FLAT B, 13/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2997812880,
+            4,
+            "\u4edf\u570b\u6c34\u7522\u6709\u9650\u516c\u53f8",
+            "FLAT J, 14/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2997814451,
+            4,
+            "BRO. MAANG",
+            "UNIT C, 13/F, ON WAH INDUSTRIAL BUILDING, NOS. 41-43 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            4997815665,
+            4,
+            "HONG KONG AQUACULTURE",
+            "FLAT J-K, 15/F, ON WAH INDUSTRIAL BUILDING, 41-43 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697120
+        ]
+      ],
+      "coordinate": [
+        1.9930702970260745,
+        0.3909126361001004,
+        52.400001525878906
+      ],
+      "halfSize": [
+        22.80917500006035,
+        21.833150000311434,
+        26.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1180696622,
+        9,
+        [
+          [
+            2997804928,
+            4,
+            "ENTERPRISE TECHNOLOGY PRODUCTS LIMITED",
+            "PORTION A, ROOM 804, 8/F, BLOCK A, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-26"
+          ],
+          [
+            2997805903,
+            4,
+            "JOY TEAM ASIA INVESTMENT LIMITED",
+            "FLAT 8, BLOCK B, 6/F, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-18"
+          ],
+          [
+            2997806119,
+            4,
+            "Best Price Meat Foods Limited",
+            "WORKSHOP 2, 12/F, BLOCK A, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-04"
+          ],
+          [
+            2997810635,
+            4,
+            "Best Price Warehouse",
+            "WORKSHOP 14 & 15, 6/F, BLOCK B, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2997810671,
+            4,
+            "HIP YICK FOOD LIMITED",
+            "FLAT 14, 16/F, BLOCK B, GOLDFIELD INDUSTRIAL CENTRE, NO. 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            2997811577,
+            4,
+            "No Record",
+            "WORKSHOP 9, 6/F, BLOCK B, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            2997811841,
+            4,
+            "No Record",
+            "WORKSHOP 10, 6/F, BLOCK B, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2997812093,
+            4,
+            "Best Price Foods",
+            "WORKSHOP 15, 10/F, BLOCK B, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2997812914,
+            4,
+            "\u8208\u76df\u52a0\u5de5\u5834",
+            "WORKSHOP 15, 12/F, BLOCK B, GOLDFIELD INDUSTRIAL CENTRE, 1 SUI WO ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697122
+        ]
+      ],
+      "coordinate": [
+        1.9930276349726568,
+        0.39090878458847594,
+        51.900001525878906
+      ],
+      "halfSize": [
+        48.43063999991864,
+        46.11419999971986,
+        20.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1180696623,
+        9,
+        [
+          [
+            2997803350,
+            4,
+            "Circle Bakery",
+            "FLAT B, 8/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-17"
+          ],
+          [
+            2997808300,
+            4,
+            "PACK RITE (HONG KONG) COMPANY LIMITED",
+            "UNIT B, 7/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-27"
+          ],
+          [
+            2997810389,
+            4,
+            "Tailor of patisserie",
+            "WORKSHOP F, 6/F, LEAPONT CENTRE, NOS. 18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-22"
+          ],
+          [
+            2997813856,
+            4,
+            "JF Kitchen",
+            "PORTION E3 OF UNIT E, 11/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2997813865,
+            4,
+            "DADDY DONUT",
+            "PORTION E6 OF UNIT E, 11/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2997813953,
+            4,
+            "\u706b\u70ad\u5916\u8ce3\u5718",
+            "PORTION E1 OF UNIT E, 11/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2997813962,
+            4,
+            "Alpha Bakery",
+            "PORTION E2 OF UNIT E, 11/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2997813971,
+            4,
+            "Stars Cake",
+            "PORTION E8 OF UNIT E, 11/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2997813980,
+            4,
+            "\u7172\u4ed4\u69ae\u8a18",
+            "PORTION E5 OF UNIT E, 11/F, LEAPONT INDUSTRIAL BUILDING, 18-28 WO LIU HANG ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697123
+        ]
+      ],
+      "coordinate": [
+        1.9931179053652772,
+        0.3909108737889597,
+        30.350000381469727
+      ],
+      "halfSize": [
+        21.518935000058264,
+        24.06383499968797,
+        24.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1180696624,
+        11,
+        [
+          [
+            2997000243,
+            4,
+            "\u4e2d\u83ef\u9eb5\u5ee0",
+            "FLAT V, 10/F, VALIANT IND'L CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997001015,
+            4,
+            "TSO HIN KEE LIMITED",
+            "FLAT F, 12/F, VALIANT IND'L CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-04-06"
+          ],
+          [
+            2997800209,
+            4,
+            "J-SWEETS CO LTD",
+            "ROOM K, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2997805815,
+            4,
+            "NATURAL CHIFFON",
+            "ROOM D, 12/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-29"
+          ],
+          [
+            2997813449,
+            4,
+            "\u7f8e\u5973\u5eda\u623f",
+            "PORTION N1 OF UNIT N, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2997813458,
+            4,
+            "OWNCAKE",
+            "PORTION N2 OF UNIT N, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2997813467,
+            4,
+            "S\u00e9rendipit\u00e9 \u5e78",
+            "PORTION N6 OF UNIT N, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2997813476,
+            4,
+            "\u81fb\u5eda",
+            "PORTION N8 OF UNIT N, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2997813485,
+            4,
+            "Shiro_Bakery",
+            "PORTION N9 OF UNIT N, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-11"
+          ],
+          [
+            2997813564,
+            4,
+            "GG Chickenbro",
+            "PORTION N5 OF UNIT N, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ],
+          [
+            2997813573,
+            4,
+            "OWNCAKE",
+            "PORTION N3 OF UNIT N, 8/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697126
+        ]
+      ],
+      "coordinate": [
+        1.9930999417690467,
+        0.3909071322360222,
+        38.150001525878906
+      ],
+      "halfSize": [
+        51.848375000059605,
+        43.39098999928683,
+        16.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1180696625,
+        4,
+        [
+          [
+            2897800077,
+            2,
+            "BEDROCK COLD CHAIN LOGISTICS COMPANY LIMITED",
+            "10/F, GOODMAN SHATIN LOGISTICS CENTRE (PHASE 2), 6 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            2897800101,
+            2,
+            "MEISEI H.K. COLD STORAGE CO., LTD",
+            "5/F, PHASE 2, GOODMAN SHATIN LOGISTICS CENTRE, 6 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-09"
+          ],
+          [
+            2897800110,
+            2,
+            "W. E. FOOD SERVICE COMPANY LIMITED",
+            "9/F, GOODMAN SHATIN LOGISTICS CENTRE (PHASE 2), 6 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2897800174,
+            2,
+            "MEISEI H.K. COLD STORAGE CO., LTD",
+            "6/F, PHASE 2, GOODMAN SHATIN LOGISTICS CENTRE, 6 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697127
+        ]
+      ],
+      "coordinate": [
+        1.9930125315882434,
+        0.39090859591891336,
+        77.5999984741211
+      ],
+      "halfSize": [
+        27.88043999997899,
+        24.97685500048101,
+        41.5
+      ]
+    },
+    {
+      "attributes": [
+        1180696626,
+        5,
+        [
+          [
+            2597800357,
+            3,
+            "Movable Feast Coffee Roastery",
+            "FLAT 1114, 11/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-14"
+          ],
+          [
+            2997000650,
+            4,
+            "\u5f37\u8a18",
+            "UNIT 9, 16/F, FONDA IND'L BUILDING, 37-39 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997810714,
+            4,
+            "CAD HOME FREEZE-DRIED",
+            "UNIT 12, 16/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            2997812288,
+            4,
+            "Studio Caffeine",
+            "UNIT 8, 5/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2997812987,
+            4,
+            "Incredible Patisserie",
+            "UNIT 4, 7/F, FONDA INDUSTRIAL BUILDING, 37-39 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697129
+        ]
+      ],
+      "coordinate": [
+        1.993075527063337,
+        0.39090817071187034,
+        44.150001525878906
+      ],
+      "halfSize": [
+        21.354410000145435,
+        21.32329999934882,
+        22.75
+      ]
+    },
+    {
+      "attributes": [
+        1180696627,
+        3,
+        [
+          [
+            2997807538,
+            4,
+            "OB Kitchen",
+            "UNIT 5, 6/F, CCT TELECOM BUILDING, 11 WO SHING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2997813698,
+            4,
+            "YSH TECHNOLOGY LIMITED",
+            "UNIT 9 10/F, CCT TELECOM BUILDING, 11 WO SHING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-12"
+          ],
+          [
+            2997814682,
+            4,
+            "MAGIC DOUGH BAKING STUDIO",
+            "UNIT 01, 9/F, CCT TELECOM BUILDING, 11 WO SHING STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697131
+        ]
+      ],
+      "coordinate": [
+        1.9931232481571495,
+        0.3909064664424132,
+        57.150001525878906
+      ],
+      "halfSize": [
+        25.294074999634176,
+        23.97601499967277,
+        39.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1180696628,
+        3,
+        [
+          [
+            2997807051,
+            4,
+            "RICH DELIGHT FOODS",
+            "WORKSHOP F, 5/F, UNIVERSAL INDUSTRIAL CENTRE , 19-25 SHAN MEI STREET, FO TAN , SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-20"
+          ],
+          [
+            2997810246,
+            4,
+            "Kimya's Caterers Limited",
+            "WORKSHOP H, 14/F, BLOCK A, UNIVERSAL INDUSTRIAL CENTRE, 19-25 SHAN MEI STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2997813999,
+            4,
+            "KOON WAN KAU (KWOK) LIMITED",
+            "WORKSHOP H, 17/F, UNIVERSAL INDUSTRIAL CENTRE, NOS. 19-25 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697133
+        ]
+      ],
+      "coordinate": [
+        1.9930413440415071,
+        0.39090343672042904,
+        53.650001525878906
+      ],
+      "halfSize": [
+        38.41700000036508,
+        37.57544499915093,
+        28.25
+      ]
+    },
+    {
+      "attributes": [
+        1180696629,
+        8,
+        [
+          [
+            2997800625,
+            4,
+            "\u5496\u5561\u8c46\u88fd\u9020",
+            "7/F, BLOCK J, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2997802205,
+            4,
+            "\u4e09\u8208\u9eb5\u5ee0",
+            "FLAT D, 9/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2997806960,
+            4,
+            "\u6587\u6a02\u9ede\u5fc3\u6709\u9650\u516c\u53f8",
+            "FLAT C, 15/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2997807389,
+            4,
+            "Wing Fat Food Production Limited",
+            "FLAT C, 11/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-14"
+          ],
+          [
+            2997807866,
+            4,
+            "CS FINE FOODS LIMITED",
+            "UNIT J (PORTION), 14/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2997810149,
+            4,
+            "SEASONS GOODS",
+            "FLAT A, 9/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ],
+          [
+            2997811267,
+            4,
+            "\u5473\u9bae\u98df\u54c1\u516c\u53f8",
+            "FLAT J, 8/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
+          ],
+          [
+            2997812668,
+            4,
+            "Kind and Green Food Lab",
+            "UNIT G, 6/F, FU CHEUNG CENTRE, 5-7 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697134
+        ]
+      ],
+      "coordinate": [
+        1.9929983278186063,
+        0.3909040836564146,
+        73.44999694824219
+      ],
+      "halfSize": [
+        31.167845000047237,
+        30.919369999319315,
+        28.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1180696630,
+        5,
+        [
+          [
+            2997802889,
+            4,
+            "HAI JI",
+            "SHOP H4, G/F, CENTURY INDUSTRIAL CENTRE, 33-35 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2997805675,
+            4,
+            "De. Ma. E Kitchen",
+            "WORKSHOP I2, G/F, CENTURY CENTRE, 33-35 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-14"
+          ],
+          [
+            2997808470,
+            4,
+            "hope.cakery",
+            "WORKSHOP F, 18/F, CENTURY INDUSTRIAL CENTRE, NOS. 33-35 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-23"
+          ],
+          [
+            2997811133,
+            4,
+            "1976 KITCHEN",
+            "WORKSHOP B, 14/F., CENTURY INDUSTRIAL CENTRE, NOS. 33-35 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2997814381,
+            4,
+            "\u5927\u5927\u789f\u4e09\u9938\u98ef",
+            "WORKSHOP I1, G/F, CENTURY INDUSTRIAL CENTRE, 33-35 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697136
+        ]
+      ],
+      "coordinate": [
+        1.9930809256055015,
+        0.39090462408549254,
+        53.14999771118164
+      ],
+      "halfSize": [
+        20.143999999854714,
+        24.279229999519885,
+        32.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1180696631,
+        2,
+        [
+          [
+            2997812525,
+            4,
+            "\u50b3\u5947\u70d8\u7119",
+            "FLAT B, 11/F, ON SHING INDUSTRIAL BUILDING, 2-16 WO LIU HANG ROAD, FO TAN, NEW TERRITORIES",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2997813324,
+            4,
+            "\u50b3\u5947\u70d8\u7119",
+            "WORKSHOP C, 11/F, ON SHING INDUSTRIAL BUILDING, 2-16 WO LIU HANG ROAD, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697140
+        ]
+      ],
+      "coordinate": [
+        1.9931115029065312,
+        0.39090023906963667,
+        32.29999923706055
+      ],
+      "halfSize": [
+        24.226279999595135,
+        29.240100000053644,
+        20.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696632,
+        10,
+        [
+          [
+            2597000124,
+            3,
+            "\u96e8\u82b1\u9f4b",
+            "16/F, BLOCK A, YUE CHEUNG CENTRE, STTL 79, WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2997000395,
+            4,
+            "\u5229\u82d1",
+            "FLAT F, 16/F, YUE CHEONG BUILDING, NO 1 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997800315,
+            4,
+            "Qualifresh Catering Limited",
+            "UNIT M-P, 4/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2997803527,
+            4,
+            "TEMPTATION TASTE CONFECTIONERY LIMITED",
+            "ROOM E, 14/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2997804177,
+            4,
+            "Luen Fung Flour Noodle Factory Ltd.",
+            "FLAT F, 15/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-14"
+          ],
+          [
+            2997804308,
+            4,
+            "Luen Fung Flour Noodle Factory Ltd.",
+            "FLAT L, 15/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2997807149,
+            4,
+            "QUALIFRESH CATERING LIMTIED",
+            "FLAT D, 4/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-07"
+          ],
+          [
+            2997809880,
+            4,
+            "CRE-EX",
+            "FLAT C, 11/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-12"
+          ],
+          [
+            2997810608,
+            4,
+            "TROTTER BROTHER",
+            "UNIT L, 8/F, YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-07"
+          ],
+          [
+            2997812349,
+            4,
+            "\u6d6a",
+            "PORTION A OF ROOM E, 16/F., YUE CHEUNG CENTRE, 1-3 WONG CHUK YEUNG STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697145
+        ]
+      ],
+      "coordinate": [
+        1.9930051765545664,
+        0.3908995837686852,
+        64.05000305175781
+      ],
+      "halfSize": [
+        26.860064999666065,
+        29.433269999921322,
+        28.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1180696633,
+        11,
+        [
+          [
+            2997814558,
+            4,
+            "\u5361\u85a9\u98df\u54c1",
+            "PORTION B11 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814567,
+            4,
+            "\u6c90\u6c90\u9905\u5e97",
+            "PORTION B6 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814576,
+            4,
+            "\u4e09\u80a5\u6703\u9928",
+            "PORTION B1 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814585,
+            4,
+            "HOOME",
+            "PORTION B9 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814594,
+            4,
+            "KC \u5927\u7897\u98ef",
+            "PORTION B10 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814600,
+            4,
+            "Bel-Zims Food Co., Ltd. (Bel-Zims Chocolatier)",
+            "PORTION B12 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814619,
+            4,
+            "\u4e09\u80a5\u6703\u9928",
+            "PORTION B13 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814628,
+            4,
+            "Good Partner",
+            "PORTION B3 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814637,
+            4,
+            "tra.lien.studio",
+            "PORTION B8 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814646,
+            4,
+            "Kitchen Fun Catering",
+            "PORTION B2 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2997814655,
+            4,
+            "HEALTHILIA COMPANY LIMITED",
+            "PORTION B5 OF UNIT B, 4/F, WAH WAI INDUSTRIAL BUILDING, 1-7 WO HEUNG STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697159
+        ]
+      ],
+      "coordinate": [
+        1.9931209029334276,
+        0.39089244621635566,
+        35.95000076293945
+      ],
+      "halfSize": [
+        23.008495000191033,
+        17.78829500079155,
+        21.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696634,
+        3,
+        [
+          [
+            2197800441,
+            1,
+            "\u9806\u9999\u5712\u9905\u5bb6",
+            "BLOCK B, 4/F, UNIVERSAL IND BLDG, 23-25 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2597800232,
+            3,
+            "\u666f\u57ce\u51b0\u5ba4",
+            "UNIT G, G/F, UNIVERSAL INDUSTRIAL CENTRE, 19-25 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-03"
+          ],
+          [
+            2997800254,
+            4,
+            "Carol Bakery",
+            "SHOP E1, G/F, UNIVERSAL INDUSTRIAL CENTRE, 23-25 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697487
+        ]
+      ],
+      "coordinate": [
+        1.9930411073622907,
+        0.39090316849985535,
+        19.200000762939453
+      ],
+      "halfSize": [
+        42.20149999996647,
+        41.570494999177754,
+        6.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1180696635,
+        2,
+        [
+          [
+            2997802135,
+            4,
+            "Gourmet Coffee",
+            "SHOP B8A, 1/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3697801165,
+            5,
+            "Wellcome",
+            "SHOP 6 AND 7 (PORTION A), G/F, SHA TIN GALLERIA, 18-24 SHAN MEI STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697488
+        ]
+      ],
+      "coordinate": [
+        1.9930511685995467,
+        0.39090687221430354,
+        22.599998474121094
+      ],
+      "halfSize": [
+        43.04570999974385,
+        42.795930000022054,
+        10.499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1180696636,
+        17,
+        [
+          [
+            2597800092,
+            3,
+            "\u91d1\u591a\u73a5",
+            "SHOP C1, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2597800135,
+            3,
+            "WING SHING ROASTED MEAT & NOODLE",
+            "SHOP B1, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2597800199,
+            3,
+            "KWUN YAT CHIN",
+            "FLAT H2, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2597800302,
+            3,
+            "(No Record Found)",
+            "MAJOR PORTION OF UNIT G3, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2997000076,
+            4,
+            "A & W FOOD SERVICE (HONG KONG) LTD",
+            "BLOCK A B C & D, 3/F, VALIANT IND'L CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2997800634,
+            4,
+            "KIJI",
+            "SHOP C5, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-06"
+          ],
+          [
+            2997800722,
+            4,
+            "\u84b8\u5fc3\u25cf\u71c9\u975a\u6e6f",
+            "FLAT H1, LG/F, VALIANT INDUSTRIAL CENTRE, 10-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-10"
+          ],
+          [
+            2997802791,
+            4,
+            "A & W Food Service (Hong Kong) Limited",
+            "BLOCK A, 2/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-03"
+          ],
+          [
+            2997804168,
+            4,
+            "\u8fe6\u52d2\u5916\u8ce3",
+            "PORTION B, WORKSHOP B1, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-13"
+          ],
+          [
+            2997805286,
+            4,
+            "\u99ac\u62c9\u8336\u5ba4",
+            "WORKSHOP C8, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-10"
+          ],
+          [
+            2997805842,
+            4,
+            "Delicious Heaven",
+            "FLAT B3, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2997805985,
+            4,
+            "A & W Food Service (HONG KONG) Limited",
+            "BLOCK S, T & U, 3/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-06"
+          ],
+          [
+            2997806067,
+            4,
+            "\u91d1\u6085\u8ed2",
+            "FLAT C(7), LG/F, VALIANT INDUSTRIAL CENTRE, 2-8 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-12"
+          ],
+          [
+            2997809482,
+            4,
+            "THE BREW CORNER",
+            "FLAT A6, LG/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, FO TAN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2997810547,
+            4,
+            "\u51a0\u8208\u51cd\u8089",
+            "PORTION OF ROOM S, 2/F, VALIANT INDUSTRIAL CENTRE, 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-06"
+          ],
+          [
+            2997812659,
+            4,
+            "LA LUNA BISTRO",
+            "MINOR PORTION OF UNIT G3, LG/F, VALIANT INDUSTRIAL CENTRE, NOS. 2-12 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-03-07"
+          ],
+          [
+            2997813883,
+            4,
+            "PETITE PALATE",
+            "WORKSHOP V ON 2/F, VALIANT INDUSTRIAL CENTRE, NOS. 2-12 AU PUI WAN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697495
+        ]
+      ],
+      "coordinate": [
+        1.9930999011296977,
+        0.3909071194728643,
+        13.25
+      ],
+      "halfSize": [
+        52.788734999950975,
+        47.34851999953389,
+        7.950000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1180696637,
+        1,
+        [
+          [
+            3697001242,
+            5,
+            "PARK'N SHOP",
+            "PORTIONS OF SHOP NO. 329, 3/F, JUBILEE SQUARE, NO. 2-18 LOK KING STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-03-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697499
+        ]
+      ],
+      "coordinate": [
+        1.993159432400208,
+        0.39089137578531447,
+        24.950000762939453
+      ],
+      "halfSize": [
+        51.158650000113994,
+        53.63370500039309,
+        19.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1180696638,
+        12,
+        [
+          [
+            2997810237,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. LG301, LG3/F, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2997810273,
+            4,
+            "PARKnSHOP",
+            "STALL NO. 1, SHOP NO. G02, G/F, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2997810422,
+            4,
+            "\u4f73\u5473\u624b\u6495\u96de",
+            "STALL NO. MK 37, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-08-03"
+          ],
+          [
+            2997810556,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO. G01(PORTION), G/F, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            2997810732,
+            4,
+            "MAK KUNG",
+            "SHOP MK33, CHUN YEUNG MARKET, LG3/F, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-15"
+          ],
+          [
+            3697804377,
+            5,
+            "PARKnSHOP",
+            "PORTIONS OF SHOP NO. G02, G/F, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            3697804474,
+            5,
+            "\u5be6\u60e0\u8089\u98df\u5c08\u9580\u5e97",
+            "STALL NOS. MK 34, 35 & 36, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ],
+          [
+            3697804492,
+            5,
+            "\u91d1\u65fa\u98df\u54c1\u8d85\u7d1a\u5e02\u5834",
+            "STALL NOS. MK 1, 2 & 3 & MK 21, 22, 23 & 24, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-18"
+          ],
+          [
+            3697804535,
+            5,
+            "\u5ee3\u6771\u8089\u98df\u516c\u53f8",
+            "STALL NO. MK4, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-11-11"
+          ],
+          [
+            3697804687,
+            5,
+            "\u99ff\u6d0b\u9bae\u9b5a",
+            "STALL NO. MK9, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            3697804757,
+            5,
+            "\u6d77\u76db\u570b\u969b",
+            "STALL NOS. MK11 & MK12, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ],
+          [
+            3597800763,
+            8,
+            "Wa Kee",
+            "STALL NO. 25A, LG3/F, MARKET, CHUN YEUNG SHOPPING CENTRE, CHUN YEUNG ESTATE, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-10-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697518
+        ]
+      ],
+      "coordinate": [
+        1.9929941637147708,
+        0.3909423467561594,
+        49.400001525878906
+      ],
+      "halfSize": [
+        66.79155000019819,
+        52.662165000103414,
+        4.0
+      ]
+    },
+    {
+      "attributes": [
+        1180696639,
+        1,
+        [
+          [
+            2997811416,
+            4,
+            "\u8c61\u8336",
+            "STALL NO. MK 25B, LG3/F, CHUN YEUNG MARKET, CHUN YEUNG ESTATE, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697532
+        ]
+      ],
+      "coordinate": [
+        1.9929654775157575,
+        0.3909433461553856,
+        50.5
+      ],
+      "halfSize": [
+        12.998780000023544,
+        17.11737500037998,
+        3.0999984741210938
+      ]
+    },
+    {
+      "attributes": [
+        1180696640,
+        1,
+        [
+          [
+            2997814293,
+            4,
+            "SUBWAY FO TAN",
+            "SHOP NO. 101B, FIRST FLOOR, THE ARLES, 1 AU PUI WAN STREET, FO TAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1180697537
+        ]
+      ],
+      "coordinate": [
+        1.993116591971321,
+        0.3908737986982818,
+        17.049999237060547
+      ],
+      "halfSize": [
+        89.11877500033006,
+        70.92937000002712,
+        13.449999809265137
+      ]
+    }
+  ]
+}

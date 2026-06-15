@@ -1,0 +1,66 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1371537408,
+        1,
+        [
+          [
+            3198802249,
+            1,
+            "UPSIDEDOWN COFFEE",
+            "G/F, NO.8 TAI PO TSAI VILLAGE, CLEAR WATER BAY ROAD, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-09-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1371537739
+        ]
+      ],
+      "coordinate": [
+        1.9942025862252681,
+        0.3898524106721474,
+        134.0
+      ],
+      "halfSize": [
+        5.053175000008196,
+        3.5855200001969934,
+        3.8000030517578125
+      ]
+    },
+    {
+      "attributes": [
+        1371537409,
+        1,
+        [
+          [
+            2298803712,
+            0,
+            "ST. BARTS",
+            "SHOP 1, G/F, MOUNT PAVILIA, 663 CLEARWATER BAY ROAD, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1371538464
+        ]
+      ],
+      "coordinate": [
+        1.9942296008756222,
+        0.38982186981253136,
+        125.9000015258789
+      ],
+      "halfSize": [
+        20.333050000015646,
+        50.595734999515116,
+        3.4000015258789062
+      ]
+    }
+  ]
+}

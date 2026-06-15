@@ -1,0 +1,2397 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1231028224,
+        1,
+        [
+          [
+            2911813106,
+            4,
+            "PACIFIC COFFEE",
+            "PORTION OF G/F, 625 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-03-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028227
+        ]
+      ],
+      "coordinate": [
+        1.9932748779330767,
+        0.38907390393211994,
+        11.949999809265137
+      ],
+      "halfSize": [
+        31.740000000223517,
+        18.15999999921769,
+        7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1231028225,
+        7,
+        [
+          [
+            2911811173,
+            4,
+            "Chicken Factory",
+            "SHOP NO. U24, UG/F, FITFORT, 560 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-14"
+          ],
+          [
+            2911811483,
+            4,
+            "Kung Fu Tea (North Point)",
+            "SHOP U13, UG./F., FITFORT, 560 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2911812486,
+            4,
+            "Hana-Musubi",
+            "SHOP L31, LG/F, FITFORT, 560 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-18"
+          ],
+          [
+            2911815157,
+            4,
+            "Pizza Hut",
+            "SHOP L1, LOWER G/F, FITFORT, 560 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-03"
+          ],
+          [
+            3611801831,
+            5,
+            "Wellcome",
+            "SHOP NO. U14 (PORTIONS), UPPER G/F, FITFORT, 560 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-14"
+          ],
+          [
+            3611801929,
+            5,
+            "MINI MART",
+            "SHOP NO. U41, UPPER GROUND FLOOR, FITFORT, 560 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-17"
+          ],
+          [
+            3511800411,
+            8,
+            "Wellcome",
+            "SHOP NO. U14 (PORTION C), UPPER G/F, FITFORT, 560 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028231
+        ]
+      ],
+      "coordinate": [
+        1.9932332410578875,
+        0.3890608633217637,
+        11.899999618530273
+      ],
+      "halfSize": [
+        67.39749999996275,
+        35.762500000186265,
+        7.5
+      ]
+    },
+    {
+      "attributes": [
+        1231028226,
+        1,
+        [
+          [
+            2911184176,
+            4,
+            "Java Mama",
+            "1/F, HARBOUR PLAZA NORTH POINT, 665 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-21"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028232
+        ]
+      ],
+      "coordinate": [
+        1.9933177863827332,
+        0.3890616326943495,
+        11.649999618530273
+      ],
+      "halfSize": [
+        37.739000000059605,
+        24.037500000558794,
+        7.450000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1231028227,
+        1,
+        [
+          [
+            3611147885,
+            5,
+            "Wellcome Supermarket",
+            "SHOP B (PORTION), HEALTHY VILLAGE, 188 TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028236
+        ]
+      ],
+      "coordinate": [
+        1.9932760918265924,
+        0.3890539132631534,
+        12.949999809265137
+      ],
+      "halfSize": [
+        50.37150000035763,
+        30.006000000052154,
+        5.84999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1231028228,
+        1,
+        [
+          [
+            4611803429,
+            5,
+            "\u597d\u9bae\u751f",
+            "PORTIONS OF SHOP B, LG/F., SIU BO MANSION, NOS. 126-128B TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-05-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028237
+        ]
+      ],
+      "coordinate": [
+        1.993240854119054,
+        0.38905487644631287,
+        9.75
+      ],
+      "halfSize": [
+        9.783999999985099,
+        13.322500000707805,
+        2.8500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1231028229,
+        1,
+        [
+          [
+            2911813771,
+            4,
+            "Soup Queen",
+            "SHOP NO. 6, GROUND FLOOR, ROYAL TERRACE, NO. 933 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028253
+        ]
+      ],
+      "coordinate": [
+        1.993338085148238,
+        0.38902510101031573,
+        11.850000381469727
+      ],
+      "halfSize": [
+        19.688500000163913,
+        23.794499999843538,
+        7.549999713897705
+      ]
+    },
+    {
+      "attributes": [
+        1231028230,
+        1,
+        [
+          [
+            2911809918,
+            4,
+            "Healing Bakery",
+            "SHOP D1 ON GROUND FLOOR, BLOCK D, KING'S VIEW COURT, NOS. 901-907 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028255
+        ]
+      ],
+      "coordinate": [
+        1.993344664563018,
+        0.38901898632816373,
+        9.75
+      ],
+      "halfSize": [
+        35.5855000000447,
+        33.70050000026822,
+        5.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1231028231,
+        5,
+        [
+          [
+            2911811580,
+            4,
+            "Mecca",
+            "SHOP L ON G/F, OCEANIC BUILDING, NO. 22-46 FINNIE STREET & NO. 1-17 HOI CHAK STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-21"
+          ],
+          [
+            2911812741,
+            4,
+            "Mahjong",
+            "SHOP H, G/F., 22-46 FINNIE STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-26"
+          ],
+          [
+            2911813179,
+            4,
+            "Chickpea",
+            "SHOP D ON G/F, OCEANIC BUILDING, NOS. 22-46 FINNIE STREET & 1-17 HOI CHAK STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2911814057,
+            4,
+            "KONG FOOD",
+            "SHOP C, G/F., OCEANIC BUILDING, NOS. 22-46 FINNIE STREET & NOS. 1-17 HOI CHAK STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-17"
+          ],
+          [
+            2911814826,
+            4,
+            "(No Record Found)",
+            "SHOP E, G/F., OCEANIC BUILDING, NOS. 22-46 FINNIE STREET & NOS. 1-17 HOI CHAK STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-04"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028257
+        ]
+      ],
+      "coordinate": [
+        1.9933499391317648,
+        0.3890131616169789,
+        6.400000095367432
+      ],
+      "halfSize": [
+        12.787000000011176,
+        25.460999999195337,
+        2.200000286102295
+      ]
+    },
+    {
+      "attributes": [
+        1231028232,
+        2,
+        [
+          [
+            2911811696,
+            4,
+            "Eggdicted",
+            "SHOP 5C, G/F, DRAGON VIEW HOUSE, NOS. 6-16 HOI TAI STREET, NOS. 7-9 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-21"
+          ],
+          [
+            2911815245,
+            4,
+            "SUSHI NAKAMURAYA",
+            "SHOP 5D1A-5D1B, G/F., DRAGON VIEW HOUSE, 6-16 HOI TAI STREET & 7-9 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028261
+        ]
+      ],
+      "coordinate": [
+        1.993358747427217,
+        0.38900441525424806,
+        6.0
+      ],
+      "halfSize": [
+        17.908499999903142,
+        15.82799999974668,
+        1.6999998092651367
+      ]
+    },
+    {
+      "attributes": [
+        1231028233,
+        4,
+        [
+          [
+            2911805439,
+            4,
+            "Soupaholic",
+            "SHOP D5, G/F., RIVIERA MANSION, 2 HOI WAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-14"
+          ],
+          [
+            2911806636,
+            4,
+            "#FOTD",
+            "SHOP D-4B, G/F., RIVIERA MANSION, NO.18 HOI TAI STREET, HONG KONG",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2911810693,
+            4,
+            "GOOD CHOICE KITCHEN",
+            "SHOP D6, G/F., RIVIERA MANSION, 2A HOI WAN STREET AND 18-22 HOI TAI STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-16"
+          ],
+          [
+            2911815111,
+            4,
+            "SWEET PLACE",
+            "SHOP D-7, G/F, RIVIERA MANSION, NO. 2 HOI WAN STREET & NOS. 18, 20 & 22 HOI TAI STREET, HONG KONG",
+            null,
+            "2026-10-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028262
+        ]
+      ],
+      "coordinate": [
+        1.993365054763783,
+        0.38900150327298705,
+        6.5
+      ],
+      "halfSize": [
+        13.784500000067055,
+        17.912000000476837,
+        2.3000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1231028234,
+        1,
+        [
+          [
+            2911806779,
+            4,
+            "\u6155\u540d",
+            "SHOP 6, G/F., HON WAY MANSION, 11 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028265
+        ]
+      ],
+      "coordinate": [
+        1.9933593841059838,
+        0.38900106825788905,
+        7.0
+      ],
+      "halfSize": [
+        17.965500000398606,
+        12.724499999545515,
+        2.5
+      ]
+    },
+    {
+      "attributes": [
+        1231028235,
+        11,
+        [
+          [
+            2911224504,
+            4,
+            "Wendy\u9bae\u83d3\u79ae\u54c1\u6a02\u5712",
+            "SHOP NO. 7B-7C, G/F, HOI KWONG COURT, 15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-28"
+          ],
+          [
+            2911803099,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. 5 & 6D, G/F., HOI KWONG COURT, NOS. 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-04"
+          ],
+          [
+            2911806122,
+            4,
+            "v8\u7f8e\u98df\u8ed2",
+            "SHOP NO. 24A ON G/F., HOI KWONG COURT, NOS. 13-15 HOI KWONG STREET, HONG KONG",
+            null,
+            "2026-09-04"
+          ],
+          [
+            2911807480,
+            4,
+            "\u51dd\u9999\u5712",
+            "SHOP 22A, G/F., HOI KWONG COURT, 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-14"
+          ],
+          [
+            2911810055,
+            4,
+            "COCO ESPRESSO",
+            "SHOP 25B, G/F., HOI KWONG COURT, NO. 13 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-07"
+          ],
+          [
+            2911811933,
+            4,
+            "FATTY HAINANESE CHICKEN (HOI KWONG) LIMITED",
+            "SHOP 24B, G/F, HOI KWONG COURT, 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2911813814,
+            4,
+            "Coffee Essential",
+            "SHOP NO. 6B, G/F, HOI KWONG COURT, NOS. 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-09"
+          ],
+          [
+            2911814729,
+            4,
+            "Nuttea",
+            "SHOP NO. 6A, GROUND FLOOR, HOI KWONG COURT, NOS. 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2911815005,
+            4,
+            "KLF Coffee",
+            "SHOP 23A, G/F, HOI KWONG COURT, 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-18"
+          ],
+          [
+            2911815227,
+            4,
+            "AFFEE",
+            "SHOP NO. 23B, G/F, HOI KWONG COURT, 9-15 TONG CHONG STREET AND 13-31 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-02"
+          ],
+          [
+            3211800515,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NOS. 5 & 6D, G/F., HOI KWONG COURT, NOS. 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028266
+        ]
+      ],
+      "coordinate": [
+        1.993358924726127,
+        0.3889945068111671,
+        6.849999904632568
+      ],
+      "halfSize": [
+        18.163499999791384,
+        27.112999999895692,
+        2.8499999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1231028236,
+        21,
+        [
+          [
+            2911076464,
+            4,
+            "UNY (Vegetable)",
+            "SHOP TKS-20, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2911077582,
+            4,
+            "OKA'S",
+            "SHOP TKS-13, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2911077740,
+            4,
+            "UNY (Sushi)",
+            "SHOP TKS-19, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-09-30"
+          ],
+          [
+            2911142477,
+            4,
+            "Food Delight",
+            "SHOP TKS-12, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2027-01-05"
+          ],
+          [
+            2911801871,
+            4,
+            "Pata Negra House",
+            "SHOP TKS-14, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-10-11"
+          ],
+          [
+            2911806274,
+            4,
+            "Daihiko",
+            "SHOP TKS-17, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2911806292,
+            4,
+            "Panash",
+            "SHOP TKS-23, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-11-04"
+          ],
+          [
+            2911808872,
+            4,
+            "Event Hall",
+            "SHOP TKS-21, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2911813258,
+            4,
+            "Mos Burger",
+            "SHOP TKS-07, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2911813267,
+            4,
+            "Hello \u9244\u677f TEPPAN!",
+            "SHOP TKS-08, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2911813276,
+            4,
+            "Ageten",
+            "SHOP TKS-06, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2911813285,
+            4,
+            "Hideyoshi",
+            "SHOP TKS-10, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2911813294,
+            4,
+            "Suage Exp",
+            "SHOP TKS-09, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2911813300,
+            4,
+            "Kitanozaka",
+            "SHOP TKS-05 (MAJOR PORTION), B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-07"
+          ],
+          [
+            2911813319,
+            4,
+            "Marugame Seimen",
+            "SHOP TKS-03, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2911813328,
+            4,
+            "Yokohama Mentaishou",
+            "SHOP TKS-11, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2911813425,
+            4,
+            "Teppei Shokudo",
+            "SHOP TKS-04, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2911813975,
+            4,
+            "Meat",
+            "SHOP TKS-16, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-12-12"
+          ],
+          [
+            3611076248,
+            5,
+            "UNY (daily frozen)",
+            "PORTIONS OF B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3611080375,
+            5,
+            "UNY (fish)",
+            "SHOP TKS-18, B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3211800685,
+            6,
+            "Kitanozaka",
+            "SHOP TKS-05 (MINOR PORTION), B1/F., APITA, CITYPLAZA 2, 18 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2026-05-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028284
+        ]
+      ],
+      "coordinate": [
+        1.9934687541350542,
+        0.38897742195476087,
+        12.5
+      ],
+      "halfSize": [
+        76.23050000006333,
+        57.33200000040233,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1231028237,
+        8,
+        [
+          [
+            2911807259,
+            4,
+            "TREEHOUSE",
+            "PORTION A, 1/F., LINCOLN HOUSE, TAIKOO PLACE, NO. 979 KING'S ROAD, HONG KONG",
+            null,
+            "2027-03-28"
+          ],
+          [
+            2911807994,
+            4,
+            "NOOD FOOD",
+            "PORTION OF 5/F, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2911809246,
+            4,
+            "SALADSTOP",
+            "SHOP A, 1/F., DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2911811845,
+            4,
+            "HAVN",
+            "KIOSK A, 1/F, OXFORD HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2911811960,
+            4,
+            "Lady M",
+            "SHOP F, 1/F, DEVON HOUSE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2911814279,
+            4,
+            "Heybo",
+            "SHOP 3, G/F, DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2911815209,
+            4,
+            "Karui Bento",
+            "SHOP A, G/F, DEVON HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-30"
+          ],
+          [
+            4911815720,
+            4,
+            "Paul Lafayet",
+            "SHOP 4, GROUND FLOOR, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028288
+        ]
+      ],
+      "coordinate": [
+        1.9933560460914366,
+        0.3889790560940938,
+        13.300000190734863
+      ],
+      "halfSize": [
+        28.94150000018999,
+        18.311499999836087,
+        8.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1231028238,
+        11,
+        [
+          [
+            2911808793,
+            4,
+            "food le parc",
+            "STALL NO. 18, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2911808809,
+            4,
+            "food le parc",
+            "STALL NO. 8, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2911808818,
+            4,
+            "food le parc",
+            "STALL NO. 7, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2911808827,
+            4,
+            "food le parc",
+            "STALL NO. 9, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-04-24"
+          ],
+          [
+            2911808845,
+            4,
+            "food le parc",
+            "STALL NO. 10, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2911808854,
+            4,
+            "food le parc",
+            "STALL NO. 13, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-05-01"
+          ],
+          [
+            2911808906,
+            4,
+            "food le parc",
+            "STALL NO. 16, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-05-09"
+          ],
+          [
+            2911808924,
+            4,
+            "food le parc",
+            "STALL NO. 11, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-05-15"
+          ],
+          [
+            2911808933,
+            4,
+            "food le parc",
+            "STALL NO. 12, UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-05-15"
+          ],
+          [
+            4911815793,
+            4,
+            "(No Record Found)",
+            "PORTION A OF 1/F, WESTLANDS CENTRE, 20 WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-07"
+          ],
+          [
+            3611802029,
+            5,
+            "food le parc",
+            "STALL NO. 14, 15 & PORTIONS OF UNIT 1, 2 & 3, G/F., WESTLANDS CENTRE, NO. 20 WESTLANDS ROAD, HONG KONG",
+            null,
+            "2026-05-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028289
+        ]
+      ],
+      "coordinate": [
+        1.9933994396820862,
+        0.3889765730211314,
+        13.34999942779541
+      ],
+      "halfSize": [
+        29.875499999616295,
+        21.756499999202788,
+        7.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1231028239,
+        3,
+        [
+          [
+            2911802607,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NOS. G506-G507, G/F., NING ON MANSION, STAGE V, TAIKOO SHING, ISLAND EAST, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-26"
+          ],
+          [
+            3611027626,
+            5,
+            "Wellcome Supermarket",
+            "PORTION OF SHOP NO. G3 & G4, G/F, 7-9 TAIKOO SHING ROAD, HONG KONG",
+            null,
+            "2027-03-31"
+          ],
+          [
+            3211800223,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NOS. G506-G507, G/F., NING ON MANSION, STAGE V, TAIKOO SHING, ISLAND EAST, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028293
+        ]
+      ],
+      "coordinate": [
+        1.9935057235052427,
+        0.3889577685732192,
+        13.90000057220459
+      ],
+      "halfSize": [
+        127.27861500019208,
+        63.43159499950707,
+        9.800000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1231028240,
+        26,
+        [
+          [
+            2911801756,
+            4,
+            "GODIVA",
+            "MAJOR PORTION OF SHOP 221, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2911807383,
+            4,
+            "Ten Ren's Tea",
+            "SHOP L110C (MAJOR PORTION), UNIT 144, 1/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, ISLAND EAST, HONG KONG",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2911810578,
+            4,
+            "\u767e\u82b3\u6c60\u4e0a\u4fbf\u7576",
+            "SHOP NO. L111, UNIT 144, 1/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2911810903,
+            4,
+            "Terrace in Seaside (13)",
+            "STALL NO. 1 AT SHOP 222A, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-29"
+          ],
+          [
+            2911811614,
+            4,
+            "\u516b\u65b9\u96f2\u96c6 (DRINK PLUS)",
+            "SHOP NO. L112, UNIT 144, 1/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-10-27"
+          ],
+          [
+            2911812015,
+            4,
+            "MARKS AND SPENCER",
+            "SHOP 130 (PORTION E), 1/F, CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2027-01-27"
+          ],
+          [
+            2911813452,
+            4,
+            "(No Record Found)",
+            "UNIT A, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2911813470,
+            4,
+            "(No Record Found)",
+            "UNIT B, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2911813489,
+            4,
+            "(No Record Found)",
+            "UNIT F, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2911813498,
+            4,
+            "(No Record Found)",
+            "UNIT D, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-11"
+          ],
+          [
+            2911813504,
+            4,
+            "(No Record Found)",
+            "UNIT G, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2911813513,
+            4,
+            "(No Record Found)",
+            "UNIT C, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-12"
+          ],
+          [
+            2911813531,
+            4,
+            "(No Record Found)",
+            "UNIT E, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2911813540,
+            4,
+            "(No Record Found)",
+            "UNIT H, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-17"
+          ],
+          [
+            2911813577,
+            4,
+            "(No Record Found)",
+            "UNIT I, SHOP NO. 255 & 266, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-19"
+          ],
+          [
+            2911813586,
+            4,
+            "BLOOMS COFFEE",
+            "AREA 310, 3/F., CITYPLAZA, 18 TAI KOO SHING ROAD, TAI KOO SHING, HONG KONG",
+            null,
+            "2026-07-20"
+          ],
+          [
+            2911813878,
+            4,
+            "NODI Coffee Dot",
+            "SHOP 603, 6/F, NO. 1111 KING'S ROAD, TAI KOO SHING, HONG KONG",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2911814093,
+            4,
+            "TEA WG",
+            "PORTION A OF SHOP 257, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2027-01-30"
+          ],
+          [
+            2911814552,
+            4,
+            "Prince Bakery",
+            "SHOP 125, CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-11-20"
+          ],
+          [
+            2911814604,
+            4,
+            "MUJI (HONG KONG) COMPANY LIMITED",
+            "PORTION C, SHOP 245, 2/F, CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2027-01-16"
+          ],
+          [
+            2911814738,
+            4,
+            "HealthWorks",
+            "SHOP L119, ESLITE SPECTRUM TAIKOO STORE,UNITS 144, 1/F, CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2911814783,
+            4,
+            "\u674f\u9999\u5712\u751c\u54c1\u5e97",
+            "SHOP L128, ESLITE SPECTRUM TAIKOO STORE, UNIT 144, 1/F, CITYPLAZA, 18 TAIKOO SHING ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-19"
+          ],
+          [
+            2911814880,
+            4,
+            "BAKER BY LUBUDS",
+            "SHOP 307, 3/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-06-24"
+          ],
+          [
+            2911814899,
+            4,
+            "\u8309\u9178\u5976",
+            "SHOP 256, LEVEL 2, CITY PLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            3611802852,
+            5,
+            "MARKS AND SPENCER",
+            "SHOP 130 (PORTION F), 1/F., CITYPLAZA, 18 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2026-03-30"
+          ],
+          [
+            3211800384,
+            6,
+            "Godiva Chocolatier",
+            "MINOR PORTION OF SHOP 221, 2/F., CITYPLAZA, 18 TAIKOO SHING ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028295
+        ]
+      ],
+      "coordinate": [
+        1.99347106322472,
+        0.3889603567610165,
+        17.200000762939453
+      ],
+      "halfSize": [
+        75.88750000018626,
+        41.4144999999553,
+        11.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1231028241,
+        2,
+        [
+          [
+            2911805040,
+            4,
+            "Wellcome",
+            "SHOP B (PORTION C), UPPER G/F., SUNWAY GARDENS, 989, 991 & 991A KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-03-24"
+          ],
+          [
+            3611800272,
+            5,
+            "Wellcome",
+            "SHOP B (PORTION A), UPPER GROUND FLOOR, SUNWAYGARDENS, 989, 991 & 991A KING'S ROAD, , QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028296
+        ]
+      ],
+      "coordinate": [
+        1.993373542408124,
+        0.3889606692640661,
+        10.90000057220459
+      ],
+      "halfSize": [
+        68.56266499962658,
+        29.879500000737607,
+        6.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1231028242,
+        6,
+        [
+          [
+            2911802458,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. LG3, LG/F., WESTLANDS GARDENS, 1025-1037 KING'S ROAD , & 2-10, 12A-12H WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2911806070,
+            4,
+            "\u4e8c\u5c11\u9b5a\u86cb",
+            "PORTION A OF SHOP G5, G/F., WESTLANDS GARDENS, 1025-1037 KING'S ROAD, 2-10, 12A-12H WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-08-18"
+          ],
+          [
+            2911814330,
+            4,
+            "Nutrition Rich Food",
+            "PORTION A OF SHOP LG2A & SHOP LG2B, LG/F, WESTLANDS GARDENS, NOS. 1025-1037 KING'S ROAD, NOS. 2-10, 12A-12H WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-25"
+          ],
+          [
+            2911814419,
+            4,
+            "KUNG FU TEA",
+            "PORTION B OF SHOP G5, G/F., WESTLANDS GARDENS, NO. 1025-1037 KING'S ROAD, NO. 2-10, 12A-12H WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-08-25"
+          ],
+          [
+            3611802834,
+            5,
+            "--",
+            "PORTIONS OF SHOP NO. G7, G/F, WESTLANDS GARDENS, NOS. 1025-1037 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-03-20"
+          ],
+          [
+            3611803509,
+            5,
+            "Nutrition Rich Food",
+            "PORTIONS OF SHOP LG2A & SHOP LG2B, LG/F, WESTLANDS GARDENS, NOS. 1025-1037 KING'S ROAD, NOS. 2-10, 12A-12H WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028298
+        ]
+      ],
+      "coordinate": [
+        1.9933948302583973,
+        0.38895176125071046,
+        11.799999237060547
+      ],
+      "halfSize": [
+        50.86849999986589,
+        48.87250000052154,
+        4.599999904632568
+      ]
+    },
+    {
+      "attributes": [
+        1231028243,
+        1,
+        [
+          [
+            2911814756,
+            4,
+            "1974",
+            "PORTION OF G/F, ICAC BUILDING, 303 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-04-28"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028307
+        ]
+      ],
+      "coordinate": [
+        1.9932636861830804,
+        0.38908646025973564,
+        62.349998474121094
+      ],
+      "halfSize": [
+        34.12463499978185,
+        24.18192500062287,
+        57.849998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1231028244,
+        1,
+        [
+          [
+            2911813799,
+            4,
+            "Nute Limited",
+            "PORTION A OF UNIT 1005, 10/F., KODAK HOUSE II, NO. 39 HEALTHY STREET EAST, NO. 321 JAVA ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-11-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028309
+        ]
+      ],
+      "coordinate": [
+        1.993286097295026,
+        0.3890826806037798,
+        58.94999694824219
+      ],
+      "halfSize": [
+        40.88154499977827,
+        22.075725000351667,
+        40.150001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1231028245,
+        1,
+        [
+          [
+            2911813683,
+            4,
+            "OTERA",
+            "UNIT 3, 21/F., TECHNOLOGY PLAZA, NO. 651 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028333
+        ]
+      ],
+      "coordinate": [
+        1.99329618894122,
+        0.3890687680544463,
+        50.099998474121094
+      ],
+      "halfSize": [
+        14.91213499987498,
+        15.937045000493526,
+        45.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1231028246,
+        3,
+        [
+          [
+            2911222456,
+            4,
+            "\u8178\u7c89\u7687\u540e",
+            "SHOP C, G/F, 698 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2911811890,
+            4,
+            "\u516d\u5e2b\u5f1f\u6d77\u5357\u96de\u98ef\u5e97",
+            "SHOP 696A, G/F, NORTH POINT MANSION, 692-702 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2027-01-03"
+          ],
+          [
+            2911815087,
+            4,
+            "\u670b\u53cb\u98ef\u5802",
+            "MAJOR PORTION OF SHOP 698A, G/F., NORTH POINT MANSION, 698-702 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-10-20"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028348
+        ]
+      ],
+      "coordinate": [
+        1.9932856005346216,
+        0.3890636743595021,
+        26.5
+      ],
+      "halfSize": [
+        19.404249999672174,
+        14.456939999945462,
+        22.0
+      ]
+    },
+    {
+      "attributes": [
+        1231028247,
+        3,
+        [
+          [
+            2911800106,
+            4,
+            "\u5eb7\u751c\u9905\u5e97",
+            "MINOR PORTIION ON G/F., 199 TSAT TSZ MUI ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-07-03"
+          ],
+          [
+            2911814695,
+            4,
+            "Pop Meal",
+            "G/F OF BLOCK B, CHEUNG YUEN MANSION, NOS. 23-25 HEALTHY STREET EAST AND NOS. 195-199 TSAT TSZ MUI ROAD, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2911815096,
+            4,
+            "Bao Dim Bistro",
+            "SHOP C, G/F, CHEUNG YUEN MANSION, NOS. 23-25 HEALTHY STREET EAST AND NOS. 195-199 TSAT TSZ MUI ROAD, HONG KONG",
+            null,
+            "2026-10-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028363
+        ]
+      ],
+      "coordinate": [
+        1.9932853760662619,
+        0.38905917183885097,
+        22.150001525878906
+      ],
+      "halfSize": [
+        11.271534999832511,
+        11.362360000610352,
+        16.25
+      ]
+    },
+    {
+      "attributes": [
+        1231028248,
+        1,
+        [
+          [
+            2911808483,
+            4,
+            "NODI",
+            "PORTION OF UNIT H, 3/F., TUNG KIN FACTORY BUILDING, 196-202 TSAT TSZ MUI ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028382
+        ]
+      ],
+      "coordinate": [
+        1.9932915973354723,
+        0.38905121957308747,
+        26.350000381469727
+      ],
+      "halfSize": [
+        29.005849999841303,
+        20.9393649995327,
+        19.44999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1231028249,
+        1,
+        [
+          [
+            2911809866,
+            4,
+            "\u97d3\u7c73",
+            "SHOP B, G/F., RITZ GARDEN APARTMENTS, 927 KING'S ROAD, HONG KONG",
+            null,
+            "2026-08-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028456
+        ]
+      ],
+      "coordinate": [
+        1.9933362234928018,
+        0.3890303761784076,
+        22.350000381469727
+      ],
+      "halfSize": [
+        16.173495000228286,
+        12.880625000223517,
+        18.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1231028250,
+        1,
+        [
+          [
+            2911812617,
+            4,
+            "misugu bento",
+            "SHOP B, G/F., BLOCK D-1, RITZ GARDEN APARTMENTS, NO. 937 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028507
+        ]
+      ],
+      "coordinate": [
+        1.9933397230707373,
+        0.3890199261348858,
+        22.350000381469727
+      ],
+      "halfSize": [
+        16.10990499984473,
+        12.926025000400841,
+        17.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1231028251,
+        4,
+        [
+          [
+            2911804241,
+            4,
+            "SOUTH GARDEN KITCHEN",
+            "SHOP 2B, G/F., TOR PO MANSION, FINNIE STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2911811100,
+            4,
+            "THIS THIS RICE (QUARRY BAY) LIMITED",
+            "G/F., TOR PO MANSION, NO. 16 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-25"
+          ],
+          [
+            2911812477,
+            4,
+            "AUTUMN FEELING",
+            "SHOP NO. E5, GROUND FLOOR, TOR PO MANSION, 2 HOI TAI STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-13"
+          ],
+          [
+            2911814765,
+            4,
+            "Friends mochi bread",
+            "SHOP D9, G/F., TOR PO MANSION, 12 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028530
+        ]
+      ],
+      "coordinate": [
+        1.9933524471206965,
+        0.38900203653988136,
+        18.450000762939453
+      ],
+      "halfSize": [
+        13.909775000065565,
+        39.55511499941349,
+        14.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1231028252,
+        1,
+        [
+          [
+            2911810462,
+            4,
+            "THAI KAM HEUNG",
+            "SHOP NOS. 4 & 5, G/F., KIU YING BUILDING, NOS. 2D, 2E, 2F, 2G & 2H FINNIE STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028535
+        ]
+      ],
+      "coordinate": [
+        1.9933481232807269,
+        0.38900304635588645,
+        30.05000114440918
+      ],
+      "halfSize": [
+        10.40026000002399,
+        10.142184999771416,
+        25.649999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1231028253,
+        1,
+        [
+          [
+            2911810602,
+            4,
+            "\u51dd\u9999\u5712",
+            "SHOP A4, G/F., TOR PO MANSION, NO. 963 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028554
+        ]
+      ],
+      "coordinate": [
+        1.993345902239699,
+        0.38899987867964764,
+        18.399999618530273
+      ],
+      "halfSize": [
+        7.701384999789298,
+        2.272774999961257,
+        13.600000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1231028254,
+        2,
+        [
+          [
+            2911802786,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF G/F., NO. 963A KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-14"
+          ],
+          [
+            3211800269,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF G/F., NO. 963A KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028558
+        ]
+      ],
+      "coordinate": [
+        1.993345898936795,
+        0.3889991843854469,
+        18.899999618530273
+      ],
+      "halfSize": [
+        7.629070000257343,
+        2.4771950002759695,
+        14.19999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1231028255,
+        5,
+        [
+          [
+            2911211319,
+            4,
+            "\u6709\u9593\u5c0f\u98df\u5e97",
+            "SHOP 6A, G/F, KA WING BLDG, 4-6 HOI WAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2911804180,
+            4,
+            "HUNG FOOK TONG",
+            "SHOP NO. 6B , G/F., KA WING BUILDING, 4-6 HOI WAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-08-31"
+          ],
+          [
+            2911808711,
+            4,
+            "BUSY BEE",
+            "SHOP NO. 1, G/F., KA WING BUILDING, NOS. 4 & 6 HOI WAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2027-04-12"
+          ],
+          [
+            2911811997,
+            4,
+            "DOUGH BROS",
+            "SHOP NO. 7, G/F, KA WING BUILDING, NOS. 4 & 6 HOI WAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-23"
+          ],
+          [
+            2911814941,
+            4,
+            "MR TUU (QRB)",
+            "SHOP 8, G/F, KA WING BUILDING, 4-6 HOI WAN STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028565
+        ]
+      ],
+      "coordinate": [
+        1.9933652188739541,
+        0.3889964361508171,
+        37.150001525878906
+      ],
+      "halfSize": [
+        13.969165000133216,
+        14.015170000493526,
+        32.75
+      ]
+    },
+    {
+      "attributes": [
+        1231028256,
+        1,
+        [
+          [
+            2911810523,
+            4,
+            "SUBWAY",
+            "SHOP A7, G/F., 965A KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028566
+        ]
+      ],
+      "coordinate": [
+        1.9933460744126803,
+        0.3889977269158055,
+        18.950000762939453
+      ],
+      "halfSize": [
+        6.63556500012055,
+        2.4686249997466803,
+        14.050000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1231028257,
+        3,
+        [
+          [
+            2911805262,
+            4,
+            "AROME BAKERY",
+            "SHOP G, G/F., KING'S HOUSE, NO. 1 TONG CHONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-09"
+          ],
+          [
+            2911806982,
+            4,
+            "\u5929\u6a02\u70d8\u7119",
+            "SHOP B, G/F., KING'S HOUSE, 969 & 971 KING'S ROAD AND 1, 3 & 5 TONG CHONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-03"
+          ],
+          [
+            2911808544,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "PORTION OF SHOP A, G/F., KING'S HOUSE, NO. 969-971 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028593
+        ]
+      ],
+      "coordinate": [
+        1.993348866383894,
+        0.3889930983639894,
+        38.45000076293945
+      ],
+      "halfSize": [
+        18.433889999985695,
+        15.496179999783635,
+        33.45000076293945
+      ]
+    },
+    {
+      "attributes": [
+        1231028258,
+        1,
+        [
+          [
+            2911811720,
+            4,
+            "hier",
+            "G/F, TAI FUNG BUILDING, 34 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028596
+        ]
+      ],
+      "coordinate": [
+        1.9933530556754366,
+        0.38899284451187477,
+        18.75
+      ],
+      "halfSize": [
+        5.02322500012815,
+        14.711980000138283,
+        14.75
+      ]
+    },
+    {
+      "attributes": [
+        1231028259,
+        1,
+        [
+          [
+            2911814233,
+            4,
+            "Hashtag B",
+            "AREA A, GROUND FLOOR, BERKSHIRE HOUSE, TAIKOO PLACE, 25 WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-27"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028599
+        ]
+      ],
+      "coordinate": [
+        1.9933984381575487,
+        0.3889918094760014,
+        70.80000305175781
+      ],
+      "halfSize": [
+        23.869399999734014,
+        16.419999999925494,
+        66.5
+      ]
+    },
+    {
+      "attributes": [
+        1231028260,
+        2,
+        [
+          [
+            2911801701,
+            4,
+            "Cheong Hing Company",
+            "UNIT 5, 19/F., WESTLANDS CENTRE, 20 WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-09"
+          ],
+          [
+            2911810532,
+            4,
+            "Hong Kong Craft Distilling Co. Limited",
+            "ROOM 01, 6/F., WESTLANDS CENTRE, 20 WESTLANDS ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028634
+        ]
+      ],
+      "coordinate": [
+        1.9934000116966997,
+        0.3889765736549533,
+        46.45000076293945
+      ],
+      "halfSize": [
+        20.912039999850094,
+        21.7225200003013,
+        41.35000228881836
+      ]
+    },
+    {
+      "attributes": [
+        1231028261,
+        1,
+        [
+          [
+            2911813151,
+            4,
+            "\u5fb7\u8208",
+            "SHOP NO. F6, G/F, CHUNG HING MANSION, 981F KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-03-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028641
+        ]
+      ],
+      "coordinate": [
+        1.9933583064408797,
+        0.38897403368788874,
+        42.39999771118164
+      ],
+      "halfSize": [
+        24.98221499985084,
+        16.697035000659525,
+        36.29999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1231028262,
+        2,
+        [
+          [
+            2911172513,
+            4,
+            "Fresh bites",
+            "SHOP NO. A1, G/F, 47 PAN HOI STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-11"
+          ],
+          [
+            2911807985,
+            4,
+            "ALI BABA  KITCHEN",
+            "SHOP A3, G/F., BLOCK 2, KAM HOI MANSION, NO.47 PAN HOI STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028642
+        ]
+      ],
+      "coordinate": [
+        1.9933646035961017,
+        0.38897383029039556,
+        19.349998474121094
+      ],
+      "halfSize": [
+        10.068454999942333,
+        15.853295000270009,
+        13.249999046325684
+      ]
+    },
+    {
+      "attributes": [
+        1231028263,
+        1,
+        [
+          [
+            2911814668,
+            4,
+            "BIG GRAINS",
+            "SHOP 407, G/F, HSIA KUNG MANSION, 24 TAIKOO SHING ROAD, TAIKOO SHING, HONG KONG",
+            null,
+            "2027-04-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028649
+        ]
+      ],
+      "coordinate": [
+        1.9934384679941821,
+        0.3889724050490738,
+        43.54999923706055
+      ],
+      "halfSize": [
+        14.543714999686927,
+        15.122290000319481,
+        38.54999923706055
+      ]
+    },
+    {
+      "attributes": [
+        1231028264,
+        1,
+        [
+          [
+            2911814598,
+            4,
+            "Little Cove Espresso",
+            "AREA A, G/F., ONE ISLAND EAST, TAIKOO PLACE, 18 WESTLANDS ROAD, EASTERN, HONG KONG",
+            null,
+            "2026-12-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028665
+        ]
+      ],
+      "coordinate": [
+        1.9933996308629882,
+        0.3889657253530315,
+        155.75
+      ],
+      "halfSize": [
+        28.79020499996841,
+        31.461310000158846,
+        145.54998779296875
+      ]
+    },
+    {
+      "attributes": [
+        1231028265,
+        1,
+        [
+          [
+            3611803800,
+            5,
+            "Wellcome",
+            "PORTIONS OF SHOP NO. 1, G/F, KAM SHAN MANSION, 5 TAI FUNG AVENUE AND SHOP NO. 3, G/F, FU SHAN MANSION, 25 TAIKOO SHING ROAD, KAO SHAN TERRACE, TAIKOO SHING, HONG KONG",
+            null,
+            "2027-01-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028699
+        ]
+      ],
+      "coordinate": [
+        1.9934865256647893,
+        0.38895769214219483,
+        47.5
+      ],
+      "halfSize": [
+        16.39572500018403,
+        14.750965000130236,
+        34.30000305175781
+      ]
+    },
+    {
+      "attributes": [
+        1231028266,
+        1,
+        [
+          [
+            2911804986,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. GC17B-18 (MINOR PORTION), G/F., SITE C, NO. 35 TAI HONG STREET, LEI KING WAN, HONG KONG",
+            null,
+            "2026-03-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028718
+        ]
+      ],
+      "coordinate": [
+        1.9935802808661203,
+        0.3889536863554155,
+        34.70000076293945
+      ],
+      "halfSize": [
+        16.447490000166,
+        16.55303999967873,
+        23.099998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1231028267,
+        6,
+        [
+          [
+            2111185685,
+            1,
+            "Dragon Ball Bakery",
+            "SHOP NO. 3, G/F, 993 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-08"
+          ],
+          [
+            2911812325,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP NO. 5, G/F, TAK LEE BUILDING, 993 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2911813124,
+            4,
+            "\u5510\u9806\u8208",
+            "SHOP 15 (REAR PORTION), G/F, TAK LEE BUILDING, 993 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-22"
+          ],
+          [
+            3611803077,
+            5,
+            "XGZ Pork",
+            "SHOP NO. 9, G/F., TAK LEE BUILDING, NO. 993 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-16"
+          ],
+          [
+            3611803147,
+            5,
+            "\u8208\u767c\u9bae\u8089",
+            "SHOP NO. 16, G/F, TAK LEE BUILDING, 993 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-03"
+          ],
+          [
+            3511800590,
+            8,
+            "\u5510\u9806\u8208",
+            "SHOP 15 (FRONT PORTION), G/F, TAK LEE BUILDING, 993 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-22"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028721
+        ]
+      ],
+      "coordinate": [
+        1.9933728305614575,
+        0.3889542875062098,
+        36.75
+      ],
+      "halfSize": [
+        37.59018999990076,
+        12.763819999992847,
+        30.650001525878906
+      ]
+    },
+    {
+      "attributes": [
+        1231028268,
+        2,
+        [
+          [
+            2911810967,
+            4,
+            "% ARABICA",
+            "SHOP G01 ON GROUND LEVEL, K11 ATELIER KING'S ROAD, 728 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-02-15"
+          ],
+          [
+            4911815669,
+            4,
+            "Al Phoenix",
+            "SHOP NO. G03, GROUND LEVEL, K11 ATELIER KING'S ROAD, 728 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-03-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028772
+        ]
+      ],
+      "coordinate": [
+        1.993295666238858,
+        0.3890578137583813,
+        15.399999618530273
+      ],
+      "halfSize": [
+        35.94236999982968,
+        31.19560500048101,
+        10.899999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1231028269,
+        2,
+        [
+          [
+            2111800515,
+            1,
+            "LEVAIN",
+            "MINOR PORTION OF SHOP NO. 1 & 2, G/F., COMMERCIAL DEVELOPMENT NOVUM EAST, NO. 856 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-06-09"
+          ],
+          [
+            4611803410,
+            5,
+            "Wellcome",
+            "SHOP NO. 3 (PORTIONS), G/F., NOVUM EAST, NO. 856 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-09"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028775
+        ]
+      ],
+      "coordinate": [
+        1.9933234428226156,
+        0.38903076653952634,
+        13.600000381469727
+      ],
+      "halfSize": [
+        28.40061999997124,
+        24.79045999981463,
+        9.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1231028270,
+        1,
+        [
+          [
+            2911814181,
+            4,
+            "ISLET COFFEE LAB",
+            "SHOP 1, QUARRYSIDE, 20 HOI SHIN LANE, QUARRY BAY, HONG KONG",
+            null,
+            "2027-03-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028783
+        ]
+      ],
+      "coordinate": [
+        1.9933880776768063,
+        0.38901310957018576,
+        10.649999618530273
+      ],
+      "halfSize": [
+        10.314690000377595,
+        17.694050000049174,
+        4.349999904632568
+      ]
+    }
+  ]
+}

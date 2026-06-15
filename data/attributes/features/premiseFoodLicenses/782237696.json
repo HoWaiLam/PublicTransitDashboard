@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "attributes": [
+        782237696,
+        1,
+        [
+          [
+            3694804279,
+            5,
+            "Brilliant Food Supermarket",
+            "PORTIONS OF G/F, 71 KAM SHEUNG ROAD, KONG HA WAI, KAM TIN, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-05-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          782238718
+        ]
+      ],
+      "coordinate": [
+        1.9909355920518146,
+        0.39151012218947845,
+        16.450000762939453
+      ],
+      "halfSize": [
+        53.34010499995202,
+        44.66175499930978,
+        6.250000476837158
+      ]
+    }
+  ]
+}
