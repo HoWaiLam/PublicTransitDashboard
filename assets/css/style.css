@@ -439,6 +439,10 @@ body {
 	visibility: visible;
 }
 
+.active-background {
+	background-color: rgba(5, 5, 5, 0.75);
+}
+
 .active-border {
 	border: 1px solid rgb(100, 100, 100);
 }
@@ -574,10 +578,21 @@ body {
 .panel-content {
 	display: flex;
 	flex-direction: row;
+	flex-grow: 1;
 	gap: 0.5em;
 	padding: 0.5em;
 	transition: flex 0.5s ease-in-out;
 }
+
+.panel-content .info {
+	flex-grow: 1;
+}
+
+.panel-content .icon {
+	flex-grow: 0;
+	flex-shrink: 0;
+}
+
 
 .panel-content:hover {
 	background-color: rgba(100, 100, 100, 0.50);
